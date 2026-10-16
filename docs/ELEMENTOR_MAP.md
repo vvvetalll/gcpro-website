@@ -4,7 +4,15 @@ Environment: https://vitaliiv1.sg-host.com. Last read: 2026-10-16. IDs are insta
 
 **Verified** below means returned by the indicated read-only MCP inventory/schema/structure in this task. It does not mean the document is visually approved, every instance was tested, or frontend/editor behavior was verified. **Reported** means an earlier chat/artifact claim not fully repeated here.
 
-## Verified page inventory
+## Current Draft skeleton — E12
+
+2026-10-16 native WordPress/MCP reads now return **21 Pages: 3 published and 18 Draft**. The original six remain; 15 new blank root Drafts were added. [SEO_STRUCTURE](SEO_STRUCTURE.md#created-root-drafts-and-verified-paths) lists every actual new ID/path/family; [SEO_URL_INVENTORY.csv](SEO_URL_INVENTORY.csv) is the authoritative per-URL register. All 15 new IDs were re-read after saving exact native slugs and parent 0; MCP returns empty Elementor arrays. Native page template is Default; no family layout was built or assigned.
+
+Actual IDs: Residential 484, Commercial 499, Apply 486, Water extraction 487, Board Up 488, Odor Removal 489, Moisture mapping 490, Dehumidification 491, Service Request 492, Before And After 493, Copyright 494, Service Area 495, Contact 496, About 497, Testimonials 498. Existing Privacy Policy 3 retains `privacy-policy`, parent 0 and Draft. These are future paths, not public navigation destinations. Homepage 154 stays published/front page; full saved Homepage/Header113/Footer114 trees match pre-task reads.
+
+64 nested retained Pages remain uncreated: available parent selectors exclude Drafts and the exposed connector lacks native slug/parent writes. Do not infer child IDs. 29 posts, 13 Portfolio CPT records and 30 retained archive/taxonomy routes are mapped as the correct object models, not fabricated Pages. Staging public types do not expose Portfolio. No Component, class, Variable or template change occurred.
+
+## Historical six-page inventory — E3
 
 Source: `list-posts`, page type, 25 per page, total six returned; their URLs match the designated staging host. Status is WordPress's returned state. Titles are preserved, even when the report uses a newer milestone name.
 

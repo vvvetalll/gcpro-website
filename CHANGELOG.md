@@ -2,6 +2,16 @@
 
 Record verified delivered changes with date, scope, evidence, validation, and remaining limitations. Do not turn a plan or an uncorroborated chat statement into completed development history. Evidence definitions are in [PROJECT_CONTEXT](PROJECT_CONTEXT.md#evidence-register).
 
+## 2026-10-16 — SEO URL architecture and partial Draft skeleton
+
+- Added [SEO_STRUCTURE](docs/SEO_STRUCTURE.md) and one canonical [207-row URL register](docs/SEO_URL_INVENTORY.csv): audit 200 + two unapproved proposals + five current-only sources. Preserved original decisions and exact KEEP paths, mapped nine layout families, recorded dated live/historical metadata, headings, source content/media and internal-link dependencies. No new search metrics or redirects.
+- Created 15 verified blank root Draft Pages: 484 and 486–499. Saved native exact slugs, parent 0; reloaded/read back every row, independently checked IDs/status and empty Elementor arrays. Reused Homepage 154 and Privacy 3; total Pages now 21 (3 published, 18 Draft). No duplicate or suffixed new slugs detected.
+- Explicitly left 64 hierarchical Pages uncreated: native Parent controls exclude Drafts; exposed MCP has no native slug/parent write fields. Documented minimum supported capability needed, actual parent hub IDs and intended child paths. No publishing parents, flat-path substitutions, DB/editor-state hacks or workaround code.
+- Mapped 30 retained archive/taxonomy routes, 29 native posts and 13 Portfolio CPT details without creating duplicate Pages. Blog/Portfolio rendered archives override misleading REST Page records; staging Portfolio model is absent from exposed types. `/team/` currently 404, five current-only sources and two proposals remain eight review holds.
+- Preserved all links/navigation and deferred object linking until public availability. Contact 496/Service Request 492 exist only as Drafts, so previous missing-page statements describe the older baseline. Recorded all shared-menu destination dependencies; 32 existing Custom Links still use `#`.
+- Verified before/after native indexing restriction/front-page assignment, anonymous `noindex, nofollow`, and full saved equality of Homepage154/Header113/Footer114. No production writes, global permalink changes, visual templates, final content, new styling/code/plugins/dependencies. Responsive QA not replayed for unchanged layouts. Full database/files backup/restore remains unverified.
+- Updated context and Elementor map. Parent capability, archive/CPT/post imports, source review and migration checks remain pending; this entry does not declare the complete skeleton delivered.
+
 ## 2026-10-16 — Permanent native internal-linking rule
 
 - Added mandatory object-based internal linking to AGENTS and WORKFLOWS: Elementor Internal URL/native object selectors, WordPress object menu items, independent Component Overrides, draft/public-access rules, no duplicate pages, and documented exceptions only for demonstrated native gaps.
