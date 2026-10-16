@@ -1,0 +1,47 @@
+{
+  "icons": [
+    {
+      "colors": [
+        "rgb(26, 50, 125)",
+        "rgb(240, 90, 41)"
+      ],
+      "title": "Water Damage"
+    },
+    {
+      "colors": [
+        "rgb(26, 50, 125)",
+        "rgb(240, 90, 41)"
+      ],
+      "title": "Fire & Smoke Damage"
+    },
+    {
+      "colors": [
+        "rgb(26, 50, 125)",
+        "rgb(240, 90, 41)"
+      ],
+      "title": "Mold Remediation"
+    },
+    {
+      "colors": [
+        "rgb(26, 50, 125)",
+        "rgb(240, 90, 41)"
+      ],
+      "title": "Reconstruction"
+    },
+    {
+      "colors": [
+        "rgb(26, 50, 125)",
+        "rgb(240, 90, 41)"
+      ],
+      "title": "Storm Damage"
+    },
+    {
+      "colors": [
+        "rgb(26, 50, 125)",
+        "rgb(240, 90, 41)"
+      ],
+      "title": "Personal Property Restoration"
+    }
+  ],
+  "loggedIn": true
+}

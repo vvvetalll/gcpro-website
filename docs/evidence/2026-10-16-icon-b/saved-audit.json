@@ -1,0 +1,56 @@
+{
+  "onlySixIconAttachmentChanges": true,
+  "sharedComponent62Unchanged": true,
+  "changes": {
+    "28d9f7c": {
+      "old": 192,
+      "new": 596
+    },
+    "7ce1a666": {
+      "old": 193,
+      "new": 597
+    },
+    "4ac87e43": {
+      "old": 206,
+      "new": 598
+    },
+    "95336d4": {
+      "old": 207,
+      "new": 599
+    },
+    "318ea723": {
+      "old": 208,
+      "new": 600
+    },
+    "22d372d7": {
+      "old": 209,
+      "new": 601
+    }
+  },
+  "independence": [
+    {
+      "id": "28d9f7c",
+      "asset": 596
+    },
+    {
+      "id": "7ce1a666",
+      "asset": 193
+    },
+    {
+      "id": "4ac87e43",
+      "asset": 206
+    },
+    {
+      "id": "95336d4",
+      "asset": 207
+    },
+    {
+      "id": "318ea723",
+      "asset": 208
+    },
+    {
+      "id": "22d372d7",
+      "asset": 209
+    }
+  ]
+}

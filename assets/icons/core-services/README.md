@@ -1,6 +1,6 @@
 # GCPRO Core Restoration Services — original SVG proposals
 
-2026-10-16 · E22 · **Proposed, awaiting visual approval. Not imported or deployed.**
+2026-10-16 · E22 source study / E23 staging integration · **Owner selected B; its six icons now used on staging Homepage154. A remains an unused alternative.** [Attachment IDs, native import method and actual QA](../../../docs/milestones/2026-10-16-icon-b-integration.md).
 
 Twelve original, hand-authored vector assets for the six existing Service Card62 instances in Homepage154 section38ed6da4. No third-party icon library, raster tracing or generated bitmap is used. The two treatments deliberately share recognizable silhouettes so a future switch need not change service meaning.
 
@@ -29,7 +29,9 @@ Both: `viewBox="0 0 48 48"`, transparent background,2.25-unit stroke, round caps
 
 Card-context sheets are offline approval mockups using the existing56px badge/32px artwork, card surfaces, content and compact CTA labels. They do not prove live Elementor rendering or propose changes to card dimensions/text/destinations. Montserrat/Inter were used for offline preview text. No functioning preview buttons or new website runtime exist.
 
-## Future native Elementor import — after approval
+## Native Elementor import and future reuse
+
+E23 verified: generic WordPress Media upload rejects SVG, while existing instance → SVG Icon → Upload SVG → native Media modal imports these static assets successfully. Use that native SVG-specific entry point; no unrestricted-upload setting or new importer is needed. B colors survived on all six actual instances. The below guidance remains applicable to future reuse; independently adjustable native color channels are still not established.
 
 1. Select a concept; import only the chosen six sanitized SVGs through the existing authorized SVG Media Library workflow. Do not enable unrestricted SVG uploads or install plugins. Current upload permissions were not retested during this asset-only task.
 2. Use existing native Atomic SVG element4a4396ac in Service Card62, exposed `icon`/SVG Icon Component Override. Select the corresponding attachment independently on each Homepage instance; retain the component, badge classes and all other Overrides. Do not paste SVG into HTML widgets or detach components.

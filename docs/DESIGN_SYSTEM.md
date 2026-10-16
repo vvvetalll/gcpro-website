@@ -1,5 +1,7 @@
 # GCPRO design system
 
+E23: owner selected B; navy/orange service SVGs now applied through existing instance icon Overrides on Homepage154. Media596–601, same badge classes/geometry; no new styles/components/code. Both color channels and intended fills verified in actual frontend. Source-level colors remain explicit; native per-channel color controls not claimed. [Integration/QA](milestones/2026-10-16-icon-b-integration.md).
+
 E22 **proposed, not deployed**: [original Core Services SVG family](../assets/icons/core-services/README.md), A/currentColor outline and B/navy-orange accent.48×48,2.25 rounded strokes, six service meanings per treatment. No new Global Classes/Variables/Components or site code. Use existing SVG Icon Override only after visual approval and native color/instance tests. [Study/QA](milestones/2026-10-16-core-service-icon-concepts.md).
 
 E21 supersedes E19 CTA colors: existing button-outline-orange g-563da68 supplies transparent/orange default and orange/white hover. service-card__action g-d0416c8 keeps compact dimensions/bottom alignment/native200ms transition; its redundant navy color and state overrides removed. Orange Outline unchanged; no new resources/custom code. [Editing, contrast and QA](milestones/2026-10-16-core-orange-cta.md).

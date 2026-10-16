@@ -1,5 +1,9 @@
 # GCPRO project context
 
+## Current implementation — E23: approved B SVGs on staging
+
+2026-10-16: owner selected B. Homepage154's six Core Service Card62 instances now independently reference native Media596–601. Only six icon references changed; full Homepage otherwise matches baseline, shared62 unchanged. Existing native Atomic SVG upload succeeds despite generic Media uploader rejecting SVG; no permission/security/PHP/plugin changes. Both colors/filled accents verified authenticated and anonymous at1440/1200/900/390 after staging cache purge; native editor controls remain available. No new styles/components/code. Incognito/physical checks, existing # routes and visual review remain pending. [E23 mapping, evidence, editing and recovery](docs/milestones/2026-10-16-icon-b-integration.md).
+
 ## Latest asset proposal — E22: two original service-icon concepts
 
 2026-10-16: [Twelve SVG assets and import guide](assets/icons/core-services/README.md), A single-color outline and B navy/orange accent, with comparison and1440/390 static card-context previews. Proposed for Homepage154/Service Card62; B recommended, awaiting owner choice. Structurally validated and rendered offline at24/32/64/384px. No website/media/styles/components/runtime changed; E21 remains the current live implementation. Native asset import/Override/duotone tests deferred until approval. [E22 evidence and limitations](docs/milestones/2026-10-16-core-service-icon-concepts.md).
@@ -8,7 +12,7 @@
 
 2026-10-16: Service Card62 CTA210ecf0d reuses existing button-outline-orange; service-card__action retains compact geometry/native200ms transition, with redundant navy normal/hover/focus colors removed. All six CTAs are transparent/orange normally and orange/white on hover. Focus indicator,44px height, labels, # destinations, Overrides and card design preserved. No new resources/custom code. Logged-out1440/390/all-six hover/keyboard checks after cache purge and authenticated hover confirmed. Incognito/physical tests and existing destinations pending; fixed-brand contrast limitation documented. [E21 evidence/editing/recovery](docs/milestones/2026-10-16-core-orange-cta.md). E20 timeline and all prior unrelated implementation preserved.
 
-Last reviewed: 2026-10-16 (America/Chicago). Current implementation: Orange Outline service CTA correction E21, preserving timeline number color E20 and service cards E19. Anonymous timeline cache resolution E18 and mobile/desktop effects E17/E16 preserved. Approved SEO Page skeleton E14 and E13 archive findings remain preserved. Earlier implementation records below remain dated history.
+Last reviewed: 2026-10-16 (America/Chicago). Current implementation: approved B service SVGs E23, preserving Orange Outline CTAs E21 and timeline E20. Anonymous timeline cache resolution E18 and mobile/desktop effects E17/E16 preserved. Approved SEO Page skeleton E14 and E13 archive findings remain preserved. Earlier implementation records below remain dated history.
 
 ## Timeline number-color refinement — E20
 

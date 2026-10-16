@@ -34,6 +34,10 @@ No backup or restore procedure was executed during documentation initialization.
 
 ## Edit through Elementor
 
+### Native Atomic SVG imports — E23
+
+Use existing instance → **SVG Icon → Upload SVG → native Media modal → Select Files** for reviewed static SVG assets. E23 verified this imports the approved six navy/orange files even though ordinary WordPress Media → Add Media File rejects the same SVG type. Do not interpret that generic rejection alone as absence of native SVG support. Do not enable unrestricted uploads, add importer PHP/plugins or change security settings. Validate source as safe static vector geometry first, then read back attachment IDs and actual rendered colors; use supported per-instance SVG Overrides and verify independence. Native upload acceptance does not excuse source review or establish separate duotone color-picker support. [Exact observations/IDs/QA](milestones/2026-10-16-icon-b-integration.md).
+
 ### Anonymous delivery verification — E18
 
 After meaningful Elementor, Custom Code, CSS or JavaScript changes:
