@@ -1,0 +1,16 @@
+[
+  {
+    "status": 200,
+    "cache": "HIT",
+    "numberKeyframeCount": 1,
+    "codeStyleCount": 1,
+    "codeScriptCount": 1
+  },
+  {
+    "status": 200,
+    "cache": "HIT",
+    "numberKeyframeCount": 1,
+    "codeStyleCount": 1,
+    "codeScriptCount": 1
+  }
+]

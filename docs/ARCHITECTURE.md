@@ -1,5 +1,7 @@
 # GCPRO architecture
 
+E20: Code590 remains Homepage154-only and now includes the color-only `gcpro-process-number` keyframe in existing integrations/process-timeline-mobile.css. Reuses current hover/played triggers and stagger; no JS, theme, global typography or Atomic structure changes. [Source, timing, accessibility and QA](milestones/2026-10-16-timeline-number-color.md).
+
 E18 anonymous-delivery correction: Code590 remains unchanged and Homepage154-only. Stale SiteGround guest HTML was purged; plain-root cache HIT and logged-out browser execution verified. [Incident/limits](milestones/2026-10-16-anonymous-timeline-cache.md).
 
 ## Client-only viewport integration — E17

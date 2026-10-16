@@ -1,5 +1,10 @@
 # GCPRO changelog
 
+## 2026-10-16 — Timeline number color — E20
+
+- Extended existing Code590 CSS with one color-only keyframe: white→accent→white over1160ms, matching each unchanged ripple pair and mobile400ms stagger. Desktop whole-step trigger, existing mobile observer/state, reduced-motion gate; no JS/theme/layout/class/component changes.
+- Authenticated/guest1440 and390/430 color progression, white reset, guest no replay, reduced motion and cache HIT/current source verified. Incognito/physical-device checks pending; orange/navy normal-text contrast limitation documented. [E20](docs/milestones/2026-10-16-timeline-number-color.md).
+
 ## 2026-10-16 — Core restoration service cards — E19
 
 - Refined existing Component62 and Homepage154 grid into separated surface/border cards with SVG badges and compact outline CTAs; six services/content/link Overrides preserved. Existing service-card/grid3 reused, two native Global Classes added, no wrappers/Components/code/dependencies.

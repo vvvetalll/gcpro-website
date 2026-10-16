@@ -1,6 +1,10 @@
 # GCPRO project context
 
-Last reviewed: 2026-10-16 (America/Chicago). Current implementation: Core Restoration Services card refinement (E19). Anonymous timeline cache resolution E18 and mobile/desktop effects E17/E16 preserved. Approved SEO Page skeleton E14 and E13 archive findings remain preserved. Earlier implementation records below remain dated history.
+Last reviewed: 2026-10-16 (America/Chicago). Current implementation: ripple-synchronized number color (E20), preserving Core Services card refinement E19. Anonymous timeline cache resolution E18 and mobile/desktop effects E17/E16 preserved. Approved SEO Page skeleton E14 and E13 archive findings remain preserved. Earlier implementation records below remain dated history.
+
+## Timeline number-color refinement — E20
+
+Existing Code590 CSS adds color-only white→accent→white to each active step, synchronized with its unchanged1160ms ring pair. Desktop whole-step hover; mobile existing played marker/400ms starts. JS, theme, Classes/Variables, Component582 and saved Homepage154 unchanged. Authenticated and logged-out desktop1440/mobile390/430 color progression/reset and reduced motion verified; staging cache purged, guest HIT/source confirmed. Physical S25 Ultra/incognito checks pending for this refinement. Orange/navy contrast3.45:1 (normal-text4.5:1 limitation) recorded without changing approved colors/sizes. [E20 exact source/editing/QA/recovery](docs/milestones/2026-10-16-timeline-number-color.md).
 
 ## Core service cards — E19
 

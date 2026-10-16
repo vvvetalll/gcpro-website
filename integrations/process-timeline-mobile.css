@@ -1,5 +1,26 @@
-/* GCPRO: mobile addition only. Desktop rules/keyframes remain in the theme unchanged. */
+/* GCPRO: Homepage-scoped sequence and synchronized number color.
+ * Existing ring geometry/timing and desktop theme rules remain unchanged.
+ */
+@keyframes gcpro-process-number {
+  0%, 100% { color: var(--color-white); }
+  20%, 65% { color: var(--color-accent); }
+}
+
+@media (hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference) {
+  .process-timeline__step:hover .process-timeline__number {
+    animation: gcpro-process-number 1160ms ease-in-out 1;
+  }
+}
+
 @media (hover: none) and (pointer: coarse) and (prefers-reduced-motion: no-preference) {
+  .process-timeline[data-gcpro-ripple="played"] .process-timeline__number {
+    animation: gcpro-process-number 1160ms ease-in-out 1;
+  }
+
+  .process-timeline[data-gcpro-ripple="played"] > .process-timeline__step:nth-child(2) > .process-timeline__number { animation-delay: 400ms; }
+  .process-timeline[data-gcpro-ripple="played"] > .process-timeline__step:nth-child(3) > .process-timeline__number { animation-delay: 800ms; }
+  .process-timeline[data-gcpro-ripple="played"] > .process-timeline__step:nth-child(4) > .process-timeline__number { animation-delay: 1200ms; }
+
   .process-timeline[data-gcpro-ripple="played"] .process-timeline__number::before,
   .process-timeline[data-gcpro-ripple="played"] .process-timeline__number::after {
     content: "";

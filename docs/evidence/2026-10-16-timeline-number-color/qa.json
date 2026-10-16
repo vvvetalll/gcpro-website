@@ -1,0 +1,1615 @@
+{
+  "authenticated": {
+    "desktopBefore": {
+      "loggedIn": true,
+      "numbers": [
+        {
+          "animation": "none",
+          "bg": "rgb(26, 50, 125)",
+          "color": "rgb(255, 255, 255)",
+          "delay": "0s",
+          "duration": "0s",
+          "font": "Montserrat",
+          "fontSize": "24px",
+          "height": 64,
+          "rings": [
+            "0s",
+            "0s"
+          ],
+          "text": "01",
+          "transform": "none",
+          "width": 64
+        },
+        {
+          "animation": "none",
+          "bg": "rgb(26, 50, 125)",
+          "color": "rgb(255, 255, 255)",
+          "delay": "0s",
+          "duration": "0s",
+          "font": "Montserrat",
+          "fontSize": "24px",
+          "height": 64,
+          "rings": [
+            "0s",
+            "0s"
+          ],
+          "text": "02",
+          "transform": "none",
+          "width": 64
+        },
+        {
+          "animation": "none",
+          "bg": "rgb(26, 50, 125)",
+          "color": "rgb(255, 255, 255)",
+          "delay": "0s",
+          "duration": "0s",
+          "font": "Montserrat",
+          "fontSize": "24px",
+          "height": 64,
+          "rings": [
+            "0s",
+            "0s"
+          ],
+          "text": "03",
+          "transform": "none",
+          "width": 64
+        },
+        {
+          "animation": "none",
+          "bg": "rgb(26, 50, 125)",
+          "color": "rgb(255, 255, 255)",
+          "delay": "0s",
+          "duration": "0s",
+          "font": "Montserrat",
+          "fontSize": "24px",
+          "height": 64,
+          "rings": [
+            "0s",
+            "0s"
+          ],
+          "text": "04",
+          "transform": "none",
+          "width": 64
+        }
+      ],
+      "overflow": false,
+      "reduced": false,
+      "state": null,
+      "top": 2813.916748046875,
+      "touch": false,
+      "width": 1440
+    },
+    "desktop": {
+      "colors": [
+        [
+          "rgb(240, 90, 41)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)"
+        ],
+        [
+          "rgb(240, 90, 41)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)"
+        ],
+        [
+          "rgb(240, 90, 41)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)"
+        ],
+        [
+          "rgb(240, 90, 41)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)"
+        ],
+        [
+          "rgb(240, 90, 41)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)"
+        ],
+        [
+          "rgb(241, 98, 51)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)"
+        ],
+        [
+          "rgb(246, 156, 127)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)"
+        ],
+        [
+          "rgb(253, 230, 222)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)"
+        ],
+        [
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)"
+        ],
+        [
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)"
+        ],
+        [
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)"
+        ],
+        [
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)"
+        ],
+        [
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)"
+        ],
+        [
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)"
+        ]
+      ],
+      "states": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "overflowSeen": false,
+      "numberGeometryAndTypographyConstant": true,
+      "numberTiming": [
+        [
+          "1.16s",
+          "0s"
+        ],
+        [
+          "0s",
+          "0s"
+        ],
+        [
+          "0s",
+          "0s"
+        ],
+        [
+          "0s",
+          "0s"
+        ]
+      ],
+      "ringTiming": [
+        [
+          "1s",
+          "0.16s"
+        ],
+        [
+          "0s",
+          "0s"
+        ],
+        [
+          "0s",
+          "0s"
+        ],
+        [
+          "0s",
+          "0s"
+        ]
+      ],
+      "backgrounds": [
+        "rgb(26, 50, 125)",
+        "rgb(20, 40, 98)"
+      ]
+    },
+    "mobile": [
+      {
+        "initial": {
+          "loggedIn": true,
+          "numbers": [
+            {
+              "animation": "none",
+              "bg": "rgb(26, 50, 125)",
+              "color": "rgb(255, 255, 255)",
+              "delay": "0s",
+              "duration": "0s",
+              "font": "Montserrat",
+              "fontSize": "22px",
+              "height": 56,
+              "rings": [
+                "0s",
+                "0s"
+              ],
+              "text": "01",
+              "transform": "none",
+              "width": 56
+            },
+            {
+              "animation": "none",
+              "bg": "rgb(26, 50, 125)",
+              "color": "rgb(255, 255, 255)",
+              "delay": "0s",
+              "duration": "0s",
+              "font": "Montserrat",
+              "fontSize": "22px",
+              "height": 56,
+              "rings": [
+                "0s",
+                "0s"
+              ],
+              "text": "02",
+              "transform": "none",
+              "width": 56
+            },
+            {
+              "animation": "none",
+              "bg": "rgb(26, 50, 125)",
+              "color": "rgb(255, 255, 255)",
+              "delay": "0s",
+              "duration": "0s",
+              "font": "Montserrat",
+              "fontSize": "22px",
+              "height": 56,
+              "rings": [
+                "0s",
+                "0s"
+              ],
+              "text": "03",
+              "transform": "none",
+              "width": 56
+            },
+            {
+              "animation": "none",
+              "bg": "rgb(26, 50, 125)",
+              "color": "rgb(255, 255, 255)",
+              "delay": "0s",
+              "duration": "0s",
+              "font": "Montserrat",
+              "fontSize": "22px",
+              "height": 56,
+              "rings": [
+                "0s",
+                "0s"
+              ],
+              "text": "04",
+              "transform": "none",
+              "width": 56
+            }
+          ],
+          "overflow": false,
+          "reduced": false,
+          "state": "waiting",
+          "top": 4475.05224609375,
+          "touch": true,
+          "width": 390
+        },
+        "samples": {
+          "colors": [
+            [
+              "rgb(240, 90, 41)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)"
+            ],
+            [
+              "rgb(240, 90, 41)",
+              "rgb(254, 239, 234)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)"
+            ],
+            [
+              "rgb(240, 90, 41)",
+              "rgb(240, 90, 41)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)"
+            ],
+            [
+              "rgb(242, 116, 75)",
+              "rgb(240, 90, 41)",
+              "rgb(252, 227, 218)",
+              "rgb(255, 255, 255)"
+            ],
+            [
+              "rgb(253, 237, 232)",
+              "rgb(240, 90, 41)",
+              "rgb(240, 90, 41)",
+              "rgb(255, 255, 255)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(242, 116, 75)",
+              "rgb(240, 90, 41)",
+              "rgb(252, 227, 218)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(253, 237, 232)",
+              "rgb(240, 90, 41)",
+              "rgb(240, 90, 41)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(242, 116, 75)",
+              "rgb(240, 90, 41)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(253, 237, 232)",
+              "rgb(240, 90, 41)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(242, 109, 66)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(253, 237, 232)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)"
+            ]
+          ],
+          "states": [
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played"
+          ],
+          "overflowSeen": false,
+          "numberGeometryAndTypographyConstant": true,
+          "numberTiming": [
+            [
+              "1.16s",
+              "0s"
+            ],
+            [
+              "1.16s",
+              "0.4s"
+            ],
+            [
+              "1.16s",
+              "0.8s"
+            ],
+            [
+              "1.16s",
+              "1.2s"
+            ]
+          ],
+          "ringTiming": [
+            [
+              "1s",
+              "0.16s"
+            ],
+            [
+              "1s",
+              "0.56s"
+            ],
+            [
+              "1s",
+              "0.96s"
+            ],
+            [
+              "1s",
+              "1.36s"
+            ]
+          ],
+          "backgrounds": [
+            "rgb(26, 50, 125)"
+          ]
+        }
+      },
+      {
+        "initial": {
+          "loggedIn": true,
+          "numbers": [
+            {
+              "animation": "none",
+              "bg": "rgb(26, 50, 125)",
+              "color": "rgb(255, 255, 255)",
+              "delay": "0s",
+              "duration": "0s",
+              "font": "Montserrat",
+              "fontSize": "22px",
+              "height": 56,
+              "rings": [
+                "0s",
+                "0s"
+              ],
+              "text": "01",
+              "transform": "none",
+              "width": 56
+            },
+            {
+              "animation": "none",
+              "bg": "rgb(26, 50, 125)",
+              "color": "rgb(255, 255, 255)",
+              "delay": "0s",
+              "duration": "0s",
+              "font": "Montserrat",
+              "fontSize": "22px",
+              "height": 56,
+              "rings": [
+                "0s",
+                "0s"
+              ],
+              "text": "02",
+              "transform": "none",
+              "width": 56
+            },
+            {
+              "animation": "none",
+              "bg": "rgb(26, 50, 125)",
+              "color": "rgb(255, 255, 255)",
+              "delay": "0s",
+              "duration": "0s",
+              "font": "Montserrat",
+              "fontSize": "22px",
+              "height": 56,
+              "rings": [
+                "0s",
+                "0s"
+              ],
+              "text": "03",
+              "transform": "none",
+              "width": 56
+            },
+            {
+              "animation": "none",
+              "bg": "rgb(26, 50, 125)",
+              "color": "rgb(255, 255, 255)",
+              "delay": "0s",
+              "duration": "0s",
+              "font": "Montserrat",
+              "fontSize": "22px",
+              "height": 56,
+              "rings": [
+                "0s",
+                "0s"
+              ],
+              "text": "04",
+              "transform": "none",
+              "width": 56
+            }
+          ],
+          "overflow": false,
+          "reduced": false,
+          "state": "waiting",
+          "top": 4440.61474609375,
+          "touch": true,
+          "width": 430
+        },
+        "samples": {
+          "colors": [
+            [
+              "rgb(240, 90, 41)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)"
+            ],
+            [
+              "rgb(240, 90, 41)",
+              "rgb(252, 227, 218)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)"
+            ],
+            [
+              "rgb(240, 90, 41)",
+              "rgb(240, 90, 41)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)"
+            ],
+            [
+              "rgb(243, 125, 86)",
+              "rgb(240, 90, 41)",
+              "rgb(251, 210, 197)",
+              "rgb(255, 255, 255)"
+            ],
+            [
+              "rgb(254, 243, 240)",
+              "rgb(240, 90, 41)",
+              "rgb(240, 90, 41)",
+              "rgb(255, 255, 255)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(243, 125, 87)",
+              "rgb(240, 90, 41)",
+              "rgb(251, 210, 197)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(254, 243, 240)",
+              "rgb(240, 90, 41)",
+              "rgb(240, 90, 41)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(243, 125, 86)",
+              "rgb(240, 90, 41)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(254, 243, 239)",
+              "rgb(240, 90, 41)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(244, 134, 99)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(254, 243, 239)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)"
+            ]
+          ],
+          "states": [
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played"
+          ],
+          "overflowSeen": false,
+          "numberGeometryAndTypographyConstant": true,
+          "numberTiming": [
+            [
+              "1.16s",
+              "0s"
+            ],
+            [
+              "1.16s",
+              "0.4s"
+            ],
+            [
+              "1.16s",
+              "0.8s"
+            ],
+            [
+              "1.16s",
+              "1.2s"
+            ]
+          ],
+          "ringTiming": [
+            [
+              "1s",
+              "0.16s"
+            ],
+            [
+              "1s",
+              "0.56s"
+            ],
+            [
+              "1s",
+              "0.96s"
+            ],
+            [
+              "1s",
+              "1.36s"
+            ]
+          ],
+          "backgrounds": [
+            "rgb(26, 50, 125)"
+          ]
+        }
+      }
+    ],
+    "reduced": {
+      "loggedIn": true,
+      "numbers": [
+        {
+          "animation": "none",
+          "bg": "rgb(26, 50, 125)",
+          "color": "rgb(255, 255, 255)",
+          "delay": "0s",
+          "duration": "0s",
+          "font": "Montserrat",
+          "fontSize": "22px",
+          "height": 56,
+          "rings": [
+            "0s",
+            "0s"
+          ],
+          "text": "01",
+          "transform": "none",
+          "width": 56
+        },
+        {
+          "animation": "none",
+          "bg": "rgb(26, 50, 125)",
+          "color": "rgb(255, 255, 255)",
+          "delay": "0s",
+          "duration": "0s",
+          "font": "Montserrat",
+          "fontSize": "22px",
+          "height": 56,
+          "rings": [
+            "0s",
+            "0s"
+          ],
+          "text": "02",
+          "transform": "none",
+          "width": 56
+        },
+        {
+          "animation": "none",
+          "bg": "rgb(26, 50, 125)",
+          "color": "rgb(255, 255, 255)",
+          "delay": "0s",
+          "duration": "0s",
+          "font": "Montserrat",
+          "fontSize": "22px",
+          "height": 56,
+          "rings": [
+            "0s",
+            "0s"
+          ],
+          "text": "03",
+          "transform": "none",
+          "width": 56
+        },
+        {
+          "animation": "none",
+          "bg": "rgb(26, 50, 125)",
+          "color": "rgb(255, 255, 255)",
+          "delay": "0s",
+          "duration": "0s",
+          "font": "Montserrat",
+          "fontSize": "22px",
+          "height": 56,
+          "rings": [
+            "0s",
+            "0s"
+          ],
+          "text": "04",
+          "transform": "none",
+          "width": 56
+        }
+      ],
+      "overflow": false,
+      "reduced": true,
+      "state": null,
+      "top": 585.9479370117188,
+      "touch": true,
+      "width": 430
+    }
+  },
+  "guest": {
+    "desktopBefore": {
+      "loggedIn": false,
+      "numbers": [
+        {
+          "animation": "none",
+          "bg": "rgb(26, 50, 125)",
+          "color": "rgb(255, 255, 255)",
+          "delay": "0s",
+          "duration": "0s",
+          "font": "Montserrat",
+          "fontSize": "24px",
+          "height": 64,
+          "rings": [
+            "0s",
+            "0s"
+          ],
+          "text": "01",
+          "transform": "none",
+          "width": 64
+        },
+        {
+          "animation": "none",
+          "bg": "rgb(26, 50, 125)",
+          "color": "rgb(255, 255, 255)",
+          "delay": "0s",
+          "duration": "0s",
+          "font": "Montserrat",
+          "fontSize": "24px",
+          "height": 64,
+          "rings": [
+            "0s",
+            "0s"
+          ],
+          "text": "02",
+          "transform": "none",
+          "width": 64
+        },
+        {
+          "animation": "none",
+          "bg": "rgb(26, 50, 125)",
+          "color": "rgb(255, 255, 255)",
+          "delay": "0s",
+          "duration": "0s",
+          "font": "Montserrat",
+          "fontSize": "24px",
+          "height": 64,
+          "rings": [
+            "0s",
+            "0s"
+          ],
+          "text": "03",
+          "transform": "none",
+          "width": 64
+        },
+        {
+          "animation": "none",
+          "bg": "rgb(26, 50, 125)",
+          "color": "rgb(255, 255, 255)",
+          "delay": "0s",
+          "duration": "0s",
+          "font": "Montserrat",
+          "fontSize": "24px",
+          "height": 64,
+          "rings": [
+            "0s",
+            "0s"
+          ],
+          "text": "04",
+          "transform": "none",
+          "width": 64
+        }
+      ],
+      "overflow": false,
+      "reduced": false,
+      "state": null,
+      "top": 2780.15625,
+      "touch": false,
+      "width": 1440
+    },
+    "desktop": {
+      "colors": [
+        [
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)"
+        ],
+        [
+          "rgb(246, 152, 121)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)"
+        ],
+        [
+          "rgb(240, 90, 41)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)"
+        ],
+        [
+          "rgb(240, 90, 41)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)"
+        ],
+        [
+          "rgb(240, 90, 41)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)"
+        ],
+        [
+          "rgb(240, 90, 41)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)"
+        ],
+        [
+          "rgb(240, 92, 43)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)"
+        ],
+        [
+          "rgb(244, 135, 99)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)"
+        ],
+        [
+          "rgb(251, 212, 199)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)"
+        ],
+        [
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)"
+        ],
+        [
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)"
+        ],
+        [
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)"
+        ],
+        [
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)"
+        ],
+        [
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 255, 255)"
+        ]
+      ],
+      "states": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "overflowSeen": false,
+      "numberGeometryAndTypographyConstant": true,
+      "numberTiming": [
+        [
+          "1.16s",
+          "0s"
+        ],
+        [
+          "0s",
+          "0s"
+        ],
+        [
+          "0s",
+          "0s"
+        ],
+        [
+          "0s",
+          "0s"
+        ]
+      ],
+      "ringTiming": [
+        [
+          "1s",
+          "0.16s"
+        ],
+        [
+          "0s",
+          "0s"
+        ],
+        [
+          "0s",
+          "0s"
+        ],
+        [
+          "0s",
+          "0s"
+        ]
+      ],
+      "backgrounds": [
+        "rgb(20, 41, 100)",
+        "rgb(26, 50, 125)",
+        "rgb(20, 40, 98)"
+      ]
+    },
+    "mobile": [
+      {
+        "initial": {
+          "loggedIn": false,
+          "numbers": [
+            {
+              "animation": "none",
+              "bg": "rgb(26, 50, 125)",
+              "color": "rgb(255, 255, 255)",
+              "delay": "0s",
+              "duration": "0s",
+              "font": "Montserrat",
+              "fontSize": "22px",
+              "height": 56,
+              "rings": [
+                "0s",
+                "0s"
+              ],
+              "text": "01",
+              "transform": "none",
+              "width": 56
+            },
+            {
+              "animation": "none",
+              "bg": "rgb(26, 50, 125)",
+              "color": "rgb(255, 255, 255)",
+              "delay": "0s",
+              "duration": "0s",
+              "font": "Montserrat",
+              "fontSize": "22px",
+              "height": 56,
+              "rings": [
+                "0s",
+                "0s"
+              ],
+              "text": "02",
+              "transform": "none",
+              "width": 56
+            },
+            {
+              "animation": "none",
+              "bg": "rgb(26, 50, 125)",
+              "color": "rgb(255, 255, 255)",
+              "delay": "0s",
+              "duration": "0s",
+              "font": "Montserrat",
+              "fontSize": "22px",
+              "height": 56,
+              "rings": [
+                "0s",
+                "0s"
+              ],
+              "text": "03",
+              "transform": "none",
+              "width": 56
+            },
+            {
+              "animation": "none",
+              "bg": "rgb(26, 50, 125)",
+              "color": "rgb(255, 255, 255)",
+              "delay": "0s",
+              "duration": "0s",
+              "font": "Montserrat",
+              "fontSize": "22px",
+              "height": 56,
+              "rings": [
+                "0s",
+                "0s"
+              ],
+              "text": "04",
+              "transform": "none",
+              "width": 56
+            }
+          ],
+          "overflow": false,
+          "reduced": false,
+          "state": "waiting",
+          "top": 4429.05224609375,
+          "touch": true,
+          "width": 390
+        },
+        "samples": {
+          "colors": [
+            [
+              "rgb(240, 90, 41)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)"
+            ],
+            [
+              "rgb(240, 90, 41)",
+              "rgb(244, 133, 97)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)"
+            ],
+            [
+              "rgb(240, 90, 41)",
+              "rgb(240, 90, 41)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)"
+            ],
+            [
+              "rgb(248, 179, 157)",
+              "rgb(240, 90, 41)",
+              "rgb(242, 117, 76)",
+              "rgb(255, 255, 255)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(240, 90, 41)",
+              "rgb(240, 90, 41)",
+              "rgb(255, 255, 255)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(248, 179, 157)",
+              "rgb(240, 90, 41)",
+              "rgb(242, 117, 76)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(240, 90, 41)",
+              "rgb(240, 90, 41)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(249, 191, 172)",
+              "rgb(240, 90, 41)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(240, 92, 43)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(250, 202, 186)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)"
+            ]
+          ],
+          "states": [
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played"
+          ],
+          "overflowSeen": false,
+          "numberGeometryAndTypographyConstant": true,
+          "numberTiming": [
+            [
+              "1.16s",
+              "0s"
+            ],
+            [
+              "1.16s",
+              "0.4s"
+            ],
+            [
+              "1.16s",
+              "0.8s"
+            ],
+            [
+              "1.16s",
+              "1.2s"
+            ]
+          ],
+          "ringTiming": [
+            [
+              "1s",
+              "0.16s"
+            ],
+            [
+              "1s",
+              "0.56s"
+            ],
+            [
+              "1s",
+              "0.96s"
+            ],
+            [
+              "1s",
+              "1.36s"
+            ]
+          ],
+          "backgrounds": [
+            "rgb(26, 50, 125)"
+          ]
+        }
+      },
+      {
+        "initial": {
+          "loggedIn": false,
+          "numbers": [
+            {
+              "animation": "none",
+              "bg": "rgb(26, 50, 125)",
+              "color": "rgb(255, 255, 255)",
+              "delay": "0s",
+              "duration": "0s",
+              "font": "Montserrat",
+              "fontSize": "22px",
+              "height": 56,
+              "rings": [
+                "0s",
+                "0s"
+              ],
+              "text": "01",
+              "transform": "none",
+              "width": 56
+            },
+            {
+              "animation": "none",
+              "bg": "rgb(26, 50, 125)",
+              "color": "rgb(255, 255, 255)",
+              "delay": "0s",
+              "duration": "0s",
+              "font": "Montserrat",
+              "fontSize": "22px",
+              "height": 56,
+              "rings": [
+                "0s",
+                "0s"
+              ],
+              "text": "02",
+              "transform": "none",
+              "width": 56
+            },
+            {
+              "animation": "none",
+              "bg": "rgb(26, 50, 125)",
+              "color": "rgb(255, 255, 255)",
+              "delay": "0s",
+              "duration": "0s",
+              "font": "Montserrat",
+              "fontSize": "22px",
+              "height": 56,
+              "rings": [
+                "0s",
+                "0s"
+              ],
+              "text": "03",
+              "transform": "none",
+              "width": 56
+            },
+            {
+              "animation": "none",
+              "bg": "rgb(26, 50, 125)",
+              "color": "rgb(255, 255, 255)",
+              "delay": "0s",
+              "duration": "0s",
+              "font": "Montserrat",
+              "fontSize": "22px",
+              "height": 56,
+              "rings": [
+                "0s",
+                "0s"
+              ],
+              "text": "04",
+              "transform": "none",
+              "width": 56
+            }
+          ],
+          "overflow": false,
+          "reduced": false,
+          "state": "waiting",
+          "top": 4394.61474609375,
+          "touch": true,
+          "width": 430
+        },
+        "samples": {
+          "colors": [
+            [
+              "rgb(240, 90, 41)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)"
+            ],
+            [
+              "rgb(240, 90, 41)",
+              "rgb(246, 151, 121)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)"
+            ],
+            [
+              "rgb(240, 90, 41)",
+              "rgb(240, 90, 41)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)"
+            ],
+            [
+              "rgb(246, 156, 127)",
+              "rgb(240, 90, 41)",
+              "rgb(246, 151, 121)",
+              "rgb(255, 255, 255)"
+            ],
+            [
+              "rgb(255, 254, 253)",
+              "rgb(240, 90, 41)",
+              "rgb(240, 90, 41)",
+              "rgb(255, 255, 255)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(247, 168, 142)",
+              "rgb(240, 90, 41)",
+              "rgb(244, 133, 97)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(240, 90, 41)",
+              "rgb(240, 90, 41)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(247, 168, 142)",
+              "rgb(240, 90, 41)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(240, 90, 41)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(248, 179, 157)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)"
+            ],
+            [
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)",
+              "rgb(255, 255, 255)"
+            ]
+          ],
+          "states": [
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played",
+            "played"
+          ],
+          "overflowSeen": false,
+          "numberGeometryAndTypographyConstant": true,
+          "numberTiming": [
+            [
+              "1.16s",
+              "0s"
+            ],
+            [
+              "1.16s",
+              "0.4s"
+            ],
+            [
+              "1.16s",
+              "0.8s"
+            ],
+            [
+              "1.16s",
+              "1.2s"
+            ]
+          ],
+          "ringTiming": [
+            [
+              "1s",
+              "0.16s"
+            ],
+            [
+              "1s",
+              "0.56s"
+            ],
+            [
+              "1s",
+              "0.96s"
+            ],
+            [
+              "1s",
+              "1.36s"
+            ]
+          ],
+          "backgrounds": [
+            "rgb(26, 50, 125)"
+          ]
+        }
+      }
+    ],
+    "reentry": {
+      "loggedIn": false,
+      "numbers": [
+        {
+          "animation": "gcpro-process-number",
+          "bg": "rgb(26, 50, 125)",
+          "color": "rgb(255, 255, 255)",
+          "delay": "0s",
+          "duration": "1.16s",
+          "font": "Montserrat",
+          "fontSize": "22px",
+          "height": 56,
+          "rings": [
+            "1s",
+            "0.16s"
+          ],
+          "text": "01",
+          "transform": "none",
+          "width": 56
+        },
+        {
+          "animation": "gcpro-process-number",
+          "bg": "rgb(26, 50, 125)",
+          "color": "rgb(255, 255, 255)",
+          "delay": "0.4s",
+          "duration": "1.16s",
+          "font": "Montserrat",
+          "fontSize": "22px",
+          "height": 56,
+          "rings": [
+            "1s",
+            "0.56s"
+          ],
+          "text": "02",
+          "transform": "none",
+          "width": 56
+        },
+        {
+          "animation": "gcpro-process-number",
+          "bg": "rgb(26, 50, 125)",
+          "color": "rgb(255, 255, 255)",
+          "delay": "0.8s",
+          "duration": "1.16s",
+          "font": "Montserrat",
+          "fontSize": "22px",
+          "height": 56,
+          "rings": [
+            "1s",
+            "0.96s"
+          ],
+          "text": "03",
+          "transform": "none",
+          "width": 56
+        },
+        {
+          "animation": "gcpro-process-number",
+          "bg": "rgb(26, 50, 125)",
+          "color": "rgb(255, 255, 255)",
+          "delay": "1.2s",
+          "duration": "1.16s",
+          "font": "Montserrat",
+          "fontSize": "22px",
+          "height": 56,
+          "rings": [
+            "1s",
+            "1.36s"
+          ],
+          "text": "04",
+          "transform": "none",
+          "width": 56
+        }
+      ],
+      "overflow": false,
+      "reduced": false,
+      "state": "played",
+      "top": 4394.61474609375,
+      "touch": true,
+      "width": 430
+    },
+    "reduced": {
+      "loggedIn": false,
+      "numbers": [
+        {
+          "animation": "none",
+          "bg": "rgb(26, 50, 125)",
+          "color": "rgb(255, 255, 255)",
+          "delay": "0s",
+          "duration": "0s",
+          "font": "Montserrat",
+          "fontSize": "22px",
+          "height": 56,
+          "rings": [
+            "0s",
+            "0s"
+          ],
+          "text": "01",
+          "transform": "none",
+          "width": 56
+        },
+        {
+          "animation": "none",
+          "bg": "rgb(26, 50, 125)",
+          "color": "rgb(255, 255, 255)",
+          "delay": "0s",
+          "duration": "0s",
+          "font": "Montserrat",
+          "fontSize": "22px",
+          "height": 56,
+          "rings": [
+            "0s",
+            "0s"
+          ],
+          "text": "02",
+          "transform": "none",
+          "width": 56
+        },
+        {
+          "animation": "none",
+          "bg": "rgb(26, 50, 125)",
+          "color": "rgb(255, 255, 255)",
+          "delay": "0s",
+          "duration": "0s",
+          "font": "Montserrat",
+          "fontSize": "22px",
+          "height": 56,
+          "rings": [
+            "0s",
+            "0s"
+          ],
+          "text": "03",
+          "transform": "none",
+          "width": 56
+        },
+        {
+          "animation": "none",
+          "bg": "rgb(26, 50, 125)",
+          "color": "rgb(255, 255, 255)",
+          "delay": "0s",
+          "duration": "0s",
+          "font": "Montserrat",
+          "fontSize": "22px",
+          "height": 56,
+          "rings": [
+            "0s",
+            "0s"
+          ],
+          "text": "04",
+          "transform": "none",
+          "width": 56
+        }
+      ],
+      "overflow": false,
+      "reduced": true,
+      "state": null,
+      "top": 563.28125,
+      "touch": true,
+      "width": 430
+    },
+    "sourceExact": {
+      "css": true,
+      "js": true
+    },
+    "console": []
+  },
+  "limits": "Authenticated IAB and logged-out regular Chrome profile. No physical-device or incognito test.",
+  "checks": {
+    "savedCode590Exact": true,
+    "condition": "Published, Page #154 only",
+    "newClassesComponentsVariablesDependencies": 0,
+    "numberColorOnlyKeyframe": "gcpro-process-number",
+    "ringCssAndJavaScriptChanged": false
+  }
+}
