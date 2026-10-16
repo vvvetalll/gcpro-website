@@ -1,5 +1,10 @@
 # GCPRO changelog
 
+## 2026-10-16 — Optional section H2 accents, no H3 accents — E26
+
+- Five selected Homepage154 H2s use new section-heading--accent Global Class and one scoped generated line40×3px; existing71/Overrides unchanged. Minimal Global Class CSS required because no native decorative visibility Override was verified; source/editing location documented, no widget/local CSS, JS, theme changes or markup additions.
+- Owner then requested H3 accents removed: restored62's five-node structure, removed E25 bar/wrapper and two confirmed-unused classes. No content/SVG/CTA/link changes. Anonymous1440/1200/900/390 and authenticated/editor verification after cache purge; incognito/physical checks remain unperformed. [E26](docs/milestones/2026-10-16-section-heading-system.md).
+
 ## 2026-10-16 — Shared service-heading accent — E25
 
 - Component62 adds native36×3px orange/radius2 line below H3; one copy wrapper preserves compact8px gaps. Reuses stack/color-accent/space-xs; new reusable heading-accent and stack--tight native Global Classes. Original nodes/5 Overrides and Homepage154 tree unchanged. No local styles/custom code/components/dependencies.

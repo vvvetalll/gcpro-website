@@ -1,6 +1,12 @@
 # GCPRO project context
 
+## Current refinement — E26: selected H2 accents, H3 accents removed
+
+2026-10-16: one optional Global Class section-heading--accent g-a537304 adds40×3px orange/radius2 line to five Homepage154 H2s: Audience, Core, Process, Projects, Areas. Uses existing containers/stack/color-accent/space-sm; Component71 and three Overrides unchanged. Visibility Override not supported by inspected schema, so one documented Global Class CSS pseudo-element rule supplies the optional pattern, with no widget/local CSS, DOM additions or JS. On latest owner direction removed all card H3 bars/copy wrapper from62 and two unused E25 classes; five original nodes/Overrides preserved. Classes91→90, Variables36/Components16 unchanged. Four-width anonymous1440/1200/900/390 and authenticated/editor checks pass after cache purge. [E26 controls, CSS exception, evidence and limitations](docs/milestones/2026-10-16-section-heading-system.md). Await visual review.
+
 ## Current refinement — E25: Service Card heading accent
+
+Historical: E26 supersedes the H3 decoration and retires both E25 classes; do not reapply this design.
 
 2026-10-16: shared Component62 now places one native36×3px orange/radius2 accent below H3. Service Copy groups original heading/accent/description with8px gaps, preserving all5 Overrides and original node settings. Two justified native Global Classes: heading-accent g-01bd1bd and stack--tight g-19f58a6; existing stack/color-accent/space-xs reused. Classes89→91, Variables36/Components16 unchanged; no local styles/custom code. Homepage154 tree unchanged, six instances inherit. Anonymous1440/900/390 and authenticated1516/native editor verified after cache purge; mobile heights only+3px. [E25 editing, scope, evidence and limitations](docs/milestones/2026-10-16-service-heading-accent.md). Await visual approval.
 
@@ -20,7 +26,7 @@
 
 2026-10-16: Service Card62 CTA210ecf0d reuses existing button-outline-orange; service-card__action retains compact geometry/native200ms transition, with redundant navy normal/hover/focus colors removed. All six CTAs are transparent/orange normally and orange/white on hover. Focus indicator,44px height, labels, # destinations, Overrides and card design preserved. No new resources/custom code. Logged-out1440/390/all-six hover/keyboard checks after cache purge and authenticated hover confirmed. Incognito/physical tests and existing destinations pending; fixed-brand contrast limitation documented. [E21 evidence/editing/recovery](docs/milestones/2026-10-16-core-orange-cta.md). E20 timeline and all prior unrelated implementation preserved.
 
-Last reviewed: 2026-10-16 (America/Chicago). Current implementation: shared service-heading accent E25, preserving B icon refinement E24, Orange Outline CTAs E21 and timeline E20. Anonymous timeline cache resolution E18 and mobile/desktop effects E17/E16 preserved. Approved SEO Page skeleton E14 and E13 archive findings remain preserved. Earlier implementation records below remain dated history.
+Last reviewed: 2026-10-16 (America/Chicago). Current implementation: optional H2 accents/no H3 accents E26, preserving B icon refinement E24, Orange Outline CTAs E21 and timeline E20. Anonymous timeline cache resolution E18 and mobile/desktop effects E17/E16 preserved. Approved SEO Page skeleton E14 and E13 archive findings remain preserved. Earlier implementation records below remain dated history.
 
 ## Timeline number-color refinement — E20
 

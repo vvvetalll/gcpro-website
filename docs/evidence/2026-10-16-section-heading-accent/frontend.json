@@ -1,0 +1,3110 @@
+[
+  {
+    "existingCardAccents": 0,
+    "headings": [
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 158.375,
+        "lineHeight": "52.8px",
+        "size": "48px",
+        "tag": "H1",
+        "text": "Property restoration in Chicago",
+        "width": 625.59375,
+        "x": 144.33334350585938
+      },
+      {
+        "accent": {
+          "color": "rgb(240, 90, 41)",
+          "content": "\"\"",
+          "display": "block",
+          "gap": "16px",
+          "h": "3px",
+          "radius": "2px",
+          "w": "40px"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 55.79166793823242,
+        "lineHeight": "36.8px",
+        "size": "32px",
+        "tag": "H2",
+        "text": "Residential & Commercial Services",
+        "width": 1136,
+        "x": 144.33334350585938
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 31.197917938232425,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Residential Restoration",
+        "width": 402.6666870117187,
+        "x": 177
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 31.197917938232425,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Commercial Restoration",
+        "width": 402.6666870117187,
+        "x": 757
+      },
+      {
+        "accent": {
+          "color": "rgb(240, 90, 41)",
+          "content": "\"\"",
+          "display": "block",
+          "gap": "16px",
+          "h": "3px",
+          "radius": "2px",
+          "w": "40px"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 55.79166793823242,
+        "lineHeight": "36.8px",
+        "size": "32px",
+        "tag": "H2",
+        "text": "Core Restoration Services",
+        "width": 1136,
+        "x": 144.33334350585938
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 31.197917938232425,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Water Damage",
+        "width": 187.9375,
+        "x": 177
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 31.197917938232425,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Fire & Smoke Damage",
+        "width": 275.16668701171875,
+        "x": 563.6666870117188
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 31.197917938232425,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Mold Remediation",
+        "width": 228.17709350585935,
+        "x": 950.3333740234376
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 31.197917938232425,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Reconstruction",
+        "width": 190.27084350585935,
+        "x": 177
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 31.197917938232425,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Storm Damage",
+        "width": 188.03125,
+        "x": 563.6666870117188
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 62.39583587646485,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Personal Property Restoration",
+        "width": 297.3333435058594,
+        "x": 950.3333740234376
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 36.79166793823242,
+        "lineHeight": "36.8px",
+        "size": "32px",
+        "tag": "H2",
+        "text": "Emergency Restoration Support",
+        "width": 743.9375,
+        "x": 112.33333587646484
+      },
+      {
+        "accent": {
+          "color": "rgb(240, 90, 41)",
+          "content": "\"\"",
+          "display": "block",
+          "gap": "16px",
+          "h": "3px",
+          "radius": "2px",
+          "w": "40px"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 55.79166793823242,
+        "lineHeight": "36.8px",
+        "size": "32px",
+        "tag": "H2",
+        "text": "How We Work",
+        "width": 1136,
+        "x": 144.33334350585938
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 31.197917938232425,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Contact",
+        "width": 252,
+        "x": 144.33334350585938
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 31.197917938232425,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Assessment",
+        "width": 252,
+        "x": 428.3333435058594
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 31.197917938232425,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Restoration",
+        "width": 252,
+        "x": 712.3333740234375
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 31.197917938232425,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Review",
+        "width": 284,
+        "x": 996.3333740234376
+      },
+      {
+        "accent": {
+          "color": "rgb(240, 90, 41)",
+          "content": "\"\"",
+          "display": "block",
+          "gap": "16px",
+          "h": "3px",
+          "radius": "2px",
+          "w": "40px"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 55.79166793823242,
+        "lineHeight": "36.8px",
+        "size": "32px",
+        "tag": "H2",
+        "text": "Projects & Before / After",
+        "width": 1136,
+        "x": 144.33334350585938
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 93.59375,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Water Damage Reconstruction — Chicago",
+        "width": 314.66668701171875,
+        "x": 168.33334350585938
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 62.39583587646485,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Fire Damage Restoration — Chicago",
+        "width": 314.66668701171875,
+        "x": 555
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 62.39583587646485,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Boys and Girls Clubs — Chicago",
+        "width": 314.66668701171875,
+        "x": 941.6666870117188
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 36.79166793823242,
+        "lineHeight": "36.8px",
+        "size": "32px",
+        "tag": "H2",
+        "text": "Why Choose GCPRO",
+        "width": 556,
+        "x": 144.33334350585938
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 31.197917938232425,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Service Scope",
+        "width": 556,
+        "x": 144.33334350585938
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 31.197917938232425,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Project Coordination",
+        "width": 556,
+        "x": 144.33334350585938
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 31.197917938232425,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Progress Information",
+        "width": 556,
+        "x": 144.33334350585938
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 36.79166793823242,
+        "lineHeight": "36.8px",
+        "size": "32px",
+        "tag": "H2",
+        "text": "Testimonials",
+        "width": 556,
+        "x": 724.3333740234375
+      },
+      {
+        "accent": {
+          "color": "rgb(240, 90, 41)",
+          "content": "\"\"",
+          "display": "block",
+          "gap": "16px",
+          "h": "3px",
+          "radius": "2px",
+          "w": "40px"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 55.79166793823242,
+        "lineHeight": "36.8px",
+        "size": "32px",
+        "tag": "H2",
+        "text": "Service Areas",
+        "width": 556,
+        "x": 144.33334350585938
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 31.197917938232425,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Do We Serve Your Area?",
+        "width": 490.6666870117187,
+        "x": 757
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 36.79166793823242,
+        "lineHeight": "36.8px",
+        "size": "32px",
+        "tag": "H2",
+        "text": "Discuss Your Restoration Needs",
+        "width": 1040,
+        "x": 192.33334350585935
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 22.39583396911621,
+        "lineHeight": "22.4px",
+        "size": "16px",
+        "tag": "H2",
+        "text": "Explore",
+        "width": 346.66668701171875,
+        "x": 539
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 22.39583396911621,
+        "lineHeight": "22.4px",
+        "size": "16px",
+        "tag": "H2",
+        "text": "Contact",
+        "width": 346.66668701171875,
+        "x": 933.6666870117188
+      }
+    ],
+    "links": [
+      {
+        "href": "tel:+18476563322",
+        "label": "\n\tCALL 847-656-3322\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tREQUEST SERVICE\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \n    \t\t\tResidential Restoration Photo - 16:9\n\t\t\n\n\n    \n    \t\t\tResidential Restoration\n\t\t\t\t\tHomes, condos and personal property.\n\t\t\n\n\n    \t\t\t\n\t\t\n\n\n\n\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \n    \t\t\tCommercial Restoration Photo - 16:9\n\t\t\n\n\n    \n    \t\t\tCommercial Restoration\n\t\t\t\t\tOffices, retail, facilities and multi-unit buildings.\n\t\t\n\n\n    \t\t\t\n\t\t\n\n\n\n\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tWater Damage Services\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tFire & Smoke Services\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tMold Services\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tReconstruction Services\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tStorm Damage Services\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tProperty Restoration\n"
+      },
+      {
+        "href": "tel:+18476563322",
+        "label": "\n\tCall 847-656-3322\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tRequest Service\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tWater Damage Reconstruction — Chicago\n\t\t\t\t\tProject summary placeholder. Photos, scope and outcome require approval.\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tFire Damage Restoration — Chicago\n\t\t\t\t\tProject summary placeholder. Photos, scope and outcome require approval.\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tBoys and Girls Clubs — Chicago\n\t\t\t\t\tProject summary placeholder. Photos, scope and outcome require approval.\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tView All Projects\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tBefore & After\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tView Testimonials\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tLombard\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tDowners Grove\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tHighland Park\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tElmhurst\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tElk Grove Village\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tBridgeview\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tNaperville\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tGlenview\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tAll Service Areas\n"
+      },
+      {
+        "href": "tel:+18476563322",
+        "label": "\n\tCALL 847-656-3322\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tREQUEST SERVICE\n"
+      }
+    ],
+    "loggedIn": false,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "existingCardAccents": 0,
+    "headings": [
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 158.375,
+        "lineHeight": "52.8px",
+        "size": "48px",
+        "tag": "H1",
+        "text": "Property restoration in Chicago",
+        "width": 616.78125,
+        "x": 32
+      },
+      {
+        "accent": {
+          "color": "rgb(240, 90, 41)",
+          "content": "\"\"",
+          "display": "block",
+          "gap": "16px",
+          "h": "3px",
+          "radius": "2px",
+          "w": "40px"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 55.79166793823242,
+        "lineHeight": "36.8px",
+        "size": "32px",
+        "tag": "H2",
+        "text": "Residential & Commercial Services",
+        "width": 1120.666748046875,
+        "x": 32
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 31.197917938232425,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Residential Restoration",
+        "width": 395,
+        "x": 64.66667175292969
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 31.197917938232425,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Commercial Restoration",
+        "width": 395,
+        "x": 637
+      },
+      {
+        "accent": {
+          "color": "rgb(240, 90, 41)",
+          "content": "\"\"",
+          "display": "block",
+          "gap": "16px",
+          "h": "3px",
+          "radius": "2px",
+          "w": "40px"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 55.79166793823242,
+        "lineHeight": "36.8px",
+        "size": "32px",
+        "tag": "H2",
+        "text": "Core Restoration Services",
+        "width": 1120.666748046875,
+        "x": 32
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 31.197917938232425,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Water Damage",
+        "width": 187.9375,
+        "x": 64.66667175292969
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 31.197917938232425,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Fire & Smoke Damage",
+        "width": 275.16668701171875,
+        "x": 446.21875
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 31.197917938232425,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Mold Remediation",
+        "width": 228.17709350585935,
+        "x": 827.7708740234375
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 31.197917938232425,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Reconstruction",
+        "width": 190.27084350585935,
+        "x": 64.66667175292969
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 31.197917938232425,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Storm Damage",
+        "width": 188.03125,
+        "x": 446.21875
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 62.39583587646485,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Personal Property Restoration",
+        "width": 292.21875,
+        "x": 827.7708740234375
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 36.79166793823242,
+        "lineHeight": "36.8px",
+        "size": "32px",
+        "tag": "H2",
+        "text": "Emergency Restoration Support",
+        "width": 728.6041870117188,
+        "x": 0
+      },
+      {
+        "accent": {
+          "color": "rgb(240, 90, 41)",
+          "content": "\"\"",
+          "display": "block",
+          "gap": "16px",
+          "h": "3px",
+          "radius": "2px",
+          "w": "40px"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 55.79166793823242,
+        "lineHeight": "36.8px",
+        "size": "32px",
+        "tag": "H2",
+        "text": "How We Work",
+        "width": 1120.666748046875,
+        "x": 32
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 31.197917938232425,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Contact",
+        "width": 248.1666717529297,
+        "x": 32
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 31.197917938232425,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Assessment",
+        "width": 248.1666717529297,
+        "x": 312.16668701171875
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 31.197917938232425,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Restoration",
+        "width": 248.1666717529297,
+        "x": 592.3333740234375
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 31.197917938232425,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Review",
+        "width": 280.16668701171875,
+        "x": 872.5
+      },
+      {
+        "accent": {
+          "color": "rgb(240, 90, 41)",
+          "content": "\"\"",
+          "display": "block",
+          "gap": "16px",
+          "h": "3px",
+          "radius": "2px",
+          "w": "40px"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 55.79166793823242,
+        "lineHeight": "36.8px",
+        "size": "32px",
+        "tag": "H2",
+        "text": "Projects & Before / After",
+        "width": 1120.666748046875,
+        "x": 32
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 93.59375,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Water Damage Reconstruction — Chicago",
+        "width": 309.5520935058594,
+        "x": 56
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 62.39583587646485,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Fire Damage Restoration — Chicago",
+        "width": 309.5520935058594,
+        "x": 437.5520935058594
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 62.39583587646485,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Boys and Girls Clubs — Chicago",
+        "width": 309.5520935058594,
+        "x": 819.1041870117188
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 36.79166793823242,
+        "lineHeight": "36.8px",
+        "size": "32px",
+        "tag": "H2",
+        "text": "Why Choose GCPRO",
+        "width": 548.3333740234375,
+        "x": 32
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 31.197917938232425,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Service Scope",
+        "width": 548.3333740234375,
+        "x": 32
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 31.197917938232425,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Project Coordination",
+        "width": 548.3333740234375,
+        "x": 32
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 31.197917938232425,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Progress Information",
+        "width": 548.3333740234375,
+        "x": 32
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 36.79166793823242,
+        "lineHeight": "36.8px",
+        "size": "32px",
+        "tag": "H2",
+        "text": "Testimonials",
+        "width": 548.3333740234375,
+        "x": 604.3333740234375
+      },
+      {
+        "accent": {
+          "color": "rgb(240, 90, 41)",
+          "content": "\"\"",
+          "display": "block",
+          "gap": "16px",
+          "h": "3px",
+          "radius": "2px",
+          "w": "40px"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 55.79166793823242,
+        "lineHeight": "36.8px",
+        "size": "32px",
+        "tag": "H2",
+        "text": "Service Areas",
+        "width": 548.3333740234375,
+        "x": 32
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 31.197917938232425,
+        "lineHeight": "31.2px",
+        "size": "24px",
+        "tag": "H3",
+        "text": "Do We Serve Your Area?",
+        "width": 483,
+        "x": 637
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 36.79166793823242,
+        "lineHeight": "36.8px",
+        "size": "32px",
+        "tag": "H2",
+        "text": "Discuss Your Restoration Needs",
+        "width": 1024.666748046875,
+        "x": 80
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 22.39583396911621,
+        "lineHeight": "22.4px",
+        "size": "16px",
+        "tag": "H2",
+        "text": "Explore",
+        "width": 341.5625,
+        "x": 421.5520935058594
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 22.39583396911621,
+        "lineHeight": "22.4px",
+        "size": "16px",
+        "tag": "H2",
+        "text": "Contact",
+        "width": 341.5520935058594,
+        "x": 811.1146240234375
+      }
+    ],
+    "links": [
+      {
+        "href": "tel:+18476563322",
+        "label": "\n\tCALL 847-656-3322\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tREQUEST SERVICE\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \n    \t\t\tResidential Restoration Photo - 16:9\n\t\t\n\n\n    \n    \t\t\tResidential Restoration\n\t\t\t\t\tHomes, condos and personal property.\n\t\t\n\n\n    \t\t\t\n\t\t\n\n\n\n\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \n    \t\t\tCommercial Restoration Photo - 16:9\n\t\t\n\n\n    \n    \t\t\tCommercial Restoration\n\t\t\t\t\tOffices, retail, facilities and multi-unit buildings.\n\t\t\n\n\n    \t\t\t\n\t\t\n\n\n\n\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tWater Damage Services\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tFire & Smoke Services\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tMold Services\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tReconstruction Services\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tStorm Damage Services\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tProperty Restoration\n"
+      },
+      {
+        "href": "tel:+18476563322",
+        "label": "\n\tCall 847-656-3322\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tRequest Service\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tWater Damage Reconstruction — Chicago\n\t\t\t\t\tProject summary placeholder. Photos, scope and outcome require approval.\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tFire Damage Restoration — Chicago\n\t\t\t\t\tProject summary placeholder. Photos, scope and outcome require approval.\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tBoys and Girls Clubs — Chicago\n\t\t\t\t\tProject summary placeholder. Photos, scope and outcome require approval.\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tView All Projects\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tBefore & After\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tView Testimonials\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tLombard\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tDowners Grove\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tHighland Park\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tElmhurst\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tElk Grove Village\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tBridgeview\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tNaperville\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tGlenview\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tAll Service Areas\n"
+      },
+      {
+        "href": "tel:+18476563322",
+        "label": "\n\tCALL 847-656-3322\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tREQUEST SERVICE\n"
+      }
+    ],
+    "loggedIn": false,
+    "overflow": false,
+    "width": 1200
+  },
+  {
+    "existingCardAccents": 0,
+    "headings": [
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 158.375,
+        "lineHeight": "52.8px",
+        "size": "48px",
+        "tag": "H1",
+        "text": "Property restoration in Chicago",
+        "width": 394.3333435058594,
+        "x": 32
+      },
+      {
+        "accent": {
+          "color": "rgb(240, 90, 41)",
+          "content": "\"\"",
+          "display": "block",
+          "gap": "16px",
+          "h": "3px",
+          "radius": "2px",
+          "w": "40px"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 51.19791793823242,
+        "lineHeight": "32.2px",
+        "size": "28px",
+        "tag": "H2",
+        "text": "Residential & Commercial Services",
+        "width": 820.6666870117188,
+        "x": 32
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 57.1875,
+        "lineHeight": "28.6px",
+        "size": "22px",
+        "tag": "H3",
+        "text": "Residential Restoration",
+        "width": 245,
+        "x": 64.66667175292969
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 57.1875,
+        "lineHeight": "28.6px",
+        "size": "22px",
+        "tag": "H3",
+        "text": "Commercial Restoration",
+        "width": 245,
+        "x": 487
+      },
+      {
+        "accent": {
+          "color": "rgb(240, 90, 41)",
+          "content": "\"\"",
+          "display": "block",
+          "gap": "16px",
+          "h": "3px",
+          "radius": "2px",
+          "w": "40px"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 51.19791793823242,
+        "lineHeight": "32.2px",
+        "size": "28px",
+        "tag": "H2",
+        "text": "Core Restoration Services",
+        "width": 820.6666870117188,
+        "x": 32
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 28.59375,
+        "lineHeight": "28.6px",
+        "size": "22px",
+        "tag": "H3",
+        "text": "Water Damage",
+        "width": 172.28125,
+        "x": 64.66667175292969
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 28.59375,
+        "lineHeight": "28.6px",
+        "size": "22px",
+        "tag": "H3",
+        "text": "Fire & Smoke Damage",
+        "width": 252.23959350585935,
+        "x": 487
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 28.59375,
+        "lineHeight": "28.6px",
+        "size": "22px",
+        "tag": "H3",
+        "text": "Mold Remediation",
+        "width": 209.1666717529297,
+        "x": 64.66667175292969
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 28.59375,
+        "lineHeight": "28.6px",
+        "size": "22px",
+        "tag": "H3",
+        "text": "Reconstruction",
+        "width": 174.4166717529297,
+        "x": 487
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 28.59375,
+        "lineHeight": "28.6px",
+        "size": "22px",
+        "tag": "H3",
+        "text": "Storm Damage",
+        "width": 172.36459350585938,
+        "x": 64.66667175292969
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 57.1875,
+        "lineHeight": "28.6px",
+        "size": "22px",
+        "tag": "H3",
+        "text": "Personal Property Restoration",
+        "width": 333,
+        "x": 487
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 32.19791793823242,
+        "lineHeight": "32.2px",
+        "size": "28px",
+        "tag": "H2",
+        "text": "Emergency Restoration Support",
+        "width": 884.6666870117188,
+        "x": 0
+      },
+      {
+        "accent": {
+          "color": "rgb(240, 90, 41)",
+          "content": "\"\"",
+          "display": "block",
+          "gap": "16px",
+          "h": "3px",
+          "radius": "2px",
+          "w": "40px"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 51.19791793823242,
+        "lineHeight": "32.2px",
+        "size": "28px",
+        "tag": "H2",
+        "text": "How We Work",
+        "width": 820.6666870117188,
+        "x": 32
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 28.59375,
+        "lineHeight": "28.6px",
+        "size": "22px",
+        "tag": "H3",
+        "text": "Contact",
+        "width": 740.6666870117188,
+        "x": 112
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 28.59375,
+        "lineHeight": "28.6px",
+        "size": "22px",
+        "tag": "H3",
+        "text": "Assessment",
+        "width": 740.6666870117188,
+        "x": 112
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 28.59375,
+        "lineHeight": "28.6px",
+        "size": "22px",
+        "tag": "H3",
+        "text": "Restoration",
+        "width": 740.6666870117188,
+        "x": 112
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 28.59375,
+        "lineHeight": "28.6px",
+        "size": "22px",
+        "tag": "H3",
+        "text": "Review",
+        "width": 740.6666870117188,
+        "x": 112
+      },
+      {
+        "accent": {
+          "color": "rgb(240, 90, 41)",
+          "content": "\"\"",
+          "display": "block",
+          "gap": "16px",
+          "h": "3px",
+          "radius": "2px",
+          "w": "40px"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 51.19791793823242,
+        "lineHeight": "32.2px",
+        "size": "28px",
+        "tag": "H2",
+        "text": "Projects & Before / After",
+        "width": 820.6666870117188,
+        "x": 32
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 57.1875,
+        "lineHeight": "28.6px",
+        "size": "22px",
+        "tag": "H3",
+        "text": "Water Damage Reconstruction — Chicago",
+        "width": 350.3333435058594,
+        "x": 56
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 57.1875,
+        "lineHeight": "28.6px",
+        "size": "22px",
+        "tag": "H3",
+        "text": "Fire Damage Restoration — Chicago",
+        "width": 350.3333435058594,
+        "x": 478.3333435058594
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 57.1875,
+        "lineHeight": "28.6px",
+        "size": "22px",
+        "tag": "H3",
+        "text": "Boys and Girls Clubs — Chicago",
+        "width": 350.3333435058594,
+        "x": 56
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 32.19791793823242,
+        "lineHeight": "32.2px",
+        "size": "28px",
+        "tag": "H2",
+        "text": "Why Choose GCPRO",
+        "width": 398.3333435058594,
+        "x": 32
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 28.59375,
+        "lineHeight": "28.6px",
+        "size": "22px",
+        "tag": "H3",
+        "text": "Service Scope",
+        "width": 398.3333435058594,
+        "x": 32
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 28.59375,
+        "lineHeight": "28.6px",
+        "size": "22px",
+        "tag": "H3",
+        "text": "Project Coordination",
+        "width": 398.3333435058594,
+        "x": 32
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 28.59375,
+        "lineHeight": "28.6px",
+        "size": "22px",
+        "tag": "H3",
+        "text": "Progress Information",
+        "width": 398.3333435058594,
+        "x": 32
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 32.19791793823242,
+        "lineHeight": "32.2px",
+        "size": "28px",
+        "tag": "H2",
+        "text": "Testimonials",
+        "width": 398.3333435058594,
+        "x": 454.3333435058594
+      },
+      {
+        "accent": {
+          "color": "rgb(240, 90, 41)",
+          "content": "\"\"",
+          "display": "block",
+          "gap": "16px",
+          "h": "3px",
+          "radius": "2px",
+          "w": "40px"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 51.19791793823242,
+        "lineHeight": "32.2px",
+        "size": "28px",
+        "tag": "H2",
+        "text": "Service Areas",
+        "width": 398.3333435058594,
+        "x": 32
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 28.59375,
+        "lineHeight": "28.6px",
+        "size": "22px",
+        "tag": "H3",
+        "text": "Do We Serve Your Area?",
+        "width": 333,
+        "x": 487
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 32.19791793823242,
+        "lineHeight": "32.2px",
+        "size": "28px",
+        "tag": "H2",
+        "text": "Discuss Your Restoration Needs",
+        "width": 724.6666870117188,
+        "x": 80
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 22.39583396911621,
+        "lineHeight": "22.4px",
+        "size": "16px",
+        "tag": "H2",
+        "text": "Explore",
+        "width": 252.2291717529297,
+        "x": 316.21875
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 22.39583396911621,
+        "lineHeight": "22.4px",
+        "size": "16px",
+        "tag": "H2",
+        "text": "Contact",
+        "width": 252.21875,
+        "x": 600.4479370117188
+      }
+    ],
+    "links": [
+      {
+        "href": "tel:+18476563322",
+        "label": "\n\tCALL 847-656-3322\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tREQUEST SERVICE\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \n    \t\t\tResidential Restoration Photo - 16:9\n\t\t\n\n\n    \n    \t\t\tResidential Restoration\n\t\t\t\t\tHomes, condos and personal property.\n\t\t\n\n\n    \t\t\t\n\t\t\n\n\n\n\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \n    \t\t\tCommercial Restoration Photo - 16:9\n\t\t\n\n\n    \n    \t\t\tCommercial Restoration\n\t\t\t\t\tOffices, retail, facilities and multi-unit buildings.\n\t\t\n\n\n    \t\t\t\n\t\t\n\n\n\n\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tWater Damage Services\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tFire & Smoke Services\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tMold Services\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tReconstruction Services\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tStorm Damage Services\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tProperty Restoration\n"
+      },
+      {
+        "href": "tel:+18476563322",
+        "label": "\n\tCall 847-656-3322\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tRequest Service\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tWater Damage Reconstruction — Chicago\n\t\t\t\t\tProject summary placeholder. Photos, scope and outcome require approval.\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tFire Damage Restoration — Chicago\n\t\t\t\t\tProject summary placeholder. Photos, scope and outcome require approval.\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tBoys and Girls Clubs — Chicago\n\t\t\t\t\tProject summary placeholder. Photos, scope and outcome require approval.\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tView All Projects\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tBefore & After\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tView Testimonials\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tLombard\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tDowners Grove\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tHighland Park\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tElmhurst\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tElk Grove Village\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tBridgeview\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tNaperville\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tGlenview\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tAll Service Areas\n"
+      },
+      {
+        "href": "tel:+18476563322",
+        "label": "\n\tCALL 847-656-3322\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tREQUEST SERVICE\n"
+      }
+    ],
+    "loggedIn": false,
+    "overflow": false,
+    "width": 900
+  },
+  {
+    "existingCardAccents": 0,
+    "headings": [
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 132,
+        "lineHeight": "44px",
+        "size": "40px",
+        "tag": "H1",
+        "text": "Property restoration in Chicago",
+        "width": 350,
+        "x": 20
+      },
+      {
+        "accent": {
+          "color": "rgb(240, 90, 41)",
+          "content": "\"\"",
+          "display": "block",
+          "gap": "16px",
+          "h": "3px",
+          "radius": "2px",
+          "w": "40px"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 74.1875,
+        "lineHeight": "27.6px",
+        "size": "24px",
+        "tag": "H2",
+        "text": "Residential & Commercial Services",
+        "width": 350,
+        "x": 20
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 52,
+        "lineHeight": "26px",
+        "size": "20px",
+        "tag": "H3",
+        "text": "Residential Restoration",
+        "width": 232.6666717529297,
+        "x": 44.66666793823242
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 52,
+        "lineHeight": "26px",
+        "size": "20px",
+        "tag": "H3",
+        "text": "Commercial Restoration",
+        "width": 232.6666717529297,
+        "x": 44.66666793823242
+      },
+      {
+        "accent": {
+          "color": "rgb(240, 90, 41)",
+          "content": "\"\"",
+          "display": "block",
+          "gap": "16px",
+          "h": "3px",
+          "radius": "2px",
+          "w": "40px"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 74.1875,
+        "lineHeight": "27.6px",
+        "size": "24px",
+        "tag": "H2",
+        "text": "Core Restoration Services",
+        "width": 350,
+        "x": 20
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 26,
+        "lineHeight": "26px",
+        "size": "20px",
+        "tag": "H3",
+        "text": "Water Damage",
+        "width": 156.61459350585938,
+        "x": 44.66666793823242
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 26,
+        "lineHeight": "26px",
+        "size": "20px",
+        "tag": "H3",
+        "text": "Fire & Smoke Damage",
+        "width": 229.30209350585935,
+        "x": 44.66666793823242
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 26,
+        "lineHeight": "26px",
+        "size": "20px",
+        "tag": "H3",
+        "text": "Mold Remediation",
+        "width": 190.15625,
+        "x": 44.66666793823242
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 26,
+        "lineHeight": "26px",
+        "size": "20px",
+        "tag": "H3",
+        "text": "Reconstruction",
+        "width": 158.5625,
+        "x": 44.66666793823242
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 26,
+        "lineHeight": "26px",
+        "size": "20px",
+        "tag": "H3",
+        "text": "Storm Damage",
+        "width": 156.6979217529297,
+        "x": 44.66666793823242
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 52,
+        "lineHeight": "26px",
+        "size": "20px",
+        "tag": "H3",
+        "text": "Personal Property Restoration",
+        "width": 300.66668701171875,
+        "x": 44.66666793823242
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 55.1875,
+        "lineHeight": "27.6px",
+        "size": "24px",
+        "tag": "H2",
+        "text": "Emergency Restoration Support",
+        "width": 350,
+        "x": 20
+      },
+      {
+        "accent": {
+          "color": "rgb(240, 90, 41)",
+          "content": "\"\"",
+          "display": "block",
+          "gap": "16px",
+          "h": "3px",
+          "radius": "2px",
+          "w": "40px"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 46.59375,
+        "lineHeight": "27.6px",
+        "size": "24px",
+        "tag": "H2",
+        "text": "How We Work",
+        "width": 350,
+        "x": 20
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 26,
+        "lineHeight": "26px",
+        "size": "20px",
+        "tag": "H3",
+        "text": "Contact",
+        "width": 278,
+        "x": 92
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 26,
+        "lineHeight": "26px",
+        "size": "20px",
+        "tag": "H3",
+        "text": "Assessment",
+        "width": 278,
+        "x": 92
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 26,
+        "lineHeight": "26px",
+        "size": "20px",
+        "tag": "H3",
+        "text": "Restoration",
+        "width": 278,
+        "x": 92
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 26,
+        "lineHeight": "26px",
+        "size": "20px",
+        "tag": "H3",
+        "text": "Review",
+        "width": 278,
+        "x": 92
+      },
+      {
+        "accent": {
+          "color": "rgb(240, 90, 41)",
+          "content": "\"\"",
+          "display": "block",
+          "gap": "16px",
+          "h": "3px",
+          "radius": "2px",
+          "w": "40px"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 74.1875,
+        "lineHeight": "27.6px",
+        "size": "24px",
+        "tag": "H2",
+        "text": "Projects & Before / After",
+        "width": 350,
+        "x": 20
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 52,
+        "lineHeight": "26px",
+        "size": "20px",
+        "tag": "H3",
+        "text": "Water Damage Reconstruction — Chicago",
+        "width": 302,
+        "x": 44
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 52,
+        "lineHeight": "26px",
+        "size": "20px",
+        "tag": "H3",
+        "text": "Fire Damage Restoration — Chicago",
+        "width": 302,
+        "x": 44
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 52,
+        "lineHeight": "26px",
+        "size": "20px",
+        "tag": "H3",
+        "text": "Boys and Girls Clubs — Chicago",
+        "width": 302,
+        "x": 44
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 27.59375,
+        "lineHeight": "27.6px",
+        "size": "24px",
+        "tag": "H2",
+        "text": "Why Choose GCPRO",
+        "width": 350,
+        "x": 20
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 26,
+        "lineHeight": "26px",
+        "size": "20px",
+        "tag": "H3",
+        "text": "Service Scope",
+        "width": 350,
+        "x": 20
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 26,
+        "lineHeight": "26px",
+        "size": "20px",
+        "tag": "H3",
+        "text": "Project Coordination",
+        "width": 350,
+        "x": 20
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 26,
+        "lineHeight": "26px",
+        "size": "20px",
+        "tag": "H3",
+        "text": "Progress Information",
+        "width": 350,
+        "x": 20
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 27.59375,
+        "lineHeight": "27.6px",
+        "size": "24px",
+        "tag": "H2",
+        "text": "Testimonials",
+        "width": 350,
+        "x": 20
+      },
+      {
+        "accent": {
+          "color": "rgb(240, 90, 41)",
+          "content": "\"\"",
+          "display": "block",
+          "gap": "16px",
+          "h": "3px",
+          "radius": "2px",
+          "w": "40px"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 46.59375,
+        "lineHeight": "27.6px",
+        "size": "24px",
+        "tag": "H2",
+        "text": "Service Areas",
+        "width": 350,
+        "x": 20
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(51, 65, 85)",
+        "font": "Montserrat",
+        "height": 26,
+        "lineHeight": "26px",
+        "size": "20px",
+        "tag": "H3",
+        "text": "Do We Serve Your Area?",
+        "width": 300.66668701171875,
+        "x": 44.66666793823242
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 55.1875,
+        "lineHeight": "27.6px",
+        "size": "24px",
+        "tag": "H2",
+        "text": "Discuss Your Restoration Needs",
+        "width": 302,
+        "x": 44
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 22.39583396911621,
+        "lineHeight": "22.4px",
+        "size": "16px",
+        "tag": "H2",
+        "text": "Explore",
+        "width": 78.78125,
+        "x": 155.6041717529297
+      },
+      {
+        "accent": {
+          "color": "rgba(0, 0, 0, 0)",
+          "content": "none",
+          "display": "inline",
+          "gap": "0px",
+          "h": "auto",
+          "radius": "0px",
+          "w": "auto"
+        },
+        "align": "start",
+        "color": "rgb(255, 255, 255)",
+        "font": "Montserrat",
+        "height": 22.39583396911621,
+        "lineHeight": "22.4px",
+        "size": "16px",
+        "tag": "H2",
+        "text": "Contact",
+        "width": 350,
+        "x": 20
+      }
+    ],
+    "links": [
+      {
+        "href": "tel:+18476563322",
+        "label": "\n\tCALL 847-656-3322\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tREQUEST SERVICE\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \n    \t\t\tResidential Restoration Photo - 16:9\n\t\t\n\n\n    \n    \t\t\tResidential Restoration\n\t\t\t\t\tHomes, condos and personal property.\n\t\t\n\n\n    \t\t\t\n\t\t\n\n\n\n\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \n    \t\t\tCommercial Restoration Photo - 16:9\n\t\t\n\n\n    \n    \t\t\tCommercial Restoration\n\t\t\t\t\tOffices, retail, facilities and multi-unit buildings.\n\t\t\n\n\n    \t\t\t\n\t\t\n\n\n\n\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tWater Damage Services\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tFire & Smoke Services\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tMold Services\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tReconstruction Services\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tStorm Damage Services\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tProperty Restoration\n"
+      },
+      {
+        "href": "tel:+18476563322",
+        "label": "\n\tCall 847-656-3322\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tRequest Service\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tWater Damage Reconstruction — Chicago\n\t\t\t\t\tProject summary placeholder. Photos, scope and outcome require approval.\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tFire Damage Restoration — Chicago\n\t\t\t\t\tProject summary placeholder. Photos, scope and outcome require approval.\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tBoys and Girls Clubs — Chicago\n\t\t\t\t\tProject summary placeholder. Photos, scope and outcome require approval.\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tView All Projects\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tBefore & After\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tView Testimonials\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tLombard\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tDowners Grove\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tHighland Park\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tElmhurst\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tElk Grove Village\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tBridgeview\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tNaperville\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n    \t\t\tGlenview\n\t\t\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tAll Service Areas\n"
+      },
+      {
+        "href": "tel:+18476563322",
+        "label": "\n\tCALL 847-656-3322\n"
+      },
+      {
+        "href": "#",
+        "label": "\n\tREQUEST SERVICE\n"
+      }
+    ],
+    "loggedIn": false,
+    "overflow": false,
+    "width": 390
+  }
+]

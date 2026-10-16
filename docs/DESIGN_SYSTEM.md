@@ -1,5 +1,11 @@
 # GCPRO design system
 
+## Current optional H2 accent — E26
+
+Use section-heading--accent g-a537304 on the existing native container directly holding Section Heading71 (.stack > h2). One scoped GLOBAL class pseudo-element rule adds40×3px/radius2 orange line,16px below H2 via color-accent/space-sm. Apply selectively; current five are Audience/Core/Process/Projects/Areas on154, all start-aligned. No global H2 default or71 definition change. Attach/remove via native container Classes; geometry lives in that selected global class's documented Custom CSS, not local widget CSS. [Canonical mirror](../integrations/section-heading-accent.css) is not separately enqueued; [editing/limits/map/QA](milestones/2026-10-16-section-heading-system.md).
+
+E26 owner correction removes E25's H3 line and copy wrapper from62; retires heading-accent and stack--tight after usage/16-component checks. Global Classes now90, Variables36, Components16. The following E25 description is historical and superseded.
+
 E25: Component62 uses new reusable heading-accent g-01bd1bd (36×3px, radius2px, color-accent) and stack--tight g-19f58a6 (space-xs8px, desktop/mobile) with existing stack. Native copy grouping keeps icon/CTA spacing unchanged and adds only3px mobile height. Classes89→91; no new Variables/Components/code/local styles. Native controls and custom_css:null verified. [Editing/QA](milestones/2026-10-16-service-heading-accent.md).
 
 E24: service-card__icon g-b759e84 native padding10px (previous12), same56px square/14px radius/light-blue Variable/margins; inner SVG36px, +12.5%. No transform/local/custom CSS. B Mold source now spore/cleaning sparkle; same48×48/2.25 stroke, Media607. Other five designs unchanged. [QA and editing](milestones/2026-10-16-icon-refinement.md).

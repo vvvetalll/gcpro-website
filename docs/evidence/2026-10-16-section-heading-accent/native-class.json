@@ -1,0 +1,19 @@
+[
+  {
+    "id": "g-a537304",
+    "label": "section-heading--accent",
+    "type": "class",
+    "variants": [
+      {
+        "meta": {
+          "breakpoint": "desktop",
+          "state": null
+        },
+        "props": [],
+        "custom_css": {
+          "raw": "JiA+IC5zdGFjayA+IGgyOjphZnRlciB7IGNvbnRlbnQ6ICIiOyBkaXNwbGF5OiBibG9jazsgd2lkdGg6IDQwcHg7IGhlaWdodDogM3B4OyBtYXJnaW4tYmxvY2stc3RhcnQ6IHZhcigtLXNwYWNlLXNtKTsgYm9yZGVyLXJhZGl1czogMnB4OyBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1jb2xvci1hY2NlbnQpOyB9"
+        }
+      }
+    ]
+  }
+]

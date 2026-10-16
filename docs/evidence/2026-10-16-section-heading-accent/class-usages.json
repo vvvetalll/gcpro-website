@@ -1,0 +1,29 @@
+{
+  "source": "Native get-global-class-usages after removing Component62 accent nodes, before retiring classes",
+  "checkedClassIDs": [
+    "g-01bd1bd",
+    "g-19f58a6",
+    "g-a537304"
+  ],
+  "matchingUsages": [
+    {
+      "classId": "g-a537304",
+      "usages": [
+        {
+          "pageId": "154",
+          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "total": 5,
+          "elements": [
+            "1b98920a",
+            "5ddaa828",
+            "4a8f9eb5",
+            "14d7e71c",
+            "3dc285eb"
+          ]
+        }
+      ]
+    }
+  ],
+  "oldClassesHadNoReportedUsages": true,
+  "companionComponentDefinitionsChecked": 16
+}

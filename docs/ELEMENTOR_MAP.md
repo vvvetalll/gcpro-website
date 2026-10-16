@@ -1,5 +1,7 @@
 # GCPRO Elementor map
 
+E26 current: Component71 remains root1ba080c/Title66d8f464/Description2d2aa2b4 with three original Overrides. Opt-in section-heading--accent g-a537304 on existing Homepage containers1b98920a/5ddaa828/4a8f9eb5/14d7e71c/3dc285eb adds selected H2 lines. No new component or decoration nodes. Card62 restored to original SVG4a4396ac → H3 4a877e1a → description295090e4 → CTA210ecf0d under root6cd5ab9f; E25 wrapper74f0f62a/line336aa061 and classes heading-accent/stack--tight removed per owner. [Full mapping/editing/QA](milestones/2026-10-16-section-heading-system.md). E25 entry below is superseded history.
+
 E25, 2026-10-16: shared Service Card62 root6cd5ab9f now orders SVG4a4396ac → Service Copy74f0f62a → CTA210ecf0d. Copy contains original H3 4a877e1a → Heading Accent336aa061 → original description295090e4. All five Override targets preserved; Homepage154 tree/instance content unchanged. New Global Classes heading-accent g-01bd1bd and stack--tight g-19f58a6; no new Component. [Native editing, evidence and recovery](milestones/2026-10-16-service-heading-accent.md).
 
 E24: Homepage154 Mold instance4ac87e43 icon Override598→607 (spore/cleaning sparkle). Five other IDs596/597/599/600/601 retained. Existing badge classg-b759e84 padding12→10 produces36px SVG within56px badge; shared Component62 structure/Overrides unchanged. [Exact scope and audit](milestones/2026-10-16-icon-refinement.md).

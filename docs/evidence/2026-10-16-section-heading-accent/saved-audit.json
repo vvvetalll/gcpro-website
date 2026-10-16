@@ -1,0 +1,78 @@
+{
+  "homepageEqualAfterRemovingOnlyFiveClassAttachments": true,
+  "component71Unchanged": true,
+  "variablesUnchanged": true,
+  "classesBefore": 91,
+  "classesAfter": 90,
+  "componentRetirementScan": {
+    "componentsScanned": 16,
+    "rootReads": 16,
+    "failed": 0,
+    "oldClassReferences": []
+  },
+  "serviceCardFinalNodeCount": 5,
+  "removedClasses": [
+    "heading-accent",
+    "stack--tight"
+  ],
+  "selected": [
+    {
+      "instance": "300decb5",
+      "title": "Audience Section Heading",
+      "parent": "1b98920a",
+      "parentTitle": "02 Residential and Commercial Services Container",
+      "selected": true
+    },
+    {
+      "instance": "44ad547c",
+      "title": "Core Services Heading",
+      "parent": "5ddaa828",
+      "parentTitle": "03 Core Restoration Services Container",
+      "selected": true
+    },
+    {
+      "instance": "5494e63e",
+      "title": "How We Work Heading",
+      "parent": "4a8f9eb5",
+      "parentTitle": "06 How We Work Container",
+      "selected": true
+    },
+    {
+      "instance": "6b4663fc",
+      "title": "Projects Heading",
+      "parent": "14d7e71c",
+      "parentTitle": "07 Projects and Before After Container",
+      "selected": true
+    },
+    {
+      "instance": "2554ebe8",
+      "title": "Service Areas Heading",
+      "parent": "3dc285eb",
+      "parentTitle": "Service Areas Introduction",
+      "selected": true
+    }
+  ],
+  "excluded": [
+    {
+      "instance": "2631f818",
+      "title": "Emergency Response Heading",
+      "parent": "2bf35876",
+      "parentTitle": "05 Emergency Response Container",
+      "selected": false
+    },
+    {
+      "instance": "68cd33d2",
+      "title": "Why Choose Heading",
+      "parent": "3546ecd3",
+      "parentTitle": "Restoration Benefits",
+      "selected": false
+    },
+    {
+      "instance": "13bdbfdf",
+      "title": "Testimonials Heading",
+      "parent": "6378042d",
+      "parentTitle": "Customer Feedback",
+      "selected": false
+    }
+  ]
+}

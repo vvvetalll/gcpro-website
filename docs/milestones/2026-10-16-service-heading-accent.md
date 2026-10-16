@@ -1,5 +1,7 @@
 # E25 — Shared Service Card heading accent
 
+Superseded by [E26](2026-10-16-section-heading-system.md): owner requested no H3 accents. Bar/copy wrapper and both E25 classes removed; historical evidence below retained.
+
 2026-10-16. Staging Homepage154, Core Restoration Services38ed6da4; shared ROBYLO / Service Card62. Production and shared ROBYLO repository untouched.
 
 ## Implementation Summary

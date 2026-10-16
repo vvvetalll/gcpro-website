@@ -1,0 +1,15 @@
+/* E26: canonical mirror of Elementor Global Class section-heading--accent.
+ * Not enqueued as a separate stylesheet. In that class's CSS editor replace
+ * .section-heading--accent with &. Apply class to the existing native container
+ * directly holding Section Heading71 (.stack > h2), never to every H2.
+ * Current approved instances are start/left aligned.
+ */
+.section-heading--accent > .stack > h2::after {
+  content: "";
+  display: block;
+  width: 40px;
+  height: 3px;
+  margin-block-start: var(--space-sm);
+  border-radius: 2px;
+  background-color: var(--color-accent);
+}
