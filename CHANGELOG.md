@@ -2,6 +2,14 @@
 
 Record verified delivered changes with date, scope, evidence, validation, and remaining limitations. Do not turn a plan or an uncorroborated chat statement into completed development history. Evidence definitions are in [PROJECT_CONTEXT](PROJECT_CONTEXT.md#evidence-register).
 
+## 2026-10-16 — Permanent native internal-linking rule
+
+- Added mandatory object-based internal linking to AGENTS and WORKFLOWS: Elementor Internal URL/native object selectors, WordPress object menu items, independent Component Overrides, draft/public-access rules, no duplicate pages, and documented exceptions only for demonstrated native gaps.
+- Required milestone checks for intended objects, manual URLs, broken/placeholder destinations and Component independence, plus an explicit post-migration gcprochicago.com checklist preserving approved paths and checking ID mapping.
+- Documented fresh installed schema support for Atomic Button and Component 53/62/80/103 destinations, exact Internal URL selector fields and connector discovery limits. Separated schema support/static-link history from the still-untested two-instance dynamic save/render behavior and migration portability.
+- Updated concise PROJECT_CONTEXT/evidence E11. Reused existing pending-route records; no new link register or redundant policy document. No website, navigation, global style, Component or shared ROBYLO changes.
+- Verification: read-only schemas/current Hero values, documentation requirement/link/diff checks, actual commit/push and remote verification. No dynamic-link write test or site-wide link pass is claimed.
+
 ## 2026-10-16 — Homepage CTA conversion hierarchy
 
 - Published owner-authorized CTA refinements on Homepage 154: Hero and Final use orange Call first, white-outline Request Service second. Reused existing Component 53/103 and Homepage Component 80 instance overrides in the native visual editor.

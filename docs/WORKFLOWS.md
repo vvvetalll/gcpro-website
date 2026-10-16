@@ -30,6 +30,67 @@ No backup or restore procedure was executed during documentation initialization.
 6. Check the frontend, responsive layout, keyboard/focus, links and shared consumers. Test instance independence where overrides change. Record actual viewport sizes/results and untested cases.
 7. Record any existing/custom code touched, exact location, native capability gap and recovery. Prefer a simpler native design if the effect otherwise requires fragile code.
 
+## Native internal linking and URL integrity
+
+Permanent owner rule, effective 2026-10-16. Applies to all GCPRO internal links, including Homepage 154, Header 113, Footer 114, navigation and reusable Component instances. See [AGENTS](../AGENTS.md#mandatory-native-internal-linking-and-url-integrity).
+
+### Choose the destination
+
+1. Find the **existing intended WordPress object** and verify ID, type, title, approved path, publication status and actual accessibility. Do not create a duplicate/placeholder page just to link somewhere. Preserve approved production paths; do not rename a slug to simplify link configuration.
+2. In Elementor use **Dynamic Tags → Internal URL**, choose the supported content type and select the actual page/post. An equivalent native object selector is also preferred over typed URLs. Select an object, not merely a URL search suggestion that saves a string. For site-root branding, a supported native Site URL/home binding is appropriate; document which method is used.
+3. In WordPress Navigation add the destination from Pages/posts or another supported object source, rather than Custom Links. Inspect its object/type in the menu editor and verify the associated destination; a frontend `href` is insufficient to identify the saved menu-item type.
+4. For Components use the existing exposed destination Override. Do not edit the shared definition to assign one instance's page; do not detach or create a duplicate variant. For nested CTA 80 use its Primary Link / Secondary Link overrides rather than changing shared button defaults.
+5. A draft/private/preview route is not a public destination merely because an authenticated editor can open it. Record the pending object without presenting its draft URL in public navigation. Activate and test when the destination is published and approved. Never publish a page merely to satisfy this check.
+6. Missing destinations remain unresolved. Preserve only explicitly approved temporary placeholders, including existing `#` where permitted; identify them as intentional/pending, not successful links. Do not silently substitute production, an unrelated section or a guessed slug. Treat an accidental `#` as a defect. Use native anchor controls for intentional fragments and verify their target IDs separately.
+7. External sites, `mailto:` and `tel:` use ordinary URL fields. They are excluded from object-link conversion but still require correct scheme/destination verification.
+
+### Atomic V4 method verified on this installation — E11
+
+Read-only MCP schema/resource checks on staging `vitaliiv1.sg-host.com`, 2026-10-16. Host was confirmed by the Homepage inventory before reading schemas. Sources: discovered `elementor://dynamic-tags`, `get-widget-schema(e-button)` after widget discovery, and discovered Component schemas for 53/62/80/103. These checks establish the installed **supported data contract**, not an end-to-end dynamic-link save/render/migration test.
+
+| Location | Verified native contract / edit method |
+| --- | --- |
+| Atomic Button | `link.destination` accepts a string, an object selector with numeric `id` and optional `label`, or a dynamic tag binding. Prefer the object/dynamic choices for internal pages. |
+| Internal URL tag | Registered URL tag name `internal-url`; settings include `type` and object selectors `post_id`, `taxonomy_id`, `attachment_id`, `author_id`. Each selector requires numeric `id`; `label` is optional. For a page/post, select the object through the native Internal URL controls (`post_id`). The returned schema does not enumerate `type` values: read the actual controls/current schema; do not invent a literal. |
+| Primary CTA 53 / Outline White 103 | Existing `link` Override exposes the same destination union, including `internal-url`. Native instance panel: Button destination → dynamic tag or object selector. |
+| Service Card 62 | Existing `cta_link` Override (Link Destination) supports that same link schema. Keep each service instance independently selectable. |
+| CTA Section 80 | Existing `cta_link` and `secondary_link` Overrides (Primary Link / Secondary Link) support the same link schema through nested Components. Preserve both exposed fields. |
+| Connector editing | Current Component tool metadata documents instance updates via `manage-elements` with `settings.overrides`, deep-merging override keys and clearing a key with null. Read the current Component schema first and send plain values matching it. Native `get-page-structure` output includes typed `$$type` envelopes; do not blindly replay those as plain API inputs. Use the visual editor if a control is not safely exposed by the connector. |
+
+Limitations and evidence boundaries:
+
+- `e-component` is not a widget type returned by widget-schema discovery; a direct widget schema lookup returned unknown type in the preceding milestone. Obtain destination schemas from `list-components(component_ids)` after Component discovery. This is a discovery/API distinction, not proof that native Component links are unsupported.
+- Current E10 tests proved independent **static** label/link override editing and saved output in the named Hero/Final instances. Fresh E11 Hero read still shows Call `tel:+18476563322` and Request Service `#`. **Dynamic object-bound Component save/render independence has not yet been exercised.** Do not relabel static-link tests as dynamic-link tests.
+- Before relying on dynamic overrides in an authorized implementation, use two existing approved destination objects, save/reopen two instances, verify each stored object and actual frontend destination, then change one instance and confirm the other's saved binding/rendered link is unchanged. Use native controls and restore any temporary test values. Do not create test pages or publish drafts for this purpose. Record exact fields, instance/object IDs, outcomes and any blocker.
+- An absolute frontend `href` is normal output from a native binding. Audit saved configuration to distinguish an object reference from a hardcoded URL. Conversely, a relative path or a dynamic field containing a typed URL is not evidence of a WordPress object relationship.
+- IDs are installation-specific. Export/import or a different migration process may require remapping/reselection; a supported schema is not a guarantee of portable IDs or working production URLs. Post-migration verification remains mandatory.
+- No WordPress/Elementor writes, temporary test binding, page creation or migration occurred during this documentation task. No existing link was converted by merely adopting this rule.
+
+### Milestone link verification gate
+
+After every implementation milestone, inspect affected pages, Header/Footer/navigation where relevant, and consumers of changed shared Components:
+
+- Check stored target object identity/type/status and the resolved frontend URL against the intended approved destination. Verify public accessibility in an anonymous session where appropriate; distinguish an authenticated-only success, 404, redirect loop, unrelated-page redirect and unresolved target.
+- Identify manually entered internal URLs, including both staging/production hostnames and relative paths. Inspect Component origins/instance overrides and WordPress menu-item types, not just rendered HTML. Recognize supported native home/site/anchor bindings.
+- Detect broken targets and accidental `#`/empty links; distinguish intentionally approved pending placeholders and genuine fragment targets. Record unresolved items instead of claiming an all-links pass.
+- Verify Component link controls remain editable without detaching and changing one instance does not affect another. For dynamic bindings, read back the object reference after save/reopen and test the actual rendered destination. State which controls/tests were not available or not run.
+- Update the relevant page/milestone link register, PROJECT_CONTEXT and CHANGELOG with exceptions/pending routes and test scope. Keep a single canonical register for each affected scope; do not copy the same unresolved list into multiple new files. Include results/limits in the mandatory final report and commit/push/remote verification gate.
+
+Record each exception/unresolved target with: **source page/template and element or menu item ID; Component/instance and override key if applicable; intended object/type/approved path; actual saved linking method/value; publication/access status; reason native binding is unavailable or destination is pending; test result/date; migration retest and resolution trigger**. No exception is considered approved merely because it appears in a table.
+
+Current pending routes remain recorded in the [E10 CTA milestone](milestones/2026-10-16-homepage-cta-strategy.md#outstanding-items-and-recovery) and [ELEMENTOR_MAP](ELEMENTOR_MAP.md#homepage-cta-instance-values--e10): Request Service and other service/category/project/testimonial/city/utility destinations use existing placeholders. That dated inventory is not a fresh site-wide link pass. Replace a pending entry with a verified object binding when the approved destination exists; do not leave a placeholder when a supported real target is available.
+
+### Manual exceptions and migration checklist
+
+Only use a hardcoded internal URL when the specific Elementor/native control cannot reasonably support the required destination. Record the exact native limitation and affected location, the intended object/path, why the manual value is necessary, who/what approved the exception where required, and the pre/post-migration test. Missing pages or lack of time are not native limitations. Do not add a plugin or custom code just to bypass normal linking controls.
+
+Before migration, inventory all native bindings, menu objects, manual exceptions, drafts and intentional placeholders; preserve the approved path/migration decisions. During an authorized migration verify object and menu-reference remapping, including nested Component overrides. After migration to **gcprochicago.com**:
+
+1. Resolve native links to the intended objects and approved final paths, not merely any HTTP 200 page.
+2. Recheck Header/Footer/navigation and independently configured Component instances; confirm public access, keyboard activation and intended same/new-tab behavior.
+3. Audit saved configuration **and** rendered URLs for stale staging/production literals, preview/authentication parameters, broken targets, redirects, fragments and `#` placeholders. Review external/tel/email destinations without converting them into page references.
+4. Retest every manual exception, record the final result, and explicitly carry unresolved items forward. Native references reduce migration risk but never waive these checks. Do not execute redirects or change URLs outside separately authorized migration scope.
+
 ## Native-first addition gate
 
 Before creating any Global Class, Global Variable, Atomic Component, code file, plugin or external dependency:

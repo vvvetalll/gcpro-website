@@ -24,6 +24,23 @@ Avoid hidden CSS, JavaScript, HTML-widget workarounds, fragile selectors, direct
 
 Discover actual connector capabilities and schemas. Tool presence is not a successful staging test. Read fresh structure before changes and after saves; never reuse stale element trees after another write. Do not infer IDs from labels or copy IDs between installations.
 
+## Mandatory native internal linking and URL integrity
+
+Apply this rule automatically across GCPRO pages, navigation, Header/Footer and reusable Components:
+
+- Prefer Elementor **Dynamic Tags → Internal URL** or the equivalent native page/post selector, bound to the intended existing WordPress object. Do not manually type an absolute staging/production URL when native object linking is supported. Native site/home URL tags are appropriate for site-root links where applicable.
+- In WordPress Navigation use actual Pages/posts or other supported object menu items instead of Custom Links whenever the destination object exists. A matching rendered URL alone does not prove object-based configuration.
+- Preserve independently editable destinations through supported Atomic Component Overrides. Verify dynamic-link persistence, frontend resolution and independence between instances; schema support alone is not a successful runtime test. Do not detach or duplicate Components to assign different destinations.
+- Reuse existing pages. Never create duplicates or placeholder pages just to supply a destination. Do not expose draft, private or preview URLs as public navigation; connect/test the route when the destination becomes publicly available.
+- Missing destinations must be explicitly recorded. A previously owner-approved temporary `#` is an unresolved placeholder, never a working route; do not introduce accidental `#`, invent a URL, substitute an unrelated destination or fall back to production.
+- Hardcoded internal URLs are exceptions only where no suitable native alternative is supported. Document the demonstrated limitation, exact location, intended object/path, reason, and migration retest. Relative paths are still manual links, not object references. Use native anchor controls for genuine in-page navigation and verify that the target exists.
+- External websites, email and `tel:` destinations use normal URL fields; verify the appropriate scheme and target.
+- Preserve approved production paths. After migration to `gcprochicago.com`, verify object/ID mapping, navigation, Component instances, final URLs and unresolved/manual exceptions. Native references reduce risk but do not eliminate migration testing.
+
+After **every implementation milestone**, check links in affected pages/templates and shared consumers: intended objects and publication/access status, hardcoded internal values, broken destinations and accidental placeholders, independently editable Component destinations, and unresolved-link records. Report tested versus pending cases, then complete the normal documentation/commit/push gate. Documentation-only work does not authorize website changes or synthetic link edits.
+
+Follow [the verified Atomic linking method, limitations, link register and migration checklist](docs/WORKFLOWS.md#native-internal-linking-and-url-integrity). Re-read current installed schemas/controls before relying on a supported field. Do not claim an end-to-end dynamic Component test or migrated-site verification unless it was actually performed.
+
 ## Responsibilities and milestone completion
 
 Codex owns repository documentation, Git, verification, and any separately authorized integration code. ChatGPT Work owns authorized staging Elementor configuration. These roles do not grant access or authorize changes.
