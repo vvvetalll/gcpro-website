@@ -1,5 +1,9 @@
 # GCPRO project context
 
+## Current Hero visual trial — E35
+
+Owner clarified RIGHT fade near the van. Existing hero--panorama g-708f717 now separates native right/left gradient tracks: right40→95% across1500px (825px), with gradual35%/85% opacity intermediate stops; left track unchanged. Media633, height/offset, copy/layout/CTAs preserved. Existing three-declaration Global Class CSS updated for three background layers and compiler-supported nesting; no new classes/Components/Variables/dependencies or theme changes. Anonymous1440/2560 checked after cache purge;390 matches prior geometry/background/typography, no overflow. [Editing/evidence/limits](docs/milestones/2026-10-16-hero-composition.md#e35--extended-soft-right-blend). Await visual approval; no physical/incognito test. E34 below is superseded.
+
 ## Current Hero visual trial — E34
 
 Owner requested a longer right fade like the left: native hero--panorama g-708f717 right transparent stop now66% (was82%), navy endpoint95% unchanged, giving435px transition. E33 photo position/scale, centered canvas/CSS, copy/layout/CTAs/mobile unchanged; exactly one numeric Global Class property changed. No new resources/code. Anonymous1440/2560 and390 after staging cache purge verified; [editing/evidence/reversal](docs/milestones/2026-10-16-hero-composition.md#e34--longer-right-side-fade-trial). Visual approval pending; physical/incognito untested.

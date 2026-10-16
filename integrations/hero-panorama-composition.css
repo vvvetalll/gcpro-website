@@ -1,14 +1,21 @@
 /* E33: canonical mirror, not separately enqueued.
  * Existing Global Class hero--panorama g-708f717 -> normal -> Custom CSS.
- * In Elementor replace .hero--panorama with & inside the media query.
+ * Elementor field contains the declarations below inside its protected wrapper:
+ * background-repeat: no-repeat;
+ * @media (min-width: 1025px) {
+ *   background-size: 1500px 100%, 1500px 100%, auto 100%;
+ *   background-position: calc(50% - 80px) center;
+ * }
  * Native Background retains Media633, colors/stops and image height100%.
- * The first layer is the horizontal blend; second is the native photograph.
+ * Layers: right blend, left blend, native photograph. Colors/stops are native.
  * Bound the blend to the artwork and anchor both to the content center.
  */
+.hero--panorama {
+  background-repeat: no-repeat;
+}
 @media (min-width: 1025px) {
   .hero--panorama {
-    background-size: 1500px 100%, auto 100%;
+    background-size: 1500px 100%, 1500px 100%, auto 100%;
     background-position: calc(50% - 80px) center;
-    background-repeat: no-repeat;
   }
 }

@@ -1,0 +1,41 @@
+{
+  "page": 154,
+  "computedChecks": [
+    {
+      "anonymous": true,
+      "background": "linear-gradient(90deg, rgba(26, 50, 125, 0) 0%, rgba(26, 50, 125, 0) 40%, rgba(26, 50, 125, 0.35) 65%, rgba(26, 50, 125, 0.85) 80%, rgb(26, 50, 125) 95%, rgb(26, 50, 125) 100%), linear-gradient(90deg, rgb(26, 50, 125) 0%, rgb(26, 50, 125) 34%, rgba(26, 50, 125, 0.9) 48%, rgba(26, 50, 125, 0) 65%, rgba(26, 50, 125, 0) 100%), url(\"https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-chicago-hero-desktop.webp\")",
+      "copyWidth": 625.59375,
+      "copyX": 704.3333740234375,
+      "height": 562.90625,
+      "imageLeftRelativeToCopy": -215.81027348675912,
+      "imageWidth": 1407.6205469735182,
+      "overflow": false,
+      "position": "calc(50% - 80px) 50%, calc(50% - 80px) 50%, calc(50% - 80px) 50%",
+      "repeat": "no-repeat, no-repeat, no-repeat",
+      "sectionWidth": 2544.666748046875,
+      "size": "1500px 100%, 1500px 100%, auto 100%",
+      "viewport": 2560
+    },
+    {
+      "anonymous": true,
+      "background": "linear-gradient(90deg, rgba(26, 50, 125, 0) 0%, rgba(26, 50, 125, 0) 40%, rgba(26, 50, 125, 0.35) 65%, rgba(26, 50, 125, 0.85) 80%, rgb(26, 50, 125) 95%, rgb(26, 50, 125) 100%), linear-gradient(90deg, rgb(26, 50, 125) 0%, rgb(26, 50, 125) 34%, rgba(26, 50, 125, 0.9) 48%, rgba(26, 50, 125, 0) 65%, rgba(26, 50, 125, 0) 100%), url(\"https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-chicago-hero-desktop.webp\")",
+      "copyWidth": 625.59375,
+      "copyX": 144.33334350585938,
+      "height": 562.90625,
+      "imageLeftRelativeToCopy": -215.810242969181,
+      "imageWidth": 1407.6205469735182,
+      "overflow": false,
+      "position": "calc(50% - 80px) 50%, calc(50% - 80px) 50%, calc(50% - 80px) 50%",
+      "repeat": "no-repeat, no-repeat, no-repeat",
+      "sectionWidth": 1424.666748046875,
+      "size": "1500px 100%, 1500px 100%, auto 100%",
+      "viewport": 1440
+    }
+  ],
+  "mobile390MatchesE34": true,
+  "otherGlobalClassesUnchanged": true,
+  "nativeMobileVariantUnchanged": true,
+  "incognito": false,
+  "physicalDevice": false,
+  "notes": "Right edge strengthened after owner feedback: alpha .35 at65%, .85 at80%, 1 at95%. Only hero--panorama changed. Existing CSS uses declaration-first nesting; no-repeat now applies at all widths with no visible mobile change."
+}

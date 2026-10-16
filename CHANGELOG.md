@@ -1,5 +1,10 @@
 # GCPRO changelog
 
+## 2026-10-16 — Extended soft right Hero blend — E35
+
+- Homepage154 existing hero--panorama: native right fade435→825px with gradual opacity stops; separate native left gradient retains its track. Same image633, position/scale, content and layout.
+- Updated existing Global Class CSS and source mirror for three layers; retained three declarations, no new classes/components/variables/dependencies/theme code. Corrected CSS nesting after detecting omitted frontend compilation. Cache purged; anonymous1440/2560 and390 checked, mobile visual metrics unchanged, no overflow. [Evidence/editing](docs/milestones/2026-10-16-hero-composition.md#e35--extended-soft-right-blend). Visual approval pending; physical/incognito untested.
+
 ## 2026-10-16 — Longer right Hero fade trial — E34
 
 - Homepage154 hero--panorama native right transparent stop82%→66%; same95% navy endpoint gives435px transition instead of195px. Photo, composition CSS, layout/copy/CTA/mobile unchanged; exactly one Global Class numeric value changed. No new classes, components or custom code/Variables/dependencies.

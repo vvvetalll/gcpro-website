@@ -1,5 +1,9 @@
 # GCPRO design system
 
+## Current Hero blend — E35
+
+Supersedes E34: existing hero--panorama has native right gradient90deg at0/40/65/80/95/100%, navy opacity0/0/0.35/0.85/1/1; native left gradient90deg at0/34/48/65/100%, opacity1/1/0.9/0/0. Media633 remains third layer. Existing centralized Global Class CSS gives both gradients1500px×100%, photograph auto×100%, all centered80px left above1024px; no-repeat applies at all widths. Mobile native opaque navy layer retained. No new class/component. [Exact controls, source mirror, compiler limitation and QA](milestones/2026-10-16-hero-composition.md#e35--extended-soft-right-blend). Earlier E33/E34 settings below are historical.
+
 E34 current native Hero gradient stops:0/34/48/65/**66**/95/100%,90deg. Transparent right fade begins66% instead of82%, extending435px across the same1500px canvas. Image placement, Global Class composition CSS and mobile variant unchanged. Edit the native right transparent stop; no added code/classes/components. [Trial evidence](milestones/2026-10-16-hero-composition.md#e34--longer-right-side-fade-trial).
 
 ## Desktop Hero composition — E33
