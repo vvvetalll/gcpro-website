@@ -36,7 +36,14 @@ No backup or restore procedure was executed during documentation initialization.
 
 ### Anonymous delivery verification — E18
 
-After an authorized Custom Code deployment, compare authenticated **and logged-out** ordinary public URLs. Inspect CSS/JS markers, saved source/conditions, response cache HIT/MISS and real execution. A logged-in preview or cache-busting query alone is insufficient. If stale staging HTML is proven, use the existing native Purge SG Cache action, preserve optimization/security settings, and retest the plain URL after it becomes HIT again. Verify waiting/entry/completion and reduced motion in an actual logged-out browser. Clearly label touch emulation versus physical Android. [E18 cache incident](milestones/2026-10-16-anonymous-timeline-cache.md).
+After meaningful Elementor, Custom Code, CSS or JavaScript changes:
+
+1. Assess whether SiteGround cache invalidation is required. Before diagnosing a frontend feature as broken, compare authenticated and anonymous HTML/assets, source markers and cache HIT/MISS responses for stale guest content.
+2. Purge the relevant staging cache when necessary using existing SiteGround controls. Preserve optimization/security settings; do not disable caching as a workaround or purge production.
+3. Test the actual frontend at its ordinary public URL as an **anonymous visitor in an incognito browser session after cache clearing**. Confirm current assets and actual behavior, including the subsequent cache HIT where available. A cache-busting query, logged-in page or authenticated Elementor preview alone cannot establish that a feature works for all visitors.
+4. Record responsive viewport sizes and distinguish desktop mobile emulation from a physical-device test. State unavailable/unperformed checks explicitly; label owner-reported device confirmation separately from agent testing. For the timeline, verify entry, ordered fade/completion, no replay, reduced motion and preserved desktop hover.
+
+[E18 cache incident](milestones/2026-10-16-anonymous-timeline-cache.md): stale guest HTML omitted Code590; cache purge alone restored it. On 2026-10-16 the owner confirmed the animation works on a physical Samsung Galaxy S25 Ultra, Chrome Android. No CSS/JS changes were required.
 
 ### Authorized client Custom Code exception — E17
 

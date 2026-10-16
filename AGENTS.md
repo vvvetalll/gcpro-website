@@ -70,4 +70,6 @@ Separate verified repository facts, verified staging reads, reported historical 
 
 For authorized implementation, capture a recoverable backup first, read back saved values, check the real editor and frontend, responsive layout, keyboard operation, shared-component effects, and independent overrides as applicable. Documentation-only work needs diff, content, path/link, and remote-commit verification; do not invent runtime tests.
 
+After meaningful Elementor, Custom Code, CSS or JavaScript changes, assess whether SiteGround cache invalidation is required and purge the relevant staging cache when necessary. Test the actual anonymous frontend in an incognito session after clearing cache. Before diagnosing a frontend failure, compare authenticated and anonymous HTML/assets for stale cached versions. Never claim a feature works for all visitors from an authenticated Elementor preview alone. Distinguish desktop mobile emulation from physical-device testing and identify owner-reported device results as such. Follow the existing [anonymous delivery procedure](docs/WORKFLOWS.md#anonymous-delivery-verification--e18).
+
 Finish using the mandatory six-section report above. Include scoped recovery/rollback information when material. A local commit alone is not a successful push.

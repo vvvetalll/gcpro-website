@@ -1,9 +1,13 @@
 # GCPRO changelog
 
+## 2026-10-16 — Permanent cache verification procedure
+
+- Updated existing WORKFLOWS anonymous-delivery procedure and AGENTS verification rules: assess/purge relevant staging cache, verify actual incognito frontend, compare authenticated/guest assets before diagnosing failure, and distinguish emulation from physical-device evidence. Documentation only; no WordPress, Code590, CSS or JavaScript changes.
+
 ## 2026-10-16 — Anonymous timeline cache correction — E18
 
 - Diagnosed stale SiteGround guest HTML: ordinary desktop/Android-UA HIT omitted both Code590 blocks; uncached MISS and authenticated page included them. Published status/Page154 condition/source were already correct.
-- Purged staging cache using native toolbar; root MISS then HIT include current CSS/JS. Logged-out Chrome390/430 sequence, no replay, reduced motion430 and desktop1440 hover verified. No implementation source/configuration changes or new resources. Physical Android remains owner retest. [E18](docs/milestones/2026-10-16-anonymous-timeline-cache.md).
+- Purged staging cache using native toolbar; root MISS then HIT include current CSS/JS. Logged-out Chrome390/430 sequence, no replay, reduced motion430 and desktop1440 hover verified. No implementation source/configuration changes or new resources. Owner subsequently confirmed on 2026-10-16 that the animation works on a physical Samsung Galaxy S25 Ultra (Chrome Android) after cache clearing; no CSS or JavaScript changes were required. [E18](docs/milestones/2026-10-16-anonymous-timeline-cache.md).
 
 ## 2026-10-16 — Touch timeline viewport sequence — E17
 
