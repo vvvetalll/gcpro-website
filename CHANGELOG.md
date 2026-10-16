@@ -2,6 +2,21 @@
 
 Record verified delivered changes with date, scope, evidence, validation, and remaining limitations. Do not turn a plan or an uncorroborated chat statement into completed development history. Evidence definitions are in [PROJECT_CONTEXT](PROJECT_CONTEXT.md#evidence-register).
 
+## 2026-10-16 — Homepage CTA conversion hierarchy
+
+- Published owner-authorized CTA refinements on Homepage 154: Hero and Final use orange Call first, white-outline Request Service second. Reused existing Component 53/103 and Homepage Component 80 instance overrides in the native visual editor.
+- Verified exactly eight text/link leaf changes, with no structure/style changes; Header 113 and Footer 114 match their before reads. All three Homepage call buttons and Footer telephone link use `tel:+18476563322`.
+- Preserved researcher paths, Emergency call priority, Header Request Service, city links and disabled ZIP prototype. No new classes, variables, components, custom code, plugins or dependencies.
+- QA at 1440×900 / 1200×800 / 900×900 / 390×844: correct order/variants, no wrapping/overflow, 52.5px controls, visible keyboard focus and preserved document/section dimensions. Request Service remains `#` because no destination page exists. Fixed orange text contrast remains an approval item.
+- Added [milestone](docs/milestones/2026-10-16-homepage-cta-strategy.md), sanitized evidence and post-change screenshots; updated context, map and decision register. No production or unrelated layout change.
+
+## 2026-10-16 — Homepage vertical layout and scroll audit
+
+- Completed read-only audit of all nine Homepage sections at the four exact requested viewport sizes. Authenticated document heights: 6167 / 6167 / 7307 / 10413px; measured Header/Footer, section positions/heights, padding/gaps, CTA/Core visibility and viewport-length counts.
+- Saved [audit](docs/audits/2026-10-16-homepage-vertical-layout.md), sanitized measurements and actual pre-CTA full-page desktop/mobile screenshots with section crops. Distinguished measured geometry from estimated savings and authenticated assets from untested public performance.
+- Recorded selective boundary/card/Final-frame recommendations, Emergency desktop/tablet gutter defect and pending proof/destination issues. Reviewed actual tree, class CSS and dependencies without deleting or modifying anything.
+- Owner subsequently authorized the separate CTA change above. Other audit proposals remain pending approval; no spacing/media/global-style recommendations were implemented.
+
 ## 2026-10-16 — Permanent implementation reporting standard
 
 - Updated AGENTS and WORKFLOWS for all future GCPRO agents: exact final headings Implementation Summary, Technical Changes, Complexity Audit, Verification, GitHub and Outstanding Items.

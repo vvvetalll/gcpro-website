@@ -1,0 +1,2646 @@
+{
+  "ref": "E10",
+  "observed_date": "2026-10-16",
+  "timezone": "America/Chicago",
+  "staging": "https://vitaliiv1.sg-host.com/",
+  "post_id": 154,
+  "implementation": "native editor instance overrides; published on staging",
+  "changed_instance_ids": [
+    "18a239c4",
+    "a7bcc76",
+    "37feb023"
+  ],
+  "existing_component_ids": [
+    53,
+    103,
+    80
+  ],
+  "leaf_changes": [
+    {
+      "path": "/elements/0/elements/0/elements/0/elements/0/elements/0/elements/3/elements/0/settings/component_instance/overrides/0/override_value/value",
+      "before": "Request Service",
+      "after": "CALL 847-656-3322"
+    },
+    {
+      "path": "/elements/0/elements/0/elements/0/elements/0/elements/0/elements/3/elements/0/settings/component_instance/overrides/1/override_value/value/destination/value",
+      "before": "#",
+      "after": "tel:+18476563322"
+    },
+    {
+      "path": "/elements/0/elements/0/elements/0/elements/0/elements/0/elements/3/elements/1/settings/component_instance/overrides/0/override_value/value",
+      "before": "CALL 847-656-3322",
+      "after": "REQUEST SERVICE"
+    },
+    {
+      "path": "/elements/0/elements/0/elements/0/elements/0/elements/0/elements/3/elements/1/settings/component_instance/overrides/1/override_value/value/destination/value",
+      "before": "tel:+18476563322",
+      "after": "#"
+    },
+    {
+      "path": "/elements/0/elements/8/settings/component_instance/overrides/2/override_value/value",
+      "before": "Request Service",
+      "after": "CALL 847-656-3322"
+    },
+    {
+      "path": "/elements/0/elements/8/settings/component_instance/overrides/3/override_value/value/destination/value",
+      "before": "#",
+      "after": "tel:+18476563322"
+    },
+    {
+      "path": "/elements/0/elements/8/settings/component_instance/overrides/4/override_value/value",
+      "before": "Call 847-656-3322",
+      "after": "REQUEST SERVICE"
+    },
+    {
+      "path": "/elements/0/elements/8/settings/component_instance/overrides/5/override_value/value/destination/value",
+      "before": "tel:+18476563322",
+      "after": "#"
+    }
+  ],
+  "header_113_unchanged": true,
+  "footer_114_unchanged": true,
+  "new_classes_components_variables_code_plugins_dependencies": [],
+  "request_service_page_exists": false,
+  "request_service_target": "#",
+  "call_target": "tel:+18476563322",
+  "responsive": [
+    {
+      "viewport": {
+        "height": 900,
+        "width": 1440
+      },
+      "document_height": 6167,
+      "overflow": false,
+      "hero": [
+        {
+          "bg": "rgb(240, 90, 41)",
+          "color": "rgb(255, 255, 255)",
+          "columns": "none",
+          "disabled": false,
+          "display": "flex",
+          "font": "Montserrat",
+          "gap": "8px",
+          "height": 52.53125,
+          "href": "tel:+18476563322",
+          "id": "1676o7p",
+          "margin": [
+            "0px",
+            "0px"
+          ],
+          "padding": [
+            "16px",
+            "24px",
+            "16px",
+            "24px"
+          ],
+          "position": "static",
+          "size": "16px",
+          "tag": "A",
+          "text": "CALL 847-656-3322",
+          "width": 204.3229217529297,
+          "x": 152,
+          "y": 589.3229370117188
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "columns": "none",
+          "disabled": false,
+          "display": "flex",
+          "font": "Montserrat",
+          "gap": "8px",
+          "height": 52.53125,
+          "href": "#",
+          "id": "0p137d9",
+          "margin": [
+            "0px",
+            "0px"
+          ],
+          "padding": [
+            "16px",
+            "24px",
+            "16px",
+            "24px"
+          ],
+          "position": "static",
+          "size": "16px",
+          "tag": "A",
+          "text": "REQUEST SERVICE",
+          "width": 203.73959350585935,
+          "x": 372.3229370117187,
+          "y": 589.3229370117188
+        }
+      ],
+      "final": [
+        {
+          "bg": "rgb(240, 90, 41)",
+          "color": "rgb(255, 255, 255)",
+          "columns": "none",
+          "disabled": false,
+          "display": "flex",
+          "font": "Montserrat",
+          "gap": "8px",
+          "height": 52.53125,
+          "href": "tel:+18476563322",
+          "id": "1o1vfw2",
+          "margin": [
+            "0px",
+            "0px"
+          ],
+          "padding": [
+            "16px",
+            "24px",
+            "16px",
+            "24px"
+          ],
+          "position": "static",
+          "size": "16px",
+          "tag": "A",
+          "text": "CALL 847-656-3322",
+          "width": 204.3229217529297,
+          "x": 200,
+          "y": 5547.875
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "columns": "none",
+          "disabled": false,
+          "display": "flex",
+          "font": "Montserrat",
+          "gap": "8px",
+          "height": 52.53125,
+          "href": "#",
+          "id": "1wm7k4a",
+          "margin": [
+            "0px",
+            "0px"
+          ],
+          "padding": [
+            "16px",
+            "24px",
+            "16px",
+            "24px"
+          ],
+          "position": "static",
+          "size": "16px",
+          "tag": "A",
+          "text": "REQUEST SERVICE",
+          "width": 203.73959350585935,
+          "x": 420.3229370117187,
+          "y": 5547.875
+        }
+      ],
+      "visible_link_inventory": [
+        {
+          "classes": "e-paragraph-link-base e-default-a",
+          "font": "Inter",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "h": 14,
+          "href": "#",
+          "lineHeight": "18px",
+          "scope": "Header",
+          "text": "Contact Us"
+        },
+        {
+          "classes": "e-paragraph-link-base e-default-a",
+          "font": "Inter",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "h": 14,
+          "href": "#",
+          "lineHeight": "18px",
+          "scope": "Header",
+          "text": "Careers"
+        },
+        {
+          "classes": "e-paragraph-link-base e-default-a",
+          "font": "Inter",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "h": 14,
+          "href": "#",
+          "lineHeight": "18px",
+          "scope": "Header",
+          "text": "Blog"
+        },
+        {
+          "classes": "e-image-link-base e-default-a",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 78.28125,
+          "href": "https://vitaliiv1.sg-host.com/",
+          "lineHeight": "normal",
+          "scope": "Header",
+          "text": ""
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Header",
+          "text": "Residential"
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Header",
+          "text": "Commercial"
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Header",
+          "text": "Service Areas"
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Header",
+          "text": "Projects"
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Header",
+          "text": "About"
+        },
+        {
+          "classes": "button-secondary e-3fda4fee-d967 e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "#",
+          "lineHeight": "19.2px",
+          "scope": "Header",
+          "text": "Request Service"
+        },
+        {
+          "classes": "button-primary e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "tel:+18476563322",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "CALL 847-656-3322"
+        },
+        {
+          "classes": "button-outline-white e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "#",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "REQUEST SERVICE"
+        },
+        {
+          "classes": "elementor-element elementor-element-4c8810dc e-con e-atomic-element e-div-block-base e-default-a audience-card e-26cabec6-e41c ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 450.125,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Residential Restoration Photo - 16:9 Residential Restoration Homes, condos and personal property."
+        },
+        {
+          "classes": "elementor-element elementor-element-2066a26 e-con e-atomic-element e-div-block-base e-default-a audience-card e-204b62df-912e ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 450.125,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Commercial Restoration Photo - 16:9 Commercial Restoration Offices, retail, facilities and multi-unit buildings."
+        },
+        {
+          "classes": "text-link e-button-base e-default-a",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Water Damage Services"
+        },
+        {
+          "classes": "text-link e-button-base e-default-a",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Fire & Smoke Services"
+        },
+        {
+          "classes": "text-link e-button-base e-default-a",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Mold Services"
+        },
+        {
+          "classes": "text-link e-button-base e-default-a",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Reconstruction Services"
+        },
+        {
+          "classes": "text-link e-button-base e-default-a",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Storm Damage Services"
+        },
+        {
+          "classes": "text-link e-button-base e-default-a",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Property Restoration"
+        },
+        {
+          "classes": "button-primary e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "tel:+18476563322",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "Call 847-656-3322"
+        },
+        {
+          "classes": "button-outline-white e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "#",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "Request Service"
+        },
+        {
+          "classes": "elementor-element elementor-element-0q51kc5 e-con e-atomic-element e-div-block-base e-default-a project-summary ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 209.4479217529297,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Water Damage Reconstruction \u00e2\u20ac\u201d Chicago Project summary placeholder. Photos, scope and outcome require approval."
+        },
+        {
+          "classes": "elementor-element elementor-element-0yayh5n e-con e-atomic-element e-div-block-base e-default-a project-summary ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 178.25,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Fire Damage Restoration \u00e2\u20ac\u201d Chicago Project summary placeholder. Photos, scope and outcome require approval."
+        },
+        {
+          "classes": "elementor-element elementor-element-1t6bzcq e-con e-atomic-element e-div-block-base e-default-a project-summary ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 178.25,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Boys and Girls Clubs \u00e2\u20ac\u201d Chicago Project summary placeholder. Photos, scope and outcome require approval."
+        },
+        {
+          "classes": "button-outline e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "#",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "View All Projects"
+        },
+        {
+          "classes": "button-outline e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "#",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "Before & After"
+        },
+        {
+          "classes": "button-outline-white e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "#",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "View Testimonials"
+        },
+        {
+          "classes": "elementor-element elementor-element-52ad5087 e-con e-atomic-element e-div-block-base e-default-a city-link ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Lombard"
+        },
+        {
+          "classes": "elementor-element elementor-element-29925a5c e-con e-atomic-element e-div-block-base e-default-a city-link ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Downers Grove"
+        },
+        {
+          "classes": "elementor-element elementor-element-64f07ac9 e-con e-atomic-element e-div-block-base e-default-a city-link ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Highland Park"
+        },
+        {
+          "classes": "elementor-element elementor-element-7703752a e-con e-atomic-element e-div-block-base e-default-a city-link ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Elmhurst"
+        },
+        {
+          "classes": "elementor-element elementor-element-961c608 e-con e-atomic-element e-div-block-base e-default-a city-link ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Elk Grove Village"
+        },
+        {
+          "classes": "elementor-element elementor-element-311eade2 e-con e-atomic-element e-div-block-base e-default-a city-link ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Bridgeview"
+        },
+        {
+          "classes": "elementor-element elementor-element-3478458c e-con e-atomic-element e-div-block-base e-default-a city-link ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Naperville"
+        },
+        {
+          "classes": "elementor-element elementor-element-166c23ea e-con e-atomic-element e-div-block-base e-default-a city-link ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Glenview"
+        },
+        {
+          "classes": "button-outline e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "#",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "All Service Areas"
+        },
+        {
+          "classes": "button-primary e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "tel:+18476563322",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "CALL 847-656-3322"
+        },
+        {
+          "classes": "button-outline-white e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "#",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "REQUEST SERVICE"
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 36,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Footer",
+          "text": "Residential"
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 36,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Footer",
+          "text": "Commercial"
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 36,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Footer",
+          "text": "Service Areas"
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 36,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Footer",
+          "text": "Projects"
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 36,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Footer",
+          "text": "Resources"
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 36,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Footer",
+          "text": "About"
+        },
+        {
+          "classes": "",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 19.33333396911621,
+          "href": "tel:+18476563322",
+          "lineHeight": "25.6px",
+          "scope": "Footer",
+          "text": "847-656-3322"
+        },
+        {
+          "classes": "",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 19.33333396911621,
+          "href": "mailto:restore@gcprochicago.com",
+          "lineHeight": "25.6px",
+          "scope": "Footer",
+          "text": "restore@gcprochicago.com"
+        }
+      ]
+    },
+    {
+      "viewport": {
+        "height": 800,
+        "width": 1200
+      },
+      "document_height": 6167,
+      "overflow": false,
+      "hero": [
+        {
+          "bg": "rgb(240, 90, 41)",
+          "color": "rgb(255, 255, 255)",
+          "columns": "none",
+          "disabled": false,
+          "display": "flex",
+          "font": "Montserrat",
+          "gap": "8px",
+          "height": 52.53125,
+          "href": "tel:+18476563322",
+          "id": "1676o7p",
+          "margin": [
+            "0px",
+            "0px"
+          ],
+          "padding": [
+            "16px",
+            "24px",
+            "16px",
+            "24px"
+          ],
+          "position": "static",
+          "size": "16px",
+          "tag": "A",
+          "text": "CALL 847-656-3322",
+          "width": 204.3229217529297,
+          "x": 32,
+          "y": 589.3229370117188
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "columns": "none",
+          "disabled": false,
+          "display": "flex",
+          "font": "Montserrat",
+          "gap": "8px",
+          "height": 52.53125,
+          "href": "#",
+          "id": "0p137d9",
+          "margin": [
+            "0px",
+            "0px"
+          ],
+          "padding": [
+            "16px",
+            "24px",
+            "16px",
+            "24px"
+          ],
+          "position": "static",
+          "size": "16px",
+          "tag": "A",
+          "text": "REQUEST SERVICE",
+          "width": 203.73959350585935,
+          "x": 252.3229217529297,
+          "y": 589.3229370117188
+        }
+      ],
+      "final": [
+        {
+          "bg": "rgb(240, 90, 41)",
+          "color": "rgb(255, 255, 255)",
+          "columns": "none",
+          "disabled": false,
+          "display": "flex",
+          "font": "Montserrat",
+          "gap": "8px",
+          "height": 52.53125,
+          "href": "tel:+18476563322",
+          "id": "1o1vfw2",
+          "margin": [
+            "0px",
+            "0px"
+          ],
+          "padding": [
+            "16px",
+            "24px",
+            "16px",
+            "24px"
+          ],
+          "position": "static",
+          "size": "16px",
+          "tag": "A",
+          "text": "CALL 847-656-3322",
+          "width": 204.3229217529297,
+          "x": 80,
+          "y": 5547.875
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "columns": "none",
+          "disabled": false,
+          "display": "flex",
+          "font": "Montserrat",
+          "gap": "8px",
+          "height": 52.53125,
+          "href": "#",
+          "id": "1wm7k4a",
+          "margin": [
+            "0px",
+            "0px"
+          ],
+          "padding": [
+            "16px",
+            "24px",
+            "16px",
+            "24px"
+          ],
+          "position": "static",
+          "size": "16px",
+          "tag": "A",
+          "text": "REQUEST SERVICE",
+          "width": 203.73959350585935,
+          "x": 300.32293701171875,
+          "y": 5547.875
+        }
+      ],
+      "visible_link_inventory": [
+        {
+          "classes": "e-paragraph-link-base e-default-a",
+          "font": "Inter",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "h": 14,
+          "href": "#",
+          "lineHeight": "18px",
+          "scope": "Header",
+          "text": "Contact Us"
+        },
+        {
+          "classes": "e-paragraph-link-base e-default-a",
+          "font": "Inter",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "h": 14,
+          "href": "#",
+          "lineHeight": "18px",
+          "scope": "Header",
+          "text": "Careers"
+        },
+        {
+          "classes": "e-paragraph-link-base e-default-a",
+          "font": "Inter",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "h": 14,
+          "href": "#",
+          "lineHeight": "18px",
+          "scope": "Header",
+          "text": "Blog"
+        },
+        {
+          "classes": "e-image-link-base e-default-a",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 78.28125,
+          "href": "https://vitaliiv1.sg-host.com/",
+          "lineHeight": "normal",
+          "scope": "Header",
+          "text": ""
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Header",
+          "text": "Residential"
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Header",
+          "text": "Commercial"
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Header",
+          "text": "Service Areas"
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Header",
+          "text": "Projects"
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Header",
+          "text": "About"
+        },
+        {
+          "classes": "button-secondary e-3fda4fee-d967 e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "#",
+          "lineHeight": "19.2px",
+          "scope": "Header",
+          "text": "Request Service"
+        },
+        {
+          "classes": "button-primary e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "tel:+18476563322",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "CALL 847-656-3322"
+        },
+        {
+          "classes": "button-outline-white e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "#",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "REQUEST SERVICE"
+        },
+        {
+          "classes": "elementor-element elementor-element-4c8810dc e-con e-atomic-element e-div-block-base e-default-a audience-card e-26cabec6-e41c ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 450.125,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Residential Restoration Photo - 16:9 Residential Restoration Homes, condos and personal property."
+        },
+        {
+          "classes": "elementor-element elementor-element-2066a26 e-con e-atomic-element e-div-block-base e-default-a audience-card e-204b62df-912e ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 450.125,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Commercial Restoration Photo - 16:9 Commercial Restoration Offices, retail, facilities and multi-unit buildings."
+        },
+        {
+          "classes": "text-link e-button-base e-default-a",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Water Damage Services"
+        },
+        {
+          "classes": "text-link e-button-base e-default-a",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Fire & Smoke Services"
+        },
+        {
+          "classes": "text-link e-button-base e-default-a",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Mold Services"
+        },
+        {
+          "classes": "text-link e-button-base e-default-a",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Reconstruction Services"
+        },
+        {
+          "classes": "text-link e-button-base e-default-a",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Storm Damage Services"
+        },
+        {
+          "classes": "text-link e-button-base e-default-a",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Property Restoration"
+        },
+        {
+          "classes": "button-primary e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "tel:+18476563322",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "Call 847-656-3322"
+        },
+        {
+          "classes": "button-outline-white e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "#",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "Request Service"
+        },
+        {
+          "classes": "elementor-element elementor-element-0q51kc5 e-con e-atomic-element e-div-block-base e-default-a project-summary ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 209.4479217529297,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Water Damage Reconstruction \u00e2\u20ac\u201d Chicago Project summary placeholder. Photos, scope and outcome require approval."
+        },
+        {
+          "classes": "elementor-element elementor-element-0yayh5n e-con e-atomic-element e-div-block-base e-default-a project-summary ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 178.25,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Fire Damage Restoration \u00e2\u20ac\u201d Chicago Project summary placeholder. Photos, scope and outcome require approval."
+        },
+        {
+          "classes": "elementor-element elementor-element-1t6bzcq e-con e-atomic-element e-div-block-base e-default-a project-summary ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 178.25,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Boys and Girls Clubs \u00e2\u20ac\u201d Chicago Project summary placeholder. Photos, scope and outcome require approval."
+        },
+        {
+          "classes": "button-outline e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "#",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "View All Projects"
+        },
+        {
+          "classes": "button-outline e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "#",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "Before & After"
+        },
+        {
+          "classes": "button-outline-white e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "#",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "View Testimonials"
+        },
+        {
+          "classes": "elementor-element elementor-element-52ad5087 e-con e-atomic-element e-div-block-base e-default-a city-link ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Lombard"
+        },
+        {
+          "classes": "elementor-element elementor-element-29925a5c e-con e-atomic-element e-div-block-base e-default-a city-link ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Downers Grove"
+        },
+        {
+          "classes": "elementor-element elementor-element-64f07ac9 e-con e-atomic-element e-div-block-base e-default-a city-link ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Highland Park"
+        },
+        {
+          "classes": "elementor-element elementor-element-7703752a e-con e-atomic-element e-div-block-base e-default-a city-link ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Elmhurst"
+        },
+        {
+          "classes": "elementor-element elementor-element-961c608 e-con e-atomic-element e-div-block-base e-default-a city-link ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Elk Grove Village"
+        },
+        {
+          "classes": "elementor-element elementor-element-311eade2 e-con e-atomic-element e-div-block-base e-default-a city-link ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Bridgeview"
+        },
+        {
+          "classes": "elementor-element elementor-element-3478458c e-con e-atomic-element e-div-block-base e-default-a city-link ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Naperville"
+        },
+        {
+          "classes": "elementor-element elementor-element-166c23ea e-con e-atomic-element e-div-block-base e-default-a city-link ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Glenview"
+        },
+        {
+          "classes": "button-outline e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "#",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "All Service Areas"
+        },
+        {
+          "classes": "button-primary e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "tel:+18476563322",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "CALL 847-656-3322"
+        },
+        {
+          "classes": "button-outline-white e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "#",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "REQUEST SERVICE"
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 36,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Footer",
+          "text": "Residential"
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 36,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Footer",
+          "text": "Commercial"
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 36,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Footer",
+          "text": "Service Areas"
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 36,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Footer",
+          "text": "Projects"
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 36,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Footer",
+          "text": "Resources"
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 36,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Footer",
+          "text": "About"
+        },
+        {
+          "classes": "",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 19.33333396911621,
+          "href": "tel:+18476563322",
+          "lineHeight": "25.6px",
+          "scope": "Footer",
+          "text": "847-656-3322"
+        },
+        {
+          "classes": "",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 19.33333396911621,
+          "href": "mailto:restore@gcprochicago.com",
+          "lineHeight": "25.6px",
+          "scope": "Footer",
+          "text": "restore@gcprochicago.com"
+        }
+      ]
+    },
+    {
+      "viewport": {
+        "height": 900,
+        "width": 900
+      },
+      "document_height": 7307,
+      "overflow": false,
+      "hero": [
+        {
+          "bg": "rgb(240, 90, 41)",
+          "color": "rgb(255, 255, 255)",
+          "columns": "none",
+          "disabled": false,
+          "display": "flex",
+          "font": "Montserrat",
+          "gap": "8px",
+          "height": 52.53125,
+          "href": "tel:+18476563322",
+          "id": "1676o7p",
+          "margin": [
+            "0px",
+            "0px"
+          ],
+          "padding": [
+            "16px",
+            "24px",
+            "16px",
+            "24px"
+          ],
+          "position": "static",
+          "size": "16px",
+          "tag": "A",
+          "text": "CALL 847-656-3322",
+          "width": 204.3229217529297,
+          "x": 32,
+          "y": 621.3229370117188
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "columns": "none",
+          "disabled": false,
+          "display": "flex",
+          "font": "Montserrat",
+          "gap": "8px",
+          "height": 52.53125,
+          "href": "#",
+          "id": "0p137d9",
+          "margin": [
+            "0px",
+            "0px"
+          ],
+          "padding": [
+            "16px",
+            "24px",
+            "16px",
+            "24px"
+          ],
+          "position": "static",
+          "size": "16px",
+          "tag": "A",
+          "text": "REQUEST SERVICE",
+          "width": 203.73959350585935,
+          "x": 32,
+          "y": 689.8541870117188
+        }
+      ],
+      "final": [
+        {
+          "bg": "rgb(240, 90, 41)",
+          "color": "rgb(255, 255, 255)",
+          "columns": "none",
+          "disabled": false,
+          "display": "flex",
+          "font": "Montserrat",
+          "gap": "8px",
+          "height": 52.53125,
+          "href": "tel:+18476563322",
+          "id": "1o1vfw2",
+          "margin": [
+            "0px",
+            "0px"
+          ],
+          "padding": [
+            "16px",
+            "24px",
+            "16px",
+            "24px"
+          ],
+          "position": "static",
+          "size": "16px",
+          "tag": "A",
+          "text": "CALL 847-656-3322",
+          "width": 204.3229217529297,
+          "x": 80,
+          "y": 6687.08349609375
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "columns": "none",
+          "disabled": false,
+          "display": "flex",
+          "font": "Montserrat",
+          "gap": "8px",
+          "height": 52.53125,
+          "href": "#",
+          "id": "1wm7k4a",
+          "margin": [
+            "0px",
+            "0px"
+          ],
+          "padding": [
+            "16px",
+            "24px",
+            "16px",
+            "24px"
+          ],
+          "position": "static",
+          "size": "16px",
+          "tag": "A",
+          "text": "REQUEST SERVICE",
+          "width": 203.73959350585935,
+          "x": 300.32293701171875,
+          "y": 6687.08349609375
+        }
+      ],
+      "visible_link_inventory": [
+        {
+          "classes": "e-paragraph-link-base e-default-a",
+          "font": "Inter",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "h": 14,
+          "href": "#",
+          "lineHeight": "18px",
+          "scope": "Header",
+          "text": "Contact Us"
+        },
+        {
+          "classes": "e-paragraph-link-base e-default-a",
+          "font": "Inter",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "h": 14,
+          "href": "#",
+          "lineHeight": "18px",
+          "scope": "Header",
+          "text": "Careers"
+        },
+        {
+          "classes": "e-paragraph-link-base e-default-a",
+          "font": "Inter",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "h": 14,
+          "href": "#",
+          "lineHeight": "18px",
+          "scope": "Header",
+          "text": "Blog"
+        },
+        {
+          "classes": "e-image-link-base e-default-a",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 78.28125,
+          "href": "https://vitaliiv1.sg-host.com/",
+          "lineHeight": "normal",
+          "scope": "Header",
+          "text": ""
+        },
+        {
+          "classes": "button-primary e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "tel:+18476563322",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "CALL 847-656-3322"
+        },
+        {
+          "classes": "button-outline-white e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "#",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "REQUEST SERVICE"
+        },
+        {
+          "classes": "elementor-element elementor-element-4c8810dc e-con e-atomic-element e-div-block-base e-default-a audience-card e-26cabec6-e41c ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 417.3333435058594,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Residential Restoration Photo - 16:9 Residential Restoration Homes, condos and personal property."
+        },
+        {
+          "classes": "elementor-element elementor-element-2066a26 e-con e-atomic-element e-div-block-base e-default-a audience-card e-204b62df-912e ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 417.3333435058594,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Commercial Restoration Photo - 16:9 Commercial Restoration Offices, retail, facilities and multi-unit buildings."
+        },
+        {
+          "classes": "text-link e-button-base e-default-a",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Water Damage Services"
+        },
+        {
+          "classes": "text-link e-button-base e-default-a",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Fire & Smoke Services"
+        },
+        {
+          "classes": "text-link e-button-base e-default-a",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Mold Services"
+        },
+        {
+          "classes": "text-link e-button-base e-default-a",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Reconstruction Services"
+        },
+        {
+          "classes": "text-link e-button-base e-default-a",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Storm Damage Services"
+        },
+        {
+          "classes": "text-link e-button-base e-default-a",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Property Restoration"
+        },
+        {
+          "classes": "button-primary e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "tel:+18476563322",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "Call 847-656-3322"
+        },
+        {
+          "classes": "button-outline-white e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "#",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "Request Service"
+        },
+        {
+          "classes": "elementor-element elementor-element-0q51kc5 e-con e-atomic-element e-div-block-base e-default-a project-summary ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 173.0416717529297,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Water Damage Reconstruction \u00e2\u20ac\u201d Chicago Project summary placeholder. Photos, scope and outcome require approval."
+        },
+        {
+          "classes": "elementor-element elementor-element-0yayh5n e-con e-atomic-element e-div-block-base e-default-a project-summary ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 173.0416717529297,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Fire Damage Restoration \u00e2\u20ac\u201d Chicago Project summary placeholder. Photos, scope and outcome require approval."
+        },
+        {
+          "classes": "elementor-element elementor-element-1t6bzcq e-con e-atomic-element e-div-block-base e-default-a project-summary ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 173.0416717529297,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Boys and Girls Clubs \u00e2\u20ac\u201d Chicago Project summary placeholder. Photos, scope and outcome require approval."
+        },
+        {
+          "classes": "button-outline e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "#",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "View All Projects"
+        },
+        {
+          "classes": "button-outline e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "#",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "Before & After"
+        },
+        {
+          "classes": "button-outline-white e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "#",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "View Testimonials"
+        },
+        {
+          "classes": "elementor-element elementor-element-52ad5087 e-con e-atomic-element e-div-block-base e-default-a city-link ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Lombard"
+        },
+        {
+          "classes": "elementor-element elementor-element-29925a5c e-con e-atomic-element e-div-block-base e-default-a city-link ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Downers Grove"
+        },
+        {
+          "classes": "elementor-element elementor-element-64f07ac9 e-con e-atomic-element e-div-block-base e-default-a city-link ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Highland Park"
+        },
+        {
+          "classes": "elementor-element elementor-element-7703752a e-con e-atomic-element e-div-block-base e-default-a city-link ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Elmhurst"
+        },
+        {
+          "classes": "elementor-element elementor-element-961c608 e-con e-atomic-element e-div-block-base e-default-a city-link ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Elk Grove Village"
+        },
+        {
+          "classes": "elementor-element elementor-element-311eade2 e-con e-atomic-element e-div-block-base e-default-a city-link ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Bridgeview"
+        },
+        {
+          "classes": "elementor-element elementor-element-3478458c e-con e-atomic-element e-div-block-base e-default-a city-link ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Naperville"
+        },
+        {
+          "classes": "elementor-element elementor-element-166c23ea e-con e-atomic-element e-div-block-base e-default-a city-link ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Glenview"
+        },
+        {
+          "classes": "button-outline e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "#",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "All Service Areas"
+        },
+        {
+          "classes": "button-primary e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "tel:+18476563322",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "CALL 847-656-3322"
+        },
+        {
+          "classes": "button-outline-white e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "#",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "REQUEST SERVICE"
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 36,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Footer",
+          "text": "Residential"
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 36,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Footer",
+          "text": "Commercial"
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 36,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Footer",
+          "text": "Service Areas"
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 36,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Footer",
+          "text": "Projects"
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 36,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Footer",
+          "text": "Resources"
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 36,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Footer",
+          "text": "About"
+        },
+        {
+          "classes": "",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 19.33333396911621,
+          "href": "tel:+18476563322",
+          "lineHeight": "25.6px",
+          "scope": "Footer",
+          "text": "847-656-3322"
+        },
+        {
+          "classes": "",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 19.33333396911621,
+          "href": "mailto:restore@gcprochicago.com",
+          "lineHeight": "25.6px",
+          "scope": "Footer",
+          "text": "restore@gcprochicago.com"
+        }
+      ]
+    },
+    {
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "document_height": 10413,
+      "overflow": false,
+      "hero": [
+        {
+          "bg": "rgb(240, 90, 41)",
+          "color": "rgb(255, 255, 255)",
+          "columns": "none",
+          "disabled": false,
+          "display": "flex",
+          "font": "Montserrat",
+          "gap": "8px",
+          "height": 52.53125,
+          "href": "tel:+18476563322",
+          "id": "1676o7p",
+          "margin": [
+            "0px",
+            "0px"
+          ],
+          "padding": [
+            "16px",
+            "24px",
+            "16px",
+            "24px"
+          ],
+          "position": "static",
+          "size": "16px",
+          "tag": "A",
+          "text": "CALL 847-656-3322",
+          "width": 204.3229217529297,
+          "x": 20,
+          "y": 509.3229370117187
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "columns": "none",
+          "disabled": false,
+          "display": "flex",
+          "font": "Montserrat",
+          "gap": "8px",
+          "height": 52.53125,
+          "href": "#",
+          "id": "0p137d9",
+          "margin": [
+            "0px",
+            "0px"
+          ],
+          "padding": [
+            "16px",
+            "24px",
+            "16px",
+            "24px"
+          ],
+          "position": "static",
+          "size": "16px",
+          "tag": "A",
+          "text": "REQUEST SERVICE",
+          "width": 203.73959350585935,
+          "x": 20,
+          "y": 569.8541870117188
+        }
+      ],
+      "final": [
+        {
+          "bg": "rgb(240, 90, 41)",
+          "color": "rgb(255, 255, 255)",
+          "columns": "none",
+          "disabled": false,
+          "display": "flex",
+          "font": "Montserrat",
+          "gap": "8px",
+          "height": 52.53125,
+          "href": "tel:+18476563322",
+          "id": "1o1vfw2",
+          "margin": [
+            "0px",
+            "0px"
+          ],
+          "padding": [
+            "16px",
+            "24px",
+            "16px",
+            "24px"
+          ],
+          "position": "static",
+          "size": "16px",
+          "tag": "A",
+          "text": "CALL 847-656-3322",
+          "width": 204.3229217529297,
+          "x": 44,
+          "y": 9461.375
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "columns": "none",
+          "disabled": false,
+          "display": "flex",
+          "font": "Montserrat",
+          "gap": "8px",
+          "height": 52.53125,
+          "href": "#",
+          "id": "1wm7k4a",
+          "margin": [
+            "0px",
+            "0px"
+          ],
+          "padding": [
+            "16px",
+            "24px",
+            "16px",
+            "24px"
+          ],
+          "position": "static",
+          "size": "16px",
+          "tag": "A",
+          "text": "REQUEST SERVICE",
+          "width": 203.73959350585935,
+          "x": 44,
+          "y": 9521.90625
+        }
+      ],
+      "visible_link_inventory": [
+        {
+          "classes": "e-paragraph-link-base e-default-a",
+          "font": "Inter",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "h": 14,
+          "href": "#",
+          "lineHeight": "18px",
+          "scope": "Header",
+          "text": "Contact Us"
+        },
+        {
+          "classes": "e-paragraph-link-base e-default-a",
+          "font": "Inter",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "h": 14,
+          "href": "#",
+          "lineHeight": "18px",
+          "scope": "Header",
+          "text": "Careers"
+        },
+        {
+          "classes": "e-paragraph-link-base e-default-a",
+          "font": "Inter",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "h": 14,
+          "href": "#",
+          "lineHeight": "18px",
+          "scope": "Header",
+          "text": "Blog"
+        },
+        {
+          "classes": "e-image-link-base e-default-a",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 78.28125,
+          "href": "https://vitaliiv1.sg-host.com/",
+          "lineHeight": "normal",
+          "scope": "Header",
+          "text": ""
+        },
+        {
+          "classes": "button-primary e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "tel:+18476563322",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "CALL 847-656-3322"
+        },
+        {
+          "classes": "button-outline-white e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "#",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "REQUEST SERVICE"
+        },
+        {
+          "classes": "elementor-element elementor-element-4c8810dc e-con e-atomic-element e-div-block-base e-default-a audience-card e-26cabec6-e41c ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 364.6458435058594,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Residential Restoration Photo - 16:9 Residential Restoration Homes, condos and personal property."
+        },
+        {
+          "classes": "elementor-element elementor-element-2066a26 e-con e-atomic-element e-div-block-base e-default-a audience-card e-204b62df-912e ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 364.6458435058594,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Commercial Restoration Photo - 16:9 Commercial Restoration Offices, retail, facilities and multi-unit buildings."
+        },
+        {
+          "classes": "text-link e-button-base e-default-a",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Water Damage Services"
+        },
+        {
+          "classes": "text-link e-button-base e-default-a",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Fire & Smoke Services"
+        },
+        {
+          "classes": "text-link e-button-base e-default-a",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Mold Services"
+        },
+        {
+          "classes": "text-link e-button-base e-default-a",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Reconstruction Services"
+        },
+        {
+          "classes": "text-link e-button-base e-default-a",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Storm Damage Services"
+        },
+        {
+          "classes": "text-link e-button-base e-default-a",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Property Restoration"
+        },
+        {
+          "classes": "button-primary e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "tel:+18476563322",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "Call 847-656-3322"
+        },
+        {
+          "classes": "button-outline-white e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "#",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "Request Service"
+        },
+        {
+          "classes": "elementor-element elementor-element-0q51kc5 e-con e-atomic-element e-div-block-base e-default-a project-summary ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 167.8541717529297,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Water Damage Reconstruction \u00e2\u20ac\u201d Chicago Project summary placeholder. Photos, scope and outcome require approval."
+        },
+        {
+          "classes": "elementor-element elementor-element-0yayh5n e-con e-atomic-element e-div-block-base e-default-a project-summary ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 167.8541717529297,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Fire Damage Restoration \u00e2\u20ac\u201d Chicago Project summary placeholder. Photos, scope and outcome require approval."
+        },
+        {
+          "classes": "elementor-element elementor-element-1t6bzcq e-con e-atomic-element e-div-block-base e-default-a project-summary ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 167.8541717529297,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Boys and Girls Clubs \u00e2\u20ac\u201d Chicago Project summary placeholder. Photos, scope and outcome require approval."
+        },
+        {
+          "classes": "button-outline e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "#",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "View All Projects"
+        },
+        {
+          "classes": "button-outline e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "#",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "Before & After"
+        },
+        {
+          "classes": "button-outline-white e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "#",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "View Testimonials"
+        },
+        {
+          "classes": "elementor-element elementor-element-52ad5087 e-con e-atomic-element e-div-block-base e-default-a city-link ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Lombard"
+        },
+        {
+          "classes": "elementor-element elementor-element-29925a5c e-con e-atomic-element e-div-block-base e-default-a city-link ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Downers Grove"
+        },
+        {
+          "classes": "elementor-element elementor-element-64f07ac9 e-con e-atomic-element e-div-block-base e-default-a city-link ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Highland Park"
+        },
+        {
+          "classes": "elementor-element elementor-element-7703752a e-con e-atomic-element e-div-block-base e-default-a city-link ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Elmhurst"
+        },
+        {
+          "classes": "elementor-element elementor-element-961c608 e-con e-atomic-element e-div-block-base e-default-a city-link ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Elk Grove Village"
+        },
+        {
+          "classes": "elementor-element elementor-element-311eade2 e-con e-atomic-element e-div-block-base e-default-a city-link ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Bridgeview"
+        },
+        {
+          "classes": "elementor-element elementor-element-3478458c e-con e-atomic-element e-div-block-base e-default-a city-link ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Naperville"
+        },
+        {
+          "classes": "elementor-element elementor-element-166c23ea e-con e-atomic-element e-div-block-base e-default-a city-link ",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 44,
+          "href": "#",
+          "lineHeight": "normal",
+          "scope": "Homepage",
+          "text": "Glenview"
+        },
+        {
+          "classes": "button-outline e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "#",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "All Service Areas"
+        },
+        {
+          "classes": "button-primary e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "tel:+18476563322",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "CALL 847-656-3322"
+        },
+        {
+          "classes": "button-outline-white e-button-base e-default-a",
+          "font": "Montserrat",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "h": 52.53125,
+          "href": "#",
+          "lineHeight": "19.2px",
+          "scope": "Homepage",
+          "text": "REQUEST SERVICE"
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 36,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Footer",
+          "text": "Residential"
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 36,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Footer",
+          "text": "Commercial"
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 36,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Footer",
+          "text": "Service Areas"
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 36,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Footer",
+          "text": "Projects"
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 36,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Footer",
+          "text": "Resources"
+        },
+        {
+          "classes": "elementor-item elementor-item-anchor has-submenu",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 36,
+          "href": "#",
+          "lineHeight": "20px",
+          "scope": "Footer",
+          "text": "About"
+        },
+        {
+          "classes": "",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 19.33333396911621,
+          "href": "tel:+18476563322",
+          "lineHeight": "25.6px",
+          "scope": "Footer",
+          "text": "847-656-3322"
+        },
+        {
+          "classes": "",
+          "font": "Inter",
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "h": 19.33333396911621,
+          "href": "mailto:restore@gcprochicago.com",
+          "lineHeight": "25.6px",
+          "scope": "Footer",
+          "text": "restore@gcprochicago.com"
+        }
+      ]
+    }
+  ],
+  "keyboard": [
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "primary": {
+        "bg": "rgb(20, 40, 98)",
+        "color": "rgb(255, 255, 255)",
+        "href": "tel:+18476563322",
+        "outline": "rgb(255, 255, 255) solid 2.66667px",
+        "text": "CALL 847-656-3322",
+        "visible": true
+      },
+      "secondary": {
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(26, 50, 125)",
+        "href": "#",
+        "outline": "rgb(255, 255, 255) solid 2.66667px",
+        "text": "REQUEST SERVICE",
+        "visible": true
+      },
+      "final": {
+        "href": "#",
+        "outline": "rgb(255, 255, 255) solid 2.66667px",
+        "text": "REQUEST SERVICE",
+        "visible": true
+      }
+    },
+    {
+      "viewport": {
+        "width": 1200,
+        "height": 800
+      },
+      "primary": {
+        "bg": "rgb(20, 40, 98)",
+        "color": "rgb(255, 255, 255)",
+        "href": "tel:+18476563322",
+        "outline": "rgb(255, 255, 255) solid 2.66667px",
+        "text": "CALL 847-656-3322",
+        "visible": true
+      },
+      "secondary": {
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(26, 50, 125)",
+        "href": "#",
+        "outline": "rgb(255, 255, 255) solid 2.66667px",
+        "text": "REQUEST SERVICE",
+        "visible": true
+      },
+      "final": {
+        "href": "#",
+        "outline": "rgb(255, 255, 255) solid 2.66667px",
+        "text": "REQUEST SERVICE",
+        "visible": true
+      }
+    },
+    {
+      "viewport": {
+        "width": 900,
+        "height": 900
+      },
+      "primary": {
+        "bg": "rgb(20, 40, 98)",
+        "color": "rgb(255, 255, 255)",
+        "href": "tel:+18476563322",
+        "outline": "rgb(255, 255, 255) solid 2.66667px",
+        "text": "CALL 847-656-3322",
+        "visible": true
+      },
+      "secondary": {
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(26, 50, 125)",
+        "href": "#",
+        "outline": "rgb(255, 255, 255) solid 2.66667px",
+        "text": "REQUEST SERVICE",
+        "visible": true
+      },
+      "final": {
+        "href": "#",
+        "outline": "rgb(255, 255, 255) solid 2.66667px",
+        "text": "REQUEST SERVICE",
+        "visible": true
+      }
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "primary": {
+        "bg": "rgb(20, 40, 98)",
+        "color": "rgb(255, 255, 255)",
+        "href": "tel:+18476563322",
+        "outline": "rgb(255, 255, 255) solid 2.66667px",
+        "text": "CALL 847-656-3322",
+        "visible": true
+      },
+      "secondary": {
+        "bg": "rgb(255, 255, 255)",
+        "color": "rgb(26, 50, 125)",
+        "href": "#",
+        "outline": "rgb(255, 255, 255) solid 2.66667px",
+        "text": "REQUEST SERVICE",
+        "visible": true
+      },
+      "final": {
+        "href": "#",
+        "outline": "rgb(255, 255, 255) solid 2.66667px",
+        "text": "REQUEST SERVICE",
+        "visible": true
+      }
+    }
+  ],
+  "not_tested": [
+    "Actual telephone call",
+    "Missing destination activation",
+    "Physical-device touch",
+    "Screen reader",
+    "Anonymous-session performance",
+    "Full backup/restore"
+  ]
+}

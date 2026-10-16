@@ -153,6 +153,18 @@ The former audience instances 5fa5a818 and 4e0d3e66 were removed only from this 
 
 The eight city links and All Service Areas still use their existing # destinations because destination pages are absent. The two audience card destinations likewise remain #. Header/Footer and other page assignments were not changed. Native input placeholder, text type, required/read-only switches, label association, button disabled attribute and card text are editable through standard Elementor controls. Form's empty-actions persistence limitation is documented in the [milestone](milestones/2026-10-16-zip-and-homepage-refinements.md).
 
+## Homepage CTA instance values — E10
+
+Native instance-only edits on staging 154, 2026-10-16. This supersedes the earlier Hero/Final action order, not their structure or shared definitions.
+
+| Saved Homepage instance | Existing Component | Current exposed values |
+| --- | --- | --- |
+| `18a239c4` Hero primary | 53 | `text`: CALL 847-656-3322; `link`: tel:+18476563322 |
+| `a7bcc76` Hero secondary | 103 | `text`: REQUEST SERVICE; `link`: # |
+| `37feb023` Final CTA | 80 | `cta_text`/`cta_link`: CALL 847-656-3322 / tel:+18476563322; `secondary_text`/`secondary_link`: REQUEST SERVICE / # |
+
+Header CTA `cd66895` remains Request Service/#; Emergency Call/Request actions are unchanged. Fresh before/after reads of Header 113 and Footer 114 are equal. Six-page inventory still has no Request Service page. Do not use a production URL, fabricate a staging route or detach Components to resolve that gap. See [CTA milestone](milestones/2026-10-16-homepage-cta-strategy.md).
+
 ## Updating the map
 
 Record environment, read date, source operation, exact type/title/ID and status. Keep numeric document/component IDs distinct from hexadecimal element IDs and global class IDs. Re-read element structure after mutations because replacements can assign new IDs. Update renamed/deleted entries and move superseded claims into reported history with an explanation.

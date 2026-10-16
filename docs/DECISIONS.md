@@ -31,6 +31,10 @@ Decisions below are adopted on 2026-10-16 for this documentation system, based o
 | D015 | Accepted owner refinement | Numbered process steps use smaller Montserrat numbers without visible standard checkmarks. | Preserve existing card-icon visibility contract and supported overrides; no new conditional selector. |
 | D016 | Accepted owner reference | Refine only the two audience cards using native editable content, shared classes, existing 16:9 placeholders and real circular SVG actions. | The two former audience Service Card instances are superseded; six core instances remain. No new pages or production links. |
 
+## CTA strategy — 2026-10-16
+
+Accepted owner CTA strategy, 2026-10-16 — **D017**: calling is the orange primary action in Hero and Final CTA; Request Service is the existing white-outline secondary action. Keep Header Request Service and Emergency call priority, preserve research/navigation paths, and do not create a new button variant. Use instance overrides of existing 53/103/80. Missing Request Service remains explicitly documented as `#` until a real page is approved and exists. This authorizes CTA edits only; the separate vertical-layout audit proposals remain pending.
+
 ## Pending decisions
 
 - Accessible CTA treatment for the reported white/orange contrast issue; inspect real states and native options before choosing.

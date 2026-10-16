@@ -1,10 +1,16 @@
 # GCPRO project context
 
-Last reviewed: 2026-10-16 (America/Chicago). Current milestone: Service Areas ZIP UI, process-number refinement and reference-based audience cards on staging Homepage 154. See the current implementation record below; earlier baseline observations remain dated history.
+Last reviewed: 2026-10-16 (America/Chicago). Current milestone: Homepage CTA hierarchy on staging 154, following a read-only vertical-layout audit. Earlier implementation records below remain dated history.
 
 Permanent workflow update, 2026-10-16: every AI agent must automatically use the six-section final reporting standard in [AGENTS](AGENTS.md#mandatory-implementation-reporting-standard) and [WORKFLOWS](docs/WORKFLOWS.md#mandatory-final-implementation-report). Every new technical element needs an individual purpose/gap/reuse/edit-location inventory; a pre-completion complexity audit is mandatory. Minor reports stay concise without omitting additions or custom code. This update changes documentation only; no WordPress/Elementor or shared ROBYLO modification is authorized or performed.
 
-## Current implementation — E8
+## Current implementation and audit — E9 / E10
+
+Homepage 154 Hero and Final CTA now use orange Call first (`tel:+18476563322`) and white-outline Request Service second (`#`). Existing Components 53/103 and the instance overrides of 80 were reused; only eight text/link leaf values changed. Header 113, Footer 114, shared definitions, styling, layout and other sections are unchanged. Request Service does not exist in the current six-page inventory; its missing route and existing orange/white contrast issue remain unresolved. No new classes, variables, components, code or dependencies. See [CTA milestone](docs/milestones/2026-10-16-homepage-cta-strategy.md) for actual four-width, keyboard and saved-state verification.
+
+The preceding [vertical-layout audit](docs/audits/2026-10-16-homepage-vertical-layout.md) measures all nine sections at 1440×900, 1200×800, 900×900 and 390×844. Document heights are 6167 / 6167 / 7307 / 10413px in the authenticated session; CTA-only edits preserve these values. Selective spacing, Emergency gutter and proof-content recommendations remain **unimplemented**, pending approval. Do not interpret CTA implementation authorization as approval for those layout changes. Audit screenshots show the pre-CTA baseline; CTA milestone screenshots show the updated buttons.
+
+## Previous implementation — E8
 
 Homepage 154 now has a native ZIP input and disabled Check Area button within the existing Service Areas section. City links and their destinations are preserved, with information on the left and a minimal panel on the right. This is an inactive visual prototype: no coverage lookup, validation, API or custom backend was implemented.
 
@@ -62,6 +68,8 @@ Use these labels throughout the documentation. Observed facts are limited to the
 
 | Ref | Source and date | What it establishes / limits |
 | --- | --- | --- |
+| E9 | Read-only IAB frontend/editor, saved Homepage structure and global inventories on 2026-10-16; [audit](docs/audits/2026-10-16-homepage-vertical-layout.md), [measurements](docs/evidence/2026-10-16-homepage-vertical-layout.json) | Actual four-size vertical layout, pre-CTA screenshots, scoped architecture findings and clearly estimated proposals; authenticated session, not anonymous performance or approval to implement spacing changes |
+| E10 | Owner-authorized native CTA edits, fresh MCP before/after comparison and IAB frontend/keyboard QA on 2026-10-16; [milestone](docs/milestones/2026-10-16-homepage-cta-strategy.md), [evidence](docs/evidence/2026-10-16-homepage-cta-strategy.json) | Eight Hero/Final instance text/link changes, published staging output, unchanged Header/Footer and geometry; no real Request Service route, actual call, touch/screen-reader or performance test |
 | E1 | GCPRO main tree, initial README and commit history read on 2026-10-16; pinned [README](https://github.com/vvvetalll/gcpro-website/blob/61624508705fe9d7947d145e3cc9ef973421fb3d/README.md) | Repository baseline and declared stack; not runtime installation |
 | E2 | ROBYLO source reviewed read-only at [8e1397a](https://github.com/vvvetalll/robylo-website-starter/tree/8e1397aab99ab5965c10a251cf144ea3ba3a0372): README, AI-CONTEXT, AGENTS, docs/setup, docs/elementor, theme PHP/CSS | Shared source architecture; not proof of deployment to GCPRO |
 | E3 | Read-only Elementor MCP on 2026-10-16: list-posts (page, 25; total 6, returned URLs match staging), list-components, schemas for 62/80/286, list-site-parts, get-page-structure(154), discovered global-variables/global-classes resources | Saved inventories, exposed override keys, token values and structural labels; no writes, frontend/editor QA or version audit |
