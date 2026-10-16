@@ -1,0 +1,797 @@
+{
+  "before": [
+    {
+      "cards": [
+        {
+          "accent": null,
+          "button": {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(240, 90, 41)",
+            "h": 44,
+            "w": 202.97222900390625
+          },
+          "card": {
+            "h": 304.1666564941406,
+            "w": 362.6666564941406
+          },
+          "description": "Water damage assessment, restoration and related service information.",
+          "descriptionTop": 160.0833740234375,
+          "h3Color": "rgb(51, 65, 85)",
+          "h3Font": "Montserrat",
+          "h3Height": 31.19444465637207,
+          "h3Size": "24px",
+          "link": "#",
+          "title": "Water Damage"
+        },
+        {
+          "accent": null,
+          "button": {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(240, 90, 41)",
+            "h": 44,
+            "w": 188.23611450195312
+          },
+          "card": {
+            "h": 304.1666564941406,
+            "w": 362.6666564941406
+          },
+          "description": "Fire and smoke restoration service information.",
+          "descriptionTop": 160.0833740234375,
+          "h3Color": "rgb(51, 65, 85)",
+          "h3Font": "Montserrat",
+          "h3Height": 31.19444465637207,
+          "h3Size": "24px",
+          "link": "#",
+          "title": "Fire & Smoke Damage"
+        },
+        {
+          "accent": null,
+          "button": {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(240, 90, 41)",
+            "h": 44,
+            "w": 129.4027862548828
+          },
+          "card": {
+            "h": 304.1666564941406,
+            "w": 362.6666564941406
+          },
+          "description": "Mold removal and remediation service information.",
+          "descriptionTop": 160.0833740234375,
+          "h3Color": "rgb(51, 65, 85)",
+          "h3Font": "Montserrat",
+          "h3Height": 31.19444465637207,
+          "h3Size": "24px",
+          "link": "#",
+          "title": "Mold Remediation"
+        },
+        {
+          "accent": null,
+          "button": {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(240, 90, 41)",
+            "h": 44,
+            "w": 204.31944274902344
+          },
+          "card": {
+            "h": 335.3611145019531,
+            "w": 362.6666564941406
+          },
+          "description": "Reconstruction service information and retained project examples.",
+          "descriptionTop": 160.083251953125,
+          "h3Color": "rgb(51, 65, 85)",
+          "h3Font": "Montserrat",
+          "h3Height": 31.19444465637207,
+          "h3Size": "24px",
+          "link": "#",
+          "title": "Reconstruction"
+        },
+        {
+          "accent": null,
+          "button": {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(240, 90, 41)",
+            "h": 44,
+            "w": 203.01388549804688
+          },
+          "card": {
+            "h": 335.3611145019531,
+            "w": 362.6666564941406
+          },
+          "description": "Existing residential storm damage service information.",
+          "descriptionTop": 160.083251953125,
+          "h3Color": "rgb(51, 65, 85)",
+          "h3Font": "Montserrat",
+          "h3Height": 31.19444465637207,
+          "h3Size": "24px",
+          "link": "#",
+          "title": "Storm Damage"
+        },
+        {
+          "accent": null,
+          "button": {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(240, 90, 41)",
+            "h": 44,
+            "w": 179.56944274902344
+          },
+          "card": {
+            "h": 335.3611145019531,
+            "w": 362.6666564941406
+          },
+          "description": "Existing contents and personal property restoration information.",
+          "descriptionTop": 191.27783203125,
+          "h3Color": "rgb(51, 65, 85)",
+          "h3Font": "Montserrat",
+          "h3Height": 62.38888931274414,
+          "h3Size": "24px",
+          "link": "#",
+          "title": "Personal Property Restoration"
+        }
+      ],
+      "loggedIn": true,
+      "overflow": false,
+      "width": 1440
+    },
+    {
+      "cards": [
+        {
+          "accent": null,
+          "button": {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(240, 90, 41)",
+            "h": 44,
+            "w": 202.52084350585935
+          },
+          "card": {
+            "h": 282.5208435058594,
+            "w": 350
+          },
+          "description": "Water damage assessment, restoration and related service information.",
+          "descriptionTop": 146.66650390625,
+          "h3Color": "rgb(51, 65, 85)",
+          "h3Font": "Montserrat",
+          "h3Height": 26,
+          "h3Size": "20px",
+          "link": "#",
+          "title": "Water Damage"
+        },
+        {
+          "accent": null,
+          "button": {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(240, 90, 41)",
+            "h": 44,
+            "w": 187.7916717529297
+          },
+          "card": {
+            "h": 282.5208435058594,
+            "w": 350
+          },
+          "description": "Fire and smoke restoration service information.",
+          "descriptionTop": 146.666748046875,
+          "h3Color": "rgb(51, 65, 85)",
+          "h3Font": "Montserrat",
+          "h3Height": 26,
+          "h3Size": "20px",
+          "link": "#",
+          "title": "Fire & Smoke Damage"
+        },
+        {
+          "accent": null,
+          "button": {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(240, 90, 41)",
+            "h": 44,
+            "w": 128.95834350585938
+          },
+          "card": {
+            "h": 282.5208435058594,
+            "w": 350
+          },
+          "description": "Mold removal and remediation service information.",
+          "descriptionTop": 146.666748046875,
+          "h3Color": "rgb(51, 65, 85)",
+          "h3Font": "Montserrat",
+          "h3Height": 26,
+          "h3Size": "20px",
+          "link": "#",
+          "title": "Mold Remediation"
+        },
+        {
+          "accent": null,
+          "button": {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(240, 90, 41)",
+            "h": 44,
+            "w": 203.875
+          },
+          "card": {
+            "h": 282.5208435058594,
+            "w": 350
+          },
+          "description": "Reconstruction service information and retained project examples.",
+          "descriptionTop": 146.66650390625,
+          "h3Color": "rgb(51, 65, 85)",
+          "h3Font": "Montserrat",
+          "h3Height": 26,
+          "h3Size": "20px",
+          "link": "#",
+          "title": "Reconstruction"
+        },
+        {
+          "accent": null,
+          "button": {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(240, 90, 41)",
+            "h": 44,
+            "w": 202.5729217529297
+          },
+          "card": {
+            "h": 282.5208435058594,
+            "w": 350
+          },
+          "description": "Existing residential storm damage service information.",
+          "descriptionTop": 146.666748046875,
+          "h3Color": "rgb(51, 65, 85)",
+          "h3Font": "Montserrat",
+          "h3Height": 26,
+          "h3Size": "20px",
+          "link": "#",
+          "title": "Storm Damage"
+        },
+        {
+          "accent": null,
+          "button": {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(240, 90, 41)",
+            "h": 44,
+            "w": 179.11459350585938
+          },
+          "card": {
+            "h": 308.5208435058594,
+            "w": 350
+          },
+          "description": "Existing contents and personal property restoration information.",
+          "descriptionTop": 172.666748046875,
+          "h3Color": "rgb(51, 65, 85)",
+          "h3Font": "Montserrat",
+          "h3Height": 52,
+          "h3Size": "20px",
+          "link": "#",
+          "title": "Personal Property Restoration"
+        }
+      ],
+      "loggedIn": true,
+      "overflow": false,
+      "width": 390
+    }
+  ],
+  "after": [
+    {
+      "cards": [
+        {
+          "accent": {
+            "color": "rgb(240, 90, 41)",
+            "gapAbove": 8.000019073486328,
+            "gapBelow": 8,
+            "h": 3,
+            "radius": "2px",
+            "w": 36
+          },
+          "button": {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(240, 90, 41)",
+            "h": 44,
+            "w": 202.52084350585935
+          },
+          "card": {
+            "h": 306.71875,
+            "w": 362.6666870117187
+          },
+          "description": "Water damage assessment, restoration and related service information.",
+          "descriptionTop": 162.86456298828125,
+          "h3Color": "rgb(51, 65, 85)",
+          "h3Font": "Montserrat",
+          "h3Height": 31.197917938232425,
+          "h3Size": "24px",
+          "link": "#",
+          "title": "Water Damage"
+        },
+        {
+          "accent": {
+            "color": "rgb(240, 90, 41)",
+            "gapAbove": 8.000019073486328,
+            "gapBelow": 8,
+            "h": 3,
+            "radius": "2px",
+            "w": 36
+          },
+          "button": {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(240, 90, 41)",
+            "h": 44,
+            "w": 187.7916717529297
+          },
+          "card": {
+            "h": 306.71875,
+            "w": 362.6666870117187
+          },
+          "description": "Fire and smoke restoration service information.",
+          "descriptionTop": 162.86456298828125,
+          "h3Color": "rgb(51, 65, 85)",
+          "h3Font": "Montserrat",
+          "h3Height": 31.197917938232425,
+          "h3Size": "24px",
+          "link": "#",
+          "title": "Fire & Smoke Damage"
+        },
+        {
+          "accent": {
+            "color": "rgb(240, 90, 41)",
+            "gapAbove": 8.000019073486328,
+            "gapBelow": 8,
+            "h": 3,
+            "radius": "2px",
+            "w": 36
+          },
+          "button": {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(240, 90, 41)",
+            "h": 44,
+            "w": 128.95834350585938
+          },
+          "card": {
+            "h": 306.71875,
+            "w": 362.6666870117187
+          },
+          "description": "Mold removal and remediation service information.",
+          "descriptionTop": 162.86456298828125,
+          "h3Color": "rgb(51, 65, 85)",
+          "h3Font": "Montserrat",
+          "h3Height": 31.197917938232425,
+          "h3Size": "24px",
+          "link": "#",
+          "title": "Mold Remediation"
+        },
+        {
+          "accent": {
+            "color": "rgb(240, 90, 41)",
+            "gapAbove": 8.000080108642578,
+            "gapBelow": 8,
+            "h": 3,
+            "radius": "2px",
+            "w": 36
+          },
+          "button": {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(240, 90, 41)",
+            "h": 44,
+            "w": 203.875
+          },
+          "card": {
+            "h": 337.91668701171875,
+            "w": 362.6666870117187
+          },
+          "description": "Reconstruction service information and retained project examples.",
+          "descriptionTop": 162.8646240234375,
+          "h3Color": "rgb(51, 65, 85)",
+          "h3Font": "Montserrat",
+          "h3Height": 31.197917938232425,
+          "h3Size": "24px",
+          "link": "#",
+          "title": "Reconstruction"
+        },
+        {
+          "accent": {
+            "color": "rgb(240, 90, 41)",
+            "gapAbove": 8.000080108642578,
+            "gapBelow": 8,
+            "h": 3,
+            "radius": "2px",
+            "w": 36
+          },
+          "button": {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(240, 90, 41)",
+            "h": 44,
+            "w": 202.5729217529297
+          },
+          "card": {
+            "h": 337.91668701171875,
+            "w": 362.6666870117187
+          },
+          "description": "Existing residential storm damage service information.",
+          "descriptionTop": 162.8646240234375,
+          "h3Color": "rgb(51, 65, 85)",
+          "h3Font": "Montserrat",
+          "h3Height": 31.197917938232425,
+          "h3Size": "24px",
+          "link": "#",
+          "title": "Storm Damage"
+        },
+        {
+          "accent": {
+            "color": "rgb(240, 90, 41)",
+            "gapAbove": 8.000038146972656,
+            "gapBelow": 8,
+            "h": 3,
+            "radius": "2px",
+            "w": 36
+          },
+          "button": {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(240, 90, 41)",
+            "h": 44,
+            "w": 179.11459350585938
+          },
+          "card": {
+            "h": 337.91668701171875,
+            "w": 362.6666870117187
+          },
+          "description": "Existing contents and personal property restoration information.",
+          "descriptionTop": 194.0625,
+          "h3Color": "rgb(51, 65, 85)",
+          "h3Font": "Montserrat",
+          "h3Height": 62.39583587646485,
+          "h3Size": "24px",
+          "link": "#",
+          "title": "Personal Property Restoration"
+        }
+      ],
+      "loggedIn": false,
+      "overflow": false,
+      "width": 1440
+    },
+    {
+      "cards": [
+        {
+          "accent": {
+            "color": "rgb(240, 90, 41)",
+            "gapAbove": 8,
+            "gapBelow": 8,
+            "h": 3,
+            "radius": "2px",
+            "w": 36
+          },
+          "button": {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(240, 90, 41)",
+            "h": 44,
+            "w": 202.52084350585935
+          },
+          "card": {
+            "h": 304.1145935058594,
+            "w": 398.3333435058594
+          },
+          "description": "Water damage assessment, restoration and related service information.",
+          "descriptionTop": 160.26043701171875,
+          "h3Color": "rgb(51, 65, 85)",
+          "h3Font": "Montserrat",
+          "h3Height": 28.59375,
+          "h3Size": "22px",
+          "link": "#",
+          "title": "Water Damage"
+        },
+        {
+          "accent": {
+            "color": "rgb(240, 90, 41)",
+            "gapAbove": 8,
+            "gapBelow": 8,
+            "h": 3,
+            "radius": "2px",
+            "w": 36
+          },
+          "button": {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(240, 90, 41)",
+            "h": 44,
+            "w": 187.7916717529297
+          },
+          "card": {
+            "h": 304.1145935058594,
+            "w": 398.3333435058594
+          },
+          "description": "Fire and smoke restoration service information.",
+          "descriptionTop": 160.26043701171875,
+          "h3Color": "rgb(51, 65, 85)",
+          "h3Font": "Montserrat",
+          "h3Height": 28.59375,
+          "h3Size": "22px",
+          "link": "#",
+          "title": "Fire & Smoke Damage"
+        },
+        {
+          "accent": {
+            "color": "rgb(240, 90, 41)",
+            "gapAbove": 8,
+            "gapBelow": 8,
+            "h": 3,
+            "radius": "2px",
+            "w": 36
+          },
+          "button": {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(240, 90, 41)",
+            "h": 44,
+            "w": 128.95834350585938
+          },
+          "card": {
+            "h": 304.1145935058594,
+            "w": 398.3333435058594
+          },
+          "description": "Mold removal and remediation service information.",
+          "descriptionTop": 160.2603759765625,
+          "h3Color": "rgb(51, 65, 85)",
+          "h3Font": "Montserrat",
+          "h3Height": 28.59375,
+          "h3Size": "22px",
+          "link": "#",
+          "title": "Mold Remediation"
+        },
+        {
+          "accent": {
+            "color": "rgb(240, 90, 41)",
+            "gapAbove": 8,
+            "gapBelow": 8,
+            "h": 3,
+            "radius": "2px",
+            "w": 36
+          },
+          "button": {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(240, 90, 41)",
+            "h": 44,
+            "w": 203.875
+          },
+          "card": {
+            "h": 304.1145935058594,
+            "w": 398.3333435058594
+          },
+          "description": "Reconstruction service information and retained project examples.",
+          "descriptionTop": 160.2603759765625,
+          "h3Color": "rgb(51, 65, 85)",
+          "h3Font": "Montserrat",
+          "h3Height": 28.59375,
+          "h3Size": "22px",
+          "link": "#",
+          "title": "Reconstruction"
+        },
+        {
+          "accent": {
+            "color": "rgb(240, 90, 41)",
+            "gapAbove": 8,
+            "gapBelow": 8,
+            "h": 3,
+            "radius": "2px",
+            "w": 36
+          },
+          "button": {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(240, 90, 41)",
+            "h": 44,
+            "w": 202.5729217529297
+          },
+          "card": {
+            "h": 332.7083435058594,
+            "w": 398.3333435058594
+          },
+          "description": "Existing residential storm damage service information.",
+          "descriptionTop": 160.2603759765625,
+          "h3Color": "rgb(51, 65, 85)",
+          "h3Font": "Montserrat",
+          "h3Height": 28.59375,
+          "h3Size": "22px",
+          "link": "#",
+          "title": "Storm Damage"
+        },
+        {
+          "accent": {
+            "color": "rgb(240, 90, 41)",
+            "gapAbove": 8,
+            "gapBelow": 8,
+            "h": 3,
+            "radius": "2px",
+            "w": 36
+          },
+          "button": {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(240, 90, 41)",
+            "h": 44,
+            "w": 179.11459350585938
+          },
+          "card": {
+            "h": 332.7083435058594,
+            "w": 398.3333435058594
+          },
+          "description": "Existing contents and personal property restoration information.",
+          "descriptionTop": 188.8541259765625,
+          "h3Color": "rgb(51, 65, 85)",
+          "h3Font": "Montserrat",
+          "h3Height": 57.1875,
+          "h3Size": "22px",
+          "link": "#",
+          "title": "Personal Property Restoration"
+        }
+      ],
+      "loggedIn": false,
+      "overflow": false,
+      "width": 900
+    },
+    {
+      "cards": [
+        {
+          "accent": {
+            "color": "rgb(240, 90, 41)",
+            "gapAbove": 8,
+            "gapBelow": 8,
+            "h": 3,
+            "radius": "2px",
+            "w": 36
+          },
+          "button": {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(240, 90, 41)",
+            "h": 44,
+            "w": 202.52084350585935
+          },
+          "card": {
+            "h": 285.5208435058594,
+            "w": 350
+          },
+          "description": "Water damage assessment, restoration and related service information.",
+          "descriptionTop": 149.66668701171875,
+          "h3Color": "rgb(51, 65, 85)",
+          "h3Font": "Montserrat",
+          "h3Height": 26,
+          "h3Size": "20px",
+          "link": "#",
+          "title": "Water Damage"
+        },
+        {
+          "accent": {
+            "color": "rgb(240, 90, 41)",
+            "gapAbove": 8,
+            "gapBelow": 8,
+            "h": 3,
+            "radius": "2px",
+            "w": 36
+          },
+          "button": {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(240, 90, 41)",
+            "h": 44,
+            "w": 187.7916717529297
+          },
+          "card": {
+            "h": 285.5208435058594,
+            "w": 350
+          },
+          "description": "Fire and smoke restoration service information.",
+          "descriptionTop": 149.66668701171875,
+          "h3Color": "rgb(51, 65, 85)",
+          "h3Font": "Montserrat",
+          "h3Height": 26,
+          "h3Size": "20px",
+          "link": "#",
+          "title": "Fire & Smoke Damage"
+        },
+        {
+          "accent": {
+            "color": "rgb(240, 90, 41)",
+            "gapAbove": 8,
+            "gapBelow": 8,
+            "h": 3,
+            "radius": "2px",
+            "w": 36
+          },
+          "button": {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(240, 90, 41)",
+            "h": 44,
+            "w": 128.95834350585938
+          },
+          "card": {
+            "h": 285.5208435058594,
+            "w": 350
+          },
+          "description": "Mold removal and remediation service information.",
+          "descriptionTop": 149.6666259765625,
+          "h3Color": "rgb(51, 65, 85)",
+          "h3Font": "Montserrat",
+          "h3Height": 26,
+          "h3Size": "20px",
+          "link": "#",
+          "title": "Mold Remediation"
+        },
+        {
+          "accent": {
+            "color": "rgb(240, 90, 41)",
+            "gapAbove": 8,
+            "gapBelow": 8,
+            "h": 3,
+            "radius": "2px",
+            "w": 36
+          },
+          "button": {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(240, 90, 41)",
+            "h": 44,
+            "w": 203.875
+          },
+          "card": {
+            "h": 285.5208435058594,
+            "w": 350
+          },
+          "description": "Reconstruction service information and retained project examples.",
+          "descriptionTop": 149.6666259765625,
+          "h3Color": "rgb(51, 65, 85)",
+          "h3Font": "Montserrat",
+          "h3Height": 26,
+          "h3Size": "20px",
+          "link": "#",
+          "title": "Reconstruction"
+        },
+        {
+          "accent": {
+            "color": "rgb(240, 90, 41)",
+            "gapAbove": 8,
+            "gapBelow": 8,
+            "h": 3,
+            "radius": "2px",
+            "w": 36
+          },
+          "button": {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(240, 90, 41)",
+            "h": 44,
+            "w": 202.5729217529297
+          },
+          "card": {
+            "h": 285.5208435058594,
+            "w": 350
+          },
+          "description": "Existing residential storm damage service information.",
+          "descriptionTop": 149.666748046875,
+          "h3Color": "rgb(51, 65, 85)",
+          "h3Font": "Montserrat",
+          "h3Height": 26,
+          "h3Size": "20px",
+          "link": "#",
+          "title": "Storm Damage"
+        },
+        {
+          "accent": {
+            "color": "rgb(240, 90, 41)",
+            "gapAbove": 8,
+            "gapBelow": 8,
+            "h": 3,
+            "radius": "2px",
+            "w": 36
+          },
+          "button": {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(240, 90, 41)",
+            "h": 44,
+            "w": 179.11459350585938
+          },
+          "card": {
+            "h": 311.5208435058594,
+            "w": 350
+          },
+          "description": "Existing contents and personal property restoration information.",
+          "descriptionTop": 175.66650390625,
+          "h3Color": "rgb(51, 65, 85)",
+          "h3Font": "Montserrat",
+          "h3Height": 52,
+          "h3Size": "20px",
+          "link": "#",
+          "title": "Personal Property Restoration"
+        }
+      ],
+      "loggedIn": false,
+      "overflow": false,
+      "width": 390
+    }
+  ]
+}

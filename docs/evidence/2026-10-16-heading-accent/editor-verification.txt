@@ -1,0 +1,1 @@
+Actual Homepage154 editor → Edit ROBYLO / Service Card62. Navigator exposes Service Copy / Service Title / Heading Accent / Service Description. Selected heading-accent global class; native Size controls show Width36px Height3px. Component properties count5; Publish disabled during read-only verification. No verification edits.

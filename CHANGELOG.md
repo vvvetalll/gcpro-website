@@ -1,5 +1,10 @@
 # GCPRO changelog
 
+## 2026-10-16 — Shared service-heading accent — E25
+
+- Component62 adds native36×3px orange/radius2 line below H3; one copy wrapper preserves compact8px gaps. Reuses stack/color-accent/space-xs; new reusable heading-accent and stack--tight native Global Classes. Original nodes/5 Overrides and Homepage154 tree unchanged. No local styles/custom code/components/dependencies.
+- Actual anonymous1440/900/390 and authenticated/native editor verified after staging cache purge, including two-line heading and mobile+3px height. Incognito/physical tests pending; supplementary HTTP client403 documented. [E25 evidence/editing](docs/milestones/2026-10-16-service-heading-accent.md).
+
 ## 2026-10-16 — Icon scale and Mold refinement — E24
 
 - Existing service-card__icon native padding12→10 gives36px artwork (+12.5%) in unchanged56px badges. Updated only B mold source to navy spore/orange cleaning sparkle and native Media607/instance Override; prior source/media preserved, five other designs unchanged. No new styles/classes/components/code/dependencies.

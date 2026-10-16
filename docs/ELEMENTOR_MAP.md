@@ -1,5 +1,7 @@
 # GCPRO Elementor map
 
+E25, 2026-10-16: shared Service Card62 root6cd5ab9f now orders SVG4a4396ac → Service Copy74f0f62a → CTA210ecf0d. Copy contains original H3 4a877e1a → Heading Accent336aa061 → original description295090e4. All five Override targets preserved; Homepage154 tree/instance content unchanged. New Global Classes heading-accent g-01bd1bd and stack--tight g-19f58a6; no new Component. [Native editing, evidence and recovery](milestones/2026-10-16-service-heading-accent.md).
+
 E24: Homepage154 Mold instance4ac87e43 icon Override598→607 (spore/cleaning sparkle). Five other IDs596/597/599/600/601 retained. Existing badge classg-b759e84 padding12→10 produces36px SVG within56px badge; shared Component62 structure/Overrides unchanged. [Exact scope and audit](milestones/2026-10-16-icon-refinement.md).
 
 E23: Homepage154 core instances28d9f7c/7ce1a666/4ac87e43/95336d4/318ea723/22d372d7 now use approved B SVG Media596/597/598/599/600/601 respectively. Shared Component62/default icon and other consumers unchanged. Only six icon Overrides changed; original sources retained. [Mapping and native upload details](milestones/2026-10-16-icon-b-integration.md).

@@ -1,0 +1,16 @@
+{
+  "homepageTreeUnchanged": true,
+  "originalComponentNodesUnchangedExcludingChildPlacement": true,
+  "originalNodeCount": 5,
+  "newNodeCount": 7,
+  "newNodeIDs": [
+    "74f0f62a",
+    "336aa061"
+  ],
+  "allLocalStyleArraysEmpty": true,
+  "components": 16,
+  "classesBefore": 89,
+  "classesAfter": 91,
+  "existingClassRegistryOrderPreserved": true,
+  "variablesUnchanged": true
+}

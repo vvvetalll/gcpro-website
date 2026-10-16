@@ -1,0 +1,175 @@
+{
+  "cards": [
+    {
+      "accent": {
+        "color": "rgb(240, 90, 41)",
+        "gapAbove": 8.00001335144043,
+        "gapBelow": 8,
+        "h": 3,
+        "radius": "2px",
+        "w": 36
+      },
+      "button": {
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(240, 90, 41)",
+        "h": 44,
+        "w": 202.97222900390625
+      },
+      "card": {
+        "h": 307.1666564941406,
+        "w": 362.6666564941406
+      },
+      "description": "Water damage assessment, restoration and related service information.",
+      "descriptionTop": 163.0833740234375,
+      "h3Color": "rgb(51, 65, 85)",
+      "h3Font": "Montserrat",
+      "h3Height": 31.19444465637207,
+      "h3Size": "24px",
+      "link": "#",
+      "title": "Water Damage"
+    },
+    {
+      "accent": {
+        "color": "rgb(240, 90, 41)",
+        "gapAbove": 8.00001335144043,
+        "gapBelow": 8,
+        "h": 3,
+        "radius": "2px",
+        "w": 36
+      },
+      "button": {
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(240, 90, 41)",
+        "h": 44,
+        "w": 188.23611450195312
+      },
+      "card": {
+        "h": 307.1666564941406,
+        "w": 362.6666564941406
+      },
+      "description": "Fire and smoke restoration service information.",
+      "descriptionTop": 163.0833740234375,
+      "h3Color": "rgb(51, 65, 85)",
+      "h3Font": "Montserrat",
+      "h3Height": 31.19444465637207,
+      "h3Size": "24px",
+      "link": "#",
+      "title": "Fire & Smoke Damage"
+    },
+    {
+      "accent": {
+        "color": "rgb(240, 90, 41)",
+        "gapAbove": 8.00001335144043,
+        "gapBelow": 8,
+        "h": 3,
+        "radius": "2px",
+        "w": 36
+      },
+      "button": {
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(240, 90, 41)",
+        "h": 44,
+        "w": 129.4027862548828
+      },
+      "card": {
+        "h": 307.1666564941406,
+        "w": 362.6666564941406
+      },
+      "description": "Mold removal and remediation service information.",
+      "descriptionTop": 163.0833740234375,
+      "h3Color": "rgb(51, 65, 85)",
+      "h3Font": "Montserrat",
+      "h3Height": 31.19444465637207,
+      "h3Size": "24px",
+      "link": "#",
+      "title": "Mold Remediation"
+    },
+    {
+      "accent": {
+        "color": "rgb(240, 90, 41)",
+        "gapAbove": 7.99989128112793,
+        "gapBelow": 8,
+        "h": 3,
+        "radius": "2px",
+        "w": 36
+      },
+      "button": {
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(240, 90, 41)",
+        "h": 44,
+        "w": 204.31944274902344
+      },
+      "card": {
+        "h": 338.3611145019531,
+        "w": 362.6666564941406
+      },
+      "description": "Reconstruction service information and retained project examples.",
+      "descriptionTop": 163.083251953125,
+      "h3Color": "rgb(51, 65, 85)",
+      "h3Font": "Montserrat",
+      "h3Height": 31.19444465637207,
+      "h3Size": "24px",
+      "link": "#",
+      "title": "Reconstruction"
+    },
+    {
+      "accent": {
+        "color": "rgb(240, 90, 41)",
+        "gapAbove": 7.99989128112793,
+        "gapBelow": 8,
+        "h": 3,
+        "radius": "2px",
+        "w": 36
+      },
+      "button": {
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(240, 90, 41)",
+        "h": 44,
+        "w": 203.01388549804688
+      },
+      "card": {
+        "h": 338.3611145019531,
+        "w": 362.6666564941406
+      },
+      "description": "Existing residential storm damage service information.",
+      "descriptionTop": 163.083251953125,
+      "h3Color": "rgb(51, 65, 85)",
+      "h3Font": "Montserrat",
+      "h3Height": 31.19444465637207,
+      "h3Size": "24px",
+      "link": "#",
+      "title": "Storm Damage"
+    },
+    {
+      "accent": {
+        "color": "rgb(240, 90, 41)",
+        "gapAbove": 8.00002670288086,
+        "gapBelow": 8,
+        "h": 3,
+        "radius": "2px",
+        "w": 36
+      },
+      "button": {
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(240, 90, 41)",
+        "h": 44,
+        "w": 179.56944274902344
+      },
+      "card": {
+        "h": 338.3611145019531,
+        "w": 362.6666564941406
+      },
+      "description": "Existing contents and personal property restoration information.",
+      "descriptionTop": 194.27783203125,
+      "h3Color": "rgb(51, 65, 85)",
+      "h3Font": "Montserrat",
+      "h3Height": 62.38888931274414,
+      "h3Size": "24px",
+      "link": "#",
+      "title": "Personal Property Restoration"
+    }
+  ],
+  "loggedIn": true,
+  "overflow": false,
+  "width": 1516
+}

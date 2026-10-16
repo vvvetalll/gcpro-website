@@ -1,0 +1,1 @@
+{"status":403,"client":"PowerShell Invoke-WebRequest","limitation":"Supplementary HTTP client forbidden; no cache-header/source verification claimed. Actual anonymous Chrome rendering passed; see qa.json/screenshots."}

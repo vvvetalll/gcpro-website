@@ -1,0 +1,113 @@
+[
+  {
+    "id": "g-19f58a6",
+    "label": "stack--tight",
+    "type": "class",
+    "variants": [
+      {
+        "meta": {
+          "breakpoint": "desktop",
+          "state": null
+        },
+        "props": {
+          "gap": {
+            "$$type": "global-size-variable",
+            "value": "e-gv-ae8c2d2"
+          }
+        },
+        "custom_css": null
+      },
+      {
+        "meta": {
+          "breakpoint": "mobile",
+          "state": null
+        },
+        "props": {
+          "gap": {
+            "$$type": "global-size-variable",
+            "value": "e-gv-ae8c2d2"
+          }
+        },
+        "custom_css": null
+      }
+    ]
+  },
+  {
+    "id": "g-01bd1bd",
+    "label": "heading-accent",
+    "type": "class",
+    "variants": [
+      {
+        "meta": {
+          "breakpoint": "desktop",
+          "state": null
+        },
+        "props": {
+          "width": {
+            "$$type": "size",
+            "value": {
+              "size": 36,
+              "unit": "px"
+            }
+          },
+          "height": {
+            "$$type": "size",
+            "value": {
+              "size": 3,
+              "unit": "px"
+            }
+          },
+          "min-width": {
+            "$$type": "size",
+            "value": {
+              "size": 0,
+              "unit": "px"
+            }
+          },
+          "padding": {
+            "$$type": "size",
+            "value": {
+              "size": 0,
+              "unit": "px"
+            }
+          },
+          "margin": {
+            "$$type": "size",
+            "value": {
+              "size": 0,
+              "unit": "px"
+            }
+          },
+          "border-radius": {
+            "$$type": "size",
+            "value": {
+              "size": 2,
+              "unit": "px"
+            }
+          },
+          "border-width": {
+            "$$type": "size",
+            "value": {
+              "size": 0,
+              "unit": "px"
+            }
+          },
+          "background": {
+            "$$type": "background",
+            "value": {
+              "color": {
+                "$$type": "global-color-variable",
+                "value": "e-gv-a9a1731"
+              }
+            }
+          },
+          "align-self": {
+            "$$type": "string",
+            "value": "flex-start"
+          }
+        },
+        "custom_css": null
+      }
+    ]
+  }
+]
