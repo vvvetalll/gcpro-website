@@ -1,5 +1,10 @@
 # GCPRO changelog
 
+## 2026-10-16 — Core Services Orange Outline CTAs — E21
+
+- Reused existing Orange Outline on Service Card62 CTA; removed competing navy color/hover/focus rules from compact service-card__action. Transparent/orange default, orange/white hover, native200ms transition and existing focus indicator. Dimensions, labels, Overrides, # destinations and card design preserved; no new technical resources/custom code.
+- All-six anonymous hover, keyboard focus and1440/390 layout checked after staging cache purge; authenticated hover confirmed. Brand contrast limitation and pending incognito/physical checks recorded. [E21](docs/milestones/2026-10-16-core-orange-cta.md).
+
 ## 2026-10-16 — Timeline number color — E20
 
 - Extended existing Code590 CSS with one color-only keyframe: white→accent→white over1160ms, matching each unchanged ripple pair and mobile400ms stagger. Desktop whole-step trigger, existing mobile observer/state, reduced-motion gate; no JS/theme/layout/class/component changes.

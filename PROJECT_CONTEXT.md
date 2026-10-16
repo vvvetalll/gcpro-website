@@ -1,6 +1,10 @@
 # GCPRO project context
 
-Last reviewed: 2026-10-16 (America/Chicago). Current implementation: ripple-synchronized number color (E20), preserving Core Services card refinement E19. Anonymous timeline cache resolution E18 and mobile/desktop effects E17/E16 preserved. Approved SEO Page skeleton E14 and E13 archive findings remain preserved. Earlier implementation records below remain dated history.
+## Current milestone — E21: Orange Outline CTA correction
+
+2026-10-16: Service Card62 CTA210ecf0d reuses existing button-outline-orange; service-card__action retains compact geometry/native200ms transition, with redundant navy normal/hover/focus colors removed. All six CTAs are transparent/orange normally and orange/white on hover. Focus indicator,44px height, labels, # destinations, Overrides and card design preserved. No new resources/custom code. Logged-out1440/390/all-six hover/keyboard checks after cache purge and authenticated hover confirmed. Incognito/physical tests and existing destinations pending; fixed-brand contrast limitation documented. [E21 evidence/editing/recovery](docs/milestones/2026-10-16-core-orange-cta.md). E20 timeline and all prior unrelated implementation preserved.
+
+Last reviewed: 2026-10-16 (America/Chicago). Current implementation: Orange Outline service CTA correction E21, preserving timeline number color E20 and service cards E19. Anonymous timeline cache resolution E18 and mobile/desktop effects E17/E16 preserved. Approved SEO Page skeleton E14 and E13 archive findings remain preserved. Earlier implementation records below remain dated history.
 
 ## Timeline number-color refinement — E20
 

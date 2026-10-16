@@ -1,5 +1,7 @@
 # GCPRO Elementor map
 
+E21: Component62 CTA210ecf0d uses existing button-outline-orange g-563da68 plus service-card__action g-d0416c8. Compact class no longer overrides colors/hover/focus; existing Orange Outline owns orange/white hover. Native transition200ms; no structure/Override/content/destination changes. Shared Style Guide50 examples inherit styling; no Homepage154 content write. [Details](milestones/2026-10-16-core-orange-cta.md).
+
 E20: Code590 remains Homepage154-only and now includes the color-only `gcpro-process-number` keyframe in existing integrations/process-timeline-mobile.css. Reuses current hover/played triggers and stagger; no JS, theme, global typography or Atomic structure changes. [Source, timing, accessibility and QA](milestones/2026-10-16-timeline-number-color.md).
 
 E19: Existing Service Card62 retains five nodes/Override keys; SVG4a4396ac adds service-card__icon, CTA210ecf0d replaces text-link with service-card__action. Homepage154 grid5a3d7f5d removes grid--flush; six instances/contents/destinations unchanged. Shared Style Guide50 examples inherit the refinement. [Details/editing/QA](milestones/2026-10-16-service-cards.md).
