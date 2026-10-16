@@ -1,5 +1,11 @@
 # GCPRO Elementor map
 
+## Homepage process timeline — E15, 2026-10-16
+
+Homepage154 section `4681b8f5` / container `4a8f9eb5` / heading71 instance `5494e63e` preserved. Retained Process Steps `5a7e87b2` now uses existing layout-reset and one instance `79a67ca3` of new **ROBYLO / Process Timeline582** (UID `component-05873ba5-60ba-44ec-9fed-ffb25ced3f75`, root `16ae2220`). Twelve supported overrides are grouped Step1–4: `step_N_number`, `step_N_title`, `step_N_description`. Use instance Content controls without detaching; shared layout uses four documented native Global Classes.
+
+Only the four previous Feature65 process instances were replaced. Shared Feature65, Why GCPRO usages, Header113/Footer114 and eight other Homepage sections compare exactly equal on fresh saved reads. Titles Contact/Assessment/Restoration/Review and descriptions unchanged. [Implementation/editing/verification/recovery](milestones/2026-10-16-process-timeline.md); whole-step hover now uses the approved scoped external exception and existing native transition. Direct [component editor](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=582&action=elementor); verified in-context Edit Component path from Homepage154. No service-page instances, SEO object or URL changes.
+
 Environment: https://vitaliiv1.sg-host.com. Last read: 2026-10-16. IDs are installation-specific and must be rechecked before writes. Sources E3–E5 are defined in [PROJECT_CONTEXT](../PROJECT_CONTEXT.md#evidence-register).
 
 **Verified** below means returned by the indicated read-only MCP inventory/schema/structure in this task. It does not mean the document is visually approved, every instance was tested, or frontend/editor behavior was verified. **Reported** means an earlier chat/artifact claim not fully repeated here.

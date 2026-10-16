@@ -1,6 +1,14 @@
 # GCPRO project context
 
-Last reviewed: 2026-10-16 (America/Chicago). Current milestone: approved SEO Page skeleton completed through native authenticated WordPress REST (E14); E13 archive findings remain preserved. Earlier implementation records below remain dated history.
+Last reviewed: 2026-10-16 (America/Chicago). Current implementation: Homepage How We Work timeline and verified whole-step hover (E15), awaiting visual approval. Approved SEO Page skeleton E14 and E13 archive findings remain preserved. Earlier implementation records below remain dated history.
+
+## Homepage process timeline — E15
+
+Homepage154 now uses one native reusable **ROBYLO / Process Timeline 582**, instance `79a67ca3`, inside existing Process Steps `5a7e87b2`. Desktop has four horizontal steps connected through circle centers; tablet/mobile use a vertical timeline with copy to the right. All four original numbers, titles and descriptions are preserved. Feature Card65 remains unchanged: its shared icon/border layout could not be repurposed independently through the exposed content overrides without altering unrelated consumers.
+
+Four new native Global Classes support the pattern: `process-timeline`, `process-timeline__step`, `process-timeline__number`, `process-timeline__connector`. Existing typography, stack/reset classes, heading Component71 and Variables are reused. Each step exposes Number/Title/Description: 12 standard Component Overrides. A temporary Step2 number edit changed only that step, was restored to 02, saved and independently re-read. No new Variables, plugins or dependencies.
+
+Actual CSS viewport checks at 1440/1200/900/390 showed aligned circle centers/continuous connectors, Montserrat numbers, preserved reading order and zero horizontal overflow. All 24 component nodes have empty local style arrays; the rendered timeline has zero inline style attributes. Full saved reads confirm eight unrelated Homepage sections, Feature65, Header113 and Footer114 unchanged. [E15 record](docs/milestones/2026-10-16-process-timeline.md) documents editing, additions, limits and recovery. Owner-approved minimal external CSS now changes the circle on **whole-step hover**, with a thin orange outline; native Global Class supplies the 200ms background transition. Reduced motion disables it; touch uses the complete default. Canonical exception: `theme-overrides/process-timeline.css`, appended to staging ROBYLO Starter `assets/css/fallback.css`. Shared repository untouched; no Elementor Custom CSS retained.
 
 ## Current completed Page skeleton — E14
 
@@ -98,10 +106,12 @@ No production migration, SEO redirects, launch, or deployment is authorized by t
 
 ## Evidence register
 
+
 Use these labels throughout the documentation. Observed facts are limited to the specified read; sources can become stale.
 
 | Ref | Source and date | What it establishes / limits |
 | --- | --- | --- |
+| E15 | Native Elementor saved trees/classes; actual IAB geometry at1440/1200/900/390, native override edit/restore, real parent-hover pointer test, reduced-motion/touch emulation and exact native Theme File Editor readback; [evidence](docs/evidence/2026-10-16-process-timeline.json) | Reusable timeline582, four new native classes, preserved original content/other eight sections/Feature65/Header/Footer; approved minimal external hover exception. No production, shared starter source, service-page design, physical device, screen-reader or performance benchmark. |
 | E14 | Native authenticated staging Pages GET/OPTIONS/POST, capability read, private scoped before/after Page/settings snapshots, full preserved-resource reads, actual editor514/Reading UI and anonymous robots meta; [evidence](docs/evidence/2026-10-16-completed-page-skeleton.json) | 64 created child Drafts/paths, all81 approved Page mappings, unchanged previous21 Pages/layouts/global resources and noindex; preserved200/207 audit/8 holds/E13 archive findings. No public route-resolution, page design, publishing, link implementation, production changes, archive-source resolution or full DB/files restore test. |
 | E13 | Owner-supplied January history; fresh production public GET/REST at 2026-10-16 17:00 UTC, actual IAB Blog/Portfolio/sample-single DOM and production admin access check; [evidence](docs/evidence/2026-10-16-archive-routing.json) | Rendered Archive 6858/8412, current title/H1/meta/canonicals, registered Portfolio type, Page/menu/category signals and differing single navigation markers. Current Blog posts-index mapping remains provisional; no authenticated Reading/conditions/PHP source or exact code path. Documentation-only follow-up; no site changes. |
 | E12 | Authoritative workbook/build register read; dated public production REST/HTML; native WordPress Pages/Quick Edit/Parent/Reading/menu UI and staging public types/taxonomies; MCP create/re-read and full 154/113/114 before/after reads, 2026-10-16 | [207-row inventory](docs/SEO_URL_INVENTORY.csv), [architecture and exact outcomes](docs/SEO_STRUCTURE.md): 15 new root Drafts, 2 reused objects, 64 children blocked by Draft-parent controls; preserved layouts/noindex. No production writes, publishing, redirect execution, link implementation, visual templates, responsive replay or full backup/restore verification. |

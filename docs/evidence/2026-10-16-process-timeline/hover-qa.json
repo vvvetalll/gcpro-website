@@ -1,0 +1,20 @@
+{
+  "finalHover": {
+    "background": "rgb(20, 40, 98)",
+    "circleHeight": 64,
+    "circleWidth": 64,
+    "cursor": "auto",
+    "documentX": 141.7777862548828,
+    "documentY": 2692.1389770507812,
+    "outline": "rgb(240, 90, 41) solid 0.888889px",
+    "parentHover": true,
+    "selfHover": false,
+    "transform": "none",
+    "transitionDuration": "0.2s"
+  },
+  "reducedHover": {
+    "bg": "rgb(20, 40, 98)",
+    "duration": "0s",
+    "matches": true
+  }
+}

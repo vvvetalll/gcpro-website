@@ -1,0 +1,100 @@
+{
+  "id": "E15",
+  "date": "2026-10-16",
+  "timezone": "America/Chicago",
+  "environment": "https://vitaliiv1.sg-host.com",
+  "homepage": 154,
+  "section": "4681b8f5",
+  "component": {
+    "id": 582,
+    "uid": "component-05873ba5-60ba-44ec-9fed-ffb25ced3f75",
+    "instance": "79a67ca3",
+    "overrides": 12,
+    "nodes": 24,
+    "localStyleNodes": 0
+  },
+  "preservation": {
+    "unchangedSections": [
+      {
+        "id": "a62cdd3",
+        "same": true
+      },
+      {
+        "id": "7b416658",
+        "same": true
+      },
+      {
+        "id": "38ed6da4",
+        "same": true
+      },
+      {
+        "id": "6cde656f",
+        "same": true
+      },
+      {
+        "id": "4221ba60",
+        "same": true
+      },
+      {
+        "id": "5b2c6d3c",
+        "same": true
+      },
+      {
+        "id": "7d8c17ad",
+        "same": true
+      },
+      {
+        "id": "37feb023",
+        "same": true
+      }
+    ],
+    "feature65": true,
+    "header113": true,
+    "footer114": true
+  },
+  "nativeEditability": {
+    "instanceNumberTest": "02 -> 22 -> 02; only second canvas circle changed; restored and saved",
+    "nativeSizeControls": "64px width/height/min-width",
+    "nativeTransition": "background-color: 200ms",
+    "classCustomCSS": "empty after restoring native class; transient shadow fallback removed"
+  },
+  "customCode": {
+    "ownerApproved": true,
+    "source": "theme-overrides/process-timeline.css",
+    "deployed": "/wp-content/themes/robylo-starter/assets/css/fallback.css",
+    "method": "Native WordPress Theme File Editor; success and exact saved readback",
+    "selectors": [
+      ".process-timeline__step:hover .process-timeline__number",
+      ".process-timeline .process-timeline__number"
+    ],
+    "usesExistingTokens": [
+      "color-primary-hover",
+      "color-accent"
+    ],
+    "nativeGap": "No exposed ancestor-hover to child styling relationship",
+    "sharedRepositoryModified": false
+  },
+  "hover": {
+    "realPointerOutsideCircle": true,
+    "parentHover": true,
+    "circleHover": false,
+    "background": "#142862",
+    "transitionMs": 200,
+    "outline": "1px orange with 4px offset",
+    "circle64pxUnchanged": true,
+    "transform": "none",
+    "cursor": "auto",
+    "reducedMotionDurationMs": 0,
+    "mobileTouch": {
+      "width": 390,
+      "hover": false,
+      "pointerFine": false,
+      "defaultComplete": true
+    }
+  },
+  "limitations": [
+    "Responsive browser emulation, not physical device or screen-reader test",
+    "No service-page instantiation or full DB/files restore test",
+    "No performance benchmark"
+  ]
+}

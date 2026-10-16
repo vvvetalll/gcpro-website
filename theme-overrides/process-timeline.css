@@ -1,0 +1,16 @@
+/* GCPRO E15: parent-hover exception; native Global Classes own all base styles.
+ * Canonical block: gcpro-website/theme-overrides/process-timeline.css
+ */
+@media (hover: hover) and (pointer: fine) {
+	.process-timeline__step:hover .process-timeline__number {
+		background-color: var(--color-primary-hover);
+		outline: 1px solid var(--color-accent);
+		outline-offset: 4px;
+	}
+}
+
+@media (prefers-reduced-motion: reduce) {
+	.process-timeline .process-timeline__number {
+		transition: none;
+	}
+}

@@ -1,5 +1,12 @@
 # GCPRO changelog
 
+## 2026-10-16 — Native process timeline and refinement — E15
+
+- Replaced only Homepage154's four generic process instances with reusable Process Timeline582: horizontal four-step line on desktop, vertical circle/copy layout at tablet/mobile. Preserved original step content and section heading.
+- Added four native timeline Global Classes; reused existing number typography, stack/reset classes, Variables and heading Component71. Feature65 and its unrelated consumers remain unchanged. No new Variables, plugins or dependencies.
+- Verified 1440/1200/900/390 CSS px, connector centers/continuity, no overflow, no local styles, actual native content editing and exact preservation of eight other Homepage sections plus Header113/Footer114/Feature65.
+- Owner explicitly approved minimal external CSS for the demonstrated ancestor-state gap. Added only scoped whole-step-to-circle hover and reduced-motion rules to existing staging ROBYLO `assets/css/fallback.css`; canonical client exception is `theme-overrides/process-timeline.css`. Native Global Class supplies 200ms background transition; hover adds an orange outline without resizing. Real pointer over description (not circle), reduced-motion 0s and touch default verified. No shared repository changes, Elementor Custom CSS or additional hover classes/components.
+
 Record verified delivered changes with date, scope, evidence, validation, and remaining limitations. Do not turn a plan or an uncorroborated chat statement into completed development history. Evidence definitions are in [PROJECT_CONTEXT](PROJECT_CONTEXT.md#evidence-register).
 
 ## 2026-10-16 — Complete approved native SEO Page skeleton

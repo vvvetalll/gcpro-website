@@ -1,5 +1,11 @@
 # GCPRO architecture
 
+## Verified staging theme and scoped exception — E15, 2026-10-16
+
+Native staging Theme File Editor identifies active **ROBYLO Starter0.2.0**, theme directory `robylo-starter`. Read-only functions.php shows existing `robylo-fallback` enqueue for `assets/css/fallback.css`, content-MD5 asset versioning. This is newer verified installed evidence than the historical child-theme source observations below; no PHP was changed.
+
+Owner approved minimal whole-process-step hover CSS because exposed native Atomic states cannot style a child from parent hover. Client source [theme-overrides/process-timeline.css](../theme-overrides/process-timeline.css) is appended to the existing staging fallback stylesheet; it is not separately enqueued and not placed in Elementor Custom CSS. Global Classes still own base design/duration; the exception owns only scoped parent→child hover/outline and reduced-motion override. [E15 editing/recovery](milestones/2026-10-16-process-timeline.md#approved-external-css-exception). Shared ROBYLO repository untouched; this client block must be preserved explicitly in future theme deployments. No deployment automation is established.
+
 Reviewed 2026-10-16. Distinguish the intended ownership model from observed installation state; see [evidence](../PROJECT_CONTEXT.md#evidence-register).
 
 ## Ownership and data boundaries

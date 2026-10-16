@@ -1,5 +1,11 @@
 # GCPRO design system
 
+## Process timeline — E15, 2026-10-16
+
+Current register: **87 Global Classes, 36 Variables**. Four added native classes support Component582: `process-timeline` (`g-a12d836`, four-column zero-gap grid→one column at1024px), `process-timeline__step` (`g-07d3365`, column→row step layout), `process-timeline__number` (`g-e17507d`, 64→56px navy/white circle), `process-timeline__connector` (`g-261ecb6`, 2px horizontal→vertical segment). Existing `process-step-number` provides Montserrat600 24/24/22px; stack/compact/reset and color/spacing Variables are reused. Circle class has priority over existing number typography color; other existing class priority relationships are unchanged.
+
+Base properties and the 200ms background transition are native Atomic Global Class settings, editable through the selected class in Style controls; no retained local styles or Elementor Custom CSS. Three native connector divs meet centers continuously; no pseudo-elements. Owner-approved minimal external exception supplies whole-step hover → circle color/outline and reduced motion: [canonical CSS](../theme-overrides/process-timeline.css), deployed in existing ROBYLO Starter `assets/css/fallback.css`. No typography/base-size duplication, plugins, dependencies or shared repository changes. [E15](milestones/2026-10-16-process-timeline.md) contains IDs, capability findings, measured responsive results, editing and recovery. This supersedes only earlier process-grid/card descriptions below.
+
 Observed 2026-10-16 through read-only Elementor MCP on staging (E3 in [PROJECT_CONTEXT](../PROJECT_CONTEXT.md#evidence-register)). These are saved resource values and class identities, not a new design proposal or proof of rendered use. Re-read resources before editing.
 
 ## ZIP UI and Homepage refinements — E8
