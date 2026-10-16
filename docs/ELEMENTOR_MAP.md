@@ -108,6 +108,27 @@ Titles retain their existing numbering even when the order differs. The tree als
 
 No additional unverified numeric page/component ID is invented. If a future handoff reports another ID, add it to this reported section with its source/date until a read verifies host, type, name and status. Do not create absent pages or alter IDs as part of maintaining this map.
 
+## Homepage V2 saved-state reconciliation — E6
+
+Fresh full reads on 2026-10-16 match the prior final snapshot for 154, 62, 65, 68, 80, 86, 286, 113 and 114. This corroborates saved configuration, not a new visual/editor or independent-override test. Details and historical QA: [milestone](milestones/2026-10-16-homepage-v2.md).
+
+| Homepage instance | Role | Saved SVG attachment |
+| --- | --- | --- |
+| `5fa5a818` | Residential | 204 |
+| `4e0d3e66` | Commercial | 205 |
+| `28d9f7c` | Water Damage | 192 |
+| `7ce1a666` | Fire & Smoke Damage | 193 |
+| `4ac87e43` | Mold Remediation | 206 |
+| `95336d4` | Reconstruction | 207 |
+| `318ea723` | Storm Damage | 208 |
+| `22d372d7` | Personal Property Restoration | 209 |
+
+All eight reference existing Component 62 and retain the five exposed fields. Their service destinations are `#`, not completed service routes. The confirmed extra `43e3093` is absent. Style Guide 50 has `edbef13` (Service A, SVG 192) and `2049f456` (Service B, SVG 193); its validation anchors remain `#robylo-content`.
+
+Component 62 has a native SVG, H3, description and text link. Component 80 has an inset CTA panel with primary/secondary actions and six exposed fields. Component 286 is an informational native `div`, not a telephone anchor; `label` exposes Eyebrow Text. Its Homepage instance is `4af4b551`. Phone actions remain separate CTAs. No new Component ID was created for V2.
+
+Header 113 uses the existing WordPress Menu widget `7983af36`. The V2 implementation enabled the native Full Width control through the editor (the working stored value was `stretch`; do not infer it from a connector enum). Header CTA instance `cd66895` and Homepage Request Service actions remain `#` pending a real destination. Hero Call instance `a7bcc76` uses `tel:+18476563322`. Footer 114 matched the prior final snapshot; the earlier milestone also recorded its equality with the pre-V2 snapshot.
+
 ## Updating the map
 
 Record environment, read date, source operation, exact type/title/ID and status. Keep numeric document/component IDs distinct from hexadecimal element IDs and global class IDs. Re-read element structure after mutations because replacements can assign new IDs. Update renamed/deleted entries and move superseded claims into reported history with an explanation.

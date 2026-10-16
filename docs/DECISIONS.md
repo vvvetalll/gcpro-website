@@ -14,6 +14,14 @@ Decisions below are adopted on 2026-10-16 for this documentation system, based o
 | D008 | Accepted | Keep customization transparent and minimal. Hidden CSS/JS and undocumented patches conflict with maintainability. | A necessary authorized exception needs a documented capability gap, exact location, effects and rollback; audit existing legacy rules separately. |
 | D009 | Accepted | Initialize documentation directly on main as explicitly requested. | This does not establish blanket permission for future direct pushes or WordPress writes; use each future task's scope. |
 
+## Subsequent accepted decisions — 2026-10-16
+
+| ID | Status | Decision and reason | Consequence / review trigger |
+| --- | --- | --- | --- |
+| D010 | Accepted; extends D005 and the documentation scope of D009 | The user requires documentation update, commit, push and verified remote delivery after every completed GCPRO development milestone. The current authorized agent may perform this directly with verified access. | Use GCPRO main unless task scope/protections specify another route; never bypass protections. Missing access leaves synchronization explicitly pending. This authorizes documentation synchronization, not additional website or shared ROBYLO changes. |
+| D011 | Accepted implementation choice, recorded from E6/E7 | Reconstruct the existing Service Card 62 and preserve its five supported override keys rather than creating a replacement ID. Use existing 80 and 286 for the CTA and emergency eyebrow. | Current saved eight-card mapping and two Style Guide instances are documented; replay independent-override tests when changing the contract. |
+| D012 | Accepted owner refinement, recorded from E7 and current saved structure | Use an informational 24/7 eyebrow Component with smaller caption and a clear gap; no underline in Hero/the Component, and no underline on city links. | Component 286 has a DIV root and editable label; phone access remains in explicit telephone CTAs. Preserve focus/hover affordances when later destinations are supplied. |
+
 ## Pending decisions
 
 - Accessible CTA treatment for the reported white/orange contrast issue; inspect real states and native options before choosing.

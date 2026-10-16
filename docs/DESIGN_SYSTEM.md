@@ -131,6 +131,42 @@ Source: discovered `elementor://global-classes`, read 2026-10-16. Full returned 
 | 70 | `emergency-mark__slash` | `g-1529654` |
 | 71 | `emergency-mark__label` | `g-32c8e95` |
 
+## HTML Defaults read during integration — E6
+
+These are fresh saved tag-default values, not changes made by this documentation task. Tablet rules use max-width 1024px; mobile rules use max-width 767px. All headings reference `font-heading` (Montserrat), use `color-text` at the default layer, and have zero margin. Dark-section foreground treatment is a separate shared-class concern.
+
+| Tag | Desktop / tablet / mobile size | Weight | Line height | Transform |
+| --- | --- | --- | --- | --- |
+| H1 | `var(--font-size-h1)`; existing clamp token | 700 | 1.1 | uppercase |
+| H2 | 32 / 28 / 24px | 700 | 1.15 | uppercase |
+| H3 | 24 / 22 / 20px | 600 | 1.3 | capitalize |
+| H4 | 20 / 19 / 18px | 600 | 1.3 | capitalize |
+| H5 | 18 / 17 / 16px | 600 | 1.4 | none |
+| H6 | 16 / 15 / 14px | 600 | 1.4 | none |
+
+The retained `font-size-h2` through `font-size-h5` variable formulas above do not describe these explicit HTML Default sizes. Do not overwrite defaults merely to make them match unused or differently scoped tokens.
+
+## Homepage V2 class roles — 17 additions in the implementation record
+
+Current identities/order are confirmed by E6; the roles below are corroborated by saved class assignments and the historical E7 implementation. This is not a fresh audit of every class declaration.
+
+| Classes | Role / native editing location |
+| --- | --- |
+| `service-card`, `text-link` | Shared Component 62 layout and understated action; Global Classes layout, spacing and typography/state controls |
+| `image-led-card` | Unified audience/project image-and-body wrapper |
+| `grid--four`, `grid--flush` | Four-step responsive grid and compact service-grid gaps |
+| `feature-summary`, `project-summary`, `testimonial-card` | Lighter shared definitions for 65, 68 and 86 |
+| `section--strip`, `split-row` | Compact emergency strip and responsive copy/action layout |
+| `hero-layout` | Native grid column proportions, gaps and responsive stacking |
+| `comparison-media`, `comparison-panel` | Static 4:3 Before/After placeholders; no slider |
+| `city-links`, `city-link` | Wrapping compact location links, without normal/hover underline |
+| `cta-panel` | Inset navy CTA layout within a light section |
+| `media-placeholder--dark` | Legible dark Hero placeholder variant |
+
+Existing `section`, `container`, `stack`, `cluster`, grids, icon and button classes were reused. No new design-token set or duplicate Component ID was introduced. The temporary `eyebrow`, `header-navigation` and `menu-control` classes were removed and are not part of the final 71-class register.
+
+Final E7 refinements: existing emergency-mark classes give the caption 12px desktop/tablet and 11px mobile with an 8px gap after the numbers. Component 286 has a DIV root, so the informational mark has no anchor underline. `button-secondary` prevents shrinking/wrapping; recorded Header CTA size is about 204×53px on desktop and hidden on tablet/mobile. The mobile Header grid reserves a 44px toggle column. Native Full Width replaced the conflicting legacy dropdown right/min-width rule; other pre-existing legacy navigation styling remains. These class behavior values are historical rendered checks, not remeasured here.
+
 ## Reported conventions and limits
 
 E4 reports one Homepage H1, Montserrat headings, a compact navy Hero, 16:9 Hero/audience placeholders and 4:3 project placeholders. It reports core service grids at 3/3/2/1 columns and process grids at 4/4/2/1 for 1440/1200/900/390 px. Those viewport checks are historical, not configured breakpoint values verified here.

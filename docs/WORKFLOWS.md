@@ -32,7 +32,7 @@ No backup or restore procedure was executed during documentation initialization.
 
 ## Milestone documentation — mandatory for ChatGPT Work
 
-After **every meaningful implementation milestone**, ChatGPT Work must update documentation before marking completion. A meaningful milestone includes delivered page sections, reusable component changes, global styling, navigation/templates, integrations or material fixes.
+After **every meaningful implementation milestone**, update the relevant documentation, commit it, push it and verify the remote branch before marking completion. This is the user's standing GCPRO workflow instruction, confirmed on 2026-10-16. A meaningful milestone includes delivered page sections, reusable component changes, global styling, navigation/templates, integrations or material fixes. The current authorized agent can complete this directly with verified access; a Codex handoff is needed only when access is unavailable.
 
 | Change | Required documentation |
 | --- | --- |
@@ -43,7 +43,7 @@ After **every meaningful implementation milestone**, ChatGPT Work must update do
 | Significant tradeoff, exception, replacement or reversal | DECISIONS |
 | Editing/backup/handoff procedure changes | WORKFLOWS; AGENTS only for permanent rules |
 
-If repository tools are unavailable to Work, Work must supply exact replacement text or a patch and supporting evidence to Codex. The handoff remains **documentation synchronization pending** until the repository update is committed and verified remotely. Chat-only notes are insufficient.
+If repository tools are unavailable to Work, Work must supply exact replacement text or a patch and supporting evidence to Codex, naming the exact access restriction. The handoff remains **documentation synchronization pending** until the repository update is committed, pushed and verified remotely. Chat-only notes are insufficient. Documentation synchronization does not authorize extra website work or changes to the shared ROBYLO repository.
 
 Keep facts and reported outcomes separate. Record date/timezone, source, environment, versions, actual IDs, checks and their limits. Reconcile superseded claims rather than silently preserving contradictions.
 

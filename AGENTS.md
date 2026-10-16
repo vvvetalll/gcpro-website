@@ -9,7 +9,7 @@ Read [PROJECT_CONTEXT.md](PROJECT_CONTEXT.md), [CHANGELOG.md](CHANGELOG.md), and
 - Never modify production. The only designated implementation environment is GCPRO staging: https://vitaliiv1.sg-host.com. Verify the connection actually targets that host before any staging action.
 - Repository work belongs in https://github.com/vvvetalll/gcpro-website. Keep GCPRO content, page IDs, design values, and implementation records here.
 - The shared [ROBYLO repository](https://github.com/vvvetalll/robylo-website-starter) is a separate product. Read it as a dependency; do not change it or copy client-specific documentation into it without a separate task authorizing that scope.
-- This initialization task authorizes documentation, commit, and push to GCPRO main only. It authorizes no WordPress writes, theme changes, deployment, plugin installation, or production action. Future agents must use the scope of their own task.
+- Documentation initialization and this repository-integration task authorize no WordPress writes, theme changes, deployment, plugin installation, or production action. Future implementation must follow its own authorized scope; the standing milestone-documentation requirement below applies after that work.
 - Preserve unrelated changes. Never force-push, reset others' work, or commit credentials, customer data, database dumps, or private backup archives.
 
 ## Native visual editing
@@ -26,7 +26,9 @@ Discover actual connector capabilities and schemas. Tool presence is not a succe
 
 Codex owns repository documentation, Git, verification, and any separately authorized integration code. ChatGPT Work owns authorized staging Elementor configuration. These roles do not grant access or authorize changes.
 
-**ChatGPT Work MUST update this repository's documentation after every meaningful implementation milestone, before calling the milestone complete.** This includes page/component changes, global style changes, navigation, templates, integrations, or significant fixes. Update PROJECT_CONTEXT and CHANGELOG plus every affected reference document; follow the [milestone matrix and handoff](docs/WORKFLOWS.md). If Work cannot write the repository, provide an exact documentation patch/handoff to Codex and keep documentation synchronization explicitly pending until the commit is verified.
+**Every completed GCPRO website development milestone MUST include updating the relevant documentation in this repository, committing it, pushing it, and verifying the remote branch before calling the milestone complete.** This includes page/component changes, global style changes, navigation, templates, integrations, or significant fixes. Update PROJECT_CONTEXT and CHANGELOG plus every affected reference document; follow the [milestone matrix and handoff](docs/WORKFLOWS.md).
+
+The user's standing instruction authorizes this documentation synchronization for subsequent GCPRO development milestones. Use main unless the task names another branch or repository protections require a pull request. Never bypass protections or force-push. These responsibilities do not prevent the current authorized agent from doing Git/docs directly when access is verified. If repository write access is unavailable, provide the exact limitation and a documentation patch/handoff; keep synchronization pending until the commit and remote update are verified. Tool availability, reported permissions, a local commit, or chat-only notes do not satisfy this requirement.
 
 ## Evidence and verification
 
