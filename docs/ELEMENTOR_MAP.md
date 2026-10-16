@@ -1,5 +1,7 @@
 # GCPRO Elementor map
 
+E16,2026-10-16: existing Homepage154 Process Timeline582/instance79a67ca3 retains the exact E15 native structure/overrides. The approved external hover block now produces two pseudo-element ripple rings; no Elementor element, class, Variable or Component was added/changed. [Source/deployed CSS and verification](milestones/2026-10-16-process-ripple.md). E15 static-outline descriptions are dated history.
+
 ## Homepage process timeline — E15, 2026-10-16
 
 Homepage154 section `4681b8f5` / container `4a8f9eb5` / heading71 instance `5494e63e` preserved. Retained Process Steps `5a7e87b2` now uses existing layout-reset and one instance `79a67ca3` of new **ROBYLO / Process Timeline582** (UID `component-05873ba5-60ba-44ec-9fed-ffb25ced3f75`, root `16ae2220`). Twelve supported overrides are grouped Step1–4: `step_N_number`, `step_N_title`, `step_N_description`. Use instance Content controls without detaching; shared layout uses four documented native Global Classes.

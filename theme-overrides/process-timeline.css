@@ -1,12 +1,37 @@
-/* GCPRO E15: parent-hover exception; native Global Classes own all base styles.
+/* GCPRO E16: whole-step hover; base design stays in Atomic Global Classes.
  * Canonical block: gcpro-website/theme-overrides/process-timeline.css
  */
 @media (hover: hover) and (pointer: fine) {
 	.process-timeline__step:hover .process-timeline__number {
 		background-color: var(--color-primary-hover);
-		outline: 1px solid var(--color-accent);
-		outline-offset: 4px;
 	}
+}
+
+@media (hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference) {
+	.process-timeline__number::before,
+	.process-timeline__number::after {
+		content: "";
+		position: absolute;
+		inset: 0;
+		border: 2px solid var(--color-accent);
+		border-radius: inherit;
+		pointer-events: none;
+		opacity: 0;
+	}
+
+	.process-timeline__step:hover .process-timeline__number::before,
+	.process-timeline__step:hover .process-timeline__number::after {
+		animation: gcpro-process-ripple 1000ms ease-out 1 both;
+	}
+
+	.process-timeline__step:hover .process-timeline__number::after {
+		animation-delay: 160ms;
+	}
+}
+
+@keyframes gcpro-process-ripple {
+	from { transform: scale(1); opacity: 0.55; }
+	to { transform: scale(1.55); opacity: 0; }
 }
 
 @media (prefers-reduced-motion: reduce) {

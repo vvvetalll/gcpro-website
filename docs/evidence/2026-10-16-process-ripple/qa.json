@@ -1,0 +1,818 @@
+{
+  "rest": {
+    "after": {
+      "animation": "none",
+      "border": "rgb(240, 90, 41)",
+      "content": "\"\"",
+      "delay": "0s",
+      "duration": "0s",
+      "iterations": "1",
+      "opacity": "0",
+      "pointerEvents": "none",
+      "transform": "none"
+    },
+    "before": {
+      "animation": "none",
+      "border": "rgb(240, 90, 41)",
+      "content": "\"\"",
+      "delay": "0s",
+      "duration": "0s",
+      "iterations": "1",
+      "opacity": "0",
+      "pointerEvents": "none",
+      "transform": "none"
+    },
+    "bg": "rgb(26, 50, 125)",
+    "docX": 141.7777862548828,
+    "docY": 2692.1388549804688,
+    "h": 64,
+    "outline": "none",
+    "parentHover": false,
+    "selfHover": false,
+    "transform": "none",
+    "w": 64,
+    "width": 1440
+  },
+  "start": {
+    "after": {
+      "animation": "gcpro-process-ripple",
+      "border": "rgb(240, 90, 41)",
+      "content": "\"\"",
+      "delay": "0.16s",
+      "duration": "1s",
+      "iterations": "1",
+      "opacity": "0.470106",
+      "pointerEvents": "none",
+      "transform": "matrix(1.07989, 0, 0, 1.07989, 0, 0)"
+    },
+    "before": {
+      "animation": "gcpro-process-ripple",
+      "border": "rgb(240, 90, 41)",
+      "content": "\"\"",
+      "delay": "0s",
+      "duration": "1s",
+      "iterations": "1",
+      "opacity": "0.341975",
+      "pointerEvents": "none",
+      "transform": "matrix(1.20802, 0, 0, 1.20802, 0, 0)"
+    },
+    "bg": "rgb(20, 40, 98)",
+    "docX": 141.7777862548828,
+    "docY": 2692.1389770507812,
+    "h": 64,
+    "outline": "none",
+    "parentHover": true,
+    "selfHover": false,
+    "transform": "none",
+    "w": 64,
+    "width": 1440
+  },
+  "end": {
+    "after": {
+      "animation": "gcpro-process-ripple",
+      "border": "rgb(240, 90, 41)",
+      "content": "\"\"",
+      "delay": "0.16s",
+      "duration": "1s",
+      "iterations": "1",
+      "opacity": "0",
+      "pointerEvents": "none",
+      "transform": "matrix(1.55, 0, 0, 1.55, 0, 0)"
+    },
+    "before": {
+      "animation": "gcpro-process-ripple",
+      "border": "rgb(240, 90, 41)",
+      "content": "\"\"",
+      "delay": "0s",
+      "duration": "1s",
+      "iterations": "1",
+      "opacity": "0",
+      "pointerEvents": "none",
+      "transform": "matrix(1.55, 0, 0, 1.55, 0, 0)"
+    },
+    "bg": "rgb(20, 40, 98)",
+    "docX": 141.7777862548828,
+    "docY": 2692.1389770507812,
+    "h": 64,
+    "outline": "none",
+    "parentHover": true,
+    "selfHover": false,
+    "transform": "none",
+    "w": 64,
+    "width": 1440
+  },
+  "reentry": {
+    "after": {
+      "animation": "gcpro-process-ripple",
+      "border": "rgb(240, 90, 41)",
+      "content": "\"\"",
+      "delay": "0.16s",
+      "duration": "1s",
+      "iterations": "1",
+      "opacity": "0.484387",
+      "pointerEvents": "none",
+      "transform": "matrix(1.06561, 0, 0, 1.06561, 0, 0)"
+    },
+    "before": {
+      "animation": "gcpro-process-ripple",
+      "border": "rgb(240, 90, 41)",
+      "content": "\"\"",
+      "delay": "0s",
+      "duration": "1s",
+      "iterations": "1",
+      "opacity": "0.354603",
+      "pointerEvents": "none",
+      "transform": "matrix(1.1954, 0, 0, 1.1954, 0, 0)"
+    },
+    "bg": "rgb(20, 40, 98)",
+    "docX": 141.7777862548828,
+    "docY": 2692.1389770507812,
+    "h": 64,
+    "outline": "none",
+    "parentHover": true,
+    "selfHover": false,
+    "transform": "none",
+    "w": 64,
+    "width": 1440
+  },
+  "reduced": {
+    "after": {
+      "animation": "none",
+      "border": "rgb(255, 255, 255)",
+      "content": "none",
+      "delay": "0s",
+      "duration": "0s",
+      "iterations": "1",
+      "opacity": "1",
+      "pointerEvents": "auto",
+      "transform": "none"
+    },
+    "before": {
+      "animation": "none",
+      "border": "rgb(255, 255, 255)",
+      "content": "none",
+      "delay": "0s",
+      "duration": "0s",
+      "iterations": "1",
+      "opacity": "1",
+      "pointerEvents": "auto",
+      "transform": "none"
+    },
+    "bg": "rgb(20, 40, 98)",
+    "docX": 141.7777862548828,
+    "docY": 2692.1389770507812,
+    "h": 64,
+    "outline": "none",
+    "parentHover": true,
+    "selfHover": false,
+    "transform": "none",
+    "w": 64,
+    "width": 1440
+  },
+  "touch": {
+    "after": {
+      "animation": "none",
+      "border": "rgb(255, 255, 255)",
+      "content": "none",
+      "delay": "0s",
+      "duration": "0s",
+      "iterations": "1",
+      "opacity": "1",
+      "pointerEvents": "auto",
+      "transform": "none"
+    },
+    "before": {
+      "animation": "none",
+      "border": "rgb(255, 255, 255)",
+      "content": "none",
+      "delay": "0s",
+      "duration": "0s",
+      "iterations": "1",
+      "opacity": "1",
+      "pointerEvents": "auto",
+      "transform": "none"
+    },
+    "bg": "rgb(26, 50, 125)",
+    "docX": 20,
+    "docY": 4279.05224609375,
+    "h": 56,
+    "outline": "none",
+    "parentHover": false,
+    "selfHover": false,
+    "transform": "none",
+    "w": 56,
+    "width": 390
+  },
+  "finalCssStroke": "2px",
+  "finalViewports": [
+    {
+      "clientWidth": 1440,
+      "grid": "284px 284px 284px 284px",
+      "height": 900,
+      "localStyles": 0,
+      "montserratLoaded": true,
+      "scrollWidth": 1440,
+      "section": {
+        "h": 488.77777099609375,
+        "w": 1440,
+        "x": 0,
+        "y": 351.52777099609375
+      },
+      "steps": [
+        {
+          "background": "rgb(26, 50, 125)",
+          "body": {
+            "h": 51.1944465637207,
+            "w": 252,
+            "x": 152,
+            "y": 693.1111450195312
+          },
+          "borderRadius": "50%",
+          "circle": {
+            "h": 64,
+            "w": 64,
+            "x": 152,
+            "y": 557.9166870117188
+          },
+          "color": "rgb(255, 255, 255)",
+          "connector": {
+            "h": 2,
+            "w": 284,
+            "x": 184,
+            "y": 588.9166870117188
+          },
+          "description": "Share the property location and type of restoration need.",
+          "font": "Montserrat",
+          "fontSize": "24px",
+          "heading": {
+            "h": 31.19444465637207,
+            "w": 252,
+            "x": 152,
+            "y": 645.9166870117188
+          },
+          "headingFont": "Montserrat",
+          "number": "01",
+          "title": "Contact"
+        },
+        {
+          "background": "rgb(26, 50, 125)",
+          "body": {
+            "h": 51.1944465637207,
+            "w": 252,
+            "x": 436,
+            "y": 693.1111450195312
+          },
+          "borderRadius": "50%",
+          "circle": {
+            "h": 64,
+            "w": 64,
+            "x": 436,
+            "y": 557.9166870117188
+          },
+          "color": "rgb(255, 255, 255)",
+          "connector": {
+            "h": 2,
+            "w": 284,
+            "x": 468,
+            "y": 588.9166870117188
+          },
+          "description": "Placeholder for the approved assessment process.",
+          "font": "Montserrat",
+          "fontSize": "24px",
+          "heading": {
+            "h": 31.19444465637207,
+            "w": 252,
+            "x": 436,
+            "y": 645.9166870117188
+          },
+          "headingFont": "Montserrat",
+          "number": "02",
+          "title": "Assessment"
+        },
+        {
+          "background": "rgb(26, 50, 125)",
+          "body": {
+            "h": 51.1944465637207,
+            "w": 252,
+            "x": 720,
+            "y": 693.1111450195312
+          },
+          "borderRadius": "50%",
+          "circle": {
+            "h": 64,
+            "w": 64,
+            "x": 720,
+            "y": 557.9166870117188
+          },
+          "color": "rgb(255, 255, 255)",
+          "connector": {
+            "h": 2,
+            "w": 284,
+            "x": 752,
+            "y": 588.9166870117188
+          },
+          "description": "Placeholder for the approved work and coordination process.",
+          "font": "Montserrat",
+          "fontSize": "24px",
+          "heading": {
+            "h": 31.19444465637207,
+            "w": 252,
+            "x": 720,
+            "y": 645.9166870117188
+          },
+          "headingFont": "Montserrat",
+          "number": "03",
+          "title": "Restoration"
+        },
+        {
+          "background": "rgb(26, 50, 125)",
+          "body": {
+            "h": 51.1944465637207,
+            "w": 284,
+            "x": 1004,
+            "y": 693.1111450195312
+          },
+          "borderRadius": "50%",
+          "circle": {
+            "h": 64,
+            "w": 64,
+            "x": 1004,
+            "y": 557.9166870117188
+          },
+          "color": "rgb(255, 255, 255)",
+          "connector": null,
+          "description": "Placeholder for the approved completion and review process.",
+          "font": "Montserrat",
+          "fontSize": "24px",
+          "heading": {
+            "h": 31.19444465637207,
+            "w": 284,
+            "x": 1004,
+            "y": 645.9166870117188
+          },
+          "headingFont": "Montserrat",
+          "number": "04",
+          "title": "Review"
+        }
+      ],
+      "width": 1440
+    },
+    {
+      "clientWidth": 1180,
+      "grid": "278.889px 278.889px 278.889px 278.889px",
+      "height": 800,
+      "localStyles": 0,
+      "montserratLoaded": true,
+      "scrollWidth": 1180,
+      "section": {
+        "h": 488.77777099609375,
+        "w": 1179.5555419921875,
+        "x": 0,
+        "y": 352
+      },
+      "steps": [
+        {
+          "background": "rgb(26, 50, 125)",
+          "body": {
+            "h": 51.1944465637207,
+            "w": 246.88888549804688,
+            "x": 32,
+            "y": 693.5833129882812
+          },
+          "borderRadius": "50%",
+          "circle": {
+            "h": 64,
+            "w": 64,
+            "x": 32,
+            "y": 558.388916015625
+          },
+          "color": "rgb(255, 255, 255)",
+          "connector": {
+            "h": 2,
+            "w": 278.8888854980469,
+            "x": 64,
+            "y": 589.388916015625
+          },
+          "description": "Share the property location and type of restoration need.",
+          "font": "Montserrat",
+          "fontSize": "24px",
+          "heading": {
+            "h": 31.19444465637207,
+            "w": 246.88888549804688,
+            "x": 32,
+            "y": 646.388916015625
+          },
+          "headingFont": "Montserrat",
+          "number": "01",
+          "title": "Contact"
+        },
+        {
+          "background": "rgb(26, 50, 125)",
+          "body": {
+            "h": 51.1944465637207,
+            "w": 246.88888549804688,
+            "x": 310.8888854980469,
+            "y": 693.5833129882812
+          },
+          "borderRadius": "50%",
+          "circle": {
+            "h": 64,
+            "w": 64,
+            "x": 310.8888854980469,
+            "y": 558.388916015625
+          },
+          "color": "rgb(255, 255, 255)",
+          "connector": {
+            "h": 2,
+            "w": 278.8888854980469,
+            "x": 342.8888854980469,
+            "y": 589.388916015625
+          },
+          "description": "Placeholder for the approved assessment process.",
+          "font": "Montserrat",
+          "fontSize": "24px",
+          "heading": {
+            "h": 31.19444465637207,
+            "w": 246.88888549804688,
+            "x": 310.8888854980469,
+            "y": 646.388916015625
+          },
+          "headingFont": "Montserrat",
+          "number": "02",
+          "title": "Assessment"
+        },
+        {
+          "background": "rgb(26, 50, 125)",
+          "body": {
+            "h": 51.1944465637207,
+            "w": 246.88888549804688,
+            "x": 589.7777709960938,
+            "y": 693.5833129882812
+          },
+          "borderRadius": "50%",
+          "circle": {
+            "h": 64,
+            "w": 64,
+            "x": 589.7777709960938,
+            "y": 558.388916015625
+          },
+          "color": "rgb(255, 255, 255)",
+          "connector": {
+            "h": 2,
+            "w": 278.8888854980469,
+            "x": 621.7777709960938,
+            "y": 589.388916015625
+          },
+          "description": "Placeholder for the approved work and coordination process.",
+          "font": "Montserrat",
+          "fontSize": "24px",
+          "heading": {
+            "h": 31.19444465637207,
+            "w": 246.88888549804688,
+            "x": 589.7777709960938,
+            "y": 646.388916015625
+          },
+          "headingFont": "Montserrat",
+          "number": "03",
+          "title": "Restoration"
+        },
+        {
+          "background": "rgb(26, 50, 125)",
+          "body": {
+            "h": 51.1944465637207,
+            "w": 278.8888854980469,
+            "x": 868.6666870117188,
+            "y": 693.5833129882812
+          },
+          "borderRadius": "50%",
+          "circle": {
+            "h": 64,
+            "w": 64,
+            "x": 868.6666870117188,
+            "y": 558.388916015625
+          },
+          "color": "rgb(255, 255, 255)",
+          "connector": null,
+          "description": "Placeholder for the approved completion and review process.",
+          "font": "Montserrat",
+          "fontSize": "24px",
+          "heading": {
+            "h": 31.19444465637207,
+            "w": 278.8888854980469,
+            "x": 868.6666870117188,
+            "y": 646.388916015625
+          },
+          "headingFont": "Montserrat",
+          "number": "04",
+          "title": "Review"
+        }
+      ],
+      "width": 1200
+    },
+    {
+      "clientWidth": 880,
+      "grid": "816px",
+      "height": 900,
+      "localStyles": 0,
+      "montserratLoaded": true,
+      "scrollWidth": 880,
+      "section": {
+        "h": 706.5694580078125,
+        "w": 880,
+        "x": 0,
+        "y": 684.6805419921875
+      },
+      "steps": [
+        {
+          "background": "rgb(26, 50, 125)",
+          "body": {
+            "h": 25.59722328186035,
+            "w": 736,
+            "x": 112,
+            "y": 931.0694580078124
+          },
+          "borderRadius": "50%",
+          "circle": {
+            "h": 56,
+            "w": 56,
+            "x": 32,
+            "y": 886.4722290039062
+          },
+          "color": "rgb(255, 255, 255)",
+          "connector": {
+            "h": 102.19444274902344,
+            "w": 2,
+            "x": 59,
+            "y": 914.4722290039062
+          },
+          "description": "Share the property location and type of restoration need.",
+          "font": "Montserrat",
+          "fontSize": "24px",
+          "heading": {
+            "h": 28.59722328186035,
+            "w": 736,
+            "x": 112,
+            "y": 886.4722290039062
+          },
+          "headingFont": "Montserrat",
+          "number": "01",
+          "title": "Contact"
+        },
+        {
+          "background": "rgb(26, 50, 125)",
+          "body": {
+            "h": 25.59722328186035,
+            "w": 736,
+            "x": 112,
+            "y": 1033.263916015625
+          },
+          "borderRadius": "50%",
+          "circle": {
+            "h": 56,
+            "w": 56,
+            "x": 32,
+            "y": 988.6666870117188
+          },
+          "color": "rgb(255, 255, 255)",
+          "connector": {
+            "h": 102.19444274902344,
+            "w": 2,
+            "x": 59,
+            "y": 1016.6666870117188
+          },
+          "description": "Placeholder for the approved assessment process.",
+          "font": "Montserrat",
+          "fontSize": "24px",
+          "heading": {
+            "h": 28.59722328186035,
+            "w": 736,
+            "x": 112,
+            "y": 988.6666870117188
+          },
+          "headingFont": "Montserrat",
+          "number": "02",
+          "title": "Assessment"
+        },
+        {
+          "background": "rgb(26, 50, 125)",
+          "body": {
+            "h": 25.59722328186035,
+            "w": 736,
+            "x": 112,
+            "y": 1135.4583740234375
+          },
+          "borderRadius": "50%",
+          "circle": {
+            "h": 56,
+            "w": 56,
+            "x": 32,
+            "y": 1090.861083984375
+          },
+          "color": "rgb(255, 255, 255)",
+          "connector": {
+            "h": 102.19444274902344,
+            "w": 2,
+            "x": 59,
+            "y": 1118.861083984375
+          },
+          "description": "Placeholder for the approved work and coordination process.",
+          "font": "Montserrat",
+          "fontSize": "24px",
+          "heading": {
+            "h": 28.59722328186035,
+            "w": 736,
+            "x": 112,
+            "y": 1090.861083984375
+          },
+          "headingFont": "Montserrat",
+          "number": "03",
+          "title": "Restoration"
+        },
+        {
+          "background": "rgb(26, 50, 125)",
+          "body": {
+            "h": 25.59722328186035,
+            "w": 736,
+            "x": 112,
+            "y": 1237.65283203125
+          },
+          "borderRadius": "50%",
+          "circle": {
+            "h": 56,
+            "w": 56,
+            "x": 32,
+            "y": 1193.0555419921875
+          },
+          "color": "rgb(255, 255, 255)",
+          "connector": null,
+          "description": "Placeholder for the approved completion and review process.",
+          "font": "Montserrat",
+          "fontSize": "24px",
+          "heading": {
+            "h": 28.59722328186035,
+            "w": 736,
+            "x": 112,
+            "y": 1193.0555419921875
+          },
+          "headingFont": "Montserrat",
+          "number": "04",
+          "title": "Review"
+        }
+      ],
+      "width": 900
+    },
+    {
+      "clientWidth": 390,
+      "grid": "350px",
+      "height": 844,
+      "localStyles": 0,
+      "montserratLoaded": true,
+      "scrollWidth": 390,
+      "section": {
+        "h": 723.53125,
+        "w": 390,
+        "x": 0,
+        "y": 4112.27099609375
+      },
+      "steps": [
+        {
+          "background": "rgb(26, 50, 125)",
+          "body": {
+            "h": 51.1875,
+            "w": 278,
+            "x": 92,
+            "y": 4321.05224609375
+          },
+          "borderRadius": "50%",
+          "circle": {
+            "h": 56,
+            "w": 56,
+            "x": 20,
+            "y": 4279.05224609375
+          },
+          "color": "rgb(255, 255, 255)",
+          "connector": {
+            "h": 125.1875,
+            "w": 2,
+            "x": 47,
+            "y": 4307.05224609375
+          },
+          "description": "Share the property location and type of restoration need.",
+          "font": "Montserrat",
+          "fontSize": "22px",
+          "heading": {
+            "h": 26,
+            "w": 278,
+            "x": 92,
+            "y": 4279.05224609375
+          },
+          "headingFont": "Montserrat",
+          "number": "01",
+          "title": "Contact"
+        },
+        {
+          "background": "rgb(26, 50, 125)",
+          "body": {
+            "h": 51.1875,
+            "w": 278,
+            "x": 92,
+            "y": 4446.23974609375
+          },
+          "borderRadius": "50%",
+          "circle": {
+            "h": 56,
+            "w": 56,
+            "x": 20,
+            "y": 4404.23974609375
+          },
+          "color": "rgb(255, 255, 255)",
+          "connector": {
+            "h": 125.1875,
+            "w": 2,
+            "x": 47,
+            "y": 4432.23974609375
+          },
+          "description": "Placeholder for the approved assessment process.",
+          "font": "Montserrat",
+          "fontSize": "22px",
+          "heading": {
+            "h": 26,
+            "w": 278,
+            "x": 92,
+            "y": 4404.23974609375
+          },
+          "headingFont": "Montserrat",
+          "number": "02",
+          "title": "Assessment"
+        },
+        {
+          "background": "rgb(26, 50, 125)",
+          "body": {
+            "h": 51.1875,
+            "w": 278,
+            "x": 92,
+            "y": 4571.42724609375
+          },
+          "borderRadius": "50%",
+          "circle": {
+            "h": 56,
+            "w": 56,
+            "x": 20,
+            "y": 4529.42724609375
+          },
+          "color": "rgb(255, 255, 255)",
+          "connector": {
+            "h": 125.1875,
+            "w": 2,
+            "x": 47,
+            "y": 4557.42724609375
+          },
+          "description": "Placeholder for the approved work and coordination process.",
+          "font": "Montserrat",
+          "fontSize": "22px",
+          "heading": {
+            "h": 26,
+            "w": 278,
+            "x": 92,
+            "y": 4529.42724609375
+          },
+          "headingFont": "Montserrat",
+          "number": "03",
+          "title": "Restoration"
+        },
+        {
+          "background": "rgb(26, 50, 125)",
+          "body": {
+            "h": 51.1875,
+            "w": 278,
+            "x": 92,
+            "y": 4696.61474609375
+          },
+          "borderRadius": "50%",
+          "circle": {
+            "h": 56,
+            "w": 56,
+            "x": 20,
+            "y": 4654.61474609375
+          },
+          "color": "rgb(255, 255, 255)",
+          "connector": null,
+          "description": "Placeholder for the approved completion and review process.",
+          "font": "Montserrat",
+          "fontSize": "22px",
+          "heading": {
+            "h": 26,
+            "w": 278,
+            "x": 92,
+            "y": 4654.61474609375
+          },
+          "headingFont": "Montserrat",
+          "number": "04",
+          "title": "Review"
+        }
+      ],
+      "width": 390
+    }
+  ],
+  "savedHomepageAndComponentTreesUnchanged": true
+}

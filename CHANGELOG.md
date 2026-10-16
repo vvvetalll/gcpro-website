@@ -1,5 +1,11 @@
 # GCPRO changelog
 
+## 2026-10-16 — Whole-step ripple hover — E16
+
+- Updated the existing approved `theme-overrides/process-timeline.css` block deployed in staging ROBYLO `assets/css/fallback.css`: replaced static outline with two expanding/fading orange pseudo-element rings,1000ms each/160ms stagger, one iteration per hover entry. Final owner adjustment increases ring stroke1→2px.
+- Native process Component582, all existing Classes/Variables/content, connector lines and responsive layouts unchanged; no new DOM wrappers, resources, JS/PHP/plugins or shared ROBYLO repository changes. Existing native200ms background transition retained.
+- Real pointer over description triggered rings while circle:hover=false; both ended transparent while parent remained hovered and restarted after re-entry. Circle transform:none/64×64 remained fixed. Reduced-motion and touch generated no rings. Final1440/1200/900/390 checks: no overflow/local inline styles; screenshots and exact CSS/editing/rollback in [E16](docs/milestones/2026-10-16-process-ripple.md).
+
 ## 2026-10-16 — Native process timeline and refinement — E15
 
 - Replaced only Homepage154's four generic process instances with reusable Process Timeline582: horizontal four-step line on desktop, vertical circle/copy layout at tablet/mobile. Preserved original step content and section heading.

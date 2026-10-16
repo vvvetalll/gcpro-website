@@ -1,5 +1,7 @@
 # GCPRO architecture
 
+E16 refinement,2026-10-16: the same owner-authorized client CSS exception now supplies two one-shot ripple pseudo-elements, rather than a static outline. No DOM/PHP/enqueue/shared-source changes. [E16 scope, editing and rollback](milestones/2026-10-16-process-ripple.md) supersedes only E15's hover treatment below.
+
 ## Verified staging theme and scoped exception — E15, 2026-10-16
 
 Native staging Theme File Editor identifies active **ROBYLO Starter0.2.0**, theme directory `robylo-starter`. Read-only functions.php shows existing `robylo-fallback` enqueue for `assets/css/fallback.css`, content-MD5 asset versioning. This is newer verified installed evidence than the historical child-theme source observations below; no PHP was changed.

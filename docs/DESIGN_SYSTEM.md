@@ -1,5 +1,9 @@
 # GCPRO design system
 
+## Process ripple — E16, 2026-10-16
+
+Supersedes only E15's static hover outline: existing client CSS block now uses `.process-timeline__number::before/::after`, triggered by `.process-timeline__step:hover`, and scoped keyframes `gcpro-process-ripple`. Two **2px** orange rings expand/fade once,1000ms duration/160ms stagger, without transforming the circle. Generation/animation requires fine hover pointer and no reduced-motion preference; reduced motion also disables the existing native background transition. Classes87/Variables36 and Component582 remain unchanged. [Native gap, exact CSS, editing and QA](milestones/2026-10-16-process-ripple.md); no Elementor Custom CSS or shared starter edits.
+
 ## Process timeline — E15, 2026-10-16
 
 Current register: **87 Global Classes, 36 Variables**. Four added native classes support Component582: `process-timeline` (`g-a12d836`, four-column zero-gap grid→one column at1024px), `process-timeline__step` (`g-07d3365`, column→row step layout), `process-timeline__number` (`g-e17507d`, 64→56px navy/white circle), `process-timeline__connector` (`g-261ecb6`, 2px horizontal→vertical segment). Existing `process-step-number` provides Montserrat600 24/24/22px; stack/compact/reset and color/spacing Variables are reused. Circle class has priority over existing number typography color; other existing class priority relationships are unchanged.

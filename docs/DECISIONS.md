@@ -37,6 +37,8 @@ Accepted owner CTA strategy, 2026-10-16 — **D017**: calling is the orange prim
 
 ## Pending decisions
 
+Accepted owner ripple refinement,2026-10-16 — **D019**: replace the static outline inside the already-approved external client CSS exception with two one-shot pseudo-element rings; preserve whole-step trigger and native base design. Owner then requested thicker strokes: final2px. Native Atomic effects target existing elements and do not expose this parent-triggered pair of decorative pseudo-elements; do not add markup or transform the actual number circle. Gate animation off for touch/reduced motion. No shared starter changes authorized. [E16](milestones/2026-10-16-process-ripple.md).
+
 Accepted owner process-timeline refinement, 2026-10-16 — **D018**: use one native whole-process Component582 rather than altering shared Feature65's unrelated icon/border consumers. Reuse existing typography/tokens and four narrowly reusable layout classes. Following the exposed ancestor-state limitation, the owner explicitly approved a minimal client-specific external CSS block for whole-step hover→circle color/outline and reduced motion. Keep ordinary styles/transition in Atomic Global Classes, no local/Elementor Custom CSS; do not change shared ROBYLO source. [Exact exception/editing/rollback](milestones/2026-10-16-process-timeline.md#approved-external-css-exception). Visual approval remains pending.
 
 - Accessible CTA treatment for the reported white/orange contrast issue; inspect real states and native options before choosing.

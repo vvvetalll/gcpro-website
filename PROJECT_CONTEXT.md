@@ -1,6 +1,12 @@
 # GCPRO project context
 
-Last reviewed: 2026-10-16 (America/Chicago). Current implementation: Homepage How We Work timeline and verified whole-step hover (E15), awaiting visual approval. Approved SEO Page skeleton E14 and E13 archive findings remain preserved. Earlier implementation records below remain dated history.
+Last reviewed: 2026-10-16 (America/Chicago). Current implementation: Homepage How We Work timeline with whole-step water-ripple hover (E16), awaiting visual approval. Approved SEO Page skeleton E14 and E13 archive findings remain preserved. Earlier implementation records below remain dated history.
+
+## Process ripple refinement — E16
+
+Replaced E15's static orange outline with two decorative pseudo-element rings in the same approved client CSS exception. Existing Component582/instance79a67ca3 and all native Global Classes/Variables/content remain unchanged. Whole-step hover starts two one-shot1000ms expanding/fading rings, staggered160ms (total1160ms). Owner's final stroke refinement is **2px**, not1px. Only pseudo-elements scale; the numbered circle remains stationary. Touch and reduced-motion suppress the generated rings. [E16 record](docs/milestones/2026-10-16-process-ripple.md) has the exact selectors, tests, source/deployed paths and rollback.
+
+Canonical `theme-overrides/process-timeline.css` is updated in place; deployed block in existing staging ROBYLO Starter `assets/css/fallback.css` was saved/re-read exactly. No shared ROBYLO source, PHP/JS, plugins, new classes/Variables/Components or DOM wrappers. Four-width layout checks repeated; real pointer outside circle, completion while still hovering, leave/re-entry restart, reduced-motion and touch emulation verified. E15 screenshots/static-outline descriptions below are historical and superseded only for the hover effect.
 
 ## Homepage process timeline — E15
 
@@ -111,6 +117,7 @@ Use these labels throughout the documentation. Observed facts are limited to the
 
 | Ref | Source and date | What it establishes / limits |
 | --- | --- | --- |
+| E16 | Exact native Theme File Editor save/readback, IAB whole-step pointer and pseudo-element computed styles, completion/re-entry, reduced motion, touch and1440/1200/900/390 checks; [evidence](docs/evidence/2026-10-16-process-ripple/qa.json) | Two1000ms/160ms one-shot rings, final2px stroke, unchanged circle geometry/DOM and responsive timeline. Browser emulation; no physical-device/screen-reader/performance benchmark. |
 | E15 | Native Elementor saved trees/classes; actual IAB geometry at1440/1200/900/390, native override edit/restore, real parent-hover pointer test, reduced-motion/touch emulation and exact native Theme File Editor readback; [evidence](docs/evidence/2026-10-16-process-timeline.json) | Reusable timeline582, four new native classes, preserved original content/other eight sections/Feature65/Header/Footer; approved minimal external hover exception. No production, shared starter source, service-page design, physical device, screen-reader or performance benchmark. |
 | E14 | Native authenticated staging Pages GET/OPTIONS/POST, capability read, private scoped before/after Page/settings snapshots, full preserved-resource reads, actual editor514/Reading UI and anonymous robots meta; [evidence](docs/evidence/2026-10-16-completed-page-skeleton.json) | 64 created child Drafts/paths, all81 approved Page mappings, unchanged previous21 Pages/layouts/global resources and noindex; preserved200/207 audit/8 holds/E13 archive findings. No public route-resolution, page design, publishing, link implementation, production changes, archive-source resolution or full DB/files restore test. |
 | E13 | Owner-supplied January history; fresh production public GET/REST at 2026-10-16 17:00 UTC, actual IAB Blog/Portfolio/sample-single DOM and production admin access check; [evidence](docs/evidence/2026-10-16-archive-routing.json) | Rendered Archive 6858/8412, current title/H1/meta/canonicals, registered Portfolio type, Page/menu/category signals and differing single navigation markers. Current Blog posts-index mapping remains provisional; no authenticated Reading/conditions/PHP source or exact code path. Documentation-only follow-up; no site changes. |
