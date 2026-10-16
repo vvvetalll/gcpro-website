@@ -1,5 +1,10 @@
 # GCPRO changelog
 
+## 2026-10-16 — Homepage copy proposal, Phase1 only — E27
+
+- Added complete48-row current/proposed copy table with source-backed service positioning, visual-fit expectations, shorter section labels and explicit proof/process/publication holds. Read14 live production pages and canonical architecture; no new SEO research or URL decisions.
+- Current-copy responsive baseline1440/1200/900/390 measured read-only. Proposed copy is unapproved/unimplemented; no new-copy render QA, Elementor, component, CSS/JS/PHP, cache or production changes. [Proposal and approval gate](docs/content/HOMEPAGE_COPY_PROPOSAL.md).
+
 ## 2026-10-16 — Optional section H2 accents, no H3 accents — E26
 
 - Five selected Homepage154 H2s use new section-heading--accent Global Class and one scoped generated line40×3px; existing71/Overrides unchanged. Minimal Global Class CSS required because no native decorative visibility Override was verified; source/editing location documented, no widget/local CSS, JS, theme changes or markup additions.

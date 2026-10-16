@@ -1,0 +1,17 @@
+{
+  "phase": "Phase 1 proposal only",
+  "approved": false,
+  "implemented": false,
+  "websiteWriteOperations": 0,
+  "homepageSavedTreeUnchanged": true,
+  "currentCopyBaselineCSSWidths": [
+    1440,
+    1200,
+    900,
+    390
+  ],
+  "proposedCopyRendered": false,
+  "physicalDeviceTest": false,
+  "cachePurged": false,
+  "liveProductionPagesRead": 14
+}

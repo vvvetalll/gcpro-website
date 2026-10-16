@@ -1,5 +1,9 @@
 # GCPRO project context
 
+## Pending editorial approval — E27 Phase1 homepage copy proposal
+
+2026-10-16: [Complete48-row current/proposed copy table](docs/content/HOMEPAGE_COPY_PROPOSAL.md) covers Homepage154 and Header/Footer microcopy, with14 live production sources, factual holds P1–P6 and expected composition notes. Current staging copy measured read-only at actual CSS1440/1200/900/390; proposed copy is NOT implemented or visually verified. No Elementor/site/cache writes. E26 remains current deployed state. Preserve this approval gate: owner must approve copy before Phase2; process Review, project scope/media, credentials/reviews, public-ready destinations and identity choices remain explicit holds. No new classes/components/custom code/Variables/dependencies.
+
 ## Current refinement — E26: selected H2 accents, H3 accents removed
 
 2026-10-16: one optional Global Class section-heading--accent g-a537304 adds40×3px orange/radius2 line to five Homepage154 H2s: Audience, Core, Process, Projects, Areas. Uses existing containers/stack/color-accent/space-sm; Component71 and three Overrides unchanged. Visibility Override not supported by inspected schema, so one documented Global Class CSS pseudo-element rule supplies the optional pattern, with no widget/local CSS, DOM additions or JS. On latest owner direction removed all card H3 bars/copy wrapper from62 and two unused E25 classes; five original nodes/Overrides preserved. Classes91→90, Variables36/Components16 unchanged. Four-width anonymous1440/1200/900/390 and authenticated/editor checks pass after cache purge. [E26 controls, CSS exception, evidence and limitations](docs/milestones/2026-10-16-section-heading-system.md). Await visual review.

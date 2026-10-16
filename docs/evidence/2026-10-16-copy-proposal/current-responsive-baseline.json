@@ -1,0 +1,1154 @@
+[
+  {
+    "audience": [
+      {
+        "description": {
+          "font": "Inter",
+          "lines": 1,
+          "size": "16px",
+          "text": "Homes, condos and personal property.",
+          "width": 402.22222900390625
+        },
+        "height": 450.3194580078125,
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "24px",
+          "text": "Residential Restoration",
+          "width": 402.22222900390625
+        }
+      },
+      {
+        "description": {
+          "font": "Inter",
+          "lines": 1,
+          "size": "16px",
+          "text": "Offices, retail, facilities and multi-unit buildings.",
+          "width": 402.22222900390625
+        },
+        "height": 450.3194580078125,
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "24px",
+          "text": "Commercial Restoration",
+          "width": 402.22222900390625
+        }
+      }
+    ],
+    "h1": {
+      "font": "Montserrat",
+      "lines": 3,
+      "size": "48px",
+      "text": "Property restoration in Chicago",
+      "width": 625.5972290039062
+    },
+    "headings": [
+      {
+        "font": "Montserrat",
+        "lines": 1,
+        "size": "32px",
+        "text": "Residential & Commercial Services",
+        "width": 1136
+      },
+      {
+        "font": "Montserrat",
+        "lines": 1,
+        "size": "32px",
+        "text": "Core Restoration Services",
+        "width": 1136
+      },
+      {
+        "font": "Montserrat",
+        "lines": 1,
+        "size": "32px",
+        "text": "Emergency Restoration Support",
+        "width": 743.0555419921875
+      },
+      {
+        "font": "Montserrat",
+        "lines": 1,
+        "size": "32px",
+        "text": "How We Work",
+        "width": 1136
+      },
+      {
+        "font": "Montserrat",
+        "lines": 1,
+        "size": "32px",
+        "text": "Projects & Before / After",
+        "width": 1136
+      },
+      {
+        "font": "Montserrat",
+        "lines": 1,
+        "size": "32px",
+        "text": "Why Choose GCPRO",
+        "width": 556
+      },
+      {
+        "font": "Montserrat",
+        "lines": 1,
+        "size": "32px",
+        "text": "Testimonials",
+        "width": 556
+      },
+      {
+        "font": "Montserrat",
+        "lines": 1,
+        "size": "32px",
+        "text": "Service Areas",
+        "width": 556
+      },
+      {
+        "font": "Montserrat",
+        "lines": 1,
+        "size": "32px",
+        "text": "Discuss Your Restoration Needs",
+        "width": 1040
+      }
+    ],
+    "overflow": false,
+    "services": [
+      {
+        "cta": "\n\tWater Damage Services\n",
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Water damage assessment, restoration and related service information.",
+          "width": 296.8888854980469
+        },
+        "height": 304.1666564941406,
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "24px",
+          "text": "Water Damage",
+          "width": 187.94444274902344
+        }
+      },
+      {
+        "cta": "\n\tFire & Smoke Services\n",
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Fire and smoke restoration service information.",
+          "width": 296.8888854980469
+        },
+        "height": 304.1666564941406,
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "24px",
+          "text": "Fire & Smoke Damage",
+          "width": 275.1666564941406
+        }
+      },
+      {
+        "cta": "\n\tMold Services\n",
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Mold removal and remediation service information.",
+          "width": 296.8888854980469
+        },
+        "height": 304.1666564941406,
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "24px",
+          "text": "Mold Remediation",
+          "width": 228.18055725097656
+        }
+      },
+      {
+        "cta": "\n\tReconstruction Services\n",
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Reconstruction service information and retained project examples.",
+          "width": 296.8888854980469
+        },
+        "height": 335.3611145019531,
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "24px",
+          "text": "Reconstruction",
+          "width": 190.2777862548828
+        }
+      },
+      {
+        "cta": "\n\tStorm Damage Services\n",
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Existing residential storm damage service information.",
+          "width": 296.8888854980469
+        },
+        "height": 335.3611145019531,
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "24px",
+          "text": "Storm Damage",
+          "width": 188.0277862548828
+        }
+      },
+      {
+        "cta": "\n\tProperty Restoration\n",
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Existing contents and personal property restoration information.",
+          "width": 296.8888854980469
+        },
+        "height": 335.3611145019531,
+        "title": {
+          "font": "Montserrat",
+          "lines": 2,
+          "size": "24px",
+          "text": "Personal Property Restoration",
+          "width": 296.8888854980469
+        }
+      }
+    ],
+    "timeline": [
+      {
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Share the property location and type of restoration need.",
+          "width": 252
+        },
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "24px",
+          "text": "Contact",
+          "width": 252
+        }
+      },
+      {
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Placeholder for the approved assessment process.",
+          "width": 252
+        },
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "24px",
+          "text": "Assessment",
+          "width": 252
+        }
+      },
+      {
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Placeholder for the approved work and coordination process.",
+          "width": 252
+        },
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "24px",
+          "text": "Restoration",
+          "width": 252
+        }
+      },
+      {
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Placeholder for the approved completion and review process.",
+          "width": 284
+        },
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "24px",
+          "text": "Review",
+          "width": 284
+        }
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "audience": [
+      {
+        "description": {
+          "font": "Inter",
+          "lines": 1,
+          "size": "16px",
+          "text": "Homes, condos and personal property.",
+          "width": 392
+        },
+        "height": 444.5694580078125,
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "24px",
+          "text": "Residential Restoration",
+          "width": 392
+        }
+      },
+      {
+        "description": {
+          "font": "Inter",
+          "lines": 1,
+          "size": "16px",
+          "text": "Offices, retail, facilities and multi-unit buildings.",
+          "width": 392
+        },
+        "height": 444.5694580078125,
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "24px",
+          "text": "Commercial Restoration",
+          "width": 392
+        }
+      }
+    ],
+    "h1": {
+      "font": "Montserrat",
+      "lines": 3,
+      "size": "48px",
+      "text": "Property restoration in Chicago",
+      "width": 613.8333129882812
+    },
+    "headings": [
+      {
+        "font": "Montserrat",
+        "lines": 1,
+        "size": "32px",
+        "text": "Residential & Commercial Services",
+        "width": 1115.5555419921875
+      },
+      {
+        "font": "Montserrat",
+        "lines": 1,
+        "size": "32px",
+        "text": "Core Restoration Services",
+        "width": 1115.5555419921875
+      },
+      {
+        "font": "Montserrat",
+        "lines": 1,
+        "size": "32px",
+        "text": "Emergency Restoration Support",
+        "width": 722.6111450195312
+      },
+      {
+        "font": "Montserrat",
+        "lines": 1,
+        "size": "32px",
+        "text": "How We Work",
+        "width": 1115.5555419921875
+      },
+      {
+        "font": "Montserrat",
+        "lines": 1,
+        "size": "32px",
+        "text": "Projects & Before / After",
+        "width": 1115.5555419921875
+      },
+      {
+        "font": "Montserrat",
+        "lines": 1,
+        "size": "32px",
+        "text": "Why Choose GCPRO",
+        "width": 545.7777709960938
+      },
+      {
+        "font": "Montserrat",
+        "lines": 1,
+        "size": "32px",
+        "text": "Testimonials",
+        "width": 545.7777709960938
+      },
+      {
+        "font": "Montserrat",
+        "lines": 1,
+        "size": "32px",
+        "text": "Service Areas",
+        "width": 545.7777709960938
+      },
+      {
+        "font": "Montserrat",
+        "lines": 1,
+        "size": "32px",
+        "text": "Discuss Your Restoration Needs",
+        "width": 1019.5555419921876
+      }
+    ],
+    "overflow": false,
+    "services": [
+      {
+        "cta": "\n\tWater Damage Services\n",
+        "description": {
+          "font": "Inter",
+          "lines": 3,
+          "size": "16px",
+          "text": "Water damage assessment, restoration and related service information.",
+          "width": 290.0694580078125
+        },
+        "height": 329.7638854980469,
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "24px",
+          "text": "Water Damage",
+          "width": 187.94444274902344
+        }
+      },
+      {
+        "cta": "\n\tFire & Smoke Services\n",
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Fire and smoke restoration service information.",
+          "width": 290.0694580078125
+        },
+        "height": 329.7638854980469,
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "24px",
+          "text": "Fire & Smoke Damage",
+          "width": 275.1666564941406
+        }
+      },
+      {
+        "cta": "\n\tMold Services\n",
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Mold removal and remediation service information.",
+          "width": 290.0833435058594
+        },
+        "height": 329.7638854980469,
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "24px",
+          "text": "Mold Remediation",
+          "width": 228.18055725097656
+        }
+      },
+      {
+        "cta": "\n\tReconstruction Services\n",
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Reconstruction service information and retained project examples.",
+          "width": 290.0694580078125
+        },
+        "height": 335.3611145019531,
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "24px",
+          "text": "Reconstruction",
+          "width": 190.2777862548828
+        }
+      },
+      {
+        "cta": "\n\tStorm Damage Services\n",
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Existing residential storm damage service information.",
+          "width": 290.0694580078125
+        },
+        "height": 335.3611145019531,
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "24px",
+          "text": "Storm Damage",
+          "width": 188.0277862548828
+        }
+      },
+      {
+        "cta": "\n\tProperty Restoration\n",
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Existing contents and personal property restoration information.",
+          "width": 290.0833435058594
+        },
+        "height": 335.3611145019531,
+        "title": {
+          "font": "Montserrat",
+          "lines": 2,
+          "size": "24px",
+          "text": "Personal Property Restoration",
+          "width": 290.0833435058594
+        }
+      }
+    ],
+    "timeline": [
+      {
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Share the property location and type of restoration need.",
+          "width": 246.88888549804688
+        },
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "24px",
+          "text": "Contact",
+          "width": 246.88888549804688
+        }
+      },
+      {
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Placeholder for the approved assessment process.",
+          "width": 246.88888549804688
+        },
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "24px",
+          "text": "Assessment",
+          "width": 246.88888549804688
+        }
+      },
+      {
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Placeholder for the approved work and coordination process.",
+          "width": 246.88888549804688
+        },
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "24px",
+          "text": "Restoration",
+          "width": 246.88888549804688
+        }
+      },
+      {
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Placeholder for the approved completion and review process.",
+          "width": 278.8888854980469
+        },
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "24px",
+          "text": "Review",
+          "width": 278.8888854980469
+        }
+      }
+    ],
+    "width": 1200
+  },
+  {
+    "audience": [
+      {
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Homes, condos and personal property.",
+          "width": 242.22222900390625
+        },
+        "height": 411.9166564941406,
+        "title": {
+          "font": "Montserrat",
+          "lines": 2,
+          "size": "22px",
+          "text": "Residential Restoration",
+          "width": 242.22222900390625
+        }
+      },
+      {
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Offices, retail, facilities and multi-unit buildings.",
+          "width": 242.22222900390625
+        },
+        "height": 411.9166564941406,
+        "title": {
+          "font": "Montserrat",
+          "lines": 2,
+          "size": "22px",
+          "text": "Commercial Restoration",
+          "width": 242.22222900390625
+        }
+      }
+    ],
+    "h1": {
+      "font": "Montserrat",
+      "lines": 3,
+      "size": "48px",
+      "text": "Property restoration in Chicago",
+      "width": 392
+    },
+    "headings": [
+      {
+        "font": "Montserrat",
+        "lines": 1,
+        "size": "28px",
+        "text": "Residential & Commercial Services",
+        "width": 816
+      },
+      {
+        "font": "Montserrat",
+        "lines": 1,
+        "size": "28px",
+        "text": "Core Restoration Services",
+        "width": 816
+      },
+      {
+        "font": "Montserrat",
+        "lines": 1,
+        "size": "28px",
+        "text": "Emergency Restoration Support",
+        "width": 880
+      },
+      {
+        "font": "Montserrat",
+        "lines": 1,
+        "size": "28px",
+        "text": "How We Work",
+        "width": 816
+      },
+      {
+        "font": "Montserrat",
+        "lines": 1,
+        "size": "28px",
+        "text": "Projects & Before / After",
+        "width": 816
+      },
+      {
+        "font": "Montserrat",
+        "lines": 1,
+        "size": "28px",
+        "text": "Why Choose GCPRO",
+        "width": 396
+      },
+      {
+        "font": "Montserrat",
+        "lines": 1,
+        "size": "28px",
+        "text": "Testimonials",
+        "width": 396
+      },
+      {
+        "font": "Montserrat",
+        "lines": 1,
+        "size": "28px",
+        "text": "Service Areas",
+        "width": 396
+      },
+      {
+        "font": "Montserrat",
+        "lines": 1,
+        "size": "28px",
+        "text": "Discuss Your Restoration Needs",
+        "width": 720
+      }
+    ],
+    "overflow": false,
+    "services": [
+      {
+        "cta": "\n\tWater Damage Services\n",
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Water damage assessment, restoration and related service information.",
+          "width": 330.22222900390625
+        },
+        "height": 301.5694580078125,
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "22px",
+          "text": "Water Damage",
+          "width": 172.2777862548828
+        }
+      },
+      {
+        "cta": "\n\tFire & Smoke Services\n",
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Fire and smoke restoration service information.",
+          "width": 330.22222900390625
+        },
+        "height": 301.5694580078125,
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "22px",
+          "text": "Fire & Smoke Damage",
+          "width": 252.23611450195312
+        }
+      },
+      {
+        "cta": "\n\tMold Services\n",
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Mold removal and remediation service information.",
+          "width": 330.22222900390625
+        },
+        "height": 301.5694580078125,
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "22px",
+          "text": "Mold Remediation",
+          "width": 209.1666717529297
+        }
+      },
+      {
+        "cta": "\n\tReconstruction Services\n",
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Reconstruction service information and retained project examples.",
+          "width": 330.22222900390625
+        },
+        "height": 301.5694580078125,
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "22px",
+          "text": "Reconstruction",
+          "width": 174.4166717529297
+        }
+      },
+      {
+        "cta": "\n\tStorm Damage Services\n",
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Existing residential storm damage service information.",
+          "width": 330.22222900390625
+        },
+        "height": 330.1666564941406,
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "22px",
+          "text": "Storm Damage",
+          "width": 172.36111450195312
+        }
+      },
+      {
+        "cta": "\n\tProperty Restoration\n",
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Existing contents and personal property restoration information.",
+          "width": 330.22222900390625
+        },
+        "height": 330.1666564941406,
+        "title": {
+          "font": "Montserrat",
+          "lines": 2,
+          "size": "22px",
+          "text": "Personal Property Restoration",
+          "width": 330.22222900390625
+        }
+      }
+    ],
+    "timeline": [
+      {
+        "description": {
+          "font": "Inter",
+          "lines": 1,
+          "size": "16px",
+          "text": "Share the property location and type of restoration need.",
+          "width": 736
+        },
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "22px",
+          "text": "Contact",
+          "width": 736
+        }
+      },
+      {
+        "description": {
+          "font": "Inter",
+          "lines": 1,
+          "size": "16px",
+          "text": "Placeholder for the approved assessment process.",
+          "width": 736
+        },
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "22px",
+          "text": "Assessment",
+          "width": 736
+        }
+      },
+      {
+        "description": {
+          "font": "Inter",
+          "lines": 1,
+          "size": "16px",
+          "text": "Placeholder for the approved work and coordination process.",
+          "width": 736
+        },
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "22px",
+          "text": "Restoration",
+          "width": 736
+        }
+      },
+      {
+        "description": {
+          "font": "Inter",
+          "lines": 1,
+          "size": "16px",
+          "text": "Placeholder for the approved completion and review process.",
+          "width": 736
+        },
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "22px",
+          "text": "Review",
+          "width": 736
+        }
+      }
+    ],
+    "width": 900
+  },
+  {
+    "audience": [
+      {
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Homes, condos and personal property.",
+          "width": 232.6666717529297
+        },
+        "height": 364.6458435058594,
+        "title": {
+          "font": "Montserrat",
+          "lines": 2,
+          "size": "20px",
+          "text": "Residential Restoration",
+          "width": 232.6666717529297
+        }
+      },
+      {
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Offices, retail, facilities and multi-unit buildings.",
+          "width": 232.6666717529297
+        },
+        "height": 364.6458435058594,
+        "title": {
+          "font": "Montserrat",
+          "lines": 2,
+          "size": "20px",
+          "text": "Commercial Restoration",
+          "width": 232.6666717529297
+        }
+      }
+    ],
+    "h1": {
+      "font": "Montserrat",
+      "lines": 3,
+      "size": "40px",
+      "text": "Property restoration in Chicago",
+      "width": 350
+    },
+    "headings": [
+      {
+        "font": "Montserrat",
+        "lines": 2,
+        "size": "24px",
+        "text": "Residential & Commercial Services",
+        "width": 350
+      },
+      {
+        "font": "Montserrat",
+        "lines": 2,
+        "size": "24px",
+        "text": "Core Restoration Services",
+        "width": 350
+      },
+      {
+        "font": "Montserrat",
+        "lines": 2,
+        "size": "24px",
+        "text": "Emergency Restoration Support",
+        "width": 350
+      },
+      {
+        "font": "Montserrat",
+        "lines": 1,
+        "size": "24px",
+        "text": "How We Work",
+        "width": 350
+      },
+      {
+        "font": "Montserrat",
+        "lines": 2,
+        "size": "24px",
+        "text": "Projects & Before / After",
+        "width": 350
+      },
+      {
+        "font": "Montserrat",
+        "lines": 1,
+        "size": "24px",
+        "text": "Why Choose GCPRO",
+        "width": 350
+      },
+      {
+        "font": "Montserrat",
+        "lines": 1,
+        "size": "24px",
+        "text": "Testimonials",
+        "width": 350
+      },
+      {
+        "font": "Montserrat",
+        "lines": 1,
+        "size": "24px",
+        "text": "Service Areas",
+        "width": 350
+      },
+      {
+        "font": "Montserrat",
+        "lines": 2,
+        "size": "24px",
+        "text": "Discuss Your Restoration Needs",
+        "width": 302
+      }
+    ],
+    "overflow": false,
+    "services": [
+      {
+        "cta": "\n\tWater Damage Services\n",
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Water damage assessment, restoration and related service information.",
+          "width": 300.66668701171875
+        },
+        "height": 282.5208435058594,
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "20px",
+          "text": "Water Damage",
+          "width": 156.61459350585938
+        }
+      },
+      {
+        "cta": "\n\tFire & Smoke Services\n",
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Fire and smoke restoration service information.",
+          "width": 300.66668701171875
+        },
+        "height": 282.5208435058594,
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "20px",
+          "text": "Fire & Smoke Damage",
+          "width": 229.30209350585935
+        }
+      },
+      {
+        "cta": "\n\tMold Services\n",
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Mold removal and remediation service information.",
+          "width": 300.66668701171875
+        },
+        "height": 282.5208435058594,
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "20px",
+          "text": "Mold Remediation",
+          "width": 190.15625
+        }
+      },
+      {
+        "cta": "\n\tReconstruction Services\n",
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Reconstruction service information and retained project examples.",
+          "width": 300.66668701171875
+        },
+        "height": 282.5208435058594,
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "20px",
+          "text": "Reconstruction",
+          "width": 158.5625
+        }
+      },
+      {
+        "cta": "\n\tStorm Damage Services\n",
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Existing residential storm damage service information.",
+          "width": 300.66668701171875
+        },
+        "height": 282.5208435058594,
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "20px",
+          "text": "Storm Damage",
+          "width": 156.6979217529297
+        }
+      },
+      {
+        "cta": "\n\tProperty Restoration\n",
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Existing contents and personal property restoration information.",
+          "width": 300.66668701171875
+        },
+        "height": 308.5208435058594,
+        "title": {
+          "font": "Montserrat",
+          "lines": 2,
+          "size": "20px",
+          "text": "Personal Property Restoration",
+          "width": 300.66668701171875
+        }
+      }
+    ],
+    "timeline": [
+      {
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Share the property location and type of restoration need.",
+          "width": 278
+        },
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "20px",
+          "text": "Contact",
+          "width": 278
+        }
+      },
+      {
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Placeholder for the approved assessment process.",
+          "width": 278
+        },
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "20px",
+          "text": "Assessment",
+          "width": 278
+        }
+      },
+      {
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Placeholder for the approved work and coordination process.",
+          "width": 278
+        },
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "20px",
+          "text": "Restoration",
+          "width": 278
+        }
+      },
+      {
+        "description": {
+          "font": "Inter",
+          "lines": 2,
+          "size": "16px",
+          "text": "Placeholder for the approved completion and review process.",
+          "width": 278
+        },
+        "title": {
+          "font": "Montserrat",
+          "lines": 1,
+          "size": "20px",
+          "text": "Review",
+          "width": 278
+        }
+      }
+    ],
+    "width": 390
+  }
+]
