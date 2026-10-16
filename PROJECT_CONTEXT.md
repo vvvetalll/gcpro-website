@@ -2,6 +2,8 @@
 
 Last reviewed: 2026-10-16 (America/Chicago). Current milestone: Service Areas ZIP UI, process-number refinement and reference-based audience cards on staging Homepage 154. See the current implementation record below; earlier baseline observations remain dated history.
 
+Permanent workflow update, 2026-10-16: every AI agent must automatically use the six-section final reporting standard in [AGENTS](AGENTS.md#mandatory-implementation-reporting-standard) and [WORKFLOWS](docs/WORKFLOWS.md#mandatory-final-implementation-report). Every new technical element needs an individual purpose/gap/reuse/edit-location inventory; a pre-completion complexity audit is mandatory. Minor reports stay concise without omitting additions or custom code. This update changes documentation only; no WordPress/Elementor or shared ROBYLO modification is authorized or performed.
+
 ## Current implementation — E8
 
 Homepage 154 now has a native ZIP input and disabled Check Area button within the existing Service Areas section. City links and their destinations are preserved, with information on the left and a minimal panel on the right. This is an inactive visual prototype: no coverage lookup, validation, API or custom backend was implemented.

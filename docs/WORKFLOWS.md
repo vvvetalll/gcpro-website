@@ -30,6 +30,28 @@ No backup or restore procedure was executed during documentation initialization.
 6. Check the frontend, responsive layout, keyboard/focus, links and shared consumers. Test instance independence where overrides change. Record actual viewport sizes/results and untested cases.
 7. Record any existing/custom code touched, exact location, native capability gap and recovery. Prefer a simpler native design if the effect otherwise requires fragile code.
 
+## Native-first addition gate
+
+Before creating any Global Class, Global Variable, Atomic Component, code file, plugin or external dependency:
+
+1. Inspect the existing system and the supported native Elementor Atomic V4 controls/Overrides for the actual requirement.
+2. Reuse an appropriate existing resource when it reasonably satisfies that requirement.
+3. If an addition is necessary, record the specific present gap, purpose, reuse scope and editor/source location. Do not add a speculative abstraction or reusable class merely for possible future use.
+4. Keep significant design settings discoverable and visually editable in Elementor. Do not hide behavior or styling in undocumented code. Custom code remains subject to the existing capability-gap, scope and documentation rules in AGENTS.
+
+## Pre-completion complexity audit
+
+Every meaningful implementation, including a minor fix, requires this review before completion:
+
+- Duplicate or redundant Global Classes and Variables.
+- Unnecessary Components or abstractions.
+- Excessive DOM nesting.
+- Hidden styling or hard-to-find design controls.
+- Unnecessary custom CSS, JavaScript or PHP.
+- Additional plugins or external dependencies.
+
+Inspect actual saved configuration and affected consumers, not only intended tool inputs. Remove unjustified complexity introduced by the task within authorized scope, preserve unrelated/shared resources, and recheck affected rendering and functionality after simplification. If an existing shared issue cannot be safely removed in scope, report it under Outstanding Items. State what was simplified, or give the concrete reason retained additions are necessary. "Reusable someday" is not a justification.
+
 ## Milestone documentation — mandatory for ChatGPT Work
 
 After **every meaningful implementation milestone**, update the relevant documentation, commit it, push it and verify the remote branch before marking completion. This is the user's standing GCPRO workflow instruction, confirmed on 2026-10-16. A meaningful milestone includes delivered page sections, reusable component changes, global styling, navigation/templates, integrations or material fixes. The current authorized agent can complete this directly with verified access; a Codex handoff is needed only when access is unavailable.
@@ -55,20 +77,47 @@ Keep facts and reported outcomes separate. Record date/timezone, source, environ
 4. Recheck remote main before an authorized direct push; if it moved, fetch and review/reconcile the changes. Never overwrite remote work. Use a normal fast-forward push.
 5. Confirm the target remote branch SHA equals the delivered commit and inspect its tree/diff. Report the canonical commit URL and push result. Keep local/push/remote verification outcomes distinct.
 
-## Handoff receipt
+## Mandatory final implementation report
 
-Provide this at milestone completion:
+Permanent standard for every GCPRO AI agent, effective 2026-10-16. End every meaningful implementation task/milestone with the following exact six headings, in order. Keep them concise; minor changes can use one sentence per heading. Never omit a new technical element or custom code to shorten the report. Apply automatically without a reminder.
 
-- Date/timezone, authorized scope and staging host; implementation owner.
-- Actual changed pages/components/templates/classes/variables and repository files.
-- Before/after behavior, instance/shared effects and saved/published state.
-- Evidence references, versions, checks run with outcomes, and checks not run.
-- Backup reference, restore readiness and rollback scope.
-- Any custom code: exact source, purpose and reason native controls were insufficient; or explicitly no new code for that milestone.
-- Documentation commit URL, target branch and verified push status.
-- Remaining placeholders, dependencies, approvals and the next authorized action.
+### Implementation Summary
 
-Do not call the work complete while its required documentation is pending. Do not deploy or alter production.
+State what changed and where: page/section/Component names, actual WordPress/Elementor IDs, and resulting functionality or design. Identify staging, authorized scope, saved/published state and shared-consumer effects where relevant. Include date/timezone and evidence/recovery reference when material.
+
+### Technical Changes
+
+Describe native Elementor controls used; existing Global Classes, Variables, Atomic Components and supported Overrides reused; and any Component structure change. Explicitly identify custom CSS, JavaScript or PHP introduced or changed, including modifications to an existing code file.
+
+List **every** newly created Global Class, Global Variable, Atomic Component, custom code file, plugin and external dependency individually in the user-facing report. Do not replace the inventory with a count or documentation link alone. Use this compact row format when useful:
+
+| Addition (type, name/ID or exact file path) | Purpose | Why existing functionality was insufficient | Reusable? / actual consumers | Edit location |
+| --- | --- | --- | --- | --- |
+| One row for each actual addition | Current requirement solved | Specific native/existing resource gap | Yes/no and current scope | Exact Elementor control/class/Component or source file |
+
+Do not include an example row as an actual delivered addition. For custom code, also state why native controls could not reasonably satisfy the requirement. Identify plugin/dependency versions when verified and distinguish an installed dependency from one merely proposed.
+
+When applicable, explicitly state **"No new classes, components or custom code"**. Separately list any new Variables, plugins or external dependencies, or state none; the required phrase does not substitute for those categories. Links may supply deeper evidence or editing instructions, but must not hide the inventory.
+
+### Complexity Audit
+
+Report the pre-completion review of duplicate/redundant classes, unnecessary Components, excessive DOM nesting, hidden styling, unnecessary code and added dependencies. State what was removed/simplified and reverified, or why the retained additions are needed. Do not introduce speculative abstractions or treat an unreviewed implementation as audited.
+
+### Verification
+
+Report actual desktop and mobile checks, viewport sizes and results, functional behavior tested, Elementor visual editability and responsive issues. Include relevant keyboard/accessibility and performance concerns, evidence references, and material backup/restore limitations. Clearly label verified facts, assumptions, tests not run and unresolved issues. Do not invent a performance benchmark, touch test or successful interaction.
+
+For documentation-only tasks, website/editor/runtime verification is not applicable: verify document content, requirement coverage, links, diff/whitespace, intended file set and Git delivery instead. Do not modify WordPress or perform unrelated runtime tests just to fill this section.
+
+### GitHub
+
+List documentation files updated, the canonical commit URL, target branch, push result and verified remote branch/commit. A local commit is insufficient. If blocked, identify the exact access/protection/failure and leave synchronization explicitly pending.
+
+### Outstanding Items
+
+List anything incomplete, unverified, dependent on external materials, or requiring owner approval, including known technical limitations and remaining documentation issues. State none when there are no outstanding items. This section does not authorize additional work.
+
+Do not call the milestone complete while required documentation delivery is pending. Preserve the native-first and production boundaries; the report itself does not authorize deployment or website changes.
 
 ## Recovery
 

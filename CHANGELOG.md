@@ -2,6 +2,14 @@
 
 Record verified delivered changes with date, scope, evidence, validation, and remaining limitations. Do not turn a plan or an uncorroborated chat statement into completed development history. Evidence definitions are in [PROJECT_CONTEXT](PROJECT_CONTEXT.md#evidence-register).
 
+## 2026-10-16 — Permanent implementation reporting standard
+
+- Updated AGENTS and WORKFLOWS for all future GCPRO agents: exact final headings Implementation Summary, Technical Changes, Complexity Audit, Verification, GitHub and Outstanding Items.
+- Required individual inventories of every new class, variable, Component, custom code file, plugin and external dependency, with purpose, demonstrated gap, reuse scope and edit location; explicit no-additions statements when applicable.
+- Added a native-first addition gate and a mandatory review/removal of unjustified task-introduced complexity before completion. Speculative abstractions and undocumented styling are prohibited.
+- Preserved required commit/push/remote verification and added documentation-only applicability so the reporting template never authorizes website changes or invented runtime QA.
+- Updated PROJECT_CONTEXT to make the permanent standard discoverable. Verification covers requirement consistency, document links, diff/whitespace, intended files and actual Git delivery. No WordPress, Elementor, production, application code or shared ROBYLO changes.
+
 ## 2026-10-16 — ZIP prototype and owner-requested Homepage refinements
 
 - Refined the existing Service Areas section of Homepage 154 into information/city links plus a native ZIP Checker panel, with a visible future-feature notice and a real disabled submit button. No ZIP validation, results, API or custom backend was added.
