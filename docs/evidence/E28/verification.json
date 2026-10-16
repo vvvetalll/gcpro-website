@@ -1,0 +1,249 @@
+{
+  "date": "2026-10-16",
+  "environment": "staging",
+  "anonymousBrowser": "Logged-out Chrome profile; not incognito or physical device",
+  "checks": [
+    {
+      "anonymous": true,
+      "cards": [
+        {
+          "alt": "GCPRO restoration trucks parked outside a two-story house.",
+          "cardHeight": 554.125,
+          "cardWidth": 556,
+          "fit": "cover",
+          "href": "#",
+          "imageHeight": 416,
+          "imageWidth": 554.6666870117188,
+          "loaded": true,
+          "natural": [
+            1440,
+            1440
+          ],
+          "overflow": "hidden",
+          "position": "50% 50%",
+          "radius": "24px",
+          "ratio": "4 / 3",
+          "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-residential-restoration-trucks.webp"
+        },
+        {
+          "alt": "GCPRO restoration trucks on a downtown Chicago street surrounded by office buildings.",
+          "cardHeight": 554.125,
+          "cardWidth": 556,
+          "fit": "cover",
+          "href": "#",
+          "imageHeight": 416,
+          "imageWidth": 554.6666870117188,
+          "loaded": true,
+          "natural": [
+            1440,
+            1440
+          ],
+          "overflow": "hidden",
+          "position": "50% 50%",
+          "radius": "24px",
+          "ratio": "4 / 3",
+          "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-commercial-restoration-trucks.webp"
+        }
+      ],
+      "overflow": false,
+      "viewport": 1440
+    },
+    {
+      "anonymous": true,
+      "cards": [
+        {
+          "alt": "GCPRO restoration trucks parked outside a two-story house.",
+          "cardHeight": 548.375,
+          "cardWidth": 548.3333740234375,
+          "fit": "cover",
+          "href": "#",
+          "imageHeight": 410.25,
+          "imageWidth": 547,
+          "loaded": true,
+          "natural": [
+            1200,
+            1200
+          ],
+          "overflow": "hidden",
+          "position": "50% 50%",
+          "radius": "24px",
+          "ratio": "4 / 3",
+          "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-residential-restoration-trucks.webp"
+        },
+        {
+          "alt": "GCPRO restoration trucks on a downtown Chicago street surrounded by office buildings.",
+          "cardHeight": 548.375,
+          "cardWidth": 548.3333740234375,
+          "fit": "cover",
+          "href": "#",
+          "imageHeight": 410.25,
+          "imageWidth": 547,
+          "loaded": true,
+          "natural": [
+            1200,
+            1200
+          ],
+          "overflow": "hidden",
+          "position": "50% 50%",
+          "radius": "24px",
+          "ratio": "4 / 3",
+          "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-commercial-restoration-trucks.webp"
+        }
+      ],
+      "overflow": false,
+      "viewport": 1200
+    },
+    {
+      "anonymous": true,
+      "cards": [
+        {
+          "alt": "GCPRO restoration trucks parked outside a two-story house.",
+          "cardHeight": 487.4583435058594,
+          "cardWidth": 398.3333435058594,
+          "fit": "cover",
+          "href": "#",
+          "imageHeight": 297.75,
+          "imageWidth": 397,
+          "loaded": true,
+          "natural": [
+            900,
+            900
+          ],
+          "overflow": "hidden",
+          "position": "50% 50%",
+          "radius": "24px",
+          "ratio": "4 / 3",
+          "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-residential-restoration-trucks-1024x1024.webp"
+        },
+        {
+          "alt": "GCPRO restoration trucks on a downtown Chicago street surrounded by office buildings.",
+          "cardHeight": 487.4583435058594,
+          "cardWidth": 398.3333435058594,
+          "fit": "cover",
+          "href": "#",
+          "imageHeight": 297.75,
+          "imageWidth": 397,
+          "loaded": true,
+          "natural": [
+            900,
+            900
+          ],
+          "overflow": "hidden",
+          "position": "50% 50%",
+          "radius": "24px",
+          "ratio": "4 / 3",
+          "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-commercial-restoration-trucks-1024x1024.webp"
+        }
+      ],
+      "overflow": false,
+      "viewport": 900
+    },
+    {
+      "anonymous": true,
+      "cards": [
+        {
+          "alt": "GCPRO restoration trucks parked outside a two-story house.",
+          "cardHeight": 430.0208435058594,
+          "cardWidth": 350,
+          "fit": "cover",
+          "href": "#",
+          "imageHeight": 261.5,
+          "imageWidth": 348.66668701171875,
+          "loaded": true,
+          "natural": [
+            390,
+            390
+          ],
+          "overflow": "hidden",
+          "position": "50% 50%",
+          "radius": "24px",
+          "ratio": "4 / 3",
+          "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-residential-restoration-trucks-1024x1024.webp"
+        },
+        {
+          "alt": "GCPRO restoration trucks on a downtown Chicago street surrounded by office buildings.",
+          "cardHeight": 430.0208435058594,
+          "cardWidth": 350,
+          "fit": "cover",
+          "href": "#",
+          "imageHeight": 261.5,
+          "imageWidth": 348.66668701171875,
+          "loaded": true,
+          "natural": [
+            390,
+            390
+          ],
+          "overflow": "hidden",
+          "position": "50% 50%",
+          "radius": "24px",
+          "ratio": "4 / 3",
+          "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-commercial-restoration-trucks-1024x1024.webp"
+        }
+      ],
+      "overflow": false,
+      "viewport": 390
+    }
+  ],
+  "nativeClass": {
+    "id": "g-77c2a17",
+    "label": "audience-card__image",
+    "type": "class",
+    "variants": [
+      {
+        "meta": {
+          "breakpoint": "desktop",
+          "state": null
+        },
+        "props": {
+          "width": {
+            "$$type": "size",
+            "value": {
+              "size": 100,
+              "unit": "%"
+            }
+          },
+          "aspect-ratio": {
+            "$$type": "string",
+            "value": "4 / 3"
+          },
+          "object-fit": {
+            "$$type": "string",
+            "value": "cover"
+          },
+          "object-position": {
+            "$$type": "object-position",
+            "value": {
+              "x": {
+                "$$type": "size",
+                "value": {
+                  "size": 50,
+                  "unit": "%"
+                }
+              },
+              "y": {
+                "$$type": "size",
+                "value": {
+                  "size": 50,
+                  "unit": "%"
+                }
+              }
+            }
+          },
+          "display": {
+            "$$type": "string",
+            "value": "block"
+          },
+          "height": {
+            "$$type": "size",
+            "value": {
+              "size": null,
+              "unit": "auto"
+            }
+          }
+        },
+        "custom_css": null
+      }
+    ]
+  },
+  "changes": "Two placeholder paragraphs replaced with two native Atomic Images; same existing frames and card body trees."
+}

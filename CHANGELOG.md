@@ -1,5 +1,11 @@
 # GCPRO changelog
 
+## 2026-10-16 — Audience-card photograph trial — E28
+
+- Uploaded two owner-approved1440×1440 WebPs (Media615/616), descriptive alt text; replaced only the audience placeholder labels with native Atomic Images on154. Shared4:3 native cover/center presentation, existing card geometry/body/copy/arrows/destinations preserved.
+- One justified native Global Class audience-card__image g-77c2a17, reused layout-reset; no local styling, custom CSS/JS/PHP, new Components/Variables/plugins. Full saved-tree comparison limits changes to two photo frames and their children.
+- Purged staging SiteGround cache; anonymous1440/1200/900/390 images/crop/equal heights/corners/no overflow and actual native editor controls verified. Not a physical-device/incognito or formal CLS benchmark. [Evidence and reversible trial](docs/milestones/2026-10-16-audience-card-images.md).
+
 ## 2026-10-16 — Homepage copy proposal, Phase1 only — E27
 
 - Added complete48-row current/proposed copy table with source-backed service positioning, visual-fit expectations, shorter section labels and explicit proof/process/publication holds. Read14 live production pages and canonical architecture; no new SEO research or URL decisions.

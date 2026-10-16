@@ -1,5 +1,9 @@
 # GCPRO design system
 
+## Audience photography trial — E28
+
+New native Global Class **audience-card__image g-77c2a17**: display block, width100%, height auto, aspect ratio4:3, object fit cover, object position50%50%. Current consumers: only native Images295bf90e/27ec40d5 on154. All values are native Atomic properties, custom_css:null; no local styles. Existing media-placeholder is a padded/background/bordered flex placeholder, image-led-card styles a parent, header-logo is logo-specific; none fits a full-bleed photograph. This single shared class is required to preserve symmetry without affecting other media. Edit Image → Style → select audience-card__image → Size/Show more for ratio/fit/position. Images themselves remain independently selected in General → Content. Existing audience-card owns24px clipping/corners/border; layout-reset removes obsolete placeholder frame presentation. Classes90→91; Components16/Variables36 unchanged. [Assets, trial/QA and limitations](milestones/2026-10-16-audience-card-images.md).
+
 ## Current optional H2 accent — E26
 
 Use section-heading--accent g-a537304 on the existing native container directly holding Section Heading71 (.stack > h2). One scoped GLOBAL class pseudo-element rule adds40×3px/radius2 orange line,16px below H2 via color-accent/space-sm. Apply selectively; current five are Audience/Core/Process/Projects/Areas on154, all start-aligned. No global H2 default or71 definition change. Attach/remove via native container Classes; geometry lives in that selected global class's documented Custom CSS, not local widget CSS. [Canonical mirror](../integrations/section-heading-accent.css) is not separately enqueued; [editing/limits/map/QA](milestones/2026-10-16-section-heading-system.md).
