@@ -1,0 +1,761 @@
+{
+  "scope": "Public read-only production GET/REST; no website mutation",
+  "browser_confirmation": "IAB verified Blog/Portfolio rendered template IDs; production admin redirects to login; sampled single-post/project Header lacks active markers and Footer LI/anchor state differs",
+  "historical_context": "Owner supplied January 2026 category-blog/category-1 and PHP hook history; source code and exact code locations not verified",
+  "checks": [
+    {
+      "url": "https://gcprochicago.com/blog/",
+      "checked_at_utc": "2026-10-16T17:00:09.585232+00:00",
+      "status": 200,
+      "final_url": "https://gcprochicago.com/blog/",
+      "response_sha256": "3b49d75cfecaece6bb3919085090ddc64b06a6911b9348397e22bf71696e7192",
+      "body_classes": "blog wp-custom-logo wp-theme-custom-dev-theme-elementor-master rttpg rttpg-7.9.7 radius-frontend rttpg-body-wrap ally-default elementor-page-6858 elementor-default elementor-template-full-width elementor-kit-562",
+      "templates": [
+        {
+          "data-elementor-type": "header",
+          "data-elementor-id": "21168",
+          "class": "elementor elementor-21168 elementor-location-header"
+        },
+        {
+          "data-elementor-type": "archive",
+          "data-elementor-id": "6858",
+          "class": "elementor elementor-6858 elementor-location-archive"
+        },
+        {
+          "data-elementor-type": "footer",
+          "data-elementor-id": "21217",
+          "class": "elementor elementor-21217 elementor-location-footer"
+        }
+      ],
+      "title": "Property Overhaul: Our Restoration Blog | GCPRO",
+      "description": "Dive into our blog for top property restoration tips, from damage repair to full-scale renovations. Your guide to revitalizing spaces",
+      "robots": "max-image-preview:large",
+      "canonical": "https://gcprochicago.com/blog/",
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Blog: All About Property Restoration"
+        },
+        {
+          "tag": "h2",
+          "text": "Signs of Hidden Water Damage in Your Home"
+        },
+        {
+          "tag": "h2",
+          "text": "What to Do If You Notice Water Damage in Your Home"
+        },
+        {
+          "tag": "h2",
+          "text": "How Board-Up Services Save Chicago Businesses After a Disaster"
+        },
+        {
+          "tag": "h2",
+          "text": "Top 5 Reasons You Need Emergency Board-Up Services in Chicago"
+        },
+        {
+          "tag": "h2",
+          "text": "When and Why You Need Emergency Board-Up Services"
+        },
+        {
+          "tag": "h2",
+          "text": "Black Mold vs. Regular Mold: Understanding the Difference"
+        },
+        {
+          "tag": "h2",
+          "text": "Understanding Water Damage Restoration in Villa Park: A Must-Read Guide"
+        },
+        {
+          "tag": "h2",
+          "text": "Navigating Fire and Smoke Restoration in Glencoe with GCPRO Restoration"
+        },
+        {
+          "tag": "h2",
+          "text": "Contact Us"
+        }
+      ],
+      "menu_markers": [
+        {
+          "href": "#",
+          "class": "gc_menu-link toggle-parent",
+          "aria_current": "",
+          "text": "Showcase",
+          "li": {
+            "class": "gc_menu-item has-submenu",
+            "id": ""
+          }
+        },
+        {
+          "href": "https://gcprochicago.com/portfolio/",
+          "class": "gc_sub-menu-link",
+          "aria_current": "",
+          "text": "Portfolio",
+          "li": {
+            "class": "gc_sub-menu-item",
+            "id": ""
+          }
+        },
+        {
+          "href": "https://gcprochicago.com/blog/",
+          "class": "gc_menu-link toggle-parent active",
+          "aria_current": "",
+          "text": "Blog",
+          "li": {
+            "class": "gc_menu-item active",
+            "id": ""
+          }
+        },
+        {
+          "href": "#",
+          "class": "gc_menu_mobile-link",
+          "aria_current": "",
+          "text": "Showcase",
+          "li": {
+            "class": "gc_menu_mobile-item has-submenu",
+            "id": ""
+          }
+        },
+        {
+          "href": "https://gcprochicago.com/portfolio/",
+          "class": "gc_sub_mobile-menu-link",
+          "aria_current": "",
+          "text": "Portfolio",
+          "li": {
+            "class": "gc_sub_mobile-menu-item",
+            "id": ""
+          }
+        },
+        {
+          "href": "https://gcprochicago.com/blog/",
+          "class": "gc_menu_mobile-link active",
+          "aria_current": "",
+          "text": "Blog",
+          "li": {
+            "class": "gc_menu_mobile-item active open",
+            "id": ""
+          }
+        },
+        {
+          "href": "https://gcprochicago.com/blog/",
+          "class": "elementor-item elementor-item-active",
+          "aria_current": "page",
+          "text": "Blog",
+          "li": {
+            "class": "menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2187 current_page_item current_page_parent menu-item-2905 current-menu-item current_page_item",
+            "id": ""
+          }
+        },
+        {
+          "href": "https://gcprochicago.com/portfolio/",
+          "class": "elementor-item",
+          "aria_current": "",
+          "text": "Portfolio",
+          "li": {
+            "class": "menu-item menu-item-type-post_type_archive menu-item-object-portfolio menu-item-10146",
+            "id": ""
+          }
+        },
+        {
+          "href": "https://gcprochicago.com/blog/",
+          "class": "elementor-item elementor-item-active",
+          "aria_current": "page",
+          "text": "Blog",
+          "li": {
+            "class": "menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2187 current_page_item current_page_parent menu-item-2905 current-menu-item current_page_item",
+            "id": ""
+          }
+        },
+        {
+          "href": "https://gcprochicago.com/portfolio/",
+          "class": "elementor-item",
+          "aria_current": "",
+          "text": "Portfolio",
+          "li": {
+            "class": "menu-item menu-item-type-post_type_archive menu-item-object-portfolio menu-item-10146",
+            "id": ""
+          }
+        }
+      ],
+      "theme_paths": [
+        "custom-dev-theme-elementor-master"
+      ]
+    },
+    {
+      "url": "https://gcprochicago.com/portfolio/",
+      "checked_at_utc": "2026-10-16T17:00:09.586235+00:00",
+      "status": 200,
+      "final_url": "https://gcprochicago.com/portfolio/",
+      "response_sha256": "66dfcbab653a92e25957cd10387a02e5d408043f1bdd6de64186c35993cd4b7b",
+      "body_classes": "archive post-type-archive post-type-archive-portfolio wp-custom-logo wp-theme-custom-dev-theme-elementor-master rttpg rttpg-7.9.7 radius-frontend rttpg-body-wrap ally-default elementor-page-8412 elementor-default elementor-template-full-width elementor-kit-562",
+      "templates": [
+        {
+          "data-elementor-type": "header",
+          "data-elementor-id": "21168",
+          "class": "elementor elementor-21168 elementor-location-header"
+        },
+        {
+          "data-elementor-type": "archive",
+          "data-elementor-id": "8412",
+          "class": "elementor elementor-8412 elementor-location-archive"
+        },
+        {
+          "data-elementor-type": "footer",
+          "data-elementor-id": "21217",
+          "class": "elementor elementor-21217 elementor-location-footer"
+        }
+      ],
+      "title": "Portfolio | GCPRO",
+      "description": "",
+      "robots": "max-image-preview:large",
+      "canonical": "https://gcprochicago.com/portfolio/",
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Portfolio"
+        },
+        {
+          "tag": "h2",
+          "text": "Contact Us"
+        }
+      ],
+      "menu_markers": [
+        {
+          "href": "#",
+          "class": "gc_menu-link toggle-parent",
+          "aria_current": "",
+          "text": "Showcase",
+          "li": {
+            "class": "gc_menu-item has-submenu active",
+            "id": ""
+          }
+        },
+        {
+          "href": "https://gcprochicago.com/blog/",
+          "class": "gc_menu-link toggle-parent",
+          "aria_current": "",
+          "text": "Blog",
+          "li": {
+            "class": "gc_menu-item",
+            "id": ""
+          }
+        },
+        {
+          "href": "#",
+          "class": "gc_menu_mobile-link",
+          "aria_current": "",
+          "text": "Showcase",
+          "li": {
+            "class": "gc_menu_mobile-item has-submenu active open",
+            "id": ""
+          }
+        },
+        {
+          "href": "https://gcprochicago.com/blog/",
+          "class": "gc_menu_mobile-link",
+          "aria_current": "",
+          "text": "Blog",
+          "li": {
+            "class": "gc_menu_mobile-item",
+            "id": ""
+          }
+        },
+        {
+          "href": "https://gcprochicago.com/blog/",
+          "class": "elementor-item",
+          "aria_current": "",
+          "text": "Blog",
+          "li": {
+            "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-2905",
+            "id": ""
+          }
+        },
+        {
+          "href": "https://gcprochicago.com/portfolio/",
+          "class": "elementor-item elementor-item-active",
+          "aria_current": "page",
+          "text": "Portfolio",
+          "li": {
+            "class": "menu-item menu-item-type-post_type_archive menu-item-object-portfolio current-menu-item menu-item-10146 current-menu-item current_page_item",
+            "id": ""
+          }
+        },
+        {
+          "href": "https://gcprochicago.com/blog/",
+          "class": "elementor-item",
+          "aria_current": "",
+          "text": "Blog",
+          "li": {
+            "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-2905",
+            "id": ""
+          }
+        },
+        {
+          "href": "https://gcprochicago.com/portfolio/",
+          "class": "elementor-item elementor-item-active",
+          "aria_current": "page",
+          "text": "Portfolio",
+          "li": {
+            "class": "menu-item menu-item-type-post_type_archive menu-item-object-portfolio current-menu-item menu-item-10146 current-menu-item current_page_item",
+            "id": ""
+          }
+        }
+      ],
+      "theme_paths": [
+        "custom-dev-theme-elementor-master"
+      ]
+    },
+    {
+      "url": "https://gcprochicago.com/wp-json/wp/v2/categories?per_page=100",
+      "checked_at_utc": "2026-10-16T17:00:09.586235+00:00",
+      "status": 200,
+      "final_url": "https://gcprochicago.com/wp-json/wp/v2/categories?per_page=100",
+      "response_sha256": "5a7281dd3f54d8aa01ec74459149cdc720a1b409b55094490ee68cfb1ddb0469",
+      "objects": [
+        {
+          "id": 49,
+          "name": "News",
+          "slug": "news",
+          "link": "https://gcprochicago.com/./news/",
+          "parent": 0,
+          "description": ""
+        }
+      ]
+    },
+    {
+      "url": "https://gcprochicago.com/wp-json/wp/v2/pages?slug=blog",
+      "checked_at_utc": "2026-10-16T17:00:09.586235+00:00",
+      "status": 200,
+      "final_url": "https://gcprochicago.com/wp-json/wp/v2/pages?slug=blog",
+      "response_sha256": "27fc259cf489a97bdbc862d5ead3048df4056aa7a2a18609fe5814d3b0db614c",
+      "objects": [
+        {
+          "id": 2187,
+          "slug": "blog",
+          "link": "https://gcprochicago.com/blog/",
+          "parent": 0,
+          "status": "publish",
+          "title": {
+            "rendered": "Blog"
+          }
+        }
+      ]
+    },
+    {
+      "url": "https://gcprochicago.com/wp-json/wp/v2/pages?slug=portfolio",
+      "checked_at_utc": "2026-10-16T17:00:09.587235+00:00",
+      "status": 200,
+      "final_url": "https://gcprochicago.com/wp-json/wp/v2/pages?slug=portfolio",
+      "response_sha256": "e843097e5697bb37b4a68099beabac31225008f6542bc047dc26007234388424",
+      "objects": [
+        {
+          "id": 8929,
+          "slug": "portfolio",
+          "link": "https://gcprochicago.com/portfolio/",
+          "parent": 0,
+          "status": "publish",
+          "title": {
+            "rendered": "Portfolio"
+          }
+        }
+      ]
+    },
+    {
+      "url": "https://gcprochicago.com/wp-json/wp/v2/types/portfolio",
+      "checked_at_utc": "2026-10-16T17:00:17.218346+00:00",
+      "status": 200,
+      "final_url": "https://gcprochicago.com/wp-json/wp/v2/types/portfolio",
+      "response_sha256": "b72fea0d796843dc7ed381a2ed52d942c1d35ffdbf2e9dc108d5ecf9d11c5873",
+      "type": {
+        "slug": "portfolio",
+        "name": "Portfolio",
+        "has_archive": true,
+        "hierarchical": false,
+        "rest_base": "portfolio",
+        "taxonomies": [
+          "project-type"
+        ]
+      }
+    },
+    {
+      "url": "https://gcprochicago.com/wp-json/wp/v2/settings",
+      "checked_at_utc": "2026-10-16T17:00:17.619554+00:00",
+      "status": 401,
+      "final_url": "https://gcprochicago.com/wp-json/wp/v2/settings",
+      "response_sha256": "5e624cc207e03d06cb1a83d7e8eb917c4aff2637077d8ddb4504cc2bf271da4b",
+      "response": {
+        "code": "rest_forbidden",
+        "message": "Sorry, you are not allowed to do that.",
+        "data": {
+          "status": 401
+        }
+      }
+    },
+    {
+      "url": "https://gcprochicago.com/signs-of-hidden-water-damage-in-your-home/",
+      "checked_at_utc": "2026-10-16T17:00:20.733731+00:00",
+      "status": 200,
+      "final_url": "https://gcprochicago.com/signs-of-hidden-water-damage-in-your-home/",
+      "response_sha256": "016616b69f691d13e236a3adda9847fd02c0444c46a16b031eec29ab3011ad2a",
+      "body_classes": "wp-singular post-template-default single single-post postid-21140 single-format-standard wp-custom-logo wp-theme-custom-dev-theme-elementor-master rttpg rttpg-7.9.7 radius-frontend rttpg-body-wrap ally-default elementor-default elementor-template-full-width elementor-kit-562 elementor-page elementor-page-21140 elementor-page-5897",
+      "templates": [
+        {
+          "data-elementor-type": "header",
+          "data-elementor-id": "21168",
+          "class": "elementor elementor-21168 elementor-location-header"
+        },
+        {
+          "data-elementor-type": "single-post",
+          "data-elementor-id": "5897",
+          "class": "elementor elementor-5897 elementor-location-single post-21140 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-water-damage"
+        },
+        {
+          "data-elementor-type": "wp-post",
+          "data-elementor-id": "21140",
+          "class": "elementor elementor-21140"
+        },
+        {
+          "data-elementor-type": "section",
+          "data-elementor-id": "7652",
+          "class": "elementor elementor-7652 elementor-location-single"
+        },
+        {
+          "data-elementor-type": "footer",
+          "data-elementor-id": "21217",
+          "class": "elementor elementor-21217 elementor-location-footer"
+        }
+      ],
+      "title": "Signs of Hidden Water Damage in Your Home | GCPRO",
+      "description": "Hidden water damage can lead to costly repairs. Learn the top signs of concealed leaks, mold, and structural issues, plus how to prevent long-term damage.",
+      "robots": "max-image-preview:large",
+      "canonical": "https://gcprochicago.com/signs-of-hidden-water-damage-in-your-home/",
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Signs of Hidden Water Damage in Your Home"
+        },
+        {
+          "tag": "h2",
+          "text": "Discoloration on Walls or Ceilings"
+        },
+        {
+          "tag": "h2",
+          "text": "Warped or Buckled Flooring"
+        },
+        {
+          "tag": "h2",
+          "text": "Unexplained Musty Odors"
+        },
+        {
+          "tag": "h2",
+          "text": "Sudden Increase in Water Bills"
+        },
+        {
+          "tag": "h2",
+          "text": "Peeling or Bubbling Paint & Wallpaper"
+        },
+        {
+          "tag": "h2",
+          "text": "Mold or Mildew Growing in Unexpected Areas"
+        },
+        {
+          "tag": "h2",
+          "text": "Sounds of Dripping or Running Water"
+        },
+        {
+          "tag": "h2",
+          "text": "Soft or Sagging Drywall & Ceilings"
+        },
+        {
+          "tag": "h2",
+          "text": "Preventing Hidden Water Damage in Your Home"
+        },
+        {
+          "tag": "h2",
+          "text": "When to Call a Professional"
+        },
+        {
+          "tag": "h2",
+          "text": "Need Water Damage Inspection?"
+        },
+        {
+          "tag": "h2",
+          "text": "Conclusion"
+        },
+        {
+          "tag": "h2",
+          "text": "Related Reads"
+        },
+        {
+          "tag": "h2",
+          "text": "Contact Us"
+        }
+      ],
+      "menu_markers": [
+        {
+          "href": "#",
+          "class": "gc_menu-link toggle-parent",
+          "aria_current": "",
+          "text": "Showcase",
+          "li": {
+            "class": "gc_menu-item has-submenu",
+            "id": ""
+          }
+        },
+        {
+          "href": "https://gcprochicago.com/portfolio/",
+          "class": "gc_sub-menu-link",
+          "aria_current": "",
+          "text": "Portfolio",
+          "li": {
+            "class": "gc_sub-menu-item",
+            "id": ""
+          }
+        },
+        {
+          "href": "https://gcprochicago.com/blog/",
+          "class": "gc_menu-link toggle-parent",
+          "aria_current": "",
+          "text": "Blog",
+          "li": {
+            "class": "gc_menu-item",
+            "id": ""
+          }
+        },
+        {
+          "href": "#",
+          "class": "gc_menu_mobile-link",
+          "aria_current": "",
+          "text": "Showcase",
+          "li": {
+            "class": "gc_menu_mobile-item has-submenu",
+            "id": ""
+          }
+        },
+        {
+          "href": "https://gcprochicago.com/portfolio/",
+          "class": "gc_sub_mobile-menu-link",
+          "aria_current": "",
+          "text": "Portfolio",
+          "li": {
+            "class": "gc_sub_mobile-menu-item",
+            "id": ""
+          }
+        },
+        {
+          "href": "https://gcprochicago.com/blog/",
+          "class": "gc_menu_mobile-link",
+          "aria_current": "",
+          "text": "Blog",
+          "li": {
+            "class": "gc_menu_mobile-item",
+            "id": ""
+          }
+        },
+        {
+          "href": "https://gcprochicago.com/blog/",
+          "class": "elementor-item",
+          "aria_current": "",
+          "text": "Blog",
+          "li": {
+            "class": "menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-2905 current-menu-item current_page_item",
+            "id": ""
+          }
+        },
+        {
+          "href": "https://gcprochicago.com/portfolio/",
+          "class": "elementor-item",
+          "aria_current": "",
+          "text": "Portfolio",
+          "li": {
+            "class": "menu-item menu-item-type-post_type_archive menu-item-object-portfolio menu-item-10146",
+            "id": ""
+          }
+        },
+        {
+          "href": "https://gcprochicago.com/blog/",
+          "class": "elementor-item",
+          "aria_current": "",
+          "text": "Blog",
+          "li": {
+            "class": "menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-2905 current-menu-item current_page_item",
+            "id": ""
+          }
+        },
+        {
+          "href": "https://gcprochicago.com/portfolio/",
+          "class": "elementor-item",
+          "aria_current": "",
+          "text": "Portfolio",
+          "li": {
+            "class": "menu-item menu-item-type-post_type_archive menu-item-object-portfolio menu-item-10146",
+            "id": ""
+          }
+        }
+      ],
+      "theme_paths": [
+        "custom-dev-theme-elementor-master"
+      ]
+    },
+    {
+      "url": "https://gcprochicago.com/portfolio/reconstruction-after-water-damage-on-montana-street-chicago/",
+      "checked_at_utc": "2026-10-16T17:00:23.617395+00:00",
+      "status": 200,
+      "final_url": "https://gcprochicago.com/portfolio/reconstruction-after-water-damage-on-montana-street-chicago/",
+      "response_sha256": "5a83058889236055c5145d1a9872f2c5d4e9057ea6589ec5239a9065bbf23dd6",
+      "body_classes": "wp-singular portfolio-template-default single single-portfolio postid-10625 wp-custom-logo wp-theme-custom-dev-theme-elementor-master rttpg rttpg-7.9.7 radius-frontend rttpg-body-wrap ally-default elementor-default elementor-template-full-width elementor-kit-562 elementor-page elementor-page-10625 elementor-page-7996",
+      "templates": [
+        {
+          "data-elementor-type": "header",
+          "data-elementor-id": "21168",
+          "class": "elementor elementor-21168 elementor-location-header"
+        },
+        {
+          "data-elementor-type": "single-post",
+          "data-elementor-id": "7996",
+          "class": "elementor elementor-7996 elementor-location-single post-10625 portfolio type-portfolio status-publish has-post-thumbnail hentry project-type-water-damage"
+        },
+        {
+          "data-elementor-type": "wp-post",
+          "data-elementor-id": "10625",
+          "class": "elementor elementor-10625"
+        },
+        {
+          "data-elementor-type": "footer",
+          "data-elementor-id": "21217",
+          "class": "elementor elementor-21217 elementor-location-footer"
+        }
+      ],
+      "title": "Reconstruction After Water Damage on Montana Street, Chicago | GCPRO",
+      "description": "",
+      "robots": "max-image-preview:large",
+      "canonical": "https://gcprochicago.com/portfolio/reconstruction-after-water-damage-on-montana-street-chicago/",
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Reconstruction After Water Damage on Montana Street, Chicago"
+        },
+        {
+          "tag": "h2",
+          "text": "Contact Us"
+        }
+      ],
+      "menu_markers": [
+        {
+          "href": "#",
+          "class": "gc_menu-link toggle-parent",
+          "aria_current": "",
+          "text": "Showcase",
+          "li": {
+            "class": "gc_menu-item has-submenu",
+            "id": ""
+          }
+        },
+        {
+          "href": "https://gcprochicago.com/portfolio/",
+          "class": "gc_sub-menu-link",
+          "aria_current": "",
+          "text": "Portfolio",
+          "li": {
+            "class": "gc_sub-menu-item",
+            "id": ""
+          }
+        },
+        {
+          "href": "https://gcprochicago.com/blog/",
+          "class": "gc_menu-link toggle-parent",
+          "aria_current": "",
+          "text": "Blog",
+          "li": {
+            "class": "gc_menu-item",
+            "id": ""
+          }
+        },
+        {
+          "href": "#",
+          "class": "gc_menu_mobile-link",
+          "aria_current": "",
+          "text": "Showcase",
+          "li": {
+            "class": "gc_menu_mobile-item has-submenu",
+            "id": ""
+          }
+        },
+        {
+          "href": "https://gcprochicago.com/portfolio/",
+          "class": "gc_sub_mobile-menu-link",
+          "aria_current": "",
+          "text": "Portfolio",
+          "li": {
+            "class": "gc_sub_mobile-menu-item",
+            "id": ""
+          }
+        },
+        {
+          "href": "https://gcprochicago.com/blog/",
+          "class": "gc_menu_mobile-link",
+          "aria_current": "",
+          "text": "Blog",
+          "li": {
+            "class": "gc_menu_mobile-item",
+            "id": ""
+          }
+        },
+        {
+          "href": "https://gcprochicago.com/blog/",
+          "class": "elementor-item",
+          "aria_current": "",
+          "text": "Blog",
+          "li": {
+            "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-2905",
+            "id": ""
+          }
+        },
+        {
+          "href": "https://gcprochicago.com/portfolio/",
+          "class": "elementor-item",
+          "aria_current": "",
+          "text": "Portfolio",
+          "li": {
+            "class": "menu-item menu-item-type-post_type_archive menu-item-object-portfolio menu-item-10146 current-menu-item current_page_item",
+            "id": ""
+          }
+        },
+        {
+          "href": "https://gcprochicago.com/blog/",
+          "class": "elementor-item",
+          "aria_current": "",
+          "text": "Blog",
+          "li": {
+            "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-2905",
+            "id": ""
+          }
+        },
+        {
+          "href": "https://gcprochicago.com/portfolio/",
+          "class": "elementor-item",
+          "aria_current": "",
+          "text": "Portfolio",
+          "li": {
+            "class": "menu-item menu-item-type-post_type_archive menu-item-object-portfolio menu-item-10146 current-menu-item current_page_item",
+            "id": ""
+          }
+        }
+      ],
+      "theme_paths": [
+        "custom-dev-theme-elementor-master"
+      ]
+    },
+    {
+      "url": "https://gcprochicago.com/wp-json/wp/v2/elementor_library?include=6858,8412&_fields=id,type,title,meta",
+      "checked_at_utc": "2026-10-16T17:02:41.957193+00:00",
+      "status": 401,
+      "response": {
+        "code": "rest_forbidden",
+        "message": "Sorry, you are not allowed to do that.",
+        "data": {
+          "status": 401
+        }
+      },
+      "response_sha256": "5e624cc207e03d06cb1a83d7e8eb917c4aff2637077d8ddb4504cc2bf271da4b"
+    }
+  ]
+}

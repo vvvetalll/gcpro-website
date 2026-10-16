@@ -71,13 +71,51 @@ Minimum required capability: a supported authenticated WordPress Page create/upd
 
 ## Correct object models and unresolved SEO decisions
 
-- `/blog/`: live body is a WordPress posts archive (`blog` class), although production REST also exposes Page 2187. Staging currently has no posts-page assignment. Plan native archive/Reading configuration later, retaining `/blog/`; do not create a duplicate Blog Page during this task.
+- `/blog/`: current public signals are consistent with a WordPress posts index (`blog` body class and a native Page-based menu item for 2187), rather than the owner's January 2026 category archive. The exact current Reading/query configuration is not authenticated/verified. The CSV now marks this as a posts-index candidate pending confirmation; see the historical/current comparison below. Preserve `/blog/` and do not create a duplicate Page or assume the old category title hooks still run. Staging currently has no posts-page assignment.
 - `/portfolio/`: live body is `post-type-archive-portfolio`, although REST also exposes Page 8929. Production type `portfolio` declares an archive. Staging public REST types and admin navigation expose no portfolio CPT. Confirm the supported project model/registration and archive before importing its 13 entries or connecting links. Do not register a new model/plugin within this skeleton task.
 - `/team/`: audit says KEEP; current public response is 404 with no matching Page. Preserve that disagreement. Do not invent a destination or create a team Page without reconciliation.
 - Current-only Pages `/connect/`, `/test2/`, `/corporate-signatures2/`, `/thank-you/` have no approved audit decision. The current category's REST link is `https://gcprochicago.com/./news/`; preserve the observed spelling and review canonical/route normalization before any mapping. All five are review items, not approved KEEP destinations.
 - Proposed `/commercial-services/storm-damage/` and `/sewage-cleanup/` remain unapproved; the latter currently returns 404. No Pages created.
 - Other live 404s include audited `/water-damage-restoration-naperville-6/` and a leaked plugin-directory artifact. Their original audit decisions remain authoritative pending review; this task executes none of them.
 - Audit-vs-live title changes and non-self canonicals are recorded per URL, not silently repaired. Existing Product/review schema, business-data inconsistencies and unsupported claims are not copied into new Drafts. Future content migration still requires approved copy/media and correct metadata/schema implementation.
+
+## Blog/Portfolio historical PHP and current routing follow-up — E13
+
+Owner-supplied history, recorded 2026-10-16: in January 2026 `/blog/` was a category archive with `archive category category-blog category-1`. PHP targeted `is_category('blog')` to control document title, Elementor page title `BLOG`, archive title and meta description. Portfolio used a `portfolio` CPT archive plus an Elementor Archive Template. A `nav_menu_css_class` filter also adjusted Blog/Portfolio active states for archive and single content. This is attributed historical information, not a verified copy of current source code; its source file and present execution are unknown.
+
+Fresh direct public GET/REST checks at 2026-10-16 17:00 UTC and actual IAB DOM reads establish:
+
+| Signal | `/blog/` | `/portfolio/` |
+| --- | --- | --- |
+| Public response / canonical | 200; same `/blog/` self-canonical | 200; same `/portfolio/` self-canonical |
+| Current body/query markers | `blog`; no `archive category category-blog category-1` in the served body | `archive post-type-archive post-type-archive-portfolio` |
+| Rendered Elementor document | Archive **6858** | Archive **8412** |
+| REST source objects | Published Page **2187**, slug `blog` | Registered `portfolio` type, `has_archive=true`, taxonomy `project-type`; also published Page **8929** |
+| Current document title | `Property Overhaul: Our Restoration Blog \| GCPRO` | `Portfolio \| GCPRO` |
+| Current H1 | `Blog: All About Property Restoration` | `Portfolio` |
+| Meta description | `Dive into our blog for top property restoration tips, from damage repair to full-scale renovations. Your guide to revitalizing spaces` | No description observed in the checked HTML |
+| Native Footer menu object markers | Page-based item **2905**, object Page 2187; not a category item | Post-type-archive item **10146**, object `portfolio` |
+
+Both render Header **21168** and Footer **21217** on production; these are unrelated to staging 113/114. A sampled article 21140 renders Single Post template **5897**; project 10625 renders template **7996** (returned frontend `data-elementor-type=single-post`, body `single-portfolio`). These are verified rendered IDs, **not verified Theme Builder Display Conditions**, post_meta settings or portable staging IDs.
+
+The public category inventory currently exposes only News **49**, slug `news`, link `/./news/`; no `blog` term was returned. This does not prove that an old hidden/empty term or custom query cannot exist. Together with the `blog` body marker, Page-based menu reference and `current_page_parent` on the sampled article, this supports a **current posts-index interpretation**. It does not prove native `page_for_posts=2187` or the removal of historical PHP: body/menu classes and templates can be customized. Earlier E12 wording that definitively called it a posts archive is superseded by this qualified mapping. Portfolio's CPT archive is independently confirmed by both the registered type and rendered body.
+
+### Access limits and exact code locations
+
+Production `/wp-admin/` redirects to the WordPress login form in the internal browser. Anonymous `/wp-json/wp/v2/settings` and a targeted public `elementor_library` query for templates 6858/8412 both return **401 `rest_forbidden`**. The available Elementor MCP remains connected to staging, not production. Production Reading Settings, Theme Builder conditions and theme/plugin/snippet PHP are therefore not available through current authenticated access. [Sanitized read-only evidence](evidence/2026-10-16-archive-routing.json) records the actual responses and frontend markers.
+
+Served assets/body identify the production theme directory **`wp-content/themes/custom-dev-theme-elementor-master/`**. That verifies the directory name only. **No current production PHP file path, line number, hook implementation or active code storage location has been verified.** Do not claim the historical hooks are in `functions.php`, a snippet plugin or a specific archive file. The locally available `functions-before-svg-import.php` identifies itself as ROBYLO Starter staging code and does not contain those Blog/Portfolio hooks; it is not evidence of production PHP. The GCPRO repository contains documentation, not an authenticated production theme source/export.
+
+### Actual menu behavior and migration requirements
+
+- On `/blog/`, the custom Header's desktop/mobile Blog items have `active`; Footer item 2905 has `current-menu-item`, `current_page_item`, Elementor active-link styling and `aria-current=page`.
+- On `/portfolio/`, the Header Showcase parent has `active` and its mobile parent is `active open`; native Footer Portfolio item 10146 has current-item/Elementor active classes and `aria-current=page`.
+- On sampled article `/signs-of-hidden-water-damage-in-your-home/`, Header Blog items have **no active marker**. Footer Blog has `current_page_parent current-menu-item current_page_item` on the LI, but its anchor lacks Elementor active class and `aria-current`. On sampled project `/portfolio/reconstruction-after-water-damage-on-montana-street-chicago/`, the Header has **no active item**; Footer Portfolio similarly gains LI current classes while its anchor lacks active class/`aria-current`.
+- These observed LI-class additions on singles are compatible with the reported custom filter, but do not identify its cause or prove the filter still runs. Do not describe Header/Footer active behavior as consistently correct. Mouse/touch behavior and CSS-computed active colors were not audited in this read-only follow-up.
+
+Later archive-template phase must: (1) authenticate a read-only review of production Reading Settings, rewrite/query behavior and complete category objects; (2) locate the exact current title/meta/menu code and Theme Builder conditions; (3) choose the supported native posts-index/category architecture while preserving `/blog/`, pagination, post/category relationships and SEO output; (4) preserve `/portfolio/`, project detail paths and its native CPT archive/taxonomy model; (5) configure archive headings, document titles, descriptions and canonical/pagination output through supported WordPress/Elementor/SEO controls; (6) test Blog/Portfolio active states across archive, pagination and single views in Header/Footer, with appropriate current/ancestor semantics. Use native object menu items and supported archive conditions first; do not copy `is_category('blog')` or `nav_menu_css_class` workarounds without a demonstrated remaining native gap and separate code authorization.
+
+**No new Page, archive, PHP or website setting was created/changed in this follow-up.** No production or staging writes occurred. Public URLs remain unchanged. Title implementation, exact routing and code locations remain explicit review items, not guessed completion.
 
 ## Nine layout families and first representatives
 

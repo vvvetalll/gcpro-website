@@ -12,6 +12,24 @@ Actual IDs: Residential 484, Commercial 499, Apply 486, Water extraction 487, Bo
 
 64 nested retained Pages remain uncreated: available parent selectors exclude Drafts and the exposed connector lacks native slug/parent writes. Do not infer child IDs. 29 posts, 13 Portfolio CPT records and 30 retained archive/taxonomy routes are mapped as the correct object models, not fabricated Pages. Staging public types do not expose Portfolio. No Component, class, Variable or template change occurred.
 
+## Production archive observations — E13, read only
+
+These are **production IDs**, verified in served HTML and the actual IAB DOM on 2026-10-16, not staging documents to edit or copy:
+
+| Production route / sample | Rendered template/object | Meaning / limitation |
+| --- | --- | --- |
+| `/blog/` | Elementor Archive **6858**, public Page **2187** | Current `blog` body class and Page-based menu item 2905 support a posts-index interpretation; January category routing is owner-reported history, not current proof. Native Reading/query configuration is unverified. |
+| `/portfolio/` | Elementor Archive **8412**, CPT `portfolio`, `has_archive=true` | Actual CPT archive confirmed, despite a separate public REST Page 8929; no duplicate staging Page. |
+| Article `/signs-of-hidden-water-damage-in-your-home/` | Post **21140**, Single Post template **5897** | One sampled post, not all article-template coverage. |
+| Project `/portfolio/reconstruction-after-water-damage-on-montana-street-chicago/` | Portfolio item **10625**, template **7996** | Body `single-portfolio`; rendered template type says `single-post`, so do not infer stored display conditions from its label. |
+| Shared rendered shell on those routes | Header **21168**, Footer **21217** | Production IDs, unrelated to staging 113/114. |
+
+Production admin redirects to login; settings REST and the targeted template-library read both return 401. Exact Theme Builder Display Conditions, Reading Settings, production PHP paths and active hook source were **not available**. Assets identify only theme directory `wp-content/themes/custom-dev-theme-elementor-master/`; this is not proof of any `functions.php` implementation. Owner reports historical `is_category('blog')` title/meta logic and `nav_menu_css_class`; do not copy these blindly or claim their current code location is known.
+
+Current Header active markers are present on the Blog archive/Showcase parent on Portfolio, but absent on the sampled single post/project. Footer single views show extra current-item LI classes without corresponding active anchor classes/aria-current. Reproduce the intended parent navigation behavior natively and test archive/pagination/singles in the later archive phase; do not assume current custom behavior is consistently correct.
+
+See [historical/current comparison and required migration behavior](SEO_STRUCTURE.md#blogportfolio-historical-php-and-current-routing-follow-up--e13), [sanitized public evidence](evidence/2026-10-16-archive-routing.json) and the two updated rows in the existing canonical CSV. No website, object, PHP or display condition was changed in E13.
+
 ## Historical six-page inventory — E3
 
 Source: `list-posts`, page type, 25 per page, total six returned; their URLs match the designated staging host. Status is WordPress's returned state. Titles are preserved, even when the report uses a newer milestone name.

@@ -2,6 +2,14 @@
 
 Record verified delivered changes with date, scope, evidence, validation, and remaining limitations. Do not turn a plan or an uncorroborated chat statement into completed development history. Evidence definitions are in [PROJECT_CONTEXT](PROJECT_CONTEXT.md#evidence-register).
 
+## 2026-10-16 — Read-only Blog/Portfolio historical routing reconciliation
+
+- Recorded owner-reported January category-blog/category-1 routing, `is_category('blog')` title/meta adjustments and `nav_menu_css_class` active-state history separately from current verified production evidence.
+- Current direct GET/IAB DOM confirms rendered Blog Archive 6858, Portfolio Archive 8412, Header21168/Footer21217 and sampled single templates 5897/7996. Current Blog `blog` body, Page2187/menu2905 and public News49 category support a posts-index interpretation; changed only its canonical CSV object-model field to `posts_index_candidate` pending authenticated Reading/query verification. Source audit decisions and exact URLs remain unchanged.
+- Confirmed Portfolio CPT `has_archive=true`; documented native archive menu item10146 and existing REST Page8929 without creating duplicate Pages. Recorded actual titles/H1/descriptions/canonicals and differing archive/single Header/Footer active markers.
+- Production admin redirects to login, settings REST returns 401. Only the theme directory is verified; no exact PHP file/line/hook source or Theme Builder Display Conditions is claimed. Required source/condition/title/menu review and native-first migration behavior are deferred to archive-template phase.
+- Updated SEO_STRUCTURE, ELEMENTOR_MAP, PROJECT_CONTEXT, the two existing canonical inventory rows and sanitized evidence. No WordPress/Elementor, PHP, navigation, publication, production/staging URL or shared ROBYLO change. Documentation/evidence/diff/Git checks only; no new runtime implementation or responsive QA claimed.
+
 ## 2026-10-16 — SEO URL architecture and partial Draft skeleton
 
 - Added [SEO_STRUCTURE](docs/SEO_STRUCTURE.md) and one canonical [207-row URL register](docs/SEO_URL_INVENTORY.csv): audit 200 + two unapproved proposals + five current-only sources. Preserved original decisions and exact KEEP paths, mapped nine layout families, recorded dated live/historical metadata, headings, source content/media and internal-link dependencies. No new search metrics or redirects.
