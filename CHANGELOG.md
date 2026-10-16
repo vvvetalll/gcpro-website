@@ -1,5 +1,10 @@
 # GCPRO changelog
 
+## 2026-10-16 — Anonymous timeline cache correction — E18
+
+- Diagnosed stale SiteGround guest HTML: ordinary desktop/Android-UA HIT omitted both Code590 blocks; uncached MISS and authenticated page included them. Published status/Page154 condition/source were already correct.
+- Purged staging cache using native toolbar; root MISS then HIT include current CSS/JS. Logged-out Chrome390/430 sequence, no replay, reduced motion430 and desktop1440 hover verified. No implementation source/configuration changes or new resources. Physical Android remains owner retest. [E18](docs/milestones/2026-10-16-anonymous-timeline-cache.md).
+
 ## 2026-10-16 — Touch timeline viewport sequence — E17
 
 - Added native Elementor Custom Code590, body-end/priority10, bound through native Page selector to Homepage154 only. Canonical client sources: `integrations/process-timeline-mobile.css` and `.js`; no theme/shared ROBYLO/PHP changes or additional plugin/jQuery.

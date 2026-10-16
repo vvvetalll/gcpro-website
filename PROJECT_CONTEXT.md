@@ -1,6 +1,10 @@
 # GCPRO project context
 
-Last reviewed: 2026-10-16 (America/Chicago). Current implementation: Homepage timeline mobile viewport sequence (E17), preserving desktop ripple E16. Approved SEO Page skeleton E14 and E13 archive findings remain preserved. Earlier implementation records below remain dated history.
+Last reviewed: 2026-10-16 (America/Chicago). Current verification: anonymous timeline delivery corrected by staging cache purge (E18); mobile sequence E17 and desktop ripple E16 unchanged. Approved SEO Page skeleton E14 and E13 archive findings remain preserved. Earlier implementation records below remain dated history.
+
+## Anonymous timeline delivery correction — E18
+
+Guests were served stale SiteGround cached HTML without Code590 CSS/JS, despite the correct Published/Page154 configuration. Cookie-free desktop/Android User-Agent HIT responses lacked both blocks; fresh MISS contained them. Purged staging through native Purge SG Cache; ordinary root MISS then HIT now include both. Actual logged-out Chrome390/430 verifies waiting→played, ordered ripples, completion/no replay;430 reduced-motion and1440 desktop hover pass. No source/Elementor/theme edits or new technical resources. Physical S25 Ultra still needs owner verification. [E18 evidence and limits](docs/milestones/2026-10-16-anonymous-timeline-cache.md). E17 checks below were authenticated emulation only, not anonymous delivery proof.
 
 ## Mobile timeline viewport sequence — E17
 

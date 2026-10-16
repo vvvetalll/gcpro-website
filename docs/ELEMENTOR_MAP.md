@@ -1,5 +1,7 @@
 # GCPRO Elementor map
 
+E18 anonymous-delivery correction: Code590 remains unchanged and Homepage154-only. Stale SiteGround guest HTML was purged; plain-root cache HIT and logged-out browser execution verified. [Incident/limits](milestones/2026-10-16-anonymous-timeline-cache.md).
+
 ## Mobile process integration — E17
 
 **Custom Code590** (`elementor_snippet`, not a Page or Atomic Component), title **GCPRO / Process Timeline — Mobile Sequence**, Published on staging. Location `elementor_body_end`, priority10, forced jQuery unchecked; native Include/Singular/Page154 condition. [Edit590](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=590&action=edit). This single entry contains the canonical integrations/process-timeline-mobile.css and .js; it adds only a runtime waiting→played data attribute to Component582's rendered root. No stored154/582 elements,12 overrides, classes, links or templates changed. Actual editor still displays all12 fields. [Deployment/QA/recovery](milestones/2026-10-16-mobile-sequence.md).

@@ -1,0 +1,1566 @@
+{
+  "environment": "Logged-out Chrome profile 3, not incognito; no WordPress login/admin bar. Real desktop browser with touch emulation; not physical Android.",
+  "comparison": {
+    "guest": {
+      "fallback": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/wp-content/themes/robylo-starter/assets/css/fallback.css?ver=42eb1062b9890ed5ff8f4d33ea3ac480"
+        }
+      ],
+      "loggedIn": false,
+      "scriptExact": true,
+      "steps": [
+        {
+          "classes": "elementor-element elementor-element-1sv4emh e-con e-atomic-element e-div-block-base e-default-article process-timeline__step ",
+          "title": "Contact"
+        },
+        {
+          "classes": "elementor-element elementor-element-0c7kx33 e-con e-atomic-element e-div-block-base e-default-article process-timeline__step ",
+          "title": "Assessment"
+        },
+        {
+          "classes": "elementor-element elementor-element-0gfbo9f e-con e-atomic-element e-div-block-base e-default-article process-timeline__step ",
+          "title": "Restoration"
+        },
+        {
+          "classes": "elementor-element elementor-element-06lsfu9 e-con e-atomic-element e-div-block-base e-default-article layout-reset process-timeline__step ",
+          "title": "Review"
+        }
+      ],
+      "styleExact": true
+    },
+    "authenticated": {
+      "loggedIn": true,
+      "script": true,
+      "steps": [
+        {
+          "classes": "elementor-element elementor-element-1sv4emh e-con e-atomic-element e-div-block-base e-default-article process-timeline__step ",
+          "title": "Contact"
+        },
+        {
+          "classes": "elementor-element elementor-element-0c7kx33 e-con e-atomic-element e-div-block-base e-default-article process-timeline__step ",
+          "title": "Assessment"
+        },
+        {
+          "classes": "elementor-element elementor-element-0gfbo9f e-con e-atomic-element e-div-block-base e-default-article process-timeline__step ",
+          "title": "Restoration"
+        },
+        {
+          "classes": "elementor-element elementor-element-06lsfu9 e-con e-atomic-element e-div-block-base e-default-article layout-reset process-timeline__step ",
+          "title": "Review"
+        }
+      ],
+      "style": true
+    }
+  },
+  "initial390": {
+    "adminBar": false,
+    "loggedIn": false,
+    "overflow": false,
+    "reduced": false,
+    "rings": [
+      {
+        "delay": "0s",
+        "name": "none",
+        "number": "01",
+        "opacity": "1",
+        "secondDelay": "0s",
+        "secondOpacity": "1",
+        "transform": "none"
+      },
+      {
+        "delay": "0s",
+        "name": "none",
+        "number": "02",
+        "opacity": "1",
+        "secondDelay": "0s",
+        "secondOpacity": "1",
+        "transform": "none"
+      },
+      {
+        "delay": "0s",
+        "name": "none",
+        "number": "03",
+        "opacity": "1",
+        "secondDelay": "0s",
+        "secondOpacity": "1",
+        "transform": "none"
+      },
+      {
+        "delay": "0s",
+        "name": "none",
+        "number": "04",
+        "opacity": "1",
+        "secondDelay": "0s",
+        "secondOpacity": "1",
+        "transform": "none"
+      }
+    ],
+    "script": true,
+    "scrollY": 0,
+    "state": "waiting",
+    "style": true,
+    "top": 4233.05224609375,
+    "width": 390
+  },
+  "samples390": [
+    {
+      "adminBar": false,
+      "loggedIn": false,
+      "overflow": false,
+      "reduced": false,
+      "rings": [
+        {
+          "delay": "0s",
+          "name": "gcpro-process-ripple",
+          "number": "01",
+          "opacity": "0.269724",
+          "secondDelay": "0.16s",
+          "secondOpacity": "0.388171",
+          "transform": "none"
+        },
+        {
+          "delay": "0.4s",
+          "name": "gcpro-process-ripple",
+          "number": "02",
+          "opacity": "0",
+          "secondDelay": "0.56s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "0.8s",
+          "name": "gcpro-process-ripple",
+          "number": "03",
+          "opacity": "0",
+          "secondDelay": "0.96s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "1.2s",
+          "name": "gcpro-process-ripple",
+          "number": "04",
+          "opacity": "0",
+          "secondDelay": "1.36s",
+          "secondOpacity": "0",
+          "transform": "none"
+        }
+      ],
+      "script": true,
+      "scrollY": 3714,
+      "state": "played",
+      "style": true,
+      "top": 519.0521240234375,
+      "width": 390
+    },
+    {
+      "adminBar": false,
+      "loggedIn": false,
+      "overflow": false,
+      "reduced": false,
+      "rings": [
+        {
+          "delay": "0s",
+          "name": "gcpro-process-ripple",
+          "number": "01",
+          "opacity": "0.135763",
+          "secondDelay": "0.16s",
+          "secondOpacity": "0.231675",
+          "transform": "none"
+        },
+        {
+          "delay": "0.4s",
+          "name": "gcpro-process-ripple",
+          "number": "02",
+          "opacity": "0.406863",
+          "secondDelay": "0.56s",
+          "secondOpacity": "0.543835",
+          "transform": "none"
+        },
+        {
+          "delay": "0.8s",
+          "name": "gcpro-process-ripple",
+          "number": "03",
+          "opacity": "0",
+          "secondDelay": "0.96s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "1.2s",
+          "name": "gcpro-process-ripple",
+          "number": "04",
+          "opacity": "0",
+          "secondDelay": "1.36s",
+          "secondOpacity": "0",
+          "transform": "none"
+        }
+      ],
+      "script": true,
+      "scrollY": 3714,
+      "state": "played",
+      "style": true,
+      "top": 519.0521240234375,
+      "width": 390
+    },
+    {
+      "adminBar": false,
+      "loggedIn": false,
+      "overflow": false,
+      "reduced": false,
+      "rings": [
+        {
+          "delay": "0s",
+          "name": "gcpro-process-ripple",
+          "number": "01",
+          "opacity": "0.0342225",
+          "secondDelay": "0.16s",
+          "secondOpacity": "0.0982838",
+          "transform": "none"
+        },
+        {
+          "delay": "0.4s",
+          "name": "gcpro-process-ripple",
+          "number": "02",
+          "opacity": "0.235947",
+          "secondDelay": "0.56s",
+          "secondOpacity": "0.349501",
+          "transform": "none"
+        },
+        {
+          "delay": "0.8s",
+          "name": "gcpro-process-ripple",
+          "number": "03",
+          "opacity": "0.549902",
+          "secondDelay": "0.96s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "1.2s",
+          "name": "gcpro-process-ripple",
+          "number": "04",
+          "opacity": "0",
+          "secondDelay": "1.36s",
+          "secondOpacity": "0",
+          "transform": "none"
+        }
+      ],
+      "script": true,
+      "scrollY": 3714,
+      "state": "played",
+      "style": true,
+      "top": 519.0521240234375,
+      "width": 390
+    },
+    {
+      "adminBar": false,
+      "loggedIn": false,
+      "overflow": false,
+      "reduced": false,
+      "rings": [
+        {
+          "delay": "0s",
+          "name": "gcpro-process-ripple",
+          "number": "01",
+          "opacity": "0",
+          "secondDelay": "0.16s",
+          "secondOpacity": "0.0184461",
+          "transform": "none"
+        },
+        {
+          "delay": "0.4s",
+          "name": "gcpro-process-ripple",
+          "number": "02",
+          "opacity": "0.109672",
+          "secondDelay": "0.56s",
+          "secondOpacity": "0.199628",
+          "transform": "none"
+        },
+        {
+          "delay": "0.8s",
+          "name": "gcpro-process-ripple",
+          "number": "03",
+          "opacity": "0.367335",
+          "secondDelay": "0.96s",
+          "secondOpacity": "0.498797",
+          "transform": "none"
+        },
+        {
+          "delay": "1.2s",
+          "name": "gcpro-process-ripple",
+          "number": "04",
+          "opacity": "0",
+          "secondDelay": "1.36s",
+          "secondOpacity": "0",
+          "transform": "none"
+        }
+      ],
+      "script": true,
+      "scrollY": 3714,
+      "state": "played",
+      "style": true,
+      "top": 519.0521240234375,
+      "width": 390
+    },
+    {
+      "adminBar": false,
+      "loggedIn": false,
+      "overflow": false,
+      "reduced": false,
+      "rings": [
+        {
+          "delay": "0s",
+          "name": "gcpro-process-ripple",
+          "number": "01",
+          "opacity": "0",
+          "secondDelay": "0.16s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "0.4s",
+          "name": "gcpro-process-ripple",
+          "number": "02",
+          "opacity": "0.0244276",
+          "secondDelay": "0.56s",
+          "secondOpacity": "0.0828047",
+          "transform": "none"
+        },
+        {
+          "delay": "0.8s",
+          "name": "gcpro-process-ripple",
+          "number": "03",
+          "opacity": "0.214291",
+          "secondDelay": "0.96s",
+          "secondOpacity": "0.324502",
+          "transform": "none"
+        },
+        {
+          "delay": "1.2s",
+          "name": "gcpro-process-ripple",
+          "number": "04",
+          "opacity": "0.519398",
+          "secondDelay": "1.36s",
+          "secondOpacity": "0",
+          "transform": "none"
+        }
+      ],
+      "script": true,
+      "scrollY": 3714,
+      "state": "played",
+      "style": true,
+      "top": 519.0521240234375,
+      "width": 390
+    },
+    {
+      "adminBar": false,
+      "loggedIn": false,
+      "overflow": false,
+      "reduced": false,
+      "rings": [
+        {
+          "delay": "0s",
+          "name": "gcpro-process-ripple",
+          "number": "01",
+          "opacity": "0",
+          "secondDelay": "0.16s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "0.4s",
+          "name": "gcpro-process-ripple",
+          "number": "02",
+          "opacity": "0",
+          "secondDelay": "0.56s",
+          "secondOpacity": "0.00822084",
+          "transform": "none"
+        },
+        {
+          "delay": "0.8s",
+          "name": "gcpro-process-ripple",
+          "number": "03",
+          "opacity": "0.0859186",
+          "secondDelay": "0.96s",
+          "secondOpacity": "0.169561",
+          "transform": "none"
+        },
+        {
+          "delay": "1.2s",
+          "name": "gcpro-process-ripple",
+          "number": "04",
+          "opacity": "0.329611",
+          "secondDelay": "1.36s",
+          "secondOpacity": "0.456124",
+          "transform": "none"
+        }
+      ],
+      "script": true,
+      "scrollY": 3714,
+      "state": "played",
+      "style": true,
+      "top": 519.0521240234375,
+      "width": 390
+    },
+    {
+      "adminBar": false,
+      "loggedIn": false,
+      "overflow": false,
+      "reduced": false,
+      "rings": [
+        {
+          "delay": "0s",
+          "name": "gcpro-process-ripple",
+          "number": "01",
+          "opacity": "0",
+          "secondDelay": "0.16s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "0.4s",
+          "name": "gcpro-process-ripple",
+          "number": "02",
+          "opacity": "0",
+          "secondDelay": "0.56s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "0.8s",
+          "name": "gcpro-process-ripple",
+          "number": "03",
+          "opacity": "0.0125524",
+          "secondDelay": "0.96s",
+          "secondOpacity": "0.0616896",
+          "transform": "none"
+        },
+        {
+          "delay": "1.2s",
+          "name": "gcpro-process-ripple",
+          "number": "04",
+          "opacity": "0.183409",
+          "secondDelay": "1.36s",
+          "secondOpacity": "0.288479",
+          "transform": "none"
+        }
+      ],
+      "script": true,
+      "scrollY": 3714,
+      "state": "played",
+      "style": true,
+      "top": 519.0521240234375,
+      "width": 390
+    },
+    {
+      "adminBar": false,
+      "loggedIn": false,
+      "overflow": false,
+      "reduced": false,
+      "rings": [
+        {
+          "delay": "0s",
+          "name": "gcpro-process-ripple",
+          "number": "01",
+          "opacity": "0",
+          "secondDelay": "0.16s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "0.4s",
+          "name": "gcpro-process-ripple",
+          "number": "02",
+          "opacity": "0",
+          "secondDelay": "0.56s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "0.8s",
+          "name": "gcpro-process-ripple",
+          "number": "03",
+          "opacity": "0",
+          "secondDelay": "0.96s",
+          "secondOpacity": "0.00350732",
+          "transform": "none"
+        },
+        {
+          "delay": "1.2s",
+          "name": "gcpro-process-ripple",
+          "number": "04",
+          "opacity": "0.0712664",
+          "secondDelay": "1.36s",
+          "secondOpacity": "0.150409",
+          "transform": "none"
+        }
+      ],
+      "script": true,
+      "scrollY": 3714,
+      "state": "played",
+      "style": true,
+      "top": 519.0521240234375,
+      "width": 390
+    },
+    {
+      "adminBar": false,
+      "loggedIn": false,
+      "overflow": false,
+      "reduced": false,
+      "rings": [
+        {
+          "delay": "0s",
+          "name": "gcpro-process-ripple",
+          "number": "01",
+          "opacity": "0",
+          "secondDelay": "0.16s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "0.4s",
+          "name": "gcpro-process-ripple",
+          "number": "02",
+          "opacity": "0",
+          "secondDelay": "0.56s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "0.8s",
+          "name": "gcpro-process-ripple",
+          "number": "03",
+          "opacity": "0",
+          "secondDelay": "0.96s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "1.2s",
+          "name": "gcpro-process-ripple",
+          "number": "04",
+          "opacity": "0.00659956",
+          "secondDelay": "1.36s",
+          "secondOpacity": "0.0489324",
+          "transform": "none"
+        }
+      ],
+      "script": true,
+      "scrollY": 3714,
+      "state": "played",
+      "style": true,
+      "top": 519.0521240234375,
+      "width": 390
+    },
+    {
+      "adminBar": false,
+      "loggedIn": false,
+      "overflow": false,
+      "reduced": false,
+      "rings": [
+        {
+          "delay": "0s",
+          "name": "gcpro-process-ripple",
+          "number": "01",
+          "opacity": "0",
+          "secondDelay": "0.16s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "0.4s",
+          "name": "gcpro-process-ripple",
+          "number": "02",
+          "opacity": "0",
+          "secondDelay": "0.56s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "0.8s",
+          "name": "gcpro-process-ripple",
+          "number": "03",
+          "opacity": "0",
+          "secondDelay": "0.96s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "1.2s",
+          "name": "gcpro-process-ripple",
+          "number": "04",
+          "opacity": "0",
+          "secondDelay": "1.36s",
+          "secondOpacity": "0.000708536",
+          "transform": "none"
+        }
+      ],
+      "script": true,
+      "scrollY": 3714,
+      "state": "played",
+      "style": true,
+      "top": 519.0521240234375,
+      "width": 390
+    },
+    {
+      "adminBar": false,
+      "loggedIn": false,
+      "overflow": false,
+      "reduced": false,
+      "rings": [
+        {
+          "delay": "0s",
+          "name": "gcpro-process-ripple",
+          "number": "01",
+          "opacity": "0",
+          "secondDelay": "0.16s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "0.4s",
+          "name": "gcpro-process-ripple",
+          "number": "02",
+          "opacity": "0",
+          "secondDelay": "0.56s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "0.8s",
+          "name": "gcpro-process-ripple",
+          "number": "03",
+          "opacity": "0",
+          "secondDelay": "0.96s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "1.2s",
+          "name": "gcpro-process-ripple",
+          "number": "04",
+          "opacity": "0",
+          "secondDelay": "1.36s",
+          "secondOpacity": "0",
+          "transform": "none"
+        }
+      ],
+      "script": true,
+      "scrollY": 3714,
+      "state": "played",
+      "style": true,
+      "top": 519.0521240234375,
+      "width": 390
+    },
+    {
+      "adminBar": false,
+      "loggedIn": false,
+      "overflow": false,
+      "reduced": false,
+      "rings": [
+        {
+          "delay": "0s",
+          "name": "gcpro-process-ripple",
+          "number": "01",
+          "opacity": "0",
+          "secondDelay": "0.16s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "0.4s",
+          "name": "gcpro-process-ripple",
+          "number": "02",
+          "opacity": "0",
+          "secondDelay": "0.56s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "0.8s",
+          "name": "gcpro-process-ripple",
+          "number": "03",
+          "opacity": "0",
+          "secondDelay": "0.96s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "1.2s",
+          "name": "gcpro-process-ripple",
+          "number": "04",
+          "opacity": "0",
+          "secondDelay": "1.36s",
+          "secondOpacity": "0",
+          "transform": "none"
+        }
+      ],
+      "script": true,
+      "scrollY": 3714,
+      "state": "played",
+      "style": true,
+      "top": 519.0521240234375,
+      "width": 390
+    },
+    {
+      "adminBar": false,
+      "loggedIn": false,
+      "overflow": false,
+      "reduced": false,
+      "rings": [
+        {
+          "delay": "0s",
+          "name": "gcpro-process-ripple",
+          "number": "01",
+          "opacity": "0",
+          "secondDelay": "0.16s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "0.4s",
+          "name": "gcpro-process-ripple",
+          "number": "02",
+          "opacity": "0",
+          "secondDelay": "0.56s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "0.8s",
+          "name": "gcpro-process-ripple",
+          "number": "03",
+          "opacity": "0",
+          "secondDelay": "0.96s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "1.2s",
+          "name": "gcpro-process-ripple",
+          "number": "04",
+          "opacity": "0",
+          "secondDelay": "1.36s",
+          "secondOpacity": "0",
+          "transform": "none"
+        }
+      ],
+      "script": true,
+      "scrollY": 3714,
+      "state": "played",
+      "style": true,
+      "top": 519.0521240234375,
+      "width": 390
+    }
+  ],
+  "final390": {
+    "adminBar": false,
+    "loggedIn": false,
+    "overflow": false,
+    "reduced": false,
+    "rings": [
+      {
+        "delay": "0s",
+        "name": "gcpro-process-ripple",
+        "number": "01",
+        "opacity": "0",
+        "secondDelay": "0.16s",
+        "secondOpacity": "0",
+        "transform": "none"
+      },
+      {
+        "delay": "0.4s",
+        "name": "gcpro-process-ripple",
+        "number": "02",
+        "opacity": "0",
+        "secondDelay": "0.56s",
+        "secondOpacity": "0",
+        "transform": "none"
+      },
+      {
+        "delay": "0.8s",
+        "name": "gcpro-process-ripple",
+        "number": "03",
+        "opacity": "0",
+        "secondDelay": "0.96s",
+        "secondOpacity": "0",
+        "transform": "none"
+      },
+      {
+        "delay": "1.2s",
+        "name": "gcpro-process-ripple",
+        "number": "04",
+        "opacity": "0",
+        "secondDelay": "1.36s",
+        "secondOpacity": "0",
+        "transform": "none"
+      }
+    ],
+    "script": true,
+    "scrollY": 3714,
+    "state": "played",
+    "style": true,
+    "top": 519.0521240234375,
+    "width": 390
+  },
+  "reentry390": {
+    "adminBar": false,
+    "loggedIn": false,
+    "overflow": false,
+    "reduced": false,
+    "rings": [
+      {
+        "delay": "0s",
+        "name": "gcpro-process-ripple",
+        "number": "01",
+        "opacity": "0",
+        "secondDelay": "0.16s",
+        "secondOpacity": "0",
+        "transform": "none"
+      },
+      {
+        "delay": "0.4s",
+        "name": "gcpro-process-ripple",
+        "number": "02",
+        "opacity": "0",
+        "secondDelay": "0.56s",
+        "secondOpacity": "0",
+        "transform": "none"
+      },
+      {
+        "delay": "0.8s",
+        "name": "gcpro-process-ripple",
+        "number": "03",
+        "opacity": "0",
+        "secondDelay": "0.96s",
+        "secondOpacity": "0",
+        "transform": "none"
+      },
+      {
+        "delay": "1.2s",
+        "name": "gcpro-process-ripple",
+        "number": "04",
+        "opacity": "0",
+        "secondDelay": "1.36s",
+        "secondOpacity": "0",
+        "transform": "none"
+      }
+    ],
+    "script": true,
+    "scrollY": 3714,
+    "state": "played",
+    "style": true,
+    "top": 519.0521240234375,
+    "width": 390
+  },
+  "initial430": {
+    "adminBar": false,
+    "loggedIn": false,
+    "overflow": false,
+    "reduced": false,
+    "rings": [
+      {
+        "delay": "0s",
+        "name": "none",
+        "number": "01",
+        "opacity": "1",
+        "secondDelay": "0s",
+        "secondOpacity": "1",
+        "transform": "none"
+      },
+      {
+        "delay": "0s",
+        "name": "none",
+        "number": "02",
+        "opacity": "1",
+        "secondDelay": "0s",
+        "secondOpacity": "1",
+        "transform": "none"
+      },
+      {
+        "delay": "0s",
+        "name": "none",
+        "number": "03",
+        "opacity": "1",
+        "secondDelay": "0s",
+        "secondOpacity": "1",
+        "transform": "none"
+      },
+      {
+        "delay": "0s",
+        "name": "none",
+        "number": "04",
+        "opacity": "1",
+        "secondDelay": "0s",
+        "secondOpacity": "1",
+        "transform": "none"
+      }
+    ],
+    "script": true,
+    "scrollY": 0,
+    "state": "waiting",
+    "style": true,
+    "top": 4198.61474609375,
+    "width": 430
+  },
+  "samples430": [
+    {
+      "adminBar": false,
+      "loggedIn": false,
+      "overflow": false,
+      "reduced": false,
+      "rings": [
+        {
+          "delay": "0s",
+          "name": "gcpro-process-ripple",
+          "number": "01",
+          "opacity": "0.269768",
+          "secondDelay": "0.16s",
+          "secondOpacity": "0.38822",
+          "transform": "none"
+        },
+        {
+          "delay": "0.4s",
+          "name": "gcpro-process-ripple",
+          "number": "02",
+          "opacity": "0",
+          "secondDelay": "0.56s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "0.8s",
+          "name": "gcpro-process-ripple",
+          "number": "03",
+          "opacity": "0",
+          "secondDelay": "0.96s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "1.2s",
+          "name": "gcpro-process-ripple",
+          "number": "04",
+          "opacity": "0",
+          "secondDelay": "1.36s",
+          "secondOpacity": "0",
+          "transform": "none"
+        }
+      ],
+      "script": true,
+      "scrollY": 3635.333251953125,
+      "state": "played",
+      "style": true,
+      "top": 563.28125,
+      "width": 430
+    },
+    {
+      "adminBar": false,
+      "loggedIn": false,
+      "overflow": false,
+      "reduced": false,
+      "rings": [
+        {
+          "delay": "0s",
+          "name": "gcpro-process-ripple",
+          "number": "01",
+          "opacity": "0.126729",
+          "secondDelay": "0.16s",
+          "secondOpacity": "0.220673",
+          "transform": "none"
+        },
+        {
+          "delay": "0.4s",
+          "name": "gcpro-process-ripple",
+          "number": "02",
+          "opacity": "0.393358",
+          "secondDelay": "0.56s",
+          "secondOpacity": "0.528354",
+          "transform": "none"
+        },
+        {
+          "delay": "0.8s",
+          "name": "gcpro-process-ripple",
+          "number": "03",
+          "opacity": "0",
+          "secondDelay": "0.96s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "1.2s",
+          "name": "gcpro-process-ripple",
+          "number": "04",
+          "opacity": "0",
+          "secondDelay": "1.36s",
+          "secondOpacity": "0",
+          "transform": "none"
+        }
+      ],
+      "script": true,
+      "scrollY": 3635.333251953125,
+      "state": "played",
+      "style": true,
+      "top": 563.28125,
+      "width": 430
+    },
+    {
+      "adminBar": false,
+      "loggedIn": false,
+      "overflow": false,
+      "reduced": false,
+      "rings": [
+        {
+          "delay": "0s",
+          "name": "gcpro-process-ripple",
+          "number": "01",
+          "opacity": "0.024472",
+          "secondDelay": "0.16s",
+          "secondOpacity": "0.0828777",
+          "transform": "none"
+        },
+        {
+          "delay": "0.4s",
+          "name": "gcpro-process-ripple",
+          "number": "02",
+          "opacity": "0.214395",
+          "secondDelay": "0.56s",
+          "secondOpacity": "0.324622",
+          "transform": "none"
+        },
+        {
+          "delay": "0.8s",
+          "name": "gcpro-process-ripple",
+          "number": "03",
+          "opacity": "0.519544",
+          "secondDelay": "0.96s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "1.2s",
+          "name": "gcpro-process-ripple",
+          "number": "04",
+          "opacity": "0",
+          "secondDelay": "1.36s",
+          "secondOpacity": "0",
+          "transform": "none"
+        }
+      ],
+      "script": true,
+      "scrollY": 3635.333251953125,
+      "state": "played",
+      "style": true,
+      "top": 563.28125,
+      "width": 430
+    },
+    {
+      "adminBar": false,
+      "loggedIn": false,
+      "overflow": false,
+      "reduced": false,
+      "rings": [
+        {
+          "delay": "0s",
+          "name": "gcpro-process-ripple",
+          "number": "01",
+          "opacity": "0",
+          "secondDelay": "0.16s",
+          "secondOpacity": "0.00563025",
+          "transform": "none"
+        },
+        {
+          "delay": "0.4s",
+          "name": "gcpro-process-ripple",
+          "number": "02",
+          "opacity": "0.0784427",
+          "secondDelay": "0.56s",
+          "secondOpacity": "0.159859",
+          "transform": "none"
+        },
+        {
+          "delay": "0.8s",
+          "name": "gcpro-process-ripple",
+          "number": "03",
+          "opacity": "0.317267",
+          "secondDelay": "0.96s",
+          "secondOpacity": "0.442156",
+          "transform": "none"
+        },
+        {
+          "delay": "1.2s",
+          "name": "gcpro-process-ripple",
+          "number": "04",
+          "opacity": "0",
+          "secondDelay": "1.36s",
+          "secondOpacity": "0",
+          "transform": "none"
+        }
+      ],
+      "script": true,
+      "scrollY": 3635.333251953125,
+      "state": "played",
+      "style": true,
+      "top": 563.28125,
+      "width": 430
+    },
+    {
+      "adminBar": false,
+      "loggedIn": false,
+      "overflow": false,
+      "reduced": false,
+      "rings": [
+        {
+          "delay": "0s",
+          "name": "gcpro-process-ripple",
+          "number": "01",
+          "opacity": "0",
+          "secondDelay": "0.16s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "0.4s",
+          "name": "gcpro-process-ripple",
+          "number": "02",
+          "opacity": "0.00659819",
+          "secondDelay": "0.56s",
+          "secondOpacity": "0.0489292",
+          "transform": "none"
+        },
+        {
+          "delay": "0.8s",
+          "name": "gcpro-process-ripple",
+          "number": "03",
+          "opacity": "0.16366",
+          "secondDelay": "0.96s",
+          "secondOpacity": "0.265149",
+          "transform": "none"
+        },
+        {
+          "delay": "1.2s",
+          "name": "gcpro-process-ripple",
+          "number": "04",
+          "opacity": "0.447643",
+          "secondDelay": "1.36s",
+          "secondOpacity": "0",
+          "transform": "none"
+        }
+      ],
+      "script": true,
+      "scrollY": 3635.333251953125,
+      "state": "played",
+      "style": true,
+      "top": 563.28125,
+      "width": 430
+    },
+    {
+      "adminBar": false,
+      "loggedIn": false,
+      "overflow": false,
+      "reduced": false,
+      "rings": [
+        {
+          "delay": "0s",
+          "name": "gcpro-process-ripple",
+          "number": "01",
+          "opacity": "0",
+          "secondDelay": "0.16s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "0.4s",
+          "name": "gcpro-process-ripple",
+          "number": "02",
+          "opacity": "0",
+          "secondDelay": "0.56s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "0.8s",
+          "name": "gcpro-process-ripple",
+          "number": "03",
+          "opacity": "0.0396507",
+          "secondDelay": "0.96s",
+          "secondOpacity": "0.106429",
+          "transform": "none"
+        },
+        {
+          "delay": "1.2s",
+          "name": "gcpro-process-ripple",
+          "number": "04",
+          "opacity": "0.247093",
+          "secondDelay": "1.36s",
+          "secondOpacity": "0.362299",
+          "transform": "none"
+        }
+      ],
+      "script": true,
+      "scrollY": 3635.333251953125,
+      "state": "played",
+      "style": true,
+      "top": 563.28125,
+      "width": 430
+    },
+    {
+      "adminBar": false,
+      "loggedIn": false,
+      "overflow": false,
+      "reduced": false,
+      "rings": [
+        {
+          "delay": "0s",
+          "name": "gcpro-process-ripple",
+          "number": "01",
+          "opacity": "0",
+          "secondDelay": "0.16s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "0.4s",
+          "name": "gcpro-process-ripple",
+          "number": "02",
+          "opacity": "0",
+          "secondDelay": "0.56s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "0.8s",
+          "name": "gcpro-process-ripple",
+          "number": "03",
+          "opacity": "0",
+          "secondDelay": "0.96s",
+          "secondOpacity": "0.0184782",
+          "transform": "none"
+        },
+        {
+          "delay": "1.2s",
+          "name": "gcpro-process-ripple",
+          "number": "04",
+          "opacity": "0.109738",
+          "secondDelay": "1.36s",
+          "secondOpacity": "0.199711",
+          "transform": "none"
+        }
+      ],
+      "script": true,
+      "scrollY": 3635.333251953125,
+      "state": "played",
+      "style": true,
+      "top": 563.28125,
+      "width": 430
+    },
+    {
+      "adminBar": false,
+      "loggedIn": false,
+      "overflow": false,
+      "reduced": false,
+      "rings": [
+        {
+          "delay": "0s",
+          "name": "gcpro-process-ripple",
+          "number": "01",
+          "opacity": "0",
+          "secondDelay": "0.16s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "0.4s",
+          "name": "gcpro-process-ripple",
+          "number": "02",
+          "opacity": "0",
+          "secondDelay": "0.56s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "0.8s",
+          "name": "gcpro-process-ripple",
+          "number": "03",
+          "opacity": "0",
+          "secondDelay": "0.96s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "1.2s",
+          "name": "gcpro-process-ripple",
+          "number": "04",
+          "opacity": "0.0125388",
+          "secondDelay": "1.36s",
+          "secondOpacity": "0.0616629",
+          "transform": "none"
+        }
+      ],
+      "script": true,
+      "scrollY": 3635.333251953125,
+      "state": "played",
+      "style": true,
+      "top": 563.28125,
+      "width": 430
+    },
+    {
+      "adminBar": false,
+      "loggedIn": false,
+      "overflow": false,
+      "reduced": false,
+      "rings": [
+        {
+          "delay": "0s",
+          "name": "gcpro-process-ripple",
+          "number": "01",
+          "opacity": "0",
+          "secondDelay": "0.16s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "0.4s",
+          "name": "gcpro-process-ripple",
+          "number": "02",
+          "opacity": "0",
+          "secondDelay": "0.56s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "0.8s",
+          "name": "gcpro-process-ripple",
+          "number": "03",
+          "opacity": "0",
+          "secondDelay": "0.96s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "1.2s",
+          "name": "gcpro-process-ripple",
+          "number": "04",
+          "opacity": "0",
+          "secondDelay": "1.36s",
+          "secondOpacity": "0.00185001",
+          "transform": "none"
+        }
+      ],
+      "script": true,
+      "scrollY": 3635.333251953125,
+      "state": "played",
+      "style": true,
+      "top": 563.28125,
+      "width": 430
+    },
+    {
+      "adminBar": false,
+      "loggedIn": false,
+      "overflow": false,
+      "reduced": false,
+      "rings": [
+        {
+          "delay": "0s",
+          "name": "gcpro-process-ripple",
+          "number": "01",
+          "opacity": "0",
+          "secondDelay": "0.16s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "0.4s",
+          "name": "gcpro-process-ripple",
+          "number": "02",
+          "opacity": "0",
+          "secondDelay": "0.56s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "0.8s",
+          "name": "gcpro-process-ripple",
+          "number": "03",
+          "opacity": "0",
+          "secondDelay": "0.96s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "1.2s",
+          "name": "gcpro-process-ripple",
+          "number": "04",
+          "opacity": "0",
+          "secondDelay": "1.36s",
+          "secondOpacity": "0",
+          "transform": "none"
+        }
+      ],
+      "script": true,
+      "scrollY": 3635.333251953125,
+      "state": "played",
+      "style": true,
+      "top": 563.28125,
+      "width": 430
+    },
+    {
+      "adminBar": false,
+      "loggedIn": false,
+      "overflow": false,
+      "reduced": false,
+      "rings": [
+        {
+          "delay": "0s",
+          "name": "gcpro-process-ripple",
+          "number": "01",
+          "opacity": "0",
+          "secondDelay": "0.16s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "0.4s",
+          "name": "gcpro-process-ripple",
+          "number": "02",
+          "opacity": "0",
+          "secondDelay": "0.56s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "0.8s",
+          "name": "gcpro-process-ripple",
+          "number": "03",
+          "opacity": "0",
+          "secondDelay": "0.96s",
+          "secondOpacity": "0",
+          "transform": "none"
+        },
+        {
+          "delay": "1.2s",
+          "name": "gcpro-process-ripple",
+          "number": "04",
+          "opacity": "0",
+          "secondDelay": "1.36s",
+          "secondOpacity": "0",
+          "transform": "none"
+        }
+      ],
+      "script": true,
+      "scrollY": 3635.333251953125,
+      "state": "played",
+      "style": true,
+      "top": 563.28125,
+      "width": 430
+    }
+  ],
+  "reduced430": {
+    "adminBar": false,
+    "loggedIn": false,
+    "overflow": false,
+    "reduced": true,
+    "rings": [
+      {
+        "delay": "0s",
+        "name": "none",
+        "number": "01",
+        "opacity": "1",
+        "secondDelay": "0s",
+        "secondOpacity": "1",
+        "transform": "none"
+      },
+      {
+        "delay": "0s",
+        "name": "none",
+        "number": "02",
+        "opacity": "1",
+        "secondDelay": "0s",
+        "secondOpacity": "1",
+        "transform": "none"
+      },
+      {
+        "delay": "0s",
+        "name": "none",
+        "number": "03",
+        "opacity": "1",
+        "secondDelay": "0s",
+        "secondOpacity": "1",
+        "transform": "none"
+      },
+      {
+        "delay": "0s",
+        "name": "none",
+        "number": "04",
+        "opacity": "1",
+        "secondDelay": "0s",
+        "secondOpacity": "1",
+        "transform": "none"
+      }
+    ],
+    "script": true,
+    "scrollY": 3635.333251953125,
+    "state": null,
+    "style": true,
+    "top": 563.28125,
+    "width": 430
+  },
+  "desktop1440": {
+    "adminBar": false,
+    "loggedIn": false,
+    "overflow": false,
+    "reduced": false,
+    "rings": [
+      {
+        "delay": "0s",
+        "name": "gcpro-process-ripple",
+        "number": "01",
+        "opacity": "0.55",
+        "secondDelay": "0.16s",
+        "secondOpacity": "0.55",
+        "transform": "none"
+      },
+      {
+        "delay": "0s",
+        "name": "none",
+        "number": "02",
+        "opacity": "0",
+        "secondDelay": "0s",
+        "secondOpacity": "0",
+        "transform": "none"
+      },
+      {
+        "delay": "0s",
+        "name": "none",
+        "number": "03",
+        "opacity": "0",
+        "secondDelay": "0s",
+        "secondOpacity": "0",
+        "transform": "none"
+      },
+      {
+        "delay": "0s",
+        "name": "none",
+        "number": "04",
+        "opacity": "0",
+        "secondDelay": "0s",
+        "secondOpacity": "0",
+        "transform": "none"
+      }
+    ],
+    "script": true,
+    "scrollY": 2369.333251953125,
+    "state": null,
+    "style": true,
+    "top": 289.4895935058594,
+    "width": 1440
+  },
+  "consoleWarningsErrors": [],
+  "notes": [
+    "CSSStyleSheet objects are not exposed reliably by the read-only browser DOM adapter; stylesheet loading is established by actual animated opacity/transform and the public HTTP asset check, not link.sheet.",
+    "Touch media gating verified using the exact deployed query (hover: none) and (pointer: coarse).",
+    "Guest profile 3 was used because the internal browser and Chrome profile 4 were logged in. No user cookies or authentication state were altered."
+  ]
+}

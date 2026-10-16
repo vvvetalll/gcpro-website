@@ -34,6 +34,10 @@ No backup or restore procedure was executed during documentation initialization.
 
 ## Edit through Elementor
 
+### Anonymous delivery verification — E18
+
+After an authorized Custom Code deployment, compare authenticated **and logged-out** ordinary public URLs. Inspect CSS/JS markers, saved source/conditions, response cache HIT/MISS and real execution. A logged-in preview or cache-busting query alone is insufficient. If stale staging HTML is proven, use the existing native Purge SG Cache action, preserve optimization/security settings, and retest the plain URL after it becomes HIT again. Verify waiting/entry/completion and reduced motion in an actual logged-out browser. Clearly label touch emulation versus physical Android. [E18 cache incident](milestones/2026-10-16-anonymous-timeline-cache.md).
+
 ### Authorized client Custom Code exception — E17
 
 For the specifically authorized mobile process sequence, use existing native **Elementor → Editor → Custom Elements → Code**, entry590. Keep the client CSS/JS canonical in `integrations/process-timeline-mobile.css` and `.js`; combine them in one `<style id="gcpro-process-mobile-style">` and one `<script id="gcpro-process-mobile-sequence">` block in that existing entry. Location body-end, priority10, native condition Include → Singular → Pages → existing Homepage154; leave Always load jQuery unchecked. Do not create another entry or put code in page widgets/Custom CSS/theme PHP. This is a narrow documented exception, not blanket permission for future snippets.

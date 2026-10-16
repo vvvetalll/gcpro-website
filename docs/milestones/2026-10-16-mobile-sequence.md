@@ -50,3 +50,7 @@ Reused existing four-step structure, classes, tokens, native code-management UI 
 No existing code entry was overwritten; saved page/component snapshots were captured before activation and compared afterward. To disable this addition, set **Code590 to Draft** through native status controls; E16 desktop effect remains. To restore/edit the mobile integration, use these tracked sources and its recorded native condition. Full database/files restore and automated deployment remain unverified. Git revert alone does not change the saved WordPress code record.
 
 No implementation blocker remains. Await visual approval. Future service pages must explicitly extend this same entry's native display conditions after authorization; do not duplicate the integration or expose Draft pages.
+
+## Later verification correction — E18
+
+The E17 browser checks above were authenticated emulation. They did not establish anonymous HTML delivery. Owner failure was traced to stale SiteGround guest HTML missing both Code590 blocks; native staging cache purge restored delivery and logged-out runtime checks passed. [E18](2026-10-16-anonymous-timeline-cache.md) supersedes any implication that E17 proved guest or physical-device operation.

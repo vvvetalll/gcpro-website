@@ -1,0 +1,84 @@
+{
+  "desktop": {
+    "status": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Fri, 16 Oct 2026 18:34:38 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Transfer-Encoding": "chunked",
+      "Connection": "close",
+      "Vary": "Accept-Encoding",
+      "X-Cache-Enabled": "True",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Link": "<https://vitaliiv1.sg-host.com/wp-json/>; rel=\"https://api.w.org/\"",
+      "X-Httpd-Modphp": "1",
+      "Host-Header": "8441280b0c35cbc1147f8ba998a563a7",
+      "X-Proxy-Cache": "HIT"
+    },
+    "bytes": 134923,
+    "style": 0,
+    "script": 0,
+    "timeline": 67223,
+    "scriptPosition": -1,
+    "fallback": [
+      "id='robylo-fallback-css'",
+      "href='https://vitaliiv1.sg-host.com/wp-content/themes/robylo-starter/assets/css/fallback.css?ver=42eb1062b9890ed5ff8f4d33ea3ac480'"
+    ],
+    "scriptTags": [
+      "<script id=\"elementor-frontend-js\" src=\"https://vitaliiv1.sg-host.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.5\">",
+      "<script id=\"elementor-v2-frontend-handlers-js\" src=\"https://vitaliiv1.sg-host.com/wp-content/plugins/elementor/assets/js/packages/frontend-handlers/frontend-handlers.min.js?ver=4.3.5\">",
+      "<script id=\"elementor-v2-alpinejs-js\" src=\"https://vitaliiv1.sg-host.com/wp-content/plugins/elementor/assets/js/packages/alpinejs/alpinejs.min.js?ver=4.3.5\">",
+      "<script id=\"elementor-v2-form-handlers-js\" src=\"https://vitaliiv1.sg-host.com/wp-content/plugins/elementor/assets/js/atomic-widgets-form-handler.min.js?ver=4.3.5\">",
+      "<script id=\"wp-hooks-js\" src=\"https://vitaliiv1.sg-host.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255\">",
+      "<script id=\"wp-i18n-js\" src=\"https://vitaliiv1.sg-host.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216\">",
+      "<script id=\"wp-i18n-js-after\">",
+      "<script id=\"elementor-pro-frontend-js-before\">",
+      "<script id=\"elementor-pro-frontend-js\" src=\"https://vitaliiv1.sg-host.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=4.3.2\">",
+      "<script id=\"pro-elements-handlers-js\" src=\"https://vitaliiv1.sg-host.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=4.3.2\">",
+      "<script id=\"wp-emoji-settings\" type=\"application/json\">",
+      "<script type=\"module\">"
+    ]
+  },
+  "android": {
+    "status": 200,
+    "headers": {
+      "Server": "nginx",
+      "Date": "Fri, 16 Oct 2026 18:34:38 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Transfer-Encoding": "chunked",
+      "Connection": "close",
+      "Vary": "Accept-Encoding",
+      "X-Cache-Enabled": "True",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Link": "<https://vitaliiv1.sg-host.com/wp-json/>; rel=\"https://api.w.org/\"",
+      "X-Httpd-Modphp": "1",
+      "Host-Header": "8441280b0c35cbc1147f8ba998a563a7",
+      "X-Proxy-Cache": "HIT"
+    },
+    "bytes": 134923,
+    "style": 0,
+    "script": 0,
+    "timeline": 67223,
+    "scriptPosition": -1,
+    "fallback": [
+      "id='robylo-fallback-css'",
+      "href='https://vitaliiv1.sg-host.com/wp-content/themes/robylo-starter/assets/css/fallback.css?ver=42eb1062b9890ed5ff8f4d33ea3ac480'"
+    ],
+    "scriptTags": [
+      "<script id=\"elementor-frontend-js\" src=\"https://vitaliiv1.sg-host.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.5\">",
+      "<script id=\"elementor-v2-frontend-handlers-js\" src=\"https://vitaliiv1.sg-host.com/wp-content/plugins/elementor/assets/js/packages/frontend-handlers/frontend-handlers.min.js?ver=4.3.5\">",
+      "<script id=\"elementor-v2-alpinejs-js\" src=\"https://vitaliiv1.sg-host.com/wp-content/plugins/elementor/assets/js/packages/alpinejs/alpinejs.min.js?ver=4.3.5\">",
+      "<script id=\"elementor-v2-form-handlers-js\" src=\"https://vitaliiv1.sg-host.com/wp-content/plugins/elementor/assets/js/atomic-widgets-form-handler.min.js?ver=4.3.5\">",
+      "<script id=\"wp-hooks-js\" src=\"https://vitaliiv1.sg-host.com/wp-includes/js/dist/hooks.min.js?ver=f0f188028580e8dc1255\">",
+      "<script id=\"wp-i18n-js\" src=\"https://vitaliiv1.sg-host.com/wp-includes/js/dist/i18n.min.js?ver=1dfe7db3940c23ea9216\">",
+      "<script id=\"wp-i18n-js-after\">",
+      "<script id=\"elementor-pro-frontend-js-before\">",
+      "<script id=\"elementor-pro-frontend-js\" src=\"https://vitaliiv1.sg-host.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=4.3.2\">",
+      "<script id=\"pro-elements-handlers-js\" src=\"https://vitaliiv1.sg-host.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=4.3.2\">",
+      "<script id=\"wp-emoji-settings\" type=\"application/json\">",
+      "<script type=\"module\">"
+    ]
+  }
+}

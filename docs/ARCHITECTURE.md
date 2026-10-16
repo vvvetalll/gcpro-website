@@ -1,5 +1,7 @@
 # GCPRO architecture
 
+E18 anonymous-delivery correction: Code590 remains unchanged and Homepage154-only. Stale SiteGround guest HTML was purged; plain-root cache HIT and logged-out browser execution verified. [Incident/limits](milestones/2026-10-16-anonymous-timeline-cache.md).
+
 ## Client-only viewport integration — E17
 
 Existing Elementor Pro Custom Code provides a centralized client-owned deployment location without editing ROBYLO: **590**, body-end/priority10, native Page154 display condition. Canonical [CSS](../integrations/process-timeline-mobile.css)/[JS](../integrations/process-timeline-mobile.js) are pasted together into that one documented native code entry; no HTML widget, widget Custom CSS, inline style attribute, PHP hook, extra plugin or forced jQuery. Native scrollIn cannot trigger the existing pseudo-elements, so the explicitly permitted minimal IntersectionObserver sets one runtime data attribute and unobserves after entry. Content/Atomic configuration remains native; this decorative exception is intentionally edited in Code590/source rather than hidden in visual controls.

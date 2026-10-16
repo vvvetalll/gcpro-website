@@ -1,0 +1,47 @@
+[
+  {
+    "headers": {
+      "Server": "nginx",
+      "Date": "Fri, 16 Oct 2026 18:35:09 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Transfer-Encoding": "chunked",
+      "Connection": "close",
+      "Vary": "Accept-Encoding",
+      "X-Cache-Enabled": "True",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Link": "<https://vitaliiv1.sg-host.com/wp-json/>; rel=\"https://api.w.org/\"",
+      "X-Httpd-Modphp": "1",
+      "Host-Header": "6b7412fb82ca5edfd0917e3957f05d89",
+      "X-Proxy-Cache": "MISS",
+      "X-Proxy-Cache-Info": "0 NC:000000 UP:"
+    },
+    "style": 1,
+    "script": 1,
+    "scriptPosition": 136596,
+    "timelinePosition": 67223,
+    "adminBar": false
+  },
+  {
+    "headers": {
+      "Server": "nginx",
+      "Date": "Fri, 16 Oct 2026 18:35:10 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Transfer-Encoding": "chunked",
+      "Connection": "close",
+      "Vary": "Accept-Encoding",
+      "X-Cache-Enabled": "True",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Link": "<https://vitaliiv1.sg-host.com/wp-json/>; rel=\"https://api.w.org/\"",
+      "X-Httpd-Modphp": "1",
+      "Host-Header": "8441280b0c35cbc1147f8ba998a563a7",
+      "X-Proxy-Cache": "HIT"
+    },
+    "style": 1,
+    "script": 1,
+    "scriptPosition": 136596,
+    "timelinePosition": 67223,
+    "adminBar": false
+  }
+]
