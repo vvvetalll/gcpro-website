@@ -1,0 +1,151 @@
+{
+  "renderer": "resvg-py (offline authoring tool only)",
+  "fontSources": "Google Fonts repository / Montserrat and Inter variable TTF; used offline, not deployed or bundled",
+  "browserPreview": "file protocol unavailable; no browser security bypass attempted; exported SVG/PNG previews reviewed instead",
+  "assets": [
+    {
+      "asset": "assets/icons/core-services/a-outline/fire-smoke-damage.svg",
+      "rendered": true,
+      "transparentBackground": true,
+      "inkBoundsAt384": [
+        79,
+        39,
+        305,
+        361
+      ],
+      "clipped": false
+    },
+    {
+      "asset": "assets/icons/core-services/a-outline/mold-remediation.svg",
+      "rendered": true,
+      "transparentBackground": true,
+      "inkBoundsAt384": [
+        71,
+        31,
+        313,
+        353
+      ],
+      "clipped": false
+    },
+    {
+      "asset": "assets/icons/core-services/a-outline/personal-property-restoration.svg",
+      "rendered": true,
+      "transparentBackground": true,
+      "inkBoundsAt384": [
+        55,
+        55,
+        329,
+        361
+      ],
+      "clipped": false
+    },
+    {
+      "asset": "assets/icons/core-services/a-outline/reconstruction.svg",
+      "rendered": true,
+      "transparentBackground": true,
+      "inkBoundsAt384": [
+        39,
+        47,
+        345,
+        337
+      ],
+      "clipped": false
+    },
+    {
+      "asset": "assets/icons/core-services/a-outline/storm-damage.svg",
+      "rendered": true,
+      "transparentBackground": true,
+      "inkBoundsAt384": [
+        19,
+        15,
+        355,
+        353
+      ],
+      "clipped": false
+    },
+    {
+      "asset": "assets/icons/core-services/a-outline/water-damage.svg",
+      "rendered": true,
+      "transparentBackground": true,
+      "inkBoundsAt384": [
+        79,
+        31,
+        305,
+        337
+      ],
+      "clipped": false
+    },
+    {
+      "asset": "assets/icons/core-services/b-accent/fire-smoke-damage.svg",
+      "rendered": true,
+      "transparentBackground": true,
+      "inkBoundsAt384": [
+        79,
+        39,
+        305,
+        361
+      ],
+      "clipped": false
+    },
+    {
+      "asset": "assets/icons/core-services/b-accent/mold-remediation.svg",
+      "rendered": true,
+      "transparentBackground": true,
+      "inkBoundsAt384": [
+        71,
+        31,
+        313,
+        353
+      ],
+      "clipped": false
+    },
+    {
+      "asset": "assets/icons/core-services/b-accent/personal-property-restoration.svg",
+      "rendered": true,
+      "transparentBackground": true,
+      "inkBoundsAt384": [
+        55,
+        55,
+        329,
+        361
+      ],
+      "clipped": false
+    },
+    {
+      "asset": "assets/icons/core-services/b-accent/reconstruction.svg",
+      "rendered": true,
+      "transparentBackground": true,
+      "inkBoundsAt384": [
+        39,
+        47,
+        345,
+        337
+      ],
+      "clipped": false
+    },
+    {
+      "asset": "assets/icons/core-services/b-accent/storm-damage.svg",
+      "rendered": true,
+      "transparentBackground": true,
+      "inkBoundsAt384": [
+        19,
+        15,
+        355,
+        353
+      ],
+      "clipped": false
+    },
+    {
+      "asset": "assets/icons/core-services/b-accent/water-damage.svg",
+      "rendered": true,
+      "transparentBackground": true,
+      "inkBoundsAt384": [
+        79,
+        31,
+        305,
+        337
+      ],
+      "clipped": false
+    }
+  ]
+}

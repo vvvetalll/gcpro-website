@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round">
+  <g id="ink" stroke="#1A327D">
+    <path id="box" d="M8 16 24 8l16 8v20l-16 8-16-8ZM8 16l16 8 16-8M24 24v20"/>
+    <path id="contents" d="M12 31l7 3"/>
+  </g>
+  <g id="accent" stroke="#F05A29">
+    <path id="packing-band" d="M16 12l16 8v8l-5 2v-6l-16-8Z" fill="#F05A29"/>
+  </g>
+</svg>

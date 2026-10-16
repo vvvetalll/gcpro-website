@@ -1,0 +1,86 @@
+[
+  {
+    "asset": "assets/icons/core-services/a-outline/fire-smoke-damage.svg",
+    "bytes": 348,
+    "viewBox": "0 0 48 48",
+    "stroke": 2.25,
+    "safeStaticElementsOnly": true
+  },
+  {
+    "asset": "assets/icons/core-services/a-outline/mold-remediation.svg",
+    "bytes": 407,
+    "viewBox": "0 0 48 48",
+    "stroke": 2.25,
+    "safeStaticElementsOnly": true
+  },
+  {
+    "asset": "assets/icons/core-services/a-outline/personal-property-restoration.svg",
+    "bytes": 343,
+    "viewBox": "0 0 48 48",
+    "stroke": 2.25,
+    "safeStaticElementsOnly": true
+  },
+  {
+    "asset": "assets/icons/core-services/a-outline/reconstruction.svg",
+    "bytes": 321,
+    "viewBox": "0 0 48 48",
+    "stroke": 2.25,
+    "safeStaticElementsOnly": true
+  },
+  {
+    "asset": "assets/icons/core-services/a-outline/storm-damage.svg",
+    "bytes": 365,
+    "viewBox": "0 0 48 48",
+    "stroke": 2.25,
+    "safeStaticElementsOnly": true
+  },
+  {
+    "asset": "assets/icons/core-services/a-outline/water-damage.svg",
+    "bytes": 316,
+    "viewBox": "0 0 48 48",
+    "stroke": 2.25,
+    "safeStaticElementsOnly": true
+  },
+  {
+    "asset": "assets/icons/core-services/b-accent/fire-smoke-damage.svg",
+    "bytes": 500,
+    "viewBox": "0 0 48 48",
+    "stroke": 2.25,
+    "safeStaticElementsOnly": true
+  },
+  {
+    "asset": "assets/icons/core-services/b-accent/mold-remediation.svg",
+    "bytes": 470,
+    "viewBox": "0 0 48 48",
+    "stroke": 2.25,
+    "safeStaticElementsOnly": true
+  },
+  {
+    "asset": "assets/icons/core-services/b-accent/personal-property-restoration.svg",
+    "bytes": 436,
+    "viewBox": "0 0 48 48",
+    "stroke": 2.25,
+    "safeStaticElementsOnly": true
+  },
+  {
+    "asset": "assets/icons/core-services/b-accent/reconstruction.svg",
+    "bytes": 418,
+    "viewBox": "0 0 48 48",
+    "stroke": 2.25,
+    "safeStaticElementsOnly": true
+  },
+  {
+    "asset": "assets/icons/core-services/b-accent/storm-damage.svg",
+    "bytes": 443,
+    "viewBox": "0 0 48 48",
+    "stroke": 2.25,
+    "safeStaticElementsOnly": true
+  },
+  {
+    "asset": "assets/icons/core-services/b-accent/water-damage.svg",
+    "bytes": 499,
+    "viewBox": "0 0 48 48",
+    "stroke": 2.25,
+    "safeStaticElementsOnly": true
+  }
+]

@@ -1,5 +1,10 @@
 # GCPRO changelog
 
+## 2026-10-16 — Original Core Services icon proposals — E22
+
+- Added12 original SVG assets: six monochrome outline and six navy/orange accent icons, common48×48 grid/2.25 stroke. Added style/import guide, all-icon comparison and both card-context previews desktop/mobile. Recommend B; approval pending.
+- Asset safety/geometry checks and offline renders verified; no WordPress/media/component/style/code changes or runtime dependencies. Native import/duotone preservation remains untested. [E22](docs/milestones/2026-10-16-core-service-icon-concepts.md).
+
 ## 2026-10-16 — Core Services Orange Outline CTAs — E21
 
 - Reused existing Orange Outline on Service Card62 CTA; removed competing navy color/hover/focus rules from compact service-card__action. Transparent/orange default, orange/white hover, native200ms transition and existing focus indicator. Dimensions, labels, Overrides, # destinations and card design preserved; no new technical resources/custom code.

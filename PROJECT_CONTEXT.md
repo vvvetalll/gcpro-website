@@ -1,5 +1,9 @@
 # GCPRO project context
 
+## Latest asset proposal — E22: two original service-icon concepts
+
+2026-10-16: [Twelve SVG assets and import guide](assets/icons/core-services/README.md), A single-color outline and B navy/orange accent, with comparison and1440/390 static card-context previews. Proposed for Homepage154/Service Card62; B recommended, awaiting owner choice. Structurally validated and rendered offline at24/32/64/384px. No website/media/styles/components/runtime changed; E21 remains the current live implementation. Native asset import/Override/duotone tests deferred until approval. [E22 evidence and limitations](docs/milestones/2026-10-16-core-service-icon-concepts.md).
+
 ## Current milestone — E21: Orange Outline CTA correction
 
 2026-10-16: Service Card62 CTA210ecf0d reuses existing button-outline-orange; service-card__action retains compact geometry/native200ms transition, with redundant navy normal/hover/focus colors removed. All six CTAs are transparent/orange normally and orange/white on hover. Focus indicator,44px height, labels, # destinations, Overrides and card design preserved. No new resources/custom code. Logged-out1440/390/all-six hover/keyboard checks after cache purge and authenticated hover confirmed. Incognito/physical tests and existing destinations pending; fixed-brand contrast limitation documented. [E21 evidence/editing/recovery](docs/milestones/2026-10-16-core-orange-cta.md). E20 timeline and all prior unrelated implementation preserved.

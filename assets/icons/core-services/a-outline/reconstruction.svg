@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round">
+    <path id="roof" d="M6 22 24 7l18 15M11 18v23h26V18"/>
+    <path id="frame" d="M20 41V29h8v12M18 23h12"/>
+    <path id="repair" d="M29 8h7v9"/>
+</svg>

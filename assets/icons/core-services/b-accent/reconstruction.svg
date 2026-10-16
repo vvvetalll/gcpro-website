@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round">
+  <g id="ink" stroke="#1A327D">
+    <path id="roof" d="M6 22 24 7l18 15M11 18v23h26V18"/>
+    <path id="frame" d="M20 41V29h8v12"/>
+  </g>
+  <g id="accent" stroke="#F05A29">
+    <path id="repair-joint" d="M29 8h7v9"/>
+    <path id="beam" d="M18 23h12"/>
+  </g>
+</svg>

@@ -1,5 +1,7 @@
 # GCPRO design system
 
+E22 **proposed, not deployed**: [original Core Services SVG family](../assets/icons/core-services/README.md), A/currentColor outline and B/navy-orange accent.48×48,2.25 rounded strokes, six service meanings per treatment. No new Global Classes/Variables/Components or site code. Use existing SVG Icon Override only after visual approval and native color/instance tests. [Study/QA](milestones/2026-10-16-core-service-icon-concepts.md).
+
 E21 supersedes E19 CTA colors: existing button-outline-orange g-563da68 supplies transparent/orange default and orange/white hover. service-card__action g-d0416c8 keeps compact dimensions/bottom alignment/native200ms transition; its redundant navy color and state overrides removed. Orange Outline unchanged; no new resources/custom code. [Editing, contrast and QA](milestones/2026-10-16-core-orange-cta.md).
 
 E20: Code590 remains Homepage154-only and now includes the color-only `gcpro-process-number` keyframe in existing integrations/process-timeline-mobile.css. Reuses current hover/played triggers and stagger; no JS, theme, global typography or Atomic structure changes. [Source, timing, accessibility and QA](milestones/2026-10-16-timeline-number-color.md).

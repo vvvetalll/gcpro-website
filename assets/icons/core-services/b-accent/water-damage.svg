@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round">
+  <g id="ink" stroke="#1A327D">
+    <path id="drop" d="M24 5C20 12 11 20 11 28a13 13 0 0 0 26 0C37 20 28 12 24 5Z"/>
+  </g>
+  <g id="accent" stroke="#F05A29">
+    <path id="water" d="M22 23c3-2 6-1 9 1l2 1v3a9 9 0 0 1-11 9c-4-1-7-4-7-9v-3c2 1 4 1 7-2Z" fill="#F05A29"/>
+  </g>
+  <path id="reflection" d="M16 28c0 5 3 8 7 9" stroke="#1A327D"/>
+</svg>
