@@ -129,6 +129,30 @@ Component 62 has a native SVG, H3, description and text link. Component 80 has a
 
 Header 113 uses the existing WordPress Menu widget `7983af36`. The V2 implementation enabled the native Full Width control through the editor (the working stored value was `stretch`; do not infer it from a connector enum). Header CTA instance `cd66895` and Homepage Request Service actions remain `#` pending a real destination. Hero Call instance `a7bcc76` uses `tel:+18476563322`. Footer 114 matched the prior final snapshot; the earlier milestone also recorded its equality with the pre-V2 snapshot.
 
+## ZIP UI and audience card locators — E8
+
+Current on staging Homepage 154; fresh-read before future writes.
+
+| Element | ID / relationship |
+| --- | --- |
+| Existing Service Areas section / two-column container | 7d8c17ad / 585624a1 |
+| Left introduction | 3dc285eb; existing city parent d6dbbe2 moved here before directory action |
+| ZIP panel / H3 / description | 49f026c9 / 1c84aa78 / 264a3beb |
+| Native Form / label / controls row | 376376c8 / 10dd9f53 / 4a71aa98 |
+| Native input / disabled submit button | 351e2f2 / 5350691e |
+| Input ID / associated label for | gcpro-area-zip |
+| Future-feature notice | 244c26e6 |
+| Native required hidden status slots | 42bd3375 / 2cbaaa52; not coverage results |
+| Component 65 Step Number | 77fda46a; class process-step-number plus retained card-icon/hide-empty |
+| Existing Residential / Commercial wrappers | 4c8810dc / 2066a26; now linked cards, destination # |
+| Residential body / heading / description / SVG | 6b95719 / 7f49d2f5 / 1a430710 / 658b1119 |
+| Commercial body / heading / description / SVG | 687ff42f / 51809f70 / 6eb72b87 / 6773a91b |
+| Shared decorative arrow asset | attachment 464, robylo-arrow-right.svg, 24 by 24 |
+
+The former audience instances 5fa5a818 and 4e0d3e66 were removed only from this section to implement the owner's new card reference. This supersedes the eight-instance Homepage mapping above: the six core service instances remain Component 62. No shared Component 62 definition was changed; no new Component ID was created.
+
+The eight city links and All Service Areas still use their existing # destinations because destination pages are absent. The two audience card destinations likewise remain #. Header/Footer and other page assignments were not changed. Native input placeholder, text type, required/read-only switches, label association, button disabled attribute and card text are editable through standard Elementor controls. Form's empty-actions persistence limitation is documented in the [milestone](milestones/2026-10-16-zip-and-homepage-refinements.md).
+
 ## Updating the map
 
 Record environment, read date, source operation, exact type/title/ID and status. Keep numeric document/component IDs distinct from hexadecimal element IDs and global class IDs. Re-read element structure after mutations because replacements can assign new IDs. Update renamed/deleted entries and move superseded claims into reported history with an explanation.

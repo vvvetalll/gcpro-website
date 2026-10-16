@@ -22,6 +22,15 @@ Decisions below are adopted on 2026-10-16 for this documentation system, based o
 | D011 | Accepted implementation choice, recorded from E6/E7 | Reconstruct the existing Service Card 62 and preserve its five supported override keys rather than creating a replacement ID. Use existing 80 and 286 for the CTA and emergency eyebrow. | Current saved eight-card mapping and two Style Guide instances are documented; replay independent-override tests when changing the contract. |
 | D012 | Accepted owner refinement, recorded from E7 and current saved structure | Use an informational 24/7 eyebrow Component with smaller caption and a clear gap; no underline in Hero/the Component, and no underline on city links. | Component 286 has a DIV root and editable label; phone access remains in explicit telephone CTAs. Preserve focus/hover affordances when later destinations are supplied. |
 
+## ZIP UI and owner refinements — 2026-10-16
+
+| ID | Status | Decision and reason | Consequence / review trigger |
+| --- | --- | --- | --- |
+| D013 | Accepted prototype scope | Use native Atomic Input/Label/Form with disabled Check Area and a visible future-feature notice. No lookup or backend implementation. | Default Email action reappears when an empty list is saved. Native WebMCP form tool is also exposed. Keep button disabled; review before activation. |
+| D014 | Accepted latest owner correction | Uppercase only H1–H2; retain capitalize H3–H4 and none H5–H6. | Supersedes the temporary request for all-uppercase headings; final defaults match prior baseline. |
+| D015 | Accepted owner refinement | Numbered process steps use smaller Montserrat numbers without visible standard checkmarks. | Preserve existing card-icon visibility contract and supported overrides; no new conditional selector. |
+| D016 | Accepted owner reference | Refine only the two audience cards using native editable content, shared classes, existing 16:9 placeholders and real circular SVG actions. | The two former audience Service Card instances are superseded; six core instances remain. No new pages or production links. |
+
 ## Pending decisions
 
 - Accessible CTA treatment for the reported white/orange contrast issue; inspect real states and native options before choosing.

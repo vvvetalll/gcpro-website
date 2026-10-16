@@ -1,6 +1,20 @@
 # GCPRO project context
 
-Last reviewed: 2026-10-16 (America/Chicago). Current milestone: repository workflow integration and Homepage V2 documentation reconciliation; no website writes.
+Last reviewed: 2026-10-16 (America/Chicago). Current milestone: Service Areas ZIP UI, process-number refinement and reference-based audience cards on staging Homepage 154. See the current implementation record below; earlier baseline observations remain dated history.
+
+## Current implementation — E8
+
+Homepage 154 now has a native ZIP input and disabled Check Area button within the existing Service Areas section. City links and their destinations are preserved, with information on the left and a minimal panel on the right. This is an inactive visual prototype: no coverage lookup, validation, API or custom backend was implemented.
+
+During the same work the owner requested smaller Montserrat process numbers and a new Residential/Commercial card treatment. Component 65 numbers use 24px desktop/tablet and 22px mobile; existing number/icon visibility behavior is preserved. The two audience cards retain their original wrappers, 16:9 placeholders and destinations, with native editable copy and real SVG arrows. Six core-service instances still use Component 62; the former two audience instances were replaced only in this authorized section. Header 113 and Footer 114 remain unchanged.
+
+Final heading policy: H1–H2 uppercase, H3–H4 capitalize, H5–H6 none. All six defaults match the pre-task values; the temporary all-uppercase change was reversed following owner correction. No heading text or other typography values were changed.
+
+There are now 83 Global Classes (71 previous + 12 role-based additions) and the same 36 variables. See [milestone](docs/milestones/2026-10-16-zip-and-homepage-refinements.md), [design system](docs/DESIGN_SYSTEM.md#zip-ui-and-homepage-refinements--e8) and [map](docs/ELEMENTOR_MAP.md#zip-ui-and-audience-card-locators--e8).
+
+Actual frontend QA covered 1440/1200/900/390px, native input editing and disabled submission behavior. Visual owner approval remains pending. Atomic Input requires an Atomic Form ancestor; its default Email action reappears after saving an empty action list. Keep the submit button disabled. No recipient, lookup or external service was configured. The native form also advertises its built-in WebMCP submission tool; it was not invoked. Do not treat this prototype as a form/backend integration or enable it before the next functional implementation review.
+
+E8 sources: current staging MCP schemas and before/after structure/default reads, actual Elementor editor controls and screenshots, browser DOM/computed styles and a network-observed Enter test on 2026-10-16. Sanitized findings: [evidence](docs/evidence/2026-10-16-zip-and-homepage-refinements.json). Local snapshots complement recovery; a full database/files restore remains unverified. Production and shared ROBYLO were not changed.
 
 ## Start and ownership
 
@@ -53,6 +67,7 @@ Use these labels throughout the documentation. Observed facts are limited to the
 | E5 | Prior workspace `robylo-atomic-components.json`, read 2026-10-16; declares the same staging host | Older reported component IDs/validation; several names and schemas superseded by E3 |
 | E6 | Read-only staging MCP during repository integration, 2026-10-16: Homepage lookup, full content reads of 154/62/65/68/80/86/286/113/114, Style Guide library root, global resources and H1-H6 defaults | Nine document trees match the prior final snapshot; eight saved service-card overrides, absence of the extra card, two Style Guide cards, zero returned local-style entries, 36 variables, 71 classes and current HTML defaults. No frontend/editor/interaction test or full class-CSS audit was repeated. Sanitized results: [evidence](docs/evidence/2026-10-16-homepage-v2-reconciliation.json) |
 | E7 | Historical local `final-state.json`, `final-responsive-qa.json`, `svg-override-test.json`, `final-performance.json` and implementation report inspected during integration | Dated QA/performance evidence, not current replay. Source-file SHA-256 hashes and limitations are recorded in the [milestone](docs/milestones/2026-10-16-homepage-v2.md); raw snapshots, network traces and private backups are not published |
+| E8 | Authorized staging implementation on 2026-10-16: MCP schemas/snapshots/defaults, native editor controls, SVG import, four-width frontend screenshots and Enter/network test | ZIP prototype, process-number and audience-card changes; actual results and native Form limitations in the [milestone](docs/milestones/2026-10-16-zip-and-homepage-refinements.md) and sanitized [evidence](docs/evidence/2026-10-16-zip-and-homepage-refinements.json). No production or lookup/backend activation. |
 
 E4/E5 artifacts reside in the earlier chat workspace, not in this repository; relative artifact paths above identify their original location and are not repository links. The relevant findings are summarized here. Review and sanitize any future evidence exports before committing them. No credentials or full site/database export is included.
 

@@ -1,0 +1,72 @@
+{
+  "evidence": "E8",
+  "date": "2026-10-16",
+  "timezone": "America/Chicago",
+  "staging": "https://vitaliiv1.sg-host.com",
+  "post_id": 154,
+  "component_changed": 65,
+  "untouched_templates": [
+    113,
+    114
+  ],
+  "class_total": 83,
+  "new_classes": [
+    "form-panel",
+    "form-controls",
+    "form-input",
+    "button--inactive",
+    "form-label",
+    "form-field",
+    "form-note",
+    "process-step-number",
+    "audience-card",
+    "audience-card__body",
+    "card-action",
+    "card-action__icon"
+  ],
+  "svg_asset": 464,
+  "viewports": [
+    1440,
+    1200,
+    900,
+    390
+  ],
+  "results": {
+    "horizontal_overflow": false,
+    "zip_disabled": true,
+    "zip_label_and_input_font": "Inter",
+    "process_font": "Montserrat",
+    "process_sizes_px": [
+      24,
+      24,
+      24,
+      22
+    ],
+    "process_checkmarks_visible": false,
+    "audience_arrows": 2,
+    "manual_inline_styles_added": false,
+    "local_style_entries": 0,
+    "header_and_footer_unchanged": true,
+    "unchanged_homepage_sections": 7,
+    "city_subtree_unchanged": true,
+    "heading_defaults_match_before": true,
+    "zip_enter_test": "No form POST, coverage result or navigation; unrelated SiteGround GET requests observed"
+  },
+  "limitations": [
+    "Native Atomic Input requires Form ancestor and hidden status slots",
+    "Empty form actions revert to default Email after reopen; keep native submit disabled",
+    "Native form advertises WebMCP submission tool; not invoked",
+    "No ZIP lookup or backend-wide submission kill-switch claimed",
+    "Destinations remain # pending actual pages",
+    "Full database/files restore and physical touch unverified"
+  ],
+  "local_evidence_sha256": {
+    "before.json": "BE970CC7A3A860BDB6750440E5BE766C8130E4ED75CC3747729C9FB02A2C56AB",
+    "final-snapshots.json": "5CD71D6FBC7E26F651097749A5F837BC3BF600C9326F03DEF20697BD9320DAE0",
+    "final-ui-qa.json": "9470CB6DADBACFF4EEC74B42A9DE7EF12A8190555B29F5C0BC6F49AEBCAA1837",
+    "audience-1440.jpg": "4173387A3CFAE2DF7011F4B24DB7CDF4AD30197819C9C0336AFE5DA09AE704F3",
+    "audience-390.jpg": "E08434BEAE972CF1644FF03BC353FBC95957A1CCD675C055AD769FAF3C25A8C0",
+    "section-1440.jpg": "6CC6B2DF481B01EC15F775BBEB0F1D24DB3BFA5AE9663EA112F8B67A4AC6F094",
+    "section-390.jpg": "0905BD584CECE0034A4C4F138C5EF99083CE52D60480DCEB3502DD91D2639913"
+  }
+}

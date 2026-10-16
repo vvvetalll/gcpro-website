@@ -2,6 +2,31 @@
 
 Observed 2026-10-16 through read-only Elementor MCP on staging (E3 in [PROJECT_CONTEXT](../PROJECT_CONTEXT.md#evidence-register)). These are saved resource values and class identities, not a new design proposal or proof of rendered use. Re-read resources before editing.
 
+## ZIP UI and Homepage refinements — E8
+
+Current class total is 83. The 71-class register below is the earlier baseline. Existing variables and classes were reused; no tokens or duplicate Components were created. These additions use native Global Class controls, with no retained Custom CSS:
+
+| Class | ID | Purpose |
+| --- | --- | --- |
+| form-panel | g-ecfd56c | Light-blue panel, 1px token border, 12px radius, 32px padding / 24px mobile, 16px gap |
+| form-controls | g-a9bac3a | Input/action row; stacked at tablet breakpoint 1024px and below |
+| form-input | g-4a008b9 | Inter 16px, 52px control, native border/radius/background; navy 2px focus border |
+| button--inactive | g-bf5bb9b | Montserrat 600, 14px, 52px control and muted disabled presentation; disabled is a native attribute, not CSS |
+| form-label | g-f760e1c | Inter 14px/600 with text-color token |
+| form-field | g-7a37771 | Native vertical field layout with 8px gap and zero padding |
+| form-note | g-77663f6 | Inter 14px normal-case muted help text |
+| process-step-number | g-af5ab08 | Montserrat 600, 24px desktop/tablet and 22px mobile, 1.3 line height |
+| audience-card | g-38b29fb | Rounded white linked card with token border, clipped placeholder and no underline |
+| audience-card__body | g-19a0c6f | Copy/action grid, 32px padding / 24px mobile |
+| card-action | g-a5c0d65 | Navy circle, 64px desktop/tablet / 52px mobile |
+| card-action__icon | g-8a7dd36 | 24px white SVG glyph |
+
+Only process-step-number was moved ahead of card-icon; other existing classes retain relative priority. Step Number keeps card-icon and hide-empty because the existing icon-svg rule hides an SVG immediately followed by a nonempty card-icon. Changing that contract requires an explicit supported visibility design. This is a documented pre-existing selector, not new code introduced here.
+
+Heading capitalization remains H1/H2 uppercase, H3/H4 capitalize, H5/H6 none. Sizes, weights, colors and responsive defaults match the pre-task snapshot. Audience copy reuses stack--compact plus stack; placeholders reuse media-placeholder.
+
+The converter initially retained unsupported cursor/white-space and a focus-visible border as Custom CSS. These declarations were removed in the visual editor; ordinary link keyboard focus remains provided by the existing HTML Default. No new custom styling remains in the added classes. See [milestone](milestones/2026-10-16-zip-and-homepage-refinements.md) for verification and limitations.
+
 ## Global conventions
 
 - Keep reusable values in native Global Variables, base typography in tag defaults, shared styling/layout in Global Classes, repeated structures in Components and instance content in supported overrides.
