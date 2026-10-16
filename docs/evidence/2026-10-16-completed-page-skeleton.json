@@ -1,0 +1,210 @@
+{
+  "checked_at_utc": "2026-10-16T17:09:48.918247+00:00",
+  "created_this_task": 64,
+  "created_previous_task": 15,
+  "total_new_skeleton_drafts": 79,
+  "approved_retained_page_destinations": 81,
+  "existing_business_pages_reused": 2,
+  "staging_pages_before": 21,
+  "staging_pages_after": 85,
+  "after_status_counts": {
+    "draft": 82,
+    "publish": 3
+  },
+  "new_parent_groups": {
+    "484": 6,
+    "499": 6,
+    "495": 51,
+    "497": 1
+  },
+  "created_ids": [
+    514,
+    515,
+    516,
+    517,
+    518,
+    519,
+    520,
+    521,
+    522,
+    523,
+    524,
+    525,
+    526,
+    527,
+    528,
+    529,
+    530,
+    531,
+    532,
+    533,
+    534,
+    535,
+    536,
+    537,
+    538,
+    539,
+    540,
+    541,
+    542,
+    543,
+    544,
+    545,
+    546,
+    547,
+    548,
+    549,
+    550,
+    551,
+    552,
+    553,
+    554,
+    555,
+    556,
+    557,
+    558,
+    559,
+    560,
+    561,
+    562,
+    563,
+    564,
+    565,
+    566,
+    567,
+    568,
+    569,
+    570,
+    571,
+    572,
+    573,
+    574,
+    575,
+    576,
+    577
+  ],
+  "all_created_status_draft": true,
+  "all_64_paths_match_inventory": true,
+  "all_81_approved_page_paths_verified": true,
+  "duplicate_nonempty_page_paths": 0,
+  "new_slug_suffix_collisions": 0,
+  "all_64_content_raw_empty": true,
+  "all_21_existing_native_page_fields_unchanged": true,
+  "native_registered_settings_unchanged": true,
+  "draft_generated_slug_differs_from_saved_slug": 19,
+  "public_route_resolution_tested": false,
+  "public_links_implemented": false,
+  "preserved_archive_findings_commit": "6b53d200b3b0767f7507eef7390e056be47fe1dc",
+  "preflight": {
+    "checked_at_utc": "2026-10-16T17:05:49.907716+00:00",
+    "auth": "Existing same-host configured Basic authorization; credential values never exported",
+    "native_fields_verified": {
+      "slug": "string",
+      "parent": "integer",
+      "status": "string"
+    },
+    "edit_pages": true,
+    "before_page_count": 21,
+    "jobs": 64,
+    "parent_groups": {
+      "484": 6,
+      "499": 6,
+      "495": 51,
+      "497": 1
+    },
+    "reconciliation": {
+      "audited": 200,
+      "canonical": 207,
+      "review_holds": 8
+    },
+    "water_extraction": {
+      "id": 487,
+      "path": "/water-extraction/",
+      "parent": 0
+    },
+    "settings": {
+      "blog_public": "not_exposed_in_REST; verify_native_Reading_UI",
+      "page_on_front": 154,
+      "page_for_posts": 0
+    }
+  },
+  "preserved_resource_checks": {
+    "home": {
+      "before_sha256": "0975f03efe5342db4eee0f3bf3c151f6d6a52727394be61a13d418a73009d0d1",
+      "after_sha256": "0975f03efe5342db4eee0f3bf3c151f6d6a52727394be61a13d418a73009d0d1",
+      "equal": true
+    },
+    "header": {
+      "before_sha256": "a83a5f38add8e395a38f1d6ef618d29c8c8849ac269477f3f6d27399ee9b6ce6",
+      "after_sha256": "a83a5f38add8e395a38f1d6ef618d29c8c8849ac269477f3f6d27399ee9b6ce6",
+      "equal": true
+    },
+    "footer": {
+      "before_sha256": "ee3bfb56a2a8e9a952452252b3f3f84fbc60de88dde3429741df8e417a7316eb",
+      "after_sha256": "ee3bfb56a2a8e9a952452252b3f3f84fbc60de88dde3429741df8e417a7316eb",
+      "equal": true
+    },
+    "classes": {
+      "before_sha256": "057bc3a7894dc5f1f42efe8764fad6de60a329c89c3428f0e00895a6715d4650",
+      "after_sha256": "057bc3a7894dc5f1f42efe8764fad6de60a329c89c3428f0e00895a6715d4650",
+      "equal": true
+    },
+    "variables": {
+      "before_sha256": "43c68fac34c41e2950c54f8f6856278cf9ac8be0d9e0ad98dbe808b16b35fd72",
+      "after_sha256": "43c68fac34c41e2950c54f8f6856278cf9ac8be0d9e0ad98dbe808b16b35fd72",
+      "equal": true
+    },
+    "components": {
+      "before_sha256": "b28408d9f261b36c2dd18fe1d87beed73c33e13a5f1f36a8ba2bce710f808259",
+      "after_sha256": "b28408d9f261b36c2dd18fe1d87beed73c33e13a5f1f36a8ba2bce710f808259",
+      "equal": true
+    }
+  },
+  "reading_UI_before_after": {
+    "discourage": true,
+    "front": 154,
+    "posts": 0,
+    "unchanged": true
+  },
+  "editor_check_514": {
+    "draft_control": true,
+    "parent_Residential_Services_control": true,
+    "water_damage_slug_control": true,
+    "Edit_with_Elementor_available": true,
+    "content_or_settings_changed_in_editor": false
+  },
+  "anonymous_root_robots_meta": [
+    "<meta name='robots' content='noindex, nofollow' />"
+  ],
+  "inventory_reconciliation": {
+    "total": 207,
+    "origins": {
+      "audit_2026-10-15": 200,
+      "live_only_2026-10-16": 5,
+      "proposed_sitemap": 2
+    },
+    "source_actions": {
+      "REDIRECT 301": 9,
+      "UPDATE": 133,
+      "KEEP": 43,
+      "REMOVE": 13,
+      "MERGE": 2
+    },
+    "statuses": {
+      "no_object_by_audit": 24,
+      "existing_reused": 2,
+      "operational_no_page": 22,
+      "current_only_review": 5,
+      "archive_mapping_pending": 30,
+      "created_draft_verified": 79,
+      "post_import_pending": 29,
+      "proposed_not_approved": 2,
+      "cpt_model_pending": 13,
+      "retained_404_review": 1
+    },
+    "remaining_parent_blocked": 0,
+    "review_holds": 8,
+    "archive_rows_from_6b53d20_preserved": true
+  },
+  "backups": "Scoped private native Page/settings/resource snapshots captured locally; full database/files restore remains unverified. No private backups or credentials committed."
+}

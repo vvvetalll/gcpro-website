@@ -1,6 +1,6 @@
 # GCPRO SEO URL architecture and Draft skeleton
 
-Verified 2026-10-16, America/Chicago. Environment: https://vitaliiv1.sg-host.com. Production was read only through public GET requests. **The skeleton is partially implemented: 15 root Draft Pages exist; 64 hierarchical Pages remain uncreated because the available native UI excludes Draft parents.** No launch, redirects, page publication, content rewrite or template construction occurred.
+Verified 2026-10-16, America/Chicago. Environment: https://vitaliiv1.sg-host.com. **The approved native Page skeleton is complete: 15 earlier root Drafts + 64 new hierarchical Drafts + 2 reused business Pages cover all 81 verified retained Page destinations.** Eight unresolved URL decisions, native posts/CPT imports and archive setup remain separate. No launch, redirects, page publication, content rewrite or template construction occurred. E14 used authenticated native WordPress REST on staging only; the E13 production archive findings from commit `6b53d20` remain unchanged.
 
 ## Authoritative inventory and source decisions
 
@@ -21,11 +21,11 @@ The CSV records live title, description, canonical, meta/X-Robots directives, co
 | Inventory status | URLs | Actual outcome |
 | --- | ---: | --- |
 | Existing objects reused | 2 | Homepage 154 published; Privacy Policy 3 Draft, existing body preserved |
-| New Draft Pages created and re-read | 15 | Exact root slugs, parent 0, no layout content |
-| Pages awaiting Draft-parent capability | 64 | 6 residential + 6 commercial + 51 city + 1 careers; no IDs invented |
+| New Draft Pages created and re-read | 79 | 15 root Drafts in E12 + 64 child Drafts in E14; no layout content |
+| Pages awaiting Draft-parent capability | 0 | Resolved through existing same-host authentication and native REST; all 64 children verified |
 | Posts awaiting content import | 29 | Native `post`, not Pages; no posts created in this Page-skeleton task |
 | Project items awaiting model/import | 13 | Production `portfolio` CPT; no duplicate Pages |
-| Retained archive/taxonomy routes mapped | 30 | 12 tag archives + 16 date archives + blog archive + portfolio archive; not created as Pages |
+| Retained archive/index/taxonomy routes mapped | 30 | 12 tag archives + 16 date archives + Blog posts-index candidate + Portfolio archive; not created as Pages |
 | Other retained operational routes | 22 | 9 feeds, 5 pagination routes, 4 parameter variants, 3 administrative patterns, 1 resource |
 | Retained source requiring review | 1 | `/team/` is currently 404 and absent from the public Page inventory |
 | MERGE/301/REMOVE: no source objects created | 24 | Source decisions preserved; no redirects/deletions executed |
@@ -33,7 +33,7 @@ The CSV records live title, description, canonical, meta/X-Robots directives, co
 | Proposed pages not approved | 2 | No objects created |
 | **Total** | **207** | Status groups are mutually exclusive |
 
-There are **zero detected slug collisions or auto-suffixed new slugs**. Uncertainty/approval holds total **8**: retained `/team/`, five current-only rows and two proposed rows. These are separate from the 64 technical parent holds and pending imports/archive setup. Staging now has **21 Pages: 3 published, 18 Draft**, versus 6 before this task. Two unrelated private staging posts 131/133 are not GCPRO content migrations. Public staging taxonomy reads returned no tags and only Uncategorized 1; no matching business terms were reused.
+There are **zero detected duplicate nonempty Page paths, slug collisions or auto-suffixed new slugs**. Uncertainty/approval holds remain **8**: retained `/team/`, five current-only rows and two proposed rows. None was created. The 64 technical parent holds are resolved; pending posts/CPT imports and archive setup remain separate. Staging now has **85 Pages: 3 published, 82 Draft**, versus 21 before E14 and 6 before E12. Two unrelated private staging posts 131/133 are not GCPRO content migrations. Public staging taxonomy reads returned no tags and only Uncategorized 1; no matching business terms were reused.
 
 ## Created root Drafts and verified paths
 
@@ -59,15 +59,36 @@ All rows below are actual saved objects, not planned IDs. Intended paths are fut
 
 Existing Privacy Policy 3 already has `privacy-policy`, parent 0, Draft; it was reused without rewriting its generic body. Homepage 154 remains the published static front page. Existing Pages 2, 7, 12 and 50 remain unrelated retained staging objects, not reused business destinations.
 
-## Hierarchy and native capability limitation
+## Completed hierarchical Drafts — E14
+
+Created **64 native WordPress Pages, IDs 514–577**, all Draft with empty raw content and Default native template. No Elementor layout, shared Component instance or page-design content was generated. All full path/ID mappings live only in the canonical CSV; the following groups summarize them.
+
+| Parent Page / intended prefix | New Draft children | Representative verified IDs/paths |
+| --- | ---: | --- |
+| Residential Services **484**, `/residential-services/` | 6 | Water Damage **514**, Mold Removal **516**, Fire & Smoke **517**, Reconstruction **518**, Personal Property **521**, Storm Damage **523** |
+| Commercial Services **499**, `/commercial-services/` | 6 | Water Damage **515**, Mold Removal **519**, Fire & Smoke **520**, General Contracting **522**, Reconstruction **524**, Personal Property **525** |
+| Service Area **495**, `/service-area/` | 51 | Lombard **526**, Downers Grove **527**, Highland Park **528**; all 51 exact city slugs in CSV |
+| About Us **497**, `/about-us/` | 1 | Careers **534**, `/about-us/careers/` |
+
+**Water Extraction 487 remains `/water-extraction/`, parent 0, Supporting service.** It is not Residential Water Damage **514**, `/residential-services/water-damage/`, parent 484, or Commercial Water Damage **515**, `/commercial-services/water-damage/`, parent 499. The original three distinct production paths and purposes are preserved.
+
+For every new child: authenticated create returned 201; an independent GET re-read saved ID/slug/parent/Draft/empty content; the complete parent chain reproduced the exact approved path; native `permalink_template` filled with the **saved slug** matched that path. A final all-Page read confirmed 64 added IDs, 85 total Pages, no duplicate nonempty paths and unchanged saved native fields of all 21 preexisting Pages. All **81** verified retained Page destinations now map to actual objects. These are verified intended future paths, **not anonymous public route-resolution tests or published destinations**.
+
+WordPress's Draft `generated_slug` suggestion differs from the explicitly saved slug in 19 children because titles differ from approved URL slugs. It must not replace the saved `slug`; do not turn a title suggestion into a migration URL change. Recheck actual public routes at authorized publication/migration.
+
+The native editor for 514 actually displayed Draft, slug `water-damage`, Parent Residential Services and the standard Edit with Elementor action. No editor field was changed and no page design was started. [Sanitized E14 verification](evidence/2026-10-16-completed-page-skeleton.json) records actual counts, IDs, auth/capability checks, unchanged-resource hashes and limits without credentials or full private snapshots.
+
+## Hierarchy and resolved native interface limitation
 
 Preserve actual production URL hierarchy, not the sitemap's logical navigation column. The five supporting services remain at root. Residential and commercial services have their own six existing child paths. Preserve `/fire-smoke/` under each hub, not an invented `/fire-smoke-damage/`. All 51 retained city Pages belong under `/service-area/`; Careers belongs under `/about-us/`.
 
-The CSV's `production_parent_id` comes from the live Page object. `intended_parent_path` is the URL parent; `intended_parent_staging_id` refers to the actual new Draft hub when one exists. The 64 pending children have blank `staging_object_id`, so nobody can mistake them for created Pages.
+The CSV's `production_parent_id` comes from the live production Page object. `intended_parent_path` is the URL parent; `intended_parent_staging_id` refers to the actual staging hub. All 64 former pending children now have real `staging_object_id`, saved slug/parent and verified full path, `created_draft_verified` status and `not_public_draft` link readiness. Other uncreated objects still have blank IDs.
 
-**Demonstrated blocker:** native WordPress Quick Edit's Parent select offers only published Pages 12, 154 and 2. Gutenberg Parent search finds published Sample Page but not existing Draft Privacy Policy. Its page Actions menu has no create-child command. The exposed `elementor_create_page` accepts title/post_type only; it does not expose native `slug` or `parent`. Elementor document settings are not a verified native `post_parent` interface.
+**Historical E12 interface limitation, resolved in E14:** native WordPress Quick Edit's Parent select offered only published Pages 12, 154 and 2. Gutenberg Parent search found published Sample Page but not existing Draft Privacy Policy. The exposed `elementor_create_page` accepts title/post_type only, not native `slug` or `parent`; Elementor document settings are not a native `post_parent` interface. These interface limits are not a WordPress prohibition on Draft parents.
 
-Minimum required capability: a supported authenticated WordPress Page create/update interface exposing native `slug` and `parent` while retaining Draft status. For example, a connector exposing standard WordPress Page CRUD with those fields would suffice. No credential or role failure was demonstrated; the currently exposed controls cannot perform this relationship. Do not publish unfinished parents, fabricate flat child paths, edit the database, inject editor state or add workaround code. Complete the 64 children once that supported capability is available, then re-read full paths and IDs.
+E14 found an **existing configured same-host Basic Authorization header** for the staging MCP connection. A normal authenticated `GET /wp-json/wp/v2/pages/484?context=edit` succeeded. Native Pages OPTIONS confirmed `slug:string`, `parent:integer`, `status:string`; current-user capability read confirmed `edit_pages`. This existing authentication also permits standard WordPress Page REST requests; no new credential, plugin, code, security change or browser-session extraction was needed. Credentials stayed in local configuration and were never copied into Git/evidence/output. Requests were constrained to HTTPS staging with redirects refused.
+
+Created children with standard `POST /wp-json/wp/v2/pages` containing approved `title`, `slug`, Draft `parent` ID, `status=draft`, empty content; only create operations were sent, no existing Page/settings updates or publishing. Duplicate checks preceded each write; a persistent local operation record prevented blind retries/re-creation. Independent GETs and final inventory reads verified outcomes. This is native API orchestration, not deployed PHP/JS/CSS or a workaround to the WordPress object model. See [WordPress Pages reference](https://developer.wordpress.org/rest-api/reference/pages/), [authentication](https://developer.wordpress.org/rest-api/using-the-rest-api/authentication/) and [workflow](WORKFLOWS.md#native-draft-page-hierarchy--e14). Do not publish parents, change globals, alter the database or inject editor state to assign hierarchy.
 
 ## Correct object models and unresolved SEO decisions
 
@@ -124,16 +145,16 @@ Counts describe the existing 138-destination build queue, not 138 created Pages 
 | Family | Queue count | First representative | Current state |
 | --- | ---: | --- | --- |
 | Homepage | 1 | `/`, 154 | Existing; no changes |
-| Residential service | 7 | `/residential-services/water-damage/` | Child object pending parent capability |
-| Commercial service | 7 | `/commercial-services/water-damage/` | Child object pending parent capability |
+| Residential service | 7 | `/residential-services/water-damage/`, 514 | Blank child Draft available |
+| Commercial service | 7 | `/commercial-services/water-damage/`, 515 | Blank child Draft available |
 | Supporting service | 5 | `/water-extraction/`, 487 | Blank Draft available |
-| Service area / city | 52 | `/service-area/lombard/`; hub 495 | City object pending parent capability; hub Draft available |
+| Service area / city | 52 | `/service-area/lombard/`, 526; hub 495 | All 51 city Drafts and hub available |
 | Project / case study | 14 | `/portfolio/reconstruction-after-water-damage-on-montana-street-chicago/` | CPT model/import pending; Before And After 493 is a Page in this family |
 | Standard content | 7 | `/about-us/`, 497 | Blank Draft available; Team remains disputed |
 | Blog and archive | 42 | `/blog/` plus first retained post | Native archive/posts/tags pending, no duplicate Pages |
 | Conversion / contact | 3 | `/contact-us/`, 496 | Blank Draft; form functionality not implemented |
 
-Recommended first internal template remains **Residential Water Damage**, followed by Commercial Water Damage, a city Page, project detail and About. Resolve the parent interface first. If work must proceed before that dependency, Water Extraction 487 is an unblocked supporting-service representative. Do not duplicate Homepage layouts into the skeleton.
+Recommended first internal template is **Residential Water Damage 514**, followed by Commercial Water Damage 515, city Lombard 526, a project detail once its CPT model/import is ready, and About 497. Water Extraction 487 remains a distinct supporting-service representative. Do not duplicate Homepage layouts into the skeleton. E14 creates no visual templates and does not authorize starting those designs.
 
 ## Internal link dependencies and handoff
 
@@ -148,7 +169,7 @@ Dependency groups:
 - Header/Footer shared menu: both service hubs and their children, six featured cities and directory, Portfolio/Before And After, Blog, About/Team/Testimonials/Careers.
 - All observed production internal outgoing and incoming source relationships remain in the same CSV for later article, city, project and content migration. This is a complete list for the collected source set and scoped staging documents, not a claim to have audited every future website link.
 
-Service Request 492 and Contact 496 now **exist as Drafts**; earlier reports saying they do not exist describe the pre-skeleton baseline. They still are not publicly available. Keep their `#` links explicitly unresolved until approved content/functions are ready and publication is authorized. Do not substitute preview URLs or claim service-request submission works. Core-service links are mapped to residential candidates from the existing card purpose; review dual-audience routing in the later linking task without inventing shared service URLs.
+Service Request 492, Contact 496 and all 64 new child Pages **exist as Drafts**; earlier missing-page/parent-blocked reports describe the prior baseline. They are not publicly available. Destination dependencies now identify created child IDs and `draft_not_public`; saved website links/menu records were not edited. Keep their `#` links explicitly unresolved until approved content/functions are ready and publication is authorized. Do not substitute preview URLs or claim service-request submission works. Core-service links remain residential candidates from the existing card purpose; review dual-audience routing in the later linking task without inventing shared service URLs.
 
 ## Safety and actual verification
 
@@ -160,11 +181,13 @@ Service Request 492 and Contact 496 now **exist as Drafts**; earlier reports say
 - No responsive/layout/keyboard QA replay was necessary or claimed: this task created blank Draft objects and changed no rendered layouts. The native Pages/Quick Edit UI was actually used; new visual template editing will be verified when a template is built.
 - Local pre-task configuration snapshots were captured for the three preserved documents. A full database/files backup and restore test remains unverified; snapshots and this documentation do not substitute for it.
 
-Recovery is scoped: retain the verified IDs/paths; any future authorized rollback can move only these 15 new blank Drafts to recoverable Trash after checking dependencies. Do not touch existing 154/3/2/7/12/50. A Git revert does not restore WordPress.
+E14 safety check: native Reading UI remains discouraged/noindex, front page 154 and posts-page 0; anonymous root still emits `noindex, nofollow`. All 21 existing native Page records and registered native settings are unchanged. Full saved Homepage154/Header113/Footer114 trees and Global Classes/Variables resource responses and Component registry match before/after. The latter is a registry comparison, not a replay of every Component's visual behavior. Source audit actions/destination URLs, the eight review holds and the two E13 archive rows/findings are preserved; production was not accessed for writes or reconfigured. No responsive QA replay is claimed for blank, unpublished Pages.
+
+Recovery is scoped: E14 added only IDs **514–577**. Any future authorized rollback must first check new dependencies and unchanged Draft content, then use recoverable native Trash only for the intended added objects. Preserve the earlier 15 root Drafts and existing 154/3/2/7/12/50; do not trash parent hubs while children depend on them. Scoped private snapshots/operation records complement recovery; full database/files backup and restore remain unverified. A Git revert does not restore WordPress.
 
 ## Migration and launch checklist — pending, not executed
 
-1. Resolve the native Draft-parent capability; create/re-read the 64 children with the exact planned parent IDs and paths, checking for collisions again.
+1. The 64 Draft children are created and verified. At later authorized publication/migration, recheck saved hierarchy, collisions, IDs and actual public responses; do not recreate existing destinations.
 2. Reconcile Team, current-only sources and proposed pages; preserve original decisions until approval changes them. Confirm CPT/archive/post/taxonomy model and import mappings.
 3. Build the nine native layout families through approved representative Pages/objects. Preserve independently editable Components and object-bound links; do not bulk-copy Homepage markup.
 4. Migrate approved content/media with source-to-attachment mapping, alt text, headings, relationships and verified business data. No automatic copy of incorrect schema, ratings or claims.

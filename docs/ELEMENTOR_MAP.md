@@ -4,13 +4,32 @@ Environment: https://vitaliiv1.sg-host.com. Last read: 2026-10-16. IDs are insta
 
 **Verified** below means returned by the indicated read-only MCP inventory/schema/structure in this task. It does not mean the document is visually approved, every instance was tested, or frontend/editor behavior was verified. **Reported** means an earlier chat/artifact claim not fully repeated here.
 
-## Current Draft skeleton — E12
+## Current completed native Page skeleton — E14
 
-2026-10-16 native WordPress/MCP reads now return **21 Pages: 3 published and 18 Draft**. The original six remain; 15 new blank root Drafts were added. [SEO_STRUCTURE](SEO_STRUCTURE.md#created-root-drafts-and-verified-paths) lists every actual new ID/path/family; [SEO_URL_INVENTORY.csv](SEO_URL_INVENTORY.csv) is the authoritative per-URL register. All 15 new IDs were re-read after saving exact native slugs and parent 0; MCP returns empty Elementor arrays. Native page template is Default; no family layout was built or assigned.
+2026-10-16 native REST and browser reads confirm **85 Pages: 3 published, 82 Draft**, after creating **64 child Drafts, IDs 514–577**. All 81 verified retained Page destinations now have actual object IDs: 79 new Drafts across E12/E14 plus existing Homepage154 and Privacy3. See the single [canonical inventory](SEO_URL_INVENTORY.csv) for every exact path/ID; [SEO_STRUCTURE](SEO_STRUCTURE.md#completed-hierarchical-drafts--e14) provides grouped mappings and validation limits.
+
+| Parent | New child count | Representative children |
+| --- | ---: | --- |
+| Residential484 | 6 | Water Damage514; Fire & Smoke517 |
+| Commercial499 | 6 | Water Damage515; Fire & Smoke520 |
+| Service Area495 | 51 | Lombard526; Downers Grove527 |
+| About497 | 1 | Careers534 |
+
+Native authenticated WordPress REST, using existing same-host configured Basic authorization, accepted Draft parents with exact slug/status. No native Page existed for these 64 paths in the initial 21-object read; independent post-save and final reads verified all64 exact paths, Draft status, empty content and no duplicates. Native editor514 displayed its correct Draft/slug/Parent and standard Edit with Elementor entry. No Elementor layout was created for these native shells. Future design uses normal Elementor editing; no custom framework or metadata injection is required.
+
+**Distinct objects:** Water Extraction487 → `/water-extraction/`, parent0, Supporting service; Residential Water Damage514 → `/residential-services/water-damage/`, parent484; Commercial Water Damage515 → `/commercial-services/water-damage/`, parent499. Recommended first internal layout is 514, not487. All remain Draft and are not working public navigation destinations.
+
+All21 existing native Page fields/settings, full saved154/113/114 trees, Classes/Variables resources and Component registry are unchanged. No new Component/class/Variable/code/plugin or link edit. Eight unresolved URL decisions remain uncreated. Preserve E13 archive observations below and commit `6b53d20`: no duplicate Blog/Portfolio Page, no production template/condition changes and no historical PHP reproduction. Blog query type, title hooks and active-state/conditions/source locations remain future archive-phase work. [E14 evidence](evidence/2026-10-16-completed-page-skeleton.json).
+
+## Historical initial Draft skeleton — E12
+
+The following 21-object baseline and parent-interface blocker are superseded by E14; the earlier 15 root IDs remain valid.
+
+At E12 on 2026-10-16 native WordPress/MCP reads returned **21 Pages: 3 published and 18 Draft**. The original six remained; 15 new blank root Drafts were added. [SEO_STRUCTURE](SEO_STRUCTURE.md#created-root-drafts-and-verified-paths) lists every actual root ID/path/family; [SEO_URL_INVENTORY.csv](SEO_URL_INVENTORY.csv) is the authoritative per-URL register. All 15 root IDs were re-read after saving exact native slugs and parent 0; MCP returned empty Elementor arrays. Native page template was Default; no family layout was built or assigned.
 
 Actual IDs: Residential 484, Commercial 499, Apply 486, Water extraction 487, Board Up 488, Odor Removal 489, Moisture mapping 490, Dehumidification 491, Service Request 492, Before And After 493, Copyright 494, Service Area 495, Contact 496, About 497, Testimonials 498. Existing Privacy Policy 3 retains `privacy-policy`, parent 0 and Draft. These are future paths, not public navigation destinations. Homepage 154 stays published/front page; full saved Homepage/Header113/Footer114 trees match pre-task reads.
 
-64 nested retained Pages remain uncreated: available parent selectors exclude Drafts and the exposed connector lacks native slug/parent writes. Do not infer child IDs. 29 posts, 13 Portfolio CPT records and 30 retained archive/taxonomy routes are mapped as the correct object models, not fabricated Pages. Staging public types do not expose Portfolio. No Component, class, Variable or template change occurred.
+At E12, 64 nested retained Pages were uncreated because of the exposed parent controls; E14 has now created them through authenticated native REST and recorded real IDs. Posts29, Portfolio CPT13 and archive/index/taxonomy30 remain separately mapped, not fabricated Pages. Staging public types do not expose Portfolio. No Component, class, Variable or template change occurred in either skeleton milestone.
 
 ## Production archive observations — E13, read only
 

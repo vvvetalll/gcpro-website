@@ -10,6 +10,18 @@ These are required procedures for future authorized work, not claims that a back
 4. Before any site operation verify the connection/returned URLs target `vitaliiv1.sg-host.com`. Never modify production. An earlier chat instruction does not authorize new implementation.
 5. Read current documents, global resources, component schemas, consumers and Theme Builder conditions. Record versions and gaps; do not infer a feature from a tool name.
 
+## Native Draft Page hierarchy — E14
+
+WordPress supports `slug`, `parent` and `status` through its native [Pages REST API](https://developer.wordpress.org/rest-api/reference/pages/). Quick Edit/Gutenberg search restrictions and the limited Elementor create-page schema do not establish that WordPress disallows Draft parents.
+
+For separately authorized Page-skeleton work, E14 verified that the **existing configured same-host Basic authorization** also works with standard staging WordPress REST. Verify the target HTTPS host, a read-only authenticated Draft GET, native OPTIONS schema and required current-user capability first. Keep credentials in their existing secure configuration; never print/commit credentials or copy authentication into evidence, never extract browser runtime/session secrets, and refuse cross-host redirects. An authenticated browser page, public REST schema or installed tool alone is not proof of API write access. Do not create new credentials or change security settings as a workaround.
+
+Before creating anything, read all relevant Page statuses including Drafts/trash, reconcile exact canonical paths/source decisions, verify actual Draft parent IDs and detect collisions. Capture scoped recovery snapshots and an operation record without secrets. Create one approved child with native `POST /wp-json/wp/v2/pages`, exact approved title/slug/parent, `status=draft` and empty content. Independently GET it and verify Draft parent/full path before proceeding in controlled batches. Never blindly retry a timed-out POST; resolve its outcome by re-reading first. Do not invent flat substitutes or publish parents.
+
+Verify saved slugs and full parent chains, plus native `permalink_template` filled using the **saved slug**. Draft `generated_slug` is a title-derived suggestion and can differ from the approved saved slug; never overwrite the approved URL with it. Re-read the complete final Page set, detect duplicates/suffixes, verify unchanged prior objects/settings/layouts and noindex, and update only actual IDs/statuses in the canonical CSV. A verified intended Draft path is not a tested anonymous public route; keep navigation unresolved until authorized publication and actual route testing.
+
+This workflow introduces no website code/plugin and does not authorize internal page design, archive/CPT registration, production writes or copying historical PHP. Preserve E13's Blog/Portfolio findings and unresolved archive-phase questions. Keep a dated sanitized evidence summary and complete the normal documentation/commit/push/remote-verification gate.
+
 ## Back up before authorized implementation
 
 1. Confirm a recoverable staging backup of database and files, including uploads, themes, plugins and configuration. Record timestamp with timezone, scope, secure storage reference, backup mechanism and restore owner without exposing secrets.
