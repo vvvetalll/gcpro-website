@@ -1,0 +1,127 @@
+{
+  "before": {
+    "id": "g-b759e84",
+    "label": "service-card__icon",
+    "type": "class",
+    "variants": [
+      {
+        "meta": {
+          "breakpoint": "desktop",
+          "state": null
+        },
+        "props": {
+          "width": {
+            "$$type": "size",
+            "value": {
+              "size": 56,
+              "unit": "px"
+            }
+          },
+          "height": {
+            "$$type": "size",
+            "value": {
+              "size": 56,
+              "unit": "px"
+            }
+          },
+          "padding": {
+            "$$type": "size",
+            "value": {
+              "size": 12,
+              "unit": "px"
+            }
+          },
+          "margin": {
+            "$$type": "dimensions",
+            "value": {
+              "block-end": {
+                "$$type": "global-size-variable",
+                "value": "e-gv-ae8c2d2"
+              }
+            }
+          },
+          "border-radius": {
+            "$$type": "size",
+            "value": {
+              "size": 14,
+              "unit": "px"
+            }
+          },
+          "background": {
+            "$$type": "background",
+            "value": {
+              "color": {
+                "$$type": "global-color-variable",
+                "value": "e-gv-c987ce0"
+              }
+            }
+          }
+        },
+        "custom_css": null
+      }
+    ]
+  },
+  "after": {
+    "id": "g-b759e84",
+    "label": "service-card__icon",
+    "type": "class",
+    "variants": [
+      {
+        "meta": {
+          "breakpoint": "desktop",
+          "state": null
+        },
+        "props": {
+          "width": {
+            "$$type": "size",
+            "value": {
+              "size": 56,
+              "unit": "px"
+            }
+          },
+          "height": {
+            "$$type": "size",
+            "value": {
+              "size": 56,
+              "unit": "px"
+            }
+          },
+          "padding": {
+            "$$type": "size",
+            "value": {
+              "size": 10,
+              "unit": "px"
+            }
+          },
+          "margin": {
+            "$$type": "dimensions",
+            "value": {
+              "block-end": {
+                "$$type": "global-size-variable",
+                "value": "e-gv-ae8c2d2"
+              }
+            }
+          },
+          "border-radius": {
+            "$$type": "size",
+            "value": {
+              "size": 14,
+              "unit": "px"
+            }
+          },
+          "background": {
+            "$$type": "background",
+            "value": {
+              "color": {
+                "$$type": "global-color-variable",
+                "value": "e-gv-c987ce0"
+              }
+            }
+          }
+        },
+        "custom_css": null
+      }
+    ]
+  },
+  "onlyPaddingChanged": true
+}

@@ -1,5 +1,7 @@
 # GCPRO Core Restoration Services — original SVG proposals
 
+**Current E24 refinement:** B remains approved. Its Mold icon is now a navy spore with an orange cleaning sparkle (Media607); the previous shield remains in Git history. Existing badge class now displays artwork36px inside56px. Five other B designs unchanged. [Current deployed screenshots and technical record](../../../docs/milestones/2026-10-16-icon-refinement.md). E22 concept sheets below are historical32px/shield studies, not current deployed previews.
+
 2026-10-16 · E22 source study / E23 staging integration · **Owner selected B; its six icons now used on staging Homepage154. A remains an unused alternative.** [Attachment IDs, native import method and actual QA](../../../docs/milestones/2026-10-16-icon-b-integration.md).
 
 Twelve original, hand-authored vector assets for the six existing Service Card62 instances in Homepage154 section38ed6da4. No third-party icon library, raster tracing or generated bitmap is used. The two treatments deliberately share recognizable silhouettes so a future switch need not change service meaning.
@@ -8,7 +10,7 @@ Twelve original, hand-authored vector assets for the six existing Service Card62
 
 **A — Essential Outline:** pure single-color rounded outline. Quiet, precise and flexible. All strokes use `currentColor`; the native host should supply the existing navy icon color. Without a host color a standalone SVG/image can fall back to black. No fixed orange details.
 
-**B — Restoration Accent:** navy #1A327D structure plus selective #F05A29 orange service details, with limited filled areas. More visible brand character at small sizes; recommended for GCPRO's light service cards. Water level, ember, mold organism, repair joint/beam, lightning and packing band are the accents. Shield is a service metaphor, not a certification claim.
+**B — Restoration Accent:** navy #1A327D structure plus selective #F05A29 orange service details, with limited filled areas. Approved for GCPRO's light service cards. Water level, ember, mold cleaning sparkle, repair joint/beam, lightning and packing band are the accents. A's older shield is a service metaphor, not a certification claim.
 
 Both: `viewBox="0 0 48 48"`, transparent background,2.25-unit stroke, round caps/joins, no fixed display dimensions. SVGs contain only svg/g/path; no text, fonts, scripts, CSS, external references, filters, masks, embedded images or editor metadata. Geometry stays within a safe margin. Source part names are readable; B uses `ink`/`accent` groups and semantic path IDs. IDs are not used as CSS hooks.
 

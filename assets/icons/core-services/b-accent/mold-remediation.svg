@@ -1,8 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round">
   <g id="ink" stroke="#1A327D">
-    <path id="shield" d="M24 5 38 11v12c0 9-6 15-14 20-8-5-14-11-14-20V11Z"/>
+    <path id="mold-spore" d="M28 25a8 8 0 1 1-16 0 8 8 0 0 1 16 0Z"/>
+    <path id="spore-branches" d="M20 17v-6m5.7 8.3 4.3-4.3M28 25h6m-8.3 5.7L30 35m-10-2v6m-5.7-8.3L10 35m2-10H6m8.3-5.7L10 15"/>
+    <path id="spore-detail" d="M18 23h.01M23 27h.01"/>
   </g>
   <g id="accent" stroke="#F05A29">
-    <path id="spore" d="M28 24a4 4 0 1 1-8 0 4 4 0 0 1 8 0ZM24 16v4m0 8v4m-8-8h4m8 0h4m-13.7-5.7 2.9 2.9m5.6 5.6 2.9 2.9m0-11.4-2.9 2.9m-5.6 5.6-2.9 2.9"/>
+    <path id="cleaning-spark" d="m36 5 2 5 5 2-5 2-2 5-2-5-5-2 5-2Z"/>
   </g>
 </svg>

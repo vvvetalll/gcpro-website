@@ -1,0 +1,65 @@
+{
+  "cards": [
+    {
+      "art": 36,
+      "badge": 56,
+      "card": {
+        "h": 304.1666564941406,
+        "w": 362.6666564941406
+      },
+      "paths": 3,
+      "title": "Water Damage"
+    },
+    {
+      "art": 36,
+      "badge": 56,
+      "card": {
+        "h": 304.1666564941406,
+        "w": 362.6666564941406
+      },
+      "paths": 3,
+      "title": "Fire & Smoke Damage"
+    },
+    {
+      "art": 36,
+      "badge": 56,
+      "card": {
+        "h": 304.1666564941406,
+        "w": 362.6666564941406
+      },
+      "paths": 4,
+      "title": "Mold Remediation"
+    },
+    {
+      "art": 36,
+      "badge": 56,
+      "card": {
+        "h": 335.3611145019531,
+        "w": 362.6666564941406
+      },
+      "paths": 4,
+      "title": "Reconstruction"
+    },
+    {
+      "art": 36,
+      "badge": 56,
+      "card": {
+        "h": 335.3611145019531,
+        "w": 362.6666564941406
+      },
+      "paths": 3,
+      "title": "Storm Damage"
+    },
+    {
+      "art": 36,
+      "badge": 56,
+      "card": {
+        "h": 335.3611145019531,
+        "w": 362.6666564941406
+      },
+      "paths": 3,
+      "title": "Personal Property Restoration"
+    }
+  ],
+  "loggedIn": true
+}

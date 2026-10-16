@@ -1,0 +1,32 @@
+{
+  "status": 200,
+  "cache": "HIT",
+  "newMoldVisible": true,
+  "unchangedFiveSources": [
+    {
+      "asset": "water-damage",
+      "unchanged": true,
+      "sha256": "dcc7ab14fd46c8f5a7b9f98fa20f2546e0f65064ec86f32ba35edc533201e572"
+    },
+    {
+      "asset": "fire-smoke-damage",
+      "unchanged": true,
+      "sha256": "fec7ac752b0af8579940b5fc8cb0c362ef374e77443df53683fde16955a8c078"
+    },
+    {
+      "asset": "reconstruction",
+      "unchanged": true,
+      "sha256": "9df49dfdbb754e33f2b3b1f822c102513c6d5b13fdeb18ca3dec9de4d80193d2"
+    },
+    {
+      "asset": "storm-damage",
+      "unchanged": true,
+      "sha256": "ad6f7d47d25fa29b2bbbbd25de5bdd535d968cd8dfbfab47ba259528df125e8c"
+    },
+    {
+      "asset": "personal-property-restoration",
+      "unchanged": true,
+      "sha256": "8b76f118134e32036014053b72d4178ae83e199ab3e97a7b4d4393e35a1e5323"
+    }
+  ]
+}

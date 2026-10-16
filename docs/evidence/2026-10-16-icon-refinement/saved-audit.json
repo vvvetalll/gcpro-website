@@ -1,0 +1,7 @@
+{
+  "coreSectionOnlyMoldOverrideChanged": true,
+  "component62Unchanged": true,
+  "oldMold": 598,
+  "newMold": 607,
+  "additionalObservedDelta": "Residential section gained existing section--light (g-1834399) during the task interval. Origin not established; no authored operation requested this addition. Left intact to preserve unrelated state."
+}

@@ -1,5 +1,10 @@
 # GCPRO changelog
 
+## 2026-10-16 — Icon scale and Mold refinement — E24
+
+- Existing service-card__icon native padding12→10 gives36px artwork (+12.5%) in unchanged56px badges. Updated only B mold source to navy spore/orange cleaning sparkle and native Media607/instance Override; prior source/media preserved, five other designs unchanged. No new styles/classes/components/code/dependencies.
+- Verified anonymous1440/900/390, authenticated sizing, centered SVGs/both colors, native editability and cache HIT/current paths. Separate observed Residential section--light addition of unknown origin was preserved and documented. [E24](docs/milestones/2026-10-16-icon-refinement.md).
+
 ## 2026-10-16 — Approved B icons integrated — E23
 
 - Owner selected B. Native SVG media upload imported596–601; six Homepage154 Service Card62 icon Overrides updated independently. No component/style/structure/content/link changes, custom code, security settings or production modifications.

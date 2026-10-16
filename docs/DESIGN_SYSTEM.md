@@ -1,5 +1,7 @@
 # GCPRO design system
 
+E24: service-card__icon g-b759e84 native padding10px (previous12), same56px square/14px radius/light-blue Variable/margins; inner SVG36px, +12.5%. No transform/local/custom CSS. B Mold source now spore/cleaning sparkle; same48×48/2.25 stroke, Media607. Other five designs unchanged. [QA and editing](milestones/2026-10-16-icon-refinement.md).
+
 E23: owner selected B; navy/orange service SVGs now applied through existing instance icon Overrides on Homepage154. Media596–601, same badge classes/geometry; no new styles/components/code. Both color channels and intended fills verified in actual frontend. Source-level colors remain explicit; native per-channel color controls not claimed. [Integration/QA](milestones/2026-10-16-icon-b-integration.md).
 
 E22 **proposed, not deployed**: [original Core Services SVG family](../assets/icons/core-services/README.md), A/currentColor outline and B/navy-orange accent.48×48,2.25 rounded strokes, six service meanings per treatment. No new Global Classes/Variables/Components or site code. Use existing SVG Icon Override only after visual approval and native color/instance tests. [Study/QA](milestones/2026-10-16-core-service-icon-concepts.md).
