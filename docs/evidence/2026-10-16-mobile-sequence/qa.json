@@ -1,0 +1,571 @@
+{
+  "milestone": "E17",
+  "date": "2026-10-16",
+  "timezone": "America/Chicago",
+  "environment": "https://vitaliiv1.sg-host.com",
+  "homepage": 154,
+  "component": 582,
+  "customCode": {
+    "id": 590,
+    "title": "GCPRO / Process Timeline — Mobile Sequence",
+    "location": "elementor_body_end",
+    "priority": 10,
+    "condition": "include/singular/page/154",
+    "forcedJQuery": false,
+    "sourceExact": true
+  },
+  "nativeCapability": {
+    "triggerAvailable": "scrollIn",
+    "gap": "Exposed actions animate element transforms/opacity; no class toggle or CSS pseudo-element animation target"
+  },
+  "trigger": {
+    "api": "IntersectionObserver",
+    "threshold": 0.1,
+    "once": "unobserve after waiting -> played; retained data attribute",
+    "touchMedia": "(hover: none) and (pointer: coarse)",
+    "durationMs": 1000,
+    "stepStaggerMs": 400,
+    "secondRingStaggerMs": 160,
+    "totalMs": 2360,
+    "fill": "forwards"
+  },
+  "runs": [
+    {
+      "initial": {
+        "width": 390,
+        "height": 844,
+        "rootTop": 4279.05224609375,
+        "state": "waiting",
+        "touch": true,
+        "reduced": false,
+        "animations": [
+          "none",
+          "none",
+          "none",
+          "none"
+        ]
+      },
+      "ringDelays": [
+        [
+          "0s",
+          "0.16s"
+        ],
+        [
+          "0.4s",
+          "0.56s"
+        ],
+        [
+          "0.8s",
+          "0.96s"
+        ],
+        [
+          "1.2s",
+          "1.36s"
+        ]
+      ],
+      "samples": [
+        {
+          "sample": 0,
+          "before": [
+            0.329349,
+            0,
+            0,
+            0
+          ],
+          "after": [
+            0.455827,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sample": 1,
+          "before": [
+            0.144821,
+            0.420245,
+            0,
+            0
+          ],
+          "after": [
+            0.242621,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sample": 2,
+          "before": [
+            0.0291534,
+            0.225032,
+            0.534477,
+            0
+          ],
+          "after": [
+            0.0904213,
+            0.336924,
+            0,
+            0
+          ]
+        },
+        {
+          "sample": 3,
+          "before": [
+            0,
+            0.0783883,
+            0.317176,
+            0
+          ],
+          "after": [
+            0.00561274,
+            0.159788,
+            0.442053,
+            0
+          ]
+        },
+        {
+          "sample": 4,
+          "before": [
+            0,
+            0.00244945,
+            0.144773,
+            0.420173
+          ],
+          "after": [
+            0,
+            0.0374153,
+            0.242563,
+            0
+          ]
+        },
+        {
+          "sample": 5,
+          "before": [
+            0,
+            0,
+            0.0244387,
+            0.214317
+          ],
+          "after": [
+            0,
+            0,
+            0.0828231,
+            0.324532
+          ]
+        },
+        {
+          "sample": 6,
+          "before": [
+            0,
+            0,
+            0,
+            0.0643096
+          ],
+          "after": [
+            0,
+            0,
+            0.00185068,
+            0.141099
+          ]
+        },
+        {
+          "sample": 7,
+          "before": [
+            0,
+            0,
+            0,
+            0.000279422
+          ],
+          "after": [
+            0,
+            0,
+            0,
+            0.0272284
+          ]
+        },
+        {
+          "sample": 8,
+          "before": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "after": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "maxCircleDocumentShift": 0.000244140625,
+      "circlesStationary": true,
+      "allFinished": true,
+      "noReentryReplay": true
+    },
+    {
+      "initial": {
+        "width": 430,
+        "height": 932,
+        "rootTop": 4244.61474609375,
+        "state": "waiting",
+        "touch": true,
+        "reduced": false,
+        "animations": [
+          "none",
+          "none",
+          "none",
+          "none"
+        ]
+      },
+      "ringDelays": [
+        [
+          "0s",
+          "0.16s"
+        ],
+        [
+          "0.4s",
+          "0.56s"
+        ],
+        [
+          "0.8s",
+          "0.96s"
+        ],
+        [
+          "1.2s",
+          "1.36s"
+        ]
+      ],
+      "samples": [
+        {
+          "sample": 0,
+          "before": [
+            0.329496,
+            0,
+            0,
+            0
+          ],
+          "after": [
+            0.455994,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sample": 1,
+          "before": [
+            0.15412,
+            0.433834,
+            0,
+            0
+          ],
+          "after": [
+            0.253778,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "sample": 2,
+          "before": [
+            0.0342567,
+            0.236019,
+            0,
+            0
+          ],
+          "after": [
+            0.098336,
+            0.349583,
+            0,
+            0
+          ]
+        },
+        {
+          "sample": 3,
+          "before": [
+            0,
+            0.0513859,
+            0.269759,
+            0
+          ],
+          "after": [
+            0.000101689,
+            0.123317,
+            0.388211,
+            0
+          ]
+        },
+        {
+          "sample": 4,
+          "before": [
+            0,
+            0,
+            0.109719,
+            0.367409
+          ],
+          "after": [
+            0,
+            0.018469,
+            0.199687,
+            0.49888
+          ]
+        },
+        {
+          "sample": 5,
+          "before": [
+            0,
+            0,
+            0.0125347,
+            0.183357
+          ],
+          "after": [
+            0,
+            0,
+            0.0616549,
+            0.288417
+          ]
+        },
+        {
+          "sample": 6,
+          "before": [
+            0,
+            0,
+            0,
+            0.0513599
+          ],
+          "after": [
+            0,
+            0,
+            0.000100271,
+            0.123281
+          ]
+        },
+        {
+          "sample": 7,
+          "before": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "after": [
+            0,
+            0,
+            0,
+            0.0184806
+          ]
+        },
+        {
+          "sample": 8,
+          "before": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "after": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "maxCircleDocumentShift": 0.0001220703125,
+      "circlesStationary": true,
+      "allFinished": true,
+      "noReentryReplay": true
+    }
+  ],
+  "geometry": [
+    {
+      "width": 390,
+      "grid": "350px",
+      "overflow": false,
+      "inlineStyles": 0,
+      "fonts": [
+        "Montserrat",
+        "Montserrat",
+        "Montserrat",
+        "Montserrat"
+      ],
+      "connectorCenterErrors": [
+        0,
+        0,
+        0
+      ],
+      "connectorEndErrors": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "width": 430,
+      "grid": "390px",
+      "overflow": false,
+      "inlineStyles": 0,
+      "fonts": [
+        "Montserrat",
+        "Montserrat",
+        "Montserrat",
+        "Montserrat"
+      ],
+      "connectorCenterErrors": [
+        0,
+        0,
+        0
+      ],
+      "connectorEndErrors": [
+        0,
+        0,
+        0.00006103515625
+      ]
+    }
+  ],
+  "reducedMotion": [
+    {
+      "width": 390,
+      "reduced": true,
+      "state": null,
+      "pseudoContents": [
+        [
+          "none",
+          "none"
+        ],
+        [
+          "none",
+          "none"
+        ],
+        [
+          "none",
+          "none"
+        ],
+        [
+          "none",
+          "none"
+        ]
+      ],
+      "animations": [
+        "none",
+        "none",
+        "none",
+        "none"
+      ]
+    },
+    {
+      "width": 430,
+      "reduced": true,
+      "state": null,
+      "pseudoContents": [
+        [
+          "none",
+          "none"
+        ],
+        [
+          "none",
+          "none"
+        ],
+        [
+          "none",
+          "none"
+        ],
+        [
+          "none",
+          "none"
+        ]
+      ],
+      "animations": [
+        "none",
+        "none",
+        "none",
+        "none"
+      ]
+    }
+  ],
+  "desktop": {
+    "initial": {
+      "width": 1440,
+      "height": 900,
+      "rootTop": 2692.138916015625,
+      "state": null,
+      "touch": false,
+      "reduced": false,
+      "animations": [
+        "none",
+        "none",
+        "none",
+        "none"
+      ]
+    },
+    "hover": {
+      "after": {
+        "animation": "gcpro-process-ripple",
+        "border": "rgb(240, 90, 41)",
+        "content": "\"\"",
+        "delay": "0.16s",
+        "duration": "1s",
+        "iterations": "1",
+        "opacity": "0.47008",
+        "pointerEvents": "none",
+        "transform": "matrix(1.07992, 0, 0, 1.07992, 0, 0)"
+      },
+      "before": {
+        "animation": "gcpro-process-ripple",
+        "border": "rgb(240, 90, 41)",
+        "content": "\"\"",
+        "delay": "0s",
+        "duration": "1s",
+        "iterations": "1",
+        "opacity": "0.341952",
+        "pointerEvents": "none",
+        "transform": "matrix(1.20805, 0, 0, 1.20805, 0, 0)"
+      },
+      "bg": "rgb(20, 40, 98)",
+      "docX": 141.7777862548828,
+      "docY": 2692.1389770507812,
+      "h": 64,
+      "outline": "none",
+      "parentHover": true,
+      "selfHover": false,
+      "transform": "none",
+      "w": 64,
+      "width": 1440
+    }
+  },
+  "integrity": {
+    "savedHomepageUnchanged": true,
+    "savedComponentUnchanged": true,
+    "themeByteIdentical": true,
+    "sourceCSSAndJSMatch": true,
+    "nativeEditorContentOverrides": 12,
+    "nativeEditorPublishEnabled": false,
+    "negativeControlPage2": {
+      "codePresent": false,
+      "stylePresent": false,
+      "title": "Sample Page – GCPRO Restoration"
+    }
+  },
+  "additions": {
+    "files": [
+      "integrations/process-timeline-mobile.css",
+      "integrations/process-timeline-mobile.js"
+    ],
+    "globalClasses": 0,
+    "globalVariables": 0,
+    "atomicComponents": 0,
+    "contentWrappers": 0,
+    "plugins": 0,
+    "dependencies": 0,
+    "runtimeAttribute": "data-gcpro-ripple"
+  },
+  "limits": [
+    "Browser touch/reduced-motion emulation, not physical device or screen-reader testing",
+    "No performance benchmark",
+    "Reduced-motion tested on initial page loads; no cross-session persistence intended"
+  ]
+}

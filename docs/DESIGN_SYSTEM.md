@@ -1,5 +1,9 @@
 # GCPRO design system
 
+## Touch sequence — E17, 2026-10-16
+
+Desktop E16 rules unchanged. On hover:none/pointer:coarse/no-reduced-motion, [mobile CSS](../integrations/process-timeline-mobile.css) reuses `gcpro-process-ripple` with step delays0/400/800/1200ms and second-ring+160ms. It applies only after native Custom Code590's observer sets `data-gcpro-ripple="played"` on the existing root. Before that, no rings are generated. Mobile uses forwards fill so future delayed rings remain invisible. Pseudo-element geometry is explicitly touch-gated because E16's equivalent definitions are fine-pointer-only; no theme refactoring or duplicated base typography/layout tokens. Same2px accent-token rings; no new Atomic Class/Variable/Component. [Controls, native gap and QA](milestones/2026-10-16-mobile-sequence.md).
+
 ## Process ripple — E16, 2026-10-16
 
 Supersedes only E15's static hover outline: existing client CSS block now uses `.process-timeline__number::before/::after`, triggered by `.process-timeline__step:hover`, and scoped keyframes `gcpro-process-ripple`. Two **2px** orange rings expand/fade once,1000ms duration/160ms stagger, without transforming the circle. Generation/animation requires fine hover pointer and no reduced-motion preference; reduced motion also disables the existing native background transition. Classes87/Variables36 and Component582 remain unchanged. [Native gap, exact CSS, editing and QA](milestones/2026-10-16-process-ripple.md); no Elementor Custom CSS or shared starter edits.

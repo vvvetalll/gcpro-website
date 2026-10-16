@@ -1,6 +1,14 @@
 # GCPRO project context
 
-Last reviewed: 2026-10-16 (America/Chicago). Current implementation: Homepage How We Work timeline with whole-step water-ripple hover (E16), awaiting visual approval. Approved SEO Page skeleton E14 and E13 archive findings remain preserved. Earlier implementation records below remain dated history.
+Last reviewed: 2026-10-16 (America/Chicago). Current implementation: Homepage timeline mobile viewport sequence (E17), preserving desktop ripple E16. Approved SEO Page skeleton E14 and E13 archive findings remain preserved. Earlier implementation records below remain dated history.
+
+## Mobile timeline viewport sequence — E17
+
+Added one native **Elementor Custom Code590**, `GCPRO / Process Timeline — Mobile Sequence`, body-end/priority10, native Include → Singular → Pages → **154**. Existing native scrollIn actions cannot target the CSS pseudo-element pair or toggle its state without animating actual elements/adding markup. The owner explicitly permits minimal IntersectionObserver for that gap. Code590 contains the two canonical client sources [CSS](integrations/process-timeline-mobile.css) and [JS](integrations/process-timeline-mobile.js); no theme/PHP/shared ROBYLO changes, plugin or forced jQuery.
+
+Touch/coarse-pointer only, no reduced motion: one observer waits until at least10% of `.process-timeline` is visible, marks `data-gcpro-ripple` waiting→played and unobserves it. Existing `gcpro-process-ripple` keyframes run once with step starts0/400/800/1200ms; second ring+160ms, duration1000ms per ring, whole sequence2360ms. Mobile forwards fill keeps later rings invisible before their delay. Circles and connector remain stationary. No new Atomic Classes/Variables/Components or content wrappers.
+
+Actual390/430px touch checks: waiting below viewport, ordered visible rings, complete fade and no replay after leave/re-entry, no overflow; reduced-motion loads produce no observer marker/rings. Desktop1440 hover unchanged; theme text matches E16 exactly. Code590 saved source matches repository files and is absent on control Page2. Actual Elementor shows all12 content controls; saved Homepage154/Component582 trees unchanged. [E17 editing, limits, evidence and rollback](docs/milestones/2026-10-16-mobile-sequence.md). Physical-device/screen-reader/performance benchmarks were not run; visual approval pending.
 
 ## Process ripple refinement — E16
 
@@ -117,6 +125,7 @@ Use these labels throughout the documentation. Observed facts are limited to the
 
 | Ref | Source and date | What it establishes / limits |
 | --- | --- | --- |
+| E17 | Native Custom Code590 condition/source readback; actual IAB390/430 touch sequence samples, leave/re-entry and reduced motion;1440 desktop hover; native editor12 controls and unchanged saved154/582 trees; [evidence](docs/evidence/2026-10-16-mobile-sequence/qa.json) | Viewport-gated one-shot sequence, exact source/page154 scope, no overflow/circle shift, unchanged desktop/theme. Browser emulation, not physical-device/screen-reader/performance testing. |
 | E16 | Exact native Theme File Editor save/readback, IAB whole-step pointer and pseudo-element computed styles, completion/re-entry, reduced motion, touch and1440/1200/900/390 checks; [evidence](docs/evidence/2026-10-16-process-ripple/qa.json) | Two1000ms/160ms one-shot rings, final2px stroke, unchanged circle geometry/DOM and responsive timeline. Browser emulation; no physical-device/screen-reader/performance benchmark. |
 | E15 | Native Elementor saved trees/classes; actual IAB geometry at1440/1200/900/390, native override edit/restore, real parent-hover pointer test, reduced-motion/touch emulation and exact native Theme File Editor readback; [evidence](docs/evidence/2026-10-16-process-timeline.json) | Reusable timeline582, four new native classes, preserved original content/other eight sections/Feature65/Header/Footer; approved minimal external hover exception. No production, shared starter source, service-page design, physical device, screen-reader or performance benchmark. |
 | E14 | Native authenticated staging Pages GET/OPTIONS/POST, capability read, private scoped before/after Page/settings snapshots, full preserved-resource reads, actual editor514/Reading UI and anonymous robots meta; [evidence](docs/evidence/2026-10-16-completed-page-skeleton.json) | 64 created child Drafts/paths, all81 approved Page mappings, unchanged previous21 Pages/layouts/global resources and noindex; preserved200/207 audit/8 holds/E13 archive findings. No public route-resolution, page design, publishing, link implementation, production changes, archive-source resolution or full DB/files restore test. |

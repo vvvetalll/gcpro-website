@@ -1,5 +1,11 @@
 # GCPRO architecture
 
+## Client-only viewport integration — E17
+
+Existing Elementor Pro Custom Code provides a centralized client-owned deployment location without editing ROBYLO: **590**, body-end/priority10, native Page154 display condition. Canonical [CSS](../integrations/process-timeline-mobile.css)/[JS](../integrations/process-timeline-mobile.js) are pasted together into that one documented native code entry; no HTML widget, widget Custom CSS, inline style attribute, PHP hook, extra plugin or forced jQuery. Native scrollIn cannot trigger the existing pseudo-elements, so the explicitly permitted minimal IntersectionObserver sets one runtime data attribute and unobserves after entry. Content/Atomic configuration remains native; this decorative exception is intentionally edited in Code590/source rather than hidden in visual controls.
+
+Desktop theme CSS/keyframes remain byte-identical to E16. Mobile uses the same keyframe and accent token under mutually exclusive touch/reduced-motion media gates. No new framework, theme override or automatic deployment is introduced. [Exact scope/editing/recovery](milestones/2026-10-16-mobile-sequence.md).
+
 E16 refinement,2026-10-16: the same owner-authorized client CSS exception now supplies two one-shot ripple pseudo-elements, rather than a static outline. No DOM/PHP/enqueue/shared-source changes. [E16 scope, editing and rollback](milestones/2026-10-16-process-ripple.md) supersedes only E15's hover treatment below.
 
 ## Verified staging theme and scoped exception — E15, 2026-10-16
@@ -41,7 +47,7 @@ Header and Footer are separate Theme Builder documents, not sections owned by Ho
 
 ## Runtime and transfer limits
 
-The GCPRO baseline has no application code, dependency manifest, local WordPress runtime, CI or deployment configuration. Do not invent build/test commands for it.
+The initial GCPRO baseline had no application code. E15/E16 added a narrowly authorized theme CSS exception; E17 adds two client integration sources deployed through native Custom Code590. There is still no dependency manifest, local WordPress runtime, CI or automatic deployment configuration. Do not invent build/test commands for it.
 
 A theme ZIP does not include Elementor variables, classes, defaults, Components, templates, content, media, or database state. A supported export/import workflow and a restore test must be verified independently before treating a configuration as portable. No synchronization or deployment automation is established here.
 

@@ -34,6 +34,12 @@ No backup or restore procedure was executed during documentation initialization.
 
 ## Edit through Elementor
 
+### Authorized client Custom Code exception — E17
+
+For the specifically authorized mobile process sequence, use existing native **Elementor → Editor → Custom Elements → Code**, entry590. Keep the client CSS/JS canonical in `integrations/process-timeline-mobile.css` and `.js`; combine them in one `<style id="gcpro-process-mobile-style">` and one `<script id="gcpro-process-mobile-sequence">` block in that existing entry. Location body-end, priority10, native condition Include → Singular → Pages → existing Homepage154; leave Always load jQuery unchecked. Do not create another entry or put code in page widgets/Custom CSS/theme PHP. This is a narrow documented exception, not blanket permission for future snippets.
+
+After source edits, update590 through standard controls, reload/read its `code` field and verify exact source plus condition/location. Test actual frontend on coarse-touch390/430 from the page top: waiting below timeline, entry, staggered fade, leave/re-entry, reduced motion and desktop hover; verify unaffected page does not load the entry. Native content/layout controls remain in Component582, while integration timing/threshold/media gates are explicitly in these files. Git does not deploy the entry automatically. Set590 to Draft to disable only the mobile addition; desktop E16 theme CSS remains intact. See [E17](milestones/2026-10-16-mobile-sequence.md) for evidence and limits.
+
 1. Reuse native controls and existing global values/classes. Use a Component for a reusable structure and supported overrides for individual content. Discover actual permissions and schemas first.
 2. Make the smallest scoped change. Record affected page/component/element IDs and whether a change affects all instances.
 3. Use fresh saved structure; do not send stale trees after composition or another writer's changes. Keep writes sequential for a document and read back after each meaningful save.

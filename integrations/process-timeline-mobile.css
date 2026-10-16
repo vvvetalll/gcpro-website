@@ -1,0 +1,25 @@
+/* GCPRO: mobile addition only. Desktop rules/keyframes remain in the theme unchanged. */
+@media (hover: none) and (pointer: coarse) and (prefers-reduced-motion: no-preference) {
+  .process-timeline[data-gcpro-ripple="played"] .process-timeline__number::before,
+  .process-timeline[data-gcpro-ripple="played"] .process-timeline__number::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border: 2px solid var(--color-accent);
+    border-radius: inherit;
+    pointer-events: none;
+    opacity: 0;
+    animation: gcpro-process-ripple 1000ms ease-out 1 forwards;
+  }
+
+  .process-timeline[data-gcpro-ripple="played"] .process-timeline__number::after {
+    animation-delay: 160ms;
+  }
+
+  .process-timeline[data-gcpro-ripple="played"] > .process-timeline__step:nth-child(2) > .process-timeline__number::before { animation-delay: 400ms; }
+  .process-timeline[data-gcpro-ripple="played"] > .process-timeline__step:nth-child(2) > .process-timeline__number::after { animation-delay: 560ms; }
+  .process-timeline[data-gcpro-ripple="played"] > .process-timeline__step:nth-child(3) > .process-timeline__number::before { animation-delay: 800ms; }
+  .process-timeline[data-gcpro-ripple="played"] > .process-timeline__step:nth-child(3) > .process-timeline__number::after { animation-delay: 960ms; }
+  .process-timeline[data-gcpro-ripple="played"] > .process-timeline__step:nth-child(4) > .process-timeline__number::before { animation-delay: 1200ms; }
+  .process-timeline[data-gcpro-ripple="played"] > .process-timeline__step:nth-child(4) > .process-timeline__number::after { animation-delay: 1360ms; }
+}

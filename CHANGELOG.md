@@ -1,5 +1,11 @@
 # GCPRO changelog
 
+## 2026-10-16 — Touch timeline viewport sequence — E17
+
+- Added native Elementor Custom Code590, body-end/priority10, bound through native Page selector to Homepage154 only. Canonical client sources: `integrations/process-timeline-mobile.css` and `.js`; no theme/shared ROBYLO/PHP changes or additional plugin/jQuery.
+- Minimal IntersectionObserver starts the existing two-ring ripple once at10% timeline visibility, then unobserves. Touch/coarse-pointer and no-reduced-motion only. Steps stagger400ms; each ring1000ms with160ms second-ring delay; all finish by2360ms. No circle movement, content change, new Atomic resources or DOM wrappers.
+- Verified390/430: no premature animation below viewport, actual01→04 progression, fade completion and no replay on re-entry, reduced-motion suppression, continuous connectors and no overflow. Desktop1440 hover/theme CSS unchanged. Saved154/582 trees match; actual editor retains12 content fields. [E17](docs/milestones/2026-10-16-mobile-sequence.md) records exact deployment/editing/rollback and evidence.
+
 ## 2026-10-16 — Whole-step ripple hover — E16
 
 - Updated the existing approved `theme-overrides/process-timeline.css` block deployed in staging ROBYLO `assets/css/fallback.css`: replaced static outline with two expanding/fading orange pseudo-element rings,1000ms each/160ms stagger, one iteration per hover entry. Final owner adjustment increases ring stroke1→2px.

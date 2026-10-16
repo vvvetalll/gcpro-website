@@ -1,5 +1,9 @@
 # GCPRO Elementor map
 
+## Mobile process integration — E17
+
+**Custom Code590** (`elementor_snippet`, not a Page or Atomic Component), title **GCPRO / Process Timeline — Mobile Sequence**, Published on staging. Location `elementor_body_end`, priority10, forced jQuery unchecked; native Include/Singular/Page154 condition. [Edit590](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=590&action=edit). This single entry contains the canonical integrations/process-timeline-mobile.css and .js; it adds only a runtime waiting→played data attribute to Component582's rendered root. No stored154/582 elements,12 overrides, classes, links or templates changed. Actual editor still displays all12 fields. [Deployment/QA/recovery](milestones/2026-10-16-mobile-sequence.md).
+
 E16,2026-10-16: existing Homepage154 Process Timeline582/instance79a67ca3 retains the exact E15 native structure/overrides. The approved external hover block now produces two pseudo-element ripple rings; no Elementor element, class, Variable or Component was added/changed. [Source/deployed CSS and verification](milestones/2026-10-16-process-ripple.md). E15 static-outline descriptions are dated history.
 
 ## Homepage process timeline — E15, 2026-10-16
