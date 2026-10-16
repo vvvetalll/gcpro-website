@@ -1,5 +1,9 @@
 # GCPRO project context
 
+## Current visual trial — E29: alternate Residential photo
+
+2026-10-16: owner requested From Concept to Completion.jpg for Residential. Existing Image295bf90e now selects new Media621, optimized1440px square WebP395,462 bytes with descriptive alt; Commercial616 unchanged. Reuses E28 native4:3 centered presentation, no style/structure/text/link change, new classes/components/code/Variables/dependencies. Full Homepage saved-tree comparison shows only this attachment reference changed. Anonymous1440/1200/900/390 after cache purge passes; [E29 evidence/editing/recovery](docs/milestones/2026-10-16-audience-card-images.md#e29--alternate-residential-photograph-trial). Prior Media615 retained for easy reversal. Visual approval pending; E27 copy still unimplemented.
+
 ## Current visual trial — E28: Residential / Commercial photographs
 
 2026-10-16: Homepage154 audience cards now use owner-approved residential-house and downtown-Chicago truck images, native Media615/616 and Atomic Images295bf90e/27ec40d5. Shared4:3 cover/center framing preserves vehicles/logos better than a shallow panoramic presentation; both original square compositions remain available in optimized1440px WebP files. Existing card bodies, copy, arrows, links, borders/corners and other sections are unchanged. One necessary native Global Class audience-card__image g-77c2a17 replaces placeholder presentation without changing shared placeholders; no new Components, Variables, custom code or dependencies. Anonymous1440/1200/900/390 and native editor checks completed after staging cache purge. [E28 assets, controls, QA and recovery](docs/milestones/2026-10-16-audience-card-images.md). Visual trial awaits owner approval; E27 copy remains unapproved/unimplemented.

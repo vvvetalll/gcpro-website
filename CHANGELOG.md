@@ -1,5 +1,10 @@
 # GCPRO changelog
 
+## 2026-10-16 — Alternate Residential photo trial — E29
+
+- Homepage154 existing native Image295bf90e changes attachment615→621 using the owner's From Concept to Completion.jpg; Commercial616, all styles, structures, copy and links unchanged. Optimized1440×1440 WebP386KiB, descriptive native alt, original and earlier Media615 retained.
+- Reused E28 class/presentation; no new classes, Components, Variables, code or dependencies. Anonymous1440/1200/900/390 after staging cache purge and native editor image controls verified. [E29 evidence and reversal](docs/milestones/2026-10-16-audience-card-images.md#e29--alternate-residential-photograph-trial); visual approval pending, no physical-device/incognito test.
+
 ## 2026-10-16 — Audience-card photograph trial — E28
 
 - Uploaded two owner-approved1440×1440 WebPs (Media615/616), descriptive alt text; replaced only the audience placeholder labels with native Atomic Images on154. Shared4:3 native cover/center presentation, existing card geometry/body/copy/arrows/destinations preserved.

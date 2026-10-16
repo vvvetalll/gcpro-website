@@ -1,5 +1,7 @@
 # E28 — Residential / Commercial photograph trial
 
+E29 below supersedes only the Residential attachment; E28 describes the original paired-image trial.
+
 2026-10-16, America/Chicago. Authorized staging only: vitaliiv1.sg-host.com, Homepage154. Visual trial; owner approval pending. E27 copy proposal was not implemented.
 
 ## Implementation Summary
@@ -42,3 +44,13 @@ Assets, this milestone, PROJECT_CONTEXT, CHANGELOG, DESIGN_SYSTEM and ELEMENTOR_
 Owner visual approval pending; no final image acceptance or marketing-copy approval implied. Physical-device/incognito and formal performance/CLS checks not run. Existing category # destinations remain pending approved public objects.
 
 Scoped before/after Homepage154 and audience JSON snapshots are outside Git at project outputs/recovery/homepage154-before-images.json, homepage154-after-images.json and audience-images-before.json. They are configuration recovery references, not a full site backup or tested restore. Originals remain untouched in Downloads. To reverse, remove only the two new image children, restore the two original paragraph labels and photo-frame classes from the scoped snapshot using native Elementor controls, save/publish staging, purge cache and recheck anonymous output. Restore photo aspect ratio centrally in audience-card__image if only the trial framing is rejected. Keep Media615/616 available; do not permanently delete assets or remove a class while used.
+
+## E29 — Alternate Residential photograph trial
+
+2026-10-16, America/Chicago. Owner requested the supplied From Concept to Completion.jpg as a Residential visual trial. Uploaded native Media621, GCPRO Residential Pickup Outside House, descriptive alt in [asset register](../../assets/images/homepage/README.md). Existing Image295bf90e selects621 instead of615; Full resolution/native srcset. Shared class audience-card__image,4:3 cover/center and all other settings retained. Separately inspected framing: full main pickup, wheels/logo and house remain visible. Source's embedded vertical lettering remains part of the photograph; no new overlay or image editing beyond resize/compression.
+
+**Complexity:** No new classes, components or custom code. No new Variables/plugins/dependencies, DOM or styling changes. Full saved Homepage tree/node-count comparison shows only Image295bf90e attachment reference changed; Commercial616/27ec40d5 and all other nodes match baseline. Existing # destinations preserved and still unresolved. Existing Media615 retained; source JPG unchanged. OptimizedWebP1440×1440,395,462 bytes versus1,437,882 original.
+
+**Verification:** native staging cache toolbar purge, anonymous ordinary Chrome frontend at1440/1200/900/390; both images loaded, equal card heights554.13/548.38/487.46/430.02px, same4:3 frames, no horizontal overflow, rounded corners/body/copy/arrows preserved. Native editor image controls rechecked; authenticated frontend shows621 and new alt. Desktop/mobile emulation, not physical-device/incognito, screen-reader or formal CLS/performance test. Evidence: [1440](../evidence/E29/1440.jpg), [1200](../evidence/E29/1200.jpg), [900](../evidence/E29/900.jpg), [390](../evidence/E29/390.jpg), [measurements](../evidence/E29/verification.json). Initial desktop capture preceded stable screenshot rendering and was replaced by the settled pair view.
+
+**Editing/reversal:** Homepage154 → Residential Restoration Photo → General → Content → Select image. Choose retained Media615 to restore E28's truck-group image; no class/layout change needed. Scoped fresh Homepage snapshot before this change is outside Git at project outputs/recovery/homepage154-before-pickup.json; not a full backup/tested restore. Staging only; no production/shared ROBYLO changes. Visual approval pending. Documentation/assets/evidence committed to gcpro-website/main; final report records push/remote SHA.

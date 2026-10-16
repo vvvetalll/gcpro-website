@@ -1,5 +1,7 @@
 # Homepage audience photograph trial — E28
 
+**E29 current Residential trial:** [gcpro-residential-pickup-house.webp](gcpro-residential-pickup-house.webp), supplied From Concept to Completion.jpg (1920×1920,1,437,882 bytes). Native Media621 / existing Image295bf90e replaces615; prior file/media below retained. Delivery1440×1440, WebP82/method6,395,462 bytes (~72.5% smaller), no retouching/destructive crop. Alt: GCPRO branded pickup truck parked in the driveway of a two-story house. Same4:3 cover/center presentation; full pickup/logo visible. Embedded source text is part of the supplied image, not an added website overlay. Commercial616 unchanged; visual approval pending.
+
 Owner supplied and approved these images for a staging visual trial, 2026-10-16. They are scene illustrations, not evidence of a completed restoration project, office location or customer result. Final visual approval is pending.
 
 | Asset | Source filename | Media / Atomic Image | Alt text |
