@@ -1,0 +1,245 @@
+[
+  {
+    "id": "g-02b63b3",
+    "label": "hero-media--mobile",
+    "type": "class",
+    "variants": [
+      {
+        "meta": {
+          "breakpoint": "mobile",
+          "state": null
+        },
+        "props": {
+          "display": {
+            "$$type": "string",
+            "value": "flex"
+          }
+        },
+        "custom_css": null
+      },
+      {
+        "meta": {
+          "breakpoint": "desktop",
+          "state": null
+        },
+        "props": {
+          "display": {
+            "$$type": "string",
+            "value": "none"
+          }
+        },
+        "custom_css": null
+      }
+    ]
+  },
+  {
+    "id": "g-708f717",
+    "label": "hero--panorama",
+    "type": "class",
+    "variants": [
+      {
+        "meta": {
+          "breakpoint": "mobile",
+          "state": null
+        },
+        "props": {
+          "background": {
+            "$$type": "background",
+            "value": {
+              "background-overlay": {
+                "$$type": "background-overlay",
+                "value": [
+                  {
+                    "$$type": "background-gradient-overlay",
+                    "value": {
+                      "type": {
+                        "$$type": "string",
+                        "value": "linear"
+                      },
+                      "stops": {
+                        "$$type": "gradient-color-stop",
+                        "value": [
+                          {
+                            "$$type": "color-stop",
+                            "value": {
+                              "color": {
+                                "$$type": "color",
+                                "value": "#1A327D"
+                              },
+                              "offset": {
+                                "$$type": "number",
+                                "value": 0
+                              }
+                            }
+                          },
+                          {
+                            "$$type": "color-stop",
+                            "value": {
+                              "color": {
+                                "$$type": "color",
+                                "value": "#1A327D"
+                              },
+                              "offset": {
+                                "$$type": "number",
+                                "value": 100
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "angle": {
+                        "$$type": "number",
+                        "value": 90
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "custom_css": null
+      },
+      {
+        "meta": {
+          "breakpoint": "desktop",
+          "state": null
+        },
+        "props": {
+          "background": {
+            "$$type": "background",
+            "value": {
+              "background-overlay": {
+                "$$type": "background-overlay",
+                "value": [
+                  {
+                    "$$type": "background-gradient-overlay",
+                    "value": {
+                      "type": {
+                        "$$type": "string",
+                        "value": "linear"
+                      },
+                      "stops": {
+                        "$$type": "gradient-color-stop",
+                        "value": [
+                          {
+                            "$$type": "color-stop",
+                            "value": {
+                              "color": {
+                                "$$type": "color",
+                                "value": "#1A327D"
+                              },
+                              "offset": {
+                                "$$type": "number",
+                                "value": 0
+                              }
+                            }
+                          },
+                          {
+                            "$$type": "color-stop",
+                            "value": {
+                              "color": {
+                                "$$type": "color",
+                                "value": "#1A327D"
+                              },
+                              "offset": {
+                                "$$type": "number",
+                                "value": 24
+                              }
+                            }
+                          },
+                          {
+                            "$$type": "color-stop",
+                            "value": {
+                              "color": {
+                                "$$type": "color",
+                                "value": "rgba(26,50,125,0.88)"
+                              },
+                              "offset": {
+                                "$$type": "number",
+                                "value": 38
+                              }
+                            }
+                          },
+                          {
+                            "$$type": "color-stop",
+                            "value": {
+                              "color": {
+                                "$$type": "color",
+                                "value": "rgba(26,50,125,0)"
+                              },
+                              "offset": {
+                                "$$type": "number",
+                                "value": 63
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      "angle": {
+                        "$$type": "number",
+                        "value": 90
+                      }
+                    }
+                  },
+                  {
+                    "$$type": "background-image-overlay",
+                    "value": {
+                      "image": {
+                        "$$type": "image",
+                        "value": {
+                          "src": {
+                            "$$type": "image-src",
+                            "value": {
+                              "id": {
+                                "$$type": "image-attachment-id",
+                                "value": 633
+                              },
+                              "url": null
+                            }
+                          },
+                          "size": {
+                            "$$type": "string",
+                            "value": "full"
+                          }
+                        }
+                      },
+                      "size": {
+                        "$$type": "background-image-size-scale",
+                        "value": {
+                          "width": {
+                            "$$type": "size",
+                            "value": {
+                              "size": null,
+                              "unit": "auto"
+                            }
+                          },
+                          "height": {
+                            "$$type": "size",
+                            "value": {
+                              "size": 100,
+                              "unit": "%"
+                            }
+                          }
+                        }
+                      },
+                      "position": {
+                        "$$type": "string",
+                        "value": "center right"
+                      },
+                      "repeat": {
+                        "$$type": "string",
+                        "value": "no-repeat"
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "custom_css": null
+      }
+    ]
+  }
+]

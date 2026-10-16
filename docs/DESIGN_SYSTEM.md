@@ -1,5 +1,9 @@
 # GCPRO design system
 
+## Desktop photographic Hero — E32
+
+Native hero--panorama g-708f717 supplies Media633/Full background, auto width/100% height, center-right/no-repeat, one horizontal navy fade. No vertical/top fade. Mobile≤767 uses solid navy native layer to replace desktop background; empty native array did not reliably clear inheritance. hero-media--mobile g-02b63b3 hides only the existing placeholder above mobile, native flex below. Existing geometry/tokens/components unchanged; both classes custom_css:null. [Native editing, rationale and evidence](milestones/2026-10-16-desktop-hero-background.md).
+
 ## Current audience photo presentation — E31
 
 Existing audience-card__image g-77c2a17 uses native16:9 (supersedes historical4:3 below), same cover/center/full-width rules. Final images1152×648 match the frame with no default composition crop. No new design resource in E31. Existing E30 hover uses native280ms transitions plus scoped parent→child CSS in audience-card Global Class; [exact location, source mirror and motion limitation](milestones/2026-10-16-final-audience-images.md#e30-carryover--existing-audience-hover-documented-without-new-deployment). No theme/shared-repository change.

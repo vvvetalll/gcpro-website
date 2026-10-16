@@ -1,5 +1,9 @@
 # GCPRO project context
 
+## Current Hero visual review — E32
+
+Homepage154 Hero a62cdd3 now uses native background Media633,1983×793 WebP198KB; original632 preserved. Owner direction: image fits section height, **no top gradient**; only horizontal navy blend remains. Existing1200px container/copy/CTA/structure unchanged; placeholder17c26181 hidden desktop/tablet, restored mobile. Two justified native classes hero--panorama g-708f717 and hero-media--mobile g-02b63b3; no custom code/new Components/Variables/dependencies. Anonymous1440/1200/1024/390 cache-refreshed checks; mobile geometry matches baseline. [Controls, evidence, crop limitations and recovery](docs/milestones/2026-10-16-desktop-hero-background.md). Await visual approval; mobile image deferred, physical/incognito/performance benchmark untested.
+
 ## Current visual review — E31: final wide audience photographs
 
 Homepage154 final supplied images use original JPG Media627/628 plus optimized WebP629/630 at1152×648,167/134KB. Native Images295bf90e/27ec40d5 replace621/616. Existing audience-card__image ratio is now16:9 rather than4:3; all other card styling/copy/links preserved. No new classes/components/custom code/Variables/dependencies in E31. Anonymous1440/1200/900/390 after staging cache purge and actual native editor controls verified; no incognito/physical test. [E31 evidence/editing/recovery](docs/milestones/2026-10-16-final-audience-images.md). Earlier E30 hover source/documentation also synchronized, without new deployment: native Global Class CSS exception and reduced-motion static-zoom limitation explicitly recorded there. Visual approval pending; earlier E28/E29 image records below are historical.

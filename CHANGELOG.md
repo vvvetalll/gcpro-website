@@ -1,5 +1,10 @@
 # GCPRO changelog
 
+## 2026-10-16 — Desktop Hero photograph — E32
+
+- Existing Homepage154 Hero uses optimized1983×793 WebP633 (198KB), original PNG632 preserved. Native height-fit auto/100%, center-right, horizontal navy blend only; owner rejected the top/vertical fade and it has been removed. No forced Hero height or copy/CTA changes.
+- Two native Global Classes hero--panorama / hero-media--mobile isolate background and placeholder visibility; no new Components/Variables/custom code/dependencies. Anonymous1440/1200/1024/390 after staging cache purge; mobile measured geometry unchanged. [Evidence, editing and limitations](docs/milestones/2026-10-16-desktop-hero-background.md). Visual approval pending; physical/incognito/LCP benchmark not performed.
+
 ## 2026-10-16 — Final wide audience photographs — E31
 
 - Homepage154 native Images295bf90e/27ec40d5 now use final WebP629/630,1152×648 (167/134KB); original JPG627/628 preserved. Existing audience-card__image native ratio4:3→16:9 preserves composition and reduces frame height25%; only two source settings changed in the saved Homepage tree.

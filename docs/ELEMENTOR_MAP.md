@@ -1,5 +1,7 @@
 # GCPRO Elementor map
 
+E32 Homepage154 Hero a62cdd3 gains native hero--panorama g-708f717, Media633/Full; original632 preserved. Existing placeholder17c26181 gains hero-media--mobile g-02b63b3, retained on mobile. Existing145-node tree unchanged except these two class assignments. Edit Hero → Style → hero--panorama → Background image/gradient, Size/Position; mobile state separate. No top fade or new code; height-fit introduces horizontal crop on narrower desktops. [Evidence/recovery](milestones/2026-10-16-desktop-hero-background.md).
+
 E31 current mapping: Homepage154 Images295bf90e/27ec40d5 → WebP629/630, Full; preserved source JPG627/628. Existing audience-card__image g-77c2a17 native ratio16:9 supersedes4:3. Only two image source settings changed in Homepage tree; body/links/structure unchanged. Edit normal Image Content controls. Existing E30 parent-hover CSS lives in Global Class audience-card g-38b29fb normal Custom CSS, source mirror integrations/audience-card-hover.css, not separately enqueued. [Current evidence, controls and recovery](milestones/2026-10-16-final-audience-images.md).
 
 E29 supersedes only E28 Residential media: existing native Image295bf90e on154 now selects attachment621, GCPRO Residential Pickup Outside House, Full. Previous615 retained; Commercial Image27ec40d5/Media616 unchanged. Same audience-card__image/native4:3 cover-center, no node/class/style/link changes. [Source/editing/recovery](milestones/2026-10-16-audience-card-images.md#e29--alternate-residential-photograph-trial).

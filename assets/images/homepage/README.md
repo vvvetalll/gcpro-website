@@ -1,5 +1,9 @@
 # Homepage audience photograph trial — E28
 
+## Desktop Hero — E32
+
+[gcpro-chicago-hero-desktop.webp](gcpro-chicago-hero-desktop.webp),1983×793,198,202 bytes, WebP84/method6. Source supplied fe704d1c-951d-4ed2-beba-4aec30fc25cd.png,2,252,689 bytes; original uploaded Media632, WebP633. No resize/upscale/crop/AI edit. Native background object633, Full, auto/100% height center-right, horizontal blend; no top gradient. Alt metadata: GCPRO branded SUV and service van with the Chicago skyline at sunset. Background remains decorative. Mobile image deferred. [Editing/QA](../../../docs/milestones/2026-10-16-desktop-hero-background.md).
+
 ## Current final supplied pair — E31
 
 - residential-services.webp:1152×648,166,906 bytes; owner residential-services.jpg405,858 bytes, original native Media627, delivery629 / Image295bf90e. Alt: GCPRO branded pickup truck parked outside a residential house.

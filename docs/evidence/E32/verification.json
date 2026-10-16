@@ -1,0 +1,210 @@
+{
+  "page": 154,
+  "anonymous": true,
+  "incognito": false,
+  "physicalDevice": false,
+  "checks": [
+    {
+      "anonymous": true,
+      "bg": "linear-gradient(90deg, rgb(26, 50, 125) 0%, rgb(26, 50, 125) 24%, rgba(26, 50, 125, 0.88) 38%, rgba(26, 50, 125, 0) 63%), url(\"https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-chicago-hero-desktop.webp\")",
+      "height": 562.90625,
+      "overflow": false,
+      "placeholder": "none",
+      "position": "0% 0%, 100% 50%",
+      "size": "auto, auto 100%",
+      "width": 1440
+    },
+    {
+      "bg": "linear-gradient(90deg, rgb(26, 50, 125) 0%, rgb(26, 50, 125) 24%, rgba(26, 50, 125, 0.88) 38%, rgba(26, 50, 125, 0) 63%), url(\"https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-chicago-hero-desktop.webp\")",
+      "height": 562.90625,
+      "overflow": false,
+      "position": "0% 0%, 100% 50%",
+      "size": "auto, auto 100%",
+      "width": 1200
+    },
+    {
+      "bg": "linear-gradient(90deg, rgb(26, 50, 125) 0%, rgb(26, 50, 125) 24%, rgba(26, 50, 125, 0.88) 38%, rgba(26, 50, 125, 0) 63%), url(\"https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-chicago-hero-desktop.webp\")",
+      "height": 594.90625,
+      "overflow": false,
+      "position": "0% 0%, 100% 50%",
+      "size": "auto, auto 100%",
+      "width": 1024
+    }
+  ],
+  "mobile": {
+    "geometryMatchesBaseline": true,
+    "before": [
+      {
+        "background": "none",
+        "display": "block",
+        "font": "16px",
+        "gap": "normal",
+        "height": 762.4791870117188,
+        "id": "a62cdd3",
+        "width": 374.6666870117187,
+        "x": 0,
+        "y": 118.94792175292967
+      },
+      {
+        "background": "none",
+        "display": "grid",
+        "font": "16px",
+        "gap": "32px",
+        "height": 650.4791870117188,
+        "id": "1514b1c",
+        "width": 334.66668701171875,
+        "x": 20,
+        "y": 174.9479217529297
+      },
+      {
+        "background": "none",
+        "display": "flex",
+        "font": "16px",
+        "gap": "16px",
+        "height": 430.2291870117187,
+        "id": "6cc20521",
+        "width": 334.66668701171875,
+        "x": 20,
+        "y": 174.9479217529297
+      },
+      {
+        "background": "none",
+        "display": "block",
+        "font": "40px",
+        "gap": "normal",
+        "height": 132,
+        "id": "7941b532",
+        "width": 334.66668701171875,
+        "x": 20,
+        "y": 212.9479217529297
+      },
+      {
+        "background": "none",
+        "display": "block",
+        "font": "18px",
+        "gap": "normal",
+        "height": 115.16667175292967,
+        "id": "7de610a7",
+        "width": 334.66668701171875,
+        "x": 20,
+        "y": 360.9479370117187
+      },
+      {
+        "background": "none",
+        "display": "flex",
+        "font": "16px",
+        "gap": "8px",
+        "height": 113.0625,
+        "id": "6092e1ab",
+        "width": 334.66668701171875,
+        "x": 20,
+        "y": 492.1145935058594
+      },
+      {
+        "background": "none",
+        "display": "flex",
+        "font": "16px",
+        "gap": "normal",
+        "height": 188.25,
+        "id": "17c26181",
+        "width": 334.66668701171875,
+        "x": 20,
+        "y": 637.1771240234375
+      }
+    ],
+    "after": [
+      {
+        "background": "linear-gradient(90deg, rgb(26, 50, 125) 0%, rgb(26, 50, 125) 100%)",
+        "display": "block",
+        "font": "16px",
+        "gap": "normal",
+        "height": 762.4791870117188,
+        "id": "a62cdd3",
+        "width": 374.6666870117187,
+        "x": 0,
+        "y": 118.94792175292967
+      },
+      {
+        "background": "none",
+        "display": "grid",
+        "font": "16px",
+        "gap": "32px",
+        "height": 650.4791870117188,
+        "id": "1514b1c",
+        "width": 334.66668701171875,
+        "x": 20,
+        "y": 174.9479217529297
+      },
+      {
+        "background": "none",
+        "display": "flex",
+        "font": "16px",
+        "gap": "16px",
+        "height": 430.2291870117187,
+        "id": "6cc20521",
+        "width": 334.66668701171875,
+        "x": 20,
+        "y": 174.9479217529297
+      },
+      {
+        "background": "none",
+        "display": "block",
+        "font": "40px",
+        "gap": "normal",
+        "height": 132,
+        "id": "7941b532",
+        "width": 334.66668701171875,
+        "x": 20,
+        "y": 212.9479217529297
+      },
+      {
+        "background": "none",
+        "display": "block",
+        "font": "18px",
+        "gap": "normal",
+        "height": 115.16667175292967,
+        "id": "7de610a7",
+        "width": 334.66668701171875,
+        "x": 20,
+        "y": 360.9479370117187
+      },
+      {
+        "background": "none",
+        "display": "flex",
+        "font": "16px",
+        "gap": "8px",
+        "height": 113.0625,
+        "id": "6092e1ab",
+        "width": 334.66668701171875,
+        "x": 20,
+        "y": 492.1145935058594
+      },
+      {
+        "background": "none",
+        "display": "flex",
+        "font": "16px",
+        "gap": "normal",
+        "height": 188.25,
+        "id": "17c26181",
+        "width": 334.66668701171875,
+        "x": 20,
+        "y": 637.1771240234375
+      }
+    ]
+  },
+  "nativeClasses": [
+    {
+      "id": "g-02b63b3",
+      "nativeOnly": true
+    },
+    {
+      "id": "g-708f717",
+      "nativeOnly": true
+    }
+  ],
+  "limitations": [
+    "No formal LCP/CLS benchmark.",
+    "Height-fit crops horizontally at narrower desktop widths.",
+    "Physical device and incognito not tested."
+  ]
+}
