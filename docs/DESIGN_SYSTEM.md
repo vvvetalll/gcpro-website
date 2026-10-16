@@ -1,5 +1,7 @@
 # GCPRO design system
 
+E19: Global Classes87→89. Existing service-card g-f569734 now controls full bordered surface/card height/padding/hover. New service-card__icon g-b759e84 is the56px SVG badge modifier (priority before icon-svg); new service-card__action g-d0416c8 is the compact Montserrat600 outline CTA/bottom alignment. Three classes use native Atomic properties only, custom_css:null; Variables36 unchanged. grid3 reused without grid--flush. [Details/editing/QA](milestones/2026-10-16-service-cards.md).
+
 ## Touch sequence — E17, 2026-10-16
 
 Desktop E16 rules unchanged. On hover:none/pointer:coarse/no-reduced-motion, [mobile CSS](../integrations/process-timeline-mobile.css) reuses `gcpro-process-ripple` with step delays0/400/800/1200ms and second-ring+160ms. It applies only after native Custom Code590's observer sets `data-gcpro-ripple="played"` on the existing root. Before that, no rings are generated. Mobile uses forwards fill so future delayed rings remain invisible. Pseudo-element geometry is explicitly touch-gated because E16's equivalent definitions are fine-pointer-only; no theme refactoring or duplicated base typography/layout tokens. Same2px accent-token rings; no new Atomic Class/Variable/Component. [Controls, native gap and QA](milestones/2026-10-16-mobile-sequence.md).

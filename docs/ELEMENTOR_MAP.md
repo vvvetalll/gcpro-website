@@ -1,5 +1,7 @@
 # GCPRO Elementor map
 
+E19: Existing Service Card62 retains five nodes/Override keys; SVG4a4396ac adds service-card__icon, CTA210ecf0d replaces text-link with service-card__action. Homepage154 grid5a3d7f5d removes grid--flush; six instances/contents/destinations unchanged. Shared Style Guide50 examples inherit the refinement. [Details/editing/QA](milestones/2026-10-16-service-cards.md).
+
 E18 anonymous-delivery correction: Code590 remains unchanged and Homepage154-only. Stale SiteGround guest HTML was purged; plain-root cache HIT and logged-out browser execution verified. [Incident/limits](milestones/2026-10-16-anonymous-timeline-cache.md).
 
 ## Mobile process integration — E17

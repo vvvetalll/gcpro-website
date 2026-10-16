@@ -1,5 +1,10 @@
 # GCPRO changelog
 
+## 2026-10-16 — Core restoration service cards — E19
+
+- Refined existing Component62 and Homepage154 grid into separated surface/border cards with SVG badges and compact outline CTAs; six services/content/link Overrides preserved. Existing service-card/grid3 reused, two native Global Classes added, no wrappers/Components/code/dependencies.
+- Verified authenticated/guest1440/1200/900/390, keyboard focus/hover, native content controls and Style Guide1440/390; native class Custom CSS fields empty. Purged staging cache and verified guest HIT/current markup. Incognito/physical-device checks and six service destination placeholders remain pending. [E19](docs/milestones/2026-10-16-service-cards.md).
+
 ## 2026-10-16 — Permanent cache verification procedure
 
 - Updated existing WORKFLOWS anonymous-delivery procedure and AGENTS verification rules: assess/purge relevant staging cache, verify actual incognito frontend, compare authenticated/guest assets before diagnosing failure, and distinguish emulation from physical-device evidence. Documentation only; no WordPress, Code590, CSS or JavaScript changes.

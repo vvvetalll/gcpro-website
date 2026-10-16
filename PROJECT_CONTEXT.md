@@ -1,6 +1,10 @@
 # GCPRO project context
 
-Last reviewed: 2026-10-16 (America/Chicago). Current verification: anonymous timeline delivery corrected by staging cache purge (E18); mobile sequence E17 and desktop ripple E16 unchanged. Approved SEO Page skeleton E14 and E13 archive findings remain preserved. Earlier implementation records below remain dated history.
+Last reviewed: 2026-10-16 (America/Chicago). Current implementation: Core Restoration Services card refinement (E19). Anonymous timeline cache resolution E18 and mobile/desktop effects E17/E16 preserved. Approved SEO Page skeleton E14 and E13 archive findings remain preserved. Earlier implementation records below remain dated history.
+
+## Core service cards — E19
+
+Homepage154 retains all six Service Card62 instances/content/links. Removed grid--flush; native grid3 now separates cards3/2/1 with24/16px gaps. Shared service-card gains light surface/full border/rounded corners and whole-card color hover; two native reusable classes add SVG badges and compact bottom-aligned outline CTAs. No new Components, code, Variables or wrappers. All five Overrides preserved and visible in editor. Guest/authenticated1440/1200/900/390 and Style Guide1440/390 checked; staging cache purged and anonymous HIT/current styling verified. Six service destinations remain approved unresolved #; incognito/physical-device acceptance checks not performed. [E19 implementation, inventory, recovery and evidence](docs/milestones/2026-10-16-service-cards.md). Await visual review.
 
 ## Anonymous timeline delivery correction — E18
 

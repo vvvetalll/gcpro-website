@@ -1,0 +1,16 @@
+[
+  {
+    "status": 200,
+    "cache": "MISS",
+    "iconInstances": 6,
+    "ctaInstances": 6,
+    "gridFlushStillOnCore": false
+  },
+  {
+    "status": 200,
+    "cache": "HIT",
+    "iconInstances": 6,
+    "ctaInstances": 6,
+    "gridFlushStillOnCore": false
+  }
+]
