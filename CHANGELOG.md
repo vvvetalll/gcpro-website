@@ -1,5 +1,10 @@
 # GCPRO changelog
 
+## 2026-10-16 — Stable desktop Hero composition — E33
+
+- Homepage154 existing hero--panorama centers the same height-fitted Media633, shifted80px left; bounded native horizontal blend now fades both edges. No top gradient, copy/layout/CTA/media or DOM changes.
+- One documented3-declaration desktop-only Global Class CSS exception controls blend canvas/offset, source mirror integrations/hero-panorama-composition.css; native gradient and photo controls retained. No new classes/Components/Variables/dependencies. Anonymous1280/1440/1920/2560 after cache purge: constant photo-to-copy offset;390 matches baseline. [E33 editing/evidence/limits](docs/milestones/2026-10-16-hero-composition.md). Visual approval pending.
+
 ## 2026-10-16 — Desktop Hero photograph — E32
 
 - Existing Homepage154 Hero uses optimized1983×793 WebP633 (198KB), original PNG632 preserved. Native height-fit auto/100%, center-right, horizontal navy blend only; owner rejected the top/vertical fade and it has been removed. No forced Hero height or copy/CTA changes.

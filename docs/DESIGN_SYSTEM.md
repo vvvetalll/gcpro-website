@@ -1,5 +1,9 @@
 # GCPRO design system
 
+## Desktop Hero composition — E33
+
+Existing hero--panorama g-708f717 retains native Media633/Full, height100% and horizontal gradient, now with both-side fade. Above1024px a documented Global Class CSS exception bounds the blend1500px, keeps photo auto×100%, positions both calc(50% - 80px) center and disables repeat. This keeps artwork aligned with centered1200px content at1280–2560px. Native gradient UI lacks independent canvas sizing; source mirror integrations/hero-panorama-composition.css is not separately enqueued. Edit colors/stops/photo natively; canvas/offset in that named Global Class's Custom CSS. No top fade/new class/component. Mobile variant unchanged. [Rationale, controls and QA](milestones/2026-10-16-hero-composition.md).
+
 ## Desktop photographic Hero — E32
 
 Native hero--panorama g-708f717 supplies Media633/Full background, auto width/100% height, center-right/no-repeat, one horizontal navy fade. No vertical/top fade. Mobile≤767 uses solid navy native layer to replace desktop background; empty native array did not reliably clear inheritance. hero-media--mobile g-02b63b3 hides only the existing placeholder above mobile, native flex below. Existing geometry/tokens/components unchanged; both classes custom_css:null. [Native editing, rationale and evidence](milestones/2026-10-16-desktop-hero-background.md).

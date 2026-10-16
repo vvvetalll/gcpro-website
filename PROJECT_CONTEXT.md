@@ -1,5 +1,9 @@
 # GCPRO project context
 
+## Current Hero visual review — E33
+
+Existing hero--panorama g-708f717 on Homepage154/a62cdd3 now centers height-fitted Media633, shifted80px left with a bounded1500px two-sided horizontal blend, preserving the smaller-desktop photo/text relationship through2560px. No top fade, content/CTA/structure/new media changes; all145 saved nodes unchanged. Native gradient/image controls retained; one narrow desktop-only Global Class CSS exception controls layer canvas and position, mirrored in integrations/hero-panorama-composition.css, not separately enqueued. No new classes/Components/Variables/dependencies or theme changes. Anonymous1280/1440/1920/2560 after SiteGround purge: photo-to-copy offset constant−215.81px;390 matches E32. [E33 controls, evidence, recovery and limitations](docs/milestones/2026-10-16-hero-composition.md). Await visual approval; no physical-device/incognito or formal LCP/contrast benchmark. E32 native-only composition description below is historical and superseded.
+
 ## Current Hero visual review — E32
 
 Homepage154 Hero a62cdd3 now uses native background Media633,1983×793 WebP198KB; original632 preserved. Owner direction: image fits section height, **no top gradient**; only horizontal navy blend remains. Existing1200px container/copy/CTA/structure unchanged; placeholder17c26181 hidden desktop/tablet, restored mobile. Two justified native classes hero--panorama g-708f717 and hero-media--mobile g-02b63b3; no custom code/new Components/Variables/dependencies. Anonymous1440/1200/1024/390 cache-refreshed checks; mobile geometry matches baseline. [Controls, evidence, crop limitations and recovery](docs/milestones/2026-10-16-desktop-hero-background.md). Await visual approval; mobile image deferred, physical/incognito/performance benchmark untested.
