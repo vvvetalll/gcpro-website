@@ -1,5 +1,10 @@
 # GCPRO changelog
 
+## 2026-10-16 — Longer right Hero fade trial — E34
+
+- Homepage154 hero--panorama native right transparent stop82%→66%; same95% navy endpoint gives435px transition instead of195px. Photo, composition CSS, layout/copy/CTA/mobile unchanged; exactly one Global Class numeric value changed. No new classes, components or custom code/Variables/dependencies.
+- Anonymous1440/2560 and390 after staging cache purge checked. [E34 controls/evidence](docs/milestones/2026-10-16-hero-composition.md#e34--longer-right-side-fade-trial). Await visual approval; no incognito/physical test.
+
 ## 2026-10-16 — Stable desktop Hero composition — E33
 
 - Homepage154 existing hero--panorama centers the same height-fitted Media633, shifted80px left; bounded native horizontal blend now fades both edges. No top gradient, copy/layout/CTA/media or DOM changes.

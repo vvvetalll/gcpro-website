@@ -1,5 +1,7 @@
 # GCPRO design system
 
+E34 current native Hero gradient stops:0/34/48/65/**66**/95/100%,90deg. Transparent right fade begins66% instead of82%, extending435px across the same1500px canvas. Image placement, Global Class composition CSS and mobile variant unchanged. Edit the native right transparent stop; no added code/classes/components. [Trial evidence](milestones/2026-10-16-hero-composition.md#e34--longer-right-side-fade-trial).
+
 ## Desktop Hero composition — E33
 
 Existing hero--panorama g-708f717 retains native Media633/Full, height100% and horizontal gradient, now with both-side fade. Above1024px a documented Global Class CSS exception bounds the blend1500px, keeps photo auto×100%, positions both calc(50% - 80px) center and disables repeat. This keeps artwork aligned with centered1200px content at1280–2560px. Native gradient UI lacks independent canvas sizing; source mirror integrations/hero-panorama-composition.css is not separately enqueued. Edit colors/stops/photo natively; canvas/offset in that named Global Class's Custom CSS. No top fade/new class/component. Mobile variant unchanged. [Rationale, controls and QA](milestones/2026-10-16-hero-composition.md).

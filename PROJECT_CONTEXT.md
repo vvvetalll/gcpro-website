@@ -1,5 +1,9 @@
 # GCPRO project context
 
+## Current Hero visual trial — E34
+
+Owner requested a longer right fade like the left: native hero--panorama g-708f717 right transparent stop now66% (was82%), navy endpoint95% unchanged, giving435px transition. E33 photo position/scale, centered canvas/CSS, copy/layout/CTAs/mobile unchanged; exactly one numeric Global Class property changed. No new resources/code. Anonymous1440/2560 and390 after staging cache purge verified; [editing/evidence/reversal](docs/milestones/2026-10-16-hero-composition.md#e34--longer-right-side-fade-trial). Visual approval pending; physical/incognito untested.
+
 ## Current Hero visual review — E33
 
 Existing hero--panorama g-708f717 on Homepage154/a62cdd3 now centers height-fitted Media633, shifted80px left with a bounded1500px two-sided horizontal blend, preserving the smaller-desktop photo/text relationship through2560px. No top fade, content/CTA/structure/new media changes; all145 saved nodes unchanged. Native gradient/image controls retained; one narrow desktop-only Global Class CSS exception controls layer canvas and position, mirrored in integrations/hero-panorama-composition.css, not separately enqueued. No new classes/Components/Variables/dependencies or theme changes. Anonymous1280/1440/1920/2560 after SiteGround purge: photo-to-copy offset constant−215.81px;390 matches E32. [E33 controls, evidence, recovery and limitations](docs/milestones/2026-10-16-hero-composition.md). Await visual approval; no physical-device/incognito or formal LCP/contrast benchmark. E32 native-only composition description below is historical and superseded.

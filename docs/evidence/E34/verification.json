@@ -1,0 +1,28 @@
+{
+  "page": 154,
+  "desktopVisualChecks": [
+    1440,
+    2560
+  ],
+  "computedChecks": [
+    {
+      "anonymous": true,
+      "background": "linear-gradient(90deg, rgb(26, 50, 125) 0%, rgb(26, 50, 125) 34%, rgba(26, 50, 125, 0.9) 48%, rgba(26, 50, 125, 0) 65%, rgba(26, 50, 125, 0) 66%, rgb(26, 50, 125) 95%, rgb(26, 50, 125) 100%), url(\"https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-chicago-hero-desktop.webp\")",
+      "height": 562.90625,
+      "overflow": false,
+      "position": "calc(50% - 80px) 50%, calc(50% - 80px) 50%",
+      "size": "1500px 100%, auto 100%",
+      "viewport": 2560
+    }
+  ],
+  "changes": [
+    {
+      "path": "/92/variants/1/props/background/value/background-overlay/value/0/value/stops/value/4/value/offset/value",
+      "before": 82,
+      "after": 66
+    }
+  ],
+  "mobile390MatchesE33": true,
+  "incognito": false,
+  "physicalDevice": false
+}

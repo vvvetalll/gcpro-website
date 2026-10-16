@@ -38,3 +38,11 @@ Evidence: [1280](../evidence/E33/1280.jpg), [1440](../evidence/E33/1440.jpg), [1
 ## GitHub / Outstanding Items
 
 PROJECT_CONTEXT, CHANGELOG, DESIGN_SYSTEM, ELEMENTOR_MAP, this milestone, source mirror and evidence synchronized to gcpro-website/main; final report records commit/push/remote SHA. Git does not deploy WordPress. Await owner visual approval; physical-device/incognito and formal performance/accessibility benchmarks remain unperformed. Mobile photography and Request Service destination remain deferred. Reverse through native class controls and remove only this class's composition CSS, using the pretask reference; publish, purge and verify.
+
+## E34 — Longer right-side fade trial
+
+2026-10-16: owner requested a long right transition resembling the left. Changed only the existing native transparent gradient stop82%→66%, retaining the navy endpoint95%. On the existing1500px blend canvas this lengthens the right fade195px→435px, close to the left465px transition. Image633, position/scale, content, structure, mobile variant and existing three-declaration composition CSS are unchanged.
+
+Native editing: Hero154 → Style → hero--panorama g-708f717 → Background → Linear Gradient → right transparent stop → Stop66%. Publish, purge staging cache, inspect anonymous frontend. Full Global Class before/after diff confirms exactly one numeric offset change. No new classes, components or custom code; no new Variables/plugins/dependencies/markup. No redundant resources introduced. Revert66→82 to restore E33.
+
+Verified actual anonymous1440/2560 desktop after native SiteGround purge and390 mobile; no overflow, mobile styles/geometry match E33 baseline. Native image reference, CSS and other Global Classes preserved. Incognito/physical-device/formal contrast/LCP testing not performed. Evidence: [1440](../evidence/E34/1440.jpg), [2560](../evidence/E34/2560.jpg), [390](../evidence/E34/390.jpg), [readback](../evidence/E34/verification.json). This is a visual trial awaiting approval. Documentation/CHANGELOG/PROJECT_CONTEXT/DESIGN_SYSTEM updated, committed/pushed to main; final report records verified remote SHA.
