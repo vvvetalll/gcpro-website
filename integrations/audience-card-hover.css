@@ -1,0 +1,17 @@
+/* E30: mirror of the scoped CSS in existing Global Class audience-card.
+ * Not separately enqueued. Replace .audience-card with & in its CSS editor.
+ * Native Global Classes retain geometry, colors and 280ms transitions:
+ * audience-card (border-color), card-action (background-color),
+ * audience-card__image (transform). No widget/local CSS or theme changes.
+ */
+.audience-card > .layout-reset { overflow: hidden; }
+@media (hover: hover) and (pointer: fine) {
+  .audience-card:hover { border-color: color-mix(in srgb, var(--color-primary) 35%, var(--color-border)); }
+  .audience-card:hover .card-action { background-color: var(--color-accent); }
+  .audience-card:hover .audience-card__image { transform: scale(1.025); }
+}
+.audience-card:focus-visible .card-action { background-color: var(--color-accent); }
+@media (prefers-reduced-motion: reduce) {
+  .audience-card, .audience-card .card-action, .audience-card .audience-card__image { transition: none; }
+  .audience-card .audience-card__image { transform: none; }
+}

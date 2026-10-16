@@ -1,0 +1,169 @@
+{
+  "page": 154,
+  "environment": "staging",
+  "anonymous": true,
+  "incognito": false,
+  "physicalDevice": false,
+  "checks": [
+    {
+      "anonymous": true,
+      "cards": [
+        {
+          "alt": "GCPRO branded pickup truck parked outside a residential house.",
+          "cardHeight": 450.125,
+          "clip": "hidden",
+          "fit": "cover",
+          "frameHeight": 312,
+          "frameWidth": 554.6666870117188,
+          "href": "#",
+          "loaded": true,
+          "position": "50% 50%",
+          "radius": "24px",
+          "ratio": "16 / 9",
+          "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/residential-services.webp"
+        },
+        {
+          "alt": "GCPRO restoration trucks on a downtown Chicago street surrounded by commercial buildings.",
+          "cardHeight": 450.125,
+          "clip": "hidden",
+          "fit": "cover",
+          "frameHeight": 312,
+          "frameWidth": 554.6666870117188,
+          "href": "#",
+          "loaded": true,
+          "position": "50% 50%",
+          "radius": "24px",
+          "ratio": "16 / 9",
+          "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/commercial-services.webp"
+        }
+      ],
+      "overflow": false,
+      "width": 1440
+    },
+    {
+      "anonymous": true,
+      "cards": [
+        {
+          "alt": "GCPRO branded pickup truck parked outside a residential house.",
+          "cardHeight": 445.8125,
+          "clip": "hidden",
+          "fit": "cover",
+          "frameHeight": 307.6875,
+          "frameWidth": 547,
+          "href": "#",
+          "loaded": true,
+          "position": "50% 50%",
+          "radius": "24px",
+          "ratio": "16 / 9",
+          "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/residential-services.webp"
+        },
+        {
+          "alt": "GCPRO restoration trucks on a downtown Chicago street surrounded by commercial buildings.",
+          "cardHeight": 445.8125,
+          "clip": "hidden",
+          "fit": "cover",
+          "frameHeight": 307.6875,
+          "frameWidth": 547,
+          "href": "#",
+          "loaded": true,
+          "position": "50% 50%",
+          "radius": "24px",
+          "ratio": "16 / 9",
+          "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/commercial-services.webp"
+        }
+      ],
+      "overflow": false,
+      "width": 1200
+    },
+    {
+      "anonymous": true,
+      "cards": [
+        {
+          "alt": "GCPRO branded pickup truck parked outside a residential house.",
+          "cardHeight": 413.0208435058594,
+          "clip": "hidden",
+          "fit": "cover",
+          "frameHeight": 223.3125,
+          "frameWidth": 397,
+          "href": "#",
+          "loaded": true,
+          "position": "50% 50%",
+          "radius": "24px",
+          "ratio": "16 / 9",
+          "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/residential-services-1024x576.webp"
+        },
+        {
+          "alt": "GCPRO restoration trucks on a downtown Chicago street surrounded by commercial buildings.",
+          "cardHeight": 413.0208435058594,
+          "clip": "hidden",
+          "fit": "cover",
+          "frameHeight": 223.3125,
+          "frameWidth": 397,
+          "href": "#",
+          "loaded": true,
+          "position": "50% 50%",
+          "radius": "24px",
+          "ratio": "16 / 9",
+          "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/commercial-services-1024x576.webp"
+        }
+      ],
+      "overflow": false,
+      "width": 900
+    },
+    {
+      "anonymous": true,
+      "cards": [
+        {
+          "alt": "GCPRO branded pickup truck parked outside a residential house.",
+          "cardHeight": 364.6458435058594,
+          "clip": "hidden",
+          "fit": "cover",
+          "frameHeight": 196.125,
+          "frameWidth": 348.66668701171875,
+          "href": "#",
+          "loaded": true,
+          "position": "50% 50%",
+          "radius": "24px",
+          "ratio": "16 / 9",
+          "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/residential-services-1024x576.webp"
+        },
+        {
+          "alt": "GCPRO restoration trucks on a downtown Chicago street surrounded by commercial buildings.",
+          "cardHeight": 364.6458435058594,
+          "clip": "hidden",
+          "fit": "cover",
+          "frameHeight": 196.125,
+          "frameWidth": 348.66668701171875,
+          "href": "#",
+          "loaded": true,
+          "position": "50% 50%",
+          "radius": "24px",
+          "ratio": "16 / 9",
+          "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/commercial-services-1024x576.webp"
+        }
+      ],
+      "overflow": false,
+      "width": 390
+    }
+  ],
+  "hover": {
+    "arrow": "rgb(240, 90, 41)",
+    "border": "color(srgb 0.553137 0.611569 0.745098)",
+    "rect": {
+      "bottom": 675.3645935058594,
+      "height": 450.125,
+      "left": 144.33334350585938,
+      "right": 700.3333435058594,
+      "top": 225.23959350585935,
+      "width": 556,
+      "x": 144.33334350585938,
+      "y": 225.23959350585935
+    },
+    "transform": "matrix(1.025, 0, 0, 1.025, 0, 0)"
+  },
+  "limitations": [
+    "Desktop viewport emulation, not physical devices.",
+    "Existing placeholder destinations unchanged.",
+    "Existing reduced-motion disables transitions but retains instantaneous hover zoom."
+  ]
+}

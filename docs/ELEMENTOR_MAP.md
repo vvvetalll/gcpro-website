@@ -1,5 +1,7 @@
 # GCPRO Elementor map
 
+E31 current mapping: Homepage154 Images295bf90e/27ec40d5 → WebP629/630, Full; preserved source JPG627/628. Existing audience-card__image g-77c2a17 native ratio16:9 supersedes4:3. Only two image source settings changed in Homepage tree; body/links/structure unchanged. Edit normal Image Content controls. Existing E30 parent-hover CSS lives in Global Class audience-card g-38b29fb normal Custom CSS, source mirror integrations/audience-card-hover.css, not separately enqueued. [Current evidence, controls and recovery](milestones/2026-10-16-final-audience-images.md).
+
 E29 supersedes only E28 Residential media: existing native Image295bf90e on154 now selects attachment621, GCPRO Residential Pickup Outside House, Full. Previous615 retained; Commercial Image27ec40d5/Media616 unchanged. Same audience-card__image/native4:3 cover-center, no node/class/style/link changes. [Source/editing/recovery](milestones/2026-10-16-audience-card-images.md#e29--alternate-residential-photograph-trial).
 
 E28: Homepage154 section7b416658 retains audience linked cards4c8810dc/2066a26 and all body descendants. Existing photo frames6e5afc98/4c8bb651 now reuse layout-reset; only placeholder paragraphs1e618ea6/5f6ea042 replaced by native Atomic Images295bf90e/27ec40d5, attachment615/616, resolution Full, no nested image link. Both images use native Global Class audience-card__image g-77c2a17. Cards retain # destinations pending public category pages. [Media/editing/QA/recovery](milestones/2026-10-16-audience-card-images.md). No shared Component changed.

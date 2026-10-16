@@ -1,5 +1,9 @@
 # GCPRO design system
 
+## Current audience photo presentation — E31
+
+Existing audience-card__image g-77c2a17 uses native16:9 (supersedes historical4:3 below), same cover/center/full-width rules. Final images1152×648 match the frame with no default composition crop. No new design resource in E31. Existing E30 hover uses native280ms transitions plus scoped parent→child CSS in audience-card Global Class; [exact location, source mirror and motion limitation](milestones/2026-10-16-final-audience-images.md#e30-carryover--existing-audience-hover-documented-without-new-deployment). No theme/shared-repository change.
+
 ## Audience photography trial — E28
 
 New native Global Class **audience-card__image g-77c2a17**: display block, width100%, height auto, aspect ratio4:3, object fit cover, object position50%50%. Current consumers: only native Images295bf90e/27ec40d5 on154. All values are native Atomic properties, custom_css:null; no local styles. Existing media-placeholder is a padded/background/bordered flex placeholder, image-led-card styles a parent, header-logo is logo-specific; none fits a full-bleed photograph. This single shared class is required to preserve symmetry without affecting other media. Edit Image → Style → select audience-card__image → Size/Show more for ratio/fit/position. Images themselves remain independently selected in General → Content. Existing audience-card owns24px clipping/corners/border; layout-reset removes obsolete placeholder frame presentation. Classes90→91; Components16/Variables36 unchanged. [Assets, trial/QA and limitations](milestones/2026-10-16-audience-card-images.md).

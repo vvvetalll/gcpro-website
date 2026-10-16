@@ -1,5 +1,9 @@
 # GCPRO project context
 
+## Current visual review — E31: final wide audience photographs
+
+Homepage154 final supplied images use original JPG Media627/628 plus optimized WebP629/630 at1152×648,167/134KB. Native Images295bf90e/27ec40d5 replace621/616. Existing audience-card__image ratio is now16:9 rather than4:3; all other card styling/copy/links preserved. No new classes/components/custom code/Variables/dependencies in E31. Anonymous1440/1200/900/390 after staging cache purge and actual native editor controls verified; no incognito/physical test. [E31 evidence/editing/recovery](docs/milestones/2026-10-16-final-audience-images.md). Earlier E30 hover source/documentation also synchronized, without new deployment: native Global Class CSS exception and reduced-motion static-zoom limitation explicitly recorded there. Visual approval pending; earlier E28/E29 image records below are historical.
+
 ## Current visual trial — E29: alternate Residential photo
 
 2026-10-16: owner requested From Concept to Completion.jpg for Residential. Existing Image295bf90e now selects new Media621, optimized1440px square WebP395,462 bytes with descriptive alt; Commercial616 unchanged. Reuses E28 native4:3 centered presentation, no style/structure/text/link change, new classes/components/code/Variables/dependencies. Full Homepage saved-tree comparison shows only this attachment reference changed. Anonymous1440/1200/900/390 after cache purge passes; [E29 evidence/editing/recovery](docs/milestones/2026-10-16-audience-card-images.md#e29--alternate-residential-photograph-trial). Prior Media615 retained for easy reversal. Visual approval pending; E27 copy still unimplemented.

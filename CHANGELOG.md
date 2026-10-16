@@ -1,5 +1,10 @@
 # GCPRO changelog
 
+## 2026-10-16 — Final wide audience photographs — E31
+
+- Homepage154 native Images295bf90e/27ec40d5 now use final WebP629/630,1152×648 (167/134KB); original JPG627/628 preserved. Existing audience-card__image native ratio4:3→16:9 preserves composition and reduces frame height25%; only two source settings changed in the saved Homepage tree.
+- Anonymous1440/1200/900/390 after staging cache purge, equal frames/cards, hover/focus and native image controls checked. No new classes, components or custom code in this image task. Previously deployed E30 hover source/documentation synchronized without changing its CSS; reduced-motion static-zoom limitation recorded. [Evidence, controls and recovery](docs/milestones/2026-10-16-final-audience-images.md). Visual approval pending; incognito/physical testing not performed.
+
 ## 2026-10-16 — Alternate Residential photo trial — E29
 
 - Homepage154 existing native Image295bf90e changes attachment615→621 using the owner's From Concept to Completion.jpg; Commercial616, all styles, structures, copy and links unchanged. Optimized1440×1440 WebP386KiB, descriptive native alt, original and earlier Media615 retained.

@@ -1,5 +1,12 @@
 # Homepage audience photograph trial — E28
 
+## Current final supplied pair — E31
+
+- residential-services.webp:1152×648,166,906 bytes; owner residential-services.jpg405,858 bytes, original native Media627, delivery629 / Image295bf90e. Alt: GCPRO branded pickup truck parked outside a residential house.
+- commercial-services.webp:1152×648,134,152 bytes; owner commerciall-services.jpg346,471 bytes, original native Media628, delivery630 / Image27ec40d5. Alt: GCPRO restoration trucks on a downtown Chicago street surrounded by commercial buildings.
+
+WebP82/method6, no resize/upscale/crop/retouch. Original JPGs preserved in WordPress and owner's Downloads. Native16:9 frame matches full supplied composition; same dimensions for both. Earlier E28/E29 files and Media remain available as historical trials. [QA/editing/recovery](../../../docs/milestones/2026-10-16-final-audience-images.md). Await visual approval.
+
 **E29 current Residential trial:** [gcpro-residential-pickup-house.webp](gcpro-residential-pickup-house.webp), supplied From Concept to Completion.jpg (1920×1920,1,437,882 bytes). Native Media621 / existing Image295bf90e replaces615; prior file/media below retained. Delivery1440×1440, WebP82/method6,395,462 bytes (~72.5% smaller), no retouching/destructive crop. Alt: GCPRO branded pickup truck parked in the driveway of a two-story house. Same4:3 cover/center presentation; full pickup/logo visible. Embedded source text is part of the supplied image, not an added website overlay. Commercial616 unchanged; visual approval pending.
 
 Owner supplied and approved these images for a staging visual trial, 2026-10-16. They are scene illustrations, not evidence of a completed restoration project, office location or customer result. Final visual approval is pending.
