@@ -1,0 +1,40 @@
+# GCPRO architecture
+
+Reviewed 2026-10-16. Distinguish the intended ownership model from observed installation state; see [evidence](../PROJECT_CONTEXT.md#evidence-register).
+
+## Ownership and data boundaries
+
+| Layer | Responsibility | Evidence / status |
+| --- | --- | --- |
+| WordPress staging | Content, media, pages and stored Elementor configuration | E3 confirms page/document inventories on the staging host; versions/configuration not fully audited |
+| Elementor Atomic V4 | Visual variables, tag defaults, Global Classes, native layout, reusable Components and instance overrides | Declared stack E1; live resources/component schemas and Homepage structure E3; complete runtime compatibility unverified |
+| Elementor Theme Builder | Header/footer and other site parts with display conditions | E3 inventory; assignments in ELEMENTOR_MAP |
+| Hello Elementor + ROBYLO Child | Minimal shared WordPress theme foundation | E2 source; active staging theme and deployed revision still need verification |
+| GCPRO repository | Client-specific handoff, status, design records, IDs, history and decisions | E1 and this documentation milestone |
+| Shared ROBYLO repository | Reusable theme source and general integration guidance | E2; separate ownership, not a location for GCPRO content or IDs |
+
+Configuration flow: WordPress stores the content and Elementor configuration; Elementor renders its visual documents using that configuration; the shared theme supplies minimal WordPress integration. GCPRO documentation records evidence and decisions. Git documentation is not a backup of WordPress.
+
+## Shared source facts
+
+At [ROBYLO commit 8e1397a](https://github.com/vvvetalll/robylo-website-starter/tree/8e1397aab99ab5965c10a251cf144ea3ba3a0372), `theme/robylo-child/style.css` declares ROBYLO Child version 0.1.0 with parent `hello-elementor` and contains metadata only.
+
+`functions.php` guards ABSPATH and enqueues the child stylesheet via `robylo_enqueue_styles` at `wp_enqueue_scripts` priority 20. It uses the theme version for cache versioning and adds `hello-elementor-theme-style` as a dependency only if that handle is already enqueued. The inspected tree includes no JavaScript or template override files. These are source observations, not a test of the installed theme or an assertion that staging has no customizations.
+
+Do not copy this implementation into GCPRO or change the shared source for client-specific styling. Refer integration gaps to separately authorized ROBYLO work.
+
+## Visual architecture
+
+Use Global Variables for reusable values, tag defaults for base typography, Global Classes for shared style/layout roles, Components for reusable structures, and supported overrides for instance content. Local exceptions require a clear purpose and documentation. Do not replace these layers with a hidden theme stylesheet or script.
+
+Component IDs, document IDs, element IDs and variable/class IDs have different scopes. They are installation-specific; the map is a locator, not a portable deployment manifest. A ROBYLO-prefixed component name on GCPRO staging does not mean that component is shipped in the ROBYLO Git repository.
+
+Header and Footer are separate Theme Builder documents, not sections owned by Homepage 154. Inspect them separately and account for shared effects before editing.
+
+## Runtime and transfer limits
+
+The GCPRO baseline has no application code, dependency manifest, local WordPress runtime, CI or deployment configuration. Do not invent build/test commands for it.
+
+A theme ZIP does not include Elementor variables, classes, defaults, Components, templates, content, media, or database state. A supported export/import workflow and a restore test must be verified independently before treating a configuration as portable. No synchronization or deployment automation is established here.
+
+Record installed versions, active child/parent themes, deployed theme revision, license/Atomic settings and connector capabilities before the next implementation milestone. No production editing is allowed.

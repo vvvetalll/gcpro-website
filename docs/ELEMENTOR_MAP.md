@@ -1,0 +1,113 @@
+# GCPRO Elementor map
+
+Environment: https://vitaliiv1.sg-host.com. Last read: 2026-10-16. IDs are installation-specific and must be rechecked before writes. Sources E3–E5 are defined in [PROJECT_CONTEXT](../PROJECT_CONTEXT.md#evidence-register).
+
+**Verified** below means returned by the indicated read-only MCP inventory/schema/structure in this task. It does not mean the document is visually approved, every instance was tested, or frontend/editor behavior was verified. **Reported** means an earlier chat/artifact claim not fully repeated here.
+
+## Verified page inventory
+
+Source: `list-posts`, page type, 25 per page, total six returned; their URLs match the designated staging host. Status is WordPress's returned state. Titles are preserved, even when the report uses a newer milestone name.
+
+| Post ID | Returned title | Status | Location |
+| --- | --- | --- | --- |
+| 50 | ROBYLO — Atomic Foundation Validation (Temporary Draft) | draft | [Edit 50](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=50&action=elementor) |
+| 154 | GCPRO Homepage — Phase 1 Atomic Wireframe | publish | [Edit 154](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=154&action=elementor) |
+| 7 | Elementor #7 | draft | [Edit 7](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=7&action=elementor) |
+| 12 | GCPRO — Coming Soon | publish | [Edit 12](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=12&action=elementor) |
+| 3 | Privacy Policy | draft | [Edit 3](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=3&action=elementor) |
+| 2 | Sample Page | publish | [Edit 2](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=2&action=elementor) |
+
+Homepage 154 returned the staging root as its URL. The other published non-root pages are Coming Soon 12 and Sample Page 2. A published state is not launch approval. Page 50 is historically used for validation/Style Guide work, but its returned title and draft status above are authoritative for this inventory.
+
+## Verified reusable Component identities
+
+Source: `list-components` discovery; fifteen returned non-archived entries. Current capabilities returned `can_create=true`, `can_edit=true`, `can_add_to_page=true`. These are capability flags, not authorization or proof a write succeeds. UID is included to disambiguate identity; neither numeric IDs nor UIDs are proven portable.
+
+| Component ID | Returned name | UID |
+| --- | --- | --- |
+| 286 | ROBYLO / Emergency Service Mark | `component-dfdb0e08-1a53-43c1-bde9-fa31f0beeb55` |
+| 103 | ROBYLO / Button / Outline White | `component-9e3d299e-89f8-4484-9760-f482541d98b1` |
+| 100 | ROBYLO / Button / Outline Orange | `component-ed18ed61-03d5-404d-9a97-561404cb1f6b` |
+| 86 | ROBYLO / Testimonial Card | `component-f5ecac7b-b6be-427f-b1b9-448885252dab` |
+| 83 | ROBYLO / FAQ Group | `component-48fec5e6-0cc8-454c-a7ab-406a2b516bec` |
+| 77 | ROBYLO / Image + Text Section | `component-b66e71a0-22c6-43dc-9f1b-9c5c73df7abc` |
+| 80 | ROBYLO / CTA Section | `component-02310d3c-933a-484b-9978-d9ad96274eca` |
+| 74 | ROBYLO / Hero | `component-de6a4e56-5ca8-43ff-aa72-ef03aafc2c81` |
+| 68 | ROBYLO / Interactive Card | `component-4da4b304-cf49-4cb4-85f0-ae8a96f5fb43` |
+| 71 | ROBYLO / Section Heading | `component-9bb099ec-804d-4618-a599-5b7e321d2e9d` |
+| 65 | ROBYLO / Feature Card | `component-d84d7370-a5fc-477a-9e2d-78ac1238dc13` |
+| 62 | ROBYLO / Service Card | `component-ef3a2a49-e07b-44bb-8d5c-e4335142d946` |
+| 56 | ROBYLO / Button / Secondary Blue | `component-95811d48-98e9-481d-b56d-2ff397eaa583` |
+| 59 | ROBYLO / Button / Outline Blue | `component-2ae9e4bb-f521-425d-a612-2d23e67a42a2` |
+| 53 | ROBYLO / Button / Primary CTA | `component-a16fd4f6-ec5f-4a1c-b43e-c5a2f7cb18cc` |
+
+Open a component via the staging editor with its numeric post ID. Key entries: [Edit 62](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=62&action=elementor) (Service Card), [Edit 80](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=80&action=elementor) (CTA), [Edit 286](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=286&action=elementor) (Emergency Service Mark).
+
+### Verified exposed override keys
+
+Source: schema reads for 62, 80 and 286 only. All three returned `is_archived=false`. Values must match the current returned schema; do not infer new override keys from a label.
+
+| Component | Override keys (current labels) |
+| --- | --- |
+| 62 | `icon` (SVG Icon); `title` (Title); `description` (Description); `cta_text` (Link Label); `cta_link` (Link Destination) |
+| 80 | `title` (Title); `description` (Description); `cta_text` (Primary Label); `cta_link` (Primary Link); `secondary_text` (Secondary Label); `secondary_link` (Secondary Link) |
+| 286 | `label` (Eyebrow Text) |
+
+Existence of these fields is verified. Independent SVG behavior and actual visual editor usability remain attributed to the prior E4 report.
+
+## Verified Theme Builder inventory
+
+Source: `list-site-parts`. All six returned `has_conditions=true`. Conditions are transcribed exactly. Active is the API's returned flag at the time of this read; inactive does not establish that a template will fail in its matching request context.
+
+| Post ID | Returned title / type | Post status | Active flag | Conditions |
+| --- | --- | --- | --- | --- |
+| 126 | ROBYLO / Search Results / search-results | publish | false | `include/archive/search` |
+| 125 | ROBYLO / 404 / error-404 | publish | false | `include/singular/not_found404` |
+| 124 | ROBYLO / Archive / archive | publish | false | `include/archive`, `exclude/archive/search` |
+| 123 | ROBYLO / Single Post / single-post | publish | false | `include/singular/post` |
+| 114 | ROBYLO / Universal Footer / footer | publish | true | `include/general` |
+| 113 | ROBYLO / Universal Header / header | publish | true | `include/general` |
+
+Header 113 and Footer 114 are separate documents with site-wide `include/general` conditions. Do not edit the Homepage expecting to change their definitions.
+
+## Verified Homepage structural locators
+
+Source: `get-page-structure(154)`. These are saved element identities and Navigator titles. The lean tree does not establish all settings or which Component definition each instance uses.
+
+| Element ID | Returned title / purpose |
+| --- | --- |
+| `46c3aad4` | GCPRO Homepage Main |
+| `a62cdd3` | 01 Hero |
+| `7b416658` | 02 Residential and Commercial Services |
+| `38ed6da4` | 03 Core Restoration Services |
+| `6cde656f` | 05 Emergency Response |
+| `4681b8f5` | 06 How We Work |
+| `4221ba60` | 07 Projects and Before After |
+| `5b2c6d3c` | 04 Why Choose GCPRO |
+| `7d8c17ad` | 09 Service Areas |
+| `37feb023` | 10 Final CTA |
+| `5a3d7f5d` | Core Service Cards (six named instances) |
+| `5fa5a818` | Residential Service Path |
+| `4e0d3e66` | Commercial Service Path |
+| `4af4b551` | Emergency Eyebrow — Editable Label |
+
+Titles retain their existing numbering even when the order differs. The tree also contains four process instances, three project wireframes, two testimonial placeholders and eight city links: Lombard, Downers Grove, Highland Park, Elmhurst, Elk Grove Village, Bridgeview, Naperville and Glenview. Their presence is not evidence of approved copy, completed media or working destinations.
+
+## Reported history and superseded information
+
+| Reported ID / claim | Source | Current evidence / verification still needed |
+| --- | --- | --- |
+| Homepage 154 received V2 composition; eight Service Card instances restored | E4 completion report | Page and section/instance structure verified E3; complete settings/rendering not retested |
+| Service Card 62 supports independent SVG changes without detaching | E4 | Identity and current override schema verified E3; repeat independent-instance/editor check before relying on it |
+| CTA 80 and Emergency Service Mark 286 refined; 65/68/86 layouts updated | E4 | Identities and selected schemas verified E3; implementation diff and rendering not reproduced |
+| Header 113 refined; Footer 114 unchanged during V2 | E4 | Current identities/status/conditions verified E3; historical unchanged claim not re-proven |
+| Validation/Style Guide 50 used for component tests | E4/E5 | Page 50 exists as a draft; coverage/persistence not retested |
+| Button 53 called Primary; 56 Accent; 59 Outline in old register | E5 | Current names in verified inventory supersede these old labels |
+| Old Service Card 62 had text-symbol icon and different nested structure | E5 | Current schema exposes SVG Icon; never replay the old definition as current |
+| Page 7 reported preserved by earlier validation | E5 | Current page inventory confirms a draft only; no unchanged-state comparison performed here |
+
+No additional unverified numeric page/component ID is invented. If a future handoff reports another ID, add it to this reported section with its source/date until a read verifies host, type, name and status. Do not create absent pages or alter IDs as part of maintaining this map.
+
+## Updating the map
+
+Record environment, read date, source operation, exact type/title/ID and status. Keep numeric document/component IDs distinct from hexadecimal element IDs and global class IDs. Re-read element structure after mutations because replacements can assign new IDs. Update renamed/deleted entries and move superseded claims into reported history with an explanation.
