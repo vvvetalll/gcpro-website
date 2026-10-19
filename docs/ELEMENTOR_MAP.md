@@ -1,5 +1,17 @@
 # GCPRO Elementor map
 
+## Service Areas refinement — 2026-10-19, E36/E37
+
+Current saved staging Homepage154 retains section `7d8c17ad`, two-column parent `585624a1`, approved left introduction `3dc285eb`, heading Component71 instance `2554ebe8`, city parent `d6dbbe2`, and directory wrapper `62862a3a` / Component59 instance `2b5f493`.
+
+E36 rows, in saved row-major order: Lombard `52ad5087`/text `2651d55b`; Downers Grove `29925a5c`/`3eaa5679`; Highland Park `64f07ac9`/`538d7ed8`; Elmhurst `7703752a`/`72608afe`; Elk Grove Village `961c608`/`6a7a855c`; Bridgeview `311eade2`/`3090cc15`; Naperville `3478458c`/`642d5d94`; Glenview `166c23ea`/`3cbb955e`. Local two-column grid/dividers/pseudo-element arrows supersede the earlier tile classes on these instances. URLs remain `#`. This whole left subtree is approved and unchanged by E37.
+
+E37 changes no IDs and adds/removes no nodes. ZIP panel `49f026c9` now orders existing notice `244c26e6` (Coming Soon badge) → H3 `1c84aa78` → description `264a3beb` → native Form `376376c8`. Form still contains label `10dd9f53`, controls `4a71aa98`, input `351e2f2` (ID `gcpro-area-zip`, read-only), submit `5350691e` (native disabled retained), and required hidden success/error slots `42bd3375`/`2cbaaa52` with their original paragraphs. Slots are not lookup results.
+
+Edit the panel's local Atomic spacing/background/border/responsive controls; heading/body and Form/control spacing are local native properties referencing existing tokens. Notice uses the existing paragraph instead of another element. Button reuses Global Class `button-primary` (`g-92745fa`), with element-local disabled color/hover CSS; input has local focus/placeholder styling. Unsupported pseudo-selector rules remain in the plugin's element-local CSS fallback, not a theme/code file. No shared class definition or Component changed. Detaching prior instance classes did not delete them from the kit.
+
+Verification: saved full-tree comparison lists only panel, heading, description, Form, label, controls, input, button and notice differences; parent and approved left subtree exactly equal. Authenticated native editor content/read-only/disabled state inspected; frontend at requested 1440/834/390 widths checked after Elementor Clear Files & Data corrected stale rendered HTML. No checker overflow; 53px input/button; tablet/mobile stack. Incognito/anonymous and physical-device verification pending. E8 entries below are historical where superseded by this section.
+
 E35 Hero154/a62cdd3: existing hero--panorama g-708f717 now uses two native horizontal gradients (right then left) above native Media633. Edit right opacity/stops in the first Background layer; left in the second. Existing Global Class Custom CSS controls the two1500px canvases and common80px offset; no local/widget CSS. [Exact editing, deployed syntax, evidence](milestones/2026-10-16-hero-composition.md#e35--extended-soft-right-blend). Mobile variant retained; no new nodes/components/classes.
 
 E33 changes only existing Global Class hero--panorama g-708f717 (verified sole consumer154/a62cdd3); full145-node Homepage tree unchanged. Media633 remains a native object reference/Full, height100%; desktop background and gradient share centered−80px focal placement and two-sided fade. Three-property Global Class CSS exception above1024px bounds the native gradient canvas; mirror integrations/hero-panorama-composition.css, not another injection. Mobile native variant unchanged. [Editing/recovery/QA](milestones/2026-10-16-hero-composition.md).

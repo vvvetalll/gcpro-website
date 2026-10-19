@@ -1,5 +1,17 @@
 # GCPRO changelog
 
+## 2026-10-19 — Compact inactive ZIP checker — E37
+
+- Staging Homepage 154 only: refined existing ZIP panel `49f026c9`, heading `1c84aa78`, description `264a3beb`, Form `376376c8`, label `10dd9f53`, controls `4a71aa98`, input `351e2f2`, button `5350691e`, notice `244c26e6`. The notice moves to the top as Coming Soon. No elements created or removed; immediate two-column parent unchanged.
+- Local Atomic layout/typography/spacing: 28px panel padding (24px tablet/mobile), 8px corners, light border, navy 22/20px heading, 120px desktop/tablet top offset and zero mobile offset. Existing primary-button class reused with a scoped pale-orange disabled state; input/button both 53px. Input now read-only; native disabled attribute preserved. No lookup, validation, redirects, backend, JS, new global class/variable/component/plugin/dependency or source-code file.
+- Saved full-tree comparison limits differences to those nine ZIP elements, including the notice order; approved city subtree and all other Homepage elements equal. Native editor displays the new copy/read-only input and disabled button. Frontend initially served old Elementor element-cache HTML even after SiteGround purge; native Elementor Tools → Clear Files & Data resolved it without content/settings changes.
+- Authenticated frontend checked at requested 1440×1000, 834×1194 and 390×1100 viewports: desktop inline controls; tablet/mobile stacked controls; no checker overflow; equal 53px controls, Coming Soon and disabled/read-only states verified. Input focus has navy 2px outline with 2px offset; disabled action skipped by keyboard navigation. Physical devices, incognito/anonymous delivery, screen readers and formal performance checks not performed. Screenshots delivered in chat; no admin screenshots, tokens, credentials or private backups committed. Visual acceptance pending.
+
+## 2026-10-19 — Approved Service Areas city list — E36
+
+- Records the preceding implementation in this chat: Homepage 154 city parent `d6dbbe2` and its eight retained rows/text elements changed from tiles to two equal list columns, thin dividers and right arrows. Order: Lombard/Downers Grove, Highland Park/Elmhurst, Elk Grove Village/Bridgeview, Naperville/Glenview. One column on mobile; heading Component 71 instance `2554ebe8`, introduction, directory Component 59 instance `2b5f493`, and then-existing ZIP checker preserved.
+- Earlier saved-tree comparison showed only the city parent/rows/text styles changed, with no new IDs; authenticated desktop/tablet/mobile and forced-hover check verified orange #F05A29 arrow plus 3.2px movement. Owner subsequently approved the city list. Eight city links and directory action retain pre-existing `#` placeholders; no working destinations were invented. Local styles/pseudo-element arrow rules were used; shared classes/components were not edited.
+
 ## 2026-10-16 — Extended soft right Hero blend — E35
 
 - Homepage154 existing hero--panorama: native right fade435→825px with gradual opacity stops; separate native left gradient retains its track. Same image633, position/scale, content and layout.
