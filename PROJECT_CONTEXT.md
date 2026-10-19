@@ -1,5 +1,17 @@
 # GCPRO project context
 
+## OUR WORK now has three BEAF project comparisons — 2026-10-19, E48
+
+Staging Homepage154/Projects4221ba60 uses the three owner-supplied real photograph pairs, expanded from the initial one-project scope by subsequent messages. Desktop has **three equal columns**, tablet two, mobile one. Each full4:3 comparison sits above native unlinked project text. Eyebrow04, main H2/accent/introduction, section location/background and existing index buttons remain.
+
+BEAF Free4.7.21/Pro4.5.7 were already active; license Valid/Lifetime was verified without recording credentials. Published comparison records **723,742,767**, native Elementor Shortcode widgets **eb597a1,6a2a094,961e3c2**, Media **724/725,746/747,768/769**. No new plugin, dependency, class, variable, Component definition, custom JS/PHP or theme rule. One grid-local Custom CSS exception makes labels persistent and very discreet:9px/60% white text, no colored boxes, after explicit owner feedback. Native layout/breakpoints/settings remain editable; details and rollback in [Elementor map](docs/ELEMENTOR_MAP.md#beaf-project-comparisons--2026-10-19-e48) and [style ownership](docs/DESIGN_SYSTEM.md#beaf-label-exception--2026-10-19-e48).
+
+Current editorial titles: **Residential Fire Damage Restoration — Tinley Park, IL**, **Water Damage Restoration — Glenview**, **Garage Fire Damage Restoration — Northbrook, IL**. Owner identified the first two service/location contexts and garage fire damage; Northbrook was selected as provisional staging copy and must be factually confirmed before production. Descriptions are restrained photographic descriptions, without customer identities, addresses, unverified scope, outcome or performance claims. Project index links remain owner-approved # placeholders; no destinations invented or draft pages exposed. City/SEO/coverage decisions and ZIP popup remain pending, unchanged.
+
+Saved main177 nodes; whole tree outside4221ba60 equals baseline. Actual frontend1440/768/390/375 checked for3/2/1 columns, loaded images,4:3/no cropping and no horizontal overflow. All three mouse/touch comparisons work independently, start50%, no autoplay. Core/city arrows, audience hover, process ripple and desktop sticky Core intro checked. Native editor saved, SG purge invoked. Keyboard slider adjustment is **not available** in this installed native BEAF handle. Editor may show stacked shortcode images before initialization; frontend works. Anonymous runtime, physical devices, screen-reader and formal performance/CLS/contrast conformance unverified; independent anonymous web request was inaccessible. Do not present authenticated checks as anonymous proof.
+
+Pending: confirm Northbrook project location and final editorial wording; resolve existing index destinations when real published staging pages are ready; assess native BEAF keyboard support with vendor if needed; anonymous/physical-device/performance verification before production. No fourth pair requested. Archive703 and production untouched.
+
 ## Audience hover restored and white section approved — 2026-10-19, E47
 
 Residential & Commercial section7b416658 on staging Homepage154 now has owner-requested **white background**, selected through the existing native color-white token on that section only. Hero and surrounding sections unchanged; photos629/630, eyebrow01, card content/links/radii/borders/spacing/layout preserved.

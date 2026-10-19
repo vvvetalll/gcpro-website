@@ -1,5 +1,17 @@
 # GCPRO design system
 
+## BEAF label exception — 2026-10-19, E48
+
+Unique OUR WORK section exception on staging154, authorized by the BEAF integration request and subsequent explicit label feedback. No new reusable brand rule or Global Class. Layout, typography for project captions, gaps and3/2/1 breakpoints use native Atomic controls/defaults/tokens. BEAF's native options own images, orientation/offset, orange divider and disabled automatic effects.
+
+**One owner:** Project grid66b1c7d4 → local e-50f5e7b2-899b → Custom CSS. Applies only to BEAF descendants of that grid (currently723/742/767). Native BEAF has no observed control for persistent, compact, text-only labels; its default labels are hover-only with colored backgrounds. The owner explicitly requested barely noticeable labels without blue boxes.
+
+The scoped block sets BEFORE/AFTER label opacity0.6; pseudo-labels use font-body/Inter,9px,0.08em tracking,18px line height,0 padding, top8px/margin-top0 and a restrained0px1px2px rgba(0,0,0,0.5) shadow. `background:transparent !important` is the single narrow specificity exception: BEAF emits label backgrounds with !important. Native BEAF label text color is white. No other !important escalation or per-slider copied block. Do not move these rules into the theme or enqueue a parallel stylesheet.
+
+Small/faint text is an owner-selected secondary visual indicator; image alternative text identifies before/after. Do not claim label contrast or full slider accessibility conformance: installed BEAF handle is nonfocusable and lacks keyboard range behavior. No custom JS was authorized/added to emulate it. Autoplay/on-scroll/hover-follow are off; comparison movement is deliberate mouse/touch input. Native keyboard enhancement remains a vendor follow-up.
+
+Rollback: remove only this grid-local descendant block to return default BEAF labels, keeping native grid/breakpoint declarations. Change source photographs/settings in BEAF records, and captions in their native H3/P elements; do not edit shared cards or Core/Service Areas classes. No new class, variable, Component, CSS file or theme layer.
+
 ## Audience-card hover recovery — 2026-10-19, E47
 
 Supersedes E31's reduced-motion limitation only; original normal-motion design remains. **Editing owner: Global Class audience-card g-38b29fb → desktop/normal → Custom CSS**, exactly two154 consumers4c8810dc and2066a26. Retain native layout, border/radius/surface and280ms border transition; card-action g-a5c0d65 keeps280ms background transition; audience-card__image g-77c2a17 keeps280ms transform transition.

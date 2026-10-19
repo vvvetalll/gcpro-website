@@ -1,5 +1,31 @@
 # GCPRO Elementor map
 
+## BEAF project comparisons — 2026-10-19, E48
+
+This supersedes the original three placeholder cards in Projects; section/root IDs are retained. Main46c3aad4 now177 nodes, all outside Projects4221ba60 identical to the180-node pre-change snapshot.
+
+| Item | Existing/new Elementor IDs | BEAF / Media |
+| --- | --- | --- |
+| Section / inner container / project grid |4221ba60 /14d7e71c /66b1c7d4 | Grid uses3/2/1 columns desktop/tablet/mobile |
+| Preserved eyebrow / section heading |41526d68 /6b4663fc (Component71) |04 / OUR WORK, H2/accent/introduction unchanged |
+| First project root / media wrapper / Shortcode |22e7aed8 /33681ad8 /eb597a1 | `[bafg id="723"]`; BEFORE724 tinley-6.jpg, AFTER725 tinley-6-6.jpg |
+| First native caption / H3 / P |ae30c3b /0fccf2a /27fac69 | Residential Fire Damage Restoration — Tinley Park, IL |
+| Second root / media / Shortcode |b72017c /55241554 /6a2a094 | `[bafg id="742"]`; BEFORE746 glenview-house-1.jpg, AFTER747 glenview-house-2.jpg |
+| Second native caption / H3 / P |2f6babff /3a39c79b /2a2eb209 | Water Damage Restoration — Glenview |
+| Third root / media / Shortcode |31087133 /5f199388 /961e3c2 | `[bafg id="767"]`; BEFORE768 garage1.jpg, AFTER769 garage2.jpg |
+| Third native caption / H3 / P |1b321c8b /5931ddb6 /4cd02acc | Garage Fire Damage Restoration — Northbrook, IL (provisional location) |
+| Preserved index links |3281b1db,2364d92a,71823f93 | Both existing # destinations pending |
+
+Some retained Navigator titles contain historical placeholder names; IDs/table above identify the actual new photographs. Deleted old before/after placeholder children48225d6/3280e897,470bd984/64a6a73e,428c27ad/3918240 and their labels. Old linked Component68 instances278b9b0f/40880e49/528ca0d4 no longer serve these slots; definition68/shared consumers unchanged. First instance was detached to native unlinked caption; other captions are native H3/P. No shared definition edits, no fabricated project URL.
+
+**Editing:** WordPress → Before and After Slider → records723/742/767 controls photographs/settings; Elementor154 → corresponding media wrapper → legacy native Shortcode widget controls embed. V3 Shortcode settings are intentionally unavailable in the Atomic-only MCP structure response, so inspect/edit the actual native Shortcode field. Atomic paragraph dynamic shortcode was rejected because its sanitizer strips BEAF markup; that temporary test4a22ab79 was removed. Do not replace the working native Shortcode widgets with text/HTML prototypes.
+
+**Saved BEAF settings:** method1/two images; horizontal orientation (vertical divider); default offset0.5; BEFORE/AFTER; default template; width100%, blank height; native handle#F05A29; white label text; overlay opacity0. Auto slide, on-scroll, hover-follow, click-to-move, fullscreen/popup, image links/read-more/filters disabled. Skip Lazy Load off. No global plugin settings changed. Six originals are1600×1200 JPEG; first pair319158/147516bytes, second214174/146361, garage919379/911009. No crops/replacements/generated images or new image-optimization plugin.
+
+**Style owner:** grid66b1c7d4 local e-50f5e7b2-899b: native3/2/1 columns plus one scoped BEAF-label Custom CSS block. Each project root is a single-column native grid with space-md gap; captions use space-sm; media wrappers have0 padding and intrinsic image height. Removed original comparison-media/image-led-card assignments from these instances only; globals unchanged. Exact label exception and recovery in DESIGN_SYSTEM.
+
+**Validation/recovery:** readback177-node main/outside-section equality; native Shortcode fields, live image sources/alt text,50% initial offsets and independent25/75% mouse/touch movement verified.1440/768/390/375 screenshots reviewed, no document overflow. Existing two project-index # links explicitly pending. NativeBEAF keyboard slider control absent (div/tabIndex-1/no slider role), anonymous runtime not verified. Original section/main snapshots held privately in task work folder, never committed. To restore layout, use the scoped pre-E48 section snapshot/revision after backing up current154; preserve Media/BEAF records and all shared assets. Do not restore the whole homepage over later unrelated work. Removing only the label exception returns BEAF default label presentation. Keep archived original Core template703.
+
 ## Audience hover and white surface — 2026-10-19, E47
 
 No structure, ID or class-assignment change. Homepage154/main46c3aad4 retains180 nodes in the same order. Section7b416658 local style e-ed7202b-3efe now contains native background-color:var(--color-white), per owner clarification. Shared section--light remains unchanged.
