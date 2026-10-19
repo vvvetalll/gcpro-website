@@ -1,5 +1,24 @@
 # GCPRO Elementor map
 
+## Full-width Service Areas — 2026-10-19, E38
+
+Supersedes the E36/E37 descriptions below. Staging Homepage154 retains section `7d8c17ad`, container `585624a1` (existing container class, one content column), introduction `3dc285eb`, heading Component71 instance `2554ebe8`, city parent `d6dbbe2`, and action row `62862a3a`. City grid has two equal desktop/tablet columns,64/40px column gaps and single mobile column; rows64px with18px/500 type (17px mobile), same local dividers/arrows/hover. Original heading/intro/underline, global definitions and outside-section tree unchanged.
+
+| Row | Left community / row ID / text ID | Right community / row ID / text ID |
+| --- | --- | --- |
+|1|Lombard /52ad5087 /2651d55b|Arlington Heights /29925a5c /3eaa5679|
+|2|Naperville /64f07ac9 /538d7ed8|Northbrook /7703752a /72608afe|
+|3|Oak Brook /961c608 /6a7a855c|Glenview /311eade2 /3090cc15|
+|4|Schaumburg /3478458c /642d5d94|Evanston /166c23ea /3cbb955e|
+
+Navigator titles still carry their earlier city labels; use saved text/IDs in the table, not those historical titles, when editing. Original IDs were reused rather than rebuilding. Saved hrefs remain `#` per owner's explicit choice to wait for staging destinations. Candidate native object mapping and verified public research URLs are in PROJECT_CONTEXT; no public production or Draft route was installed.
+
+Action row `62862a3a` directly contains original outline Component59 instance `2b5f493` (unchanged All Service Areas/#) followed by reused native button `5350691e` (Check Service Availability, existing button-primary g-92745fa). ~53px controls, desktop/tablet horizontal row, mobile stretch/stack. Latest owner correction enables the orange button and removes Coming Soon; it has no form owner, popup target or lookup behavior. Local disabled-state styles and disabled attribute were removed.
+
+Removed ZIP nodes: panel49f026c9, notice244c26e6, heading1c84aa78, description264a3beb, Form376376c8, label10dd9f53, controls4a71aa98, input351e2f2, success42bd3375/paragraph2854c6db and error2cbaaa52/paragraph69cb65d7. No new IDs/nodes or shared Component definitions. No inline ZIP form or popup remains. Legacy Navigator title on5350691e is historical; current saved label is authoritative.
+
+Native editing: Homepage154 →09 Service Areas → retained list/action containers. Global primary/outline button rules remain shared and unchanged; only local size/layout settings changed. Saved before/after scope comparison, authenticated1440/834/390 frontend, hover, hrefs, buttons and no-form/no-action click verified. Native cache regenerated. Incognito/physical-device and native editor interaction checks not replayed. Reusable popup creation/trigger and real internal-object links are future authorized work.
+
 ## Service Areas refinement — 2026-10-19, E36/E37
 
 Current saved staging Homepage154 retains section `7d8c17ad`, two-column parent `585624a1`, approved left introduction `3dc285eb`, heading Component71 instance `2554ebe8`, city parent `d6dbbe2`, and directory wrapper `62862a3a` / Component59 instance `2b5f493`.

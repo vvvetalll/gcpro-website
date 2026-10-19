@@ -1,5 +1,42 @@
 # GCPRO project context
 
+## Current Service Areas — 2026-10-19, E38
+
+E38 supersedes E36/E37's half-width city list and inline checker. Staging Homepage154 only: section `7d8c17ad`, existing `585624a1`/`3dc285eb` now span the normal content grid. Original heading instance `2554ebe8`, intro, underline and section padding preserved. Retained city rows use 64px minimum height,18px/500 Inter (17px mobile), thin gray dividers, existing right-arrow/orange-hover behavior, two equal desktop/tablet columns (64/40px gap) and one mobile column. Existing container supplies32px desktop/tablet and20px mobile gutters. Two ~53px actions share `62862a3a`: original navy outline59/`2b5f493` and reused orange primary button `5350691e`. Mobile actions stretch/stack without overflow.
+
+### Selected communities and verified destinations
+
+Research read existing public GCPRO overview and each city landing page on2026-10-19. These first-party pages explicitly describe local coverage and restoration services. The table is the selected homepage shortlist, **not a measured ranking of the highest search volumes or most profitable markets**. No keyword, lead, revenue or ranking data was available. Coverage/page availability were verified; market/geographic weighting is qualitative editorial judgment.
+
+| Column/order | Community | Existing public page (research source, not installed link) | Existing staging object/status | Selection reason |
+| --- | --- | --- | --- | --- |
+| Left1 | Lombard | [Lombard](https://gcprochicago.com/service-area/lombard/) |526 Draft | Office's home community (Lombard address shown on GCPRO site); local relevance and existing city-specific intent. |
+| Left2 | Naperville | [Naperville](https://gcprochicago.com/service-area/naperville/) |532 Draft | Western/southwestern market; public page covers both historic homes and modern commercial spaces. |
+| Left3 | Oak Brook | [Oak Brook](https://gcprochicago.com/service-area/oak-brook/) |536 Draft | Nearby western residential/commercial market with existing tailored restoration page. |
+| Left4 | Schaumburg | [Schaumburg](https://gcprochicago.com/service-area/schaumburg/) |558 Draft | Northwest commercial/residential mix and established dedicated restoration page. |
+| Right1 | Arlington Heights | [Arlington Heights](https://gcprochicago.com/service-area/arlington-heights/) |559 Draft | Northwest suburban coverage; dedicated homeowner/business water, fire, mold and storm page. |
+| Right2 | Northbrook | [Northbrook](https://gcprochicago.com/service-area/northbrook/) |556 Draft | Northern market; existing page explicitly covers modern/historic property restoration. |
+| Right3 | Glenview | [Glenview](https://gcprochicago.com/service-area/glenview/) |533 Draft | North Shore residential/commercial coverage and existing local restoration content. |
+| Right4 | Evanston | [Evanston](https://gcprochicago.com/service-area/evanston/) |565 Draft | Near-north/lakefront community; existing local water/fire/mold and historic-property page. |
+
+[Existing public Service Areas overview](https://gcprochicago.com/service-area/) verifies broader Chicagoland coverage; corresponding staging Page495 is Draft. Chicago is a future dedicated-page opportunity: broad Chicago coverage is described by GCPRO, but a standalone Chicago city landing page was not verified in this research. No new page was created. Other covered communities still belong in the overview; this shortlist is not the coverage boundary.
+
+**Owner's explicit link decision:** keep destinations pending until staging pages are ready. All eight row destinations and All Service Areas remain approved temporary `#` values. Public URLs above were read for research only; no production URL was installed, no Draft URL exposed, and no destination Page was published/modified. Future linking must use native internal object selection on these existing objects only after publication and actual route checks.
+
+### Latest availability-button decision and future popup
+
+Owner subsequently requested standard site styling, no Coming Soon text, and an enabled button. Final state follows that correction: `5350691e` is a native button using existing `button-primary`, no disabled attribute, no notice and no local disabled-state CSS. The inline native Form/input/status slots are removed. Button currently does nothing: it has no associated form, popup, lookup, validation, redirect or network action. Do not describe it as working service-availability functionality.
+
+Future work, separately authorized: create one reusable Elementor popup with accessible keyboard/focus/close behavior; agree the verified service-coverage/ZIP data source and results messaging; implement and test actual lookup only then; bind this existing button using Elementor's native popup action. No functional or empty popup, new backend, API, JS or database was created in E38.
+
+### Verification, editability and recovery
+
+MCP before/after full Homepage reads show changes confined to Service Areas, with no new IDs.12 obsolete ZIP nodes were removed; original city row/text IDs and both button identities preserved. Scope snapshot saved privately in the task's work folder before edits, plus final scoped snapshot; this is not a full-site backup or tested restore. Heading/introduction and Component59 content remain exact; shared59/71 definitions and Global Class/Variable definitions were not changed. Native local spacing/layout/typography controls remain on retained nodes; existing arrow pseudo-selector styling is carried forward from E36. No new Global Class, Variable, Component, plugin, dependency, custom CSS/JS/PHP or source-code file was introduced. Unnecessary ZIP wrapper removed after its form and notice were retired.
+
+Authenticated frontend inspected at actual CSS1440/834/390 widths, including computed64px rows, equal desktop/tablet grid columns, mobile single column,32/20px gutters, ~53px buttons and no section overflow. Retained arrow hover verified #F05A29/3.2px movement; nine href placeholders checked explicitly. Enabled availability click had zero observed request events, no navigation/dialog and zero forms in the section. Elementor native rendered cache was regenerated. Before/after screenshots are chat deliverables, not committed admin/account captures. No incognito, physical-device, screen-reader or formal performance verification. Native editor control interaction was not separately replayed in E38.
+
+Pending: owner visual acceptance; real staging city/overview routes and native object linking; future reusable ZIP popup and lookup implementation; incognito/physical-device acceptance. Prior Hero/media/copy/SEO approval holds remain unchanged. Rollback should restore only this section from the prior revision/scope snapshot, never unrelated Homepage content.
+
 ## Current Service Areas state — 2026-10-19, E36/E37
 
 Staging Homepage 154 only. Owner approved E36's plain two-column city list, with the eight city names in screenshot order and one-column mobile fallback. Its exact saved subtree, heading/introduction and All Service Areas button were preserved throughout E37. All eight city destinations and the directory action remain pre-existing `#` placeholders; real public destinations remain pending. Do not silently activate draft routes or substitute production URLs.
@@ -207,6 +244,7 @@ Use these labels throughout the documentation. Observed facts are limited to the
 
 | Ref | Source and date | What it establishes / limits |
 | --- | --- | --- |
+| E38 | Fresh staging154 saved reads/schemas and scoped snapshots; first-party GCPRO overview/eight city pages; staging Draft inventory; authenticated CSS1440/834/390 screenshots/geometry/hover and availability click/network observation,2026-10-19 | Full-width section,12 ZIP nodes removed, no new nodes; eight selected communities, links intentionally pending per owner; button enabled/no notice per later correction, no ZIP behavior. Outside-section154 equality verified; no anonymous/incognito, physical-device or formal performance claim. |
 | E37 | Staging MCP schemas/full saved154 before-after comparison; native editor observation; ordinary authenticated frontend1440/834/390, disabled/read-only/focus checks and Elementor cache regeneration, 2026-10-19 | Nine ZIP elements only; approved city list and other Homepage elements equal. No backend/JS/global resources; incognito/anonymous, physical-device and formal performance tests unperformed. |
 | E36 | Earlier same-chat saved154 comparison, desktop/tablet/mobile screenshots and forced-hover computation; owner approval in subsequent ZIP request, 2026-10-19 | Approved city list, original IDs/placeholder URLs retained; authenticated emulation, no real routes. |
 | E28 | Native Media615/616 upload/metadata, saved154 before/after trees, native Global Class/editor image controls and anonymous1440/1200/900/390 screenshots, 2026-10-16; [evidence](docs/evidence/E28/verification.json) | Two approved audience photographs, native4:3 presentation, preserved card bodies/other sections, successful anonymous delivery after cache purge. Visual trial only; no physical-device/incognito/formal CLS check or tested full-site restore. |
