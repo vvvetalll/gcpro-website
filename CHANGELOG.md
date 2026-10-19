@@ -1,5 +1,13 @@
 # GCPRO changelog
 
+## 2026-10-19 — Twelve-city responsive Service Areas layout — E39
+
+- Staging Homepage154 / Service Areas7d8c17ad only. Existing city parent d6dbbe2 now uses native three-column desktop / two-column tablet / one-column mobile grid. Twelve retained/cloned rows produce4/6/12 complete rows at the respective breakpoints; original64px row height, type, dividers, arrows and hover preserved.
+- Kept the original eight names and added Elmhurst, Downers Grove, Highland Park and Elk Grove Village strictly for layout review. First two desktop columns retain the earlier four-city arrangements; additions form the third. This is not final SEO or coverage approval. Existing destinations remain pending `#`; no URL invented/changed, no Draft pages published.
+- Reused existing button-outline-orange g-563da68 on native availability button5350691e; removed button-primary assignment. Transparent/orange default matches navy outline59/2b5f493's Montserrat60016px,16px24px padding,8px radius and ~53px height. Existing navy action/link unchanged. Availability remains a native button with no href/form/popup/search action; no dead link, ZIP logic or backend added.
+- Four new row/text pairs only:7f8df755/736d15ef,28cc87b/788cb19d,3e9e185f/5c43eda1,5fcaef53/7ebac29a. No new Global Classes, Variables, Components, wrappers, plugins, dependencies, JS/PHP or CSS rule definitions; existing row presentation cloned. Shared global definitions unchanged; DESIGN_SYSTEM unchanged.
+- Saved full-tree comparison verifies all Homepage nodes outside Service Areas, heading/introduction Component71 instance2554ebe8 and navy outline instance2b5f493 exactly unchanged. Authenticated frontend1440/840/392 CSS widths verified:3/2/1 columns, all12 names,64px rows/dividers/arrows, complete tablet rows, mobile gutters/stacked buttons and no page horizontal overflow. Added-row hover verified #F05A29 plus3.2px movement. Availability click: zero observed requests, no navigation/dialog/form. Native Elementor rendered cache refreshed. Screenshots delivered in chat; incognito/physical-device/screen-reader/performance and native editor interaction not replayed. City selection, real staging routes and future reusable ZIP popup remain pending approval.
+
 ## 2026-10-19 — Full-width Service Areas and future availability action — E38
 
 - Staging Homepage154, Service Areas `7d8c17ad` only. Existing container `585624a1` now uses one full-width content column; retained city grid `d6dbbe2` remains two equal columns, 64px rows, 18px/500 Inter names, 64px desktop / 40px tablet column gap and one column on mobile. Preserved heading Component71 instance `2554ebe8`, intro, orange underline and global design system.

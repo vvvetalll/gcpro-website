@@ -1,5 +1,26 @@
 # GCPRO project context
 
+## Current Service Areas layout review — 2026-10-19, E39
+
+E39 supersedes E38's two-column/eight-city layout and solid-orange availability button. Staging Homepage154 / Service Areas7d8c17ad only. Existing parent d6dbbe2 uses native3-column desktop,2-column tablet≤1024px and1-column mobile≤767px grid. Desktop gap48px; tablet40px; mobile0. All rows retain64px height,18px/500 Inter (17px mobile), thin gray bottom divider and right arrow/orange-hover behavior. The original heading, intro, underline, normal Homepage gutters and other sections are exact saved matches to the pre-task snapshot.
+
+| Desktop row | Column1 | Column2 | Column3 |
+| --- | --- | --- | --- |
+|1|Lombard|Arlington Heights|Elmhurst|
+|2|Naperville|Northbrook|Downers Grove|
+|3|Oak Brook|Glenview|Highland Park|
+|4|Schaumburg|Evanston|Elk Grove Village|
+
+Tablet uses the same12 DOM items in row-major order, two columns/six full rows; mobile one column/twelve rows. The earlier eight cities are retained. All12 are **layout content only, not a final SEO, service-coverage, ranking or market-priority approval**. E38 research remains dated supporting context, not blanket approval of the final shortlist. All12 rows and the All Service Areas action retain pre-existing/unready `#` destinations; no valid working link was replaced, no production fallback installed and no Draft Page published. Final city selection, actual staging routes and native internal object linking remain pending.
+
+Availability button5350691e now reuses existing Global Class button-outline-orange g-563da68. Normal appearance: transparent background, orange #F05A29 border/text, matching the navy outline's Montserrat60016px,16px24px padding,8px radius and ~53px height. Existing action row62862a3a stays horizontal desktop/tablet and stretches/stacks mobile. Original navy outline Component59 instance2b5f493 is unchanged. Existing hover/focus states come from the shared outline classes. No shared design rule changed, so DESIGN_SYSTEM is unchanged.
+
+Availability is still an enabled native button per the standing owner preference, with no href, associated Form, popup target or lookup behavior. No Coming Soon text was added. Clicking it currently performs no action; it must not be described as working ZIP search. Future separately authorized reusable Elementor popup/accessible focus behavior, verified coverage data, results messaging and actual lookup remain pending final approval. No popup, API, ZIP database, validation, redirect, backend or JavaScript was introduced.
+
+Four necessary duplicate row/text pairs provide the added cities without rebuilding the existing eight: Elmhurst7f8df755/736d15ef; Downers Grove28cc87b/788cb19d; Highland Park3e9e185f/5c43eda1; Elk Grove Village5fcaef53/7ebac29a. Cloned existing local row/text presentation and pending destinations; no additional wrappers or new Global Classes/Variables/Components/plugins/dependencies/code files/custom rule definitions. Existing pseudo-element arrow rules were carried forward. Edit local grid/responsive controls on d6dbbe2, city paragraph content on each row, existing outline class on5350691e. Navigator titles on retained/duplicated nodes may reflect older labels; use current saved text/IDs in ELEMENTOR_MAP.
+
+Verification: scoped snapshot saved privately before edits; fresh saved154 comparison confirms exact outside-section equality plus unchanged heading/intro and navy outline instance. Authenticated rendered checks at actual CSS1440/840/392 widths show3/2/1 columns,4/6/12 complete rows, twelve correct names,64px row heights, dividers, arrows, matching buttons and no page horizontal overflow. Added-row hover computed #F05A29/3.2px. Availability click had zero observed request events, unchanged URL, no dialog and no Form. Native Elementor Clear Files & Data regenerated rendered HTML. Screenshots delivered as chat outputs; incognito/physical-device/screen-reader/performance and native visual-editor interaction not tested. Snapshots are scoped recovery aids, not a full-site restore test. Restore only the section from the prior revision for rollback, preserving unrelated work.
+
 ## Current Service Areas — 2026-10-19, E38
 
 E38 supersedes E36/E37's half-width city list and inline checker. Staging Homepage154 only: section `7d8c17ad`, existing `585624a1`/`3dc285eb` now span the normal content grid. Original heading instance `2554ebe8`, intro, underline and section padding preserved. Retained city rows use 64px minimum height,18px/500 Inter (17px mobile), thin gray dividers, existing right-arrow/orange-hover behavior, two equal desktop/tablet columns (64/40px gap) and one mobile column. Existing container supplies32px desktop/tablet and20px mobile gutters. Two ~53px actions share `62862a3a`: original navy outline59/`2b5f493` and reused orange primary button `5350691e`. Mobile actions stretch/stack without overflow.
@@ -244,6 +265,7 @@ Use these labels throughout the documentation. Observed facts are limited to the
 
 | Ref | Source and date | What it establishes / limits |
 | --- | --- | --- |
+| E39 | Fresh staging154 saved reads/scoped snapshots and authenticated frontend CSS1440/840/392 geometry/screenshots, added-row hover and availability click/network observation,2026-10-19 | Twelve-city3/2/1 layout and orange outline button only; outside-section/heading/navy instance equality. Added four cities for layout only, all routes pending, no ZIP functionality; no anonymous/incognito/physical-device/native-editor interaction claim. |
 | E38 | Fresh staging154 saved reads/schemas and scoped snapshots; first-party GCPRO overview/eight city pages; staging Draft inventory; authenticated CSS1440/834/390 screenshots/geometry/hover and availability click/network observation,2026-10-19 | Full-width section,12 ZIP nodes removed, no new nodes; eight selected communities, links intentionally pending per owner; button enabled/no notice per later correction, no ZIP behavior. Outside-section154 equality verified; no anonymous/incognito, physical-device or formal performance claim. |
 | E37 | Staging MCP schemas/full saved154 before-after comparison; native editor observation; ordinary authenticated frontend1440/834/390, disabled/read-only/focus checks and Elementor cache regeneration, 2026-10-19 | Nine ZIP elements only; approved city list and other Homepage elements equal. No backend/JS/global resources; incognito/anonymous, physical-device and formal performance tests unperformed. |
 | E36 | Earlier same-chat saved154 comparison, desktop/tablet/mobile screenshots and forced-hover computation; owner approval in subsequent ZIP request, 2026-10-19 | Approved city list, original IDs/placeholder URLs retained; authenticated emulation, no real routes. |

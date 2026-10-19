@@ -1,5 +1,22 @@
 # GCPRO Elementor map
 
+## Twelve-city responsive Service Areas — 2026-10-19, E39
+
+Supersedes E38's two-column/eight-city and solid-primary-button descriptions below. Existing section7d8c17ad, full-width container585624a1, introduction3dc285eb, heading71/2554ebe8, city parentd6dbbe2 and action row62862a3a retained. Grid local native responsive layout:3 desktop /2 tablet /1 mobile columns,48/40/0px gaps,4/6/12 complete rows. Heading/intro, navy outline59/2b5f493 and outside-section154 tree compare exactly equal.
+
+| Desktop row | Column1 row/text IDs | Column2 row/text IDs | Column3 row/text IDs |
+| --- | --- | --- | --- |
+|1|Lombard52ad5087/2651d55b|Arlington Heights29925a5c/3eaa5679|Elmhurst7f8df755/736d15ef (new)|
+|2|Naperville64f07ac9/538d7ed8|Northbrook7703752a/72608afe|Downers Grove28cc87b/788cb19d (new)|
+|3|Oak Brook961c608/6a7a855c|Glenview311eade2/3090cc15|Highland Park3e9e185f/5c43eda1 (new)|
+|4|Schaumburg3478458c/642d5d94|Evanston166c23ea/3cbb955e|Elk Grove Village5fcaef53/7ebac29a (new)|
+
+Saved DOM is row-major across this table; tablet fills two columns/six rows without empty cells, mobile one column. Four new rows were native duplicates of existing presentation, each with one paragraph child. No rebuilt original rows or unnecessary wrappers. All12 hrefs and directory action remain pending `#`, unchanged/retained by owner direction. Cities are for layout review only; final SEO/coverage selection and real native object destinations pending.
+
+Existing availability5350691e replaces its button-primary assignment with existing button-outline-orange g-563da68. Local height53px retained; shared outline style supplies transparent/orange default, Montserrat60016px, padding16px24px and radius8px matching navy outline. Shared class definitions unchanged. It has no href/form owner/popup/lookup action. Enabled appearance/no Coming Soon follows standing owner preference, not functional ZIP approval. Future reusable popup and lookup require separate authorization.
+
+Saved and authenticated frontend1440/840/392 checks verified names/order, complete3/2/1 layout,64px dividers/arrows, hover, buttons and no page overflow; no request/navigation/dialog/form from availability click. Native cache regenerated. No incognito/physical-device/native-editor interaction replay; no final city/ZIP approval. Prior E38/E37 maps below remain historical where superseded.
+
 ## Full-width Service Areas — 2026-10-19, E38
 
 Supersedes the E36/E37 descriptions below. Staging Homepage154 retains section `7d8c17ad`, container `585624a1` (existing container class, one content column), introduction `3dc285eb`, heading Component71 instance `2554ebe8`, city parent `d6dbbe2`, and action row `62862a3a`. City grid has two equal desktop/tablet columns,64/40px column gaps and single mobile column; rows64px with18px/500 type (17px mobile), same local dividers/arrows/hover. Original heading/intro/underline, global definitions and outside-section tree unchanged.
