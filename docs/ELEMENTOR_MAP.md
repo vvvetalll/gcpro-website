@@ -1,5 +1,26 @@
 # GCPRO Elementor map
 
+## Experimental Core Services B — 2026-10-19, E44
+
+Staging Homepage154/main46c3aad4 now has B section3fd180bb at child index3, immediately after unchanged Core Services A38ed6da4. Existing nine section subtrees compare exactly unchanged. No shared Component definition changed; B is native editable Atomic elements rather than detaching/reworking Component62.
+
+| B role | Elementor ID |
+| --- | --- |
+| Editorial grid / introduction / directory |61328a99 /6cb38139 /48842292 |
+| Eyebrow / H2 / orange divider / intro paragraph |135f55 /1aa0cb69 /4a4d8cc5 /7775c3e8 |
+| Water Damage row / SVG attachment |54ee8d2d /596 |
+| Fire & Smoke Damage row / SVG attachment |97cc573 /597 |
+| Mold Remediation row / SVG attachment |2ebf3e02 /607 |
+| Reconstruction row / SVG attachment |24281f6b /599 |
+| Storm Damage row / SVG attachment |2890630 /600 |
+| Personal Property Restoration row / SVG attachment |463d381e /601 |
+
+Each row is currently article→existing icon-svg SVG + stack/stack--compact copy(h3,p) + span arrow. Repeated styles: core-b-row g-d37a353, core-b-title g-757705e, core-b-description g-6bb05c4, core-b-arrow g-c3123c0; six consumers each, all in B. Unique layout/intro settings stay local. Existing section/section--light/container/layout-reset/text-muted classes reused without definition changes.
+
+**Canonical B link register:** all six named row IDs above have no link.destination configured and render no href. Their corresponding existing A Service Card62 cta_link overrides remain intentional#. No verified public staging service destination was supplied; status remains pending. Do not add#, typed production paths or draft/preview routes. Once approved staging objects are public, use native object/Internal URL binding on each whole-row wrapper, change its semantic tag to a, and test independent destinations, full-row click, real Tab/focus/Enter, touch feedback and migration mapping. Existing focus-visible outline is prepared but was tested only with forced pseudo-state; pending articles correctly remain outside the tab order.
+
+Desktop split/sticky only above the site's unchanged native tablet max1024;1024 and768 stack/static; mobile max767 stacks/static. This deliberately also stacks at1024 rather than changing shared breakpoints. [Full class ownership and scoped exception](DESIGN_SYSTEM.md#experimental-core-services-b--2026-10-19-e44). Recovery: remove section3fd180bb only; check consumers before removing its four classes; preserve A and existing resources. No full-site restore test.
+
 ## HOW WE WORK hover compatibility — 2026-10-19, E43
 
 No Elementor mapping change: Homepage154/section4681b8f5/heading5494e63e/parent5a7e87b2/instance79a67ca3→Component582 remain exact saved matches. Circle source IDs43b49516,cc0c097,28f4497,2679cdee retain process-timeline__number g-e17507d and process-step-number g-af5ab08; expected step/root/connector classes unchanged, local styles/interactions empty. Native definitions stay Custom CSS:null.

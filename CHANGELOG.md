@@ -1,5 +1,13 @@
 # GCPRO changelog
 
+## 2026-10-19 — Experimental responsive Core Services B — E44
+
+- Staging Homepage154: added section3fd180bb after untouched A38ed6da4. New grid61328a99, intro6cb38139 and directory48842292 implement the attached editorial reference with six approved SVGs596/597/607/599/600/601, native headings/paragraphs/divider, compact copy and arrows.
+- 1440 asymmetric columns/sticky intro;1024/768 stack under the unchanged native tablet breakpoint;390/375 stack with20px gutters,32px icons,18px titles, two-line14px descriptions and22px vertical row padding. Native row hover/active color inheritance, no animation/motion/layout shift.
+- Added four narrowly scoped repeated-style classes: core-b-row g-d37a353, core-b-title g-757705e, core-b-description g-6bb05c4, core-b-arrow g-c3123c0, six B consumers each. Only new Custom CSS is row focus-visible2px navy outline/4px offset, retained because converter lacks native mapping. Reused section/container/stack/stack--compact/layout-reset/text-muted/icon-svg and existing Variables; removed temporary duplicate icon class and redundant cursor fallbacks. No new Component/Variable/code file/JS/PHP/plugin/dependency/theme change.
+- Read saved structure after staging publish: all nine original section subtrees compare exactly equal. Existing class definitions/order unchanged. Chrome responsive screenshots reviewed1440/1024/768/390/375: all six rows/icons/arrows/dividers, no horizontal overflow; mobile descriptions two lines. Water/Property whole-row hover changes title/arrow orange with stationary geometry; reduced motion0s/no transform; forced focus-visible outline verified.
+- All six B destinations remain pending, with no href/fake tab stops/dead links/draft exposure. Real keyboard activation and touch-link feedback remain pending valid routes. Emulated pending article touch produced no active state/navigation, as noninteractive content. Physical-device, anonymous, screen-reader/performance/full-site restore not tested. No production or unrelated Homepage changes. Updated context, map and design ownership; B remains experimental and A replacement/service-selection approval remains pending.
+
 ## 2026-10-19 — HOW WE WORK pointer-gate restoration — E43
 
 - Diagnosed before edits on staging154/section4681b8f5/Component582: existing four circles/classes/overrides/local styles/interactions intact; E16 ripple rules/keyframe and Code590 loaded. Connected Chrome/IAB reported hover:none/pointer:none; actual pointer over copy set parent:hover while media gate blocked ::before/::after. Underlying input-reporting reason unknown; no evidence implicates Service Areas.

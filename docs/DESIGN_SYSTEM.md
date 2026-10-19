@@ -1,5 +1,24 @@
 # GCPRO design system
 
+## Experimental Core Services B — 2026-10-19, E44
+
+Section-local experimental pattern on staging154/B3fd180bb; not a replacement of approved A or a new site-wide design rule. Existing palette/fonts/Variables/tag defaults/breakpoints and class definitions/order unchanged. Reuses section, section--light(#EFF6FF), container, stack, stack--compact, layout-reset, text-muted and icon-svg.32px approved SVGs596/597/607/599/600/601 use existing icon-svg fill:none rule. No duplicated icon system.
+
+| New class (six B-only consumers each) | Native ownership / present gap |
+| --- | --- |
+| core-b-row g-d37a353 | Editorial grid40px/minmax(0,1fr)/24px with24px gaps and24px vertical padding; mobile32px/minmax(0,1fr)/20px with16px gaps and22px padding. Native1px bottom border, navy color, orange hover/active. Existing city-link has a pseudo-arrow/motion and incompatible spacing; existing cards introduce unwanted surfaces/borders. |
+| core-b-title g-757705e | Montserrat700,24px desktop (current tablet default renders22px),18px mobile,1.3 line height, inherited row color, unchanged case. Existing text classes do not provide this title role. |
+| core-b-description g-6bb05c4 | Inter16px/1.6 muted;14px mobile, short two-line copy at390/375. Existing text-meta lacks this mobile size. |
+| core-b-arrow g-c3123c0 | Native span arrow,24px/1.3 desktop20px mobile, inherited row color, vertically centered. Existing card-action supplies an unwanted circle/background. |
+
+Unique section layout controls remain local: desktop0.9fr/1.4fr columns,80px gap, sticky introduction top96px; native tablet max1024 uses one column/gap40px/static intro; mobile gap24px. Header H2 is40/36/28px; orange native e-divider40×3px; intro18/16px with text-transform:none to offset text-muted's existing uppercase setting. No shared class edited to accommodate B.
+
+**Only new scoped CSS exception:** Global Classes→core-b-row→desktop base→Custom CSS: `&:focus-visible { outline:2px solid var(--color-primary); outline-offset:4px; }`. The installed converter stores this unsupported state/outline as fallback; all row border/layout/hover/active and the other three classes are native with Custom CSS:null. No theme/JS/PHP/custom code entry. No transforms/transitions/animations are used; reduced-motion has no movement to suppress. Color changes use inherited native row state, not per-element CSS.
+
+Pending rows are noninteractive articles with no href/tabindex; focus-visible is prepared for valid future row anchors. Forced-state rendering confirmed2px navy outline/4px offset; actual keyboard activation and mobile touch-action feedback are deferred until valid routes exist. Emulated touch on current article did not produce :active/navigation; do not call it a functional link. No dead links or fake focus stops added.
+
+Complexity audit removed temporary core-b-icon g-b11c23f in favor of existing icon-svg and removed redundant cursor fallback declarations from B classes/local text. Four retained classes solve actual sixfold repeated styling; one copy wrapper groups title/description and avoids extra card wrappers; no new Component/Variable/plugin/dependency. Before/after saved comparisons confirm all original sections and existing classes unchanged. [Structure, pending-link register and recovery](ELEMENTOR_MAP.md#experimental-core-services-b--2026-10-19-e44).
+
 ## HOW WE WORK hover compatibility — E43
 
 2026-10-19: existing approved E16/Code590 CSS exception adds a hover:none/pointer:none compatibility branch after a verified Chrome :hover/media mismatch. Original fine-pointer desktop and coarse-touch mobile behavior retained; no native style or class changes. Ring creation/pulse still requires no reduced-motion preference; actual :hover remains the trigger. Same2px rings/1000ms,160ms delay,scale1→1.55/fade0.55→0 and1160ms number-color synchronization. Exactly three media-query lines in the existing deployments/canonical mirrors changed; no new CSS system, file, keyframe or JavaScript. [Evidence, native-first rationale, editing and rollback](milestones/2026-10-16-process-ripple.md#e43--pointer-capability-compatibility-restoration-2026-10-19). Browser reason for reporting pointer:none and physical/anonymous acceptance remain unverified.
