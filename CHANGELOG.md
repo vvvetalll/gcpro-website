@@ -1,5 +1,13 @@
 # GCPRO changelog
 
+## 2026-10-19 — CSS architecture policy and read-only Service Areas audit — E41
+
+- Documented the required four-layer styling priority in AGENTS.md and docs/DESIGN_SYSTEM.md: native Atomic/Variables, reusable Global Classes, minimal scoped Custom CSS for native gaps, theme only for genuinely global technical rules unsuitable for Elementor. Added ownership, reuse, scope, specificity, exception/recovery and visual-preservation rules.
+- Audited fresh saved Homepage154/Service Areas7d8c17ad/grid d6dbbe2 and class registry without writes. Confirmed12 identical row patterns and12 identical text patterns across8 local style IDs each, plus redundant transparent hover background and paragraph zero margin. Distinguished native local properties from Custom CSS fallback and maintenance risks from unproven runtime/cascade defects.
+- Recorded exact row/style identities and an optional approval-only consolidation plan in DESIGN_SYSTEM; no automatic reuse/modification of existing city-link/city-links classes. Current arrow/focus/reduced-motion exception retained. Updated PROJECT_CONTEXT; ELEMENTOR_MAP unchanged.
+- Documentation-only validation: existing content preserved, policy/links/IDs/changed paths/diff reviewed and remote main verification required. No website/theme/cache/production modifications, new runtime resources or new responsive/interaction QA. Owner approval is required before any proposed Elementor refactor.
+
+
 ## 2026-10-19 — Service Areas synchronized hover and keyboard focus — E40
 
 - Staging Homepage154, section7d8c17ad/grid d6dbbe2 only: refined existing12 row/text pairs. Navy names/arrows turn orange #F05A29 together on whole-row hover/focus-visible; divider tints orange without thickness change; arrow moves3.2px; transitions200ms. Focus adds2px navy outline/3px offset. Existing white background, grid3/2/1, content, URLs, dimensions and buttons preserved.

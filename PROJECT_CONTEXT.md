@@ -1,5 +1,14 @@
 # GCPRO project context
 
+## CSS architecture policy and Service Areas audit — 2026-10-19, E41
+
+Documentation-only task. [AGENTS](AGENTS.md#css-architecture-policy) and [DESIGN_SYSTEM](docs/DESIGN_SYSTEM.md#css-architecture-policy--2026-10-19-e41) now require: native Atomic controls/Variables → reusable Global Classes → minimal scoped Custom CSS for demonstrated gaps → theme stylesheet only for genuinely global technical rules that cannot be managed cleanly in Elementor. One property owner, existing-resource/consumer checks, no parallel styling system or CSS-elimination refactor.
+
+Fresh saved Service Areas154/7d8c17ad audit found12 identical row patterns across8 local style IDs and12 identical paragraph patterns across8 local IDs (four duplicate cities reuse IDs); repeated arrow/focus/reduced-motion CSS is a maintenance concern. Transparent hover background and paragraph margin:0 duplicate their current base/default. Saved round-trip CSS mixes native properties with fallback; no exact emitted-CSS size or new runtime defect is claimed. Existing city-link/city-links labels were found, but their definitions/consumers were not audited; do not automatically reuse/change them. Full findings, exact row/style IDs, exceptions and optional approval-only consolidation are in DESIGN_SYSTEM.
+
+No WordPress/Elementor/theme/cache/production change; approved visual result, layout, content, links and actions preserved by taking no write actions. No new runtime classes, Variables, Components, code, plugins or dependencies. No new responsive, anonymous or interaction QA was run; E40 remains the prior test record. Pending: owner decision on a separate minimal consolidation after class/consumer inspection; existing city/route/ZIP approval holds remain. ELEMENTOR_MAP unchanged because no structure/class assignment changed.
+
+
 ## Service Areas hover refinement — 2026-10-19, E40
 
 E40 changes only the12 existing city rows and their text color inheritance on staging Homepage154 / Service Areas7d8c17ad / grid d6dbbe2. Normal city names and arrows use existing navy color-primary #1A327D; whole-row hover and focus-visible turn both orange color-accent #F05A29, tint the existing bottom divider rgba(240,90,41,0.4), and translate the arrow3.2px right. Row color/divider and arrow color/transform transition200ms. Keyboard focus additionally has a2px navy outline, offset3px. Background remains transparent over the existing white section; no fills, shadows, scaling or geometry changes.

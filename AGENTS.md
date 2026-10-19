@@ -24,6 +24,21 @@ Avoid hidden CSS, JavaScript, HTML-widget workarounds, fragile selectors, direct
 
 Discover actual connector capabilities and schemas. Tool presence is not a successful staging test. Read fresh structure before changes and after saves; never reuse stale element trees after another write. Do not infer IDs from labels or copy IDs between installations.
 
+## CSS architecture policy
+
+Adopted 2026-10-19. Apply this order to new work and authorized refinements:
+
+1. **Native Atomic style controls and existing Variables first.** Keep layout, typography, spacing, colors, borders, responsive variants and supported states in Elementor's native controls. Reuse approved tokens; do not create a second palette or token system.
+2. **Reusable Global Classes for repeated styling.** Reuse a suitable existing class after inspecting its definition, priority and consumers. When a real repeated pattern needs a class, give it one clear role and put supported properties in native class controls. Do not repeat the same pattern as independent local CSS or add another class with an equivalent purpose.
+3. **Minimal scoped Custom CSS for demonstrated native gaps.** Keep only unsupported declarations/selectors in the narrowest appropriate Elementor scope. If a repeated pattern needs the same exception, prefer one scoped class-owned rule after consumer checks rather than copying a block onto every element. Local CSS remains appropriate for a genuinely unique exception. Record the native limitation, exact editing location, affected consumers, approval/scope and rollback. Re-read saved output: a connector CSS input can become native properties, Custom CSS, or be dropped; input syntax alone does not identify the storage layer.
+4. **Theme stylesheet last, for genuinely global technical rules only.** Use it only where the rule cannot be managed cleanly through Elementor, with separately authorized source/deployment scope. A rule repeated within one section is not global merely because it repeats. Do not move brand styling, page layouts or one-off interactions into the theme to reduce an Elementor CSS count. Do not enqueue a documentation/source mirror as a second active stylesheet.
+
+Maintain one authoritative owner for each property/state/breakpoint. Inspect defaults, class order, local styles and existing exceptions before adding an override. Prefer inheritance and low-specificity, narrowly scoped selectors; avoid specificity escalation, unnecessary `!important`, broad tag/descendant selectors, conflicting logical/physical declarations and parallel Elementor/theme implementations. Different states and genuine responsive differences are not duplication merely because they mention the same property. Preserve accessible focus and reduced-motion behavior.
+
+**Preserve working approved designs.** CSS is not itself a defect. Do not refactor working elements solely to eliminate CSS, create speculative abstractions, or migrate historical exceptions automatically under this policy. Report actual duplication, redundancy and conflicts separately, distinguish confirmed issues from candidates needing runtime validation, and propose the smallest maintainable change with before/after verification. A documentation/audit request does not authorize website edits; obtain approval before a subsequent Elementor refactor when it is outside the current authorized scope.
+
+See [CSS layer responsibilities and the read-only Service Areas audit](docs/DESIGN_SYSTEM.md#css-architecture-policy--2026-10-19-e41). Existing scoped exceptions remain dated records, not blanket permission for new code.
+
 ## Mandatory native internal linking and URL integrity
 
 Apply this rule automatically across GCPRO pages, navigation, Header/Footer and reusable Components:

@@ -1,5 +1,55 @@
 # GCPRO design system
 
+## CSS architecture policy — 2026-10-19, E41
+
+This is the agreed policy for future authorized styling work. It does not migrate existing styles or authorize changes to the website.
+
+| Priority | Layer and responsibility | Use boundary |
+| --- | --- | --- |
+| 1 | Native Atomic controls and approved Variables | First choice for layout, spacing, typography, color, border, responsive rules and supported states. Reuse the current design tokens. |
+| 2 | Reusable Global Classes | Own real repeated styling patterns. Inspect/reuse an existing suitable class, its priority and consumers before adding one. Keep supported properties in native class controls. |
+| 3 | Minimal scoped Custom CSS in Elementor | Only for a demonstrated native capability gap. Prefer one class-owned exception for a repeated pattern; keep a unique exception local. Document exact location, scope, reason, approval and rollback. |
+| 4 | Theme stylesheet | Only genuinely global technical rules that cannot be managed cleanly through Elementor, within separately authorized theme/deployment scope. Section-specific repetition does not qualify. |
+
+The styling mechanism and scope are separate decisions: a Global Class should still use native properties wherever possible, with only its unsupported remainder in Custom CSS. A raw CSS string accepted by the connector is not proof that everything became native controls; the converter may split native properties and Custom CSS or omit unsupported input. Inspect the saved output and actual editor/render before claiming native editability or successful implementation.
+
+Use one authoritative owner per property/state/breakpoint. Inspect HTML defaults, class priority, local overrides and existing exceptions before writing. Avoid duplicated per-element CSS, equivalent classes, redundant overrides, specificity escalation, unnecessary `!important`, broad selectors and parallel Elementor/theme styling systems. Inheritance can coordinate child text with a row state. State overrides and responsive differences that implement a real requirement are not automatically redundant. Reuse approved colors/spacing rather than introducing parallel tokens; a single scoped tint need not become a new global Variable.
+
+Preserve approved visual results. Working Custom CSS may be the simplest maintainable solution; do not replace it merely to reach zero CSS, create a Component just to centralize styling, or relocate a page interaction to the theme. Assess each historical exception in its actual scope. A refactor must have a concrete benefit, approval within task scope, scoped recovery and comparison of saved values, responsive geometry, hover/focus, reduced motion and affected consumers. Repository source mirrors are documentation/recovery sources unless explicitly deployed; never load them in parallel with their active Elementor rules.
+
+### Service Areas CSS audit — read-only, 2026-10-19
+
+**Source/scope:** fresh existing GCPRO Elementor MCP saved-tree read of staging Homepage154 → Service Areas7d8c17ad → grid d6dbbe2, plus active Global Class registry. No website write, cache purge, publication, theme edit or runtime test was performed in this audit. E40 records the prior hover/render tests; they were not repeated here. The round-trip `styles.css` combines native properties and fallback CSS, so its length is not a count of handwritten Custom CSS or emitted stylesheet bytes.
+
+| Finding | Evidence and implication | Disposition |
+| --- | --- | --- |
+| Confirmed repeated local row pattern | All12 row nodes expose byte-identical style strings across8 distinct local style IDs; the four later city duplicates reuse4 of those IDs. The repeated pattern includes the pseudo-element arrow, transition, hover/focus-visible and nested reduced-motion exception. There are not12 independent definitions. | Maintenance/drift risk. A scoped reusable row class is a possible simplification, subject to inspecting existing class definitions/consumers and preserving the approved result. No consolidation performed. |
+| Confirmed repeated text pattern | All12 paragraph nodes expose byte-identical typography/inheritance strings across8 local style IDs. The native paragraph default already supplies margin:0; the local pattern repeats it. | Optional consolidation/native inheritance review alongside the row pattern. Do not mislabel ordinary Atomic local typography as entirely Custom CSS. |
+| Confirmed redundant state declaration | Each row sets background-color:transparent normally and again in &:hover. The hover value adds no change relative to its own normal rule. | Small cleanup candidate only; preserve the white/no-fill result and check the cascade before removal. |
+| Necessary current exception, not an automatic removal target | The existing arrow uses ::after; focus-visible and reduced-motion behavior share its local fallback. E40 records the connector dropping a top-level arbitrary media query and retaining the nested &:is(*) form. | Preserve working accessibility and motion behavior. A converter limitation is not proof that every native editor control lacks that capability; recheck installed controls before a future refactor. |
+| Potential cascade complexity, not a demonstrated defect | Row styles mix logical border widths with physical bottom border style/color, and intentionally override native anchor default color/underline/focus. The saved row scopes contain no !important. | No actual broken cascade, layout shift or specificity failure established by this saved-state audit. Do not remove required resets or focus rules as cosmetic cleanup. |
+| Existing shared resources are not automatically suitable | Registry still lists city-links g-6ebef89 and city-link g-9a26448. Neither is attached to the current grid/rows. Their definitions and all consumers were not audited here. Current availability button already reuses button-outline-orange g-563da68; the navy action remains Component59. | Do not blindly reattach, modify, delete or duplicate old classes. Check purpose/consumer compatibility first; leave both approved buttons intact. |
+
+Affected rows (current visible labels, not potentially stale Navigator titles):
+
+| Row ID | City | Local row style ID |
+| --- | --- | --- |
+|52ad5087|Lombard|e-cbe2b79-2354|
+|29925a5c|Arlington Heights|e-3efe4b2a-d95e|
+|7f8df755|Elmhurst|e-cbe2b79-2354|
+|64f07ac9|Naperville|e-6a788526-f201|
+|7703752a|Northbrook|e-7db9abd0-5434|
+|28cc87b|Downers Grove|e-3efe4b2a-d95e|
+|961c608|Oak Brook|e-2ab0b56a-9d98|
+|311eade2|Glenview|e-5189acaa-eef2|
+|3e9e185f|Highland Park|e-6a788526-f201|
+|3478458c|Schaumburg|e-2549be1b-ff4f|
+|166c23ea|Evanston|e-5d272d4-73bd|
+|5fcaef53|Elk Grove Village|e-7db9abd0-5434|
+
+**Approval-only follow-up:** inspect existing city-class definitions/usages, then assess whether one scoped row Global Class and shared native text styling reduce maintenance without increasing complexity. Move only the genuinely unsupported remainder into the same class's scoped Custom CSS if needed. Preserve3/2/1 grid, all names/pending URLs, typography/spacing, both buttons, whole-row hover, keyboard focus and reduced motion; compare before/after and read saved structures. Do not rebuild the section, alter unrelated consumers or introduce a theme implementation. This audit does not approve that refactor; owner approval is required before Elementor changes. Leaving the working section as-is is acceptable.
+
+
 ## Current Hero blend — E35
 
 Supersedes E34: existing hero--panorama has native right gradient90deg at0/40/65/80/95/100%, navy opacity0/0/0.35/0.85/1/1; native left gradient90deg at0/34/48/65/100%, opacity1/1/0.9/0/0. Media633 remains third layer. Existing centralized Global Class CSS gives both gradients1500px×100%, photograph auto×100%, all centered80px left above1024px; no-repeat applies at all widths. Mobile native opaque navy layer retained. No new class/component. [Exact controls, source mirror, compiler limitation and QA](milestones/2026-10-16-hero-composition.md#e35--extended-soft-right-blend). Earlier E33/E34 settings below are historical.
