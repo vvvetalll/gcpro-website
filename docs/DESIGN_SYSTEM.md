@@ -1,5 +1,19 @@
 # GCPRO design system
 
+## Approved Core Services arrow motion — 2026-10-19, E45
+
+B3fd180bb is now the approved main Core Services section; E44's experimental/no-motion status is historical. Native Template703 archives original A, including shared styles and Components; no global palette/font/breakpoint/card rule was redesigned.
+
+Reused Service Areas' established200ms/default-ease color+transform transition and0.2rem(3.2px) horizontal motion. **Did not apply or modify city-link:** its pseudo-arrow/layout/divider properties would conflict with B's existing native arrow span and grid. No new Global Class or duplicate arrow markup. Existing class consumers checked: core-b-row g-d37a353 and core-b-arrow g-c3123c0 each have six B-only page consumers.
+
+- **Global Classes→core-b-arrow→desktop base→native Effects/Transition:** color0.2s, transform0.2s. Existing font/size/alignment/color inheritance and mobile variant unchanged; Custom CSS remains null.
+- **Global Classes→core-b-row→desktop base→Custom CSS:** retains E44 focus outline2px navy/4px offset; adds `&:hover > .core-b-arrow { transform:translate(0.2rem, 0); }`, focus-visible orange row color and same direct-arrow transform. The installed converter cannot map parent-state descendant selectors to native child controls, so this small section-scoped fallback is necessary. Native row hover color already supplies orange via inheritance; no per-row CSS copies.
+- Reduced-motion uses the previously verified nesting approach: `&:is(*) { @media (prefers-reduced-motion: reduce) { & > .core-b-arrow { transition:none; transform:none; } &:hover > .core-b-arrow { transform:none; } &:focus-visible > .core-b-arrow { transform:none; } } }`. Top-level arbitrary media-query conversion is unreliable on this installation. Colors remain visible; movement/transition stop.
+
+Native layout/sticky/spacing/typography/icons/links and all saved element settings are unchanged. No background fill, shadow, scale or row layout shift; only arrow visual position changes. All six desktop rows produce orange/matrix3.2px hover; intermediate entry samples and return to navy/no transform verified. Reduced motion: all six0s/no movement. Focus outline/color/motion verified through forced pseudo-state; actual keyboard link activation remains pending real destinations, with no fake focus stops added.
+
+Complexity audit: only two existing classes changed; no new class/Variable/Component/code file/JS/PHP/theme/plugin/dependency. One native archived Template is required for recovery, not a parallel styling system. Other class definitions compare unchanged after loading archive dependencies. [Archive name/703, reuse test, IDs, link register and rollback](ELEMENTOR_MAP.md#approved-core-services-and-original-template-archive--2026-10-19-e45).
+
 ## Experimental Core Services B — 2026-10-19, E44
 
 Section-local experimental pattern on staging154/B3fd180bb; not a replacement of approved A or a new site-wide design rule. Existing palette/fonts/Variables/tag defaults/breakpoints and class definitions/order unchanged. Reuses section, section--light(#EFF6FF), container, stack, stack--compact, layout-reset, text-muted and icon-svg.32px approved SVGs596/597/607/599/600/601 use existing icon-svg fill:none rule. No duplicated icon system.

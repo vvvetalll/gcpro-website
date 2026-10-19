@@ -1,5 +1,14 @@
 # GCPRO changelog
 
+## 2026-10-19 — Promote approved Core Services B; archive A and match arrow motion — E45
+
+- Before any A removal, saved the complete native A38ed6da4 as Site Template **GCPRO – Core Services – Original Cards (Archived)**, actual Elementor template **703**, Div Block/published. Reopened preview/editor; stored settings/styles/classes/content/interactions and seven nested Component references match original (new element IDs only). Six SVG overrides596/597/607/599/600/601 retained.
+- Verified native Insert before removal: six cards/six SVGs,26 rendered style/content records equal to A; undone. Only then removed A from staging154. A second post-removal reuse test again restored six styled cards/icons; reverted unsaved copy through History and verified saved main unchanged. Archive/shared Components62/71/classes/media preserved.
+- Existing B3fd180bb becomes the sole main Core Services section, between7b416658 and6cde656f. No rebuild or reorder: saved B and all other surviving section subtrees unchanged, including content/routes/layout/sticky/responsive settings and Service Areas.
+- Extended existing core-b-row g-d37a353 scoped CSS for whole-row hover/focus descendant arrow3.2px motion and reduced-motion suppression; existing core-b-arrow g-c3123c0 gains native color/transform200ms transitions. Navy↔orange matches Service Areas, which was not edited. Retained focus outline. No new class/Variable/Component/custom code file/JS/PHP/theme/plugin/dependency; one requested archive Template only.
+- Rendered Chrome1440 hover tested all six rows, fixed row geometry, orange3.2px endpoint, intermediate entry samples and navy/no-transform exit. Forced focus-visible and all-six reduced-motion0s/no movement verified. Sticky introduction remains top96px on scroll;1024/768/390/375 stack/static, six rows/icons, one Core Services H2, no horizontal overflow or introduced surrounding gap. Screenshots reviewed.
+- Updated PROJECT_CONTEXT, ELEMENTOR_MAP and DESIGN_SYSTEM with archive/reuse/recovery and native/scoped interaction ownership. Service routes remain pending without href/fake tab stops; actual keyboard/touch activation, physical/anonymous/screen-reader/performance/full-site restore not tested. Production untouched.
+
 ## 2026-10-19 — Experimental responsive Core Services B — E44
 
 - Staging Homepage154: added section3fd180bb after untouched A38ed6da4. New grid61328a99, intro6cb38139 and directory48842292 implement the attached editorial reference with six approved SVGs596/597/607/599/600/601, native headings/paragraphs/divider, compact copy and arrows.

@@ -1,5 +1,31 @@
 # GCPRO Elementor map
 
+## Approved Core Services and original template archive — 2026-10-19, E45
+
+**Current staging Homepage154:** main46c3aad4 children are a62cdd3 →7b416658 →**3fd180bb (approved main Core Services)** →6cde656f →4681b8f5 →4221ba60 →5b2c6d3c →7d8c17ad →37feb023. Original A38ed6da4 removed only after archive verification. B's original position in the sequence, complete subtree and all existing IDs remain; its child index is now2 because A was removed. Retained editor label “Core Services B — Experimental” is historical, not current approval status. Exactly one Core Services H2 is rendered.
+
+**Native Elementor Site Template:** **GCPRO – Core Services – Original Cards (Archived)** — actual post/template ID **703**, type **Div Block**, published/reusable. Edit: https://vitaliiv1.sg-host.com/wp-admin/post.php?post=703&action=elementor. Native preview reopened; two successful native Insert tests (before and after A removal) were undone without publishing the temporary copies.
+
+| Archived703 role | New template element ID / dependency |
+| --- | --- |
+| Complete original section |3ee0b7bc |
+| Container / six-card grid |1ffec90 /4694b102 |
+| Heading instance |3164c3ad → shared Component71 |
+| Water Damage card |308fdbf0 → Component62, SVG596 |
+| Fire & Smoke card |2f89171d → Component62, SVG597 |
+| Mold card |34b79983 → Component62, SVG607 |
+| Reconstruction card |2f4a56ca → Component62, SVG599 |
+| Storm card |679caab → Component62, SVG600 |
+| Personal Property card |69a37ee1 → Component62, SVG601 |
+
+Stored settings/styles/classes/content/overrides/interactions match original A with generated element IDs. Root default_styles is connector/context metadata, not a stored style change. Archive retains native shared references, service-card/service-card__icon/service-card__action and section/container/grid styling, plus responsive rules; do not delete/rework its shared dependencies. Archive preview's generated global-703 frontend desktop/mobile CSS includes the original card rules, and the post-removal insertion rendered six cards/SVGs with32px desktop card padding, approved surface/border and typography. Template is a native reusable Template, not a newly created Component or HTML snapshot.
+
+**B interactions:** existing row class core-b-row g-d37a353 and arrow class core-b-arrow g-c3123c0, six consumers each on154. Row-owned scoped CSS supplies parent hover/focus-visible→direct arrow transform0.2rem and reduced-motion suppression; native arrow transition200ms color/transform. Existing focus outline remains2px navy/offset4px. All B elements and global-class assignments remain as in E44; no new class/Variable/Component. Service Areas7d8c17ad/city-link g-9a26448 unchanged. [Exact editing ownership](DESIGN_SYSTEM.md#approved-core-services-arrow-motion--2026-10-19-e45).
+
+**Current pending-link register:** all six B rows still have no link.destination/href and remain noninteractive articles. Corresponding old A intentional# destinations are preserved in archive703 only. Do not invent routes or expose drafts. Actual Tab/Enter/touch-link testing remains pending approved public staging objects; forced focus-visible styling is verified. Existing other route/city/ZIP holds remain.
+
+**Recovery:** preserve703 permanently unless separately authorized. Native Library→Templates→Site templates→703→Insert restores the full original section, with new generated IDs; reuse was tested twice. Restore only in a separately authorized scope; avoid accidentally displaying both designs. For arrow-only rollback, remove E45 descendant/reduced-motion additions from core-b-row while retaining its E44 outline, and remove the200ms transition from core-b-arrow. No full-site restore tested.
+
 ## Experimental Core Services B — 2026-10-19, E44
 
 Staging Homepage154/main46c3aad4 now has B section3fd180bb at child index3, immediately after unchanged Core Services A38ed6da4. Existing nine section subtrees compare exactly unchanged. No shared Component definition changed; B is native editable Atomic elements rather than detaching/reworking Component62.
