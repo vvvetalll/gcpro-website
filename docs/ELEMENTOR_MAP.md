@@ -1,5 +1,24 @@
 # GCPRO Elementor map
 
+## Numbered section eyebrows — 2026-10-19, E46
+
+Homepage154 main46c3aad4 section order remains unchanged from E45. Native P labels are first children of existing heading stacks; Component71 and all shared component definitions are untouched.
+
+| Label | P element | Existing parent | Section |
+| --- | --- | --- | --- |
+| 01 / WHO WE HELP |77779f6f |1b98920a |7b416658 |
+| 02 / RESTORATION SERVICES |135f55 (reused) |6cb38139 (sticky intro retained) |3fd180bb |
+| 03 / OUR PROCESS |35bc6a06 |4a8f9eb5 |4681b8f5 |
+| 04 / OUR WORK |41526d68 |14d7e71c |4221ba60 |
+| 05 / WHY GCPRO |2e959e8c |3546ecd3 |5b2c6d3c |
+| 06 / COVERAGE AREA |1e3e2129 |3dc285eb |7d8c17ad |
+
+All six consume **section-eyebrow g-b12aa04**. Five P additions only; existing02 local typography removed. Inert empty local-style references e-4e2a0a0-f4cc(02) and e-2288b89a-3c11(06) contain no declarations. No new wrappers/headings/Components, shared definition changes, original-node removal or reordering. Parent gap24px desktop/tablet and16px mobile unchanged. Existing dark-section paragraph rule makes05 white.
+
+**Owner-directed Core H2 color:**1aa0cb69 local style e-1efae9fc-c602 uses existing color-text #334155 instead of color-primary. Other typography/responsive settings unchanged. Service row navy colors and interactions remain as approved.
+
+Native saved structure and global-class readback verified.333 rendered baseline records at1440/840/390 retain content/hrefs/dimensions/sample styles except intended H2 color. Hover/focus/ripple/sticky regression checks passed in authenticated Chrome; no anonymous-incognito claim (automated unauthenticated403). No modifications to Template703 or its shared assets. Rollback uses the listed five new P IDs and original02 style snapshot; do not remove its parent or shared heading instance.
+
 ## Approved Core Services and original template archive — 2026-10-19, E45
 
 **Current staging Homepage154:** main46c3aad4 children are a62cdd3 →7b416658 →**3fd180bb (approved main Core Services)** →6cde656f →4681b8f5 →4221ba60 →5b2c6d3c →7d8c17ad →37feb023. Original A38ed6da4 removed only after archive verification. B's original position in the sequence, complete subtree and all existing IDs remain; its child index is now2 because A was removed. Retained editor label “Core Services B — Experimental” is historical, not current approval status. Exactly one Core Services H2 is rendered.

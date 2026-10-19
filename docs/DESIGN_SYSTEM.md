@@ -1,5 +1,24 @@
 # GCPRO design system
 
+## Numbered section eyebrow pattern — 2026-10-19, E46
+
+**Editable owner: Atomic Global Classes → section-eyebrow (g-b12aa04).** One reusable native class for the six Homepage154 labels, based on the existing Core B02 reference. No per-element copies or Custom CSS.
+
+| Native property | Approved value |
+| --- | --- |
+| Font family | Existing font-body / Inter (e-gv-c82d6d2) |
+| Weight |600 |
+| Font size |12px |
+| Line height |1.5 (18px) |
+| Letter spacing |2px |
+| Color | Existing color-text-muted #5B6575 (e-gv-bce0476) |
+
+Use a non-heading Paragraph/P with the exact numbered text; no additional H1/H2. Existing parent stack alignment supplies left alignment and existing gaps24px desktop/tablet,16px mobile. No extra margin/padding or underline added to labels. Existing H2 accents, sizes, descriptions and backgrounds stay intact. On Why GCPRO's navy surface, the existing section--dark paragraph rule supplies white for contrast; preserve that contextual exception without a competing local override. Hero and CTAs/Header/Footer/Testimonials are excluded.
+
+**Related owner color correction:** Core Services H2 1aa0cb69 uses existing color-text #334155, the normal dark heading color, rather than navy. This is a single element's native token selection, not a new reusable heading class or palette change. Existing Montserrat70040/36/28px and1.15 line-height retained.
+
+Saved class has six native properties, Custom CSS=null. All six labels are18px high, single-line and aligned at1440/840/390; no overflow. No new Variables, Components, JS/PHP, style files, plugins/dependencies or theme rules. Existing process ripple, Core row arrow/sticky and Service Areas hover/focus/reduced-motion ownership remains unchanged.
+
 ## Approved Core Services arrow motion — 2026-10-19, E45
 
 B3fd180bb is now the approved main Core Services section; E44's experimental/no-motion status is historical. Native Template703 archives original A, including shared styles and Components; no global palette/font/breakpoint/card rule was redesigned.

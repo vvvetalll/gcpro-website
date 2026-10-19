@@ -1,5 +1,15 @@
 # GCPRO changelog
 
+## 2026-10-19 — Shared numbered section eyebrows and Core heading color — E46
+
+- Staging Homepage **154**: verified actual section order, then added five native Paragraph labels and reused existing Core Services label135f55. All six use one Atomic Global Class **section-eyebrow g-b12aa04**: Inter600,12px/1.5,2px tracking, existing body/muted tokens. No new headings, wrappers, Components or section reordering.
+- Labels: 01 / WHO WE HELP; 02 / RESTORATION SERVICES; 03 / OUR PROCESS; 04 / OUR WORK; 05 / WHY GCPRO; 06 / COVERAGE AREA. Hero, Emergency CTA, Final CTA, Header/Footer and Testimonials receive no new label. Existing dark-section paragraph rule renders05 white for contrast; other labels use muted #5B6575.
+- Owner's subsequent color direction applied only to Core H2 **1aa0cb69**: navy → standard heading/body text token **color-text #334155**. Montserrat700,40/36/28px sizing, line-height, underline and layout retained.
+- Saved readback: five P additions; existing135f55 migrated from local typography to shared class;1aa0cb69 color only. No original nodes removed/reordered, no other existing element settings/styles/interactions changed. Native class has six properties and Custom CSS=null. Existing stack gaps24px desktop/tablet and16px mobile reused; no local spacing override retained.
+- Actual Chrome1440/840/390 visual checks: six single-line,18px-high labels aligned with H2s; no horizontal overflow.333 original text/link/icon/divider/button records per width match baseline in content, destination, dimensions and sampled style properties except explicitly approved Core H2 color. Existing pending destinations were preserved, not represented as working links.
+- Regression evidence: Core whole-row hover orange+3.2px and navy/no-transform exit; sticky intro top96px; Service Areas orange row/divider and3.2px arrow hover; actual Tab focus-visible2px navy outline. Process ripple observed changing opacity/scale in rendered frames. Reduced motion: ripple none and Core arrow0s/no movement. Tablet/mobile layouts reviewed. Shared definitions, archive703, assets and all interaction rules untouched.
+- Native editor Publish was necessary after connector save to regenerate stale frontend CSS; confirmed rendered H2 rgb(51,65,85) after completed save/reload. SG cache purged. Anonymous automated HTTP request returned403; clean incognito/physical-device/screen-reader/performance/full-restore checks are unverified. No new CSS/JS/PHP, Variables, Components, plugins, dependencies or theme changes.
+
 ## 2026-10-19 — Promote approved Core Services B; archive A and match arrow motion — E45
 
 - Before any A removal, saved the complete native A38ed6da4 as Site Template **GCPRO – Core Services – Original Cards (Archived)**, actual Elementor template **703**, Div Block/published. Reopened preview/editor; stored settings/styles/classes/content/interactions and seven nested Component references match original (new element IDs only). Six SVG overrides596/597/607/599/600/601 retained.
