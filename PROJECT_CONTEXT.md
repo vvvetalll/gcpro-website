@@ -1,5 +1,16 @@
 # GCPRO project context
 
+## HOW WE WORK hover compatibility restoration — 2026-10-19, E43
+
+Restored the approved ripple in staging Homepage154/section4681b8f5/Component582 without changing Elementor structure, native classes or interactions. Evidence before writes: Chrome/IAB reported hover:none/pointer:none; Chrome parent :hover was true over copy while circle :hover false, but the old hover:hover + pointer:fine gate suppressed existing loaded ring CSS. Original E16 rules/keyframes and Code590 blocks were present. Cause is the capability-gate mismatch; why the environment reported no pointer is unknown. No evidence ties it to Service Areas or proves missing/cached animation source.
+
+Changed exactly three existing CSS media-query lines: added a hover:none/pointer:none OR branch to the existing GCPRO fallback.css background/ring gates and to Code590's synchronized number-color gate. Retained reduced-motion guard, all selectors,2px/1000ms/160ms ring geometry/timing, keyframes, colors, original coarse-touch sequence and unchanged JavaScript. Canonical mirrors theme-overrides/process-timeline.css and integrations/process-timeline-mobile.css updated. No new class/Variable/Component/local style/code file/plugin/dependency; no alternative styling system. [Exact diagnosis, scope, save verification, QA and recovery](docs/milestones/2026-10-16-process-ripple.md#e43--pointer-capability-compatibility-restoration-2026-10-19).
+
+Verified saved deployed source equality, Code590 Published/Page154/body-end/priority10, staging cache purge and fresh assets. Chrome1440 real hover on all four steps gives changing scale/opacity for both rings, original second-ring delay, completion/re-entry and synchronized number color; actual circles remain64×64/transform:none. Resting styles and document geometry match baseline;840/390 retain56px circles, continuous connectors and no overflow. Original mobile entry stagger works; desktop/mobile reduced motion suppresses all rings/pulse/transition. Native Homepage154 main and Component582 saved trees compare exactly equal; five native classes unchanged and Custom CSS:null.
+
+No production or shared-repository change. Tests used authenticated Chrome/IAB and browser emulation, not Edge, physical devices, incognito/anonymous delivery, screen reader or performance benchmarks. Browser source of pointer:none remains unknown; owner physical/anonymous acceptance pending. Other city/route/ZIP approvals remain unchanged. Scope snapshots/code backups private; full-site restore not tested.
+
+
 ## Service Areas styling consolidation — 2026-10-19, E42
 
 Completed the owner-approved staging Homepage154 maintainability refactor only. Existing empty/unused city-link g-9a26448 now owns all12 row styles; one new native city-link__text g-efb17e3 owns the12 city paragraphs. Cleared24 local style records; removed redundant transparent hover background and paragraph margin:0. Existing necessary border/transition/pseudo-arrow/focus-visible/reduced-motion fallback is centralized in the row Global Class, with supported properties native. Text class has no Custom CSS. No theme, Custom Code, JS/PHP, new Component/Variable/plugin/dependency or section rebuild.

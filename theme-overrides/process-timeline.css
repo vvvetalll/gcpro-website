@@ -1,13 +1,13 @@
 /* GCPRO E16: whole-step hover; base design stays in Atomic Global Classes.
  * Canonical block: gcpro-website/theme-overrides/process-timeline.css
  */
-@media (hover: hover) and (pointer: fine) {
+@media (hover: hover) and (pointer: fine), (hover: none) and (pointer: none) {
 	.process-timeline__step:hover .process-timeline__number {
 		background-color: var(--color-primary-hover);
 	}
 }
 
-@media (hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference) {
+@media (hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference), (hover: none) and (pointer: none) and (prefers-reduced-motion: no-preference) {
 	.process-timeline__number::before,
 	.process-timeline__number::after {
 		content: "";

@@ -1,5 +1,14 @@
 # GCPRO changelog
 
+## 2026-10-19 — HOW WE WORK pointer-gate restoration — E43
+
+- Diagnosed before edits on staging154/section4681b8f5/Component582: existing four circles/classes/overrides/local styles/interactions intact; E16 ripple rules/keyframe and Code590 loaded. Connected Chrome/IAB reported hover:none/pointer:none; actual pointer over copy set parent:hover while media gate blocked ::before/::after. Underlying input-reporting reason unknown; no evidence implicates Service Areas.
+- Changed only three existing CSS media queries: pointer:none compatibility OR branch for background/rings in existing staging fallback.css and synchronized number-color gate in existing Code590. Reduced-motion/no-preference protection and coarse-touch mobile branch preserved; selectors, geometry/timing/keyframes/colors and JavaScript unchanged. Synced existing theme-overrides/process-timeline.css and integrations/process-timeline-mobile.css mirrors.
+- Exact deployed source readback verified, Code590 remains Published/Page154/body-end/priority10; staging SiteGround cache purged and fresh asset gate/version confirmed. Real Chrome1440 whole-step hover tested01–04 with measured expanding/fading rings,160ms stagger, completion/re-entry and stationary64px circles; screenshot supplied. Resting styles/geometry match baseline;840 tablet/390 mobile retain56px circles/connectors/no overflow. Mobile entry sequence and desktop/mobile reduced-motion suppression verified.
+- Full saved154 main/582 trees compare equal; five native timeline classes unchanged, Custom CSS:null. No new class/Variable/Component/keyframe/code file/DOM/plugin/dependency; no production or shared ROBYLO write. Existing CSS exception retained rather than redesigning/migrating it. Updated context, map, design reference and E16 milestone.
+- Authenticated/browser-emulated QA only; physical-device, Edge, anonymous/incognito-cache, screen-reader/performance/full-site restore not tested. Why pointer:none was reported remains unverified. Private before/after source/scope snapshots and timed samples retained; rollback only the three query-line edits.
+
+
 ## 2026-10-19 — Controlled Service Areas style consolidation — E42
 
 - Staging Homepage154/section7d8c17ad/grid d6dbbe2 only. Before editing captured full saved main, class definitions,1440/840/392 screenshots and style/geometry measurements. Existing city-link g-9a26448 was empty with no page consumers; separately inspected16 active Component definitions with no city-class references.

@@ -1,5 +1,14 @@
 # GCPRO Elementor map
 
+## HOW WE WORK hover compatibility — 2026-10-19, E43
+
+No Elementor mapping change: Homepage154/section4681b8f5/heading5494e63e/parent5a7e87b2/instance79a67ca3→Component582 remain exact saved matches. Circle source IDs43b49516,cc0c097,28f4497,2679cdee retain process-timeline__number g-e17507d and process-step-number g-af5ab08; expected step/root/connector classes unchanged, local styles/interactions empty. Native definitions stay Custom CSS:null.
+
+Existing deployed E16 fallback.css GCPRO block and Code590 CSS now accept pointer:none + hover:none as well as the original fine/hover desktop gate. Only three media-query lines changed; Code590 stays Published, body-end, priority10, Page154 condition and identical JavaScript/mobile coarse-pointer query. No new code entry/global class or rebuilt element. [Exact sources, diagnosed media-gate mismatch, real browser samples, limits and rollback](milestones/2026-10-16-process-ripple.md#e43--pointer-capability-compatibility-restoration-2026-10-19).
+
+Current source mirrors: theme-overrides/process-timeline.css (existing deployed fallback block) and integrations/process-timeline-mobile.css (existing590 style block). Native layout/content editing remains in582; hover compatibility lives in these established exceptions. Do not infer native interaction entries are missing: the approved rings were CSS pseudo-elements from E16.
+
+
 ## Service Areas class consolidation — 2026-10-19, E42
 
 Staging154 / section7d8c17ad / grid d6dbbe2. Same12 row/text IDs and DOM order as the E39 table below; no added/removed/rebuilt element or Component. All row anchors now use existing Global Class city-link g-9a26448; all paragraphs use new native city-link__text g-efb17e3. Both have exactly12 consumers on154; page scan and16 active Component reads found no pre-existing city-link consumers. Local styles on the24 nodes are cleared; inert local ID references retained by the connector contain no declarations. Other classes/content/link values/settings remain unchanged.

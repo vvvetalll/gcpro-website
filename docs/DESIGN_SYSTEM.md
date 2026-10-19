@@ -1,5 +1,10 @@
 # GCPRO design system
 
+## HOW WE WORK hover compatibility — E43
+
+2026-10-19: existing approved E16/Code590 CSS exception adds a hover:none/pointer:none compatibility branch after a verified Chrome :hover/media mismatch. Original fine-pointer desktop and coarse-touch mobile behavior retained; no native style or class changes. Ring creation/pulse still requires no reduced-motion preference; actual :hover remains the trigger. Same2px rings/1000ms,160ms delay,scale1→1.55/fade0.55→0 and1160ms number-color synchronization. Exactly three media-query lines in the existing deployments/canonical mirrors changed; no new CSS system, file, keyframe or JavaScript. [Evidence, native-first rationale, editing and rollback](milestones/2026-10-16-process-ripple.md#e43--pointer-capability-compatibility-restoration-2026-10-19). Browser reason for reporting pointer:none and physical/anonymous acceptance remain unverified.
+
+
 ## CSS architecture policy — 2026-10-19, E41
 
 This is the agreed policy for future authorized styling work. It does not migrate existing styles or authorize changes to the website.
