@@ -1,5 +1,16 @@
 # GCPRO changelog
 
+## 2026-10-19 — Restore original audience-card hover; white section background — E47
+
+- Staging Homepage154/Residential & Commercial7b416658 only. Recovered original E30/E31 behavior from commit1f02a7f39d7a71767cefb69a2465f9eb23224ace, integrations/audience-card-hover.css and E31 runtime measurements: image scale1.025, orange circle/white glyph,35% navy border mix,280ms native transitions, stationary card.
+- Diagnosis before changes: all original scoped CSS and native transitions were saved and served; actual whole-card :hover=true while browser media reported hover:none/pointer:none. Original fine-pointer-only gate blocked the descendant effects. Browser capability-reporting cause is unknown; no evidence links this to recent refactors.
+- Existing audience-card g-38b29fb has exactly two consumers, card4c8810dc/2066a26 on154. Updated only its existing scoped Custom CSS: fine-hover OR hover:none/pointer:none compatibility gate; retained whole-card selectors, effect values, focus-visible orange circle and frame clipping. Corrected historical reduced-motion specificity: hovered image now transform:none as well as transitions:none. Genuine coarse-touch remains excluded.
+- Final class readback: all native properties/variants equal baseline; every other Global Class unchanged. One consolidated CSS block, no per-card duplication, new classes/Variables/Components, DOM, JS/PHP, plugins/dependencies or theme change. Nested &:is(*) wrapper preserves arbitrary media rules through the installed converter. Canonical CSS mirror updated, never separately enqueued.
+- Owner clarified white background applies to Residential & Commercial, not Hero. Native local background-color:var(--color-white) on7b416658 only. Full180-node saved-main readback: same IDs/order/settings/content/interactions; only section7b416658 local background differs. Eyebrow and approved photos629/630 retained.
+- Actual Chrome1440: both cards tested repeatedly from photo and body, entry/exit reach original scale1.025/orange and none/navy;280ms transitions retained. Card rectangles unchanged556×450.125; images clip within frame. Actual Tab focus-visible outline and orange circle verified. Reduced-motion on both hovered cards: image none, transitions0s, orange feedback retained.
+-1440/840/390 baseline comparison: both card dimensions and DOM equal before/after, images loaded, no horizontal overflow; screenshots reviewed. Coarse-touch390 emulation reports coarse:true and gives no hover zoom/orange despite :hover=true. Core arrow and Service Areas arrow remain orange/3.2px on parent hover; process ripple rendered scale/fade frames. Native save/publish completed and SG cache purged.
+- Incognito/anonymous delivery, physical devices, screen-reader and formal performance/CLS checks unverified. Existing two category # placeholders remain pending; no destination changes or Draft exposure. Production untouched.
+
 ## 2026-10-19 — Shared numbered section eyebrows and Core heading color — E46
 
 - Staging Homepage **154**: verified actual section order, then added five native Paragraph labels and reused existing Core Services label135f55. All six use one Atomic Global Class **section-eyebrow g-b12aa04**: Inter600,12px/1.5,2px tracking, existing body/muted tokens. No new headings, wrappers, Components or section reordering.

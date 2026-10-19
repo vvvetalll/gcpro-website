@@ -1,5 +1,15 @@
 # GCPRO Elementor map
 
+## Audience hover and white surface — 2026-10-19, E47
+
+No structure, ID or class-assignment change. Homepage154/main46c3aad4 retains180 nodes in the same order. Section7b416658 local style e-ed7202b-3efe now contains native background-color:var(--color-white), per owner clarification. Shared section--light remains unchanged.
+
+- Residential card4c8810dc, photo295bf90e/Media629, frame6e5afc98, circular action5c2d4dca.
+- Commercial card2066a26, photo27ec40d5/Media630, frame4c8bb651, circular action5b9bc8c3.
+- Existing audience-card g-38b29fb: only two154 consumers verified. Only its normal-state Custom CSS updated for historical hover capability compatibility and full reduced-motion suppression. All native properties/variants and other Global Classes unchanged.
+- Existing action g-a5c0d65, image g-77c2a17, SVGs/media, paragraphs/headings, eyebrow77779f6f, links and interaction arrays unchanged. Category # links remain pending destinations.
+- Native editor publish/readback and rendered1440/840/390 verified; original repeated hover/exit and keyboard outline preserved. Template703 and unrelated sections untouched. Exact CSS owner/recovery in DESIGN_SYSTEM and non-enqueued integrations/audience-card-hover.css.
+
 ## Numbered section eyebrows — 2026-10-19, E46
 
 Homepage154 main46c3aad4 section order remains unchanged from E45. Native P labels are first children of existing heading stacks; Component71 and all shared component definitions are untouched.

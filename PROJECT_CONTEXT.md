@@ -1,5 +1,15 @@
 # GCPRO project context
 
+## Audience hover restored and white section approved — 2026-10-19, E47
+
+Residential & Commercial section7b416658 on staging Homepage154 now has owner-requested **white background**, selected through the existing native color-white token on that section only. Hero and surrounding sections unchanged; photos629/630, eyebrow01, card content/links/radii/borders/spacing/layout preserved.
+
+Restored the historical E30/E31 whole-card interaction, established from commit1f02a7f39d7a71767cefb69a2465f9eb23224ace/source mirror/E31 measurements: image1.025 zoom, orange circular action with white glyph,35% navy border mix and280ms transitions; card itself stationary. Before change saved+served rules were intact, but browser hover:none/pointer:none blocked the old fine-pointer gate even while :hover=true. Added the same capability compatibility branch previously used for process animation; no invented replacement effect. Why the browser reports no pointer is unknown.
+
+Only existing audience-card g-38b29fb Custom CSS changed, after verifying its two154 consumers4c8810dc/2066a26. Native properties/variants and all other classes equal baseline. Existing image/card-action classes and native transitions retained. Fixed historical reduced-motion specificity so zoom is fully suppressed on hover, not merely instantaneous. One consolidated class-owned block, no duplicated local CSS, new class/Variable/Component/JS/PHP/theme/plugin/dependency. Exact editable owner and rollback in DESIGN_SYSTEM; canonical integrations/audience-card-hover.css is not enqueued.
+
+Saved180-node main matches baseline IDs/order/content/settings/interactions; only7b416658 gains native white local background. Actual Chrome both-card photo/body hover, repeated entry/exit, fixed geometry, native280ms timing, real keyboard focus and reduced-motion0s/no zoom verified.1440/840/390 DOM/card dimensions match baseline, images load and screenshots show no overflow; coarse-touch390 suppresses hover zoom/orange. Core and city arrows retain3.2px/orange; live process ripple frames checked. Published through native editor, cache purged. Clean incognito/anonymous/physical-device/screen-reader/formal CLS/performance checks unverified. Pending category destinations remain # placeholders; no route/SEO/ZIP approvals added. Production untouched.
+
 ## Numbered section eyebrows and standard Core heading color — 2026-10-19, E46
 
 Homepage154 now has the six approved numbered labels in verified visual order: WHO WE HELP → RESTORATION SERVICES → OUR PROCESS → OUR WORK → WHY GCPRO → COVERAGE AREA. One native Atomic class **section-eyebrow g-b12aa04** owns their typography. Five native P elements were added; existing02 paragraph135f55 was reused with its duplicated local typography cleared. Existing section/component structure remains; no section rebuild/reorder or extra heading semantics. See [IDs and placement](docs/ELEMENTOR_MAP.md#numbered-section-eyebrows--2026-10-19-e46) and [editable shared style](docs/DESIGN_SYSTEM.md#numbered-section-eyebrow-pattern--2026-10-19-e46).

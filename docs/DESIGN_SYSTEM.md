@@ -1,5 +1,15 @@
 # GCPRO design system
 
+## Audience-card hover recovery — 2026-10-19, E47
+
+Supersedes E31's reduced-motion limitation only; original normal-motion design remains. **Editing owner: Global Class audience-card g-38b29fb → desktop/normal → Custom CSS**, exactly two154 consumers4c8810dc and2066a26. Retain native layout, border/radius/surface and280ms border transition; card-action g-a5c0d65 keeps280ms background transition; audience-card__image g-77c2a17 keeps280ms transform transition.
+
+Recovered E30/E31 fine-pointer behavior: whole-card hover → image scale1.025, circle color-accent orange with white SVG, border color-mix35% primary against color-border; no card translate/lift/shadow or layout change. Existing original rule was present but gated off when actual browser :hover=true and media hover:none/pointer:none. CSS gate now accepts either original fine-hover or the none/none compatibility case; coarse-touch remains excluded. Source of browser capability mismatch remains unknown.
+
+One existing class-owned scoped block is retained because native parent self-hover cannot style the descendant image/action. &:is(*) identity nesting preserves media queries through this installed Atomic converter; it adds no specificity. Reduced-motion block now includes &:hover .audience-card__image with transform:none to resolve E31's specificity defect, plus0s transitions on card/action/image. Focus-visible orange circle and existing native outline retained. No per-card copies, new classes/Variables/Components, code files, JS/PHP, dependencies or theme rules. [Canonical mirror](../integrations/audience-card-hover.css) stays non-enqueued.
+
+White audience section is a separate owner-approved native local background-color:var(--color-white) on7b416658, not a palette/shared section--light change. Native Global Class properties and every other class match prechange. Rollback: restore previous Custom CSS from commit286a2553d0ac5420cffadd287bbf74f84d8c6b9f/source mirror, then native save/publish/cache purge/retest; remove only7b416658's local background to recover light blue if explicitly requested. Never delete classes/shared images.
+
 ## Numbered section eyebrow pattern — 2026-10-19, E46
 
 **Editable owner: Atomic Global Classes → section-eyebrow (g-b12aa04).** One reusable native class for the six Homepage154 labels, based on the existing Core B02 reference. No per-element copies or Custom CSS.
