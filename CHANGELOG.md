@@ -1,5 +1,13 @@
 # GCPRO changelog
 
+## 2026-10-19 — Service Areas synchronized hover and keyboard focus — E40
+
+- Staging Homepage154, section7d8c17ad/grid d6dbbe2 only: refined existing12 row/text pairs. Navy names/arrows turn orange #F05A29 together on whole-row hover/focus-visible; divider tints orange without thickness change; arrow moves3.2px; transitions200ms. Focus adds2px navy outline/3px offset. Existing white background, grid3/2/1, content, URLs, dimensions and buttons preserved.
+- Reused native local Atomic colors/inheritance and existing pseudo-element CSS fallback. Necessary nested local reduced-motion rule suppresses movement/transitions; no new Global Classes, Variables, Components, nodes, theme/code files, JavaScript, plugins or dependencies. No shared rule or structure/class assignment changed, so DESIGN_SYSTEM/ELEMENTOR_MAP unchanged.
+- Saved-tree comparison: exactly24 row/text nodes differ only in styles; all other Homepage nodes unchanged. Native row local Style/Custom CSS inspected. Native Elementor render cache regenerated. Real pointer tested Lombard/Downers Grove/Evanston; real Tab focus tested Arlington Heights; computed200ms/3.2px, unchanged row/divider geometry and no fill/shadow. Reduced-motion emulation: all12 transitions0s/no arrow transform, colors retained. Rendered1440/840/392 checks preserve3/2/1 columns,12 rows, pending hrefs and no page horizontal overflow; screenshots inspected.
+- City shortlist/SEO/coverage approval, actual staging routes and ZIP popup/lookup remain pending. All12 existing `#` destinations preserved explicitly; no Draft or production destination activated. Authenticated/emulated checks only; anonymous/incognito, physical-device, screen-reader, performance and full-site restore not replayed. Scoped before/final recovery snapshots retained privately. No production writes or secrets in Git.
+
+
 ## 2026-10-19 — Twelve-city responsive Service Areas layout — E39
 
 - Staging Homepage154 / Service Areas7d8c17ad only. Existing city parent d6dbbe2 now uses native three-column desktop / two-column tablet / one-column mobile grid. Twelve retained/cloned rows produce4/6/12 complete rows at the respective breakpoints; original64px row height, type, dividers, arrows and hover preserved.
