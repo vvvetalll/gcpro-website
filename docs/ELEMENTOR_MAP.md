@@ -1,5 +1,12 @@
 # GCPRO Elementor map
 
+## Homepage final CTA color preview — 2026-10-19, E53
+
+- Homepage154 final instance **37feb023** → existing CTA Component **80** → panel source ID **5ec4592**, rendered using stable `data-interaction-id`.
+- Homepage main **46c3aad4**, local style **e-685133d2-110f**, owns four scoped rule groups for this panel's orange background/8px radius, navy primary/default-hover and white/navy secondary hover. Existing shared component defaults remain intact.
+- Component80's current exposed props are title/description/primary+secondary labels/links; no visual color/radius override is exposed. Applying styles to the e-component instance did not render; ineffective declarations were removed. Minimal page-local descendant CSS was retained instead of duplicating/unlinking the component or modifying its shared definition.
+- No new elements or IDs, Global Classes, Variables, Components or dependencies. CTA content and URLs unchanged; all other section subtrees equal baseline. Rollback removes only the scoped main style block, restoring existing navy panel/orange primary. Preview awaits owner review.
+
 ## WHY GCPRO / Testimonials separation — 2026-10-19, E52
 
 **Staging154 only; awaiting final review.** Original combined section archived as Site Template **822**, **GCPRO – Why GCPRO + Testimonials – Original Combined (Archived)**; archive root **434b3976**,25 nodes. Native library Preview/Insert and rendered preview verified; source preserved apart from regenerated IDs/standalone computed defaults. This is a Site Template, not a new Atomic Component.

@@ -1,5 +1,13 @@
 # GCPRO changelog
 
+## 2026-10-19 — Orange final CTA preview — E53
+
+- Staging Homepage154 final CTA instance **37feb023** (Component80) only. Inset panel **5ec4592** now uses existing accent#F05A29 and subtle **8px** corners matching existing button/card treatment.
+- Existing primary CALL button is navy#1A327D/white; hover uses primary-hover#142862. Existing white outline REQUEST SERVICE button is preserved; hover becomes white/navy. Existing text, URLs, button padding/typography/radius and responsive stacking unchanged. REQUEST SERVICE destination remains pending#; no URL invented.
+- Component80 exposes content/link overrides but no per-instance color/radius controls. Attempted component-instance local styles did not render and were removed. Final minimal CSS is in Homepage main **46c3aad4**, local style **e-685133d2-110f**, scoped beneath `[data-interaction-id="5ec4592"]`. Shared Component80 and all Global Classes unchanged. No new Global Classes, Variables, Components, JS, PHP, plugins, assets or dependencies.
+- Saved structure readback confirmed CTA content/link overrides unchanged and all nine other main-section subtrees identical. Rendered1440/768/390px checked: correct orange/radius/buttons, no horizontal overflow, comfortable mobile stacking. Secondary hover entry verified white/navy; keyboard Tab verified visible white outline. Staging SG cache purged and orange/radius confirmed afterward. Screenshots saved; no separate incognito/physical-device claim. Existing small white body/outline-button text retains the baseline contrast limitation against orange (approximately3.39:1); no AA claim.
+- Complexity review: only four scoped rule groups retained; ineffective instance styling removed. Rollback: remove this scoped block from main46c3aad4; original navy panel/orange primary return through untouched shared classes. This is an owner-requested color preview awaiting visual review, not a new global CTA rule. Production untouched.
+
 ## 2026-10-19 — WHY GCPRO editorial layout and standalone Testimonials — E52
 
 - Staging Homepage **154** only. Before replacing the combined section, saved **GCPRO – Why GCPRO + Testimonials – Original Combined (Archived)** as reusable Elementor Site Template **822**, root **434b3976**. Verified native library Preview/Insert availability, rendered archive preview, and source equivalence for all 25 nodes (excluding regenerated IDs, empty local-style IDs and standalone computed defaults).

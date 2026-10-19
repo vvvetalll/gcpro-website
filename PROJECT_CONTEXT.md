@@ -1,5 +1,13 @@
 # GCPRO project context
 
+## Final CTA orange preview — 2026-10-19, E53
+
+Homepage154's final CTA **37feb023**, referencing shared Component80, now displays an orange#F05A29 inset panel with **8px** corners. Primary CALL button navy/white; secondary REQUEST SERVICE remains white outline with white/navy hover. Existing content and links remain unchanged; request destination still pending#.
+
+Implementation is local to Homepage main **46c3aad4**, style **e-685133d2-110f**, with descendant selector `[data-interaction-id="5ec4592"]`. Component80 has no exposed per-instance visual controls, and local instance styles do not render; that ineffective attempt was removed. Shared component/class definitions were not changed. No new classes, Variables, Components, custom files, JavaScript, PHP or dependencies. Remove the scoped block to revert to existing navy/orange defaults.
+
+Rendered1440/768/390px checked without overflow; mobile buttons stack; hover white/navy and keyboard focus outline verified. Native saved readback preserves CTA content/link overrides and all nine other main-section subtrees exactly. Cache purged; desktop/mobile screenshots saved. No separate incognito or physical-device verification; small white text against orange retains approximately3.39:1 contrast, so AA compliance is not claimed. Color preview awaits owner visual review. Production unchanged.
+
 ## WHY GCPRO and standalone Testimonials — 2026-10-19, E52
 
 Current staging Homepage154 sequence is Before/After **4221ba60** → WHY **5b2c6d3c** → new Testimonials **10a34543** → Service Areas **7d8c17ad**. New design and benefit wording await final visual/copy approval. No production changes.
