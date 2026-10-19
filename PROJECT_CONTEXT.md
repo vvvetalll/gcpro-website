@@ -1,5 +1,15 @@
 # GCPRO project context
 
+## Before / After spacing refined — 2026-10-19, E49
+
+The approved staging154/4221ba60 three-column composition now has a native **16px image-to-title gap** on all three project roots (previously24px). Titles use the same Montserrat600/color-text with **22px desktop/tablet,20px mobile**; their default1.3 line height and existing16px title/description gap remain. All titles stay two lines at1440/768/390/375, so titles/descriptions align across shared desktop/tablet rows without fixed heights. Original3/2/1 responsive grid, full4:3 images, BEAF settings/labels and project copy are preserved.
+
+Current saved baseline already contained the owner-edited **BEFORE / AFTER** H2/introduction and single **VIEW ALL TRANSFORMATIONS** outline button2364d92a. These were inspected and retained exactly. CTA's existing24px desktop/tablet and16px mobile stack spacing was appropriate and left intact. Its gallery destination remains # pending a valid published page; no route added.
+
+Native save/readback shows176 unchanged IDs/order and only six local style changes: project roots22e7aed8/b72017c/31087133 gap token, H3s0fccf2a/3a39c79b/5931ddb6 font size. No new class/Variable/Component/custom CSS/JS/plugin or shared-style edit. Before/after measurements and visual checks at1440/768/390/375 confirm16px gaps, aligned row baselines, natural wrapping and no overflow; all three BEAF comparisons still drag. Native editor save and staging cache purge completed.
+
+**Northbrook is still an unverified location**, selected only as provisional staging copy; factual confirmation remains required before production. Earlier E48 keyboard/anonymous/physical-device/performance limitations remain open. Production, all unrelated sections and archive703 unchanged. See [current editing values](docs/ELEMENTOR_MAP.md#before--after-spacing--2026-10-19-e49).
+
 ## OUR WORK now has three BEAF project comparisons — 2026-10-19, E48
 
 Staging Homepage154/Projects4221ba60 uses the three owner-supplied real photograph pairs, expanded from the initial one-project scope by subsequent messages. Desktop has **three equal columns**, tablet two, mobile one. Each full4:3 comparison sits above native unlinked project text. Eyebrow04, main H2/accent/introduction, section location/background and existing index buttons remain.

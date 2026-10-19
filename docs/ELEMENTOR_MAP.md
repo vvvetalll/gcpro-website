@@ -1,5 +1,23 @@
 # GCPRO Elementor map
 
+## Before / After spacing — 2026-10-19, E49
+
+Current Homepage154 main46c3aad4 contains176 nodes; no node was added/deleted/reordered in this refinement. Current pre-edit structure differs from historical E48: owner had already changed section H2/introduction and replaced the two index actions with one VIEW ALL TRANSFORMATIONS instance2364d92a inside3281b1db. Preserved the current baseline rather than restoring historical copy/actions.
+
+| Existing element | Native local setting after refinement |
+| --- | --- |
+| Project roots22e7aed8 / b72017c /31087133 | gap:var(--space-sm),16px; formerly space-md24px |
+| Project H3s0fccf2a /3a39c79b /5931ddb6 | font-size22px normal/desktop; mobile20px; tablet inherits22px |
+| Caption wrappersae30c3b /2f6babff /1b321c8b | Existing16px space-sm title/description gap unchanged |
+| CTA parent3281b1db / button2364d92a | Single VIEW ALL TRANSFORMATIONS, existing # URL and outline style unchanged |
+| Section parent14d7e71c | Existing stack gap24px desktop/tablet,16px mobile; supplies description-to-CTA spacing |
+
+Title local style IDs are e-1528cb61-f0b4, e-62c3d0e6-e943 and e-5ee4f8d-ad38; these are element-local style records, not new Global Classes. Montserrat600, color-text,1.3 line-height and H3 semantics remain inherited. No title height/min-height, no new layout wrapper, no new Custom CSS. BEAF's pre-existing grid-owned label exception e-50f5e7b2-899b and native Shortcode widgets eb597a1/6a2a094/961e3c2 remain identical.
+
+Verification: all three1440 titles and descriptions align at shared Y coordinates;768 first-row titles/descriptions also align, with the third card in its normal second grid row. All requested widths1440/768/390/375 measure16px image/title and title/description gaps; no horizontal overflow. Native gap and font controls read back correctly; all three frontend comparisons still drag independently. Full saved-tree diff is limited to these six elements, with content/URLs/section design and unrelated sections unchanged. Private baseline snapshot retained outside Git. Rollback only those six native values: roots to space-md24px, remove H3 local font sizes to restore kit24/22/20px; do not restore the whole homepage over later work.
+
+Northbrook is unverified/provisional, not a confirmed project location. Gallery destination is pending; BEAF keyboard and anonymous/physical-device checks remain limitations from E48. No production action.
+
 ## BEAF project comparisons — 2026-10-19, E48
 
 This supersedes the original three placeholder cards in Projects; section/root IDs are retained. Main46c3aad4 now177 nodes, all outside Projects4221ba60 identical to the180-node pre-change snapshot.

@@ -1,5 +1,14 @@
 # GCPRO changelog
 
+## 2026-10-19 — Before / After spacing and title refinement — E49
+
+- Staging Homepage154/section4221ba60 only. Read the complete current saved main and captured before measurements/screenshots at1440/768/390/375. Current baseline already had H2 “Before / After”, its approved introduction and one VIEW ALL TRANSFORMATIONS Component59 instance2364d92a; preserved these owner edits, including existing # gallery destination.
+- Native local gap on existing project roots22e7aed8/b72017c/31087133 changed from space-md24px to space-sm16px: exactly8px closer from each slider to its title. Caption title-to-description gap remains space-sm16px. Native local font size on H3s0fccf2a/3a39c79b/5931ddb6 is22px desktop/tablet and20px mobile, preserving Montserrat600/color-text/1.3 line height. No fixed/minimum title heights, extra wrappers or alignment hacks.
+- Actual desktop all titles remain two lines, start at the same Y, and all descriptions start at the same Y. At768 the first two cards also share title/description baselines; third wraps naturally to the next grid row.390/375 use one column with consistent16px image/title and title/description gaps. All requested widths have no horizontal overflow, unchanged4:3 image geometry and natural wrapping. Before/after screenshots reviewed.
+- CTA spacing was already consistent with the existing section stack:24px after the tallest description on desktop/tablet,16px mobile. Kept its single-button count, navy outline style, left alignment and unresolved # destination unchanged; no gallery URL invented.
+- Saved-tree diff has exactly six affected existing elements (the three roots and three H3s);176-node IDs/order and all text, interactions, BEAF wrappers/Shortcodes, existing label Custom CSS, section heading and every unrelated element are unchanged. All three BEAF sliders respond to actual frontend mouse dragging after the refinement; reload restores50% offset. Native save/readback and staging SG cache purge completed.
+- No new Global Class, Variable, Component, custom CSS/JS/PHP, plugin/dependency or theme change. Existing native tokens/defaults reused; no shared style modified. Northbrook remains unverified/provisional in documentation. Native BEAF keyboard limitation and anonymous/physical-device/performance verification remain unresolved, unchanged from E48. Production untouched.
+
 ## 2026-10-19 — Three real BEAF comparisons in OUR WORK — E48
 
 - Staging Homepage154 only, section4221ba60/grid66b1c7d4. Owner expanded the initial one-project request by supplying three real photograph pairs and requesting three desktop columns. Preserved eyebrow41526d68, heading instance6b4663fc, introduction, section placement/background and index buttons. Native grid is3 columns desktop,2 tablet,1 mobile; image above native unlinked H3/paragraph. No fourth comparison.
