@@ -1,5 +1,15 @@
 # GCPRO design system
 
+## Provisional WHY editorial styles — 2026-10-19, E52
+
+These three new Atomic Global Classes are scoped to the four benefits on staging Homepage154's WHY section and await final visual approval. They are not a mandate to restyle other sections.
+
+- **why-benefit / g-9bf65cb**: repeated native grid with56px number track, flexible content,16px gap and24px padding; mobile48px number track and24px vertical/zero horizontal padding. Thin white22% dividers are local to the required grid edges. Existing classes did not provide this numbered editorial arrangement. Minimal scoped `& svg { fill: none; }` preserves outline details of existing attachments that otherwise render as solid shapes.
+- **why-benefit-number / g-046e833**: Montserrat700,36px desktop/tablet and32px mobile, line-height1, white28%, nowrap so01–04 never split. Existing general number styles target other sections and were not changed.
+- **why-benefit-title / g-48d2a32**: Montserrat600,20px/1.3, white, natural case; reused by all four benefit titles. Existing generic heading defaults have different size/case.
+
+Edit these in Elementor Design System → Classes. Native Variables supply navy#1A327D, accent#F05A29, text#334155, white, surface-alternate#EFF6FF and spacing. Existing Global Class definitions unchanged; no new Variables, Components or dependencies. H2 accents match the current Homepage40×3px orange/16px below-heading treatment. On light surfaces use standard dark text for H2; on navy use white. Testimonials reuses existing testimonial-card styling with local white surface,8px radius and no shadow. No universal testimonial/carousel pattern is approved by this task.
+
 ## Shared BEAF expand-button treatment — 2026-10-19, E51
 
 Approved native BEAF expand button treatment: white20px SVG;36px translucent black48% button;4px radius; no border or shadow. Hover/focus darkens to68% over160ms, without scaling or movement. Keyboard focus has a2px white outline/3px offset; one outline !important counters BEAF's native important focus reset. Mobile≤767px/coarse pointer uses44px touch targets. Reduced motion disables the transition.

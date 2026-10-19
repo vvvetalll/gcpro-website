@@ -1,5 +1,21 @@
 # GCPRO project context
 
+## WHY GCPRO and standalone Testimonials — 2026-10-19, E52
+
+Current staging Homepage154 sequence is Before/After **4221ba60** → WHY **5b2c6d3c** → new Testimonials **10a34543** → Service Areas **7d8c17ad**. New design and benefit wording await final visual/copy approval. No production changes.
+
+Original complete combined section is safely retained as Elementor Site Template **822**, **GCPRO – Why GCPRO + Testimonials – Original Combined (Archived)**, root **434b3976**. Native library supports Preview/Insert; rendered preview and all25 nodes were verified against the original, accounting only for regenerated IDs/standalone defaults. For rollback, restore that template only at WHY's current position and remove the new standalone Testimonials; do not replace the entire Homepage or delete the archive/shared assets.
+
+WHY keeps solid navy#1A327D, white large H2, standard orange40×3px accent, approximately35/65 editorial columns and four numbered outline-icon benefits. Intro/benefits stack at tablet, benefits become a single sequence on mobile. Three new section-scoped Atomic Global Classes cover repeated item layout, numbers and titles; a minimal descendant SVG fill:none rule is needed because these existing SVGs carry fill=currentColor. No shared Component definitions, existing Global Class definitions, theme styles or Homepage Custom CSS changed.
+
+Testimonials is lightblue#EFF6FF with standard dark#334155 H2 and three white placeholder cards; no carousel, ratings, fabricated names or quotations. Replace placeholders only with approved genuine content and permissions. Do not add a seventh numbered eyebrow: Testimonials is unnumbered.
+
+Owner's QA corrections were applied: unbroken two-digit numbers, visible outline SVG details, improved text width, site-consistent H2 colors and40×3px orange accents with16px H2 separation. All eight unrelated main sections match the pre-edit saved structure exactly. Chrome responsive visual checks completed at1440/1024/768/390/375px without overflow; desktop/mobile screenshots saved. Service Areas/Core B hover and BEAF723 fullscreen spot checks passed; desktop Core B sticky computed correctly. Process ripple media-gated hover remains untested in this browser because it reports no hover-capable pointer; no physical-device or separate incognito claim. Cache purged.
+
+Elementor editor reloaded successfully; WHY H2 opened with native editable title/H2 tag and General/Style/Interactions tabs. Complexity review found no duplicate new Component, dependency or unnecessary shared-style override.
+
+Pending decisions retained: final visual/copy approval, real approved testimonial content/sources/permissions, unverified Northbrook project location, pending gallery/city destinations and ZIP popup, deferred BEAF fit-to-window. Original Core Services A archive703 untouched.
+
 ## Shared BEAF expand controls — 2026-10-19, E51
 
 The existing Full screen buttons on Homepage 154 now use a compact white SVG on a translucent dark background, without the browser's thick border. A single rule block in **Page Settings → Advanced → Custom CSS** covers every BEAF comparison on this page, including future ones; no per-comparison ID selector or copied style is required. Other pages still require an explicit styling-scope decision.

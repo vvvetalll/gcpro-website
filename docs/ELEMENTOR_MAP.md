@@ -1,5 +1,25 @@
 # GCPRO Elementor map
 
+## WHY GCPRO / Testimonials separation — 2026-10-19, E52
+
+**Staging154 only; awaiting final review.** Original combined section archived as Site Template **822**, **GCPRO – Why GCPRO + Testimonials – Original Combined (Archived)**; archive root **434b3976**,25 nodes. Native library Preview/Insert and rendered preview verified; source preserved apart from regenerated IDs/standalone computed defaults. This is a Site Template, not a new Atomic Component.
+
+| Area | Actual IDs / integration |
+| --- | --- |
+| Existing WHY section root retained | **5b2c6d3c**,32 total nodes after replacement |
+| Editorial layout / intro / benefits | **2e63e92** / **90a7f6e** / **1159b0ff** |
+| Eyebrow / H2 / accent / intro text | **ebd1102** / **62a085d4** / **4312bd0** / **31a44bf8** |
+| Four benefit roots01–04 | **40005fc4**, **3a445659**, **6b2b3e0f**, **1d5836e9** |
+| Existing SVG attachment IDs | **205**, **206**, **210**, **211** (no shared asset edits) |
+| New Testimonials section / inner stack | **10a34543** / **7d037e04**;25 total nodes |
+| Testimonials heading stack / eyebrow / H2 / accent | **629e394d** / **31825a3f** / **3d727826** / **41bcab5a** |
+| Testimonials grid / three cards | **30591751** / **3873a6eb**, **7538d1f**, **76991ba** |
+| New repeated styles | **why-benefit g-9bf65cb**, **why-benefit-number g-046e833**, **why-benefit-title g-48d2a32** |
+
+Native Atomic grid/flex/text/SVG/divider elements use existing section/container/stack/layout-reset/section-eyebrow/testimonial-card classes and Variables. No new Atomic Components or Variables. Global Classes own repeated benefit styles; side dividers are local. Only necessary new descendant selector is why-benefit's `& svg { fill: none; }`, correcting existing SVG fill attributes. Both new H2 accents are native40×3px dividers placed16px below their headings. WHY H2 white; Testimonials H2 normal text#334155.
+
+Desktop editorial columns approximately35/65; tablet main column stacks but benefits retain2 columns; mobile benefits one column. Testimonials3 columns desktop and1 at tablet/mobile. All25 archived nodes remain recoverable. Current order: BEAF4221ba60 → WHY5b2c6d3c → Testimonials10a34543 → ServiceAreas7d8c17ad. All other main-section subtrees verified unchanged.
+
 ## Shared BEAF expand controls — 2026-10-19, E51
 
 Homepage154 → Page Settings → Advanced → Custom CSS contains the E51 button block after the unchanged E50 label rules. Selector `body.elementor-page-154 .bafg-twentytwenty-container .popup_button` covers native controls for723/742/767 and future comparisons on this page without an ID registry. Native SVG child uses fill:currentColor,20×20px; its transparent path is preserved.
