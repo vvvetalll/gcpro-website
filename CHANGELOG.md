@@ -1,5 +1,14 @@
 # GCPRO changelog
 
+## 2026-10-19 — Controlled Service Areas style consolidation — E42
+
+- Staging Homepage154/section7d8c17ad/grid d6dbbe2 only. Before editing captured full saved main, class definitions,1440/840/392 screenshots and style/geometry measurements. Existing city-link g-9a26448 was empty with no page consumers; separately inspected16 active Component definitions with no city-class references.
+- Reused city-link for12 anchors; added exactly one Global Class city-link__text g-efb17e3 for12 labels because existing text classes do not match the approved typography/inheritance. Removed24 local style records and redundant hover-background/paragraph-margin declarations. Text class uses native desktop/mobile properties with Custom CSS:null; row retains existing necessary fallback once centrally, alongside native properties.
+- Preserved structure, every city/name/URL,3/2/1 grid, geometry, spacing, colors, typography, buttons and whole-row arrow/focus/reduced-motion behavior. Saved-main diff changes only24 style/class records; all outside-section nodes unchanged. Existing Global Class comparison changes only city-link and adds one text class; final usage scan lists12 consumers each, only154. Existing empty city-links remains untouched.
+- Native Elementor cache regenerated. Before/after computed styles/geometry (0.03px tolerance)/text/hrefs matched at actual CSS1440/840/392; screenshots inspected, no page horizontal overflow. Real pointer hover, real Tab focus and emulated reduced motion match baseline; all12 reduced-motion transitions0s and no arrow transform.
+- No theme stylesheet, Custom Code entry, new CSS logic, JavaScript/PHP, Component, Variable, plugin or dependency. No production, route activation or ZIP functionality. Updated PROJECT_CONTEXT, DESIGN_SYSTEM and ELEMENTOR_MAP; CSS policy unchanged. Private before/after recovery snapshots retained; anonymous/incognito, physical-device, screen-reader, performance and full-site restore not tested. Existing city/coverage/SEO, destinations and ZIP popup approvals remain pending.
+
+
 ## 2026-10-19 — CSS architecture policy and read-only Service Areas audit — E41
 
 - Documented the required four-layer styling priority in AGENTS.md and docs/DESIGN_SYSTEM.md: native Atomic/Variables, reusable Global Classes, minimal scoped Custom CSS for native gaps, theme only for genuinely global technical rules unsuitable for Elementor. Added ownership, reuse, scope, specificity, exception/recovery and visual-preservation rules.

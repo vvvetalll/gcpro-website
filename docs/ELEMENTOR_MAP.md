@@ -1,5 +1,14 @@
 # GCPRO Elementor map
 
+## Service Areas class consolidation — 2026-10-19, E42
+
+Staging154 / section7d8c17ad / grid d6dbbe2. Same12 row/text IDs and DOM order as the E39 table below; no added/removed/rebuilt element or Component. All row anchors now use existing Global Class city-link g-9a26448; all paragraphs use new native city-link__text g-efb17e3. Both have exactly12 consumers on154; page scan and16 active Component reads found no pre-existing city-link consumers. Local styles on the24 nodes are cleared; inert local ID references retained by the connector contain no declarations. Other classes/content/link values/settings remain unchanged.
+
+Edit repeated row geometry/color/layout and the retained necessary border/transition/arrow/focus/reduced-motion CSS in row → Style → city-link. Edit paragraph typography/inherited color/mobile size in label → Style → city-link__text (Custom CSS:null). Paragraph margin uses native defaults; redundant hover background removed. Existing empty city-links g-6ebef89 untouched. Grid/responsive controls remain local on d6dbbe2; both action instances/styles unchanged. [Ownership, consumer checks, native/fallback boundaries, verification and rollback](DESIGN_SYSTEM.md#service-areas-consolidated-styles--2026-10-19-e42).
+
+Saved-main comparison confines changes to24 style/class records. Desktop1440/tablet840/mobile392 computed-style/geometry/content/href comparisons found no differences; hover, keyboard focus and reduced-motion matched baseline. No production/route/popup functionality change.
+
+
 ## Twelve-city responsive Service Areas — 2026-10-19, E39
 
 Supersedes E38's two-column/eight-city and solid-primary-button descriptions below. Existing section7d8c17ad, full-width container585624a1, introduction3dc285eb, heading71/2554ebe8, city parentd6dbbe2 and action row62862a3a retained. Grid local native responsive layout:3 desktop /2 tablet /1 mobile columns,48/40/0px gaps,4/6/12 complete rows. Heading/intro, navy outline59/2b5f493 and outside-section154 tree compare exactly equal.

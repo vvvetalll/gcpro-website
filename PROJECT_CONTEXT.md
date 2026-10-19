@@ -1,5 +1,16 @@
 # GCPRO project context
 
+## Service Areas styling consolidation — 2026-10-19, E42
+
+Completed the owner-approved staging Homepage154 maintainability refactor only. Existing empty/unused city-link g-9a26448 now owns all12 row styles; one new native city-link__text g-efb17e3 owns the12 city paragraphs. Cleared24 local style records; removed redundant transparent hover background and paragraph margin:0. Existing necessary border/transition/pseudo-arrow/focus-visible/reduced-motion fallback is centralized in the row Global Class, with supported properties native. Text class has no Custom CSS. No theme, Custom Code, JS/PHP, new Component/Variable/plugin/dependency or section rebuild.
+
+Before modifying city-link, inspected native definitions and all-page usage scan, plus all16 active Components: no existing consumers/references. Final usage scan shows exactly12 row and12 text consumers, only154; all other existing class definitions/order compare unchanged. Existing city-links g-6ebef89 remains empty/unused and untouched. Current native control ownership, rationale, CSS exception and recovery are in [DESIGN_SYSTEM](docs/DESIGN_SYSTEM.md#service-areas-consolidated-styles--2026-10-19-e42); IDs/classes are in ELEMENTOR_MAP. E41 audit is historical and its approval-only consolidation is now resolved; the CSS policy remains unchanged.
+
+Captured private structure/class and1440/840/392 screenshot/computed-style baselines before editing. After staging save/native cache regeneration, same-width comparisons found no differences in measured styles, geometry (0.03px tolerance), text or hrefs, and no horizontal page overflow; rendered screenshots inspected. Real hover/Tab focus and emulated reduced motion match their baselines; all12 reduced-motion rows have0s transitions/no arrow transform. Saved-main diff changes only24 row/text class/style records; layout, heading/intro, content, destinations, buttons and every unrelated Homepage node unchanged. Native class properties/fallback storage inspected via editor resources. Existing local ID references remain inert with empty style arrays.
+
+No production writes. Checks were authenticated/browser emulation, not anonymous/incognito or physical-device acceptance; screen reader/performance/full-site restore not replayed. Scoped before/after snapshots support section-only rollback, not a tested full-site restore. City selection/coverage/SEO approval, real staging city/directory links and ZIP popup/lookup remain pending; all existing intentional destinations/actions preserved.
+
+
 ## CSS architecture policy and Service Areas audit — 2026-10-19, E41
 
 Documentation-only task. [AGENTS](AGENTS.md#css-architecture-policy) and [DESIGN_SYSTEM](docs/DESIGN_SYSTEM.md#css-architecture-policy--2026-10-19-e41) now require: native Atomic controls/Variables → reusable Global Classes → minimal scoped Custom CSS for demonstrated gaps → theme stylesheet only for genuinely global technical rules that cannot be managed cleanly in Elementor. One property owner, existing-resource/consumer checks, no parallel styling system or CSS-elimination refactor.
