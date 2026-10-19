@@ -1,5 +1,14 @@
 # GCPRO changelog
 
+## 2026-10-19 — Shared BEAF expand-button style — E51
+
+- Staging Homepage 154 only. Added one shared rule block to existing Page Settings → Advanced → Custom CSS, preserving all E50 label rules. Matches `body.elementor-page-154 .bafg-twentytwenty-container .popup_button`; no individual comparison IDs or per-slider copies. All current and future BEAF comparisons on Homepage 154 inherit it. Other pages are outside this scope.
+- Reused native Full screen buttons/SVGs and unchanged popup behavior. New appearance: 36×36px border-box, 20px white SVG, black 48% translucent background, 4px corners, no border/shadow; hover/focus background 68% black, 160ms background transition. Mobile ≤767px/coarse pointer uses 44×44px touch targets. Reduced motion removes transition.
+- Keyboard focus has a 2px white outline with 3px offset. One narrow outline !important is necessary because BEAF ships `.popup_button:focus { outline:0 !important; }`; no other new specificity escalation.
+- Fresh saved main readback exactly equals the 176-node baseline. Only the document CSS field changed; no layout/content/images/labels/white divider handles, BEAF records 723/742/767, links, other sections or production changes. No new Global Classes, Variables, Components, JS/PHP, theme files, plugins or dependencies. One existing CSS owner, no extra active stylesheet.
+- Verified rendered desktop 1440px: all three controls share the new style, all popups open/close with loaded images, keyboard Enter opens comparison 742, actual Tab focus and hover feedback work. At 390px all targets measure44×44px and popup opens; 768px retains two columns; no closed-page overflow. Reduced-motion computed transition is0s. Native staging cache purge completed. Anonymous/physical-device/performance and previous native popup limitations remain pending; no new certification claimed.
+- Rollback: remove only the E51 expand-control block from Homepage Custom CSS; retain E50 labels. Northbrook remains unverified; gallery URL pending; security settings untouched.
+
 ## 2026-10-19 — BEAF popup labels and fullscreen diagnosis — E50
 
 - Staging Homepage 154 only; comparisons 723 / 742 / 767 preserved. Before the owner intervened, all three Full screen buttons POSTed their comparison ID to `/wp-content/plugins/beaf-before-and-after-gallery-pro//inc/popup-load.php` and received uncached HTTP 403 HTML instead of JSON. BEAF's loaded Pro script replaces the button with a spinner and restores it only on success, without an error callback. Images loaded correctly; no runtime exception was observed. Installed Free 4.7.21 / Pro 4.5.7 remained unchanged (Pro script URL uses version 4.5.6).

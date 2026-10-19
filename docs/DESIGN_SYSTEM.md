@@ -1,5 +1,13 @@
 # GCPRO design system
 
+## Shared BEAF expand-button treatment — 2026-10-19, E51
+
+Approved native BEAF expand button treatment: white20px SVG;36px translucent black48% button;4px radius; no border or shadow. Hover/focus darkens to68% over160ms, without scaling or movement. Keyboard focus has a2px white outline/3px offset; one outline !important counters BEAF's native important focus reset. Mobile≤767px/coarse pointer uses44px touch targets. Reduced motion disables the transition.
+
+One owner: Homepage154 → Page Settings → Advanced → Custom CSS, alongside the unchanged E50 label rules. Selector uses BEAF classes and the homepage body scope, not individual slider IDs; future Homepage comparisons inherit it automatically. Native plugin controls provide functionality/SVG; the existing inspected BEAF settings expose no shared expand-button styling control. No new Global Class, Variable, Component, JS/PHP, theme stylesheet, plugin or dependency.
+
+This is a reusable treatment implemented on Homepage154; other pages require explicitly extending the approved scope once they exist. Do not copy the CSS into each comparison or modify the native SVG/behavior. Remove only the E51 block to roll back.
+
 ## BEAF labels in inline and expanded views — 2026-10-19, E50
 
 Homepage 154 uses one central BEAF label rule set in **Page Settings → Advanced → Custom CSS**. This supersedes the storage location of E48's grid-local exception, while preserving its inline appearance exactly: 9px Inter, 60% opacity, transparent background, 8px top inset and subtle dark text shadow.

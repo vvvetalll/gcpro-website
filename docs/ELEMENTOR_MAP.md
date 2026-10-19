@@ -1,5 +1,15 @@
 # GCPRO Elementor map
 
+## Shared BEAF expand controls — 2026-10-19, E51
+
+Homepage154 → Page Settings → Advanced → Custom CSS contains the E51 button block after the unchanged E50 label rules. Selector `body.elementor-page-154 .bafg-twentytwenty-container .popup_button` covers native controls for723/742/767 and future comparisons on this page without an ID registry. Native SVG child uses fill:currentColor,20×20px; its transparent path is preserved.
+
+Default36×36px border-box/padding8px; background rgba(0,0,0,.48), white color,4px radius, border0/shadow none, flex centering,160ms background transition. Hover/focus background rgba(0,0,0,.68). Focus-visible outline2px white !important / offset3px overrides BEAF's explicit important outline reset. At max-width767px or coarse pointer:44×44px/padding12px. Reduced motion:transition none. Position/bottom/right remain native BEAF values.
+
+No element-tree change: all176 main nodes equal baseline, including native Shortcode instances and captions. No BEAF record settings or global class definitions changed. Recovery: remove only the E51 comment/rules, keeping E50 labels and native Atomic grid. Page-scoped rule does not automatically cover other pages; reuse through an explicitly authorized shared scope when those pages are implemented.
+
+Runtime checks:1440px all three popups and white buttons; actual Tab/Enter and hover;390px44px targets and popup;768px two columns/no closed-page overflow; reduced-motion0s. Earlier popup/anonymous/keyboard-range/physical-device/performance limitations are unchanged.
+
 ## BEAF shared label ownership — 2026-10-19, E50
 
 - Homepage 154 document setting `custom_css`, edited in **Page Settings → Advanced → Custom CSS**, is now the single owner of BEAF label styling for this homepage. The field was empty before this change.

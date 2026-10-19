@@ -1,5 +1,13 @@
 # GCPRO project context
 
+## Shared BEAF expand controls — 2026-10-19, E51
+
+The existing Full screen buttons on Homepage 154 now use a compact white SVG on a translucent dark background, without the browser's thick border. A single rule block in **Page Settings → Advanced → Custom CSS** covers every BEAF comparison on this page, including future ones; no per-comparison ID selector or copied style is required. Other pages still require an explicit styling-scope decision.
+
+Desktop button36px/icon20px/radius4px; mobile or coarse-pointer target44px. Hover darkens smoothly; keyboard focus is visible; reduced motion removes the transition. E50 labels and all native slider settings/behavior remain unchanged. No new class, variable, component, JS/PHP, plugin, dependency or theme rule.
+
+Verified all three popups at1440px, Tab focus and Enter activation, hover, 390px touch-target dimensions/mobile opening, 768px grid/no closed-page overflow and reduced-motion0s. Saved 176-node main tree is identical; only document CSS changed. Staging cache purged. Native anonymous/physical-device/performance/popup limitations, unverified Northbrook and pending gallery destination remain open. Production/security settings untouched.
+
 ## BEAF shared labels and fullscreen status — 2026-10-19, E50
 
 All three staging comparisons (723, 742, 767) now open and reopen in the authenticated frontend, with loaded images and working mouse divider dragging. Earlier fullscreen spinner failure was reproduced as HTTP 403 on BEAF Pro's direct popup-load.php request. The owner subsequently disabled protection and reported recovery; agent verification then observed HTTP 200. Agent made no security-setting or plugin-code changes. A supported narrow exception/vendor solution and anonymous delivery verification remain pending; do not describe broad protection disabling as a completed secure fix.
