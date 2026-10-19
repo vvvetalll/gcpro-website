@@ -1,5 +1,13 @@
 # GCPRO project context
 
+## BEAF shared labels and fullscreen status — 2026-10-19, E50
+
+All three staging comparisons (723, 742, 767) now open and reopen in the authenticated frontend, with loaded images and working mouse divider dragging. Earlier fullscreen spinner failure was reproduced as HTTP 403 on BEAF Pro's direct popup-load.php request. The owner subsequently disabled protection and reported recovery; agent verification then observed HTTP 200. Agent made no security-setting or plugin-code changes. A supported narrow exception/vendor solution and anonymous delivery verification remain pending; do not describe broad protection disabling as a completed secure fix.
+
+**Shared label styling is edited once:** Homepage 154 → Page Settings → Advanced → Custom CSS. Inline labels retain the approved discreet 9px / 60% / transparent appearance. Expanded labels use readable 11px white text on a small 55% black translucent background; AFTER clears the close button. This one page-scoped rule set covers every BEAF popup on Homepage 154 and the existing grid's inline comparisons. It is not a sitewide default on other pages. New comparison images/content still belong to their individual BEAF records.
+
+Old grid-local label CSS was removed from 66b1c7d4 / e-50f5e7b2-899b; native 3/2/1 grid controls remain. No new classes, variables, components, JS/PHP, plugin or dependency. No content, slider settings, handle-color, layout or production edit. Desktop 1440 / tablet 768 / mobile 390 label checks passed; all three popups and mouse dragging verified. Native popup horizontal-scroll/keyboard limitations and physical-device/performance/anonymous checks remain open. Northbrook is still unverified and the gallery destination remains pending.
+
 ## Before / After spacing refined — 2026-10-19, E49
 
 The approved staging154/4221ba60 three-column composition now has a native **16px image-to-title gap** on all three project roots (previously24px). Titles use the same Montserrat600/color-text with **22px desktop/tablet,20px mobile**; their default1.3 line height and existing16px title/description gap remain. All titles stay two lines at1440/768/390/375, so titles/descriptions align across shared desktop/tablet rows without fixed heights. Original3/2/1 responsive grid, full4:3 images, BEAF settings/labels and project copy are preserved.

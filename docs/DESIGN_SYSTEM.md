@@ -1,5 +1,15 @@
 # GCPRO design system
 
+## BEAF labels in inline and expanded views — 2026-10-19, E50
+
+Homepage 154 uses one central BEAF label rule set in **Page Settings → Advanced → Custom CSS**. This supersedes the storage location of E48's grid-local exception, while preserving its inline appearance exactly: 9px Inter, 60% opacity, transparent background, 8px top inset and subtle dark text shadow.
+
+Expanded BEAF popups require a distinct readable variant: 11px Inter, white text at full opacity, 55% black translucent background, 3px vertical / 7px horizontal padding, 18px line-height, .08em letter spacing, 2px radius and 12px top inset. AFTER is 48px from the right to avoid the native close control. White navigation handles and slider settings remain native BEAF record values, unchanged by this rule.
+
+The exception is necessary because BEAF mounts its popup under body, outside the Atomic section; section-local classes cannot style that portal. Scope is body.elementor-page-154 plus the existing grid ID for inline labels or .bafg_popup_preview for expanded labels. No global brand tokens, Global Classes, Components, JavaScript, PHP, theme stylesheet or plugin settings were added. Keep this single rule owner; do not copy it into each BEAF record. It applies to future Homepage comparisons in the same integration, not automatically to other pages.
+
+Rollback and exact element ownership are recorded in the E50 Elementor map. Native popup dimensions/scrollbars and keyboard handling are plugin behavior outside this label-only exception.
+
 ## BEAF label exception — 2026-10-19, E48
 
 Unique OUR WORK section exception on staging154, authorized by the BEAF integration request and subsequent explicit label feedback. No new reusable brand rule or Global Class. Layout, typography for project captions, gaps and3/2/1 breakpoints use native Atomic controls/defaults/tokens. BEAF's native options own images, orientation/offset, orange divider and disabled automatic effects.

@@ -1,5 +1,16 @@
 # GCPRO Elementor map
 
+## BEAF shared label ownership — 2026-10-19, E50
+
+- Homepage 154 document setting `custom_css`, edited in **Page Settings → Advanced → Custom CSS**, is now the single owner of BEAF label styling for this homepage. The field was empty before this change.
+- Inline selector scope: `body.elementor-page-154 [data-id="66b1c7d4"] .bafg-twentytwenty-container` with BEFORE/AFTER label pseudo-elements. Approved 9px / 60% opacity / transparent backgrounds and previous positioning/shadow retained.
+- Expanded selector scope: `body.elementor-page-154 .bafg_popup_preview .bafg-twentytwenty-container`. Both labels: opacity 1; ::before top 12px, zero margin-top, Inter via font-body fallback, 11px, .08em spacing, 18px line-height, 3px 7px padding, white on rgba(0,0,0,.55), no shadow, 2px radius. AFTER ::before right 48px leaves the native close control clear.
+- Native BEAF appends the popup to body, outside the Atomic grid. An Atomic class scoped to the grid cannot reach that body sibling. The native page Custom CSS control avoids theme/JS/plugin changes and per-record copies. Future Homepage grid comparisons/popups inherit this central styling; other pages require explicit scope decisions.
+- Grid 66b1c7d4 / local style e-50f5e7b2-899b now owns only its native 3/2/1 responsive columns. Removed its previous label Custom CSS to avoid two owners. All 176 main element IDs remain; only this grid's style field differs from baseline. Native Shortcodes eb597a1 / 6a2a094 / 961e3c2 and BEAF records 723 / 742 / 767 unchanged.
+- Recovery: restore the grid's E48 label rules from the private pre-change backup and clear only this E50 block in Page Settings. Do not restore the entire homepage over later edits.
+- Fullscreen is BEAF Pro's AJAX popup, not the browser Fullscreen API. Earlier POSTs with id=723/742/767 to `beaf-before-and-after-gallery-pro//inc/popup-load.php` returned uncached 403 HTML. Loaded Pro JS has no AJAX error callback to clear its spinner. After the owner's protection change, 200 responses and all three opens/reopens/closes/mouse drags were verified. No plugin patch or security-setting change was performed by the agent.
+- Logged-in label validation: 1440px desktop; 768px tablet and 390px mobile. No closed-page overflow; inline styles preserved. Native popup horizontal scrollbar, keyboard, anonymous delivery and physical-device/performance checks are not resolved by this CSS. Northbrook remains provisional/unverified.
+
 ## Before / After spacing — 2026-10-19, E49
 
 Current Homepage154 main46c3aad4 contains176 nodes; no node was added/deleted/reordered in this refinement. Current pre-edit structure differs from historical E48: owner had already changed section H2/introduction and replaced the two index actions with one VIEW ALL TRANSFORMATIONS instance2364d92a inside3281b1db. Preserved the current baseline rather than restoring historical copy/actions.
