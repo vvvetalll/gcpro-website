@@ -1,5 +1,15 @@
 # GCPRO project context
 
+## Navy CTA restored; Homepage typography checked — 2026-10-19, E54
+
+**Supersedes E53:** owner selected the original navy final CTA, orange solid CALL, white outline REQUEST SERVICE. Existing Component80 instance37feb023 and all content/links preserved. Panel5ec4592 retains8px corners. Homepage main46c3aad4 style e-685133d2-110f now owns only the scoped radius; no CTA color/hover overrides remain.
+
+Owner requested a page-wide design-system typography check, particularly WHY. Actual headings all resolve to Montserrat, native body content Inter and buttons Montserrat; font loading checks pass. Existing deliberate Core B40px heading,22px project titles, compact H3 and footer-label styles were preserved. WHY H2 **62a085d4** now uses native32/28/24px Montserrat700 with1.15 line-height, matching normal section H2 defaults; intro **31a44bf8** uses native16px/1.6 Inter400. Removed oversized48/40/32px H2 and20px intro overrides. Benefit styles/layout/copy and white treatment unchanged.
+
+Fresh baseline already contains an owner-added **Trustindex Google-review shortcode02441ff** in Testimonials10a34543, replacing prior placeholder cards. This task preserved that subtree exactly. The widget uses **Trustindex Poppins**, an unresolved typography exception reported to the owner; review authenticity/content/source approval was not audited, imported or changed. Earlier E52 placeholder-only state is historical, not current delivery.
+
+Verified actual Chrome1440/768/390px rendering and no overflow; H2 computes32/28/24px and intro16px. CTA navy/orange/white and8px verified after staging cache purge; screenshots saved. No physical-device or separate incognito claim. Saved structure shows all non-WHY section subtrees unchanged; only main radius CSS plus the two WHY local styles differ. No new class, Variable, Component, dependency, JS/PHP or global style change. Poppins widget exception and prior approval/content/location/link/popup decisions remain pending. Production untouched.
+
 ## Final CTA orange preview — 2026-10-19, E53
 
 Homepage154's final CTA **37feb023**, referencing shared Component80, now displays an orange#F05A29 inset panel with **8px** corners. Primary CALL button navy/white; secondary REQUEST SERVICE remains white outline with white/navy hover. Existing content and links remain unchanged; request destination still pending#.

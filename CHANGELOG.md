@@ -1,5 +1,14 @@
 # GCPRO changelog
 
+## 2026-10-19 — Restore navy final CTA and audit Homepage typography — E54
+
+- Staging Homepage154 only. Owner reverted E53 orange preview: final CTA instance **37feb023** / Component80 panel **5ec4592** again uses native **navy#1A327D**, **orange solid CALL**, **white outline REQUEST SERVICE**. Retained requested **8px** corners. Removed all E53 color/hover overrides; main46c3aad4 local style e-685133d2-110f now contains only the panel-scoped radius rule. Shared component/classes untouched.
+- Audited rendered H1–H6, main paragraphs, buttons, navigation/footer and font loading against current design documentation. All actual heading elements resolve to Montserrat; native content uses Inter, buttons Montserrat. Montserrat700 and Inter400 font-loading checks pass. Existing approved exceptions retained: Core B H2 40/36/28px, project titles22px desktop, footer H2 labels16px and compact section-specific H3 styles.
+- WHY **5b2c6d3c** had an oversized local H2 override48/40/32px with1.1 line-height and20px lead intro. Removed only those local scale overrides from H2 **62a085d4** and intro **31a44bf8**. H2 now inherits current Atomic defaults **Montserrat700,32/28/24px,1.15 line-height**; intro inherits **Inter400,16px/1.6**. White/dim-white colors,20px/600 benefit headings, numbers, icons, dividers, content/layout unchanged.
+- Saved readback confirms all other section subtrees identical to the fresh pre-task baseline, including owner-added Testimonials shortcode **02441ff** in section10a34543. Current frontend displays a Trustindex Google-review widget using **Trustindex Poppins**. This is an outstanding typography exception, reported rather than modified. No review content, ratings or sources were imported/validated by this audit.
+- Rendered1440/768/390px checks confirm WHY H2 sizes32/28/24px, intro16px and no overflow; screenshots saved. CTA computed navy/orange/white and8px confirmed after staging SG cache purge. Desktop mobile emulation, not physical-device/incognito verification.
+- Complexity reduction: removed CTA color/hover CSS and WHY font-size/line-height overrides; no new Global Classes, Variables, Components, JS/PHP, assets, plugins, dependencies or global typography changes. Production unchanged.
+
 ## 2026-10-19 — Orange final CTA preview — E53
 
 - Staging Homepage154 final CTA instance **37feb023** (Component80) only. Inset panel **5ec4592** now uses existing accent#F05A29 and subtle **8px** corners matching existing button/card treatment.

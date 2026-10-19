@@ -1,5 +1,13 @@
 # GCPRO Elementor map
 
+## Final CTA rollback and WHY typography normalization — 2026-10-19, E54
+
+- Homepage154 main **46c3aad4**, local style **e-685133d2-110f**: E53 color/hover groups removed. Only `& [data-interaction-id="5ec4592"] { border-radius:8px; }` remains. Native Component80 defaults supply navy panel, orange CALL and white outline REQUEST SERVICE in instance **37feb023**.
+- WHY **5b2c6d3c** H2 **62a085d4**, local style **e-717a7723-bccc**, now contains only white color. Native Atomic H2 defaults supply Montserrat700 **32/28/24px**, line-height1.15. All local desktop/tablet/mobile size and1.1 line-height overrides removed.
+- WHY intro **31a44bf8** retains opacity0.85, inherits native Inter400 **16px/1.6** after removing lead font-size override. All benefit Global Classes, source SVGs, structure, text and dividers unchanged.
+- Existing owner-authored Testimonials section **10a34543** now contains legacy shortcode widget **02441ff** under inner **7d037e04**. Frontend renders Trustindex Google reviews with Poppins. Audit preserved this current structure and flagged its plugin-owned font as an unresolved exception; no review content/settings changed.
+- No new structural IDs, Global Classes, Variables, Components, custom files or dependencies. Only two WHY local styles plus simplified main radius CSS changed. Verified1440/768/390px and saved structure equality outside WHY; CTA content/link overrides unchanged.
+
 ## Homepage final CTA color preview — 2026-10-19, E53
 
 - Homepage154 final instance **37feb023** → existing CTA Component **80** → panel source ID **5ec4592**, rendered using stable `data-interaction-id`.
