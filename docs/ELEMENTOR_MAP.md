@@ -1,5 +1,9 @@
 # GCPRO Elementor map
 
+## Current global footer and native title visibility — E64, 2026-10-20
+
+Footer114 active/include/general:1687d698 →119ffe98 → CTA671c4f66, grid73b78d01, coverage5245645d, bottom1d11b99e. Existing identity7ac91d92/services39be2867/contacte424c2c retained. Quiet call29c8d2e0 replaces interim53 instance55e1d02; bdfaa44→286 and37cec545→103 use supported Overrides. Group578307c4 holds existing dynamic year/identity. Two new reusable classes g-373d928/g-aca1669; no runtime ID selector.903 CSS moves body reserve into .site-footer.154 Page Settings Hide Title=yes; main190 nodes unchanged. [Full current locators/styles/links](audits/2026-10-20-footer-refresh-settings.json), [maintenance/QA/rollback](audits/2026-10-20-footer-refresh.md). Older footer-menu descriptions below are historical.
+
 ## Global smart navigation editing locations — E58, 2026-10-20
 
 Header113/4ef1aa21 gains gcpro-smart-header; separate root feba833 (native style e-63fbbef4-8ac8) → instance18849090 → new Component895/root4f446aa2 → paragraph142139fa / existing103 instance2c82656e. Homepage154/6092e1ab and shared Hero74/Copy2bd621f1 carry gcpro-cta-origin. Core154/6cb38139 gains gcpro-sticky-intro without a saved style change. 404125/7351ac06 and Search126/7071a479 carry gcpro-cta-off. New global Code903/Entire site/body-end5 is the only deployment. These IDs are editing locators, not runtime selectors. [Full maintenance record](components/smart-navigation.md).

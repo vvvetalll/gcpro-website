@@ -1,5 +1,11 @@
 # GCPRO design system
 
+## Footer hierarchy and separated rows — E64, 2026-10-20
+
+Added **gcpro-footer-link / g-373d928**: native quiet white44px footer actions/body typography/underline hover, replacing repeated local action styles; no class Custom CSS. Added **gcpro-footer-item / g-aca1669**: shared8px row padding and white16% bottom divider across six service rows and two contacts; only border style/color remain converter CSS. Row modifier precedes link class in priority.111 classes/36 existing Variables; no new Components/dependencies.
+
+Existing103/286, palette and spacing reused. Footer114 local native grid/spacing/20px headline/copyright controls create four clear areas and a quieter contact prompt below the unchanged primary page CTA. Root-scoped state rules override verified blue theme/shared103 hover/focus: white text11.69:1 on navy, orange indicators3.45:1. Avoid normal orange text on navy at3.45:1. [Exact owners, scopes, complexity review and tests](audits/2026-10-20-footer-refresh.md).
+
 ## Smart navigation additions — E58, 2026-10-20
 
 Six Global Classes added (103→109): gcpro-smart-header, gcpro-cta-origin, gcpro-mobile-cta, gcpro-mobile-cta__label, gcpro-sticky-intro and gcpro-cta-off. Only panel/label own new visual native controls; other four are empty semantic hooks. Existing36 Variables, palette/fonts/spacing and103 button reused. One reusable Atomic Component895 added; no new button definition. [Exact class IDs, native values and two narrow Custom CSS exceptions](components/smart-navigation.md), [saved native snapshot](audits/2026-10-20-smart-navigation-classes.json).

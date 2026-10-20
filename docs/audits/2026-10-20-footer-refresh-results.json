@@ -1,0 +1,746 @@
+{
+  "viewportTests": [
+    {
+      "barDisplay": "flex",
+      "barTop": 782.6666870117188,
+      "bodyPadding": "0px",
+      "callFont": "700 20px / 32px Inter",
+      "callHeight": 44,
+      "columns": "320px",
+      "copyrightHeight": 21,
+      "endDifference": -0.0521240234375,
+      "footerTextOverflow": [],
+      "metaBottom": 766.9479217529297,
+      "overflow": 0,
+      "visibleH1": [
+        "Property restoration in Chicago"
+      ],
+      "width": 360
+    },
+    {
+      "barDisplay": "flex",
+      "barTop": 782.6666870117188,
+      "bodyPadding": "0px",
+      "callFont": "700 20px / 32px Inter",
+      "callHeight": 44,
+      "columns": "353.333px",
+      "copyrightHeight": 21,
+      "endDifference": 0.03125,
+      "footerTextOverflow": [],
+      "metaBottom": 767.0312957763672,
+      "overflow": 0,
+      "visibleH1": [
+        "Property restoration in Chicago"
+      ],
+      "width": 393
+    },
+    {
+      "barDisplay": "flex",
+      "barTop": 782.6666870117188,
+      "bodyPadding": "0px",
+      "callFont": "700 20px / 32px Inter",
+      "callHeight": 44,
+      "columns": "390px",
+      "copyrightHeight": 21,
+      "endDifference": 0.1458740234375,
+      "footerTextOverflow": [],
+      "metaBottom": 767.1458587646484,
+      "overflow": 0,
+      "visibleH1": [
+        "Property restoration in Chicago"
+      ],
+      "width": 430
+    },
+    {
+      "barDisplay": "none",
+      "barTop": 0,
+      "bodyPadding": "0px",
+      "callFont": "700 20px / 32px Inter",
+      "callHeight": 44,
+      "columns": "328.333px 328.333px",
+      "copyrightHeight": 21,
+      "endDifference": -0.3332977294921875,
+      "footerTextOverflow": [],
+      "metaBottom": 819.6666717529297,
+      "overflow": 0,
+      "visibleH1": [
+        "Property restoration in Chicago"
+      ],
+      "width": 768
+    },
+    {
+      "barDisplay": "none",
+      "barTop": 0,
+      "bodyPadding": "0px",
+      "callFont": "700 20px / 32px Inter",
+      "callHeight": 44,
+      "columns": "456.333px 456.333px",
+      "copyrightHeight": 21,
+      "endDifference": -0.1457977294921875,
+      "footerTextOverflow": [],
+      "metaBottom": 819.8541717529297,
+      "overflow": 0,
+      "visibleH1": [
+        "Property restoration in Chicago"
+      ],
+      "width": 1024
+    },
+    {
+      "barDisplay": "none",
+      "barTop": 0,
+      "bodyPadding": "0px",
+      "callFont": "700 20px / 32px Inter",
+      "callHeight": 44,
+      "columns": "325px 325px 390px",
+      "copyrightHeight": 21,
+      "endDifference": -0.2916412353515625,
+      "footerTextOverflow": [],
+      "metaBottom": 819.7083587646484,
+      "overflow": 0,
+      "visibleH1": [
+        "Property restoration in Chicago"
+      ],
+      "width": 1440
+    }
+  ],
+  "stateTests": [
+    {
+      "active": true,
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "rgb(255, 255, 255)",
+      "color": "rgb(255, 255, 255)",
+      "decoration": "rgb(240, 90, 41)",
+      "line": "underline",
+      "name": "Call 847-656-3322",
+      "state": "hover"
+    },
+    {
+      "active": true,
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "rgb(255, 255, 255)",
+      "color": "rgb(255, 255, 255)",
+      "decoration": "rgb(240, 90, 41)",
+      "line": "underline",
+      "name": "847-656-3322",
+      "state": "hover"
+    },
+    {
+      "active": true,
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "rgb(255, 255, 255)",
+      "color": "rgb(255, 255, 255)",
+      "decoration": "rgb(240, 90, 41)",
+      "line": "underline",
+      "name": "restore@gcprochicago.com",
+      "state": "hover"
+    },
+    {
+      "active": true,
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "rgb(240, 90, 41)",
+      "color": "rgb(255, 255, 255)",
+      "decoration": "rgb(255, 255, 255)",
+      "line": "none",
+      "name": "Get Directions ↗",
+      "state": "hover"
+    },
+    {
+      "active": true,
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "rgb(255, 255, 255)",
+      "color": "rgb(255, 255, 255)",
+      "decoration": "rgb(240, 90, 41)",
+      "line": "underline",
+      "name": "Home",
+      "state": "hover"
+    },
+    {
+      "active": true,
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "rgb(255, 255, 255)",
+      "color": "rgb(255, 255, 255)",
+      "decoration": "rgb(240, 90, 41)",
+      "name": "Call 847-656-3322",
+      "outline": "rgb(240, 90, 41) solid 2.66667px",
+      "state": "focus"
+    },
+    {
+      "active": true,
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "rgb(255, 255, 255)",
+      "color": "rgb(255, 255, 255)",
+      "decoration": "rgb(240, 90, 41)",
+      "name": "847-656-3322",
+      "outline": "rgb(240, 90, 41) solid 2.66667px",
+      "state": "focus"
+    },
+    {
+      "active": true,
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "rgb(255, 255, 255)",
+      "color": "rgb(255, 255, 255)",
+      "decoration": "rgb(240, 90, 41)",
+      "name": "restore@gcprochicago.com",
+      "outline": "rgb(240, 90, 41) solid 2.66667px",
+      "state": "focus"
+    },
+    {
+      "active": true,
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "rgb(240, 90, 41)",
+      "color": "rgb(255, 255, 255)",
+      "decoration": "rgb(255, 255, 255)",
+      "name": "Get Directions ↗",
+      "outline": "rgb(240, 90, 41) solid 2.66667px",
+      "state": "focus"
+    },
+    {
+      "active": true,
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "rgb(255, 255, 255)",
+      "color": "rgb(255, 255, 255)",
+      "decoration": "rgb(240, 90, 41)",
+      "name": "Home",
+      "outline": "rgb(240, 90, 41) solid 2.66667px",
+      "state": "focus"
+    }
+  ],
+  "functional": {
+    "flow": [
+      {
+        "bar": "none",
+        "headerHidden": false,
+        "introTop": 1971.604248046875,
+        "y": 0
+      },
+      {
+        "bar": "flex",
+        "headerHidden": true,
+        "introTop": 1071.604248046875,
+        "y": 900
+      },
+      {
+        "bar": "flex",
+        "headerHidden": true,
+        "introTop": 171.6041717529297,
+        "y": 1800
+      },
+      {
+        "bar": "flex",
+        "headerHidden": true,
+        "introTop": 0,
+        "y": 2250
+      },
+      {
+        "bar": "flex",
+        "headerHidden": true,
+        "introTop": -57.20833587646485,
+        "y": 2850
+      },
+      {
+        "bar": "flex",
+        "headerHidden": true,
+        "introTop": -657.2083740234375,
+        "y": 3450
+      },
+      {
+        "bar": "flex",
+        "headerHidden": true,
+        "introTop": -6933.875,
+        "y": 9726.6669921875
+      }
+    ],
+    "menuOpen": {
+      "expanded": "true",
+      "bar": "none"
+    },
+    "menuClosed": {
+      "bar": "flex",
+      "expanded": "false",
+      "headerHidden": true
+    },
+    "mobileFocus": {
+      "barTop": 782.6666870117188,
+      "bottom": 381.71875,
+      "outline": "rgb(240, 90, 41) solid 2.66667px",
+      "text": "Get Directions ↗"
+    }
+  },
+  "finalRowTests": [
+    {
+      "bar": "flex",
+      "barTop": 782.6666870117188,
+      "bodyPadding": "0px",
+      "columns": "320px",
+      "footerBottom": 1485.28125,
+      "metaBottom": 1400.2812957763672,
+      "overflow": 0,
+      "rows": [
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Water Damage Restoration"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Fire & Smoke Restoration"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Mold Remediation"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Reconstruction"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Storm Damage Restoration"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Personal Property Restoration"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 44,
+          "padding": "8px 0px",
+          "text": "847-656-3322"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 44,
+          "padding": "8px 0px",
+          "text": "restore@gcprochicago.com"
+        }
+      ],
+      "textOverflow": [],
+      "viewportHeight": 852,
+      "width": 360
+    },
+    {
+      "bar": "flex",
+      "barTop": 782.6666870117188,
+      "bodyPadding": "0px",
+      "columns": "353.333px",
+      "footerBottom": 852.03125,
+      "metaBottom": 767.0312957763672,
+      "overflow": 0,
+      "rows": [
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Water Damage Restoration"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Fire & Smoke Restoration"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Mold Remediation"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Reconstruction"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Storm Damage Restoration"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Personal Property Restoration"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 44,
+          "padding": "8px 0px",
+          "text": "847-656-3322"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 44,
+          "padding": "8px 0px",
+          "text": "restore@gcprochicago.com"
+        }
+      ],
+      "textOverflow": [],
+      "viewportHeight": 852,
+      "width": 393
+    },
+    {
+      "bar": "flex",
+      "barTop": 782.6666870117188,
+      "bodyPadding": "0px",
+      "columns": "390px",
+      "footerBottom": 852.1458740234375,
+      "metaBottom": 767.1458587646484,
+      "overflow": 0,
+      "rows": [
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Water Damage Restoration"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Fire & Smoke Restoration"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Mold Remediation"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Reconstruction"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Storm Damage Restoration"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Personal Property Restoration"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 44,
+          "padding": "8px 0px",
+          "text": "847-656-3322"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 44,
+          "padding": "8px 0px",
+          "text": "restore@gcprochicago.com"
+        }
+      ],
+      "textOverflow": [],
+      "viewportHeight": 852,
+      "width": 430
+    },
+    {
+      "bar": "none",
+      "barTop": 0,
+      "bodyPadding": "0px",
+      "columns": "328.333px 328.333px",
+      "footerBottom": 851.6667022705078,
+      "metaBottom": 819.6666717529297,
+      "overflow": 0,
+      "rows": [
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Water Damage Restoration"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Fire & Smoke Restoration"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Mold Remediation"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Reconstruction"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Storm Damage Restoration"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Personal Property Restoration"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 44,
+          "padding": "8px 0px",
+          "text": "847-656-3322"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 44,
+          "padding": "8px 0px",
+          "text": "restore@gcprochicago.com"
+        }
+      ],
+      "textOverflow": [],
+      "viewportHeight": 852,
+      "width": 768
+    },
+    {
+      "bar": "none",
+      "barTop": 0,
+      "bodyPadding": "0px",
+      "columns": "456.333px 456.333px",
+      "footerBottom": 851.8542022705078,
+      "metaBottom": 819.8541717529297,
+      "overflow": 0,
+      "rows": [
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Water Damage Restoration"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Fire & Smoke Restoration"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Mold Remediation"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Reconstruction"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Storm Damage Restoration"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Personal Property Restoration"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 44,
+          "padding": "8px 0px",
+          "text": "847-656-3322"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 44,
+          "padding": "8px 0px",
+          "text": "restore@gcprochicago.com"
+        }
+      ],
+      "textOverflow": [],
+      "viewportHeight": 852,
+      "width": 1024
+    },
+    {
+      "bar": "none",
+      "barTop": 0,
+      "bodyPadding": "0px",
+      "columns": "325px 325px 390px",
+      "footerBottom": 852.2187728881836,
+      "metaBottom": 820.2187957763672,
+      "overflow": 0,
+      "rows": [
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Water Damage Restoration"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Fire & Smoke Restoration"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Mold Remediation"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Reconstruction"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Storm Damage Restoration"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 42.26041793823242,
+          "padding": "8px 0px",
+          "text": "Personal Property Restoration"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 44,
+          "padding": "8px 0px",
+          "text": "847-656-3322"
+        },
+        {
+          "border": "0.666667px solid rgba(255, 255, 255, 0.16)",
+          "height": 44,
+          "padding": "8px 0px",
+          "text": "restore@gcprochicago.com"
+        }
+      ],
+      "textOverflow": [],
+      "viewportHeight": 852,
+      "width": 1440
+    }
+  ],
+  "settledEndChecks": [
+    {
+      "atEnd": true,
+      "bar": "flex",
+      "barTop": 782.6666870117188,
+      "footerEnd": 851.9478759765625,
+      "headingSize": "24px",
+      "metaBottom": 766.9479217529297,
+      "overflow": 0,
+      "viewport": 852,
+      "width": 360
+    },
+    {
+      "atEnd": true,
+      "bar": "flex",
+      "barTop": 782.6666870117188,
+      "footerEnd": 852.03125,
+      "headingSize": "24px",
+      "metaBottom": 767.0312957763672,
+      "overflow": 0,
+      "viewport": 852,
+      "width": 393
+    },
+    {
+      "atEnd": true,
+      "bar": "flex",
+      "barTop": 782.6666870117188,
+      "footerEnd": 852.1458740234375,
+      "headingSize": "24px",
+      "metaBottom": 767.1458587646484,
+      "overflow": 0,
+      "viewport": 852,
+      "width": 430
+    },
+    {
+      "atEnd": true,
+      "bar": "none",
+      "barTop": 0,
+      "footerEnd": 851.6667022705078,
+      "headingSize": "28px",
+      "metaBottom": 819.6666717529297,
+      "overflow": 0,
+      "viewport": 852,
+      "width": 768
+    },
+    {
+      "atEnd": true,
+      "bar": "none",
+      "barTop": 0,
+      "footerEnd": 851.8542022705078,
+      "headingSize": "28px",
+      "metaBottom": 819.8541717529297,
+      "overflow": 0,
+      "viewport": 852,
+      "width": 1024
+    },
+    {
+      "atEnd": true,
+      "bar": "none",
+      "barTop": 0,
+      "footerEnd": 852.2187728881836,
+      "headingSize": "20px",
+      "metaBottom": 820.2187957763672,
+      "overflow": 0,
+      "viewport": 852,
+      "width": 1440
+    }
+  ],
+  "finalHeadlineAndEndCheck": [
+    {
+      "footerEnd": 959.885498046875,
+      "overflow": 0,
+      "title": "20px",
+      "width": 360
+    },
+    {
+      "footerEnd": 851.9688110351562,
+      "overflow": 0,
+      "title": "20px",
+      "width": 393
+    },
+    {
+      "footerEnd": 852.2084045410156,
+      "overflow": 0,
+      "title": "20px",
+      "width": 768
+    },
+    {
+      "footerEnd": 852.2187728881836,
+      "overflow": 0,
+      "title": "20px",
+      "width": 1440
+    }
+  ],
+  "finalSettled360": {
+    "atEnd": true,
+    "barTop": 782.6666870117188,
+    "footerEnd": 851.822998046875,
+    "metaBottom": 766.8229217529297,
+    "overflow": 0,
+    "title": "20px",
+    "width": 360
+  }
+}

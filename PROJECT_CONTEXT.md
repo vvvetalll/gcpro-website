@@ -1,5 +1,13 @@
 # GCPRO project context
 
+## Global footer, Chicago relevance and bottom clearance — 2026-10-20, E64
+
+Existing global Footer114 now has a quiet contact CTA, aligned brand/services/contact columns, separated service/contact rows, local coverage and grouped copyright/Home. Footer CTA complements the unchanged larger Homepage CTA. Two necessary reusable classes gcpro-footer-link g-373d928 and gcpro-footer-item g-aca1669;111 Classes/36 Variables, no new Component/plugin/JS. Existing103/286 reused, shared definitions untouched. Chicago/Chicagoland wording added naturally; verified contact/address/destinations preserved. [Exact34-node tree, native/CSS owners, links, tests and rollback](docs/audits/2026-10-20-footer-refresh.md); [broader content opportunities only](docs/audits/2026-10-20-local-content-opportunities.md).
+
+Code903 CSS moves the measured mobile panel reserve from body into .site-footer, removing the85px white tail. JS/Header/Core/895/BEAF/production unchanged. Owner-reported working page title fixed through154 native Hide Title=yes; Hero H1/full-width layout/190-node main preserved.
+
+Responsive360/393/430/768/1024/1440: no horizontal/text overflow; native1/2/3-column layouts, separate rows, correct panel visibility. Actual five-action mouse hover/Tab focus shows white text/orange indicators; menu/scroll/Core release/Maps destination checked. Normal Chrome had no logged-in class/adminbar; independent incognito/cache-HIT, physical-device/full-restore verification remain pending.
+
 ## Orange mobile Call Now and 24/7 — 2026-10-20, E63
 
 Global Mobile Emergency CTA895 now reuses Primary CTA53 and Emergency Service Mark286, displaying Emergency help →24/7→Call Now. Three existing outer override keys preserved; Header instance still renders Call Now/tel:+18476563322. Existing panel class g-6771860 owns native8px padding and narrowly scoped compact-button sizing/empty mark caption handling. No new classes/Variables/components/dependencies;903 behavior and production/BEAF unchanged. [Exact current IDs, CSS, tests and rollback](docs/audits/2026-10-20-mobile-cta-orange-247.md).
@@ -488,6 +496,7 @@ Use these labels throughout the documentation. Observed facts are limited to the
 
 | Ref | Source and date | What it establishes / limits |
 | --- | --- | --- |
+| E64 | Published114/class readback, native903 source equality,154 Hide Title UI and Chrome360/393/430/768/1024/1440 layout/state checks,2026-10-20; [audit](docs/audits/2026-10-20-footer-refresh.md) | Global footer hierarchy/separated rows/local relevance, accessible orange state accents, Maps, white-tail/title fixes. Physical devices, independent incognito/cache-HIT and full restore remain unverified. |
 | E63 | Native component895 publish/readback, class-resource reload and authenticated360/393/430/768/1440 browser tests,2026-10-20; [audit](docs/audits/2026-10-20-mobile-cta-orange-247.md) | Reused orange53/brand286, compact fit/44px button, preserved overrides/phone, focus/hover/menu. No physical-device/anonymous/full visual-editor certification. |
 | E62 | Native903 source reload, authenticated Chrome Process sweep and Header frame traces,2026-10-20; [audit](docs/audits/2026-10-20-process-cta-transition.md) | Phone-suppression root cause, continuous post-Hero panel at Process transitions, monotonic first Header exit at five widths, menu and reduced-motion checks. No physical-device/anonymous certification. |
 | E61 | Fresh154 MCP before/after190-node comparison, native903 source reload and authenticated responsive browser tests,2026-10-20; [audit](docs/audits/2026-10-20-section-layers-footer.md) | Local section stacking, Core sticky release, Call Now at Core/Process/footer and menu yield,360/393/430/768/1440. No physical-device/anonymous/cache-HIT certification. |

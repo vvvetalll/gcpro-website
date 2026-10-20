@@ -1,5 +1,13 @@
 # GCPRO changelog
 
+## 2026-10-20 — Global footer hierarchy, local relevance and clearance — E64
+
+- Refined existing Footer114 into quiet CTA, aligned responsive columns, separated service/contact rows, coverage and copyright. Removed its nested V3 menu instance; original WordPress menu/Header intact. Existing103/286 reused; quiet native telephone link replaces interim filled53 instance.
+- Added two reusable classes: gcpro-footer-link g-373d928 and gcpro-footer-item g-aca1669;111 classes/36 Variables. Native layout and one scoped root state owner preserve white text with orange hover/focus accents; no new Component/JS/plugin.
+- Added natural Chicago/Chicagoland context and Lombard office heading; verified phone/email/address/destinations preserved. Broader content opportunities documented without editing other pages.
+- Existing903 CSS moves85px mobile reserve inside navy footer; JS/Core settings unchanged.154 Hide Title=yes removes exposed working-title H1;190-node main unchanged.
+- Post-purge360/393/430/768/1024/1440 layout/overflow checks, five-action hover/Tab focus,393 menu/Core/CTA flow and Maps target verified. [Exact storage, limits and rollback](docs/audits/2026-10-20-footer-refresh.md). Production/BEAF untouched.
+
 ## 2026-10-20 — Orange Call Now and existing24/7 mark — E63
 
 - Updated existing global CTA895: reused Primary CTA53 instead of Outline103; inserted existing Emergency Service Mark286 with blank caption to the right of Emergency help. Existing label/call_text/call_link keys and phone retained; shared53/103/286 definitions unchanged.

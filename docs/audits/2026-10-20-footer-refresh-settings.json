@@ -1,0 +1,636 @@
+{
+  "evidence": "E64; staging only; reviewed public footer configuration, not a full restore backup",
+  "post_id": 114,
+  "nodes": [
+    {
+      "id": "1687d698",
+      "title": "Footer Shell",
+      "type": "e-div-block",
+      "settings": {
+        "classes": [
+          "g-d3248b3",
+          "g-43edd01",
+          "g-a9afb6b",
+          "e-65a7ec46-9cb8"
+        ],
+        "tag": "div"
+      },
+      "styles": {
+        "__style_id": "e-65a7ec46-9cb8",
+        "css": "padding-block-start: var(--space-xl); padding-block-end: var(--space-lg); padding-inline-start: 0px; padding-inline-end: 0px; border-block-start-width: 2px; border-top-style: solid; border-top-color: var(--color-accent); & .gcpro-footer-link:is(:hover,:focus-visible) { color: var(--color-white); text-decoration-color: var(--color-accent); text-decoration-thickness: 2px; text-underline-offset: 5px; } & .gcpro-footer-link:focus-visible { text-decoration-line: underline; outline: 3px solid var(--color-accent); outline-offset: 4px; } & .button-outline-white:is(:hover,:focus-visible):not(:disabled):not([aria-disabled=\"true\"]) { color: var(--color-white); background-color: transparent; border-color: var(--color-accent); } & .button-outline-white:focus-visible:not(:disabled):not([aria-disabled=\"true\"]) { outline: 3px solid var(--color-accent); outline-offset: 4px; }\n@media(--mobile) { padding-block-start: var(--space-lg); padding-block-end: var(--section-spacing-mobile); padding-inline-start: 0px; padding-inline-end: 0px; }"
+      }
+    },
+    {
+      "id": "119ffe98",
+      "title": "Footer Container",
+      "type": "e-div-block",
+      "settings": {
+        "classes": [
+          "g-68fb534",
+          "g-6f5f11a",
+          "e-2a649526-9b99"
+        ],
+        "tag": "div"
+      },
+      "styles": {
+        "__style_id": "e-2a649526-9b99",
+        "css": "gap: 0px;"
+      }
+    },
+    {
+      "id": "671c4f66",
+      "title": "Footer Emergency Strip",
+      "type": "e-flexbox",
+      "settings": {
+        "classes": [
+          "g-0152925",
+          "e-4e9c981d-4e97"
+        ]
+      },
+      "styles": {
+        "__style_id": "e-4e9c981d-4e97",
+        "css": "padding-block-end: var(--space-lg); border-block-end-width: 1px; gap: var(--space-lg); justify-content: space-between; align-items: center; border-bottom-style: solid; border-bottom-color: rgba(255,255,255,0.16);\n@media(--mobile) { flex-direction: column; gap: var(--space-sm); align-items: flex-start; }"
+      }
+    },
+    {
+      "id": "233d6afa",
+      "title": "Footer Emergency Copy",
+      "type": "e-div-block",
+      "settings": {
+        "classes": [
+          "g-0152925",
+          "g-6f5f11a",
+          "g-3bac536",
+          "e-70df6079-5481"
+        ]
+      },
+      "styles": {
+        "__style_id": "e-70df6079-5481",
+        "css": "width: auto; flex: 1 1 0px;\n@media(--mobile) { flex: 0 1 auto; }"
+      }
+    },
+    {
+      "id": "3ca0b443",
+      "title": "Footer Emergency Title",
+      "type": "e-heading",
+      "settings": {
+        "classes": [
+          "e-338b3ebe-b1f2"
+        ],
+        "tag": "h2",
+        "title": "Need restoration help?"
+      },
+      "styles": {
+        "__style_id": "e-338b3ebe-b1f2",
+        "css": "font-size: 20px; line-height: 1.35; text-transform: none;\n@media(--tablet) { font-size: 20px; }\n@media(--mobile) { font-size: 20px; }"
+      }
+    },
+    {
+      "id": "4884b146",
+      "title": "Footer Emergency Description",
+      "type": "e-paragraph",
+      "settings": {
+        "classes": [
+          "e-65f28ffc-afbe"
+        ],
+        "paragraph": "Call our team for help in Chicago and the surrounding area.",
+        "tag": "p"
+      },
+      "styles": {
+        "__style_id": "e-65f28ffc-afbe",
+        "css": "font-size: 14px;"
+      }
+    },
+    {
+      "id": "29c8d2e0",
+      "title": "Footer Quiet Call Link",
+      "type": "e-button",
+      "settings": {
+        "classes": [
+          "g-373d928",
+          "e-310ab1e8-bff0"
+        ],
+        "text": "Call 847-656-3322",
+        "link": {
+          "destination": "tel:+18476563322",
+          "isTargetBlank": null,
+          "tag": "a"
+        }
+      },
+      "styles": {
+        "__style_id": "e-310ab1e8-bff0",
+        "css": "font-weight: 700; font-size: 20px; flex: 0 0 auto;"
+      }
+    },
+    {
+      "id": "73b78d01",
+      "title": "Footer Columns",
+      "type": "e-flexbox",
+      "settings": {
+        "classes": [
+          "g-fb9219a",
+          "e-576e780c-5019"
+        ],
+        "tag": "div"
+      },
+      "styles": {
+        "__style_id": "e-576e780c-5019",
+        "css": "padding-block-start: var(--space-xl); padding-block-end: var(--space-xl); padding-inline-start: 0px; padding-inline-end: 0px; display: grid; gap: var(--space-xl); grid-template-columns: 1fr 1fr 1.2fr;\n@media(--tablet) { gap: var(--space-lg); grid-template-columns: 1fr 1fr; }\n@media(--mobile) { padding-block-start: var(--space-lg); padding-block-end: var(--space-lg); padding-inline-start: 0px; padding-inline-end: 0px; gap: var(--space-xl); grid-template-columns: 1fr; }"
+      }
+    },
+    {
+      "id": "7ac91d92",
+      "title": "Footer Identity",
+      "type": "e-div-block",
+      "settings": {
+        "classes": [
+          "g-6f5f11a",
+          "g-3bac536",
+          "g-3f96b71",
+          "e-fdb3237-8a23"
+        ],
+        "tag": "div"
+      },
+      "styles": []
+    },
+    {
+      "id": "4eac9eb",
+      "title": "Image",
+      "type": "e-image",
+      "settings": {
+        "classes": [
+          "e-4eac9eb-c27cc0a"
+        ],
+        "image": {
+          "src": {
+            "id": 232,
+            "url": null,
+            "alt": null
+          },
+          "size": "full"
+        },
+        "link": {
+          "destination": null,
+          "isTargetBlank": null,
+          "tag": "a"
+        }
+      },
+      "styles": {
+        "__style_id": "e-4eac9eb-c27cc0a",
+        "css": "width: 200px; height: auto; max-width: 100%;"
+      }
+    },
+    {
+      "id": "1432e75b",
+      "title": "Footer Intro",
+      "type": "e-paragraph",
+      "settings": {
+        "classes": [
+          "g-d480b26",
+          "e-4b83f107-238b"
+        ],
+        "paragraph": "Residential and commercial property restoration in Chicagoland.",
+        "tag": "p"
+      },
+      "styles": []
+    },
+    {
+      "id": "bdfaa44",
+      "title": "Footer Emergency Mark",
+      "type": "e-component",
+      "settings": {
+        "component_instance": {
+          "component_id": 286,
+          "overrides": [
+            {
+              "override_key": "label",
+              "override_value": {
+                "$$type": "escaped-html",
+                "value": "Emergency Restoration"
+              },
+              "schema_source": {
+                "type": "component",
+                "id": 286
+              }
+            }
+          ]
+        }
+      },
+      "styles": []
+    },
+    {
+      "id": "39be2867",
+      "title": "Footer Navigation",
+      "type": "e-div-block",
+      "settings": {
+        "classes": [
+          "g-6f5f11a",
+          "g-3bac536",
+          "g-3f96b71",
+          "e-6077e757-234e"
+        ],
+        "tag": "div"
+      },
+      "styles": {
+        "__style_id": "e-6077e757-234e",
+        "css": "gap: 0px;"
+      }
+    },
+    {
+      "id": "7ffa59b5",
+      "title": "Services Heading",
+      "type": "e-heading",
+      "settings": {
+        "classes": [
+          "g-0526546",
+          "e-2f1bfe77-c32f"
+        ],
+        "tag": "h2",
+        "title": "Chicago Restoration Services"
+      },
+      "styles": {
+        "__style_id": "e-2f1bfe77-c32f",
+        "css": "margin-block-end: var(--space-sm);"
+      }
+    },
+    {
+      "id": "1a57ae23",
+      "title": "Service 1",
+      "type": "e-paragraph",
+      "settings": {
+        "classes": [
+          "g-aca1669",
+          "e-79515e00-3e00"
+        ],
+        "paragraph": "Water Damage Restoration",
+        "tag": "p"
+      },
+      "styles": []
+    },
+    {
+      "id": "7e3dc0fd",
+      "title": "Service 2",
+      "type": "e-paragraph",
+      "settings": {
+        "classes": [
+          "g-aca1669",
+          "e-18adb030-4387"
+        ],
+        "paragraph": "Fire &amp; Smoke Restoration",
+        "tag": "p"
+      },
+      "styles": []
+    },
+    {
+      "id": "2a175611",
+      "title": "Service 3",
+      "type": "e-paragraph",
+      "settings": {
+        "classes": [
+          "g-aca1669",
+          "e-141e23c9-2389"
+        ],
+        "paragraph": "Mold Remediation",
+        "tag": "p"
+      },
+      "styles": []
+    },
+    {
+      "id": "15d483d9",
+      "title": "Service 4",
+      "type": "e-paragraph",
+      "settings": {
+        "classes": [
+          "g-aca1669",
+          "e-6675e170-6261"
+        ],
+        "paragraph": "Reconstruction",
+        "tag": "p"
+      },
+      "styles": []
+    },
+    {
+      "id": "147c396c",
+      "title": "Service 5",
+      "type": "e-paragraph",
+      "settings": {
+        "classes": [
+          "g-aca1669",
+          "e-71345a7c-85ef"
+        ],
+        "paragraph": "Storm Damage Restoration",
+        "tag": "p"
+      },
+      "styles": []
+    },
+    {
+      "id": "308c7b8f",
+      "title": "Service 6",
+      "type": "e-paragraph",
+      "settings": {
+        "classes": [
+          "g-aca1669",
+          "e-79ea2f3c-d6f7"
+        ],
+        "paragraph": "Personal Property Restoration",
+        "tag": "p"
+      },
+      "styles": []
+    },
+    {
+      "id": "e424c2c",
+      "title": "Footer Contact",
+      "type": "e-div-block",
+      "settings": {
+        "classes": [
+          "g-6f5f11a",
+          "g-3bac536",
+          "g-3f96b71",
+          "e-7b5b31ec-eb16"
+        ],
+        "tag": "div",
+        "link": {
+          "destination": null,
+          "isTargetBlank": null,
+          "tag": "a"
+        },
+        "_cssid": "robylo-contact"
+      },
+      "styles": {
+        "__style_id": "e-7b5b31ec-eb16",
+        "css": "gap: var(--space-xs);\n@media(--tablet) { grid-column: 1 / -1; }\n@media(--mobile) { grid-column: auto; }"
+      }
+    },
+    {
+      "id": "779deb5e",
+      "title": "Visit and Contact Heading",
+      "type": "e-heading",
+      "settings": {
+        "classes": [
+          "g-0526546"
+        ],
+        "tag": "h2",
+        "title": "Contact Our Lombard Office"
+      },
+      "styles": []
+    },
+    {
+      "id": "641a5869",
+      "title": "Footer Telephone",
+      "type": "e-button",
+      "settings": {
+        "classes": [
+          "g-aca1669",
+          "g-373d928",
+          "e-2134dae4-1ece"
+        ],
+        "text": "847-656-3322",
+        "link": {
+          "destination": "tel:+18476563322",
+          "isTargetBlank": null,
+          "tag": "a"
+        }
+      },
+      "styles": []
+    },
+    {
+      "id": "25e52737",
+      "title": "Footer Email",
+      "type": "e-button",
+      "settings": {
+        "classes": [
+          "g-aca1669",
+          "g-373d928",
+          "e-444dd1e0-c7e1"
+        ],
+        "text": "restore@gcprochicago.com",
+        "link": {
+          "destination": "mailto:restore@gcprochicago.com",
+          "isTargetBlank": null,
+          "tag": "a"
+        }
+      },
+      "styles": []
+    },
+    {
+      "id": "2a44b1ed",
+      "title": "Office Address",
+      "type": "e-paragraph",
+      "settings": {
+        "classes": [
+          "e-1d679274-c1df"
+        ],
+        "paragraph": "220 Eisenhower Lane North<br>Lombard, IL 60148",
+        "tag": "p"
+      },
+      "styles": []
+    },
+    {
+      "id": "37cec545",
+      "title": "Get Directions",
+      "type": "e-component",
+      "settings": {
+        "component_instance": {
+          "component_id": 103,
+          "overrides": [
+            {
+              "override_key": "text",
+              "override_value": {
+                "$$type": "escaped-html",
+                "value": "Get Directions ↗"
+              },
+              "schema_source": {
+                "type": "component",
+                "id": 103
+              }
+            },
+            {
+              "override_key": "link",
+              "override_value": {
+                "$$type": "link",
+                "value": {
+                  "destination": {
+                    "$$type": "url",
+                    "value": "https://www.google.com/maps/dir/?api=1&destination=220%20Eisenhower%20Lane%20North%2C%20Lombard%2C%20IL%2060148"
+                  },
+                  "isTargetBlank": {
+                    "$$type": "boolean",
+                    "value": true
+                  },
+                  "tag": {
+                    "$$type": "string",
+                    "value": "a"
+                  }
+                }
+              },
+              "schema_source": {
+                "type": "component",
+                "id": 103
+              }
+            }
+          ]
+        }
+      },
+      "styles": []
+    },
+    {
+      "id": "5245645d",
+      "title": "Chicagoland Coverage",
+      "type": "e-div-block",
+      "settings": {
+        "classes": [
+          "g-0152925",
+          "g-6f5f11a",
+          "g-3bac536",
+          "e-37aa61e2-bb74"
+        ]
+      },
+      "styles": {
+        "__style_id": "e-37aa61e2-bb74",
+        "css": "padding-block-start: var(--space-lg); padding-block-end: var(--space-lg); padding-inline-start: 0px; padding-inline-end: 0px; border-block-start-width: 1px; border-top-style: solid; border-top-color: rgba(255,255,255,0.16);"
+      }
+    },
+    {
+      "id": "43e8f919",
+      "title": "Coverage Heading",
+      "type": "e-heading",
+      "settings": {
+        "classes": [
+          "g-0526546"
+        ],
+        "tag": "h2",
+        "title": "Serving Chicago and Surrounding Areas"
+      },
+      "styles": []
+    },
+    {
+      "id": "5fe71200",
+      "title": "Coverage Cities",
+      "type": "e-paragraph",
+      "settings": {
+        "classes": [
+          "e-6d369c26-c6cb"
+        ],
+        "paragraph": "Lombard · Arlington Heights · Elmhurst · Naperville · Northbrook · Downers Grove · Oak Brook · Glenview · Highland Park · Schaumburg · Evanston · Elk Grove Village",
+        "tag": "p"
+      },
+      "styles": {
+        "__style_id": "e-6d369c26-c6cb",
+        "css": "font-size: 14px; line-height: 1.8;"
+      }
+    },
+    {
+      "id": "1d11b99e",
+      "title": "Footer Bottom",
+      "type": "e-flexbox",
+      "settings": {
+        "classes": [
+          "g-11ba71a",
+          "e-3a3f1a6d-bc52"
+        ],
+        "tag": "div"
+      },
+      "styles": {
+        "__style_id": "e-3a3f1a6d-bc52",
+        "css": "border-block-start-width: 1px; flex-wrap: wrap; justify-content: space-between; align-items: center; border-top-style: solid; border-top-color: rgba(255,255,255,0.16);\n@media(--mobile) { flex-direction: column; gap: var(--space-xs); align-items: flex-start; }"
+      }
+    },
+    {
+      "id": "578307c4",
+      "title": "Footer Copyright Group",
+      "type": "e-flexbox",
+      "settings": {
+        "classes": [
+          "g-0152925",
+          "e-1e6afb39-6123"
+        ]
+      },
+      "styles": {
+        "__style_id": "e-1e6afb39-6123",
+        "css": "width: auto; gap: 4px; flex-wrap: wrap; align-items: baseline;"
+      }
+    },
+    {
+      "id": "890602e",
+      "title": "Copyright Year",
+      "type": "e-paragraph",
+      "settings": {
+        "paragraph": {
+          "name": "current-date-time",
+          "settings": {
+            "date_format": "custom",
+            "time_format": "default",
+            "custom_format": "Y",
+            "before": "© ",
+            "after": ""
+          }
+        },
+        "classes": [
+          "g-2f5e3b0",
+          "e-b20365b-db91"
+        ],
+        "tag": "span"
+      },
+      "styles": {
+        "__style_id": "e-b20365b-db91",
+        "css": "font-size: 14px;"
+      }
+    },
+    {
+      "id": "23d35135",
+      "title": "Copyright Identity",
+      "type": "e-paragraph",
+      "settings": {
+        "classes": [
+          "g-2f5e3b0",
+          "e-63994f17-a62c"
+        ],
+        "paragraph": "GCPRO Restoration. All rights reserved.",
+        "tag": "span"
+      },
+      "styles": {
+        "__style_id": "e-63994f17-a62c",
+        "css": "font-size: 14px;"
+      }
+    },
+    {
+      "id": "5a520a4e",
+      "title": "Footer Home",
+      "type": "e-button",
+      "settings": {
+        "classes": [
+          "g-373d928",
+          "e-3d1cd11b-276c"
+        ],
+        "text": "Home",
+        "link": {
+          "destination": {
+            "name": "internal-url",
+            "group": "site",
+            "settings": {
+              "type": {
+                "$$type": "string",
+                "value": "post"
+              },
+              "post_id": {
+                "$$type": "query",
+                "value": {
+                  "id": {
+                    "$$type": "number",
+                    "value": 154
+                  }
+                }
+              }
+            }
+          },
+          "isTargetBlank": null,
+          "tag": "a"
+        }
+      },
+      "styles": {
+        "__style_id": "e-3d1cd11b-276c",
+        "css": "font-size: 14px; margin-inline-start: auto;\n@media(--mobile) { margin-inline-start: 0px; }"
+      }
+    }
+  ]
+}

@@ -1,5 +1,7 @@
 # Smart Header and Mobile Emergency CTA
 
+**E64,2026-10-20:** Existing903 CSS now reserves panel clearance inside .site-footer instead of body, removing the verified white tail. Mobile native footer baseline is retained with max(section-spacing-mobile, measured barHeight+24 + safe-area inset); last content stays above the fixed panel.903 JS, Header/Core/895 settings unchanged. [Current footer configuration, tests and recovery](../audits/2026-10-20-footer-refresh.md).
+
 Implemented on **staging only, 2026-10-20 (E58)**. Production was not accessed or changed. These are global site-shell features; numeric IDs below are editing locators only. [Verification and limitations](../audits/2026-10-20-smart-navigation.md).
 
 ## Global placement and native editing
@@ -66,7 +68,7 @@ Existing read-only adapters: native aria-expanded menus, dialog[open], aria-moda
 
 Runtime classes: **gcpro-nav-ready** on html; **is-floating/is-hidden** on marked Header; **is-visible** on panel. Runtime custom properties: --gcpro-admin-top, --gcpro-utility-height, --gcpro-header-clearance, --gcpro-bottom-reserve, --gcpro-bottom-clearance, --gcpro-cta-right. These are geometry values, not Atomic design tokens. The standard WordPress #wpadminbar is measured only for logged-in clearance; it is not an Elementor-generated ID.
 
-The panel uses8px edge clearance plus env(safe-area-inset-bottom). Mobile flow reserves measured panel height plus a stable maximum safe-area inset (34px fallback) so footer content remains reachable without animating panel padding as browser UI moves. Scroll padding accounts for current Header/panel clearance. Real device safe-area/browser-toolbar testing remains pending.
+The panel uses8px edge clearance plus env(safe-area-inset-bottom). Since E64, mobile .site-footer reserves max(section-spacing-mobile, measured panel height+24px+safe-area inset); body has no reserve padding. The footer stays navy to the end, with last content above the panel. Scroll padding accounts for current Header/panel clearance. Real-device safe-area/browser-toolbar testing remains pending.
 
 ## Core Services B: verified conflict only
 
