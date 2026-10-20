@@ -1,0 +1,213 @@
+{
+  "milestone": "E68",
+  "method": "Chrome responsive emulation; authenticated frontend after staging cache purge",
+  "measurements": [
+    {
+      "authenticated": true,
+      "bg": "linear-gradient(90deg, rgba(26, 50, 125, 0.94) 0%, rgba(26, 50, 125, 0.86) 100%), url(\"https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-restoration-technician-hero.png\")",
+      "clipped": [],
+      "columns": "320px",
+      "copyWidth": 320,
+      "height": 542.2291870117188,
+      "links": [
+        {
+          "href": "tel:+18476563322",
+          "text": "CALL 847-656-3322"
+        },
+        {
+          "href": "#",
+          "text": "REQUEST SERVICE"
+        }
+      ],
+      "overflow": 0,
+      "placeholder": "none",
+      "position": "80% 0%, 80% 0%",
+      "size": "auto, cover",
+      "width": 360
+    },
+    {
+      "authenticated": true,
+      "bg": "linear-gradient(90deg, rgba(26, 50, 125, 0.94) 0%, rgba(26, 50, 125, 0.86) 100%), url(\"https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-restoration-technician-hero.png\")",
+      "clipped": [],
+      "columns": "353.333px",
+      "copyWidth": 353.3333435058594,
+      "height": 513.4375,
+      "links": [
+        {
+          "href": "tel:+18476563322",
+          "text": "CALL 847-656-3322"
+        },
+        {
+          "href": "#",
+          "text": "REQUEST SERVICE"
+        }
+      ],
+      "overflow": 0,
+      "placeholder": "none",
+      "position": "80% 0%, 80% 0%",
+      "size": "auto, cover",
+      "width": 393
+    },
+    {
+      "authenticated": true,
+      "bg": "linear-gradient(90deg, rgba(26, 50, 125, 0.94) 0%, rgba(26, 50, 125, 0.86) 100%), url(\"https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-restoration-technician-hero.png\")",
+      "clipped": [],
+      "columns": "390px",
+      "copyWidth": 390,
+      "height": 517.09375,
+      "links": [
+        {
+          "href": "tel:+18476563322",
+          "text": "CALL 847-656-3322"
+        },
+        {
+          "href": "#",
+          "text": "REQUEST SERVICE"
+        }
+      ],
+      "overflow": 0,
+      "placeholder": "none",
+      "position": "80% 0%, 80% 0%",
+      "size": "auto, cover",
+      "width": 430
+    },
+    {
+      "authenticated": true,
+      "bg": "linear-gradient(90deg, rgba(26, 50, 125, 0.98) 0%, rgba(26, 50, 125, 0.9) 45%, rgba(26, 50, 125, 0.35) 100%), url(\"https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-restoration-technician-hero.png\")",
+      "clipped": [],
+      "columns": "688.667px",
+      "copyWidth": 600,
+      "height": 562.40625,
+      "links": [
+        {
+          "href": "tel:+18476563322",
+          "text": "CALL 847-656-3322"
+        },
+        {
+          "href": "#",
+          "text": "REQUEST SERVICE"
+        }
+      ],
+      "overflow": 0,
+      "placeholder": "none",
+      "position": "75% 0%, 75% 0%",
+      "size": "auto, cover",
+      "width": 768
+    },
+    {
+      "authenticated": true,
+      "bg": "linear-gradient(90deg, rgba(26, 50, 125, 0.98) 0%, rgba(26, 50, 125, 0.9) 45%, rgba(26, 50, 125, 0.35) 100%), url(\"https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-restoration-technician-hero.png\")",
+      "clipped": [],
+      "columns": "944.667px",
+      "copyWidth": 600,
+      "height": 562.90625,
+      "links": [
+        {
+          "href": "tel:+18476563322",
+          "text": "CALL 847-656-3322"
+        },
+        {
+          "href": "#",
+          "text": "REQUEST SERVICE"
+        }
+      ],
+      "overflow": 0,
+      "placeholder": "none",
+      "position": "75% 0%, 75% 0%",
+      "size": "auto, cover",
+      "width": 1024
+    },
+    {
+      "authenticated": true,
+      "bg": "linear-gradient(90deg, rgba(26, 50, 125, 0) 0%, rgba(26, 50, 125, 0) 72%, rgba(26, 50, 125, 0.35) 85%, rgb(26, 50, 125) 100%), linear-gradient(90deg, rgb(26, 50, 125) 0%, rgba(26, 50, 125, 0.98) 20%, rgba(26, 50, 125, 0.7) 42%, rgba(26, 50, 125, 0.05) 65%, rgba(26, 50, 125, 0) 75%), url(\"https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-restoration-technician-hero.png\")",
+      "clipped": [],
+      "columns": "516.344px 381.656px",
+      "copyWidth": 516.34375,
+      "height": 594.90625,
+      "links": [
+        {
+          "href": "tel:+18476563322",
+          "text": "CALL 847-656-3322"
+        },
+        {
+          "href": "#",
+          "text": "REQUEST SERVICE"
+        }
+      ],
+      "overflow": 0,
+      "placeholder": "none",
+      "position": "calc(50% + 80px) 0%, calc(50% + 80px) 0%, calc(50% + 80px) 0%",
+      "size": "1440px 100%, 1440px 100%, 1440px auto",
+      "width": 1025
+    },
+    {
+      "authenticated": true,
+      "bg": "linear-gradient(90deg, rgba(26, 50, 125, 0) 0%, rgba(26, 50, 125, 0) 72%, rgba(26, 50, 125, 0.35) 85%, rgb(26, 50, 125) 100%), linear-gradient(90deg, rgb(26, 50, 125) 0%, rgba(26, 50, 125, 0.98) 20%, rgba(26, 50, 125, 0.7) 42%, rgba(26, 50, 125, 0.05) 65%, rgba(26, 50, 125, 0) 75%), url(\"https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-restoration-technician-hero.png\")",
+      "clipped": [],
+      "columns": "625.594px 462.406px",
+      "copyWidth": 625.59375,
+      "height": 562.90625,
+      "links": [
+        {
+          "href": "tel:+18476563322",
+          "text": "CALL 847-656-3322"
+        },
+        {
+          "href": "#",
+          "text": "REQUEST SERVICE"
+        }
+      ],
+      "overflow": 0,
+      "placeholder": "none",
+      "position": "calc(50% + 80px) 0%, calc(50% + 80px) 0%, calc(50% + 80px) 0%",
+      "size": "1440px 100%, 1440px 100%, 1440px auto",
+      "width": 1440
+    },
+    {
+      "authenticated": true,
+      "bg": "linear-gradient(90deg, rgba(26, 50, 125, 0) 0%, rgba(26, 50, 125, 0) 72%, rgba(26, 50, 125, 0.35) 85%, rgb(26, 50, 125) 100%), linear-gradient(90deg, rgb(26, 50, 125) 0%, rgba(26, 50, 125, 0.98) 20%, rgba(26, 50, 125, 0.7) 42%, rgba(26, 50, 125, 0.05) 65%, rgba(26, 50, 125, 0) 75%), url(\"https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-restoration-technician-hero.png\")",
+      "clipped": [],
+      "columns": "625.594px 462.406px",
+      "copyWidth": 625.59375,
+      "height": 562.90625,
+      "links": [
+        {
+          "href": "tel:+18476563322",
+          "text": "CALL 847-656-3322"
+        },
+        {
+          "href": "#",
+          "text": "REQUEST SERVICE"
+        }
+      ],
+      "overflow": 0,
+      "placeholder": "none",
+      "position": "calc(50% + 80px) 0%, calc(50% + 80px) 0%, calc(50% + 80px) 0%",
+      "size": "1440px 100%, 1440px 100%, 1440px auto",
+      "width": 1920
+    },
+    {
+      "authenticated": true,
+      "bg": "linear-gradient(90deg, rgba(26, 50, 125, 0) 0%, rgba(26, 50, 125, 0) 72%, rgba(26, 50, 125, 0.35) 85%, rgb(26, 50, 125) 100%), linear-gradient(90deg, rgb(26, 50, 125) 0%, rgba(26, 50, 125, 0.98) 20%, rgba(26, 50, 125, 0.7) 42%, rgba(26, 50, 125, 0.05) 65%, rgba(26, 50, 125, 0) 75%), url(\"https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-restoration-technician-hero.png\")",
+      "clipped": [],
+      "columns": "625.594px 462.406px",
+      "copyWidth": 625.59375,
+      "height": 562.90625,
+      "links": [
+        {
+          "href": "tel:+18476563322",
+          "text": "CALL 847-656-3322"
+        },
+        {
+          "href": "#",
+          "text": "REQUEST SERVICE"
+        }
+      ],
+      "overflow": 0,
+      "placeholder": "none",
+      "position": "calc(50% + 80px) 0%, calc(50% + 80px) 0%, calc(50% + 80px) 0%",
+      "size": "1440px 100%, 1440px 100%, 1440px auto",
+      "width": 2560
+    }
+  ]
+}

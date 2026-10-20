@@ -1,0 +1,325 @@
+{
+  "milestone": "E69",
+  "environment": "https://vitaliiv1.sg-host.com",
+  "page": 970,
+  "status": "draft",
+  "documentSettings": {
+    "hide_title": "yes",
+    "template": "elementor_canvas"
+  },
+  "source": {
+    "page": 154,
+    "hero": "a62cdd3",
+    "cloneMethod": "Source-derived native Atomic composition with fresh IDs and existing Component references; no clone inserted into Homepage"
+  },
+  "media": {
+    "id": 973,
+    "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-hero-concept-b-transformation.webp",
+    "width": 1440,
+    "height": 1080,
+    "bytes": 250828,
+    "format": "WebP",
+    "quality": 84,
+    "illustrative": true
+  },
+  "elements": [
+    {
+      "id": "78418107",
+      "title": "Hero Concept B — Restoration Transformation",
+      "type": "e-div-block",
+      "settings": {
+        "classes": [
+          "g-d3248b3",
+          "g-43edd01",
+          "e-52ddaf75-516e"
+        ],
+        "tag": "section"
+      },
+      "styles": {
+        "__style_id": "e-52ddaf75-516e",
+        "css": "padding-block-start: var(--space-2xl); padding-block-end: var(--space-2xl); background-color: var(--color-primary);\n@media(--mobile) { padding-block-start: var(--space-xl); padding-block-end: var(--space-xl); }"
+      },
+      "children": [
+        "7ee3a143"
+      ]
+    },
+    {
+      "id": "7ee3a143",
+      "title": "Concept B Container",
+      "type": "e-div-block",
+      "settings": {
+        "classes": [
+          "g-68fb534"
+        ],
+        "tag": "div"
+      },
+      "styles": [],
+      "children": [
+        "4a5f89f7"
+      ]
+    },
+    {
+      "id": "4a5f89f7",
+      "title": "Concept B Split Layout",
+      "type": "e-div-block",
+      "settings": {
+        "classes": [
+          "g-0152925",
+          "e-4d03153a-b558"
+        ],
+        "tag": "div"
+      },
+      "styles": {
+        "__style_id": "e-4d03153a-b558",
+        "css": "display: grid; gap: var(--space-xl); grid-template-columns: 1fr 1.15fr; align-items: center;\n@media(--tablet) { gap: var(--space-lg); grid-template-columns: 1fr; }"
+      },
+      "children": [
+        "1e15be2a",
+        "59f6bdf4"
+      ]
+    },
+    {
+      "id": "1e15be2a",
+      "title": "Concept B Copy",
+      "type": "e-div-block",
+      "settings": {
+        "classes": [
+          "g-6f5f11a",
+          "e-5ed49794-72cc"
+        ],
+        "tag": "div"
+      },
+      "styles": {
+        "__style_id": "e-5ed49794-72cc",
+        "css": "max-width: 600px; gap: var(--space-md);\n@media(--mobile) { max-width: 100%; }"
+      },
+      "children": [
+        "2a5e09a4",
+        "3c329767",
+        "4133305d",
+        "6f8d5e67"
+      ]
+    },
+    {
+      "id": "2a5e09a4",
+      "title": "Concept B Emergency Mark",
+      "type": "e-component",
+      "settings": {
+        "component_instance": {
+          "component_id": 286,
+          "overrides": [
+            {
+              "override_key": "label",
+              "override_value": {
+                "$$type": "escaped-html",
+                "value": "Emergency Restoration"
+              },
+              "schema_source": {
+                "type": "component",
+                "id": 286
+              }
+            }
+          ]
+        }
+      },
+      "styles": [],
+      "children": []
+    },
+    {
+      "id": "3c329767",
+      "title": "Concept B H1",
+      "type": "e-heading",
+      "settings": {
+        "tag": "h1",
+        "title": "Property restoration in Chicago"
+      },
+      "styles": [],
+      "children": []
+    },
+    {
+      "id": "4133305d",
+      "title": "Concept B Supporting Copy",
+      "type": "e-paragraph",
+      "settings": {
+        "classes": [
+          "g-8c1a9a9",
+          "e-7206881e-8318"
+        ],
+        "paragraph": "Explore residential and commercial restoration services, project&nbsp;information and the next steps for requesting help.",
+        "tag": "p"
+      },
+      "styles": {
+        "__style_id": "e-7206881e-8318",
+        "css": "max-width: 520px;"
+      },
+      "children": []
+    },
+    {
+      "id": "6f8d5e67",
+      "title": "Concept B Actions",
+      "type": "e-div-block",
+      "settings": {
+        "classes": [
+          "g-0e529a5",
+          "g-b9ab0d8",
+          "e-734069da-c88d"
+        ],
+        "tag": "div"
+      },
+      "styles": {
+        "__style_id": "e-734069da-c88d",
+        "css": "gap: var(--space-sm);"
+      },
+      "children": [
+        "19d95c12",
+        "3209a58b"
+      ]
+    },
+    {
+      "id": "19d95c12",
+      "title": "Concept B Call",
+      "type": "e-component",
+      "settings": {
+        "component_instance": {
+          "component_id": 53,
+          "overrides": [
+            {
+              "override_key": "text",
+              "override_value": {
+                "$$type": "escaped-html",
+                "value": "CALL 847-656-3322"
+              },
+              "schema_source": {
+                "type": "component",
+                "id": 53
+              }
+            },
+            {
+              "override_key": "link",
+              "override_value": {
+                "$$type": "link",
+                "value": {
+                  "destination": {
+                    "$$type": "url",
+                    "value": "tel:+18476563322"
+                  },
+                  "isTargetBlank": {
+                    "$$type": "boolean",
+                    "value": false
+                  },
+                  "tag": {
+                    "$$type": "string",
+                    "value": "a"
+                  }
+                }
+              },
+              "schema_source": {
+                "type": "component",
+                "id": 53
+              }
+            }
+          ]
+        }
+      },
+      "styles": [],
+      "children": []
+    },
+    {
+      "id": "3209a58b",
+      "title": "Concept B Request",
+      "type": "e-component",
+      "settings": {
+        "component_instance": {
+          "component_id": 103,
+          "overrides": [
+            {
+              "override_key": "text",
+              "override_value": {
+                "$$type": "escaped-html",
+                "value": "REQUEST SERVICE"
+              },
+              "schema_source": {
+                "type": "component",
+                "id": 103
+              }
+            },
+            {
+              "override_key": "link",
+              "override_value": {
+                "$$type": "link",
+                "value": {
+                  "destination": {
+                    "$$type": "url",
+                    "value": "#"
+                  },
+                  "isTargetBlank": {
+                    "$$type": "boolean",
+                    "value": false
+                  },
+                  "tag": {
+                    "$$type": "string",
+                    "value": "a"
+                  }
+                }
+              },
+              "schema_source": {
+                "type": "component",
+                "id": 103
+              }
+            }
+          ]
+        }
+      },
+      "styles": [],
+      "children": []
+    },
+    {
+      "id": "59f6bdf4",
+      "title": "Concept B Transformation Visual",
+      "type": "e-div-block",
+      "settings": {
+        "classes": [
+          "g-0152925",
+          "e-55c2bfcb-a61c"
+        ],
+        "tag": "div"
+      },
+      "styles": {
+        "__style_id": "e-55c2bfcb-a61c",
+        "css": "overflow: hidden; border-radius: 8px;"
+      },
+      "children": [
+        "1ed0b238"
+      ]
+    },
+    {
+      "id": "1ed0b238",
+      "title": "Concept B Transformation Image",
+      "type": "e-image",
+      "settings": {
+        "classes": [
+          "e-49f75763-a237"
+        ],
+        "image": {
+          "src": {
+            "id": 973,
+            "url": null,
+            "alt": null
+          },
+          "size": "full"
+        }
+      },
+      "styles": {
+        "__style_id": "e-49f75763-a237",
+        "css": "width: 100%; height: auto; display: block;"
+      },
+      "children": []
+    }
+  ],
+  "originalFollowup": {
+    "element": "7de610a7",
+    "before": "Explore residential and commercial restoration services, project information and the next steps for requesting help.",
+    "after": "Explore residential and commercial restoration services, project&nbsp;information and the next steps for requesting help.",
+    "reason": "Subsequent explicit owner instruction to keep project information together; sole source Hero change during E69"
+  }
+}

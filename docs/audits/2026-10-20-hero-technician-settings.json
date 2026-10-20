@@ -1,0 +1,545 @@
+{
+  "milestone": "E68",
+  "environment": "https://vitaliiv1.sg-host.com",
+  "page": 154,
+  "media": {
+    "id": 961,
+    "file": "gcpro-restoration-technician-hero.png",
+    "width": 1915,
+    "height": 821,
+    "bytes": 1762486,
+    "sha256": "0b408aea21536dbcf4f4cbb2b5f013aaed3e208e2b3300e88454244e21c1eca5"
+  },
+  "before": [
+    {
+      "id": "a62cdd3",
+      "title": "01 Hero",
+      "settings": {
+        "classes": [
+          "g-708f717",
+          "g-d3248b3",
+          "g-43edd01"
+        ],
+        "tag": "section"
+      },
+      "styles": [],
+      "children": [
+        "20ff6df0"
+      ]
+    },
+    {
+      "id": "20ff6df0",
+      "title": "01 Hero Container",
+      "settings": {
+        "classes": [
+          "g-68fb534",
+          "g-6f5f11a"
+        ],
+        "tag": "div"
+      },
+      "styles": [],
+      "children": [
+        "1514b1c"
+      ]
+    },
+    {
+      "id": "1514b1c",
+      "title": "Hero Two Column Layout",
+      "settings": {
+        "classes": [
+          "g-c4cc431"
+        ],
+        "tag": "div"
+      },
+      "styles": [],
+      "children": [
+        "6cc20521",
+        "17c26181"
+      ]
+    },
+    {
+      "id": "6cc20521",
+      "title": "Hero Copy",
+      "settings": {
+        "classes": [
+          "g-6f5f11a",
+          "e-43714d85-88b2"
+        ],
+        "tag": "div"
+      },
+      "styles": [],
+      "children": [
+        "4af4b551",
+        "7941b532",
+        "7de610a7",
+        "6092e1ab"
+      ]
+    },
+    {
+      "id": "4af4b551",
+      "title": "Emergency Eyebrow — Editable Label",
+      "settings": {
+        "component_instance": {
+          "component_id": 286,
+          "overrides": [
+            {
+              "override_key": "label",
+              "override_value": {
+                "$$type": "escaped-html",
+                "value": "Emergency Restoration"
+              },
+              "schema_source": {
+                "type": "component",
+                "id": 286
+              }
+            }
+          ]
+        }
+      },
+      "styles": [],
+      "children": []
+    },
+    {
+      "id": "7941b532",
+      "title": "Homepage H1",
+      "settings": {
+        "tag": "h1",
+        "title": "Property restoration in Chicago",
+        "link": {
+          "destination": null,
+          "isTargetBlank": null,
+          "tag": "a"
+        }
+      },
+      "styles": [],
+      "children": []
+    },
+    {
+      "id": "7de610a7",
+      "title": "Hero Supporting Copy",
+      "settings": {
+        "classes": [
+          "g-8c1a9a9"
+        ],
+        "paragraph": "Explore residential and commercial restoration services, project information and the next steps for requesting help.",
+        "tag": "p"
+      },
+      "styles": [],
+      "children": []
+    },
+    {
+      "id": "6092e1ab",
+      "title": "Hero Actions",
+      "settings": {
+        "classes": [
+          "g-b9ab0d8",
+          "g-0e529a5",
+          "e-3dcae9ef-f40a"
+        ],
+        "tag": "div"
+      },
+      "styles": [],
+      "children": [
+        "18a239c4",
+        "a7bcc76"
+      ]
+    },
+    {
+      "id": "18a239c4",
+      "title": "Hero Primary CTA",
+      "settings": {
+        "component_instance": {
+          "component_id": 53,
+          "overrides": [
+            {
+              "override_key": "text",
+              "override_value": {
+                "$$type": "escaped-html",
+                "value": "CALL 847-656-3322"
+              },
+              "schema_source": {
+                "type": "component",
+                "id": 53
+              }
+            },
+            {
+              "override_key": "link",
+              "override_value": {
+                "$$type": "link",
+                "value": {
+                  "destination": {
+                    "$$type": "url",
+                    "value": "tel:+18476563322"
+                  },
+                  "isTargetBlank": {
+                    "$$type": "boolean",
+                    "value": false
+                  },
+                  "tag": {
+                    "$$type": "string",
+                    "value": "a"
+                  }
+                }
+              },
+              "schema_source": {
+                "type": "component",
+                "id": 53
+              }
+            }
+          ]
+        }
+      },
+      "styles": [],
+      "children": []
+    },
+    {
+      "id": "a7bcc76",
+      "title": "Hero Secondary Action",
+      "settings": {
+        "component_instance": {
+          "component_id": 103,
+          "overrides": [
+            {
+              "override_key": "text",
+              "override_value": {
+                "$$type": "escaped-html",
+                "value": "REQUEST SERVICE"
+              },
+              "schema_source": {
+                "type": "component",
+                "id": 103
+              }
+            },
+            {
+              "override_key": "link",
+              "override_value": {
+                "$$type": "link",
+                "value": {
+                  "destination": {
+                    "$$type": "url",
+                    "value": "#"
+                  },
+                  "isTargetBlank": {
+                    "$$type": "boolean",
+                    "value": false
+                  },
+                  "tag": {
+                    "$$type": "string",
+                    "value": "a"
+                  }
+                }
+              },
+              "schema_source": {
+                "type": "component",
+                "id": 103
+              }
+            }
+          ]
+        }
+      },
+      "styles": [],
+      "children": []
+    },
+    {
+      "id": "17c26181",
+      "title": "Hero Image Placeholder",
+      "settings": {
+        "classes": [
+          "g-02b63b3",
+          "g-710713a",
+          "g-7242622",
+          "g-dc38375"
+        ]
+      },
+      "styles": [],
+      "children": [
+        "708a5ff2"
+      ]
+    },
+    {
+      "id": "708a5ff2",
+      "title": "Hero Image Label",
+      "settings": {
+        "classes": [
+          "g-2f5e3b0"
+        ],
+        "paragraph": "Hero Image — 16:9"
+      },
+      "styles": [],
+      "children": []
+    }
+  ],
+  "after": [
+    {
+      "id": "a62cdd3",
+      "title": "01 Hero",
+      "settings": {
+        "classes": [
+          "g-d3248b3",
+          "g-43edd01",
+          "e-7cfcd182-d44a"
+        ],
+        "tag": "section"
+      },
+      "styles": {
+        "__style_id": "e-7cfcd182-d44a",
+        "css": "background-image: linear-gradient(90deg, rgba(26,50,125,0) 0%,rgba(26,50,125,0) 72%,rgba(26,50,125,0.35) 85%,rgba(26,50,125,1) 95%,rgba(26,50,125,1) 100%),linear-gradient(90deg, rgba(26,50,125,1) 0%,rgba(26,50,125,0.98) 20%,rgba(26,50,125,0.70) 42%,rgba(26,50,125,0.05) 65%,rgba(26,50,125,0) 75%),url(\"https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-restoration-technician-hero.png\"); background-repeat: repeat; background-attachment: scroll; background-size: auto auto; background-position: 0% 0%; background-repeat: repeat,repeat,no-repeat; background-size:1440px 100%,1440px 100%,1440px auto; background-position:calc(50% + 80px) top;\n@media(--tablet) { background-image: linear-gradient(90deg, rgba(26,50,125,0.98) 0%,rgba(26,50,125,0.90) 45%,rgba(26,50,125,0.35) 100%),url(\"https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-restoration-technician-hero.png\"); background-repeat: repeat; background-attachment: scroll; background-size: auto auto; background-position: 0% 0%; background-repeat: repeat,no-repeat; background-size:auto auto,cover; background-position:75% top; }\n@media(--mobile) { background-image: linear-gradient(90deg, rgba(26,50,125,0.94) 0%,rgba(26,50,125,0.86) 100%),url(\"https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-restoration-technician-hero.png\"); background-repeat: repeat; background-attachment: scroll; background-size: auto auto; background-position: 0% 0%; background-repeat: repeat,no-repeat; background-size:auto auto,cover; background-position:80% top; }"
+      },
+      "children": [
+        "20ff6df0"
+      ]
+    },
+    {
+      "id": "20ff6df0",
+      "title": "01 Hero Container",
+      "settings": {
+        "classes": [
+          "g-68fb534",
+          "g-6f5f11a"
+        ],
+        "tag": "div"
+      },
+      "styles": [],
+      "children": [
+        "1514b1c"
+      ]
+    },
+    {
+      "id": "1514b1c",
+      "title": "Hero Two Column Layout",
+      "settings": {
+        "classes": [
+          "g-c4cc431",
+          "e-6aa4b4bf-93f3"
+        ],
+        "tag": "div"
+      },
+      "styles": {
+        "__style_id": "e-6aa4b4bf-93f3",
+        "css": "@media(--tablet) { grid-template-columns: 1fr; }"
+      },
+      "children": [
+        "6cc20521",
+        "17c26181"
+      ]
+    },
+    {
+      "id": "6cc20521",
+      "title": "Hero Copy",
+      "settings": {
+        "classes": [
+          "g-6f5f11a",
+          "e-43714d85-88b2"
+        ],
+        "tag": "div"
+      },
+      "styles": {
+        "__style_id": "e-43714d85-88b2",
+        "css": "@media(--tablet) { width: 100%; max-width: 600px; }\n@media(--mobile) { width: 100%; max-width: 100%; }"
+      },
+      "children": [
+        "4af4b551",
+        "7941b532",
+        "7de610a7",
+        "6092e1ab"
+      ]
+    },
+    {
+      "id": "4af4b551",
+      "title": "Emergency Eyebrow — Editable Label",
+      "settings": {
+        "component_instance": {
+          "component_id": 286,
+          "overrides": [
+            {
+              "override_key": "label",
+              "override_value": {
+                "$$type": "escaped-html",
+                "value": "Emergency Restoration"
+              },
+              "schema_source": {
+                "type": "component",
+                "id": 286
+              }
+            }
+          ]
+        }
+      },
+      "styles": [],
+      "children": []
+    },
+    {
+      "id": "7941b532",
+      "title": "Homepage H1",
+      "settings": {
+        "tag": "h1",
+        "title": "Property restoration in Chicago",
+        "link": {
+          "destination": null,
+          "isTargetBlank": null,
+          "tag": "a"
+        }
+      },
+      "styles": [],
+      "children": []
+    },
+    {
+      "id": "7de610a7",
+      "title": "Hero Supporting Copy",
+      "settings": {
+        "classes": [
+          "g-8c1a9a9"
+        ],
+        "paragraph": "Explore residential and commercial restoration services, project information and the next steps for requesting help.",
+        "tag": "p"
+      },
+      "styles": [],
+      "children": []
+    },
+    {
+      "id": "6092e1ab",
+      "title": "Hero Actions",
+      "settings": {
+        "classes": [
+          "g-b9ab0d8",
+          "g-0e529a5",
+          "e-3dcae9ef-f40a"
+        ],
+        "tag": "div"
+      },
+      "styles": [],
+      "children": [
+        "18a239c4",
+        "a7bcc76"
+      ]
+    },
+    {
+      "id": "18a239c4",
+      "title": "Hero Primary CTA",
+      "settings": {
+        "component_instance": {
+          "component_id": 53,
+          "overrides": [
+            {
+              "override_key": "text",
+              "override_value": {
+                "$$type": "escaped-html",
+                "value": "CALL 847-656-3322"
+              },
+              "schema_source": {
+                "type": "component",
+                "id": 53
+              }
+            },
+            {
+              "override_key": "link",
+              "override_value": {
+                "$$type": "link",
+                "value": {
+                  "destination": {
+                    "$$type": "url",
+                    "value": "tel:+18476563322"
+                  },
+                  "isTargetBlank": {
+                    "$$type": "boolean",
+                    "value": false
+                  },
+                  "tag": {
+                    "$$type": "string",
+                    "value": "a"
+                  }
+                }
+              },
+              "schema_source": {
+                "type": "component",
+                "id": 53
+              }
+            }
+          ]
+        }
+      },
+      "styles": [],
+      "children": []
+    },
+    {
+      "id": "a7bcc76",
+      "title": "Hero Secondary Action",
+      "settings": {
+        "component_instance": {
+          "component_id": 103,
+          "overrides": [
+            {
+              "override_key": "text",
+              "override_value": {
+                "$$type": "escaped-html",
+                "value": "REQUEST SERVICE"
+              },
+              "schema_source": {
+                "type": "component",
+                "id": 103
+              }
+            },
+            {
+              "override_key": "link",
+              "override_value": {
+                "$$type": "link",
+                "value": {
+                  "destination": {
+                    "$$type": "url",
+                    "value": "#"
+                  },
+                  "isTargetBlank": {
+                    "$$type": "boolean",
+                    "value": false
+                  },
+                  "tag": {
+                    "$$type": "string",
+                    "value": "a"
+                  }
+                }
+              },
+              "schema_source": {
+                "type": "component",
+                "id": 103
+              }
+            }
+          ]
+        }
+      },
+      "styles": [],
+      "children": []
+    },
+    {
+      "id": "17c26181",
+      "title": "Hero Image Placeholder",
+      "settings": {
+        "classes": [
+          "g-02b63b3",
+          "g-710713a",
+          "g-7242622",
+          "g-dc38375",
+          "e-34f4998e-a98d"
+        ]
+      },
+      "styles": {
+        "__style_id": "e-34f4998e-a98d",
+        "css": "display: none;\n@media(--mobile) { display: none; }"
+      },
+      "children": [
+        "708a5ff2"
+      ]
+    },
+    {
+      "id": "708a5ff2",
+      "title": "Hero Image Label",
+      "settings": {
+        "classes": [
+          "g-2f5e3b0"
+        ],
+        "paragraph": "Hero Image — 16:9"
+      },
+      "styles": [],
+      "children": []
+    }
+  ]
+}

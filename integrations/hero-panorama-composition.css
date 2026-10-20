@@ -1,21 +1,7 @@
-/* E33: canonical mirror, not separately enqueued.
- * Existing Global Class hero--panorama g-708f717 -> normal -> Custom CSS.
- * Elementor field contains the declarations below inside its protected wrapper:
- * background-repeat: no-repeat;
- * @media (min-width: 1025px) {
- *   background-size: 1500px 100%, 1500px 100%, auto 100%;
- *   background-position: calc(50% - 80px) center;
- * }
- * Native Background retains Media633, colors/stops and image height100%.
- * Layers: right blend, left blend, native photograph. Colors/stops are native.
- * Bound the blend to the artwork and anchor both to the content center.
+/* RETIRED E70, 2026-10-20. Documentation tombstone; never enqueued.
+ * Old hero--panorama g-708f717 had no variants and no consumers in the
+ * all-page Elementor usage scan. Removed after explicit owner cleanup request.
+ * Main Hero now uses native split layout; no background composition CSS.
+ * Historical rules remain recoverable in Git history. Do not redeploy them.
+ * See docs/components/hero-main-beaf.md and the E70 retirement evidence.
  */
-.hero--panorama {
-  background-repeat: no-repeat;
-}
-@media (min-width: 1025px) {
-  .hero--panorama {
-    background-size: 1500px 100%, 1500px 100%, auto 100%;
-    background-position: calc(50% - 80px) center;
-  }
-}

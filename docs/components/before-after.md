@@ -1,5 +1,7 @@
 # Before / After
 
+**E71 explicit owner scope:** Reuse existing723 in the CURRENT main Hero only. Shortcode30e0c45 under visual484c13ec, same original photos; local wrapper rule hides its fullscreen entry point. Original eb597a1/6a2a094/961e3c2 and records723/742/767 are unchanged. This later integration authorization does not expand Phase1 refactoring. [Exact implementation and QA](hero-main-beaf.md).
+
 **Current E66,2026-10-20:** A later explicit owner request authorizes shared presentation-only correction. Existing Kit6 Site Settings Custom CSS now owns restrained10px dark-translucent/white labels and36px desktop/44px mobile expand buttons,16px glyph, orange focus. No page-ID dependence in the new style. Historical Homepage CSS below was absent on fresh native read; do not restore alongside Kit6. Plugin files/shortcodes/records/images/handle code unchanged. [Exact source, tests, limits and rollback](../audits/2026-10-20-beaf-presentation.md). The following E57 boundary and earlier CSS record are historical Phase1 evidence.
 
 **Phase1 boundary (E57):** BEAF Pro is an existing third-party plugin and is entirely excluded from refactoring. Its files, shortcodes, CSS overrides, popup behavior, selectors and Elementor integration are untouched. Necessary Homepage/page-body/grid/slider scoping is an intentional isolation exception, not an automatic architecture defect. Rendered BEAF page CSS equals the E56 baseline byte-for-byte; [verification](../audits/2026-10-20-phase1-cleanup.md).

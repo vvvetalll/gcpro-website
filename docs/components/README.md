@@ -6,6 +6,8 @@ Current inspection: **2026-10-20, staging only**. This directory owns component-
 
 | Record | Scope |
 | --- | --- |
+| [Main Hero with BEAF](hero-main-beaf.md) | Current main154, first existing comparison723; Hero-only fullscreen suppression, QA and rollback |
+| [Hero Concept B](hero-concept-b.md) | Retained static Draft970, Media973; approved and activated in E70, visual replaced by BEAF in E71 |
 | [Smart navigation](smart-navigation.md) | Global Header behavior, reusable Mobile Emergency CTA895, Code903, semantic page policy |
 | [Core Services B](core-services-b.md) | Editorial service directory, responsive sticky intro |
 | [How We Work](how-we-work.md) | Atomic Component582 and timeline effects |

@@ -1,0 +1,10 @@
+{
+  "class": {
+    "id": "g-708f717",
+    "type": "class",
+    "label": "hero--panorama",
+    "variants": []
+  },
+  "siteWideUsages": [],
+  "note": "Read-only Elementor all-page usage scan before retirement. Empty native variants; no consumers."
+}

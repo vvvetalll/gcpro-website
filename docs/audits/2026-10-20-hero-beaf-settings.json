@@ -1,0 +1,301 @@
+{
+  "elements": [
+    {
+      "id": "a62cdd3",
+      "elType": "e-div-block",
+      "title": "01 Hero",
+      "elements": [
+        {
+          "id": "67b7c63f",
+          "elType": "e-div-block",
+          "title": "Concept B Container",
+          "elements": [
+            {
+              "id": "3637829f",
+              "elType": "e-div-block",
+              "title": "Concept B Split Layout",
+              "elements": [
+                {
+                  "id": "41b35720",
+                  "elType": "e-div-block",
+                  "title": "Concept B Copy",
+                  "elements": [
+                    {
+                      "id": "25cebce7",
+                      "elType": "widget",
+                      "widgetType": "e-component",
+                      "title": "Concept B Emergency Mark",
+                      "interactions": [],
+                      "settings": {
+                        "component_instance": {
+                          "component_id": 286,
+                          "overrides": [
+                            {
+                              "override_key": "label",
+                              "override_value": {
+                                "$$type": "escaped-html",
+                                "value": "Emergency Restoration"
+                              },
+                              "schema_source": {
+                                "type": "component",
+                                "id": 286
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      "styles": [],
+                      "tag": "div"
+                    },
+                    {
+                      "id": "7f9397ab",
+                      "elType": "widget",
+                      "widgetType": "e-heading",
+                      "title": "Concept B H1",
+                      "interactions": [],
+                      "settings": {
+                        "tag": "h1",
+                        "title": "Property restoration in Chicago"
+                      },
+                      "styles": [],
+                      "tag": "h1",
+                      "default_styles": ".elementor .e-heading-base{margin:0px;}.elementor .e-heading-link-base{all:unset;cursor:pointer;}\n.elementor .e-default-h1{font-family:var(--font-heading);font-weight:700;font-size:var(--font-size-h1);color:var(--color-text);line-height:1.1;text-transform:uppercase;margin:0px;cursor: auto; overflow-wrap: anywhere;\\n}"
+                    },
+                    {
+                      "id": "1d8de660",
+                      "elType": "widget",
+                      "widgetType": "e-paragraph",
+                      "title": "Concept B Supporting Copy",
+                      "interactions": [],
+                      "settings": {
+                        "classes": [
+                          "g-8c1a9a9",
+                          "e-5a22681a-5033"
+                        ],
+                        "paragraph": "Explore residential and commercial restoration services, project&nbsp;information and the next steps for requesting help.",
+                        "tag": "p"
+                      },
+                      "styles": {
+                        "__style_id": "e-5a22681a-5033",
+                        "css": "max-width: 520px;"
+                      },
+                      "tag": "p",
+                      "default_styles": ".elementor .e-paragraph-base{margin:0px;}.elementor .e-paragraph-link-base{all:unset;cursor:pointer;}\n.elementor .e-default-p{font-family:var(--font-body);font-weight:400;font-size:var(--font-size-body);color:var(--color-text);line-height:1.6;margin:0px;cursor: auto; overflow-wrap: anywhere;\\n}"
+                    },
+                    {
+                      "id": "55056501",
+                      "elType": "e-div-block",
+                      "title": "Concept B Actions",
+                      "elements": [
+                        {
+                          "id": "7790eda8",
+                          "elType": "widget",
+                          "widgetType": "e-component",
+                          "title": "Concept B Call",
+                          "interactions": [],
+                          "settings": {
+                            "component_instance": {
+                              "component_id": 53,
+                              "overrides": [
+                                {
+                                  "override_key": "text",
+                                  "override_value": {
+                                    "$$type": "escaped-html",
+                                    "value": "CALL 847-656-3322"
+                                  },
+                                  "schema_source": {
+                                    "type": "component",
+                                    "id": 53
+                                  }
+                                },
+                                {
+                                  "override_key": "link",
+                                  "override_value": {
+                                    "$$type": "link",
+                                    "value": {
+                                      "destination": {
+                                        "$$type": "url",
+                                        "value": "tel:+18476563322"
+                                      },
+                                      "isTargetBlank": {
+                                        "$$type": "boolean",
+                                        "value": false
+                                      },
+                                      "tag": {
+                                        "$$type": "string",
+                                        "value": "a"
+                                      }
+                                    }
+                                  },
+                                  "schema_source": {
+                                    "type": "component",
+                                    "id": 53
+                                  }
+                                }
+                              ]
+                            }
+                          },
+                          "styles": [],
+                          "tag": "div"
+                        },
+                        {
+                          "id": "36d1fd50",
+                          "elType": "widget",
+                          "widgetType": "e-component",
+                          "title": "Concept B Request",
+                          "interactions": [],
+                          "settings": {
+                            "component_instance": {
+                              "component_id": 103,
+                              "overrides": [
+                                {
+                                  "override_key": "text",
+                                  "override_value": {
+                                    "$$type": "escaped-html",
+                                    "value": "REQUEST SERVICE"
+                                  },
+                                  "schema_source": {
+                                    "type": "component",
+                                    "id": 103
+                                  }
+                                },
+                                {
+                                  "override_key": "link",
+                                  "override_value": {
+                                    "$$type": "link",
+                                    "value": {
+                                      "destination": {
+                                        "$$type": "url",
+                                        "value": "#"
+                                      },
+                                      "isTargetBlank": {
+                                        "$$type": "boolean",
+                                        "value": false
+                                      },
+                                      "tag": {
+                                        "$$type": "string",
+                                        "value": "a"
+                                      }
+                                    }
+                                  },
+                                  "schema_source": {
+                                    "type": "component",
+                                    "id": 103
+                                  }
+                                }
+                              ]
+                            }
+                          },
+                          "styles": [],
+                          "tag": "div"
+                        }
+                      ],
+                      "interactions": [],
+                      "settings": {
+                        "classes": [
+                          "g-0e529a5",
+                          "g-b9ab0d8",
+                          "e-10c57ad9-241d"
+                        ],
+                        "tag": "div"
+                      },
+                      "styles": {
+                        "__style_id": "e-10c57ad9-241d",
+                        "css": "gap: var(--space-sm);"
+                      },
+                      "tag": "div",
+                      "default_styles": ".e-con{position:relative;width:100%;min-width:0;}\n.elementor .e-div-block-base{min-width:30px;padding:10px;display:block;}"
+                    }
+                  ],
+                  "interactions": [],
+                  "settings": {
+                    "classes": [
+                      "g-6f5f11a",
+                      "e-483c967e-e645"
+                    ],
+                    "tag": "div"
+                  },
+                  "styles": {
+                    "__style_id": "e-483c967e-e645",
+                    "css": "max-width: 600px; gap: var(--space-md);\n@media(--mobile) { max-width: 100%; }"
+                  },
+                  "tag": "div",
+                  "default_styles": ".e-con{position:relative;width:100%;min-width:0;}\n.elementor .e-div-block-base{min-width:30px;padding:10px;display:block;}"
+                },
+                {
+                  "id": "484c13ec",
+                  "elType": "e-div-block",
+                  "title": "Concept B Transformation Visual",
+                  "elements": [
+                    {
+                      "id": "30e0c45",
+                      "elType": "widget",
+                      "widgetType": "shortcode",
+                      "title": "Shortcode",
+                      "interactions": [],
+                      "settings": {},
+                      "styles": {}
+                    }
+                  ],
+                  "interactions": [],
+                  "settings": {
+                    "classes": [
+                      "g-0152925",
+                      "e-401e0bb0-ed4f"
+                    ],
+                    "tag": "div"
+                  },
+                  "styles": {
+                    "__style_id": "e-401e0bb0-ed4f",
+                    "css": "overflow: hidden; border-radius: 8px; & .popup_button { display: none; }"
+                  },
+                  "tag": "div",
+                  "default_styles": ".e-con{position:relative;width:100%;min-width:0;}\n.elementor .e-div-block-base{min-width:30px;padding:10px;display:block;}"
+                }
+              ],
+              "interactions": [],
+              "settings": {
+                "classes": [
+                  "g-0152925",
+                  "e-684a98d6-1453"
+                ],
+                "tag": "div"
+              },
+              "styles": {
+                "__style_id": "e-684a98d6-1453",
+                "css": "display: grid; gap: var(--space-xl); grid-template-columns: 1fr 1.15fr; align-items: center;\n@media(--tablet) { gap: var(--space-lg); grid-template-columns: 1fr; }"
+              },
+              "tag": "div",
+              "default_styles": ".e-con{position:relative;width:100%;min-width:0;}\n.elementor .e-div-block-base{min-width:30px;padding:10px;display:block;}"
+            }
+          ],
+          "interactions": [],
+          "settings": {
+            "classes": [
+              "g-68fb534"
+            ],
+            "tag": "div"
+          },
+          "styles": [],
+          "tag": "div",
+          "default_styles": ".e-con{position:relative;width:100%;min-width:0;}\n.elementor .e-div-block-base{min-width:30px;padding:10px;display:block;}"
+        }
+      ],
+      "interactions": [],
+      "settings": {
+        "classes": [
+          "g-d3248b3",
+          "g-43edd01",
+          "e-7cfcd182-d44a"
+        ],
+        "tag": "section"
+      },
+      "styles": {
+        "__style_id": "e-7cfcd182-d44a",
+        "css": "padding-block-start: var(--space-2xl); padding-block-end: var(--space-2xl); background-color: var(--color-primary);\n@media(--mobile) { padding-block-start: var(--space-xl); padding-block-end: var(--space-xl); }"
+      },
+      "tag": "section",
+      "default_styles": ".e-con{position:relative;width:100%;min-width:0;}\n.elementor .e-div-block-base{min-width:30px;padding:10px;display:block;}"
+    }
+  ]
+}

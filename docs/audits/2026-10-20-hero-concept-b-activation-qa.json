@@ -1,0 +1,123 @@
+{
+  "environment": "Authenticated Chrome staging frontend; responsive viewport emulation, not physical devices or independent incognito",
+  "widths": [
+    {
+      "actionsBottom": 643.2291870117188,
+      "backgroundImage": "none",
+      "columns": "320px",
+      "h1": 1,
+      "imageLoaded": true,
+      "imageTop": 675.2291870117188,
+      "links": [
+        "tel:+18476563322",
+        "#"
+      ],
+      "overflow": 0,
+      "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-hero-concept-b-transformation-768x576.webp",
+      "textOverflow": [],
+      "width": 360
+    },
+    {
+      "actionsBottom": 614.4375,
+      "backgroundImage": "none",
+      "columns": "353.333px",
+      "h1": 1,
+      "imageLoaded": true,
+      "imageTop": 646.4375,
+      "links": [
+        "tel:+18476563322",
+        "#"
+      ],
+      "overflow": 0,
+      "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-hero-concept-b-transformation-768x576.webp",
+      "textOverflow": [],
+      "width": 393
+    },
+    {
+      "actionsBottom": 618.09375,
+      "backgroundImage": "none",
+      "columns": "390px",
+      "h1": 1,
+      "imageLoaded": true,
+      "imageTop": 650.09375,
+      "links": [
+        "tel:+18476563322",
+        "#"
+      ],
+      "overflow": 0,
+      "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-hero-concept-b-transformation-768x576.webp",
+      "textOverflow": [],
+      "width": 430
+    },
+    {
+      "actionsBottom": 655.15625,
+      "backgroundImage": "none",
+      "columns": "688.667px",
+      "h1": 1,
+      "imageLoaded": true,
+      "imageTop": 687.15625,
+      "links": [
+        "tel:+18476563322",
+        "#"
+      ],
+      "overflow": -15,
+      "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-hero-concept-b-transformation-768x576.webp",
+      "textOverflow": [],
+      "width": 768
+    },
+    {
+      "actionsBottom": 641.90625,
+      "backgroundImage": "none",
+      "columns": "944.667px",
+      "h1": 1,
+      "imageLoaded": true,
+      "imageTop": 673.90625,
+      "links": [
+        "tel:+18476563322",
+        "#"
+      ],
+      "overflow": -15,
+      "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-hero-concept-b-transformation-768x576.webp",
+      "textOverflow": [],
+      "width": 1024
+    },
+    {
+      "actionsBottom": 658.6875,
+      "backgroundImage": "none",
+      "columns": "506.042px 581.958px",
+      "h1": 1,
+      "imageLoaded": true,
+      "imageTop": 239,
+      "links": [
+        "tel:+18476563322",
+        "#"
+      ],
+      "overflow": -15,
+      "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-hero-concept-b-transformation-768x576.webp",
+      "textOverflow": [],
+      "width": 1440
+    }
+  ],
+  "checks": {
+    "menuOpenHidesBottomPanel": true,
+    "menuPanelHiddenState": {
+      "display": "none",
+      "ariaHidden": true,
+      "inert": true
+    },
+    "menuCloseRestoresPanel": true,
+    "pastHeroPanelVisible": true,
+    "atTopPanelHidden": true,
+    "keyboard": "Actual Tab Menu Toggle → Call → Request; white focus outline",
+    "reducedMotion": true,
+    "otherNineSectionsUnchanged": true,
+    "oneH1": true,
+    "oldHeroBackground": "none",
+    "cache": "Purge SG Cache clicked after activation"
+  },
+  "limitations": [
+    "Request Service retains existing unresolved #",
+    "No telephone call or form submission",
+    "No independent incognito/cache HIT or physical-device test"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "environment": "GCPRO staging authenticated Chrome; viewport/touch emulation, not real Android/iOS or independent incognito",
+  "widths": [
+    {
+      "width": 360,
+      "visualWidth": 320,
+      "visualHeight": 240,
+      "ratio4by3": true,
+      "horizontalOverflow": 0
+    },
+    {
+      "width": 393,
+      "visualWidth": 353.3333435,
+      "visualHeight": 265,
+      "ratio4by3": true,
+      "horizontalOverflow": 0
+    },
+    {
+      "width": 430,
+      "visualWidth": 390,
+      "visualHeight": 292.5,
+      "ratio4by3": true,
+      "horizontalOverflow": 0
+    },
+    {
+      "width": 768,
+      "visualWidth": 688.666687,
+      "visualHeight": 516.5,
+      "ratio4by3": true,
+      "horizontalOverflow": 0
+    },
+    {
+      "width": 1024,
+      "visualWidth": 944.666687,
+      "visualHeight": 708.5,
+      "ratio4by3": true,
+      "horizontalOverflow": 0
+    },
+    {
+      "width": 1440,
+      "visualWidth": 581.958374,
+      "visualHeight": 436.46875,
+      "ratio4by3": true,
+      "horizontalOverflow": 0
+    }
+  ],
+  "hero": {
+    "images": [
+      "tinley-6.jpg",
+      "tinley-6-6.jpg"
+    ],
+    "imagesLoaded": true,
+    "radius": "8px",
+    "fullscreenDisplay": "none",
+    "imageLinkEnabled": "",
+    "desktopDragClipBefore": "rect(0px, 290.979px, 436.469px, 0px)",
+    "desktopDragClipAfter": "rect(0px, 418.625px, 436.469px, 0px)",
+    "touch393ClipBefore": "rect(0px, 254.166px, 265px, 0px)",
+    "touch393ClipAfter": "rect(0px, 106px, 265px, 0px)",
+    "touchHorizontalScrollBeforeAfter": [
+      351.3333435,
+      351.3333435
+    ],
+    "verticalTouchScrollBeforeAfter": [
+      391.3333435,
+      496
+    ],
+    "imageClickPopupCount": 0
+  },
+  "originalComparisons": {
+    "desktop1440": [
+      "723 drag changed, fullscreen opened/closed",
+      "742 drag changed, fullscreen opened/closed",
+      "767 drag changed, fullscreen opened/closed"
+    ],
+    "mobile393": "First and second popup sequence was interrupted by browser test timeout; second popup visibly open on recovery and closed; third opened/closed in separate verified call. No blanket completed mobile drag assertion.",
+    "fullscreenButtonsVisible": true,
+    "savedSectionUnchanged": true
+  },
+  "otherNineMainSectionsUnchanged": true,
+  "cache": "Purge SG Cache after publication",
+  "limitations": [
+    "Existing vendor handle is non-keyboard DIV",
+    "Request Service retains existing unresolved #",
+    "No independent incognito/cache-HIT certification",
+    "No physical-device test"
+  ]
+}
