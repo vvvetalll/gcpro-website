@@ -1,5 +1,7 @@
 # Hero and audience cards
 
+**E58,2026-10-20:** Homepage Hero Actions6092e1ab gains empty gcpro-cta-origin g-b9ab0d8. It signals the global Mobile Emergency CTA after the introductory actions leave the usable viewport; no Hero visual/content/link changes. Shared Hero74 Copy also has this hook for reusable consumers. [Global controller and editing contract](smart-navigation.md). Audience cards are unchanged.
+
 Two distinct native Homepage sections; no detached HTML composition.
 
 ## Hero

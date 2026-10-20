@@ -1,5 +1,7 @@
 # Core Services B
 
+**E58,2026-10-20:** Saved native intro style is unchanged. Browser testing demonstrated the returning Header covering79px of the mobile intro. Added empty gcpro-sticky-intro g-43749f7 to6cb38139; the shared global controller903 temporarily adds measured clearance while Header is visible and removes it when hidden. Tablet static positioning and native grid-bound release preserved. [Exact conflict evidence, ownership and rollback](smart-navigation.md#core-services-b-verified-conflict-only). No separate Core script.
+
 Six-item restoration directory on Homepage154. Fresh saved tree, native editor and rendered scroll checks on2026-10-20; [test evidence](../audits/2026-10-20-architecture-and-mobile.md).
 
 ## Location and structure

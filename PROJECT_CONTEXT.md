@@ -1,5 +1,11 @@
 # GCPRO project context
 
+## Global smart navigation — 2026-10-20, E58
+
+Implemented on staging: existing universal Header113 gains scroll-direction behavior; one reusable Atomic Mobile Emergency CTA895 is mounted as a separate root sibling outside its moving shell. One global Custom Code903 (Entire site/body-end5) owns the shared controller; no page/template/generated-element selectors. Six new classes, no new Variables/plugins/libraries/theme files. [Exact locations, native configuration and rollback](docs/components/smart-navigation.md); [browser evidence and limits](docs/audits/2026-10-20-smart-navigation.md).
+
+Mobile360/393/430 contextual bar and Header down/up pass;768/1024/1440 bar hidden, Header works, no horizontal overflow. Actual Core/Header79px conflict justified temporary runtime clearance; saved Core native positioning/padding/background unchanged. BEAF untouched. Menu, native popup, form fixture, reduced motion, short viewport and pinch suppression checked. Global404/search policy hides supplementary CTA. Guest request403, anonymous/cache-HIT and real Android/iOS remain unverified.
+
 ## Current Phase 1 handoff — 2026-10-20, E57
 
 Approved staging cleanup complete: [exact owners, changes, QA and rollback](docs/audits/2026-10-20-phase1-cleanup.md). Supersedes the corresponding E56 proposals below. Removed20 superseded Custom CSS declarations across10 existing classes; native controls/design preserved. Added only visual-neutral gcpro-homepage g-d0c199c to154/main46c3aad4, replaced authored numeric CTA847/radius/header menu selectors, and added a native Resources menu-item visibility class. Code847 source now mirrored in integrations/cta-video-experiment.html, not separately enqueued.

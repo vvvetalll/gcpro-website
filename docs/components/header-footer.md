@@ -1,5 +1,7 @@
 # Header and Footer
 
+**E58,2026-10-20:** Header113 remains global include/general. Existing shell4ef1aa21 gains gcpro-smart-header; a separate new root Div block feba833/instance18849090 mounts reusable895 outside the moving shell. Shared Code903/Entire site/body-end5 controls direction/menu/focus behavior. Original shell children/styles/links and Footer are unchanged. [Exact structure, classes, visual controls, new code and rollback](smart-navigation.md); this supersedes older “no Header JavaScript” statements below.
+
 Separate Theme Builder documents, not children of Homepage154. Re-read assignments before shared edits.
 
 ## Header113

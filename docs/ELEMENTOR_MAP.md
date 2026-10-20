@@ -1,5 +1,9 @@
 # GCPRO Elementor map
 
+## Global smart navigation editing locations — E58, 2026-10-20
+
+Header113/4ef1aa21 gains gcpro-smart-header; separate root feba833 (native style e-63fbbef4-8ac8) → instance18849090 → new Component895/root4f446aa2 → paragraph142139fa / existing103 instance2c82656e. Homepage154/6092e1ab and shared Hero74/Copy2bd621f1 carry gcpro-cta-origin. Core154/6cb38139 gains gcpro-sticky-intro without a saved style change. 404125/7351ac06 and Search126/7071a479 carry gcpro-cta-off. New global Code903/Entire site/body-end5 is the only deployment. These IDs are editing locators, not runtime selectors. [Full maintenance record](components/smart-navigation.md).
+
 ## Current Phase 1 editing locations — E57, 2026-10-20
 
 [Exact saved locations, IDs, dependencies and rollback](audits/2026-10-20-phase1-cleanup.md). Main154/46c3aad4 now includes gcpro-homepage g-d0c199c and local e-685133d2-110f targets & .cta-panel for8px radius. Existing Code847 uses .gcpro-homepage scope and .cta-panel instead of authored numeric selectors; native Page154 condition remains. Header113 class navigation--primary now hides the native Resources menu-item CSS class gcpro-menu-item--header-hidden; Footer114 still shows it. Ten Global Class Custom CSS owners cleaned, no content/structure changes. BEAF page/grid/plugin identifiers deliberately preserved; six SVG attachments unchanged.

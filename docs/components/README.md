@@ -6,6 +6,7 @@ Current inspection: **2026-10-20, staging only**. This directory owns component-
 
 | Record | Scope |
 | --- | --- |
+| [Smart navigation](smart-navigation.md) | Global Header behavior, reusable Mobile Emergency CTA895, Code903, semantic page policy |
 | [Core Services B](core-services-b.md) | Editorial service directory, responsive sticky intro |
 | [How We Work](how-we-work.md) | Atomic Component582 and timeline effects |
 | [Before / After](before-after.md) | Three BEAF records, shortcodes, inline and popup presentation |

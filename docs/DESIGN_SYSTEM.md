@@ -1,5 +1,9 @@
 # GCPRO design system
 
+## Smart navigation additions — E58, 2026-10-20
+
+Six Global Classes added (103→109): gcpro-smart-header, gcpro-cta-origin, gcpro-mobile-cta, gcpro-mobile-cta__label, gcpro-sticky-intro and gcpro-cta-off. Only panel/label own new visual native controls; other four are empty semantic hooks. Existing36 Variables, palette/fonts/spacing and103 button reused. One reusable Atomic Component895 added; no new button definition. [Exact class IDs, native values and two narrow Custom CSS exceptions](components/smart-navigation.md), [saved native snapshot](audits/2026-10-20-smart-navigation-classes.json).
+
 ## Phase 1 class cascade cleanup — E57, 2026-10-20
 
 [Exact class IDs/variants and removed declarations](audits/2026-10-20-phase1-cleanup.md). Ten existing classes retain final effective values and all native design controls;20 superseded Custom CSS declaration occurrences removed. Added one Global Class **gcpro-homepage g-d0c199c**, a visual-neutral scope on Homepage154/main46c3aad4, taking the E56 identity count102→103. Existing class priority is unchanged. No new Variable or design token. The menu marker gcpro-menu-item--header-hidden belongs to native WordPress Menus, not Atomic. BEAF overrides remain untouched intentional third-party exceptions.

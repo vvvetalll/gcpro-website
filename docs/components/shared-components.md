@@ -1,5 +1,7 @@
 # Shared Atomic component library
 
+**E58,2026-10-20:** New [Mobile Emergency CTA895](smart-navigation.md) composes the existing Outline White Button103 with one native label. Shared103 definition is unchanged.895 exposes label/call_text/call_link and is mounted once in the universal Header. Six new classes and one global Code903 are fully inventoried in that record; no new Variables/plugins/libraries.
+
 **E57 maintenance:** [Approved class cleanup](../audits/2026-10-20-phase1-cleanup.md) removes repeated focus groups in button-primary/secondary/outline and overridden secondary nowrap, slash padding and caption wrapping declarations. Final values/focus halo/native controls unchanged. Stored in active kit → named Global Class → breakpoint Custom CSS; definitions/overrides stay intact. Validation50 remains Draft.
 
 Native reuse contracts freshly discovered on2026-10-20. IDs locate saved definitions; instance wrappers can render different generated IDs, so do not write portable CSS against those generated wrappers.

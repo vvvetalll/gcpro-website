@@ -1,0 +1,81 @@
+# Smart Header and Mobile Emergency CTA
+
+Implemented on **staging only, 2026-10-20 (E58)**. Production was not accessed or changed. These are global site-shell features; numeric IDs below are editing locators only. [Verification and limitations](../audits/2026-10-20-smart-navigation.md).
+
+## Global placement and native editing
+
+Theme Builder Header **113**, “ROBYLO / Universal Header”, remains published with **include/general**. Its existing root **4ef1aa21**, Header Shell, keeps site-header and gains gcpro-smart-header. All original header children, menu selection, native object links and design styles remain unchanged.
+
+The rendered outer `<header>` is a direct body child with no transform, containment or clipping. The moving shell is its first child. A separate document-root Div block **feba833**, local native style **e-63fbbef4-8ac8** (padding0/min-width0), contains component instance **18849090 →895**. This sibling is outside the moving shell. The outer header remains static and receives a measured runtime min-height to preserve flow when its shell becomes fixed. No header/menu clone or reparenting script exists.
+
+**Atomic Component895**, “GCPRO / Mobile Emergency CTA”, UID component-9ee4de7d-4608-4b17-b780-3c450684119b:
+
+- Root **4f446aa2**: native Flexbox, tag aside, gcpro-mobile-cta.
+- Paragraph **142139fa**: Emergency help, gcpro-mobile-cta__label.
+- Nested existing Outline White Button **103**, instance **2c82656e**. No duplicate button definition.
+- Supported overrides: **label**, **call_text**, **call_link**. Header instance overrides call_text to **Call Now**; telephone destination resolves to **tel:+18476563322**. Component origin text is Call847-656-3322. No new placeholder route.
+
+Edit global placement/instance overrides in [Header editor](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=113&action=elementor), or the shared [CTA definition](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=895&action=elementor). Select Global Mobile Emergency CTA in Navigator, then Edit Component. The component's editor-only class exception shows it in normal flow; the controller is disabled in Elementor editing/preview. Never detach it to change a label or telephone destination.
+
+## Atomic ownership and additions
+
+Six new Global Classes, taking103 identities to109; priority of existing classes is unchanged:
+
+| Class / ID | Purpose and owner |
+| --- | --- |
+| gcpro-smart-header / g-8706951 | Empty semantic hook on existing Header Shell; no visual declarations |
+| gcpro-cta-origin / g-b9ab0d8 | Empty introductory-action hook; Homepage154/Hero Actions6092e1ab and shared Hero74/Copy2bd621f1 |
+| gcpro-mobile-cta / g-6771860 | Native panel layout, navy/white colors, orange1px border,8px radius, xs/sm spacing; display:none fallback |
+| gcpro-mobile-cta__label / g-4d22e61 | Native Inter14px/600/1.4 white label, margin0 |
+| gcpro-sticky-intro / g-43749f7 | Empty hook on Core B intro6cb38139 for verified Header clearance conflict |
+| gcpro-cta-off / g-3cbfd16 | Empty page/template policy hook; 404125/root7351ac06 and Search126/root7071a479 |
+
+Reuse color-primary, color-white, color-accent, font-body, space-xs and space-sm. The existing103 button retains its typography, colors, padding, radius, hover and focus styles. No new Global Variables, palette, plugin, library, theme file or PHP.
+
+Design System → Classes → gcpro-mobile-cta → Custom CSS owns only:
+
+```css
+& .button-outline-white { flex-shrink: 0; white-space: nowrap; }
+&:where(.elementor-editor-active *) { display: flex; position: relative; }
+```
+
+The first prevents Call Now wrapping when the existing admin chat launcher needs space. The second permits static native editing while the frontend fallback remains hidden. Layout/brand properties stay in native controls. [Saved class snapshot](../audits/2026-10-20-smart-navigation-classes.json).
+
+## One controller and active deployment
+
+Elementor → Editor → Custom Elements → Code **903**, **GCPRO / Scroll Navigation & Emergency CTA**: Published, **Entire site**, **Body End**, **priority5**. Always load jQuery is unchecked. Repository sources [scroll-navigation.css](../../integrations/scroll-navigation.css) and [scroll-navigation.js](../../integrations/scroll-navigation.js) are pasted together into903, wrapped respectively in style#gcpro-scroll-navigation-css and script#gcpro-scroll-navigation-js. They are not separately enqueued. Saved source equality was verified after reloading the native code editor.
+
+One passive scroll listener, one resize listener, one pageshow listener, focusin/focusout, visualViewport resize and a scoped existing-chat click listener share one requestAnimationFrame scheduler. One ResizeObserver measures the Header; one MutationObserver detects menu/overlay state and inserted forms. No IntersectionObserver, recurring timer, continuous RAF, library or per-page script. Queries inspect known semantic/vendor roots; no full DOM geometry scan per frame.
+
+The explicit staging-host guard prevents activation on other hosts. It is an environment safety boundary, not a page binding. Any approved future production release must deliberately review this guard, native global conditions and existing integrations. No production deployment is implied.
+
+## Responsive behavior and configuration
+
+**Header, all widths:** normal full Header at page top. Once its original flow position has passed, the main navigation returns fixed on24px accumulated upward movement and hides after40px downward movement. Direction changes reset the accumulator. Utility bar scrolls away; keyboard focus reveals the full shell. Open native menus/submenus or focus within pin it visible. Transform transition200ms; reduced motion removes it. The same original navigation remains focusable; no aria-hidden/inert is applied to the moving Header.
+
+**Bottom panel, below768px only:** appears after the marked introductory action passes above the usable viewport. It stays in both scroll directions. On pages without a marker it falls back to the Header leaving view. New bespoke Hero compositions should mark their action group; the existing reusable Hero74 has the marker on its Copy group, ending at its CTA. Pages deliberately lacking the global Header do not initialize this controller.
+
+Suppress the panel when an equivalent inline telephone action is fully usable, a content form/task is in view, an input is focused, a menu/modal is open, the visible viewport is under480px high or the page is pinch-zoomed. Focus within the CTA pins it unless a menu/modal/chat takes over. Hidden panel has display:none, inert and aria-hidden. Tablet/desktop never display the panel.
+
+Use **gcpro-cta-off** on a page/template root for contact/request forms, confirmation, legal, careers or campaign pages where a floating call action is inappropriate; review each page's purpose rather than using a slug/ID list. Current404 and search templates carry this policy. **gcpro-cta-suppress** is a reserved optional region hook and **gcpro-cta-overlay** a reserved optional overlay/cookie-banner hook; neither was created as an unused Global Class. Add through native controls only when such content exists. Existing main forms are detected automatically, including dynamically inserted forms. No cookie banner was present in this session; a future vendor needs explicit open-state integration/test.
+
+Existing read-only adapters: native aria-expanded menus, dialog[open], aria-modal=true, BEAF .bafg_popup_preview, and SiteGround's existing .sg-ai-floating-chat shadow-root panel. Closed admin chat launcher reserves its measured horizontal footprint; open chat suppresses the new panel. Vendor styles/markup/settings are untouched. No BEAF files, shortcode, CSS, popup logic or saved selectors changed.
+
+Runtime classes: **gcpro-nav-ready** on html; **is-floating/is-hidden** on marked Header; **is-visible** on panel. Runtime custom properties: --gcpro-admin-top, --gcpro-utility-height, --gcpro-header-clearance, --gcpro-bottom-reserve, --gcpro-bottom-clearance, --gcpro-cta-right. These are geometry values, not Atomic design tokens. The standard WordPress #wpadminbar is measured only for logged-in clearance; it is not an Elementor-generated ID.
+
+The panel uses8px edge clearance plus env(safe-area-inset-bottom). Mobile flow reserves measured panel height plus a stable maximum safe-area inset (34px fallback) so footer content remains reachable without animating panel padding as browser UI moves. Scroll padding accounts for current Header/panel clearance. Real device safe-area/browser-toolbar testing remains pending.
+
+## Core Services B: verified conflict only
+
+Before adding clearance, Chrome393px upward scroll at y2250 returned the Header with bottom78.95px while Core intro remained top0: an actual79px overlap. After the semantic hook, the controller temporarily sets an inline top equal to the greater of the native baseline and visible Header clearance, only when the intro's computed position is sticky. It removes the inline value when Header hides; resize re-reads native baseline. Tablet static positioning is unaffected.
+
+**Saved native style e-67ba0794-7b2b is unchanged:** desktop sticky96px, tablet static/auto, mobile sticky0/z9999/opaque alternate surface/padding16px. Parent grid and native section release remain unchanged. Runtime Header z10000, intro's existing9999 and bottom panel9998 separate surfaces. No speculative sticky rewrite, placeholder or section clone.
+
+## Rollback
+
+1. Set **Code903 to Draft**, update and clear staging cache. On a fresh load the Header is static, panel is hidden by its native class and Core uses its original native top values. This is the single behavioral rollback switch.
+2. For full removal, remove Header113's new Div block feba833/component18849090; remove the four semantic hooks from Header113, Homepage154's two nodes, Hero74 Copy and404/Search roots. Restore only those class lists, preserving all original local styles/links.
+3. Archive895 and remove the six new classes only after checking no additional consumers have been added. Preserve existing Component103,36 variables, menu,590,847 and all BEAF integration.
+4. Recheck saved state, desktop/mobile layout and anonymous delivery. Reverting Git alone does not change WordPress; there is no automatic deployment.
+
+Private scoped pre-change tree snapshots were captured in the task's work directory. They are not full site/database backups or a tested full restore. No raw session/admin response or credential is committed.

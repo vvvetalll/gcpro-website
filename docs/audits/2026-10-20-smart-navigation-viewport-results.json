@@ -1,0 +1,68 @@
+[
+  {
+    "width": 360,
+    "overflow": 0,
+    "topHidden": false,
+    "barTop": "none",
+    "downHidden": true,
+    "upHidden": false,
+    "barDown": "flex",
+    "barUp": "flex",
+    "barHeight": 69.86458587646484,
+    "buttonHeight": 52.53125
+  },
+  {
+    "width": 393,
+    "overflow": 0,
+    "topHidden": false,
+    "barTop": "none",
+    "downHidden": true,
+    "upHidden": false,
+    "barDown": "flex",
+    "barUp": "flex",
+    "barHeight": 69.86458587646484,
+    "buttonHeight": 52.53125
+  },
+  {
+    "width": 430,
+    "overflow": 0,
+    "topHidden": false,
+    "barTop": "none",
+    "downHidden": true,
+    "upHidden": false,
+    "barDown": "flex",
+    "barUp": "flex",
+    "barHeight": 69.86458587646484,
+    "buttonHeight": 52.53125
+  },
+  {
+    "width": 768,
+    "overflow": -15,
+    "topHidden": false,
+    "barTop": "none",
+    "downHidden": true,
+    "upHidden": false,
+    "barDown": "none",
+    "barUp": "none"
+  },
+  {
+    "width": 1024,
+    "overflow": -15,
+    "topHidden": false,
+    "barTop": "none",
+    "downHidden": true,
+    "upHidden": false,
+    "barDown": "none",
+    "barUp": "none"
+  },
+  {
+    "width": 1440,
+    "overflow": -15,
+    "topHidden": false,
+    "barTop": "none",
+    "downHidden": true,
+    "upHidden": false,
+    "barDown": "none",
+    "barUp": "none"
+  }
+]

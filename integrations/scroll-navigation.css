@@ -1,0 +1,40 @@
+/* Runtime positioning only. Atomic classes own the component's visual design. */
+.gcpro-nav-ready .gcpro-smart-header {
+  transition: transform 200ms ease;
+}
+.gcpro-nav-ready .gcpro-smart-header.is-floating {
+  position: fixed;
+  inset-inline: 0;
+  top: calc(var(--gcpro-admin-top, 0px) - var(--gcpro-utility-height, 0px));
+  width: 100%;
+  z-index: 10000;
+}
+.gcpro-nav-ready .gcpro-smart-header.is-floating.is-hidden {
+  transform: translateY(calc(-100% - var(--gcpro-admin-top, 0px)));
+}
+.gcpro-nav-ready .gcpro-smart-header.is-floating:focus-within {
+  top: var(--gcpro-admin-top, 0px);
+  transform: none;
+}
+.gcpro-nav-ready {
+  scroll-padding-top: var(--gcpro-header-clearance, 0px);
+  scroll-padding-bottom: calc(var(--gcpro-bottom-clearance, 0px) + env(safe-area-inset-bottom, 0px));
+}
+@media (max-width: 767px) {
+  .gcpro-nav-ready .gcpro-mobile-cta.is-visible {
+    display: flex;
+    position: fixed;
+    inset-inline-start: 8px;
+    inset-inline-end: var(--gcpro-cta-right, 8px);
+    bottom: calc(8px + env(safe-area-inset-bottom, 0px));
+    width: auto;
+    max-width: none;
+    z-index: 9998;
+  }
+  .gcpro-nav-ready body {
+    padding-bottom: calc(var(--gcpro-bottom-reserve, 0px) + env(safe-area-max-inset-bottom, 34px));
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .gcpro-nav-ready .gcpro-smart-header { transition: none; }
+}

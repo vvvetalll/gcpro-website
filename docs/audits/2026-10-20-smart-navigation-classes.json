@@ -1,0 +1,169 @@
+[
+  {
+    "id": "g-6771860",
+    "label": "gcpro-mobile-cta",
+    "type": "class",
+    "variants": [
+      {
+        "meta": {
+          "breakpoint": "desktop",
+          "state": null
+        },
+        "props": {
+          "color": {
+            "$$type": "global-color-variable",
+            "value": "e-gv-714c09b"
+          },
+          "padding": {
+            "$$type": "dimensions",
+            "value": {
+              "block-start": {
+                "$$type": "global-size-variable",
+                "value": "e-gv-ae8c2d2"
+              },
+              "inline-end": {
+                "$$type": "global-size-variable",
+                "value": "e-gv-ff0543b"
+              },
+              "block-end": {
+                "$$type": "global-size-variable",
+                "value": "e-gv-ae8c2d2"
+              },
+              "inline-start": {
+                "$$type": "global-size-variable",
+                "value": "e-gv-ff0543b"
+              }
+            }
+          },
+          "border-radius": {
+            "$$type": "size",
+            "value": {
+              "size": 8,
+              "unit": "px"
+            }
+          },
+          "border-width": {
+            "$$type": "size",
+            "value": {
+              "size": 1,
+              "unit": "px"
+            }
+          },
+          "border-color": {
+            "$$type": "global-color-variable",
+            "value": "e-gv-a9a1731"
+          },
+          "border-style": {
+            "$$type": "string",
+            "value": "solid"
+          },
+          "background": {
+            "$$type": "background",
+            "value": {
+              "color": {
+                "$$type": "global-color-variable",
+                "value": "e-gv-b7d3afd"
+              }
+            }
+          },
+          "display": {
+            "$$type": "string",
+            "value": "none"
+          },
+          "flex-direction": {
+            "$$type": "string",
+            "value": "row"
+          },
+          "gap": {
+            "$$type": "global-size-variable",
+            "value": "e-gv-ae8c2d2"
+          },
+          "justify-content": {
+            "$$type": "string",
+            "value": "space-between"
+          },
+          "align-items": {
+            "$$type": "string",
+            "value": "center"
+          }
+        },
+        "custom_css": {
+          "raw": "JiAuYnV0dG9uLW91dGxpbmUtd2hpdGUgeyBmbGV4LXNocmluazogMDsgd2hpdGUtc3BhY2U6IG5vd3JhcDsgfSAmOndoZXJlKC5lbGVtZW50b3ItZWRpdG9yLWFjdGl2ZSAqKSB7IGRpc3BsYXk6IGZsZXg7IHBvc2l0aW9uOiByZWxhdGl2ZTsgfQ=="
+        }
+      }
+    ]
+  },
+  {
+    "id": "g-4d22e61",
+    "label": "gcpro-mobile-cta__label",
+    "type": "class",
+    "variants": [
+      {
+        "meta": {
+          "breakpoint": "desktop",
+          "state": null
+        },
+        "props": {
+          "font-family": {
+            "$$type": "global-font-variable",
+            "value": "e-gv-c82d6d2"
+          },
+          "font-weight": {
+            "$$type": "string",
+            "value": "600"
+          },
+          "font-size": {
+            "$$type": "size",
+            "value": {
+              "size": 14,
+              "unit": "px"
+            }
+          },
+          "color": {
+            "$$type": "global-color-variable",
+            "value": "e-gv-714c09b"
+          },
+          "line-height": {
+            "$$type": "size",
+            "value": {
+              "size": "1.4",
+              "unit": "custom"
+            }
+          },
+          "margin": {
+            "$$type": "size",
+            "value": {
+              "size": 0,
+              "unit": "px"
+            }
+          }
+        },
+        "custom_css": null
+      }
+    ]
+  },
+  {
+    "id": "g-8706951",
+    "label": "gcpro-smart-header",
+    "type": "class",
+    "variants": []
+  },
+  {
+    "id": "g-b9ab0d8",
+    "type": "class",
+    "label": "gcpro-cta-origin",
+    "variants": []
+  },
+  {
+    "id": "g-43749f7",
+    "type": "class",
+    "label": "gcpro-sticky-intro",
+    "variants": []
+  },
+  {
+    "id": "g-3cbfd16",
+    "type": "class",
+    "label": "gcpro-cta-off",
+    "variants": []
+  }
+]

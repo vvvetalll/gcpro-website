@@ -1,5 +1,13 @@
 # GCPRO changelog
 
+## 2026-10-20 — Global Smart Header and Mobile Emergency CTA — E58
+
+- Existing site-wide Header113 now hides after40px downward and returns after24px upward scrolling, pinned for menu/focus. Native design/menu preserved; original flow retained.
+- Added one reusable Atomic Component895 with existing103 phone button; one separate global Header-root placement. Call Now resolves to tel:+18476563322. Mobile contextual visibility yields to inline actions, menus, forms, overlays and short/zoomed viewports.
+- Code903 is the only new active deployment: Entire site/body-end5, staging-host guard, repository CSS/JS mirrors not separately enqueued. Six shared classes, existing tokens, no new variables/plugins/libraries/theme changes.
+- Browser-verified Core/Header collision receives temporary runtime clearance via semantic hook; original saved sticky styles unchanged. Existing admin chat launcher gets separate space; BEAF entirely untouched. Shared Hero origin and404/search opt-out markers added.
+- [Exact storage/configuration/rollback](docs/components/smart-navigation.md), [tests and delivery limitations](docs/audits/2026-10-20-smart-navigation.md). Chrome emulation360/393/430/768/1024/1440 passes; anonymous403 and real-device validation remain pending.
+
 ## 2026-10-20 — Approved Phase 1 architecture cleanup — E57
 
 - Staging only: replaced authored numeric dependencies in Code847, main154 CTA radius and Header navigation with semantic scope/menu markers. Preserved native Page154 display condition, staging/video guards, existing layout and interactions.

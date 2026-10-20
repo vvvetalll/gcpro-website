@@ -1,5 +1,11 @@
 # Custom code and dependency register
 
+## E58 global scroll navigation — 2026-10-20
+
+New active owner: **Custom Code903**, “GCPRO / Scroll Navigation & Emergency CTA”, Published/**Entire site**/**Body End**/**priority5**, jQuery opt-in off. [CSS](../integrations/scroll-navigation.css) + [JS](../integrations/scroll-navigation.js) are wrapped once in style#gcpro-scroll-navigation-css/script#gcpro-scroll-navigation-js in that entry; native editor reload source equality verified. Neither source is separately enqueued. Existing590/847 and their conditions remain unchanged. There are now **three** active code entries.
+
+Native visual owners: classes gcpro-mobile-cta g-6771860 and gcpro-mobile-cta__label g-4d22e61. Panel class Custom CSS contains only nested existing button nowrap/flex-shrink and editor-only static visibility. New Header-root host style e-63fbbef4-8ac8 owns padding0/min-width0. Four empty semantic classes configure Header/origin/sticky clearance/opt-out. [Complete class/element IDs, runtime states/properties, read-only vendor adapters, conditions and rollback](components/smart-navigation.md). No new Variables, external dependencies, theme/PHP/plugin changes. BEAF remains an intentional untouched integration;903 only reads its popup visibility.
+
 **Current E57 update:** [Phase1 exact change record and verification](audits/2026-10-20-phase1-cleanup.md). BEAF is entirely excluded: its necessary page/body/grid/slider numeric isolation selectors are intentional third-party exceptions. Only the approved custom Atomic and CTA/header owners below were cleaned.
 
 Fresh staging audit **2026-10-20**. This file owns **where custom behavior is stored**. Component records own behavior/reuse instructions; the [audit](audits/2026-10-20-architecture-and-mobile.md) owns findings and verification. Generated assets in uploads/elementor/css are outputs, never editing locations.

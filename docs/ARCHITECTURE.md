@@ -1,5 +1,9 @@
 # GCPRO architecture
 
+## Global shell behavior — E58, 2026-10-20
+
+[Smart navigation architecture](components/smart-navigation.md): native universal Header113 remains include/general; one shared Atomic CTA895 sits in a separate document-root host outside the transformed Header Shell. Both features use one global Code903, Entire site/body-end5, semantic hooks and staging-host guard. Three total active code entries now exist;590/847 are unchanged. Native Atomic classes own visual design; minimal code owns transient state/position/geometry. No page/template/generated-element selector dependency, duplicated deployment or new library/plugin/theme layer. [Evidence and limitations](audits/2026-10-20-smart-navigation.md).
+
 ## Phase 1 ownership refinement — E57, 2026-10-20
 
 [Approved implementation and verification](audits/2026-10-20-phase1-cleanup.md): existing Atomic Custom CSS owners cleaned without moving visual design into theme code. Semantic gcpro-homepage scope replaces authored page/element coupling in847; local main radius now targets .cta-panel; header visibility uses a native semantic menu-item class. Native generated IDs, object references and display-condition IDs remain. BEAF numeric scoping is an intentional third-party exception, completely outside Phase1. SVG duplicates caused no verified conflict and remain unchanged. No new active runtime dependency; the847 repository mirror is not enqueued.

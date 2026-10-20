@@ -1,5 +1,7 @@
 # Additional Atomic library patterns
 
+**E58,2026-10-20:** Shared Hero74's Copy2bd621f1 gains empty gcpro-cta-origin g-b9ab0d8, ending at its existing CTA. Native styles, content, component overrides and links unchanged. This configures future Hero consumers for the one global navigation controller903; no script is stored in Hero74. [Reuse instructions](smart-navigation.md#responsive-behavior-and-configuration).
+
 Saved definitions and override schemas freshly inspected on2026-10-20. These nine entries complete the16-definition discovery inventory alongside [shared primitives](shared-components.md), [CTA](final-cta.md) and [timeline](how-we-work.md). They are not current Homepage section implementations unless a consumer is named. “Not used in Homepage main” never means safe to delete.
 
 Common ownership: Elementor Pro Components, existing Global Classes/Variables and each definition's local native controls. No HTML widgets, shortcodes, GCPRO JavaScript or Custom Code reference occurs inside these nine saved definitions. Inherited class exceptions are in [CUSTOM_CODE](../CUSTOM_CODE.md); no library source file is separately enqueued. Native tag defaults supply responsive typography; exact unused-library rendering and all-consumer graph are **not newly browser-validated**. Inspect Style Guide/consumer pages before changing shared definitions.

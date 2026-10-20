@@ -1,0 +1,19 @@
+[
+  {
+    "width": 768,
+    "position": "static",
+    "nativeHiddenTop": -300.15625,
+    "upTop": -200.15625,
+    "headerBottom": -40,
+    "inlineTop": ""
+  },
+  {
+    "width": 1440,
+    "position": "sticky",
+    "nativeHiddenTop": 96,
+    "upTop": 135,
+    "headerBottom": -40,
+    "inlineTop": "135px",
+    "settledHeaderBottom": 134.9479217529297
+  }
+]
