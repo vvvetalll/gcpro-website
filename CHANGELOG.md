@@ -1,5 +1,12 @@
 # GCPRO changelog
 
+## 2026-10-20 — Approved Phase 1 architecture cleanup — E57
+
+- Staging only: replaced authored numeric dependencies in Code847, main154 CTA radius and Header navigation with semantic scope/menu markers. Preserved native Page154 display condition, staging/video guards, existing layout and interactions.
+- Removed20 verified superseded declarations from11 Custom CSS variants in10 existing Global Classes; retained effective values, focus halo and responsive controls. Added one visual-neutral Atomic class gcpro-homepage g-d0c199c and one native WordPress menu-item marker; no new deployed script/theme/asset/plugin/dependency.
+- Six SVGs render correctly without references to their repeated group IDs: artwork and IDs unchanged. BEAF completely excluded; existing page-specific isolation documented and rendered CSS unchanged.
+- Saved source/readback,190-node comparison, five viewport sizes, menu/submenu, sticky entry/release, CTA video/reduced motion and actual keyboard focus verified. Anonymous/incognito and physical-device testing not claimed. [Full audit/evidence/rollback](docs/audits/2026-10-20-phase1-cleanup.md). Added repository-only mirror of existing Code847 and synchronized current component/code records.
+
 ## 2026-10-20 — Core B mobile spacing and architecture documentation — E56
 
 - Staging154 only: Core B intro6cb38139 local native mobile padding now uses existing space-sm16px top/bottom and0 horizontal. Preserved sticky0/z-index9999/opaque surface-alternate, desktop96px sticky and tablet static.190-node saved comparison shows only that intro's style changed; no new CSS/JS/classes/Variables/Components/plugins/dependencies.

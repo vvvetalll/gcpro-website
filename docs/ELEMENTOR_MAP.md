@@ -1,5 +1,9 @@
 # GCPRO Elementor map
 
+## Current Phase 1 editing locations — E57, 2026-10-20
+
+[Exact saved locations, IDs, dependencies and rollback](audits/2026-10-20-phase1-cleanup.md). Main154/46c3aad4 now includes gcpro-homepage g-d0c199c and local e-685133d2-110f targets & .cta-panel for8px radius. Existing Code847 uses .gcpro-homepage scope and .cta-panel instead of authored numeric selectors; native Page154 condition remains. Header113 class navigation--primary now hides the native Resources menu-item CSS class gcpro-menu-item--header-hidden; Footer114 still shows it. Ten Global Class Custom CSS owners cleaned, no content/structure changes. BEAF page/grid/plugin identifiers deliberately preserved; six SVG attachments unchanged.
+
 ## Current maintenance entry points — E56, 2026-10-20
 
 [Component records](components/README.md) now own section-level parent/child IDs, classes, code storage, responsive behavior and safe reuse. [Custom-code register](CUSTOM_CODE.md) maps exact active owners and dependencies; [audit](audits/2026-10-20-architecture-and-mobile.md) records current tests/debt.

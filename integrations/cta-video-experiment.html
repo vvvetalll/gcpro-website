@@ -1,0 +1,43 @@
+<style id="gcpro-cta-video-test-css">
+.gcpro-homepage .gcpro-cta-video-test{background:#1A327D!important;isolation:isolate;overflow:hidden}
+.gcpro-homepage .gcpro-cta-video-test>.e-con{position:relative;z-index:1}
+.gcpro-homepage .gcpro-cta-video-test>.gcpro-cta-video-layer{position:absolute;inset:0 0 0 35%;z-index:0;pointer-events:none;opacity:.4;mix-blend-mode:screen;-webkit-mask-image:linear-gradient(90deg,transparent 0%,#000 42%,#000 82%,transparent 100%);mask-image:linear-gradient(90deg,transparent 0%,#000 42%,#000 82%,transparent 100%)}
+.gcpro-homepage .gcpro-cta-video-layer video{display:block;width:100%;height:100%;object-fit:cover;object-position:center;pointer-events:none;-webkit-mask-image:linear-gradient(0deg,transparent 0%,#000 20%,#000 80%,transparent 100%);mask-image:linear-gradient(0deg,transparent 0%,#000 20%,#000 80%,transparent 100%)}
+@media(max-width:767px){.gcpro-homepage .gcpro-cta-section-test>.container{padding-inline:0!important}.gcpro-homepage .gcpro-cta-video-test{border-radius:0!important;padding:32px 20px!important}.gcpro-homepage .gcpro-cta-video-test>.gcpro-cta-video-layer{inset:auto -5% 0 45%;height:70%;opacity:.34}}
+@media(prefers-reduced-motion:reduce){.gcpro-homepage .gcpro-cta-video-test>.gcpro-cta-video-layer{display:none!important}}
+</style>
+<script>
+/* GCPRO staging-only visual experiment. Rollback: set this Custom Code entry to Draft. */
+(function(){
+'use strict';
+if(location.hostname!=='vitaliiv1.sg-host.com')return;
+function init(){
+var panel=document.querySelector('.gcpro-homepage .cta-panel');
+if(!panel||panel.classList.contains('gcpro-cta-video-test'))return;
+panel.classList.add('gcpro-cta-video-test');panel.closest('section').classList.add('gcpro-cta-section-test');
+var motion=matchMedia('(prefers-reduced-motion:reduce)');
+var video=null,layer=null,near=false,visible=false,scheduled=false;
+function allowed(){return !motion.matches&&!(navigator.connection&&navigator.connection.saveData);}
+function clear(){if(video){video.pause();video.removeAttribute('src');video.load();layer.remove();video=null;layer=null;}}
+function sync(){
+if(!allowed()){clear();return;}
+var bounds=panel.getBoundingClientRect();visible=bounds.bottom>0&&bounds.top<window.innerHeight;
+if(near&&!video){
+layer=document.createElement('div');layer.className='gcpro-cta-video-layer';layer.setAttribute('aria-hidden','true');layer.setAttribute('inert','');
+video=document.createElement('video');video.muted=true;video.defaultMuted=true;video.autoplay=true;video.loop=true;video.playsInline=true;video.controls=false;video.preload='none';video.tabIndex=-1;
+video.setAttribute('muted','');video.setAttribute('playsinline','');video.setAttribute('disablepictureinpicture','');video.setAttribute('disableremoteplayback','');video.setAttribute('aria-hidden','true');
+video.addEventListener('error',clear,{once:true});video.addEventListener('loadeddata',sync);video.addEventListener('playing',function(){panel.setAttribute('data-gcpro-playback','playing');});
+video.src='https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-cta-test.mp4';
+layer.appendChild(video);panel.prepend(layer);
+}
+if(video){if(visible&&!document.hidden){var play=video.play();if(play&&play.catch)play.catch(function(error){panel.setAttribute('data-gcpro-playback',error.name);});}else video.pause();}
+}
+if('IntersectionObserver' in window){
+new IntersectionObserver(function(entries){near=entries[0].isIntersecting;sync();},{rootMargin:'300px 0px'}).observe(panel);
+window.addEventListener('scroll',function(){if((near||video)&&!scheduled){scheduled=true;requestAnimationFrame(function(){scheduled=false;sync();});}},{passive:true});
+}else{near=true;visible=true;}
+window.addEventListener('resize',sync);motion.addEventListener('change',sync);document.addEventListener('visibilitychange',sync);sync();
+}
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init,{once:true});else init();
+})();
+</script>

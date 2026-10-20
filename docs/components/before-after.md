@@ -1,5 +1,7 @@
 # Before / After
 
+**Phase1 boundary (E57):** BEAF Pro is an existing third-party plugin and is entirely excluded from refactoring. Its files, shortcodes, CSS overrides, popup behavior, selectors and Elementor integration are untouched. Necessary Homepage/page-body/grid/slider scoping is an intentional isolation exception, not an automatic architecture defect. Rendered BEAF page CSS equals the E56 baseline byte-for-byte; [verification](../audits/2026-10-20-phase1-cleanup.md).
+
 Three project comparisons; plugin records own the images and comparison behavior, Atomic owns the surrounding layout.
 
 ## Location and structure

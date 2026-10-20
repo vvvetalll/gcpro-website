@@ -1,5 +1,11 @@
 # GCPRO project context
 
+## Current Phase 1 handoff — 2026-10-20, E57
+
+Approved staging cleanup complete: [exact owners, changes, QA and rollback](docs/audits/2026-10-20-phase1-cleanup.md). Supersedes the corresponding E56 proposals below. Removed20 superseded Custom CSS declarations across10 existing classes; native controls/design preserved. Added only visual-neutral gcpro-homepage g-d0c199c to154/main46c3aad4, replaced authored numeric CTA847/radius/header menu selectors, and added a native Resources menu-item visibility class. Code847 source now mirrored in integrations/cta-video-experiment.html, not separately enqueued.
+
+BEAF is explicitly excluded and untouched; necessary page-specific CSS is an intentional third-party integration exception. Six Core SVGs unchanged: no actual ID-reference/paint conflict verified. Homepage190-node comparison changes only main scope/radius; responsive360/393/430/768/1440, menu/submenu, sticky release, CTA video/reduced motion and keyboard focus checks pass. Desktop emulation only; guest/incognito/cache-HIT and full backup/restore remain unverified. Horizontal scroll remains currently not reproducible, with no speculative fix. Existing unresolved # routes remain pending.
+
 ## Current mobile and architecture handoff — 2026-10-20, E56
 
 [Current audit and verification limits](docs/audits/2026-10-20-architecture-and-mobile.md) supersede conflicting older current-state claims. Start maintenance at the [component index](docs/components/README.md) and [custom-code register](docs/CUSTOM_CODE.md); existing map/design documents retain their distinct roles.

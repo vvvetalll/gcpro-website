@@ -1,5 +1,9 @@
 # GCPRO workflows
 
+## Phase 1 maintenance note — E57
+
+Follow [the exact owner/rollback record](audits/2026-10-20-phase1-cleanup.md). BEAF is outside this refactor: preserve its numeric isolation selectors and integration. For class CSS cleanup, edit only the native selected class/breakpoint Custom CSS body (the editor supplies element.style braces), allow the edit to settle, save, and independently reload/read back before declaring success. Never replace complete variants from partial resources. Code847 has a repository-only source mirror; Git does not deploy it. Validation50 must remain Draft; use Save Draft when editing shared class styles from that page.
+
 These are required procedures for future authorized work, not claims that a backup, test or deployment has already happened. Follow [AGENTS](../AGENTS.md) and [current context](../PROJECT_CONTEXT.md).
 
 ## Begin a task

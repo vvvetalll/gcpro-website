@@ -1,5 +1,7 @@
 # GCPRO mobile and architecture audit — E56
 
+**Superseding E57 scope/result:** [Approved Phase1 cleanup](2026-10-20-phase1-cleanup.md) removes custom CTA/header numeric selectors and verified redundant declarations. BEAF is completely excluded: existing page/body/grid/slider scoping is an intentional third-party integration exception, not an automatic defect. Six Core SVGs have no verified ID-reference/paint conflict and remain unchanged. The findings below retain their original E56 audit context; this notice supersedes the prior proposed BEAF/SVG cleanup dispositions.
+
 **Date:**2026-10-20 America/Chicago. **Environment:**https://vitaliiv1.sg-host.com only. **Repository:**vvvetalll/gcpro-website,main,initial331c6a6adc84047687653982033d30187b760942. Production and shared ROBYLO source untouched.
 
 ## Findings reported before further architectural changes
@@ -9,10 +11,10 @@
 | Core B sticky content had0px padding | Saved intro6cb38139 and computed mobile box; eyebrow touched sticky top, description ended at opaque box edge | **Fixed:** native mobile space-sm top/bottom16px; no spacer/JS |
 | Reported Android page drag | Initial360/393/430 scans, fresh Android-UA/touch393 tests and later full-page five-width tests show no document overflow | **Currently not reproducible.** Owner independently rechecked Android and could no longer reproduce; explicitly requested no speculative fix |
 | Live video missing from handoff | Saved Code847 published/Page154/body-end1; frontend script injects video although Atomic tree has no video widget | **Documentation corrected.** New component/code ownership records; existing experiment preserved |
-| Avoidable ID coupling |847 uses .elementor-154 and panel interaction ID5ec4592; page CSS uses body.elementor-page-154 and grid66b1c7d4; main local radius targets5ec4592; navigation class targets.menu-item-242 | **Documented debt/proposals.** Required plugin/object/Component IDs distinguished from authored selectors; no blind selector removal |
+| Avoidable ID coupling |E56:847 uses .elementor-154 and panel interaction ID5ec4592; main local radius targets5ec4592; navigation class targets.menu-item-242. BEAF body/page/grid scoping is intentional third-party isolation, excluded from Phase1 | **Documented debt/proposals.** Required plugin/object/Component IDs distinguished from authored selectors; no blind selector removal |
 | Redundant cascade | Fresh global-class Custom CSS has superseded padding/nowrap/underline declarations and repeated button focus groups | **Documented debt.** No broad class replacement from partial native prop data |
 | Two timeline CSS storage layers | Theme appended E16 block plus Code590; source mirrors agree after whitespace normalization | **Verified intentional split**, not duplicate deployment; preserve exact owners |
-| Duplicate SVG IDs | Six Core B SVGs each contain groups ink/accent | **Verified HTML uniqueness debt**; controlled asset cleanup needed; no unapproved replacement |
+| Duplicate SVG IDs | Six Core B SVGs each contain groups ink/accent | **HTML uniqueness debt**; E57 verifies no current conflict and leaves artwork/IDs unchanged as requested |
 | Comparison keyboard semantics | Three inline handles are DIVs without role,tabindex,aria-valuenow | **Verified accessibility debt**; vendor-supported keyboard solution or separately approved integration needed |
 | Availability affordance |5350691e is enabled BUTTON/type submit without surrounding form, ZIP input or saved interaction | **Documented prototype limit**; “Inactive” Navigator label is not disabled semantics |
 | Third-party typography/data | Trustindex uses vendor Poppins; visible review count and aggregate JSON-LD count differ | **Owner/configuration review**, not automatic review/schema or font rewrite |
@@ -68,7 +70,7 @@ Plugin versions and exact CSS/JS locations are centralized in [CUSTOM_CODE](../C
 
 Delivered: mobile native padding; complete component/code locator documentation; current video correction; standalone-theme correction; permanent audit/documentation/coupling rules. No architectural code refactor was necessary to solve the verified mobile spacing issue.
 
-Deferred proposals requiring a separate consumer-aware plan/approval before significant structural change: native/semantic-class replacement for847; reusable BEAF inline/popup scoping; CTA radius ownership migration; semantic menu visibility; shared-class cascade cleanup; SVG IDs; accessible comparison control and ZIP product behavior. These are explicit technical debt, not silently completed work. Preserve working approved designs and never change production.
+Deferred proposals requiring a separate consumer-aware plan/approval before significant structural change: native/semantic-class replacement for847; CTA radius ownership migration; semantic menu visibility; shared-class cascade cleanup; SVG ID review and ZIP product behavior. E57 implements the approved minimal subset; BEAF integration, popup and accessibility changes are excluded and require separately explicit scope. These are explicit technical debt, not silently completed work. Preserve working approved designs and never change production.
 
 ## Documentation and delivery
 

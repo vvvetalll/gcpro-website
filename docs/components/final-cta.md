@@ -10,11 +10,11 @@ Supported overrides: title,description,cta_text,cta_link,secondary_text,secondar
 
 ## Native styles versus active code
 
-Classes section,container,cta-panel g-e1d4327,section--dark,stack,cluster and existing button classes; existing navy/accent/white/font/spacing tokens. Native Component/class controls own normal layout and color. Homepage main local style **e-685133d2-110f** contains the sole radius exception: & [data-interaction-id="5ec4592"] { border-radius:8px; }. This is an existing per-instance override with unnecessary element coupling; it was not moved into a shared class without consumer review.
+Classes section,container,cta-panel g-e1d4327,section--dark,stack,cluster and existing button classes; existing navy/accent/white/font/spacing tokens. Native Component/class controls own normal layout and color. Homepage main local style **e-685133d2-110f** contains the sole radius exception: & .cta-panel { border-radius:8px; }. E57 removed its authored interaction-ID dependency while retaining the local main scope and current single-panel contract; shared80 is unchanged.
 
-**Custom Code847**, “GCPRO / EXPERIMENT — Final CTA Video (staging only)”, published, body-end priority1, Page154 condition. Exact CSS/JS are stored together in that code editor, not in Component80, the theme or an HTML widget. [Code register](../CUSTOM_CODE.md#custom-code-847--live-final-cta-video-experiment) owns technical details and rollback.
+**Custom Code847**, “GCPRO / EXPERIMENT — Final CTA Video (staging only)”, published, body-end priority1, Page154 condition. Exact CSS/JS are stored together in that code editor and mirrored in [integrations/cta-video-experiment.html](../../integrations/cta-video-experiment.html), not separately enqueued. Component80/theme/widgets do not store the video code. [Code register](../CUSTOM_CODE.md#custom-code-847--live-final-cta-video-experiment) owns technical details and rollback.
 
-847 queries .elementor-154 .cta-panel[data-interaction-id="5ec4592"], adds gcpro-cta-video-test and gcpro-cta-section-test classes and injects an aria-hidden/inert video layer using attachment846's staging MP4 URL. No new Atomic class/component was created by the experiment or by this audit.
+847 queries .gcpro-homepage .cta-panel, adds gcpro-cta-video-test and gcpro-cta-section-test classes and injects an aria-hidden/inert video layer using attachment846's staging MP4 URL. E57 adds the visual-neutral Atomic scope gcpro-homepage g-d0c199c only on154/main46c3aad4; exactly one panel matches. No new Component.
 
 ## Responsive behavior and interaction
 
@@ -24,8 +24,8 @@ IntersectionObserver300px preload margin, passive scroll/requestAnimationFrame, 
 
 ## Safe editing, debt and rollback
 
-Keep instance copy in native overrides, shared appearance in Atomic, experimental media in847. Do not add another active video script or enqueue a repository mirror. The source hardcodes host, page, element and media URL and lacks a native editable video widget; it is a documented staging exception, **not a portable Component feature**.
+Keep instance copy in native overrides, shared appearance in Atomic, experimental media in847. Do not add another active video script or enqueue a repository mirror. The source retains its staging host/media URL and native Page154 condition; authored page/element numeric selectors were removed E57. It lacks a native editable video widget; it is a documented staging exception, **not a portable Component feature**.
 
-Before a structural replacement, review a native video/background-video composition or semantic opt-in class contract, consumer effects, fallback poster, mobile geometry, motion/data preferences and source portability. Obtain owner approval for that change. No experimental code was deleted or refactored in this audit.
+Before a structural replacement, review a native video/background-video composition or semantic opt-in class contract, consumer effects, fallback poster, mobile geometry, motion/data preferences and source portability. Obtain owner approval for that change. E57 changes only scope/panel selectors; all other847 source is unchanged. [Saved locations, regression evidence and rollback](../audits/2026-10-20-phase1-cleanup.md).
 
 Rollback of847: set the existing Custom Code entry to Draft through WordPress, reload/purge staging cache and verify native CTA. This removes script-added classes/layers on fresh load; native8px rule remains. Do not remove847 solely because older E55 docs called video unplaced. Request route and final video decision remain pending.

@@ -1,0 +1,499 @@
+{
+  "viewports": [
+    {
+      "width": 360,
+      "clientWidth": 360,
+      "scrollWidth": 360,
+      "bodyScrollWidth": 360,
+      "computedStylesEqual": true,
+      "linksUnchanged": true
+    },
+    {
+      "width": 393,
+      "clientWidth": 393,
+      "scrollWidth": 393,
+      "bodyScrollWidth": 393,
+      "computedStylesEqual": true,
+      "linksUnchanged": true
+    },
+    {
+      "width": 430,
+      "clientWidth": 430,
+      "scrollWidth": 430,
+      "bodyScrollWidth": 430,
+      "computedStylesEqual": true,
+      "linksUnchanged": true
+    },
+    {
+      "width": 768,
+      "clientWidth": 753,
+      "scrollWidth": 753,
+      "bodyScrollWidth": 753,
+      "computedStylesEqual": true,
+      "linksUnchanged": true
+    },
+    {
+      "width": 1440,
+      "clientWidth": 1425,
+      "scrollWidth": 1425,
+      "bodyScrollWidth": 1425,
+      "computedStylesEqual": true,
+      "linksUnchanged": true
+    }
+  ],
+  "menus": [
+    {
+      "client": 360,
+      "expanded": "true",
+      "scroll": 360,
+      "submenu": 313.3333435058594,
+      "width": 360
+    },
+    {
+      "client": 393,
+      "expanded": "true",
+      "scroll": 393,
+      "submenu": 313.3333435058594,
+      "width": 393
+    },
+    {
+      "client": 430,
+      "expanded": "true",
+      "scroll": 430,
+      "submenu": 313.3333435058594,
+      "width": 430
+    },
+    {
+      "client": 753,
+      "expanded": "true",
+      "scroll": 753,
+      "submenu": 313.3333435058594,
+      "width": 768
+    }
+  ],
+  "sticky": [
+    {
+      "width": 360,
+      "geo": {
+        "bg": "rgb(239, 246, 255)",
+        "bottom": 3027.8646240234375,
+        "h": 216.58334350585935,
+        "offset": "0px",
+        "padding": [
+          "16px",
+          "16px"
+        ],
+        "position": "sticky",
+        "top": 1990.09375,
+        "z": "9999"
+      },
+      "samples": [
+        {
+          "bottom": 226.67709350585935,
+          "scroll": 1980,
+          "top": 10.09375
+        },
+        {
+          "bottom": 216.58334350585935,
+          "scroll": 2070,
+          "top": 0
+        },
+        {
+          "bottom": 216.58334350585935,
+          "scroll": 2801.333251953125,
+          "top": 0
+        },
+        {
+          "bottom": -10.135406494140623,
+          "scroll": 3038,
+          "top": -226.71875
+        }
+      ]
+    },
+    {
+      "width": 393,
+      "geo": {
+        "bg": "rgb(239, 246, 255)",
+        "bottom": 3055.3228759765625,
+        "h": 216.58334350585935,
+        "offset": "0px",
+        "padding": [
+          "16px",
+          "16px"
+        ],
+        "position": "sticky",
+        "top": 2017.552001953125,
+        "z": "9999"
+      },
+      "samples": [
+        {
+          "bottom": 226.80209350585935,
+          "scroll": 2007.3333740234375,
+          "top": 10.21875
+        },
+        {
+          "bottom": 216.58334350585935,
+          "scroll": 2097.333251953125,
+          "top": 0
+        },
+        {
+          "bottom": 216.58334350585935,
+          "scroll": 2828.666748046875,
+          "top": 0
+        },
+        {
+          "bottom": -10.010406494140623,
+          "scroll": 3065.333251953125,
+          "top": -226.59375
+        }
+      ]
+    },
+    {
+      "width": 430,
+      "geo": {
+        "bg": "rgb(239, 246, 255)",
+        "bottom": 3023.062561035156,
+        "h": 216.58334350585935,
+        "offset": "0px",
+        "padding": [
+          "16px",
+          "16px"
+        ],
+        "position": "sticky",
+        "top": 2031.0833740234375,
+        "z": "9999"
+      },
+      "samples": [
+        {
+          "bottom": 226.33334350585935,
+          "scroll": 2021.3333740234375,
+          "top": 9.75
+        },
+        {
+          "bottom": 216.58334350585935,
+          "scroll": 2111.333251953125,
+          "top": 0
+        },
+        {
+          "bottom": 216.58334350585935,
+          "scroll": 2796.666748046875,
+          "top": 0
+        },
+        {
+          "bottom": -10.270828247070312,
+          "scroll": 3033.333251953125,
+          "top": -226.8541717529297
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "geo": {
+        "bg": "rgba(0, 0, 0, 0)",
+        "bottom": 2738.2291259765625,
+        "h": 191.9791717529297,
+        "offset": "auto",
+        "padding": [
+          "0px",
+          "0px"
+        ],
+        "position": "static",
+        "top": 1792.458251953125,
+        "z": "auto"
+      },
+      "samples": [
+        {
+          "bottom": 201.7708387374878,
+          "scroll": 1782.6666259765625,
+          "top": 9.791666984558104
+        },
+        {
+          "bottom": 111.77083587646484,
+          "scroll": 1872.6666259765625,
+          "top": -80.20833587646484
+        },
+        {
+          "bottom": -551.5625152587891,
+          "scroll": 2536,
+          "top": -743.5416870117188
+        },
+        {
+          "bottom": -763.5625152587891,
+          "scroll": 2748,
+          "top": -955.5416870117188
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "geo": {
+        "bg": "rgba(0, 0, 0, 0)",
+        "bottom": 2376.781188964844,
+        "h": 288.5833435058594,
+        "offset": "96px",
+        "padding": [
+          "0px",
+          "0px"
+        ],
+        "position": "sticky",
+        "top": 1647.364501953125,
+        "z": "auto"
+      },
+      "samples": [
+        {
+          "bottom": 384.5833435058594,
+          "scroll": 1637.3333740234375,
+          "top": 96
+        },
+        {
+          "bottom": 384.5833435058594,
+          "scroll": 1727.3333740234375,
+          "top": 96
+        },
+        {
+          "bottom": 298.7812604904175,
+          "scroll": 2078,
+          "top": 10.197916984558104
+        },
+        {
+          "bottom": -9.885406494140623,
+          "scroll": 2386.666748046875,
+          "top": -298.46875
+        }
+      ]
+    }
+  ],
+  "video": [
+    {
+      "background": "rgb(26, 50, 125)",
+      "client": 360,
+      "layers": 1,
+      "padding": [
+        "32px",
+        "20px",
+        "32px",
+        "20px"
+      ],
+      "panels": 1,
+      "radius": "0px",
+      "rect": {
+        "height": 331.4375,
+        "left": 0,
+        "right": 360
+      },
+      "scroll": 360,
+      "video": {
+        "loop": true,
+        "muted": true,
+        "paused": false,
+        "playsInline": true,
+        "ready": 4,
+        "source": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-cta-test.mp4"
+      },
+      "width": 360
+    },
+    {
+      "background": "rgb(26, 50, 125)",
+      "client": 393,
+      "layers": 1,
+      "padding": [
+        "32px",
+        "20px",
+        "32px",
+        "20px"
+      ],
+      "panels": 1,
+      "radius": "0px",
+      "rect": {
+        "height": 331.4375,
+        "left": 0,
+        "right": 393.3333435058594
+      },
+      "scroll": 393,
+      "video": {
+        "loop": true,
+        "muted": true,
+        "paused": false,
+        "playsInline": true,
+        "ready": 4,
+        "source": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-cta-test.mp4"
+      },
+      "width": 393
+    },
+    {
+      "background": "rgb(26, 50, 125)",
+      "client": 430,
+      "layers": 1,
+      "padding": [
+        "32px",
+        "20px",
+        "32px",
+        "20px"
+      ],
+      "panels": 1,
+      "radius": "0px",
+      "rect": {
+        "height": 331.4375,
+        "left": 0,
+        "right": 430
+      },
+      "scroll": 430,
+      "video": {
+        "loop": true,
+        "muted": true,
+        "paused": false,
+        "playsInline": true,
+        "ready": 4,
+        "source": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-cta-test.mp4"
+      },
+      "width": 430
+    },
+    {
+      "background": "rgb(26, 50, 125)",
+      "client": 753,
+      "layers": 1,
+      "padding": [
+        "48px",
+        "48px",
+        "48px",
+        "48px"
+      ],
+      "panels": 1,
+      "radius": "8px",
+      "rect": {
+        "height": 262.32293701171875,
+        "left": 32,
+        "right": 720.6666870117188
+      },
+      "scroll": 753,
+      "video": {
+        "loop": true,
+        "muted": true,
+        "paused": false,
+        "playsInline": true,
+        "ready": 4,
+        "source": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-cta-test.mp4"
+      },
+      "width": 768
+    },
+    {
+      "background": "rgb(26, 50, 125)",
+      "client": 1425,
+      "layers": 1,
+      "padding": [
+        "48px",
+        "48px",
+        "48px",
+        "48px"
+      ],
+      "panels": 1,
+      "radius": "8px",
+      "rect": {
+        "height": 266.91668701171875,
+        "left": 144.33334350585938,
+        "right": 1280.3333435058594
+      },
+      "scroll": 1425,
+      "video": {
+        "loop": true,
+        "muted": true,
+        "paused": false,
+        "playsInline": true,
+        "ready": 4,
+        "source": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-cta-test.mp4"
+      },
+      "width": 1440
+    }
+  ],
+  "reducedMotion": {
+    "reduce": true,
+    "videos": 0
+  },
+  "stickyCoverage": {
+    "bottom": 216.58334350585935,
+    "paddingHits": [
+      true,
+      true
+    ],
+    "svgStrokes": [
+      "rgb(26, 50, 125)",
+      "rgb(240, 90, 41)",
+      "rgb(26, 50, 125)",
+      "rgb(240, 90, 41)",
+      "rgb(26, 50, 125)",
+      "rgb(240, 90, 41)",
+      "rgb(26, 50, 125)",
+      "rgb(240, 90, 41)",
+      "rgb(26, 50, 125)",
+      "rgb(240, 90, 41)",
+      "rgb(26, 50, 125)",
+      "rgb(240, 90, 41)"
+    ],
+    "top": 0,
+    "videoPaused": true
+  },
+  "svgMarkupUnchanged": true,
+  "beafPageCssUnchanged": true,
+  "focus": {
+    "primary": {
+      "cls": "button-primary e-button-base e-default-a",
+      "outline": "rgb(255, 255, 255) solid 2.66667px",
+      "shadow": "rgb(255, 255, 255) 0px 0px 0px 3px",
+      "text": "\n\tCALL 847-656-3322\n",
+      "visible": true
+    },
+    "secondary": {
+      "cls": "button-secondary e-3fda4fee-d967 e-button-base e-default-a",
+      "outline": "rgb(26, 50, 125) solid 2.66667px",
+      "shadow": "rgb(255, 255, 255) 0px 0px 0px 3px",
+      "text": "\n\tRequest Service\n",
+      "visible": true
+    },
+    "outline": {
+      "cls": "button-outline e-button-base e-default-a",
+      "outline": "rgb(26, 50, 125) solid 2.66667px",
+      "shadow": "rgb(255, 255, 255) 0px 0px 0px 3px",
+      "text": "\n\tAll Service Areas\n",
+      "visible": true
+    }
+  },
+  "storageChecks": {
+    "homepageNodeCount": 190,
+    "homepageChangedElements": [
+      "46c3aad4"
+    ],
+    "header113TreeEqualsE56": true,
+    "component286TreeEqualsE56": true,
+    "validation50RemainsDraft": true,
+    "code847ExactSelectorReplacement": true,
+    "code847Sha256": "ff7c935476e75e7d9cc306560a0878283e7521a4576073ecec79b5718ef33de2",
+    "code847JavaScriptSyntax": "valid",
+    "beafPageCssSha256Before": "f92c82b33d77fe2ccb5c81e28cc441610fadfc5aa1fa87dfd8c106d91b3d765d",
+    "beafPageCssSha256After": "f92c82b33d77fe2ccb5c81e28cc441610fadfc5aa1fa87dfd8c106d91b3d765d",
+    "classCountBefore": 102,
+    "classCountAfter": 103,
+    "changedExistingClasses": 10,
+    "changedCustomCssVariants": 11,
+    "removedSupersededDeclarations": 20,
+    "existingClassOrderPreserved": true,
+    "menuChangedFields": [
+      "menu-item-classes[242]"
+    ]
+  },
+  "limits": {
+    "browser": "Desktop Chrome viewport/touch emulation",
+    "physicalAndroid": false,
+    "incognitoAnonymous": false,
+    "cacheHitProof": false,
+    "saveDataSimulation": false,
+    "fullBackupRestore": false,
+    "externalCssOmUnreadable": [
+      "fonts.googleapis.com",
+      "fonts.googleapis.com",
+      "fonts.googleapis.com",
+      "fonts.googleapis.com",
+      "cdn.trustindex.io",
+      "cdn.trustindex.io"
+    ]
+  }
+}

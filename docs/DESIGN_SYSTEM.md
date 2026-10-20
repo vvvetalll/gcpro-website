@@ -1,5 +1,9 @@
 # GCPRO design system
 
+## Phase 1 class cascade cleanup — E57, 2026-10-20
+
+[Exact class IDs/variants and removed declarations](audits/2026-10-20-phase1-cleanup.md). Ten existing classes retain final effective values and all native design controls;20 superseded Custom CSS declaration occurrences removed. Added one Global Class **gcpro-homepage g-d0c199c**, a visual-neutral scope on Homepage154/main46c3aad4, taking the E56 identity count102→103. Existing class priority is unchanged. No new Variable or design token. The menu marker gcpro-menu-item--header-hidden belongs to native WordPress Menus, not Atomic. BEAF overrides remain untouched intentional third-party exceptions.
+
 ## Current ownership and mobile refinement — E56, 2026-10-20
 
 Use [component records](components/README.md) for editing/reuse and [CUSTOM_CODE](CUSTOM_CODE.md) for every active custom CSS/JS owner. The global palette/typography/spacing system remains unchanged:36 variables and102 class identities at this task's discovery; no additions.

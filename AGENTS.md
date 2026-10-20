@@ -4,6 +4,10 @@
 
 Read [PROJECT_CONTEXT.md](PROJECT_CONTEXT.md), [CHANGELOG.md](CHANGELOG.md), and the relevant files in [docs](docs/WORKFLOWS.md) before working. Recheck the target, current Git state, and live evidence; this documentation is a dated handoff, not a live mirror.
 
+## BEAF third-party integration boundary
+
+BEAF Pro is excluded from Phase 1 architecture cleanup. Preserve its plugin files, shortcodes, CSS overrides, popup behavior, selectors and Elementor integration. Necessary page/body/grid/slider numeric scoping is an intentional third-party isolation exception, not automatic architectural debt. Cleanup authorization for custom Atomic components does not authorize BEAF changes. A future BEAF task needs separate explicit owner scope.
+
 ## Permanent boundaries
 
 - Never modify production. The only designated implementation environment is GCPRO staging: https://vitaliiv1.sg-host.com. Verify the connection actually targets that host before any staging action.

@@ -1,5 +1,9 @@
 # GCPRO architecture
 
+## Phase 1 ownership refinement — E57, 2026-10-20
+
+[Approved implementation and verification](audits/2026-10-20-phase1-cleanup.md): existing Atomic Custom CSS owners cleaned without moving visual design into theme code. Semantic gcpro-homepage scope replaces authored page/element coupling in847; local main radius now targets .cta-panel; header visibility uses a native semantic menu-item class. Native generated IDs, object references and display-condition IDs remain. BEAF numeric scoping is an intentional third-party exception, completely outside Phase1. SVG duplicates caused no verified conflict and remain unchanged. No new active runtime dependency; the847 repository mirror is not enqueued.
+
 ## Verified current ownership — E56, 2026-10-20
 
 Active staging theme is **standalone ROBYLO Starter0.2.0**, not Hello Elementor + a child theme. One installed theme;20 active PHP/CSS files read through native Theme File Editor, with no save. Older child-theme observations below describe a historical shared-source revision. functions.php enqueues fallback.css once with content-MD5 versioning and uses public Elementor location/document APIs.
