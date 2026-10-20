@@ -1,5 +1,11 @@
 # GCPRO changelog
 
+## 2026-10-20 — Correct fixed entry and retained menu focus — E60
+
+- Reproduced delayed fixed-entry jump and post-close focus pinning missed by E59. Code903 now changes positioning where normal and fixed top edges match, distinguishes keyboard-visible focus from retained pointer focus, and resets direction distance while pinned. Native menu event handling and40px down/24px up thresholds preserved.
+- Restrict CSS focus rules to :focus-visible. Suppress the existing bottom panel when the Core intro crosses its bottom footprint; no Core positioning or saved Atomic settings changed.
+- Complete pointer cycles repeated twice each360/393/430/768 without blur between menu close and scroll; touch393, keyboard Enter/focus, reduced motion,1024/1440, mobile Core clearance/release and panel collision checked. Source readback exact; staging cache purge invoked and final cycle repeated after reload. No new resources/dependencies; BEAF/production untouched. [Evidence and limitations](docs/audits/2026-10-20-header-cycle-fix.md).
+
 ## 2026-10-20 — Fix Smart Header mobile menu jump — E59
 
 - Reproduced pointer-click failure after upward scroll: Header top-40→0 and toggle top17.14→57.14 before click completion; scrollY unchanged and menu stayed closed. E58 keyboard Enter coverage had not caught the pointer regression.

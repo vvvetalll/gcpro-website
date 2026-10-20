@@ -1,6 +1,8 @@
 # Header and Footer
 
-**E59,2026-10-20:** Corrected Code903 focus behavior: main-menu focus no longer changes Header top. Only utility-link focus reveals the utility row. Verified pointer/touch activation after upward scroll; no Header/Atomic/menu-definition changes. [Evidence](../audits/2026-10-20-menu-focus-fix-results.json).
+**Current E60,2026-10-20:** Code903 now enters fixed positioning at a matching top edge and pins Header for open menus/keyboard-visible focus only. Retained pointer focus after closing the menu no longer blocks downward hiding. Movement distance resets while pinned. Two full pointer cycles per360/393/430/768 and separate touch393 pass; native Header113/Atomic/menu definitions remain unchanged. [Current evidence, limitations and rollback](../audits/2026-10-20-header-cycle-fix.md).
+
+**Historical E59,2026-10-20:** Corrected the utility-row40px displacement on pointerdown, but did not cover subsequent down-scroll with retained toggle focus. Its focus behavior is superseded by E60. [Original evidence](../audits/2026-10-20-menu-focus-fix-results.json).
 
 **E58,2026-10-20:** Header113 remains global include/general. Existing shell4ef1aa21 gains gcpro-smart-header; a separate new root Div block feba833/instance18849090 mounts reusable895 outside the moving shell. Shared Code903/Entire site/body-end5 controls direction/menu/focus behavior. Original shell children/styles/links and Footer are unchanged. [Exact structure, classes, visual controls, new code and rollback](smart-navigation.md); this supersedes older “no Header JavaScript” statements below.
 

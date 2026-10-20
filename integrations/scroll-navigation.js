@@ -45,15 +45,16 @@
     if (nextDirection && nextDirection !== direction) { distance = 0; direction = nextDirection; }
     distance += delta;
     lastY = y;
-    const focusedHeader = header.contains(document.activeElement);
-    const focusedUtility = !!header.querySelector('.info-bar :focus');
+    const focusedHeader = header.contains(document.activeElement) && document.activeElement.matches(':focus-visible');
+    const focusedUtility = !!header.querySelector('.info-bar :focus-visible');
     const menuOpen = !!header.querySelector('[aria-expanded="true"]');
-    const floating = host.getBoundingClientRect().bottom <= 0;
-    if (!floating || focusedHeader || menuOpen) hidden = false;
-    else if (distance > 40) hidden = true;
-    else if (distance < -24) hidden = false;
     const admin = document.querySelector('#wpadminbar');
     const adminTop = admin ? Math.max(0, admin.getBoundingClientRect().bottom) : 0;
+    // Switch where normal flow and the fixed shell have the same top edge.
+    const floating = host.getBoundingClientRect().top <= adminTop - utilityHeight;
+    if (!floating || focusedHeader || menuOpen) { hidden = false; distance = 0; }
+    else if (distance > 40) hidden = true;
+    else if (distance < -24) hidden = false;
     set(root, '--gcpro-admin-top', `${adminTop}px`);
     header.classList.toggle('is-floating', floating);
     header.classList.toggle('is-hidden', floating && hidden);
@@ -82,7 +83,12 @@
       const r = el.getBoundingClientRect();
       return r.top < height - 24 && r.bottom > clearance;
     });
-    let show = innerWidth < 768 && passed && !blocked && !competing && !taskVisible && !document.querySelector('.gcpro-cta-off');
+    const introOverlap = intros.some(el => {
+      if (!visible(el)) return false;
+      const r = el.getBoundingClientRect();
+      return r.top < height && r.bottom > height - barHeight - 24;
+    });
+    let show = innerWidth < 768 && passed && !blocked && !competing && !taskVisible && !introOverlap && !document.querySelector('.gcpro-cta-off');
     if (bar.contains(document.activeElement) && !menuOpen && !chatOpen && !overlays.some(visible)) show = true;
     bar.classList.toggle('is-visible', show);
     bar.inert = !show;

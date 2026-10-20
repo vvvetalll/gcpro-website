@@ -1,5 +1,7 @@
 # Custom code and dependency register
 
+**Current E60,2026-10-20:** Existing903 remains the sole behavior owner, Entire site/Body End/priority5. Its existing CSS/JS mirrors now use :focus-visible for keyboard-only pinning/utility reveal, a matching-top normal/fixed handoff, distance reset while pinned, and bottom-panel suppression during a measured Core-intro intersection. No new entry, hook, class, listener, observer or dependency. Native code editor reload equals repository wrapper. [Exact implementation, verification and rollback](audits/2026-10-20-header-cycle-fix.md). E59 below is historical and its broad focus-within behavior is superseded.
+
 **E59,2026-10-20:** Existing903 CSS/JS updated in place: generic focus-within only reveals the transform; top reset is restricted to :has(.info-bar :focus). JS clearance uses focusedUtility rather than any Header focus. This fixes the verified40px toggle displacement during pointerdown without intercepting/replacing native menu clicks. Entire site/body-end5 unchanged; source equality verified after native editor reload. No new code entry/class/component/dependency.
 
 ## E58 global scroll navigation — 2026-10-20

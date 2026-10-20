@@ -1,0 +1,1317 @@
+{
+  "environment": "Authenticated Chrome responsive emulation; no physical Android/iOS device",
+  "before": {
+    "delayedFixedEntry": {
+      "y130": {
+        "top": -84,
+        "bottom": 34.9479,
+        "floating": false
+      },
+      "y155": {
+        "top": -109.333,
+        "bottom": 9.6146,
+        "floating": false
+      },
+      "y165": {
+        "top": -40,
+        "bottom": 78.9479,
+        "floating": true
+      },
+      "note": "Captured with native menu open; verifies discontinuous geometry, not hide policy."
+    },
+    "pointerFocusAfterMenuClose": {
+      "menuExpanded": false,
+      "focusVisible": false,
+      "headerHidden": false,
+      "y": 900
+    }
+  },
+  "after": {
+    "entry393": [
+      {
+        "bottom": 164.9479217529297,
+        "cta": "none",
+        "floating": false,
+        "focus": "(body)",
+        "focusVisible": false,
+        "hidden": false,
+        "menu": "false",
+        "overflow": 0,
+        "top": 46,
+        "y": 0
+      },
+      {
+        "bottom": 94.94792175292967,
+        "cta": "none",
+        "floating": false,
+        "focus": "(body)",
+        "focusVisible": false,
+        "hidden": false,
+        "menu": "false",
+        "overflow": 0,
+        "top": -24,
+        "y": 70
+      },
+      {
+        "bottom": 84.94792175292969,
+        "cta": "none",
+        "floating": false,
+        "focus": "(body)",
+        "focusVisible": false,
+        "hidden": false,
+        "menu": "false",
+        "overflow": 0,
+        "top": -34,
+        "y": 80
+      },
+      {
+        "bottom": 78.94792175292969,
+        "cta": "none",
+        "floating": true,
+        "focus": "(body)",
+        "focusVisible": false,
+        "hidden": false,
+        "menu": "false",
+        "overflow": 0,
+        "top": -40,
+        "y": 90
+      },
+      {
+        "bottom": 78.94792175292969,
+        "cta": "none",
+        "floating": true,
+        "focus": "(body)",
+        "focusVisible": false,
+        "hidden": false,
+        "menu": "false",
+        "overflow": 0,
+        "top": -40,
+        "y": 110
+      },
+      {
+        "bottom": -40,
+        "cta": "none",
+        "floating": true,
+        "focus": "(body)",
+        "focusVisible": false,
+        "hidden": true,
+        "menu": "false",
+        "overflow": 0,
+        "top": -158.9479217529297,
+        "y": 140
+      },
+      {
+        "bottom": -40,
+        "cta": "none",
+        "floating": true,
+        "focus": "(body)",
+        "focusVisible": false,
+        "hidden": true,
+        "menu": "false",
+        "overflow": 0,
+        "top": -158.9479217529297,
+        "y": 180
+      },
+      {
+        "bottom": -40,
+        "cta": "none",
+        "floating": true,
+        "focus": "(body)",
+        "focusVisible": false,
+        "hidden": true,
+        "menu": "false",
+        "overflow": 0,
+        "top": -158.9479217529297,
+        "y": 220
+      }
+    ],
+    "pointer": [
+      {
+        "width": 360,
+        "runs": [
+          {
+            "down": {
+              "bottom": -40,
+              "cta": "flex",
+              "floating": true,
+              "focus": "(body)",
+              "focusVisible": false,
+              "hidden": true,
+              "menu": "false",
+              "overflow": 0,
+              "top": -158.9479217529297,
+              "y": 1400
+            },
+            "up": {
+              "bottom": 78.94792175292969,
+              "cta": "flex",
+              "floating": true,
+              "focus": "(body)",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "false",
+              "overflow": 0,
+              "top": -40,
+              "y": 1200
+            },
+            "open": {
+              "bottom": 78.94792175292969,
+              "cta": "none",
+              "floating": true,
+              "focus": "elementor-menu-toggle elementor-active",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "true",
+              "overflow": 0,
+              "top": -40,
+              "y": 1200
+            },
+            "pinned": {
+              "bottom": 78.94792175292969,
+              "cta": "none",
+              "floating": true,
+              "focus": "elementor-menu-toggle elementor-active",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "true",
+              "overflow": 0,
+              "top": -40,
+              "y": 1250
+            },
+            "closed": {
+              "bottom": 78.94792175292969,
+              "cta": "flex",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "false",
+              "overflow": 0,
+              "top": -40,
+              "y": 1250
+            },
+            "after": {
+              "bottom": -40,
+              "cta": "flex",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": true,
+              "menu": "false",
+              "overflow": 0,
+              "top": -158.9479217529297,
+              "y": 1400
+            },
+            "again": {
+              "bottom": 78.94792175292969,
+              "cta": "flex",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "false",
+              "overflow": 0,
+              "top": -40,
+              "y": 1200
+            }
+          },
+          {
+            "down": {
+              "bottom": -40,
+              "cta": "flex",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": true,
+              "menu": "false",
+              "overflow": 0,
+              "top": -158.9479217529297,
+              "y": 1400
+            },
+            "up": {
+              "bottom": 78.94792175292969,
+              "cta": "flex",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "false",
+              "overflow": 0,
+              "top": -40,
+              "y": 1200
+            },
+            "open": {
+              "bottom": 78.94792175292969,
+              "cta": "none",
+              "floating": true,
+              "focus": "elementor-menu-toggle elementor-active",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "true",
+              "overflow": 0,
+              "top": -40,
+              "y": 1200
+            },
+            "pinned": {
+              "bottom": 78.94792175292969,
+              "cta": "none",
+              "floating": true,
+              "focus": "elementor-menu-toggle elementor-active",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "true",
+              "overflow": 0,
+              "top": -40,
+              "y": 1250
+            },
+            "closed": {
+              "bottom": 78.94792175292969,
+              "cta": "flex",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "false",
+              "overflow": 0,
+              "top": -40,
+              "y": 1250
+            },
+            "after": {
+              "bottom": -40,
+              "cta": "flex",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": true,
+              "menu": "false",
+              "overflow": 0,
+              "top": -158.9479217529297,
+              "y": 1400
+            },
+            "again": {
+              "bottom": 78.94792175292969,
+              "cta": "flex",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "false",
+              "overflow": 0,
+              "top": -40,
+              "y": 1200
+            }
+          }
+        ]
+      },
+      {
+        "width": 393,
+        "runs": [
+          {
+            "down": {
+              "bottom": -40,
+              "cta": "flex",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": true,
+              "menu": "false",
+              "overflow": 0,
+              "top": -158.9479217529297,
+              "y": 1400
+            },
+            "up": {
+              "bottom": 78.94792175292969,
+              "cta": "flex",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "false",
+              "overflow": 0,
+              "top": -40,
+              "y": 1200
+            },
+            "open": {
+              "bottom": 78.94792175292969,
+              "cta": "none",
+              "floating": true,
+              "focus": "elementor-menu-toggle elementor-active",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "true",
+              "overflow": 0,
+              "top": -40,
+              "y": 1200
+            },
+            "pinned": {
+              "bottom": 78.94792175292969,
+              "cta": "none",
+              "floating": true,
+              "focus": "elementor-menu-toggle elementor-active",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "true",
+              "overflow": 0,
+              "top": -40,
+              "y": 1250
+            },
+            "closed": {
+              "bottom": 78.94792175292969,
+              "cta": "flex",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "false",
+              "overflow": 0,
+              "top": -40,
+              "y": 1250
+            },
+            "after": {
+              "bottom": -40,
+              "cta": "flex",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": true,
+              "menu": "false",
+              "overflow": 0,
+              "top": -158.9479217529297,
+              "y": 1400
+            },
+            "again": {
+              "bottom": 78.94792175292969,
+              "cta": "flex",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "false",
+              "overflow": 0,
+              "top": -40,
+              "y": 1200
+            }
+          },
+          {
+            "down": {
+              "bottom": -40,
+              "cta": "flex",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": true,
+              "menu": "false",
+              "overflow": 0,
+              "top": -158.9479217529297,
+              "y": 1400
+            },
+            "up": {
+              "bottom": 78.94792175292969,
+              "cta": "flex",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "false",
+              "overflow": 0,
+              "top": -40,
+              "y": 1200
+            },
+            "open": {
+              "bottom": 78.94792175292969,
+              "cta": "none",
+              "floating": true,
+              "focus": "elementor-menu-toggle elementor-active",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "true",
+              "overflow": 0,
+              "top": -40,
+              "y": 1200
+            },
+            "pinned": {
+              "bottom": 78.94792175292969,
+              "cta": "none",
+              "floating": true,
+              "focus": "elementor-menu-toggle elementor-active",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "true",
+              "overflow": 0,
+              "top": -40,
+              "y": 1250
+            },
+            "closed": {
+              "bottom": 78.94792175292969,
+              "cta": "flex",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "false",
+              "overflow": 0,
+              "top": -40,
+              "y": 1250
+            },
+            "after": {
+              "bottom": -40,
+              "cta": "flex",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": true,
+              "menu": "false",
+              "overflow": 0,
+              "top": -158.9479217529297,
+              "y": 1400
+            },
+            "again": {
+              "bottom": 78.94792175292969,
+              "cta": "flex",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "false",
+              "overflow": 0,
+              "top": -40,
+              "y": 1200
+            }
+          }
+        ]
+      },
+      {
+        "width": 430,
+        "runs": [
+          {
+            "down": {
+              "bottom": -40,
+              "cta": "flex",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": true,
+              "menu": "false",
+              "overflow": 0,
+              "top": -158.9479217529297,
+              "y": 1400
+            },
+            "up": {
+              "bottom": 78.94792175292969,
+              "cta": "flex",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "false",
+              "overflow": 0,
+              "top": -40,
+              "y": 1200
+            },
+            "open": {
+              "bottom": 78.94792175292969,
+              "cta": "none",
+              "floating": true,
+              "focus": "elementor-menu-toggle elementor-active",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "true",
+              "overflow": 0,
+              "top": -40,
+              "y": 1200
+            },
+            "pinned": {
+              "bottom": 78.94792175292969,
+              "cta": "none",
+              "floating": true,
+              "focus": "elementor-menu-toggle elementor-active",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "true",
+              "overflow": 0,
+              "top": -40,
+              "y": 1250
+            },
+            "closed": {
+              "bottom": 78.94792175292969,
+              "cta": "flex",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "false",
+              "overflow": 0,
+              "top": -40,
+              "y": 1250
+            },
+            "after": {
+              "bottom": -40,
+              "cta": "flex",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": true,
+              "menu": "false",
+              "overflow": 0,
+              "top": -158.9479217529297,
+              "y": 1400
+            },
+            "again": {
+              "bottom": 78.94792175292969,
+              "cta": "flex",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "false",
+              "overflow": 0,
+              "top": -40,
+              "y": 1200
+            }
+          },
+          {
+            "down": {
+              "bottom": -40,
+              "cta": "flex",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": true,
+              "menu": "false",
+              "overflow": 0,
+              "top": -158.9479217529297,
+              "y": 1400
+            },
+            "up": {
+              "bottom": 78.94792175292969,
+              "cta": "flex",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "false",
+              "overflow": 0,
+              "top": -40,
+              "y": 1200
+            },
+            "open": {
+              "bottom": 78.94792175292969,
+              "cta": "none",
+              "floating": true,
+              "focus": "elementor-menu-toggle elementor-active",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "true",
+              "overflow": 0,
+              "top": -40,
+              "y": 1200
+            },
+            "pinned": {
+              "bottom": 78.94792175292969,
+              "cta": "none",
+              "floating": true,
+              "focus": "elementor-menu-toggle elementor-active",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "true",
+              "overflow": 0,
+              "top": -40,
+              "y": 1250
+            },
+            "closed": {
+              "bottom": 78.94792175292969,
+              "cta": "flex",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "false",
+              "overflow": 0,
+              "top": -40,
+              "y": 1250
+            },
+            "after": {
+              "bottom": -40,
+              "cta": "flex",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": true,
+              "menu": "false",
+              "overflow": 0,
+              "top": -158.9479217529297,
+              "y": 1400
+            },
+            "again": {
+              "bottom": 78.94792175292969,
+              "cta": "flex",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "false",
+              "overflow": 0,
+              "top": -40,
+              "y": 1200
+            }
+          }
+        ]
+      },
+      {
+        "width": 768,
+        "runs": [
+          {
+            "down": {
+              "bottom": -40,
+              "cta": "none",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": true,
+              "menu": "false",
+              "overflow": 0,
+              "top": -182.9479217529297,
+              "y": 1400
+            },
+            "up": {
+              "bottom": 148.9479217529297,
+              "cta": "none",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "false",
+              "overflow": 0,
+              "top": 6,
+              "y": 1200
+            },
+            "open": {
+              "bottom": 148.9479217529297,
+              "cta": "none",
+              "floating": true,
+              "focus": "elementor-menu-toggle elementor-active",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "true",
+              "overflow": 0,
+              "top": 6,
+              "y": 1200
+            },
+            "pinned": {
+              "bottom": 148.9479217529297,
+              "cta": "none",
+              "floating": true,
+              "focus": "elementor-menu-toggle elementor-active",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "true",
+              "overflow": 0,
+              "top": 6,
+              "y": 1250
+            },
+            "closed": {
+              "bottom": 148.9479217529297,
+              "cta": "none",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "false",
+              "overflow": 0,
+              "top": 6,
+              "y": 1250
+            },
+            "after": {
+              "bottom": -40,
+              "cta": "none",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": true,
+              "menu": "false",
+              "overflow": 0,
+              "top": -182.9479217529297,
+              "y": 1400
+            },
+            "again": {
+              "bottom": 148.9479217529297,
+              "cta": "none",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "false",
+              "overflow": 0,
+              "top": 6,
+              "y": 1200
+            }
+          },
+          {
+            "down": {
+              "bottom": -40,
+              "cta": "none",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": true,
+              "menu": "false",
+              "overflow": 0,
+              "top": -182.9479217529297,
+              "y": 1400
+            },
+            "up": {
+              "bottom": 148.9479217529297,
+              "cta": "none",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "false",
+              "overflow": 0,
+              "top": 6,
+              "y": 1200
+            },
+            "open": {
+              "bottom": 148.9479217529297,
+              "cta": "none",
+              "floating": true,
+              "focus": "elementor-menu-toggle elementor-active",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "true",
+              "overflow": 0,
+              "top": 6,
+              "y": 1200
+            },
+            "pinned": {
+              "bottom": 148.9479217529297,
+              "cta": "none",
+              "floating": true,
+              "focus": "elementor-menu-toggle elementor-active",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "true",
+              "overflow": 0,
+              "top": 6,
+              "y": 1250
+            },
+            "closed": {
+              "bottom": 148.9479217529297,
+              "cta": "none",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "false",
+              "overflow": 0,
+              "top": 6,
+              "y": 1250
+            },
+            "after": {
+              "bottom": -40,
+              "cta": "none",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": true,
+              "menu": "false",
+              "overflow": 0,
+              "top": -182.9479217529297,
+              "y": 1400
+            },
+            "again": {
+              "bottom": 148.9479217529297,
+              "cta": "none",
+              "floating": true,
+              "focus": "elementor-menu-toggle",
+              "focusVisible": false,
+              "hidden": false,
+              "menu": "false",
+              "overflow": 0,
+              "top": 6,
+              "y": 1200
+            }
+          }
+        ]
+      }
+    ],
+    "touch393": {
+      "touchOpen": {
+        "bottom": 78.94792175292969,
+        "cta": "none",
+        "floating": true,
+        "focus": "elementor-menu-toggle elementor-active",
+        "focusVisible": false,
+        "hidden": false,
+        "menu": "true",
+        "overflow": 0,
+        "top": -40,
+        "y": 1200
+      },
+      "touchClose": {
+        "bottom": 78.94792175292969,
+        "cta": "flex",
+        "floating": true,
+        "focus": "elementor-menu-toggle",
+        "focusVisible": false,
+        "hidden": false,
+        "menu": "false",
+        "overflow": 0,
+        "top": -40,
+        "y": 1200
+      },
+      "touchDown": {
+        "bottom": -40,
+        "cta": "flex",
+        "floating": true,
+        "focus": "elementor-menu-toggle",
+        "focusVisible": false,
+        "hidden": true,
+        "menu": "false",
+        "overflow": 0,
+        "top": -158.9479217529297,
+        "y": 1400
+      },
+      "touchUp": {
+        "bottom": 78.94792175292969,
+        "cta": "flex",
+        "floating": true,
+        "focus": "elementor-menu-toggle",
+        "focusVisible": false,
+        "hidden": false,
+        "menu": "false",
+        "overflow": 0,
+        "top": -40,
+        "y": 1200
+      }
+    },
+    "keyboard393": {
+      "kOpen": {
+        "bottom": 78.94792175292969,
+        "cta": "none",
+        "floating": true,
+        "focus": "elementor-menu-toggle elementor-active",
+        "focusVisible": true,
+        "hidden": false,
+        "menu": "true",
+        "overflow": 0,
+        "top": -40,
+        "y": 1400
+      },
+      "kClose": {
+        "bottom": 78.94792175292969,
+        "cta": "flex",
+        "floating": true,
+        "focus": "elementor-menu-toggle",
+        "focusVisible": true,
+        "hidden": false,
+        "menu": "false",
+        "overflow": 0,
+        "top": -40,
+        "y": 1500
+      }
+    },
+    "core393": {
+      "coreHidden": {
+        "bottom": -40,
+        "cta": "flex",
+        "floating": true,
+        "focus": "",
+        "focusVisible": false,
+        "hidden": true,
+        "menu": "false",
+        "overflow": 0,
+        "top": -158.9479217529297,
+        "y": 2400
+      },
+      "coreH": {
+        "style": "",
+        "top": 0
+      },
+      "coreShown": {
+        "bottom": 78.94792175292969,
+        "cta": "flex",
+        "floating": true,
+        "focus": "",
+        "focusVisible": false,
+        "hidden": false,
+        "menu": "false",
+        "overflow": 0,
+        "top": -40,
+        "y": 2200
+      },
+      "coreS": {
+        "style": "79px",
+        "top": 79
+      },
+      "coreReleased": {
+        "top": -1161.2083740234375
+      }
+    },
+    "reducedMotion": "transition-duration: 0s",
+    "desktop": [
+      {
+        "width": 1024,
+        "atTop": {
+          "bottom": 174.9479217529297,
+          "cta": "none",
+          "floating": false,
+          "focus": "",
+          "focusVisible": false,
+          "hidden": false,
+          "menu": "false",
+          "overflow": -15,
+          "top": 32,
+          "y": 0
+        },
+        "down": {
+          "bottom": -40,
+          "cta": "none",
+          "floating": true,
+          "focus": "",
+          "focusVisible": false,
+          "hidden": true,
+          "menu": "false",
+          "overflow": -15,
+          "top": -182.9479217529297,
+          "y": 1000
+        },
+        "up": {
+          "bottom": 134.9479217529297,
+          "cta": "none",
+          "floating": true,
+          "focus": "",
+          "focusVisible": false,
+          "hidden": false,
+          "menu": "false",
+          "overflow": -15,
+          "top": -8,
+          "y": 800
+        },
+        "returned": {
+          "bottom": 174.9479217529297,
+          "cta": "none",
+          "floating": false,
+          "focus": "",
+          "focusVisible": false,
+          "hidden": false,
+          "menu": "false",
+          "overflow": -15,
+          "top": 32,
+          "y": 0
+        }
+      },
+      {
+        "width": 1440,
+        "atTop": {
+          "bottom": 174.9479217529297,
+          "cta": "none",
+          "floating": false,
+          "focus": "",
+          "focusVisible": false,
+          "hidden": false,
+          "menu": "false",
+          "overflow": -15,
+          "top": 32,
+          "y": 0
+        },
+        "down": {
+          "bottom": -40,
+          "cta": "none",
+          "floating": true,
+          "focus": "",
+          "focusVisible": false,
+          "hidden": true,
+          "menu": "false",
+          "overflow": -15,
+          "top": -182.9479217529297,
+          "y": 1000
+        },
+        "up": {
+          "bottom": 134.9479217529297,
+          "cta": "none",
+          "floating": true,
+          "focus": "",
+          "focusVisible": false,
+          "hidden": false,
+          "menu": "false",
+          "overflow": -15,
+          "top": -8,
+          "y": 800
+        },
+        "returned": {
+          "bottom": 174.9479217529297,
+          "cta": "none",
+          "floating": false,
+          "focus": "",
+          "focusVisible": false,
+          "hidden": false,
+          "menu": "false",
+          "overflow": -15,
+          "top": 32,
+          "y": 0
+        }
+      }
+    ],
+    "nativeWheel": {
+      "wheelBefore": {
+        "bottom": 84.94792175292969,
+        "cta": "none",
+        "floating": false,
+        "focus": "",
+        "focusVisible": false,
+        "hidden": false,
+        "menu": "false",
+        "overflow": 0,
+        "top": -34,
+        "y": 80
+      },
+      "wheelAfter": {
+        "bottom": 78.94792175292969,
+        "cta": "none",
+        "floating": true,
+        "focus": "",
+        "focusVisible": false,
+        "hidden": false,
+        "menu": "false",
+        "overflow": 0,
+        "top": -40,
+        "y": 90
+      }
+    },
+    "postCacheReload": {
+      "finalOpen": {
+        "bottom": 78.94792175292969,
+        "cta": "none",
+        "floating": true,
+        "focus": "elementor-menu-toggle elementor-active",
+        "focusVisible": false,
+        "hidden": false,
+        "menu": "true",
+        "overflow": 0,
+        "top": -40,
+        "y": 1200
+      },
+      "finalClose": {
+        "bottom": 78.94792175292969,
+        "cta": "none",
+        "floating": true,
+        "focus": "elementor-menu-toggle",
+        "focusVisible": false,
+        "hidden": false,
+        "menu": "false",
+        "overflow": 0,
+        "top": -40,
+        "y": 1200
+      },
+      "finalDown": {
+        "bottom": -40,
+        "cta": "none",
+        "floating": true,
+        "focus": "elementor-menu-toggle",
+        "focusVisible": false,
+        "hidden": true,
+        "menu": "false",
+        "overflow": 0,
+        "top": -158.9479217529297,
+        "y": 1400
+      },
+      "finalUp": {
+        "bottom": 78.94792175292969,
+        "cta": "none",
+        "floating": true,
+        "focus": "elementor-menu-toggle",
+        "focusVisible": false,
+        "hidden": false,
+        "menu": "false",
+        "overflow": 0,
+        "top": -40,
+        "y": 1200
+      }
+    },
+    "ctaIntroCollision": [
+      {
+        "width": 360,
+        "originY": 1990.1458740234375,
+        "entering": {
+          "bottom": -40,
+          "cta": "none",
+          "floating": true,
+          "focus": "elementor-menu-toggle",
+          "focusVisible": false,
+          "hidden": true,
+          "menu": "false",
+          "overflow": 0,
+          "top": -158.9479217529297,
+          "y": 1180
+        },
+        "introRect": {
+          "bottom": 1026.7292175292969,
+          "top": 810.1458740234375
+        },
+        "activeDown": {
+          "bottom": -40,
+          "cta": "flex",
+          "floating": true,
+          "focus": "elementor-menu-toggle",
+          "focusVisible": false,
+          "hidden": true,
+          "menu": "false",
+          "overflow": 0,
+          "top": -158.9479217529297,
+          "y": 2240
+        },
+        "activeUp": {
+          "bottom": 78.94792175292969,
+          "cta": "flex",
+          "floating": true,
+          "focus": "elementor-menu-toggle",
+          "focusVisible": false,
+          "hidden": false,
+          "menu": "false",
+          "overflow": 0,
+          "top": -40,
+          "y": 2140
+        }
+      },
+      {
+        "width": 393,
+        "originY": 2017.604248046875,
+        "entering": {
+          "bottom": -40,
+          "cta": "none",
+          "floating": true,
+          "focus": "elementor-menu-toggle",
+          "focusVisible": false,
+          "hidden": true,
+          "menu": "false",
+          "overflow": 0,
+          "top": -158.9479217529297,
+          "y": 1207.3333740234375
+        },
+        "introRect": {
+          "bottom": 1026.8542175292969,
+          "top": 810.2708740234375
+        },
+        "activeDown": {
+          "bottom": -40,
+          "cta": "flex",
+          "floating": true,
+          "focus": "elementor-menu-toggle",
+          "focusVisible": false,
+          "hidden": true,
+          "menu": "false",
+          "overflow": 0,
+          "top": -158.9479217529297,
+          "y": 2267.333251953125
+        },
+        "activeUp": {
+          "bottom": 78.94792175292969,
+          "cta": "flex",
+          "floating": true,
+          "focus": "elementor-menu-toggle",
+          "focusVisible": false,
+          "hidden": false,
+          "menu": "false",
+          "overflow": 0,
+          "top": -40,
+          "y": 2167.333251953125
+        }
+      },
+      {
+        "width": 430,
+        "originY": 2031.135498046875,
+        "entering": {
+          "bottom": -40,
+          "cta": "none",
+          "floating": true,
+          "focus": "elementor-menu-toggle",
+          "focusVisible": false,
+          "hidden": true,
+          "menu": "false",
+          "overflow": 0,
+          "top": -158.9479217529297,
+          "y": 1221.3333740234375
+        },
+        "introRect": {
+          "bottom": 1026.3854675292969,
+          "top": 809.8021240234375
+        },
+        "activeDown": {
+          "bottom": -40,
+          "cta": "flex",
+          "floating": true,
+          "focus": "elementor-menu-toggle",
+          "focusVisible": false,
+          "hidden": true,
+          "menu": "false",
+          "overflow": 0,
+          "top": -158.9479217529297,
+          "y": 2281.333251953125
+        },
+        "activeUp": {
+          "bottom": 78.94792175292969,
+          "cta": "flex",
+          "floating": true,
+          "focus": "elementor-menu-toggle",
+          "focusVisible": false,
+          "hidden": false,
+          "menu": "false",
+          "overflow": 0,
+          "top": -40,
+          "y": 2181.333251953125
+        }
+      }
+    ],
+    "nativeWheelAfterClose": {
+      "wOpen": {
+        "bottom": 78.94792175292969,
+        "cta": "none",
+        "floating": true,
+        "focus": "elementor-menu-toggle elementor-active",
+        "focusVisible": false,
+        "hidden": false,
+        "menu": "true",
+        "overflow": 0,
+        "top": -40,
+        "y": 1200
+      },
+      "wClose": {
+        "bottom": 78.94792175292969,
+        "cta": "none",
+        "floating": true,
+        "focus": "elementor-menu-toggle",
+        "focusVisible": false,
+        "hidden": false,
+        "menu": "false",
+        "overflow": 0,
+        "top": -40,
+        "y": 1200
+      },
+      "wDown": {
+        "bottom": -40,
+        "cta": "none",
+        "floating": true,
+        "focus": "elementor-menu-toggle",
+        "focusVisible": false,
+        "hidden": true,
+        "menu": "false",
+        "overflow": 0,
+        "top": -158.9479217529297,
+        "y": 1400
+      },
+      "wUp": {
+        "bottom": 78.94792175292969,
+        "cta": "none",
+        "floating": true,
+        "focus": "elementor-menu-toggle",
+        "focusVisible": false,
+        "hidden": false,
+        "menu": "false",
+        "overflow": 0,
+        "top": -40,
+        "y": 1200
+      }
+    }
+  }
+}

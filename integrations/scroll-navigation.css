@@ -12,10 +12,10 @@
 .gcpro-nav-ready .gcpro-smart-header.is-floating.is-hidden {
   transform: translateY(calc(-100% - var(--gcpro-admin-top, 0px)));
 }
-.gcpro-nav-ready .gcpro-smart-header.is-floating:focus-within {
+.gcpro-nav-ready .gcpro-smart-header.is-floating:has(:focus-visible) {
   transform: none;
 }
-.gcpro-nav-ready .gcpro-smart-header.is-floating:has(.info-bar :focus) {
+.gcpro-nav-ready .gcpro-smart-header.is-floating:has(.info-bar :focus-visible) {
   top: var(--gcpro-admin-top, 0px);
 }
 .gcpro-nav-ready {
