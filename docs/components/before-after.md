@@ -1,5 +1,7 @@
 # Before / After
 
+**Current E66,2026-10-20:** A later explicit owner request authorizes shared presentation-only correction. Existing Kit6 Site Settings Custom CSS now owns restrained10px dark-translucent/white labels and36px desktop/44px mobile expand buttons,16px glyph, orange focus. No page-ID dependence in the new style. Historical Homepage CSS below was absent on fresh native read; do not restore alongside Kit6. Plugin files/shortcodes/records/images/handle code unchanged. [Exact source, tests, limits and rollback](../audits/2026-10-20-beaf-presentation.md). The following E57 boundary and earlier CSS record are historical Phase1 evidence.
+
 **Phase1 boundary (E57):** BEAF Pro is an existing third-party plugin and is entirely excluded from refactoring. Its files, shortcodes, CSS overrides, popup behavior, selectors and Elementor integration are untouched. Necessary Homepage/page-body/grid/slider scoping is an intentional isolation exception, not an automatic architecture defect. Rendered BEAF page CSS equals the E56 baseline byte-for-byte; [verification](../audits/2026-10-20-phase1-cleanup.md).
 
 Three project comparisons; plugin records own the images and comparison behavior, Atomic owns the surrounding layout.
@@ -20,14 +22,14 @@ Shortcodes freshly read in the visual editor; actual images rendered. Slider rec
 
 Atomic grid/local controls own three/two/one columns at desktop/tablet/mobile,16px media/caption gaps and22px desktop/tablet,20px mobile project titles. Shared heading/container/section/grid-3 classes and font/color tokens apply to native text.
 
-**Homepage154 → Page Settings → Advanced → Custom CSS** owns inline/popup labels and all expand buttons. Fresh editor/CSSOM inspection confirms body.elementor-page-154 and grid data-id66b1c7d4 selectors. Popup content is body-mounted, outside the Atomic section, so an ordinary section descendant cannot alone scope it. This is a documented existing exception, not a reusable styling convention. [Register and migration proposal](../CUSTOM_CODE.md).
+**Current owner: Kit6 → Site Settings → Custom CSS.** Shared plugin-class selectors style inline/body-mounted popup labels and expand buttons; source mirror integrations/beaf-presentation.css. Homepage154 Custom CSS was empty on fresh E66 native read. The former body.elementor-page-154/grid data-id66b1c7d4 override is historical, not a parallel current owner. The E57 isolation exception was intentional at that time.
 
 Plugin CSS/JS owns handles, clipping and fullscreen Ajax: **Ultimate Before After Image Slider & Gallery–BEAF4.7.21 + BEAF Pro4.5.7** (some asset URLs still say4.5.6). jQuery/twentytwenty and plugin popup code are vendor dependencies. No GCPRO-developed comparison JS or Custom Code entry. No HTML widget.
 
 ## Behavior and safe modification
 
-Inline labels9px/60% opacity; popup labels11px/white on black55%, AFTER shifted48px to clear close control. Fullscreen buttons36px,44px on mobile/coarse pointer; visible focus outline uses one necessary !important because the plugin suppresses focus outlines. Transparent inline label background also uses !important. Preserve documented plugin override exceptions until a verified alternative replaces them.
+Current labels10px/white on black60%, ordinary opacity1; popup AFTER clears close control by56px. Expand buttons36px desktop/44px mobile or coarse pointer,16px white existing SVG, black52% background, subtle border, orange hover/focus. Vendor focus suppression requires one scoped !important. No GCPRO comparison JavaScript. Edit media/options in existing BEAF records; Atomic owns captions/grid; Kit6 owns presentation. All3 inline drags and all3 fullscreen open/close tested at1440/393; six-width layouts tested. Existing non-keyboard handle/close semantics remain a vendor limitation. See E66 for exact evidence and recovery.
 
-Edit images/options in WordPress → Before and After Slider → matching record; captions/grid in Homepage; labels/buttons only in the page CSS field. Do not edit generated uploads/elementor/css files. Reusable scoping should use a semantic comparison class plus a reliable popup-owner hook, with inline/popup consumer tests; removing body scope blindly would affect other comparisons.
+Historical E56 verification:
 
 393px fullscreen723 opened and closed in Chrome with document/popup width393 and no horizontal overflow; page grid checked360/393/430/768/1440. All three inline pairs rendered. Current handles are DIVs with no role, tabindex or ARIA value: keyboard slider semantics are missing. Fullscreen fit-to-window/keyboard coverage, physical-device and anonymous access remain separate QA. Historical endpoint403/security issue is not resolved by disabling site security in this audit. Portfolio still#; Northbrook location remains owner-unconfirmed.

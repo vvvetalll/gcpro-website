@@ -1,5 +1,9 @@
 # GCPRO Elementor map
 
+## Current Footer114 and shared comparison style — E65–E66
+
+114/1687d698 →119ffe98 →73b78d01 → identity7ac91d92 (Social Icons734b137 after1432e75b), services39be2867 and contacte424c2c. Contacts:47afb9a →5ae5a5d1 SVG935 +641a5869;3ecf72b4 →4c520c3c SVG936 +25e52737;331b5153 →1bf5e2a9 SVG937 +2a44b1ed. Directions37cec545→103 unchanged. Contact gap8px, no address margin. Removed671c4f66 CTA subtree and three label/content groups. Coverage5245645d has no top divider;5fe71200/890602e/23d35135/5a520a4e use color-border;5a520a4e now #top. [36-node settings](audits/2026-10-20-footer-contact-icons-settings.json), [maintenance/QA](audits/2026-10-20-footer-contact-icons.md). Kit6 Site Settings → Custom CSS owns new shared BEAF presentation, outside Homepage settings; [E66](audits/2026-10-20-beaf-presentation.md). IDs are editing/media references only. The next E64 section is historical.
+
 ## Current global footer and native title visibility — E64, 2026-10-20
 
 Footer114 active/include/general:1687d698 →119ffe98 → CTA671c4f66, grid73b78d01, coverage5245645d, bottom1d11b99e. Existing identity7ac91d92/services39be2867/contacte424c2c retained. Quiet call29c8d2e0 replaces interim53 instance55e1d02; bdfaa44→286 and37cec545→103 use supported Overrides. Group578307c4 holds existing dynamic year/identity. Two new reusable classes g-373d928/g-aca1669; no runtime ID selector.903 CSS moves body reserve into .site-footer.154 Page Settings Hide Title=yes; main190 nodes unchanged. [Full current locators/styles/links](audits/2026-10-20-footer-refresh-settings.json), [maintenance/QA/rollback](audits/2026-10-20-footer-refresh.md). Older footer-menu descriptions below are historical.

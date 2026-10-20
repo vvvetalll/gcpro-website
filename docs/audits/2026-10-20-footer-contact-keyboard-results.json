@@ -1,0 +1,111 @@
+{
+  "intermediate300ms": [
+    {
+      "barTop": 782.6666870117188,
+      "bottom": -384.2083435058594,
+      "focusVisible": true,
+      "label": "Linkedin",
+      "outline": "rgb(255, 255, 255) solid 2.66667px"
+    },
+    {
+      "barTop": 782.6666870117188,
+      "bottom": -384.2083435058594,
+      "focusVisible": true,
+      "label": "Instagram",
+      "outline": "rgb(255, 255, 255) solid 2.66667px"
+    },
+    {
+      "barTop": 782.6666870117188,
+      "bottom": 275.125,
+      "focusVisible": true,
+      "label": "Yelp",
+      "outline": "rgb(240, 90, 41) solid 2.66667px"
+    },
+    {
+      "barTop": 782.6666870117188,
+      "bottom": 476.8125,
+      "focusVisible": true,
+      "label": "847-656-3322",
+      "outline": "rgb(240, 90, 41) solid 2.66667px"
+    },
+    {
+      "barTop": 782.6666870117188,
+      "bottom": 478.1458435058594,
+      "focusVisible": true,
+      "label": "restore@gcprochicago.com",
+      "outline": "rgb(240, 90, 41) solid 2.66667px"
+    },
+    {
+      "barTop": 782.6666870117188,
+      "bottom": 623.1979370117188,
+      "focusVisible": true,
+      "label": "Get Directions ↗",
+      "outline": "rgb(240, 90, 41) solid 2.66667px"
+    },
+    {
+      "barTop": 782.6666870117188,
+      "bottom": 944.9479370117188,
+      "focusVisible": true,
+      "label": "↑ Back to top",
+      "outline": "rgb(240, 90, 41) solid 2.66667px"
+    }
+  ],
+  "settled1100ms": [
+    {
+      "barTop": 782.6666870117188,
+      "bottom": 409.7916870117187,
+      "focusVisible": true,
+      "label": "Linkedin",
+      "outline": "rgb(240, 90, 41) solid 2.66667px",
+      "top": 365.7916870117187
+    },
+    {
+      "barTop": 782.6666870117188,
+      "bottom": 409.7916870117187,
+      "focusVisible": true,
+      "label": "Instagram",
+      "outline": "rgb(240, 90, 41) solid 2.66667px",
+      "top": 365.7916870117187
+    },
+    {
+      "barTop": 782.6666870117188,
+      "bottom": 449.125,
+      "focusVisible": true,
+      "label": "Yelp",
+      "outline": "rgb(240, 90, 41) solid 2.66667px",
+      "top": 405.125
+    },
+    {
+      "barTop": 782.6666870117188,
+      "bottom": 448.8125,
+      "focusVisible": true,
+      "label": "847-656-3322",
+      "outline": "rgb(240, 90, 41) solid 2.66667px",
+      "top": 404.8125
+    },
+    {
+      "barTop": 782.6666870117188,
+      "bottom": 478.1458435058594,
+      "focusVisible": true,
+      "label": "restore@gcprochicago.com",
+      "outline": "rgb(240, 90, 41) solid 2.66667px",
+      "top": 434.1458435058594
+    },
+    {
+      "barTop": 782.6666870117188,
+      "bottom": 554.53125,
+      "focusVisible": true,
+      "label": "Get Directions ↗",
+      "outline": "rgb(240, 90, 41) solid 2.66667px",
+      "top": 502
+    },
+    {
+      "barTop": 782.6666870117188,
+      "bottom": 755.6146240234375,
+      "focusVisible": true,
+      "label": "↑ Back to top",
+      "outline": "rgb(240, 90, 41) solid 2.66667px",
+      "top": 711.6146240234375
+    }
+  ]
+}

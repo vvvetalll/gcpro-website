@@ -1,0 +1,78 @@
+{
+  "initialSingleMoveSamples": [
+    {
+      "width": 1440,
+      "index": 0,
+      "before": "rect(0px, 181.333px, 272px, 0px)",
+      "after": "rect(0px, 181.333px, 272px, 0px)"
+    },
+    {
+      "width": 1440,
+      "index": 1,
+      "before": "rect(0px, 181.333px, 272px, 0px)",
+      "after": "rect(0px, 181.333px, 272px, 0px)"
+    },
+    {
+      "width": 1440,
+      "index": 2,
+      "before": "rect(0px, 181.333px, 272px, 0px)",
+      "after": "rect(0px, 181.333px, 272px, 0px)"
+    },
+    {
+      "width": 393,
+      "index": 0,
+      "before": "rect(0px, 176.667px, 265px, 0px)",
+      "after": "rect(0px, 176.667px, 265px, 0px)"
+    },
+    {
+      "width": 393,
+      "index": 1,
+      "before": "rect(0px, 176.667px, 265px, 0px)",
+      "after": "rect(0px, 176.667px, 265px, 0px)"
+    },
+    {
+      "width": 393,
+      "index": 2,
+      "before": "rect(0px, 176.667px, 265px, 0px)",
+      "after": "rect(0px, 176.667px, 265px, 0px)"
+    }
+  ],
+  "continuousMoveSamples": [
+    {
+      "width": 1440,
+      "index": 0,
+      "before": "rect(0px, 231.97px, 272px, 0px)",
+      "after": "rect(0px, 260.667px, 272px, 0px)"
+    },
+    {
+      "width": 1440,
+      "index": 1,
+      "before": "rect(0px, 181.333px, 272px, 0px)",
+      "after": "rect(0px, 211px, 272px, 0px)"
+    },
+    {
+      "width": 1440,
+      "index": 2,
+      "before": "rect(0px, 181.333px, 272px, 0px)",
+      "after": "rect(0px, 210.333px, 272px, 0px)"
+    },
+    {
+      "width": 393,
+      "index": 0,
+      "before": "rect(0px, 253.958px, 265px, 0px)",
+      "after": "rect(0px, 283px, 265px, 0px)"
+    },
+    {
+      "width": 393,
+      "index": 1,
+      "before": "rect(0px, 205.569px, 265px, 0px)",
+      "after": "rect(0px, 235px, 265px, 0px)"
+    },
+    {
+      "width": 393,
+      "index": 2,
+      "before": "rect(0px, 204.92px, 265px, 0px)",
+      "after": "rect(0px, 234px, 265px, 0px)"
+    }
+  ]
+}

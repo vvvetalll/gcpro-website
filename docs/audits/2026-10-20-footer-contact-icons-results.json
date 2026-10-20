@@ -1,0 +1,620 @@
+[
+  {
+    "atEnd": true,
+    "barVisible": true,
+    "clipped": [],
+    "columns": "320px",
+    "contactGap": "8px",
+    "contactHeight": 296.1145935058594,
+    "coverageBorder": "0px",
+    "ctaRepeated": false,
+    "footerBottom": 852.0938110351562,
+    "icons": [
+      {
+        "color": "rgb(240, 90, 41)",
+        "hidden": "true",
+        "w": 20
+      },
+      {
+        "color": "rgb(240, 90, 41)",
+        "hidden": "true",
+        "w": 20
+      },
+      {
+        "color": "rgb(240, 90, 41)",
+        "hidden": "true",
+        "w": 20
+      }
+    ],
+    "links": [
+      {
+        "h": 44,
+        "href": "https://www.facebook.com/GCPRORESTORATION/",
+        "label": "Facebook",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "href": "https://www.linkedin.com/company/gcpro-restoration/",
+        "label": "Linkedin",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "href": "https://www.instagram.com/gcprorestoration/",
+        "label": "Instagram",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "href": "https://www.yelp.com/biz/gcpro-restoration-lombard-2",
+        "label": "Yelp",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "href": "tel:+18476563322",
+        "label": "847-656-3322",
+        "w": 112.44792175292967
+      },
+      {
+        "h": 44,
+        "href": "mailto:restore@gcprochicago.com",
+        "label": "restore@gcprochicago.com",
+        "w": 210.375
+      },
+      {
+        "h": 52.53125,
+        "href": "https://www.google.com/maps/dir/?api=1&destination=220%20Eisenhower%20Lane%20North%2C%20Lombard%2C%20IL%2060148",
+        "label": "Get Directions ↗",
+        "w": 320
+      },
+      {
+        "h": 44,
+        "href": "#top",
+        "label": "↑ Back to top",
+        "w": 90.44792175292967
+      }
+    ],
+    "overflow": 0,
+    "servicesHeight": 387.9583435058594,
+    "social": [
+      {
+        "bg": "rgba(255, 255, 255, 0.08)",
+        "icon": "rgb(255, 255, 255)",
+        "left": 20
+      },
+      {
+        "bg": "rgba(255, 255, 255, 0.08)",
+        "icon": "rgb(255, 255, 255)",
+        "left": 72
+      },
+      {
+        "bg": "rgba(255, 255, 255, 0.08)",
+        "icon": "rgb(255, 255, 255)",
+        "left": 124
+      },
+      {
+        "bg": "rgba(255, 255, 255, 0.08)",
+        "icon": "rgb(255, 255, 255)",
+        "left": 176
+      }
+    ],
+    "width": 360
+  },
+  {
+    "atEnd": true,
+    "barVisible": true,
+    "clipped": [],
+    "columns": "353.333px",
+    "contactGap": "8px",
+    "contactHeight": 296.1145935058594,
+    "coverageBorder": "0px",
+    "ctaRepeated": false,
+    "footerBottom": 852.1771240234375,
+    "icons": [
+      {
+        "color": "rgb(240, 90, 41)",
+        "hidden": "true",
+        "w": 20
+      },
+      {
+        "color": "rgb(240, 90, 41)",
+        "hidden": "true",
+        "w": 20
+      },
+      {
+        "color": "rgb(240, 90, 41)",
+        "hidden": "true",
+        "w": 20
+      }
+    ],
+    "links": [
+      {
+        "h": 44,
+        "href": "https://www.facebook.com/GCPRORESTORATION/",
+        "label": "Facebook",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "href": "https://www.linkedin.com/company/gcpro-restoration/",
+        "label": "Linkedin",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "href": "https://www.instagram.com/gcprorestoration/",
+        "label": "Instagram",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "href": "https://www.yelp.com/biz/gcpro-restoration-lombard-2",
+        "label": "Yelp",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "href": "tel:+18476563322",
+        "label": "847-656-3322",
+        "w": 112.44792175292967
+      },
+      {
+        "h": 44,
+        "href": "mailto:restore@gcprochicago.com",
+        "label": "restore@gcprochicago.com",
+        "w": 210.375
+      },
+      {
+        "h": 52.53125,
+        "href": "https://www.google.com/maps/dir/?api=1&destination=220%20Eisenhower%20Lane%20North%2C%20Lombard%2C%20IL%2060148",
+        "label": "Get Directions ↗",
+        "w": 353.3333435058594
+      },
+      {
+        "h": 44,
+        "href": "#top",
+        "label": "↑ Back to top",
+        "w": 90.44792175292967
+      }
+    ],
+    "overflow": 0,
+    "servicesHeight": 387.9583435058594,
+    "social": [
+      {
+        "bg": "rgba(255, 255, 255, 0.08)",
+        "icon": "rgb(255, 255, 255)",
+        "left": 20
+      },
+      {
+        "bg": "rgba(255, 255, 255, 0.08)",
+        "icon": "rgb(255, 255, 255)",
+        "left": 72
+      },
+      {
+        "bg": "rgba(255, 255, 255, 0.08)",
+        "icon": "rgb(255, 255, 255)",
+        "left": 124
+      },
+      {
+        "bg": "rgba(255, 255, 255, 0.08)",
+        "icon": "rgb(255, 255, 255)",
+        "left": 176
+      }
+    ],
+    "width": 393
+  },
+  {
+    "atEnd": true,
+    "barVisible": true,
+    "clipped": [],
+    "columns": "390px",
+    "contactGap": "8px",
+    "contactHeight": 296.1145935058594,
+    "coverageBorder": "0px",
+    "ctaRepeated": false,
+    "footerBottom": 851.9583129882812,
+    "icons": [
+      {
+        "color": "rgb(240, 90, 41)",
+        "hidden": "true",
+        "w": 20
+      },
+      {
+        "color": "rgb(240, 90, 41)",
+        "hidden": "true",
+        "w": 20
+      },
+      {
+        "color": "rgb(240, 90, 41)",
+        "hidden": "true",
+        "w": 20
+      }
+    ],
+    "links": [
+      {
+        "h": 44,
+        "href": "https://www.facebook.com/GCPRORESTORATION/",
+        "label": "Facebook",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "href": "https://www.linkedin.com/company/gcpro-restoration/",
+        "label": "Linkedin",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "href": "https://www.instagram.com/gcprorestoration/",
+        "label": "Instagram",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "href": "https://www.yelp.com/biz/gcpro-restoration-lombard-2",
+        "label": "Yelp",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "href": "tel:+18476563322",
+        "label": "847-656-3322",
+        "w": 112.44792175292967
+      },
+      {
+        "h": 44,
+        "href": "mailto:restore@gcprochicago.com",
+        "label": "restore@gcprochicago.com",
+        "w": 210.375
+      },
+      {
+        "h": 52.53125,
+        "href": "https://www.google.com/maps/dir/?api=1&destination=220%20Eisenhower%20Lane%20North%2C%20Lombard%2C%20IL%2060148",
+        "label": "Get Directions ↗",
+        "w": 390
+      },
+      {
+        "h": 44,
+        "href": "#top",
+        "label": "↑ Back to top",
+        "w": 90.44792175292967
+      }
+    ],
+    "overflow": 0,
+    "servicesHeight": 387.9583435058594,
+    "social": [
+      {
+        "bg": "rgba(255, 255, 255, 0.08)",
+        "icon": "rgb(255, 255, 255)",
+        "left": 20
+      },
+      {
+        "bg": "rgba(255, 255, 255, 0.08)",
+        "icon": "rgb(255, 255, 255)",
+        "left": 72
+      },
+      {
+        "bg": "rgba(255, 255, 255, 0.08)",
+        "icon": "rgb(255, 255, 255)",
+        "left": 124
+      },
+      {
+        "bg": "rgba(255, 255, 255, 0.08)",
+        "icon": "rgb(255, 255, 255)",
+        "left": 176
+      }
+    ],
+    "width": 430
+  },
+  {
+    "atEnd": true,
+    "barVisible": false,
+    "clipped": [],
+    "columns": "328.333px 328.333px",
+    "contactGap": "8px",
+    "contactHeight": 296.1145935058594,
+    "coverageBorder": "0px",
+    "ctaRepeated": false,
+    "footerBottom": 1000.1458358764648,
+    "icons": [
+      {
+        "color": "rgb(240, 90, 41)",
+        "hidden": "true",
+        "w": 20
+      },
+      {
+        "color": "rgb(240, 90, 41)",
+        "hidden": "true",
+        "w": 20
+      },
+      {
+        "color": "rgb(240, 90, 41)",
+        "hidden": "true",
+        "w": 20
+      }
+    ],
+    "links": [
+      {
+        "h": 44,
+        "href": "https://www.facebook.com/GCPRORESTORATION/",
+        "label": "Facebook",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "href": "https://www.linkedin.com/company/gcpro-restoration/",
+        "label": "Linkedin",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "href": "https://www.instagram.com/gcprorestoration/",
+        "label": "Instagram",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "href": "https://www.yelp.com/biz/gcpro-restoration-lombard-2",
+        "label": "Yelp",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "href": "tel:+18476563322",
+        "label": "847-656-3322",
+        "w": 112.44792175292967
+      },
+      {
+        "h": 44,
+        "href": "mailto:restore@gcprochicago.com",
+        "label": "restore@gcprochicago.com",
+        "w": 210.375
+      },
+      {
+        "h": 52.53125,
+        "href": "https://www.google.com/maps/dir/?api=1&destination=220%20Eisenhower%20Lane%20North%2C%20Lombard%2C%20IL%2060148",
+        "label": "Get Directions ↗",
+        "w": 688.6666870117188
+      },
+      {
+        "h": 44,
+        "href": "#top",
+        "label": "↑ Back to top",
+        "w": 90.44792175292967
+      }
+    ],
+    "overflow": -15,
+    "servicesHeight": 291.9583435058594,
+    "social": [
+      {
+        "bg": "rgba(255, 255, 255, 0.08)",
+        "icon": "rgb(255, 255, 255)",
+        "left": 32
+      },
+      {
+        "bg": "rgba(255, 255, 255, 0.08)",
+        "icon": "rgb(255, 255, 255)",
+        "left": 84
+      },
+      {
+        "bg": "rgba(255, 255, 255, 0.08)",
+        "icon": "rgb(255, 255, 255)",
+        "left": 136
+      },
+      {
+        "bg": "rgba(255, 255, 255, 0.08)",
+        "icon": "rgb(255, 255, 255)",
+        "left": 188
+      }
+    ],
+    "width": 768
+  },
+  {
+    "atEnd": true,
+    "barVisible": false,
+    "clipped": [],
+    "columns": "456.333px 456.333px",
+    "contactGap": "8px",
+    "contactHeight": 296.1145935058594,
+    "coverageBorder": "0px",
+    "ctaRepeated": false,
+    "footerBottom": 999.6666717529296,
+    "icons": [
+      {
+        "color": "rgb(240, 90, 41)",
+        "hidden": "true",
+        "w": 20
+      },
+      {
+        "color": "rgb(240, 90, 41)",
+        "hidden": "true",
+        "w": 20
+      },
+      {
+        "color": "rgb(240, 90, 41)",
+        "hidden": "true",
+        "w": 20
+      }
+    ],
+    "links": [
+      {
+        "h": 44,
+        "href": "https://www.facebook.com/GCPRORESTORATION/",
+        "label": "Facebook",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "href": "https://www.linkedin.com/company/gcpro-restoration/",
+        "label": "Linkedin",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "href": "https://www.instagram.com/gcprorestoration/",
+        "label": "Instagram",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "href": "https://www.yelp.com/biz/gcpro-restoration-lombard-2",
+        "label": "Yelp",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "href": "tel:+18476563322",
+        "label": "847-656-3322",
+        "w": 112.44792175292967
+      },
+      {
+        "h": 44,
+        "href": "mailto:restore@gcprochicago.com",
+        "label": "restore@gcprochicago.com",
+        "w": 210.375
+      },
+      {
+        "h": 52.53125,
+        "href": "https://www.google.com/maps/dir/?api=1&destination=220%20Eisenhower%20Lane%20North%2C%20Lombard%2C%20IL%2060148",
+        "label": "Get Directions ↗",
+        "w": 944.6666870117188
+      },
+      {
+        "h": 44,
+        "href": "#top",
+        "label": "↑ Back to top",
+        "w": 90.44792175292967
+      }
+    ],
+    "overflow": -15,
+    "servicesHeight": 291.9583435058594,
+    "social": [
+      {
+        "bg": "rgba(255, 255, 255, 0.08)",
+        "icon": "rgb(255, 255, 255)",
+        "left": 32
+      },
+      {
+        "bg": "rgba(255, 255, 255, 0.08)",
+        "icon": "rgb(255, 255, 255)",
+        "left": 84
+      },
+      {
+        "bg": "rgba(255, 255, 255, 0.08)",
+        "icon": "rgb(255, 255, 255)",
+        "left": 136
+      },
+      {
+        "bg": "rgba(255, 255, 255, 0.08)",
+        "icon": "rgb(255, 255, 255)",
+        "left": 188
+      }
+    ],
+    "width": 1024
+  },
+  {
+    "atEnd": true,
+    "barVisible": false,
+    "clipped": [],
+    "columns": "325px 357.5px 357.5px",
+    "contactGap": "8px",
+    "contactHeight": 296.1145935058594,
+    "coverageBorder": "0px",
+    "ctaRepeated": false,
+    "footerBottom": 1000.3125,
+    "icons": [
+      {
+        "color": "rgb(240, 90, 41)",
+        "hidden": "true",
+        "w": 20
+      },
+      {
+        "color": "rgb(240, 90, 41)",
+        "hidden": "true",
+        "w": 20
+      },
+      {
+        "color": "rgb(240, 90, 41)",
+        "hidden": "true",
+        "w": 20
+      }
+    ],
+    "links": [
+      {
+        "h": 44,
+        "href": "https://www.facebook.com/GCPRORESTORATION/",
+        "label": "Facebook",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "href": "https://www.linkedin.com/company/gcpro-restoration/",
+        "label": "Linkedin",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "href": "https://www.instagram.com/gcprorestoration/",
+        "label": "Instagram",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "href": "https://www.yelp.com/biz/gcpro-restoration-lombard-2",
+        "label": "Yelp",
+        "w": 44
+      },
+      {
+        "h": 44,
+        "href": "tel:+18476563322",
+        "label": "847-656-3322",
+        "w": 112.44792175292967
+      },
+      {
+        "h": 44,
+        "href": "mailto:restore@gcprochicago.com",
+        "label": "restore@gcprochicago.com",
+        "w": 210.375
+      },
+      {
+        "h": 52.53125,
+        "href": "https://www.google.com/maps/dir/?api=1&destination=220%20Eisenhower%20Lane%20North%2C%20Lombard%2C%20IL%2060148",
+        "label": "Get Directions ↗",
+        "w": 357.5
+      },
+      {
+        "h": 44,
+        "href": "#top",
+        "label": "↑ Back to top",
+        "w": 90.44792175292967
+      }
+    ],
+    "overflow": -15,
+    "servicesHeight": 296.1145935058594,
+    "social": [
+      {
+        "bg": "rgba(255, 255, 255, 0.08)",
+        "icon": "rgb(255, 255, 255)",
+        "left": 144.33334350585938
+      },
+      {
+        "bg": "rgba(255, 255, 255, 0.08)",
+        "icon": "rgb(255, 255, 255)",
+        "left": 196.33334350585935
+      },
+      {
+        "bg": "rgba(255, 255, 255, 0.08)",
+        "icon": "rgb(255, 255, 255)",
+        "left": 248.33334350585935
+      },
+      {
+        "bg": "rgba(255, 255, 255, 0.08)",
+        "icon": "rgb(255, 255, 255)",
+        "left": 300.3333435058594
+      }
+    ],
+    "width": 1440
+  }
+]

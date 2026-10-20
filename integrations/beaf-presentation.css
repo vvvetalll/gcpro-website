@@ -1,0 +1,9 @@
+/* GCPRO BEAF presentation: shared across inline and body-mounted popup instances. */
+.bafg-twentytwenty-container .twentytwenty-overlay :is(.twentytwenty-before-label,.twentytwenty-after-label){opacity:1;}
+.bafg-twentytwenty-container .twentytwenty-overlay :is(.twentytwenty-before-label,.twentytwenty-after-label)::before{top:10px;margin-top:0;font-family:var(--font-body,Inter),sans-serif;font-size:10px;letter-spacing:.08em;line-height:16px;padding:2px 5px;color:var(--color-white,#fff);background:rgba(0,0,0,.6);border-radius:2px;text-shadow:none;}
+.bafg_popup_preview .bafg-twentytwenty-container .twentytwenty-after-label::before{right:56px;}
+.bafg-twentytwenty-container button.popup_button{box-sizing:border-box;width:36px;height:36px;padding:9px;margin:0;border:1px solid rgba(255,255,255,.4);border-radius:4px;background:rgba(0,0,0,.52);color:var(--color-white,#fff);display:inline-flex;align-items:center;justify-content:center;line-height:1;cursor:pointer;box-shadow:none;}
+.bafg-twentytwenty-container button.popup_button svg{width:16px;height:16px;fill:currentColor;pointer-events:none;}
+.bafg-twentytwenty-container button.popup_button:is(:hover,:focus-visible){border-color:var(--color-accent,#F05A29);}
+.bafg-twentytwenty-container button.popup_button:focus-visible{outline:3px solid var(--color-accent,#F05A29)!important;outline-offset:3px;}
+@media(max-width:767px),(pointer:coarse){.bafg-twentytwenty-container button.popup_button{width:44px;height:44px;padding:13px;}}

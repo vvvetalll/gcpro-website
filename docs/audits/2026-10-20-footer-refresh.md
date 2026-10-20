@@ -95,4 +95,3 @@ Removed body padding and its max-safe-area fallback. Existing barHeight+24 reser
 Private scoped pre-change114/903 and pre-refinement114 snapshots are stored under this task's work directory, excluded from Git. They are configuration snapshots, not a rehearsed full database/files restore.
 
 For903 clearance alone, restore parent-commit CSS to the single existing903 entry, preserving conditions/location/priority; this restores the old tail. For footer rollback use native114 revision/validated scoped recovery or reconstruct the prior brand/nav/contact/bottom tree; keep robylo-primary and include/general. Do not copy generated IDs into newly built nodes. Remove the two new classes only after checking later consumers; preserve shared53/103/286/895 and all BEAF integration. For title rollback154 Hide Title=No would restore the unwanted working title. Purge staging cache and recheck responsive/menu/focus/end-of-page behavior after recovery.
-

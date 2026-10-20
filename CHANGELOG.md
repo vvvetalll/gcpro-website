@@ -1,5 +1,12 @@
 # GCPRO changelog
 
+## 2026-10-20 — Compact footer and restrained BEAF presentation — E65–E66
+
+Native brand block7ac91d92 uses24px space-md gaps at all breakpoints.
+
+- Global Footer114 now has compact direct icon/value contact rows with8px native parent gap, equal-height services/contact columns on desktop, and one native Social Icons widget734b137 under the brand intro. Removed repeated emergency strip671c4f66, six unnecessary contact label/wrapper nodes, and the coverage top divider. Existing5a520a4e becomes ↑ Back to top (#top). Coverage list/copyright/top link use existing color-border #CBD5E1; headings remain white. Native responsive grid1fr/1.1fr/1.1fr desktop, two columns/tablet contact span, one column/mobile. New native icon class g-c2210fa plus SVG935/936/937;112 Classes/36 Variables/36 saved footer nodes. One added footer-root social focus rule; no new Component/JS/plugin. Exact owners, sources, links, verification and rollback: [E65 audit](docs/audits/2026-10-20-footer-contact-icons.md).
+- Explicit subsequent owner scope authorizes shared BEAF presentation only: Kit6 global Custom CSS fixes white-on-white vendor label configuration, reuses font/white/accent tokens and smaller translucent controls. Source mirror integrations/beaf-presentation.css is not deployed twice. One necessary focus !important overrides vendor suppression. No plugin files/records/shortcodes/images/JS changed; production untouched. [E66 audit](docs/audits/2026-10-20-beaf-presentation.md).
+
 ## 2026-10-20 — Global footer hierarchy, local relevance and clearance — E64
 
 - Refined existing Footer114 into quiet CTA, aligned responsive columns, separated service/contact rows, coverage and copyright. Removed its nested V3 menu instance; original WordPress menu/Header intact. Existing103/286 reused; quiet native telephone link replaces interim filled53 instance.

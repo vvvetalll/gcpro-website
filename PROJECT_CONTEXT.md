@@ -1,5 +1,15 @@
 # GCPRO project context
 
+## Footer refinement and shared BEAF presentation — 2026-10-20, E65–E66
+
+Native brand block7ac91d92 uses24px space-md gaps at all breakpoints.
+
+Global Footer114 now has compact direct icon/value contact rows with8px native parent gap, equal-height services/contact columns on desktop, and one native Social Icons widget734b137 under the brand intro. Removed repeated emergency strip671c4f66, six unnecessary contact label/wrapper nodes, and the coverage top divider. Existing5a520a4e becomes ↑ Back to top (#top). Coverage list/copyright/top link use existing color-border #CBD5E1; headings remain white. Native responsive grid1fr/1.1fr/1.1fr desktop, two columns/tablet contact span, one column/mobile. New native icon class g-c2210fa plus SVG935/936/937;112 Classes/36 Variables/36 saved footer nodes. One added footer-root social focus rule; no new Component/JS/plugin. Exact owners, sources, links, verification and rollback: [E65 audit](docs/audits/2026-10-20-footer-contact-icons.md).
+
+Separately authorized E66 corrects white-on-white BEAF labels through existing Kit6 Site Settings Custom CSS, with smaller translucent labels and restrained expand buttons. No page/grid/slider IDs in this new shared stylesheet, no plugin-file/shortcode/image/JS changes. Phase1 BEAF exclusion remains; this is a later explicit presentation-only request. [E66 evidence and recovery](docs/audits/2026-10-20-beaf-presentation.md).
+
+Six-width Chrome emulation and actual Tab/hover/Back to top, all three slider drags and fullscreen opens/closes checked. Physical-device/independent incognito/cache-HIT/full-restore limits remain.
+
 ## Global footer, Chicago relevance and bottom clearance — 2026-10-20, E64
 
 Existing global Footer114 now has a quiet contact CTA, aligned brand/services/contact columns, separated service/contact rows, local coverage and grouped copyright/Home. Footer CTA complements the unchanged larger Homepage CTA. Two necessary reusable classes gcpro-footer-link g-373d928 and gcpro-footer-item g-aca1669;111 Classes/36 Variables, no new Component/plugin/JS. Existing103/286 reused, shared definitions untouched. Chicago/Chicagoland wording added naturally; verified contact/address/destinations preserved. [Exact34-node tree, native/CSS owners, links, tests and rollback](docs/audits/2026-10-20-footer-refresh.md); [broader content opportunities only](docs/audits/2026-10-20-local-content-opportunities.md).
@@ -496,6 +506,7 @@ Use these labels throughout the documentation. Observed facts are limited to the
 
 | Ref | Source and date | What it establishes / limits |
 | --- | --- | --- |
+| E65–E66 | Published114/Kit6/native editor/media reads, six-width Chrome, Tab/hover/top link, BEAF continuous drag and fullscreen tests,2026-10-20; [footer](docs/audits/2026-10-20-footer-contact-icons.md), [BEAF](docs/audits/2026-10-20-beaf-presentation.md) | Compact36-node global footer, muted bottom text, social links; shared comparison presentation. Physical devices/independent incognito/cache-HIT/full restore not certified. |
 | E64 | Published114/class readback, native903 source equality,154 Hide Title UI and Chrome360/393/430/768/1024/1440 layout/state checks,2026-10-20; [audit](docs/audits/2026-10-20-footer-refresh.md) | Global footer hierarchy/separated rows/local relevance, accessible orange state accents, Maps, white-tail/title fixes. Physical devices, independent incognito/cache-HIT and full restore remain unverified. |
 | E63 | Native component895 publish/readback, class-resource reload and authenticated360/393/430/768/1440 browser tests,2026-10-20; [audit](docs/audits/2026-10-20-mobile-cta-orange-247.md) | Reused orange53/brand286, compact fit/44px button, preserved overrides/phone, focus/hover/menu. No physical-device/anonymous/full visual-editor certification. |
 | E62 | Native903 source reload, authenticated Chrome Process sweep and Header frame traces,2026-10-20; [audit](docs/audits/2026-10-20-process-cta-transition.md) | Phone-suppression root cause, continuous post-Hero panel at Process transitions, monotonic first Header exit at five widths, menu and reduced-motion checks. No physical-device/anonymous certification. |

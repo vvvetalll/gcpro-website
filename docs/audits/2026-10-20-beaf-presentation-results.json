@@ -1,0 +1,470 @@
+[
+  {
+    "instances": [
+      {
+        "button": {
+          "bg": "rgba(0, 0, 0, 0.52)",
+          "glyph": "16px",
+          "h": 44,
+          "w": 44
+        },
+        "labels": [
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"BEFORE\""
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"AFTER\""
+          }
+        ]
+      },
+      {
+        "button": {
+          "bg": "rgba(0, 0, 0, 0.52)",
+          "glyph": "16px",
+          "h": 44,
+          "w": 44
+        },
+        "labels": [
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"BEFORE\""
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"AFTER\""
+          }
+        ]
+      },
+      {
+        "button": {
+          "bg": "rgba(0, 0, 0, 0.52)",
+          "glyph": "16px",
+          "h": 44,
+          "w": 44
+        },
+        "labels": [
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"BEFORE\""
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"AFTER\""
+          }
+        ]
+      }
+    ],
+    "overflow": 0,
+    "width": 360
+  },
+  {
+    "instances": [
+      {
+        "button": {
+          "bg": "rgba(0, 0, 0, 0.52)",
+          "glyph": "16px",
+          "h": 44,
+          "w": 44
+        },
+        "labels": [
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"BEFORE\""
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"AFTER\""
+          }
+        ]
+      },
+      {
+        "button": {
+          "bg": "rgba(0, 0, 0, 0.52)",
+          "glyph": "16px",
+          "h": 44,
+          "w": 44
+        },
+        "labels": [
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"BEFORE\""
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"AFTER\""
+          }
+        ]
+      },
+      {
+        "button": {
+          "bg": "rgba(0, 0, 0, 0.52)",
+          "glyph": "16px",
+          "h": 44,
+          "w": 44
+        },
+        "labels": [
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"BEFORE\""
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"AFTER\""
+          }
+        ]
+      }
+    ],
+    "overflow": 0,
+    "width": 393
+  },
+  {
+    "instances": [
+      {
+        "button": {
+          "bg": "rgba(0, 0, 0, 0.52)",
+          "glyph": "16px",
+          "h": 44,
+          "w": 44
+        },
+        "labels": [
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"BEFORE\""
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"AFTER\""
+          }
+        ]
+      },
+      {
+        "button": {
+          "bg": "rgba(0, 0, 0, 0.52)",
+          "glyph": "16px",
+          "h": 44,
+          "w": 44
+        },
+        "labels": [
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"BEFORE\""
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"AFTER\""
+          }
+        ]
+      },
+      {
+        "button": {
+          "bg": "rgba(0, 0, 0, 0.52)",
+          "glyph": "16px",
+          "h": 44,
+          "w": 44
+        },
+        "labels": [
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"BEFORE\""
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"AFTER\""
+          }
+        ]
+      }
+    ],
+    "overflow": 0,
+    "width": 430
+  },
+  {
+    "instances": [
+      {
+        "button": {
+          "bg": "rgba(0, 0, 0, 0.52)",
+          "glyph": "16px",
+          "h": 36,
+          "w": 36
+        },
+        "labels": [
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"BEFORE\""
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"AFTER\""
+          }
+        ]
+      },
+      {
+        "button": {
+          "bg": "rgba(0, 0, 0, 0.52)",
+          "glyph": "16px",
+          "h": 36,
+          "w": 36
+        },
+        "labels": [
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"BEFORE\""
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"AFTER\""
+          }
+        ]
+      },
+      {
+        "button": {
+          "bg": "rgba(0, 0, 0, 0.52)",
+          "glyph": "16px",
+          "h": 36,
+          "w": 36
+        },
+        "labels": [
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"BEFORE\""
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"AFTER\""
+          }
+        ]
+      }
+    ],
+    "overflow": 0,
+    "width": 768
+  },
+  {
+    "instances": [
+      {
+        "button": {
+          "bg": "rgba(0, 0, 0, 0.52)",
+          "glyph": "16px",
+          "h": 36,
+          "w": 36
+        },
+        "labels": [
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"BEFORE\""
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"AFTER\""
+          }
+        ]
+      },
+      {
+        "button": {
+          "bg": "rgba(0, 0, 0, 0.52)",
+          "glyph": "16px",
+          "h": 36,
+          "w": 36
+        },
+        "labels": [
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"BEFORE\""
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"AFTER\""
+          }
+        ]
+      },
+      {
+        "button": {
+          "bg": "rgba(0, 0, 0, 0.52)",
+          "glyph": "16px",
+          "h": 36,
+          "w": 36
+        },
+        "labels": [
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"BEFORE\""
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"AFTER\""
+          }
+        ]
+      }
+    ],
+    "overflow": 0,
+    "width": 1024
+  },
+  {
+    "instances": [
+      {
+        "button": {
+          "bg": "rgba(0, 0, 0, 0.52)",
+          "glyph": "16px",
+          "h": 36,
+          "w": 36
+        },
+        "labels": [
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"BEFORE\""
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"AFTER\""
+          }
+        ]
+      },
+      {
+        "button": {
+          "bg": "rgba(0, 0, 0, 0.52)",
+          "glyph": "16px",
+          "h": 36,
+          "w": 36
+        },
+        "labels": [
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"BEFORE\""
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"AFTER\""
+          }
+        ]
+      },
+      {
+        "button": {
+          "bg": "rgba(0, 0, 0, 0.52)",
+          "glyph": "16px",
+          "h": 36,
+          "w": 36
+        },
+        "labels": [
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"BEFORE\""
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0.6)",
+            "color": "rgb(255, 255, 255)",
+            "opacity": "1",
+            "size": "10px",
+            "text": "\"AFTER\""
+          }
+        ]
+      }
+    ],
+    "overflow": 0,
+    "width": 1440
+  }
+]

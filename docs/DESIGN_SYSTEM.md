@@ -1,5 +1,13 @@
 # GCPRO design system
 
+## Compact footer and restrained comparison controls — E65–E66
+
+Native brand block7ac91d92 uses24px space-md gaps at all breakpoints.
+
+Global Footer114 now has compact direct icon/value contact rows with8px native parent gap, equal-height services/contact columns on desktop, and one native Social Icons widget734b137 under the brand intro. Removed repeated emergency strip671c4f66, six unnecessary contact label/wrapper nodes, and the coverage top divider. Existing5a520a4e becomes ↑ Back to top (#top). Coverage list/copyright/top link use existing color-border #CBD5E1; headings remain white. Native responsive grid1fr/1.1fr/1.1fr desktop, two columns/tablet contact span, one column/mobile. New native icon class g-c2210fa plus SVG935/936/937;112 Classes/36 Variables/36 saved footer nodes. One added footer-root social focus rule; no new Component/JS/plugin. Exact owners, sources, links, verification and rollback: [E65 audit](audits/2026-10-20-footer-contact-icons.md).
+
+New gcpro-footer-contact-icon g-c2210fa owns native20px/accent/no-shrink styling; Custom CSS=null. Existing icon-svg has different shared size/color consumers, so this avoids three independent copies. Existing footer-item gains native16px gap/center alignment for Flexbox rows. Three matching decorative SVGs935/936/937 use currentColor and no IDs. Native Social Icons20px glyphs/44px targets/8px spacing, white on white8% background, orange hover. Footer root supplies orange keyboard focus. Muted footer #CBD5E1 is existing color-border token; darker text-muted is unsuitable on navy. BEAF presentation lives only in Kit6 global Custom CSS; see [E66](audits/2026-10-20-beaf-presentation.md). No new Variables/Components/plugins/libraries.
+
 ## Footer hierarchy and separated rows — E64, 2026-10-20
 
 Added **gcpro-footer-link / g-373d928**: native quiet white44px footer actions/body typography/underline hover, replacing repeated local action styles; no class Custom CSS. Added **gcpro-footer-item / g-aca1669**: shared8px row padding and white16% bottom divider across six service rows and two contacts; only border style/color remain converter CSS. Row modifier precedes link class in priority.111 classes/36 existing Variables; no new Components/dependencies.

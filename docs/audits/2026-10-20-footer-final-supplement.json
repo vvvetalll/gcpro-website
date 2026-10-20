@@ -1,0 +1,126 @@
+{
+  "responsive": [
+    {
+      "barVisible": true,
+      "brandGap": "24px",
+      "contactHeight": 296.1145935058594,
+      "footerBottom": 852.0938110351562,
+      "muted": [
+        "rgb(203, 213, 225)",
+        "rgb(203, 213, 225)",
+        "rgb(203, 213, 225)",
+        "rgb(203, 213, 225)"
+      ],
+      "overflow": 0,
+      "servicesHeight": 387.9583435058594,
+      "width": 360
+    },
+    {
+      "barVisible": true,
+      "brandGap": "24px",
+      "contactHeight": 296.1145935058594,
+      "footerBottom": 852.1771240234375,
+      "muted": [
+        "rgb(203, 213, 225)",
+        "rgb(203, 213, 225)",
+        "rgb(203, 213, 225)",
+        "rgb(203, 213, 225)"
+      ],
+      "overflow": 0,
+      "servicesHeight": 387.9583435058594,
+      "width": 393
+    },
+    {
+      "barVisible": true,
+      "brandGap": "24px",
+      "contactHeight": 296.1145935058594,
+      "footerBottom": 851.9583129882812,
+      "muted": [
+        "rgb(203, 213, 225)",
+        "rgb(203, 213, 225)",
+        "rgb(203, 213, 225)",
+        "rgb(203, 213, 225)"
+      ],
+      "overflow": 0,
+      "servicesHeight": 387.9583435058594,
+      "width": 430
+    },
+    {
+      "barVisible": false,
+      "brandGap": "24px",
+      "contactHeight": 296.1145935058594,
+      "footerBottom": 1000.1458358764648,
+      "muted": [
+        "rgb(203, 213, 225)",
+        "rgb(203, 213, 225)",
+        "rgb(203, 213, 225)",
+        "rgb(203, 213, 225)"
+      ],
+      "overflow": 0,
+      "servicesHeight": 291.9583435058594,
+      "width": 768
+    },
+    {
+      "barVisible": false,
+      "brandGap": "24px",
+      "contactHeight": 296.1145935058594,
+      "footerBottom": 999.6666717529296,
+      "muted": [
+        "rgb(203, 213, 225)",
+        "rgb(203, 213, 225)",
+        "rgb(203, 213, 225)",
+        "rgb(203, 213, 225)"
+      ],
+      "overflow": 0,
+      "servicesHeight": 291.9583435058594,
+      "width": 1024
+    },
+    {
+      "barVisible": false,
+      "brandGap": "24px",
+      "contactHeight": 296.1145935058594,
+      "footerBottom": 1000.3125,
+      "muted": [
+        "rgb(203, 213, 225)",
+        "rgb(203, 213, 225)",
+        "rgb(203, 213, 225)",
+        "rgb(203, 213, 225)"
+      ],
+      "overflow": 0,
+      "servicesHeight": 296.1145935058594,
+      "width": 1440
+    }
+  ],
+  "backToTop": {
+    "clicked": true,
+    "scrollY": 0,
+    "hash": "#top"
+  },
+  "kitReload": {
+    "sourceEqualsMirror": true
+  },
+  "settledPopupReadbacks": [
+    {
+      "slider": 723,
+      "barHidden": true
+    },
+    {
+      "slider": 742,
+      "barHidden": true
+    },
+    {
+      "slider": 767,
+      "barHidden": true
+    }
+  ],
+  "limitations": "Separate settled popup observations follow immediate/300ms samples; no timing guarantee. Desktop Chrome emulation, not physical devices.",
+  "hoverSocial": {
+    "fill": "rgb(240, 90, 41)",
+    "hover": true,
+    "iconColor": "rgb(239, 246, 255)"
+  },
+  "reducedMotionHeader": {
+    "verified": true,
+    "transition": "0s"
+  }
+}
