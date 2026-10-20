@@ -1,5 +1,11 @@
 # GCPRO changelog
 
+## 2026-10-20 — Keep CTA through Process entry and smooth first Header exit — E62
+
+- Reproduced Call Now hidden at y2900–3200 while How We Work entered and the preceding Emergency Support telephone button was still visible. Removed implicit telephone-button suppression from existing903; menu/form/modal/explicit policy rules remain. E61's center-only Process sample missed this interval.
+- First downward Header entry now hides immediately, seeded from its measured flow position to account for fast gesture overshoot; one transient inline transform/transition setup and style flush, immediately cleared. Existing200ms CSS transition/reduced motion and subsequent40px down/24px up tolerances retained.
+- CTA sweeps12 down/7 up positions per360/393/430/768/1440 pass; slow393/fast five-width frame traces show no downward bounce. Menu suppression/return, direction tolerance and reduced motion checked. Native903 readback exact, global/body-end5 preserved and staging purge invoked. No new resources/dependencies or Atomic/BEAF/production edits. [Evidence and rollback](docs/audits/2026-10-20-process-cta-transition.md).
+
 ## 2026-10-20 — Contain section layers and retain footer Call Now — E61
 
 - Homepage154 native styles only: Core intro6cb38139 mobile z-index9999→1; Core section3fd180bb and How We Work4681b8f5 get local z0. Needed internal ordering remains; section layers cannot outrank global navigation/CTA. Native offsets, padding, backgrounds, timeline numbers/effects and BEAF unchanged.190-node comparison identifies exactly these three owners.

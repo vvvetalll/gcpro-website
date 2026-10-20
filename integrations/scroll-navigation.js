@@ -12,8 +12,6 @@
   const intros = [...document.querySelectorAll('.gcpro-sticky-intro')];
   const introTops = new Map();
   const chat = document.querySelector('.sg-ai-floating-chat');
-  const phone = bar.querySelector('a[href^="tel:"]')?.getAttribute('href');
-  const calls = [...document.querySelectorAll('main a[href^="tel:"]')].filter(a => !bar.contains(a) && a.getAttribute('href') === phone);
   let tasks = [...document.querySelectorAll('main form, main .gcpro-cta-suppress')];
   const overlaySelector = 'dialog[open], [aria-modal="true"], .bafg_popup_preview, .gcpro-cta-overlay';
   let overlays = [];
@@ -52,10 +50,21 @@
     const adminTop = admin ? Math.max(0, admin.getBoundingClientRect().bottom) : 0;
     // Switch where normal flow and the fixed shell have the same top edge.
     const floating = host.getBoundingClientRect().top <= adminTop - utilityHeight;
+    const entering = floating && !header.classList.contains('is-floating');
     if (!floating || focusedHeader || menuOpen) { hidden = false; distance = 0; }
-    else if (distance > 40) hidden = true;
+    else if ((entering && delta > 0) || distance > 40) hidden = true;
     else if (distance < -24) hidden = false;
     set(root, '--gcpro-admin-top', `${adminTop}px`);
+    if (entering && hidden) {
+      // Start the first exit at its actual flow position, including scroll overshoot.
+      const offset = Math.max(-headerHeight - adminTop, Math.min(0, header.getBoundingClientRect().top - adminTop + utilityHeight));
+      header.style.transition = 'none';
+      header.style.transform = `translateY(${offset}px)`;
+      header.classList.add('is-floating');
+      header.getBoundingClientRect();
+      header.style.removeProperty('transition');
+      header.style.removeProperty('transform');
+    }
     header.classList.toggle('is-floating', floating);
     header.classList.toggle('is-hidden', floating && hidden);
     const clearance = floating && !hidden ? headerHeight - (focusedUtility ? 0 : utilityHeight) + adminTop : adminTop;
@@ -73,17 +82,12 @@
     set(root, '--gcpro-cta-right', chatVisible && !chatOpen ? `${innerWidth - chatPanel.getBoundingClientRect().left + 8}px` : '8px');
     const blocked = menuOpen || chatOpen || overlays.some(visible) || editing || height < 480 || (viewport && (viewport.scale > 1.05 || innerHeight - height > 150));
     const passed = origin ? origin.getBoundingClientRect().bottom < clearance - 8 : floating;
-    const competing = calls.some(a => {
-      if (!visible(a)) return false;
-      const r = a.getBoundingClientRect();
-      return r.top >= clearance && r.bottom <= height - barHeight - 24;
-    });
     const taskVisible = tasks.some(el => {
       if (!visible(el)) return false;
       const r = el.getBoundingClientRect();
       return r.top < height - 24 && r.bottom > clearance;
     });
-    let show = innerWidth < 768 && passed && !blocked && !competing && !taskVisible && !document.querySelector('.gcpro-cta-off');
+    let show = innerWidth < 768 && passed && !blocked && !taskVisible && !document.querySelector('.gcpro-cta-off');
     if (bar.contains(document.activeElement) && !menuOpen && !chatOpen && !overlays.some(visible)) show = true;
     bar.classList.toggle('is-visible', show);
     bar.inert = !show;

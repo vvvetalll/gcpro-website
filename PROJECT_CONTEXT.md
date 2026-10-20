@@ -1,5 +1,11 @@
 # GCPRO project context
 
+## Process transition CTA and first Header exit — 2026-10-20, E62
+
+E61's Process center check missed the entry interval: Emergency Restoration Support's call button remained visible while How We Work entered, so the implicit competing-phone rule hid Call Now. Removed that rule entirely from903; ordinary telephone buttons no longer suppress the panel after Hero. Menus/forms/overlays, existing explicit suppression hooks and responsive guards remain. [Exact behavior, storage, regression tests and rollback](docs/audits/2026-10-20-process-cta-transition.md).
+
+Also corrected initial Header exit: no40px pinning pause on first downward fixed entry; the existing200ms transition starts from the actual flow position including gesture overshoot. A one-time style flush seeds that transition; temporary inline transform/transition are immediately cleared. Subsequent floating direction tolerance remains40px down/24px up. Fast-wheel frame traces are monotonic at360/393/430/768/1440, slow entry checked393; CTA sweeps across Process entry/inside/exit in both directions pass, mobile panel remains visible and tablet/desktop hidden. Saved903 source equals mirror, Entire site/body-end5 retained, staging purge invoked. No Atomic/BEAF/production edits or new classes/components/dependencies/listeners; physical-device and guest/cache-HIT limits remain.
+
 ## Section stacking and footer CTA correction — 2026-10-20, E61
 
 On staging154, replaced accidental mobile intro z9999 with local z1; Core section3fd180bb and How We Work4681b8f5 now have native local z0, containing their internal layers. Core sticky offsets/padding/background and timeline582/590/theme effects are unchanged. How We Work had no9999 or sticky positioning: its numbers use necessary z1; no independent9999 defect was reproduced there. [Exact storage, evidence and rollback](docs/audits/2026-10-20-section-layers-footer.md).
@@ -476,6 +482,7 @@ Use these labels throughout the documentation. Observed facts are limited to the
 
 | Ref | Source and date | What it establishes / limits |
 | --- | --- | --- |
+| E62 | Native903 source reload, authenticated Chrome Process sweep and Header frame traces,2026-10-20; [audit](docs/audits/2026-10-20-process-cta-transition.md) | Phone-suppression root cause, continuous post-Hero panel at Process transitions, monotonic first Header exit at five widths, menu and reduced-motion checks. No physical-device/anonymous certification. |
 | E61 | Fresh154 MCP before/after190-node comparison, native903 source reload and authenticated responsive browser tests,2026-10-20; [audit](docs/audits/2026-10-20-section-layers-footer.md) | Local section stacking, Core sticky release, Call Now at Core/Process/footer and menu yield,360/393/430/768/1440. No physical-device/anonymous/cache-HIT certification. |
 | E60 | Native Code903 saved-source readback and authenticated Chrome responsive tests,2026-10-20; [audit](docs/audits/2026-10-20-header-cycle-fix.md) | Matching-position fixed entry, post-menu down/up cycles with retained pointer focus, touch393, keyboard-visible focus, reduced motion, Core clearance/release and panel collision suppression. No physical-device/anonymous/cache-HIT claim. |
 | E55 | Read-only staging Elementor MCP and GitHub main b106312, 2026-10-19 America/Chicago / 2026-10-20 UTC; [audit](docs/audits/2026-10-19-elementor-state-sync.md) | Current saved structures/local styles/overrides, mobile sticky settings, uploaded-unplaced video846 and active Header/Footer; no WordPress writes or fresh runtime/legacy-shortcode/shared-class-declaration/page-CSS verification. |

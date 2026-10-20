@@ -1,5 +1,7 @@
 # Header and Footer
 
+**Current E62,2026-10-20:** Code903 starts first downward hiding at fixed entry without a40px pause and seeds the animation from the current flow position, eliminating fast-gesture bounce. Subsequent40px down/24px up tolerance, native menu/focus pinning and reduced motion remain. The bottom panel also stops auto-hiding for ordinary phone buttons, including main content. No Header113/Footer114/CTA895 saved settings changed. [Full verification and rollback](../audits/2026-10-20-process-cta-transition.md).
+
 **E61,2026-10-20:** Code903 now ignores plain footer telephone links for competing-action suppression, retaining mobile Call Now through the footer. Main-content call actions, menu/form/overlay rules remain. No Header113/Footer114 or CTA895 definition changes. Core native layer correction also removes the need for E60's intro-intersection hiding gate. [Current verification and rollback](../audits/2026-10-20-section-layers-footer.md).
 
 **Current E60,2026-10-20:** Code903 now enters fixed positioning at a matching top edge and pins Header for open menus/keyboard-visible focus only. Retained pointer focus after closing the menu no longer blocks downward hiding. Movement distance resets while pinned. Two full pointer cycles per360/393/430/768 and separate touch393 pass; native Header113/Atomic/menu definitions remain unchanged. [Current evidence, limitations and rollback](../audits/2026-10-20-header-cycle-fix.md).

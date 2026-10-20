@@ -1,0 +1,2696 @@
+{
+  "environment": "Authenticated Chrome responsive emulation; not a physical device",
+  "before": [
+    {
+      "competing": [
+        {
+          "bottom": 448.6875,
+          "section": "Emergency Restoration Support",
+          "top": 396.15625
+        }
+      ],
+      "headerHidden": false,
+      "overflow": 0,
+      "processTop": 565.21875,
+      "visible": false,
+      "y": 2900
+    },
+    {
+      "competing": [
+        {
+          "bottom": 348.6875,
+          "section": "Emergency Restoration Support",
+          "top": 296.15625
+        }
+      ],
+      "headerHidden": true,
+      "overflow": 0,
+      "processTop": 465.21875,
+      "visible": false,
+      "y": 3000
+    },
+    {
+      "competing": [
+        {
+          "bottom": 248.6875,
+          "section": "Emergency Restoration Support",
+          "top": 196.15625
+        }
+      ],
+      "headerHidden": true,
+      "overflow": 0,
+      "processTop": 365.21875,
+      "visible": false,
+      "y": 3100
+    },
+    {
+      "competing": [
+        {
+          "bottom": 148.6875,
+          "section": "Emergency Restoration Support",
+          "top": 96.15625
+        }
+      ],
+      "headerHidden": true,
+      "overflow": 0,
+      "processTop": 265.21875,
+      "visible": false,
+      "y": 3200
+    },
+    {
+      "competing": [],
+      "headerHidden": true,
+      "overflow": 0,
+      "processTop": 165.21875,
+      "visible": true,
+      "y": 3300
+    },
+    {
+      "competing": [],
+      "headerHidden": true,
+      "overflow": 0,
+      "processTop": 65.21875,
+      "visible": true,
+      "y": 3400
+    },
+    {
+      "competing": [],
+      "headerHidden": true,
+      "overflow": 0,
+      "processTop": -34.78125,
+      "visible": true,
+      "y": 3500
+    },
+    {
+      "competing": [],
+      "headerHidden": true,
+      "overflow": 0,
+      "processTop": -134.78125,
+      "visible": true,
+      "y": 3600
+    }
+  ],
+  "after": [
+    {
+      "width": 360,
+      "processY": 3437.760498046875,
+      "atTop": {
+        "competing": [
+          {
+            "bottom": 590.6979370117188,
+            "top": 538.1666870117188
+          }
+        ],
+        "headerHidden": false,
+        "overflow": 0,
+        "processTop": 3437.760498046875,
+        "visible": false,
+        "y": 0
+      },
+      "entry": {
+        "competing": [
+          {
+            "bottom": 500.6979370117187,
+            "top": 448.1666870117187
+          }
+        ],
+        "headerHidden": true,
+        "overflow": 0,
+        "processTop": 3347.760498046875,
+        "visible": false,
+        "y": 90
+      },
+      "returnUp": {
+        "competing": [],
+        "headerHidden": false,
+        "overflow": 0,
+        "processTop": 2237.760498046875,
+        "visible": true,
+        "y": 1200
+      },
+      "belowThreshold": {
+        "competing": [],
+        "headerHidden": false,
+        "overflow": 0,
+        "processTop": 2207.760498046875,
+        "visible": true,
+        "y": 1230
+      },
+      "downHidden": {
+        "competing": [],
+        "headerHidden": true,
+        "overflow": 0,
+        "processTop": 2187.760498046875,
+        "visible": true,
+        "y": 1250
+      },
+      "down": [
+        {
+          "competing": [
+            {
+              "bottom": 533.2291870117188,
+              "section": "Emergency Restoration Support",
+              "top": 480.6979370117187
+            }
+          ],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 649.7604370117188,
+          "visible": true,
+          "y": 2788
+        },
+        {
+          "competing": [
+            {
+              "bottom": 433.2291870117187,
+              "section": "Emergency Restoration Support",
+              "top": 380.6979370117187
+            }
+          ],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 549.7604370117188,
+          "visible": true,
+          "y": 2888
+        },
+        {
+          "competing": [
+            {
+              "bottom": 333.22918701171875,
+              "section": "Emergency Restoration Support",
+              "top": 280.69793701171875
+            }
+          ],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 449.7604370117187,
+          "visible": true,
+          "y": 2988
+        },
+        {
+          "competing": [
+            {
+              "bottom": 233.2291717529297,
+              "section": "Emergency Restoration Support",
+              "top": 180.6979217529297
+            }
+          ],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 349.76043701171875,
+          "visible": true,
+          "y": 3088
+        },
+        {
+          "competing": [
+            {
+              "bottom": 133.2291717529297,
+              "section": "Emergency Restoration Support",
+              "top": 80.69792175292969
+            }
+          ],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 249.7604217529297,
+          "visible": true,
+          "y": 3188
+        },
+        {
+          "competing": [],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 149.7604217529297,
+          "visible": true,
+          "y": 3288
+        },
+        {
+          "competing": [],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 49.76041793823242,
+          "visible": true,
+          "y": 3388
+        },
+        {
+          "competing": [],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": -50.23958587646485,
+          "visible": true,
+          "y": 3488
+        },
+        {
+          "competing": [],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": -150.23959350585938,
+          "visible": true,
+          "y": 3588
+        },
+        {
+          "competing": [],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": -350.2395935058594,
+          "visible": true,
+          "y": 3788
+        },
+        {
+          "competing": [],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": -550.2396240234375,
+          "visible": true,
+          "y": 3988
+        },
+        {
+          "competing": [],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": -750.2396240234375,
+          "visible": true,
+          "y": 4188
+        }
+      ],
+      "up": [
+        {
+          "competing": [],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": -550.2396240234375,
+          "visible": true,
+          "y": 3988
+        },
+        {
+          "competing": [],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": -350.2395935058594,
+          "visible": true,
+          "y": 3788
+        },
+        {
+          "competing": [],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": -150.23959350585938,
+          "visible": true,
+          "y": 3588
+        },
+        {
+          "competing": [],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": 49.76041793823242,
+          "visible": true,
+          "y": 3388
+        },
+        {
+          "competing": [
+            {
+              "bottom": 133.2291717529297,
+              "section": "Emergency Restoration Support",
+              "top": 80.69792175292969
+            }
+          ],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": 249.7604217529297,
+          "visible": true,
+          "y": 3188
+        },
+        {
+          "competing": [
+            {
+              "bottom": 333.22918701171875,
+              "section": "Emergency Restoration Support",
+              "top": 280.69793701171875
+            }
+          ],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": 449.7604370117187,
+          "visible": true,
+          "y": 2988
+        },
+        {
+          "competing": [
+            {
+              "bottom": 533.2291870117188,
+              "section": "Emergency Restoration Support",
+              "top": 480.6979370117187
+            }
+          ],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": 649.7604370117188,
+          "visible": true,
+          "y": 2788
+        }
+      ],
+      "footer": {
+        "competing": [],
+        "headerHidden": true,
+        "overflow": 0,
+        "processTop": -5370.90625,
+        "visible": true,
+        "y": 8808.6669921875
+      }
+    },
+    {
+      "width": 393,
+      "processY": 3465.21875,
+      "atTop": {
+        "competing": [
+          {
+            "bottom": 561.90625,
+            "top": 509.375
+          }
+        ],
+        "headerHidden": false,
+        "overflow": 0,
+        "processTop": 3465.21875,
+        "visible": false,
+        "y": 0
+      },
+      "entry": {
+        "competing": [
+          {
+            "bottom": 471.90625,
+            "top": 419.375
+          }
+        ],
+        "headerHidden": true,
+        "overflow": 0,
+        "processTop": 3375.21875,
+        "visible": false,
+        "y": 90
+      },
+      "returnUp": {
+        "competing": [],
+        "headerHidden": false,
+        "overflow": 0,
+        "processTop": 2265.21875,
+        "visible": true,
+        "y": 1200
+      },
+      "belowThreshold": {
+        "competing": [],
+        "headerHidden": false,
+        "overflow": 0,
+        "processTop": 2235.21875,
+        "visible": true,
+        "y": 1230
+      },
+      "downHidden": {
+        "competing": [],
+        "headerHidden": true,
+        "overflow": 0,
+        "processTop": 2215.21875,
+        "visible": true,
+        "y": 1250
+      },
+      "down": [
+        {
+          "competing": [
+            {
+              "bottom": 533.3541870117188,
+              "section": "Emergency Restoration Support",
+              "top": 480.8229370117187
+            }
+          ],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 649.8854370117188,
+          "visible": true,
+          "y": 2815.333251953125
+        },
+        {
+          "competing": [
+            {
+              "bottom": 433.3541870117187,
+              "section": "Emergency Restoration Support",
+              "top": 380.8229370117187
+            }
+          ],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 549.8854370117188,
+          "visible": true,
+          "y": 2915.333251953125
+        },
+        {
+          "competing": [
+            {
+              "bottom": 333.35418701171875,
+              "section": "Emergency Restoration Support",
+              "top": 280.82293701171875
+            }
+          ],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 449.8854370117187,
+          "visible": true,
+          "y": 3015.333251953125
+        },
+        {
+          "competing": [
+            {
+              "bottom": 233.3541717529297,
+              "section": "Emergency Restoration Support",
+              "top": 180.8229217529297
+            }
+          ],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 349.88543701171875,
+          "visible": true,
+          "y": 3115.333251953125
+        },
+        {
+          "competing": [
+            {
+              "bottom": 133.3541717529297,
+              "section": "Emergency Restoration Support",
+              "top": 80.82292175292969
+            }
+          ],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 249.8854217529297,
+          "visible": true,
+          "y": 3215.333251953125
+        },
+        {
+          "competing": [],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 149.8854217529297,
+          "visible": true,
+          "y": 3315.333251953125
+        },
+        {
+          "competing": [],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 49.88541793823242,
+          "visible": true,
+          "y": 3415.333251953125
+        },
+        {
+          "competing": [],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": -50.11458587646485,
+          "visible": true,
+          "y": 3515.333251953125
+        },
+        {
+          "competing": [],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": -150.11459350585938,
+          "visible": true,
+          "y": 3615.333251953125
+        },
+        {
+          "competing": [],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": -350.1145935058594,
+          "visible": true,
+          "y": 3815.333251953125
+        },
+        {
+          "competing": [],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": -550.1146240234375,
+          "visible": true,
+          "y": 4015.333251953125
+        },
+        {
+          "competing": [],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": -750.1146240234375,
+          "visible": true,
+          "y": 4215.33349609375
+        }
+      ],
+      "up": [
+        {
+          "competing": [],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": -550.1146240234375,
+          "visible": true,
+          "y": 4015.333251953125
+        },
+        {
+          "competing": [],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": -350.1145935058594,
+          "visible": true,
+          "y": 3815.333251953125
+        },
+        {
+          "competing": [],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": -150.11459350585938,
+          "visible": true,
+          "y": 3615.333251953125
+        },
+        {
+          "competing": [],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": 49.88541793823242,
+          "visible": true,
+          "y": 3415.333251953125
+        },
+        {
+          "competing": [
+            {
+              "bottom": 133.3541717529297,
+              "section": "Emergency Restoration Support",
+              "top": 80.82292175292969
+            }
+          ],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": 249.8854217529297,
+          "visible": true,
+          "y": 3215.333251953125
+        },
+        {
+          "competing": [
+            {
+              "bottom": 333.35418701171875,
+              "section": "Emergency Restoration Support",
+              "top": 280.82293701171875
+            }
+          ],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": 449.8854370117187,
+          "visible": true,
+          "y": 3015.333251953125
+        },
+        {
+          "competing": [
+            {
+              "bottom": 533.3541870117188,
+              "section": "Emergency Restoration Support",
+              "top": 480.8229370117187
+            }
+          ],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": 649.8854370117188,
+          "visible": true,
+          "y": 2815.333251953125
+        }
+      ],
+      "footer": {
+        "competing": [],
+        "headerHidden": true,
+        "overflow": 0,
+        "processTop": -5292.11474609375,
+        "visible": true,
+        "y": 8757.3330078125
+      }
+    },
+    {
+      "width": 430,
+      "processY": 3432.95849609375,
+      "atTop": {
+        "competing": [
+          {
+            "bottom": 565.5625,
+            "top": 513.03125
+          }
+        ],
+        "headerHidden": false,
+        "overflow": 0,
+        "processTop": 3432.95849609375,
+        "visible": false,
+        "y": 0
+      },
+      "entry": {
+        "competing": [
+          {
+            "bottom": 475.5625,
+            "top": 423.03125
+          }
+        ],
+        "headerHidden": true,
+        "overflow": 0,
+        "processTop": 3342.95849609375,
+        "visible": false,
+        "y": 90
+      },
+      "returnUp": {
+        "competing": [],
+        "headerHidden": false,
+        "overflow": 0,
+        "processTop": 2232.95849609375,
+        "visible": true,
+        "y": 1200
+      },
+      "belowThreshold": {
+        "competing": [],
+        "headerHidden": false,
+        "overflow": 0,
+        "processTop": 2202.95849609375,
+        "visible": true,
+        "y": 1230
+      },
+      "downHidden": {
+        "competing": [],
+        "headerHidden": true,
+        "overflow": 0,
+        "processTop": 2182.95849609375,
+        "visible": true,
+        "y": 1250
+      },
+      "down": [
+        {
+          "competing": [
+            {
+              "bottom": 533.7604370117188,
+              "section": "Emergency Restoration Support",
+              "top": 481.2291870117187
+            }
+          ],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 650.2916870117188,
+          "visible": true,
+          "y": 2782.666748046875
+        },
+        {
+          "competing": [
+            {
+              "bottom": 433.7604370117187,
+              "section": "Emergency Restoration Support",
+              "top": 381.2291870117187
+            }
+          ],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 550.2916870117188,
+          "visible": true,
+          "y": 2882.666748046875
+        },
+        {
+          "competing": [
+            {
+              "bottom": 333.76043701171875,
+              "section": "Emergency Restoration Support",
+              "top": 281.22918701171875
+            }
+          ],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 450.2916870117187,
+          "visible": true,
+          "y": 2982.666748046875
+        },
+        {
+          "competing": [
+            {
+              "bottom": 233.7604217529297,
+              "section": "Emergency Restoration Support",
+              "top": 181.2291717529297
+            }
+          ],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 350.29168701171875,
+          "visible": true,
+          "y": 3082.666748046875
+        },
+        {
+          "competing": [
+            {
+              "bottom": 133.7604217529297,
+              "section": "Emergency Restoration Support",
+              "top": 81.22917175292969
+            }
+          ],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 250.2916717529297,
+          "visible": true,
+          "y": 3182.666748046875
+        },
+        {
+          "competing": [],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 150.2916717529297,
+          "visible": true,
+          "y": 3282.666748046875
+        },
+        {
+          "competing": [],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 50.29166793823242,
+          "visible": true,
+          "y": 3382.666748046875
+        },
+        {
+          "competing": [],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": -49.70833587646485,
+          "visible": true,
+          "y": 3482.666748046875
+        },
+        {
+          "competing": [],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": -149.70834350585938,
+          "visible": true,
+          "y": 3582.666748046875
+        },
+        {
+          "competing": [],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": -349.7083435058594,
+          "visible": true,
+          "y": 3782.666748046875
+        },
+        {
+          "competing": [],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": -549.7083740234375,
+          "visible": true,
+          "y": 3982.666748046875
+        },
+        {
+          "competing": [],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": -749.7083740234375,
+          "visible": true,
+          "y": 4182.66650390625
+        }
+      ],
+      "up": [
+        {
+          "competing": [],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": -549.7083740234375,
+          "visible": true,
+          "y": 3982.666748046875
+        },
+        {
+          "competing": [],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": -349.7083435058594,
+          "visible": true,
+          "y": 3782.666748046875
+        },
+        {
+          "competing": [],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": -149.70834350585938,
+          "visible": true,
+          "y": 3582.666748046875
+        },
+        {
+          "competing": [],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": 50.29166793823242,
+          "visible": true,
+          "y": 3382.666748046875
+        },
+        {
+          "competing": [
+            {
+              "bottom": 133.7604217529297,
+              "section": "Emergency Restoration Support",
+              "top": 81.22917175292969
+            }
+          ],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": 250.2916717529297,
+          "visible": true,
+          "y": 3182.666748046875
+        },
+        {
+          "competing": [
+            {
+              "bottom": 333.76043701171875,
+              "section": "Emergency Restoration Support",
+              "top": 281.22918701171875
+            }
+          ],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": 450.2916870117187,
+          "visible": true,
+          "y": 2982.666748046875
+        },
+        {
+          "competing": [
+            {
+              "bottom": 533.7604370117188,
+              "section": "Emergency Restoration Support",
+              "top": 481.2291870117187
+            }
+          ],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": 650.2916870117188,
+          "visible": true,
+          "y": 2782.666748046875
+        }
+      ],
+      "footer": {
+        "competing": [],
+        "headerHidden": true,
+        "overflow": 0,
+        "processTop": -5349.0419921875,
+        "visible": true,
+        "y": 8782
+      }
+    },
+    {
+      "width": 768,
+      "processY": 3043.322998046875,
+      "atTop": {
+        "competing": [],
+        "headerHidden": false,
+        "overflow": 0,
+        "processTop": 3043.322998046875,
+        "visible": false,
+        "y": 0
+      },
+      "entry": {
+        "competing": [
+          {
+            "bottom": 726.3646240234375,
+            "top": 673.8333740234375
+          }
+        ],
+        "headerHidden": true,
+        "overflow": 0,
+        "processTop": 2997.98974609375,
+        "visible": false,
+        "y": 45.33333206176758
+      },
+      "returnUp": {
+        "competing": [],
+        "headerHidden": false,
+        "overflow": 0,
+        "processTop": 1843.322998046875,
+        "visible": false,
+        "y": 1200
+      },
+      "belowThreshold": {
+        "competing": [],
+        "headerHidden": false,
+        "overflow": 0,
+        "processTop": 1813.322998046875,
+        "visible": false,
+        "y": 1230
+      },
+      "downHidden": {
+        "competing": [],
+        "headerHidden": true,
+        "overflow": 0,
+        "processTop": 1793.322998046875,
+        "visible": false,
+        "y": 1250
+      },
+      "down": [
+        {
+          "competing": [
+            {
+              "bottom": 617.9896240234375,
+              "section": "Emergency Restoration Support",
+              "top": 565.4583740234375
+            }
+          ],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 649.9896240234375,
+          "visible": false,
+          "y": 2393.333251953125
+        },
+        {
+          "competing": [
+            {
+              "bottom": 517.9895935058594,
+              "section": "Emergency Restoration Support",
+              "top": 465.4583435058594
+            }
+          ],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 549.9896240234375,
+          "visible": false,
+          "y": 2493.333251953125
+        },
+        {
+          "competing": [
+            {
+              "bottom": 417.9895935058594,
+              "section": "Emergency Restoration Support",
+              "top": 365.4583435058594
+            }
+          ],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 449.9895935058594,
+          "visible": false,
+          "y": 2593.333251953125
+        },
+        {
+          "competing": [
+            {
+              "bottom": 317.9895935058594,
+              "section": "Emergency Restoration Support",
+              "top": 265.4583435058594
+            }
+          ],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 349.9895935058594,
+          "visible": false,
+          "y": 2693.333251953125
+        },
+        {
+          "competing": [
+            {
+              "bottom": 217.98959350585935,
+              "section": "Emergency Restoration Support",
+              "top": 165.45834350585938
+            }
+          ],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 249.98959350585935,
+          "visible": false,
+          "y": 2793.333251953125
+        },
+        {
+          "competing": [
+            {
+              "bottom": 117.98958587646484,
+              "section": "Emergency Restoration Support",
+              "top": 65.45833587646484
+            }
+          ],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 149.98959350585938,
+          "visible": false,
+          "y": 2893.333251953125
+        },
+        {
+          "competing": [],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 49.98958587646485,
+          "visible": false,
+          "y": 2993.333251953125
+        },
+        {
+          "competing": [],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": -50.01041793823242,
+          "visible": false,
+          "y": 3093.333251953125
+        },
+        {
+          "competing": [],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": -150.0104217529297,
+          "visible": false,
+          "y": 3193.333251953125
+        },
+        {
+          "competing": [],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": -350.01043701171875,
+          "visible": false,
+          "y": 3393.333251953125
+        },
+        {
+          "competing": [],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": -550.0104370117188,
+          "visible": false,
+          "y": 3593.333251953125
+        },
+        {
+          "competing": [],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": -750.0104370117188,
+          "visible": false,
+          "y": 3793.333251953125
+        }
+      ],
+      "up": [
+        {
+          "competing": [],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": -550.0104370117188,
+          "visible": false,
+          "y": 3593.333251953125
+        },
+        {
+          "competing": [],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": -350.01043701171875,
+          "visible": false,
+          "y": 3393.333251953125
+        },
+        {
+          "competing": [],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": -150.0104217529297,
+          "visible": false,
+          "y": 3193.333251953125
+        },
+        {
+          "competing": [],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": 49.98958587646485,
+          "visible": false,
+          "y": 2993.333251953125
+        },
+        {
+          "competing": [
+            {
+              "bottom": 217.98959350585935,
+              "section": "Emergency Restoration Support",
+              "top": 165.45834350585938
+            }
+          ],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": 249.98959350585935,
+          "visible": false,
+          "y": 2793.333251953125
+        },
+        {
+          "competing": [
+            {
+              "bottom": 417.9895935058594,
+              "section": "Emergency Restoration Support",
+              "top": 365.4583435058594
+            }
+          ],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": 449.9895935058594,
+          "visible": false,
+          "y": 2593.333251953125
+        },
+        {
+          "competing": [
+            {
+              "bottom": 617.9896240234375,
+              "section": "Emergency Restoration Support",
+              "top": 565.4583740234375
+            }
+          ],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": 649.9896240234375,
+          "visible": false,
+          "y": 2393.333251953125
+        }
+      ],
+      "footer": {
+        "competing": [
+          {
+            "bottom": 284.8333435058594,
+            "section": "Discuss Your Restoration Needs",
+            "top": 232.30209350585935
+          }
+        ],
+        "headerHidden": true,
+        "overflow": 0,
+        "processTop": -4126.67724609375,
+        "visible": false,
+        "y": 7170
+      }
+    },
+    {
+      "width": 1440,
+      "processY": 2623.21875,
+      "atTop": {
+        "competing": [
+          {
+            "bottom": 641.90625,
+            "top": 589.375
+          }
+        ],
+        "headerHidden": false,
+        "overflow": 0,
+        "processTop": 2623.21875,
+        "visible": false,
+        "y": 0
+      },
+      "entry": {
+        "competing": [
+          {
+            "bottom": 596.5729370117188,
+            "top": 544.0416870117188
+          }
+        ],
+        "headerHidden": true,
+        "overflow": 0,
+        "processTop": 2577.885498046875,
+        "visible": false,
+        "y": 45.33333206176758
+      },
+      "returnUp": {
+        "competing": [],
+        "headerHidden": false,
+        "overflow": 0,
+        "processTop": 1423.21875,
+        "visible": false,
+        "y": 1200
+      },
+      "belowThreshold": {
+        "competing": [],
+        "headerHidden": false,
+        "overflow": 0,
+        "processTop": 1393.21875,
+        "visible": false,
+        "y": 1230
+      },
+      "downHidden": {
+        "competing": [],
+        "headerHidden": true,
+        "overflow": 0,
+        "processTop": 1373.21875,
+        "visible": false,
+        "y": 1250
+      },
+      "down": [
+        {
+          "competing": [
+            {
+              "bottom": 600.9583740234375,
+              "section": "Emergency Restoration Support",
+              "top": 548.4271240234375
+            }
+          ],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 649.8854370117188,
+          "visible": false,
+          "y": 1973.3333740234375
+        },
+        {
+          "competing": [
+            {
+              "bottom": 500.9583435058594,
+              "section": "Emergency Restoration Support",
+              "top": 448.4270935058594
+            }
+          ],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 549.8854370117188,
+          "visible": false,
+          "y": 2073.333251953125
+        },
+        {
+          "competing": [
+            {
+              "bottom": 400.9583435058594,
+              "section": "Emergency Restoration Support",
+              "top": 348.4270935058594
+            }
+          ],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 449.8854370117187,
+          "visible": false,
+          "y": 2173.333251953125
+        },
+        {
+          "competing": [
+            {
+              "bottom": 300.9583435058594,
+              "section": "Emergency Restoration Support",
+              "top": 248.42709350585935
+            }
+          ],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 349.88543701171875,
+          "visible": false,
+          "y": 2273.333251953125
+        },
+        {
+          "competing": [
+            {
+              "bottom": 200.95834350585935,
+              "section": "Emergency Restoration Support",
+              "top": 148.42709350585938
+            }
+          ],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 249.8854217529297,
+          "visible": false,
+          "y": 2373.333251953125
+        },
+        {
+          "competing": [
+            {
+              "bottom": 100.95833587646484,
+              "section": "Emergency Restoration Support",
+              "top": 48.42708587646485
+            }
+          ],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 149.8854217529297,
+          "visible": false,
+          "y": 2473.333251953125
+        },
+        {
+          "competing": [],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": 49.88541793823242,
+          "visible": false,
+          "y": 2573.333251953125
+        },
+        {
+          "competing": [],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": -50.11458587646485,
+          "visible": false,
+          "y": 2673.333251953125
+        },
+        {
+          "competing": [],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": -150.11459350585938,
+          "visible": false,
+          "y": 2773.333251953125
+        },
+        {
+          "competing": [],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": -350.1145935058594,
+          "visible": false,
+          "y": 2973.333251953125
+        },
+        {
+          "competing": [],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": -550.1146240234375,
+          "visible": false,
+          "y": 3173.333251953125
+        },
+        {
+          "competing": [],
+          "headerHidden": true,
+          "overflow": 0,
+          "processTop": -750.1146240234375,
+          "visible": false,
+          "y": 3373.333251953125
+        }
+      ],
+      "up": [
+        {
+          "competing": [],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": -550.1146240234375,
+          "visible": false,
+          "y": 3173.333251953125
+        },
+        {
+          "competing": [],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": -350.1145935058594,
+          "visible": false,
+          "y": 2973.333251953125
+        },
+        {
+          "competing": [],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": -150.11459350585938,
+          "visible": false,
+          "y": 2773.333251953125
+        },
+        {
+          "competing": [],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": 49.88541793823242,
+          "visible": false,
+          "y": 2573.333251953125
+        },
+        {
+          "competing": [
+            {
+              "bottom": 200.95834350585935,
+              "section": "Emergency Restoration Support",
+              "top": 148.42709350585938
+            }
+          ],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": 249.8854217529297,
+          "visible": false,
+          "y": 2373.333251953125
+        },
+        {
+          "competing": [
+            {
+              "bottom": 400.9583435058594,
+              "section": "Emergency Restoration Support",
+              "top": 348.4270935058594
+            }
+          ],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": 449.8854370117187,
+          "visible": false,
+          "y": 2173.333251953125
+        },
+        {
+          "competing": [
+            {
+              "bottom": 600.9583740234375,
+              "section": "Emergency Restoration Support",
+              "top": 548.4271240234375
+            }
+          ],
+          "headerHidden": false,
+          "overflow": 0,
+          "processTop": 649.8854370117188,
+          "visible": false,
+          "y": 1973.3333740234375
+        }
+      ],
+      "footer": {
+        "competing": [
+          {
+            "bottom": 284.6041717529297,
+            "section": "Discuss Your Restoration Needs",
+            "top": 232.0729217529297
+          }
+        ],
+        "headerHidden": true,
+        "overflow": 0,
+        "processTop": -3126.78125,
+        "visible": false,
+        "y": 5750
+      }
+    }
+  ],
+  "motion": {
+    "beforeFastOvershoot": [
+      {
+        "ms": 0.4979999999923166,
+        "y": 0,
+        "top": 46,
+        "hidden": false,
+        "floating": false
+      },
+      {
+        "ms": 17.10000000000582,
+        "y": 0,
+        "top": 46,
+        "hidden": false,
+        "floating": false
+      },
+      {
+        "ms": 33.79999999998836,
+        "y": 150,
+        "top": -104,
+        "hidden": false,
+        "floating": false
+      },
+      {
+        "ms": 50.5,
+        "y": 150,
+        "top": -48.448760986328125,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 67.10000000000582,
+        "y": 150,
+        "top": -66.20573425292969,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 83.79999999998836,
+        "y": 150,
+        "top": -88.59149169921875,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 100.39999999999418,
+        "y": 150,
+        "top": -108.4269027709961,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 117.10000000000582,
+        "y": 150,
+        "top": -123.9043197631836,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 133.70000000001164,
+        "y": 150,
+        "top": -135.38504028320312,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 150.39999999999418,
+        "y": 150,
+        "top": -143.87692260742188,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 167.10000000000582,
+        "y": 150,
+        "top": -149.99569702148438,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 183.79999999998836,
+        "y": 150,
+        "top": -154.24459838867188,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 200.5,
+        "y": 150,
+        "top": -156.98635864257812,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 217.10000000000582,
+        "y": 150,
+        "top": -158.48165893554688,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 233.79999999998836,
+        "y": 150,
+        "top": -158.9479217529297,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 250.5,
+        "y": 150,
+        "top": -158.9479217529297,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 267.1000000000058,
+        "y": 150,
+        "top": -158.9479217529297,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 283.79999999998836,
+        "y": 150,
+        "top": -158.9479217529297,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 300.5,
+        "y": 150,
+        "top": -158.9479217529297,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 317.1000000000058,
+        "y": 150,
+        "top": -158.9479217529297,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 333.79999999998836,
+        "y": 150,
+        "top": -158.9479217529297,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 350.3999999999942,
+        "y": 150,
+        "top": -158.9479217529297,
+        "hidden": true,
+        "floating": true
+      }
+    ],
+    "slow393": [
+      {
+        "ms": -16.100000011920883,
+        "y": 80,
+        "top": -34,
+        "hidden": false,
+        "floating": false
+      },
+      {
+        "ms": 0.49999998807902557,
+        "y": 80,
+        "top": -34,
+        "hidden": false,
+        "floating": false
+      },
+      {
+        "ms": 17.19999998807907,
+        "y": 80,
+        "top": -34,
+        "hidden": false,
+        "floating": false
+      },
+      {
+        "ms": 33.89999998807912,
+        "y": 80,
+        "top": -34,
+        "hidden": false,
+        "floating": false
+      },
+      {
+        "ms": 50.499999988079026,
+        "y": 90,
+        "top": -44,
+        "hidden": false,
+        "floating": false
+      },
+      {
+        "ms": 67.19999998807907,
+        "y": 90,
+        "top": -52.13232421875,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 83.79999998807898,
+        "y": 90,
+        "top": -69.27220916748047,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 100.49999998807903,
+        "y": 90,
+        "top": -90.90413665771484,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 117.19999998807907,
+        "y": 90,
+        "top": -110.18528747558594,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 133.79999998807898,
+        "y": 90,
+        "top": -125.05029296875,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 150.49999998807903,
+        "y": 90,
+        "top": -136.21060180664062,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 167.09999998807916,
+        "y": 90,
+        "top": -144.36619567871094,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 183.89999998807912,
+        "y": 90,
+        "top": -150.3138885498047,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 200.49999998807903,
+        "y": 90,
+        "top": -154.39437866210938,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 217.09999998807916,
+        "y": 90,
+        "top": -157.03515625,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 235.19999998807907,
+        "y": 90,
+        "top": -158.56932067871094,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 250.49999998807903,
+        "y": 90,
+        "top": -158.9479217529297,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 267.19999998807907,
+        "y": 90,
+        "top": -158.9479217529297,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 283.799999988079,
+        "y": 90,
+        "top": -158.9479217529297,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 300.499999988079,
+        "y": 90,
+        "top": -158.9479217529297,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 317.09999998807916,
+        "y": 90,
+        "top": -158.9479217529297,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 333.8999999880791,
+        "y": 90,
+        "top": -158.9479217529297,
+        "hidden": true,
+        "floating": true
+      },
+      {
+        "ms": 350.499999988079,
+        "y": 90,
+        "top": -158.9479217529297,
+        "hidden": true,
+        "floating": true
+      }
+    ],
+    "fastWidths": [
+      {
+        "width": 393,
+        "frames": [
+          {
+            "ms": -2.20000001192102,
+            "y": 0,
+            "top": 46,
+            "hidden": false,
+            "floating": false
+          },
+          {
+            "ms": 14.499999988079253,
+            "y": 0,
+            "top": 46,
+            "hidden": false,
+            "floating": false
+          },
+          {
+            "ms": 31.19999998807907,
+            "y": 0,
+            "top": 46,
+            "hidden": false,
+            "floating": false
+          },
+          {
+            "ms": 47.79999998807898,
+            "y": 150,
+            "top": -104,
+            "hidden": false,
+            "floating": false
+          },
+          {
+            "ms": 81.09999998807916,
+            "y": 150,
+            "top": -104,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 97.79999998807898,
+            "y": 150,
+            "top": -107.8926010131836,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 114.49999998807925,
+            "y": 150,
+            "top": -116.14859008789062,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 131.09999998807916,
+            "y": 150,
+            "top": -126.42982482910156,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 147.69999998807907,
+            "y": 150,
+            "top": -135.59603881835938,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 164.49999998807925,
+            "y": 150,
+            "top": -142.7861328125,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 181.09999998807916,
+            "y": 150,
+            "top": -148.08274841308594,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 197.79999998807898,
+            "y": 150,
+            "top": -152.00022888183594,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 214.49999998807925,
+            "y": 150,
+            "top": -154.82261657714844,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 231.09999998807916,
+            "y": 150,
+            "top": -156.77255249023438,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 247.79999998807898,
+            "y": 150,
+            "top": -158.0401611328125,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 264.3999999880789,
+            "y": 150,
+            "top": -158.73179626464844,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 281.09999998807916,
+            "y": 150,
+            "top": -158.9479217529297,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 297.799999988079,
+            "y": 150,
+            "top": -158.9479217529297,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 314.3999999880789,
+            "y": 150,
+            "top": -158.9479217529297,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 331.09999998807916,
+            "y": 150,
+            "top": -158.9479217529297,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 347.69999998807907,
+            "y": 150,
+            "top": -158.9479217529297,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 364.3999999880789,
+            "y": 150,
+            "top": -158.9479217529297,
+            "hidden": true,
+            "floating": true
+          }
+        ]
+      },
+      {
+        "width": 360,
+        "frames": [
+          {
+            "ms": 0,
+            "y": 0,
+            "top": 46,
+            "hidden": false,
+            "floating": false
+          },
+          {
+            "ms": 16.700000000000728,
+            "y": 0,
+            "top": 46,
+            "hidden": false,
+            "floating": false
+          },
+          {
+            "ms": 33.400000000001455,
+            "y": 150,
+            "top": -104,
+            "hidden": false,
+            "floating": false
+          },
+          {
+            "ms": 50,
+            "y": 150,
+            "top": -104,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 100,
+            "y": 150,
+            "top": -107.88378143310547,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 116.70000000000073,
+            "y": 150,
+            "top": -116.1343002319336,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 133.40000000000146,
+            "y": 150,
+            "top": -126.47591400146484,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 150,
+            "y": 150,
+            "top": -135.63330078125,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 166.59999999999854,
+            "y": 150,
+            "top": -142.74032592773438,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 183.29999999999927,
+            "y": 150,
+            "top": -148.07618713378906,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 200,
+            "y": 150,
+            "top": -151.99545288085938,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 216.59999999999854,
+            "y": 150,
+            "top": -154.8050994873047,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 233.29999999999927,
+            "y": 150,
+            "top": -156.770263671875,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 250,
+            "y": 150,
+            "top": -158.03878784179688,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 266.7000000000007,
+            "y": 150,
+            "top": -158.7338104248047,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 283.2999999999993,
+            "y": 150,
+            "top": -158.9479217529297,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 300,
+            "y": 150,
+            "top": -158.9479217529297,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 316.7999999999993,
+            "y": 150,
+            "top": -158.9479217529297,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 333.40000000000146,
+            "y": 150,
+            "top": -158.9479217529297,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 350,
+            "y": 150,
+            "top": -158.9479217529297,
+            "hidden": true,
+            "floating": true
+          }
+        ]
+      },
+      {
+        "width": 430,
+        "frames": [
+          {
+            "ms": -15.400000011919474,
+            "y": 0,
+            "top": 46,
+            "hidden": false,
+            "floating": false
+          },
+          {
+            "ms": 1.199999988079071,
+            "y": 0,
+            "top": 46,
+            "hidden": false,
+            "floating": false
+          },
+          {
+            "ms": 17.8999999880798,
+            "y": 0,
+            "top": 46,
+            "hidden": false,
+            "floating": false
+          },
+          {
+            "ms": 34.49999998807834,
+            "y": 150,
+            "top": -104,
+            "hidden": false,
+            "floating": false
+          },
+          {
+            "ms": 51.19999998807907,
+            "y": 150,
+            "top": -104,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 101.19999998807907,
+            "y": 150,
+            "top": -107.89738464355469,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 117.79999998807762,
+            "y": 150,
+            "top": -116.09679412841797,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 134.3999999880798,
+            "y": 150,
+            "top": -126.37701416015625,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 151.09999998808053,
+            "y": 150,
+            "top": -135.6024169921875,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 167.8999999880798,
+            "y": 150,
+            "top": -142.7909393310547,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 184.49999998807834,
+            "y": 150,
+            "top": -148.0863037109375,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 201.09999998808053,
+            "y": 150,
+            "top": -151.98289489746094,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 217.79999998807762,
+            "y": 150,
+            "top": -154.81031799316406,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 234.59999998808053,
+            "y": 150,
+            "top": -156.78330993652344,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 251.19999998807907,
+            "y": 150,
+            "top": -158.04092407226562,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 267.7999999880776,
+            "y": 150,
+            "top": -158.73214721679688,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 284.49999998807834,
+            "y": 150,
+            "top": -158.9479217529297,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 301.19999998807907,
+            "y": 150,
+            "top": -158.9479217529297,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 317.8999999880798,
+            "y": 150,
+            "top": -158.9479217529297,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 334.49999998807834,
+            "y": 150,
+            "top": -158.9479217529297,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 351.19999998807907,
+            "y": 150,
+            "top": -158.9479217529297,
+            "hidden": true,
+            "floating": true
+          }
+        ]
+      },
+      {
+        "width": 768,
+        "frames": [
+          {
+            "ms": 6.799999999999272,
+            "y": 0,
+            "top": 46,
+            "hidden": false,
+            "floating": false
+          },
+          {
+            "ms": 23.400000000001455,
+            "y": 0,
+            "top": 46,
+            "hidden": false,
+            "floating": false
+          },
+          {
+            "ms": 40.099999999998545,
+            "y": 150,
+            "top": -104,
+            "hidden": false,
+            "floating": false
+          },
+          {
+            "ms": 56.70000000000073,
+            "y": 150,
+            "top": -109.53797912597656,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 73.5,
+            "y": 150,
+            "top": -121.45140075683594,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 90.09999999999854,
+            "y": 150,
+            "top": -136.22317504882812,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 106.79999999999927,
+            "y": 150,
+            "top": -149.46408081054688,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 123.5,
+            "y": 150,
+            "top": -159.72491455078125,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 140.09999999999854,
+            "y": 150,
+            "top": -167.33551025390625,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 156.79999999999927,
+            "y": 150,
+            "top": -172.9644775390625,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 173.5,
+            "y": 150,
+            "top": -177.01995849609375,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 190.09999999999854,
+            "y": 150,
+            "top": -179.82186889648438,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 206.79999999999927,
+            "y": 150,
+            "top": -181.6433563232422,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 223.5,
+            "y": 150,
+            "top": -182.6410369873047,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 240,
+            "y": 150,
+            "top": -182.94790649414062,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 256.7000000000007,
+            "y": 150,
+            "top": -182.9479217529297,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 273.40000000000146,
+            "y": 150,
+            "top": -182.9479217529297,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 290.09999999999854,
+            "y": 150,
+            "top": -182.9479217529297,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 306.7999999999993,
+            "y": 150,
+            "top": -182.9479217529297,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 323.40000000000146,
+            "y": 150,
+            "top": -182.9479217529297,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 340.09999999999854,
+            "y": 150,
+            "top": -182.9479217529297,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 356.7999999999993,
+            "y": 150,
+            "top": -182.9479217529297,
+            "hidden": true,
+            "floating": true
+          }
+        ]
+      },
+      {
+        "width": 1440,
+        "frames": [
+          {
+            "ms": 2.900000000001455,
+            "y": 0,
+            "top": 32,
+            "hidden": false,
+            "floating": false
+          },
+          {
+            "ms": 19.700000000000728,
+            "y": 0,
+            "top": 32,
+            "hidden": false,
+            "floating": false
+          },
+          {
+            "ms": 36.29999999999927,
+            "y": 150,
+            "top": -118,
+            "hidden": false,
+            "floating": false
+          },
+          {
+            "ms": 52.900000000001455,
+            "y": 150,
+            "top": -122.58407592773438,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 69.59999999999854,
+            "y": 150,
+            "top": -132.3320770263672,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 86.20000000000073,
+            "y": 150,
+            "top": -144.48385620117188,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 102.90000000000146,
+            "y": 150,
+            "top": -155.38157653808594,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 119.59999999999854,
+            "y": 150,
+            "top": -163.82785034179688,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 136.29999999999927,
+            "y": 150,
+            "top": -170.12509155273438,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 153,
+            "y": 150,
+            "top": -174.7501678466797,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 169.59999999999854,
+            "y": 150,
+            "top": -178.0653533935547,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 186.29999999999927,
+            "y": 150,
+            "top": -180.38352966308594,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 202.90000000000146,
+            "y": 150,
+            "top": -181.87229919433594,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 219.59999999999854,
+            "y": 150,
+            "top": -182.6943817138672,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 236.20000000000073,
+            "y": 150,
+            "top": -182.9479217529297,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 252.90000000000146,
+            "y": 150,
+            "top": -182.9479217529297,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 269.5,
+            "y": 150,
+            "top": -182.9479217529297,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 286.2000000000007,
+            "y": 150,
+            "top": -182.9479217529297,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 302.90000000000146,
+            "y": 150,
+            "top": -182.9479217529297,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 319.59999999999854,
+            "y": 150,
+            "top": -182.9479217529297,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 336.2000000000007,
+            "y": 150,
+            "top": -182.9479217529297,
+            "hidden": true,
+            "floating": true
+          },
+          {
+            "ms": 353,
+            "y": 150,
+            "top": -182.9479217529297,
+            "hidden": true,
+            "floating": true
+          }
+        ]
+      }
+    ]
+  },
+  "regression": {
+    "open": {
+      "competing": [
+        {
+          "bottom": 348.6875,
+          "section": "Emergency Restoration Support",
+          "top": 296.15625
+        }
+      ],
+      "headerHidden": false,
+      "overflow": 0,
+      "processTop": 465.21875,
+      "visible": false,
+      "y": 3000
+    },
+    "closed": {
+      "competing": [
+        {
+          "bottom": 348.6875,
+          "section": "Emergency Restoration Support",
+          "top": 296.15625
+        }
+      ],
+      "headerHidden": false,
+      "overflow": 0,
+      "processTop": 465.21875,
+      "visible": true,
+      "y": 3000
+    },
+    "headerDown": {
+      "competing": [
+        {
+          "bottom": 148.6875,
+          "section": "Emergency Restoration Support",
+          "top": 96.15625
+        }
+      ],
+      "headerHidden": true,
+      "overflow": 0,
+      "processTop": 265.21875,
+      "visible": true,
+      "y": 3200
+    },
+    "headerUp": {
+      "competing": [
+        {
+          "bottom": 248.6875,
+          "section": "Emergency Restoration Support",
+          "top": 196.15625
+        }
+      ],
+      "headerHidden": false,
+      "overflow": 0,
+      "processTop": 365.21875,
+      "visible": true,
+      "y": 3100
+    },
+    "openExpanded": "true",
+    "closedExpanded": "false",
+    "reduced": {
+      "duration": "0s",
+      "inline": ""
+    },
+    "finalTransition": [
+      {
+        "competing": [
+          {
+            "bottom": 448.6875,
+            "section": "Emergency Restoration Support",
+            "top": 396.15625
+          }
+        ],
+        "headerHidden": true,
+        "overflow": 0,
+        "processTop": 565.21875,
+        "visible": true,
+        "y": 2900
+      },
+      {
+        "competing": [
+          {
+            "bottom": 348.6875,
+            "section": "Emergency Restoration Support",
+            "top": 296.15625
+          }
+        ],
+        "headerHidden": true,
+        "overflow": 0,
+        "processTop": 465.21875,
+        "visible": true,
+        "y": 3000
+      },
+      {
+        "competing": [
+          {
+            "bottom": 248.6875,
+            "section": "Emergency Restoration Support",
+            "top": 196.15625
+          }
+        ],
+        "headerHidden": true,
+        "overflow": 0,
+        "processTop": 365.21875,
+        "visible": true,
+        "y": 3100
+      },
+      {
+        "competing": [
+          {
+            "bottom": 148.6875,
+            "section": "Emergency Restoration Support",
+            "top": 96.15625
+          }
+        ],
+        "headerHidden": true,
+        "overflow": 0,
+        "processTop": 265.21875,
+        "visible": true,
+        "y": 3200
+      },
+      {
+        "competing": [],
+        "headerHidden": true,
+        "overflow": 0,
+        "processTop": 165.21875,
+        "visible": true,
+        "y": 3300
+      },
+      {
+        "competing": [],
+        "headerHidden": true,
+        "overflow": 0,
+        "processTop": 65.21875,
+        "visible": true,
+        "y": 3400
+      },
+      {
+        "competing": [],
+        "headerHidden": true,
+        "overflow": 0,
+        "processTop": -34.78125,
+        "visible": true,
+        "y": 3500
+      },
+      {
+        "competing": [],
+        "headerHidden": true,
+        "overflow": 0,
+        "processTop": -134.78125,
+        "visible": true,
+        "y": 3600
+      }
+    ]
+  },
+  "note": "Frame capture is browser-only; test tab close removes temporary state. No Atomic configuration changed in E62."
+}
