@@ -1,5 +1,11 @@
 # GCPRO changelog
 
+## 2026-10-20 — Contain section layers and retain footer Call Now — E61
+
+- Homepage154 native styles only: Core intro6cb38139 mobile z-index9999→1; Core section3fd180bb and How We Work4681b8f5 get local z0. Needed internal ordering remains; section layers cannot outrank global navigation/CTA. Native offsets, padding, backgrounds, timeline numbers/effects and BEAF unchanged.190-node comparison identifies exactly these three owners.
+- Code903: competing telephone actions now come from main only, excluding the plain footer phone. Removed E60's Core-intersection hiding workaround after fixing stacking at its source. No new Global Classes/Variables/components/code entries/dependencies/listeners.
+- Browser360/393/430 confirms Call Now at Core entry, Process and footer; Core release/opaque coverage and menu hide/return pass.768/1440 panel hidden, overflow0 all widths. Native903 source readback exact, Entire site/body-end5 retained, staging purge invoked. [Verification, exact locations and rollback](docs/audits/2026-10-20-section-layers-footer.md). Production untouched; physical-device and guest/cache-HIT limits remain.
+
 ## 2026-10-20 — Correct fixed entry and retained menu focus — E60
 
 - Reproduced delayed fixed-entry jump and post-close focus pinning missed by E59. Code903 now changes positioning where normal and fixed top edges match, distinguishes keyboard-visible focus from retained pointer focus, and resets direction distance while pinned. Native menu event handling and40px down/24px up thresholds preserved.

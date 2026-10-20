@@ -1,5 +1,7 @@
 # Header and Footer
 
+**E61,2026-10-20:** Code903 now ignores plain footer telephone links for competing-action suppression, retaining mobile Call Now through the footer. Main-content call actions, menu/form/overlay rules remain. No Header113/Footer114 or CTA895 definition changes. Core native layer correction also removes the need for E60's intro-intersection hiding gate. [Current verification and rollback](../audits/2026-10-20-section-layers-footer.md).
+
 **Current E60,2026-10-20:** Code903 now enters fixed positioning at a matching top edge and pins Header for open menus/keyboard-visible focus only. Retained pointer focus after closing the menu no longer blocks downward hiding. Movement distance resets while pinned. Two full pointer cycles per360/393/430/768 and separate touch393 pass; native Header113/Atomic/menu definitions remain unchanged. [Current evidence, limitations and rollback](../audits/2026-10-20-header-cycle-fix.md).
 
 **Historical E59,2026-10-20:** Corrected the utility-row40px displacement on pointerdown, but did not cover subsequent down-scroll with retained toggle focus. Its focus behavior is superseded by E60. [Original evidence](../audits/2026-10-20-menu-focus-fix-results.json).

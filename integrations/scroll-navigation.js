@@ -13,7 +13,7 @@
   const introTops = new Map();
   const chat = document.querySelector('.sg-ai-floating-chat');
   const phone = bar.querySelector('a[href^="tel:"]')?.getAttribute('href');
-  const calls = [...document.querySelectorAll('a[href^="tel:"]')].filter(a => !bar.contains(a) && a.getAttribute('href') === phone);
+  const calls = [...document.querySelectorAll('main a[href^="tel:"]')].filter(a => !bar.contains(a) && a.getAttribute('href') === phone);
   let tasks = [...document.querySelectorAll('main form, main .gcpro-cta-suppress')];
   const overlaySelector = 'dialog[open], [aria-modal="true"], .bafg_popup_preview, .gcpro-cta-overlay';
   let overlays = [];
@@ -83,12 +83,7 @@
       const r = el.getBoundingClientRect();
       return r.top < height - 24 && r.bottom > clearance;
     });
-    const introOverlap = intros.some(el => {
-      if (!visible(el)) return false;
-      const r = el.getBoundingClientRect();
-      return r.top < height && r.bottom > height - barHeight - 24;
-    });
-    let show = innerWidth < 768 && passed && !blocked && !competing && !taskVisible && !introOverlap && !document.querySelector('.gcpro-cta-off');
+    let show = innerWidth < 768 && passed && !blocked && !competing && !taskVisible && !document.querySelector('.gcpro-cta-off');
     if (bar.contains(document.activeElement) && !menuOpen && !chatOpen && !overlays.some(visible)) show = true;
     bar.classList.toggle('is-visible', show);
     bar.inert = !show;

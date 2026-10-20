@@ -1,5 +1,11 @@
 # GCPRO project context
 
+## Section stacking and footer CTA correction — 2026-10-20, E61
+
+On staging154, replaced accidental mobile intro z9999 with local z1; Core section3fd180bb and How We Work4681b8f5 now have native local z0, containing their internal layers. Core sticky offsets/padding/background and timeline582/590/theme effects are unchanged. How We Work had no9999 or sticky positioning: its numbers use necessary z1; no independent9999 defect was reproduced there. [Exact storage, evidence and rollback](docs/audits/2026-10-20-section-layers-footer.md).
+
+Existing global Code903 now considers only main-content telephone actions for competing-action suppression: a plain footer telephone no longer hides Call Now. Removed E60's now-unnecessary Core intersection suppression after correcting the actual stacking source. Mobile360/393/430: panel visible at Core entry, active Process and footer; Core release/hit tests and menu suppression/return pass.768/1440 retain hidden panel; overflow0 all widths. Saved154 remains190 nodes, only three native style owners changed;903 reload source equality and Entire site/body-end5 verified, staging cache purge invoked. No new Global Classes/Variables/components/code entries/listeners/dependencies; BEAF/production untouched. Physical devices and anonymous/cache-HIT remain unverified.
+
 ## Header entry and post-menu scroll correction — 2026-10-20, E60
 
 E59 did not test downward scrolling after closing the menu while retaining pointer focus. Reproduced both remaining defects: delayed normal-flow/fixed handoff caused an onscreen jump; any retained toggle focus pinned the Header after menu close. Existing Code903 now switches at matching normal/fixed top edges, pins only keyboard-visible focus/open menus, and resets accumulated movement while pinned. No forced blur or native menu interception. A verified Core-intro/bottom-panel intersection now suppresses the panel during entry; native Core settings remain unchanged. [Exact changes, tests, limits and rollback](docs/audits/2026-10-20-header-cycle-fix.md); [observations](docs/audits/2026-10-20-header-cycle-fix-results.json).
@@ -470,6 +476,7 @@ Use these labels throughout the documentation. Observed facts are limited to the
 
 | Ref | Source and date | What it establishes / limits |
 | --- | --- | --- |
+| E61 | Fresh154 MCP before/after190-node comparison, native903 source reload and authenticated responsive browser tests,2026-10-20; [audit](docs/audits/2026-10-20-section-layers-footer.md) | Local section stacking, Core sticky release, Call Now at Core/Process/footer and menu yield,360/393/430/768/1440. No physical-device/anonymous/cache-HIT certification. |
 | E60 | Native Code903 saved-source readback and authenticated Chrome responsive tests,2026-10-20; [audit](docs/audits/2026-10-20-header-cycle-fix.md) | Matching-position fixed entry, post-menu down/up cycles with retained pointer focus, touch393, keyboard-visible focus, reduced motion, Core clearance/release and panel collision suppression. No physical-device/anonymous/cache-HIT claim. |
 | E55 | Read-only staging Elementor MCP and GitHub main b106312, 2026-10-19 America/Chicago / 2026-10-20 UTC; [audit](docs/audits/2026-10-19-elementor-state-sync.md) | Current saved structures/local styles/overrides, mobile sticky settings, uploaded-unplaced video846 and active Header/Footer; no WordPress writes or fresh runtime/legacy-shortcode/shared-class-declaration/page-CSS verification. |
 | E39 | Fresh staging154 saved reads/scoped snapshots and authenticated frontend CSS1440/840/392 geometry/screenshots, added-row hover and availability click/network observation,2026-10-19 | Twelve-city3/2/1 layout and orange outline button only; outside-section/heading/navy instance equality. Added four cities for layout only, all routes pending, no ZIP functionality; no anonymous/incognito/physical-device/native-editor interaction claim. |

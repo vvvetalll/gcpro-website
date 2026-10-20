@@ -1,5 +1,7 @@
 # How We Work
 
+**E61,2026-10-20:** Homepage section4681b8f5 local native style e-1ed92cbb-13f6 now owns z-index0, containing internal timeline layers. No sticky positioning or z9999 was found here; numbers use existing necessary z1. Component582, its overrides/classes, Code590 and theme ripple CSS are unchanged. At mobile360/393/430 the global Call Now remains visible through Process; section exit hit tests show no remaining Process layer over subsequent content. [Exact change and limits](../audits/2026-10-20-section-layers-footer.md).
+
 Four-step explanation: Contact → Assessment → Restoration → Review. Homepage content remains native Atomic; decorative effects are explicitly separate.
 
 ## Location and structure
