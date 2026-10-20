@@ -1,5 +1,16 @@
 # GCPRO project context
 
+## Current mobile and architecture handoff — 2026-10-20, E56
+
+[Current audit and verification limits](docs/audits/2026-10-20-architecture-and-mobile.md) supersede conflicting older current-state claims. Start maintenance at the [component index](docs/components/README.md) and [custom-code register](docs/CUSTOM_CODE.md); existing map/design documents retain their distinct roles.
+
+- Staging Homepage154 Core B intro6cb38139 now has **native mobile space-sm padding16px top/bottom,0 horizontal**. Existing sticky0/z-index9999/opaque#EFF6FF preserved; desktop sticky96/tablet static preserved. Published staging readback: same190 nodes, only this intro's style changed. Native editor confirms token controls and empty intro Custom CSS.
+- Actual browser widths360/393/430/768/1440 pass document-width checks; mobile sticky entry/active/release and opaque coverage verified. Chrome Android-UA/touch simulation does not equal physical Android testing. **Horizontal scrolling currently not reproducible** in agent tests and owner's fresh Android recheck; owner explicitly requested no speculative fix.
+- **Correction to E55:** video846 is used by live **Custom Code847**, published/body-end1/Page154, injecting the Final CTA video at runtime. There is still no saved Atomic video widget in154/80. Preserve experiment; exact ID/host/media coupling and mobile forced overrides are now documented. Existing Code590 remains published/body-end10/Page154, and source equality after whitespace normalization is verified.
+- Active theme freshly verified **standalone ROBYLO Starter0.2.0**, one installed theme/no child;20 source files inspected read-only. Appended process CSS matches its client source; no theme deployment or shared ROBYLO change.
+- Remaining debt: numeric selector coupling in847/BEAF/radius/menu CSS, redundant class declarations, duplicate inline SVG group IDs, missing BEAF handle keyboard semantics, enabled-but-unimplemented ZIP affordance, Trustindex Poppins/schema consistency and unresolved routes. No speculative refactor/deletion or new class/Variable/Component/code/plugin/dependency.
+- Guest/incognito delivery remains **unverified**: anonymous HTTP attempt403; authenticated browser reloads passed, staging purge control invoked without cache-HIT proof. No new full backup/restore, performance, screen-reader or full animation certification. See audit for exact evidence and rollback.
+
 ## Current saved-state synchronization — 2026-10-19 Chicago / 2026-10-20 UTC, E55
 
 Read-only MCP verified Homepage154, Header113/Footer114, Components80/582, archive structures703/822 and media/token inventories against main b106312. [Current audit, status matrix, IDs and unresolved links](docs/audits/2026-10-19-elementor-state-sync.md) supersedes only conflicting current-state claims below; historical implementation/QA records remain intact.

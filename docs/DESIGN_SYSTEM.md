@@ -1,5 +1,15 @@
 # GCPRO design system
 
+## Current ownership and mobile refinement — E56, 2026-10-20
+
+Use [component records](components/README.md) for editing/reuse and [CUSTOM_CODE](CUSTOM_CODE.md) for every active custom CSS/JS owner. The global palette/typography/spacing system remains unchanged:36 variables and102 class identities at this task's discovery; no additions.
+
+Core B's unique intro6cb38139 keeps local native responsive ownership: desktop sticky96px/tablet static/mobile sticky0px,z-index9999,opaque color-surface-alternate. **Mobile padding now space-sm16px top/bottom,0 horizontal**, verified in native Spacing controls; no intro Custom CSS. Do not put this one-off sticky rule on shared stack/container or create a redundant class.
+
+The [live CTA experiment847](components/final-cta.md) overrides native mobile gutters/radius/padding at runtime. Native80/default styles alone do not describe actual frontend appearance. This staging experiment is an explicit code exception, not a new design-system convention.
+
+Fresh class CSS inspection found historical repeated/overridden declarations in navigation/header/utility/button classes; preserve working cascade until a consumer-aware cleanup is approved. Avoidable authored IDs and local/vendor exceptions are inventoried rather than blindly removed. New native spacing reuses an existing token, introduces no parallel values, wrappers or active source mirror.
+
 ## Current saved-state qualifications — E55, 2026-10-19 Chicago / 2026-10-20 UTC
 
 [Read-only audit](audits/2026-10-19-elementor-state-sync.md) preserves all existing native/token/class ownership and scoped exceptions. Fresh variables still number36 (Montserrat headings, Inter body, navy #1A327D, orange #F05A29, surface-alternate #EFF6FF); class resource returns102 identities/order only, not declarations. Earlier class counts are dated baselines.

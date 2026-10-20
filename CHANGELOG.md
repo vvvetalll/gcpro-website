@@ -1,5 +1,14 @@
 # GCPRO changelog
 
+## 2026-10-20 — Core B mobile spacing and architecture documentation — E56
+
+- Staging154 only: Core B intro6cb38139 local native mobile padding now uses existing space-sm16px top/bottom and0 horizontal. Preserved sticky0/z-index9999/opaque surface-alternate, desktop96px sticky and tablet static.190-node saved comparison shows only that intro's style changed; no new CSS/JS/classes/Variables/Components/plugins/dependencies.
+- Verified measured360/393/430/768/1440px layouts, mobile sticky entry/active/release and opaque padding coverage. Chrome Android-UA/touch simulation, expanded menu and first fullscreen comparison checks found no page overflow. Owner rechecked a physical Android phone and also could not reproduce; issue classified currently not reproducible, no speculative workaround.
+- Added [component maintenance records](docs/components/README.md), [code/dependency register](docs/CUSTOM_CODE.md) and [architecture/mobile audit](docs/audits/2026-10-20-architecture-and-mobile.md). Updated durable AGENTS rules and current context/map/design/architecture/README cross-links.
+- Corrected stale handoff: published Code847 injects existing CTA video846 at runtime despite no Atomic video widget. Documented847 coupling/overrides/rollback; verified Code590 and appended theme timeline block against repository sources after whitespace normalization. Inspected20 active standalone ROBYLO Starter0.2.0 source files, plugin inventory, page CSS, class exceptions and actual shortcodes read-only.
+- Reported retained debt: ID coupling, redundant class declarations, duplicate SVG IDs, missing slider keyboard semantics, unfinished ZIP control, Trustindex typography/data consistency. No architectural refactor, vendor/security change, production or shared-repository deployment.
+- Guest/incognito delivery, full backup/restore and broad accessibility/performance/animation testing remain unverified; see audit. Authenticated post-save frontend/native-editor checks passed; cache purge control invoked, no cache-HIT proof claimed.
+
 ## 2026-10-19 Chicago / 2026-10-20 UTC — Read-only Elementor/repository synchronization — E55
 
 - Audited actual saved Homepage154, Header113/Footer114, CTA80/timeline582, archived703/822, video library, variables/class identities and recent main/source history. Added [current audit](docs/audits/2026-10-19-elementor-state-sync.md) with section statuses, exact IDs, evidence limits and12-city placeholder-link register.

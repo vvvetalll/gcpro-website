@@ -1,0 +1,19 @@
+# ZIP / service availability prototype
+
+**Status: unfinished, not a working ZIP search.** Do not infer a backend from the visible button.
+
+## Actual saved location and structure
+
+Homepage154 → Service Areas7d8c17ad → container585624a1 → intro3dc285eb → directory wrapper **62862a3a** → **5350691e**, “Check Area — Inactive Prototype”, Atomic e-form-submit-button. Text: “Check Service Availability”. There is **no ZIP input, label or native form in the current Homepage subtree**, and the button has no saved interactions. Earlier prototype/form descriptions are historical.
+
+## Styles, code and dependencies
+
+Existing button-outline-orange g-563da68 plus local style e-57f07b94-b3f5; global button tokens/typography. Native Elementor Atomic form-submit widget; no custom CSS/JavaScript, Custom Code ID, shortcode, external API, lookup table or integration endpoint is deployed for this control.
+
+## Behavior and limitations
+
+The surrounding directory stacks responsively with Service Areas. Runtime inspection finds an enabled BUTTON with type=submit, no disabled/aria-disabled state and no surrounding form. It does not establish successful availability lookup; its Navigator word “Inactive” is not a functional disabled state.
+
+This is a verified misleading affordance and a pending product decision. The audit did not enable it, fabricate results or silently change the approved visual design. Before activation define service-area data/ownership, accessible ZIP input/validation, no-results/error states, supported native form/popup behavior, backend and privacy requirements, then test mobile/keyboard/anonymous flows.
+
+For safe reuse, copy the documented requirements, not the claim that this prototype is operational. Decide whether to disable/hide the affordance or implement the real flow in an explicitly scoped follow-up.

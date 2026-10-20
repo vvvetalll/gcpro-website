@@ -4,6 +4,8 @@ These are required procedures for future authorized work, not claims that a back
 
 ## Begin a task
 
+Component work additionally starts with [docs/components](components/README.md) and [CUSTOM_CODE](CUSTOM_CODE.md). Update the affected component record and code-owner entry after each meaningful change. IDs locate saved objects; justify any authored ID-dependent selector separately. Follow the durable inventory/evidence rules in [AGENTS](../AGENTS.md#durable-component-maintenance-and-audit-rules).
+
 1. Read AGENTS, PROJECT_CONTEXT, CHANGELOG, DECISIONS and the references for the affected area.
 2. Inspect Git branch, remote and status; preserve unrelated work. Confirm the repository is `vvvetalll/gcpro-website`. Use the task's authorized branch; initialization explicitly targets main. Never force-push.
 3. Establish scope and owner: Codex for repository work; ChatGPT Work for authorized staging Elementor work.

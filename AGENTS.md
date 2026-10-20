@@ -14,6 +14,17 @@ Read [PROJECT_CONTEXT.md](PROJECT_CONTEXT.md), [CHANGELOG.md](CHANGELOG.md), and
 
 ## Native visual editing
 
+### Durable component maintenance and audit rules
+
+- Inspect the actual saved implementation, rendered behavior and existing code owners before editing. Prefer native Atomic controls, reusable existing classes and approved design tokens.
+- Treat page/template/element IDs as location references. Do not introduce page-ID-dependent CSS or business logic unless a demonstrated technical requirement and its scope, exact storage, reuse limit and migration/rollback are documented. Preserve required generated selectors and native object/plugin references.
+- Maintain [docs/components](docs/components/README.md) after every meaningful component change. Each record must cover purpose; WordPress/Elementor locators; parent/children; classes/tokens; CSS and JavaScript storage; Custom Code IDs; plugins/shortcodes/integrations; responsive behavior; interactions/dependencies; issues/status; and safe modification/reuse.
+- Record every custom CSS/JS owner in [docs/CUSTOM_CODE.md](docs/CUSTOM_CODE.md), including active theme file/enqueue, class variant/local style, Custom Code conditions/location/priority and external dependency. Keep one authoritative owner per property/state/breakpoint; do not deploy source mirrors twice.
+- Never leave experimental code, widgets or Custom Code entries undocumented. A saved Atomic tree without a video/HTML widget does not prove absence of runtime-injected content; inspect frontend and Custom Code.
+- Keep component records, PROJECT_CONTEXT, CHANGELOG and affected map/design/architecture references synchronized with verified staging. Preserve dated history and distinguish proposed, implemented, published and browser-tested states. Never claim browser validation from saved settings alone.
+- Identify architectural findings before changes. Preserve functioning visual design; obtain owner approval before structural changes with significant regression risk. Do not delete classes/components/assets merely because they are absent from one page.
+- Never commit credentials, authorization headers, tokens, passwords, raw session/admin responses or private backups. Record only reviewed, sanitized evidence; public shortcode/plugin instance identifiers are locators, not reusable secrets.
+
 Prefer native WordPress and Elementor Atomic V4 controls, responsive settings, Global Variables, Global Classes, and reusable Components. Keep text, images, SVGs, links, typography, spacing, backgrounds, and responsive behavior understandable and editable in the visual editor.
 
 Reuse existing variables/classes before adding new ones. Use supported Component Overrides for instance content; edit the shared definition only when all consumers should change. Give Navigator elements and classes clear names. Inspect the current component schema before assuming an override exists.

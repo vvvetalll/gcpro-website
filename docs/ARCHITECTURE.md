@@ -1,5 +1,15 @@
 # GCPRO architecture
 
+## Verified current ownership — E56, 2026-10-20
+
+Active staging theme is **standalone ROBYLO Starter0.2.0**, not Hello Elementor + a child theme. One installed theme;20 active PHP/CSS files read through native Theme File Editor, with no save. Older child-theme observations below describe a historical shared-source revision. functions.php enqueues fallback.css once with content-MD5 versioning and uses public Elementor location/document APIs.
+
+Atomic owns the saved visual tree, classes/tokens and reusable Components. Legacy BEAF/Trustindex shortcodes delegate vendor behavior. The theme contains the documented client timeline block. **Two active Elementor Custom Code entries exist:**590 timeline(body-end10,Page154) and847 CTA video experiment(body-end1,Page154).847 injects content missing from the Atomic tree and retains staging-specific selector/host/media coupling; preserve it as a documented experiment until an approved replacement.
+
+Start from [component maintenance index](components/README.md), [exact code/dependency register](CUSTOM_CODE.md), and [current audit/proposals](audits/2026-10-20-architecture-and-mobile.md). These define ownership without duplicating the historical milestone narratives. Repository mirrors are not separately enqueued, no automatic deployment exists, and required WordPress/plugin/object IDs remain distinct from avoidable authored CSS/JS coupling.
+
+E56 implements only Core B native mobile padding and documentation improvements. Shared class cleanup, semantic scoping/native video replacement and accessibility/product changes remain explicit proposals; no theme/JS/PHP/plugin/global-class refactor was deployed.
+
 E20: Code590 remains Homepage154-only and now includes the color-only `gcpro-process-number` keyframe in existing integrations/process-timeline-mobile.css. Reuses current hover/played triggers and stagger; no JS, theme, global typography or Atomic structure changes. [Source, timing, accessibility and QA](milestones/2026-10-16-timeline-number-color.md).
 
 E18 anonymous-delivery correction: Code590 remains unchanged and Homepage154-only. Stale SiteGround guest HTML was purged; plain-root cache HIT and logged-out browser execution verified. [Incident/limits](milestones/2026-10-16-anonymous-timeline-cache.md).
@@ -27,7 +37,7 @@ Reviewed 2026-10-16. Distinguish the intended ownership model from observed inst
 | WordPress staging | Content, media, pages and stored Elementor configuration | E3 confirms page/document inventories on the staging host; versions/configuration not fully audited |
 | Elementor Atomic V4 | Visual variables, tag defaults, Global Classes, native layout, reusable Components and instance overrides | Declared stack E1; live resources/component schemas and Homepage structure E3; complete runtime compatibility unverified |
 | Elementor Theme Builder | Header/footer and other site parts with display conditions | E3 inventory; assignments in ELEMENTOR_MAP |
-| Hello Elementor + ROBYLO Child | Minimal shared WordPress theme foundation | E2 source; active staging theme and deployed revision still need verification |
+| ROBYLO Starter0.2.0 (standalone) | Minimal WordPress fallback/Elementor location integration | E56 native Theme File Editor and20-file read; older Hello+Child source is historical, installed Git revision unverified |
 | GCPRO repository | Client-specific handoff, status, design records, IDs, history and decisions | E1 and this documentation milestone |
 | Shared ROBYLO repository | Reusable theme source and general integration guidance | E2; separate ownership, not a location for GCPRO content or IDs |
 

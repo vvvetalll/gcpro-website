@@ -1,5 +1,14 @@
 # GCPRO Elementor map
 
+## Current maintenance entry points — E56, 2026-10-20
+
+[Component records](components/README.md) now own section-level parent/child IDs, classes, code storage, responsive behavior and safe reuse. [Custom-code register](CUSTOM_CODE.md) maps exact active owners and dependencies; [audit](audits/2026-10-20-architecture-and-mobile.md) records current tests/debt.
+
+- Homepage154/root46c3aad4 still190 returned nodes. Core B intro6cb38139/style e-67ba0794-7b2b adds only native mobile space-sm top/bottom padding; sticky/background values unchanged. Mobile scroll entry/release now browser-verified at360/393/430; tablet768/desktop1440 preserved.
+- **Runtime video correction:** live Custom Code847 (published,Page154,body-end1) injects video846 into CTA panel5ec4592. No saved Atomic video widget exists; that fact does not mean the media is unplaced. [CTA record](components/final-cta.md).
+- Custom Code590 remains published,Page154,body-end10. Actual native editor shortcodes verified: eb597a1→723,6a2a094→742,961e3c2→767;02441ff→Trustindex widget b15b7138395d9632254618dee92. [Comparison](components/before-after.md) / [Testimonials](components/testimonials.md).
+- 5350691e is still an unfinished prototype, with no ZIP form/backend; rendered enabled submit-button semantics are documented in [ZIP record](components/zip-search.md). Existing unresolved-route register remains current; no links changed.
+
 ## Current saved locators and status — E55, 2026-10-19 Chicago / 2026-10-20 UTC
 
 [Current audit](audits/2026-10-19-elementor-state-sync.md) is the canonical E55 section/status and city-link register. Homepage154/root46c3aad4 has190 returned nodes and ten section roots in order: a62cdd3,7b416658,3fd180bb,6cde656f,4681b8f5,4221ba60,5b2c6d3c,10a34543,7d8c17ad,37feb023.

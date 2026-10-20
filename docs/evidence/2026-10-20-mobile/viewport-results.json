@@ -1,0 +1,398 @@
+{
+  "date": "2026-10-20",
+  "host": "vitaliiv1.sg-host.com",
+  "mode": "Authenticated desktop Chromium/Chrome simulation; no agent physical-device or anonymous test",
+  "viewportChecks": [
+    {
+      "width": 360,
+      "padding": "16px 0px",
+      "position": "sticky",
+      "top": "0px",
+      "checks": [
+        {
+          "y": 0,
+          "x": 0,
+          "client": 360,
+          "scroll": 360
+        },
+        {
+          "y": 1970,
+          "x": 0,
+          "client": 360,
+          "scroll": 360
+        },
+        {
+          "y": 2190,
+          "x": 0,
+          "client": 360,
+          "scroll": 360
+        },
+        {
+          "y": 4000,
+          "x": 0,
+          "client": 360,
+          "scroll": 360
+        },
+        {
+          "y": 7000,
+          "x": 0,
+          "client": 360,
+          "scroll": 360
+        },
+        {
+          "y": 8790,
+          "x": 0,
+          "client": 360,
+          "scroll": 360
+        }
+      ]
+    },
+    {
+      "width": 393,
+      "padding": "16px 0px",
+      "position": "sticky",
+      "top": "0px",
+      "checks": [
+        {
+          "y": 0,
+          "x": 0,
+          "client": 393,
+          "scroll": 393
+        },
+        {
+          "y": 1997.3333740234375,
+          "x": 0,
+          "client": 393,
+          "scroll": 393
+        },
+        {
+          "y": 2217.333251953125,
+          "x": 0,
+          "client": 393,
+          "scroll": 393
+        },
+        {
+          "y": 4000,
+          "x": 0,
+          "client": 393,
+          "scroll": 393
+        },
+        {
+          "y": 7000,
+          "x": 0,
+          "client": 393,
+          "scroll": 393
+        },
+        {
+          "y": 8662.6669921875,
+          "x": 0,
+          "client": 393,
+          "scroll": 393
+        }
+      ]
+    },
+    {
+      "width": 430,
+      "padding": "16px 0px",
+      "position": "sticky",
+      "top": "0px",
+      "checks": [
+        {
+          "y": 0,
+          "x": 0,
+          "client": 430,
+          "scroll": 430
+        },
+        {
+          "y": 2011.3333740234375,
+          "x": 0,
+          "client": 430,
+          "scroll": 430
+        },
+        {
+          "y": 2231.333251953125,
+          "x": 0,
+          "client": 430,
+          "scroll": 430
+        },
+        {
+          "y": 4000,
+          "x": 0,
+          "client": 430,
+          "scroll": 430
+        },
+        {
+          "y": 7000,
+          "x": 0,
+          "client": 430,
+          "scroll": 430
+        },
+        {
+          "y": 8605.3330078125,
+          "x": 0,
+          "client": 430,
+          "scroll": 430
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "padding": "0px",
+      "position": "static",
+      "top": "auto",
+      "checks": [
+        {
+          "y": 0,
+          "x": 0,
+          "client": 768,
+          "scroll": 768
+        },
+        {
+          "y": 1751.3333740234375,
+          "x": 0,
+          "client": 768,
+          "scroll": 768
+        },
+        {
+          "y": 1971.3333740234375,
+          "x": 0,
+          "client": 768,
+          "scroll": 768
+        },
+        {
+          "y": 4000,
+          "x": 0,
+          "client": 768,
+          "scroll": 768
+        },
+        {
+          "y": 7000,
+          "x": 0,
+          "client": 768,
+          "scroll": 768
+        },
+        {
+          "y": 7190,
+          "x": 0,
+          "client": 768,
+          "scroll": 768
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "padding": "0px",
+      "position": "sticky",
+      "top": "96px",
+      "checks": [
+        {
+          "y": 0,
+          "x": 0,
+          "client": 1440,
+          "scroll": 1440
+        },
+        {
+          "y": 1627.3333740234375,
+          "x": 0,
+          "client": 1440,
+          "scroll": 1440
+        },
+        {
+          "y": 1847.3333740234375,
+          "x": 0,
+          "client": 1440,
+          "scroll": 1440
+        },
+        {
+          "y": 4000,
+          "x": 0,
+          "client": 1440,
+          "scroll": 1440
+        },
+        {
+          "y": 5742.66650390625,
+          "x": 0,
+          "client": 1440,
+          "scroll": 1440
+        },
+        {
+          "y": 5742.66650390625,
+          "x": 0,
+          "client": 1440,
+          "scroll": 1440
+        }
+      ]
+    }
+  ],
+  "mobileSticky": [
+    {
+      "width": 360,
+      "height": 216.58334350585938,
+      "start": 1990.09375,
+      "end": 3027.8646240234375,
+      "samples": [
+        {
+          "y": 1989.3333740234375,
+          "top": 0.7604166865348816,
+          "bottom": 217.34376019239426,
+          "scrollWidth": 360
+        },
+        {
+          "y": 1990,
+          "top": 0.09375,
+          "bottom": 216.67709350585938,
+          "scrollWidth": 360
+        },
+        {
+          "y": 1991.3333740234375,
+          "top": 0,
+          "bottom": 216.58334350585938,
+          "scrollWidth": 360
+        },
+        {
+          "y": 2210,
+          "top": 0,
+          "bottom": 216.58334350585938,
+          "scrollWidth": 360
+        },
+        {
+          "y": 2810,
+          "top": 0,
+          "bottom": 216.58334350585938,
+          "scrollWidth": 360
+        },
+        {
+          "y": 2811.333251953125,
+          "top": -0.0520833358168602,
+          "bottom": 216.53126017004251,
+          "scrollWidth": 360
+        },
+        {
+          "y": 2812,
+          "top": -0.71875,
+          "bottom": 215.86459350585938,
+          "scrollWidth": 360
+        },
+        {
+          "y": 3028.666748046875,
+          "top": -217.3854217529297,
+          "bottom": -0.8020782470703125,
+          "scrollWidth": 360
+        }
+      ]
+    },
+    {
+      "width": 393,
+      "height": 216.58334350585938,
+      "start": 2017.5521240234375,
+      "end": 3055.322998046875,
+      "samples": [
+        {
+          "y": 2016.6666259765625,
+          "top": 0.8854166865348816,
+          "bottom": 217.46876019239426,
+          "scrollWidth": 393
+        },
+        {
+          "y": 2017.3333740234375,
+          "top": 0.21875,
+          "bottom": 216.80209350585938,
+          "scrollWidth": 393
+        },
+        {
+          "y": 2018.6666259765625,
+          "top": 0,
+          "bottom": 216.58334350585938,
+          "scrollWidth": 393
+        },
+        {
+          "y": 2237.333251953125,
+          "top": 0,
+          "bottom": 216.58334350585938,
+          "scrollWidth": 393
+        },
+        {
+          "y": 2838,
+          "top": 0,
+          "bottom": 216.58334350585938,
+          "scrollWidth": 393
+        },
+        {
+          "y": 2838.666748046875,
+          "top": 0,
+          "bottom": 216.58334350585938,
+          "scrollWidth": 393
+        },
+        {
+          "y": 2840,
+          "top": -1.2604167461395264,
+          "bottom": 215.32292675971985,
+          "scrollWidth": 393
+        },
+        {
+          "y": 3056,
+          "top": -217.2604217529297,
+          "bottom": -0.6770782470703125,
+          "scrollWidth": 393
+        }
+      ]
+    },
+    {
+      "width": 430,
+      "height": 216.58334350585938,
+      "start": 2031.0833740234375,
+      "end": 3023.0625610351562,
+      "samples": [
+        {
+          "y": 2030,
+          "top": 1.0833333730697632,
+          "bottom": 217.66667687892914,
+          "scrollWidth": 430
+        },
+        {
+          "y": 2031.3333740234375,
+          "top": 0,
+          "bottom": 216.58334350585938,
+          "scrollWidth": 430
+        },
+        {
+          "y": 2032,
+          "top": 0,
+          "bottom": 216.58334350585938,
+          "scrollWidth": 430
+        },
+        {
+          "y": 2251.333251953125,
+          "top": 0,
+          "bottom": 216.58334350585938,
+          "scrollWidth": 430
+        },
+        {
+          "y": 2805.333251953125,
+          "top": 0,
+          "bottom": 216.58334350585938,
+          "scrollWidth": 430
+        },
+        {
+          "y": 2806.666748046875,
+          "top": -0.1875,
+          "bottom": 216.39584350585938,
+          "scrollWidth": 430
+        },
+        {
+          "y": 2807.333251953125,
+          "top": -0.8541666865348816,
+          "bottom": 215.7291768193245,
+          "scrollWidth": 430
+        },
+        {
+          "y": 3024,
+          "top": -217.52084350585938,
+          "bottom": -0.9375,
+          "scrollWidth": 430
+        }
+      ]
+    }
+  ],
+  "horizontalIssue": "Currently not reproducible; owner independently rechecked Android and requested no speculative fix"
+}
