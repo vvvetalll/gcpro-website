@@ -1,5 +1,12 @@
 # GCPRO changelog
 
+## 2026-10-20 — Fix Smart Header mobile menu jump — E59
+
+- Reproduced pointer-click failure after upward scroll: Header top-40→0 and toggle top17.14→57.14 before click completion; scrollY unchanged and menu stayed closed. E58 keyboard Enter coverage had not caught the pointer regression.
+- Existing Code903 CSS/JS only: restrict utility-row reveal to actual utility-link focus; main menu/toggle focus preserves position and correct Core clearance. Native Elementor/menu/sticky configuration unchanged; no new classes/components/variables/dependencies.
+- Pointer tests360/393/430/768 and separate touch tests360/393/430: zero settled button/scroll displacement, first activation opens, next activation closes. Keyboard, reduced motion, Core79px clearance and desktop submenu pass. Test mouse clicks separately from touch-emulation input. Source readback exact; staging cache purge invoked; guest cache/physical-device coverage still unverified.
+- Rollback this correction by restoring only the two integration sources from16757d8 into903 with their existing wrappers; the whole-feature kill switch remains903 Draft. [Raw observations](docs/audits/2026-10-20-menu-focus-fix-results.json).
+
 ## 2026-10-20 — Global Smart Header and Mobile Emergency CTA — E58
 
 - Existing site-wide Header113 now hides after40px downward and returns after24px upward scrolling, pinned for menu/focus. Native design/menu preserved; original flow retained.

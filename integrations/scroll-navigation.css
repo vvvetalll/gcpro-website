@@ -13,8 +13,10 @@
   transform: translateY(calc(-100% - var(--gcpro-admin-top, 0px)));
 }
 .gcpro-nav-ready .gcpro-smart-header.is-floating:focus-within {
-  top: var(--gcpro-admin-top, 0px);
   transform: none;
+}
+.gcpro-nav-ready .gcpro-smart-header.is-floating:has(.info-bar :focus) {
+  top: var(--gcpro-admin-top, 0px);
 }
 .gcpro-nav-ready {
   scroll-padding-top: var(--gcpro-header-clearance, 0px);

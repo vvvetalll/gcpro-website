@@ -46,6 +46,7 @@
     distance += delta;
     lastY = y;
     const focusedHeader = header.contains(document.activeElement);
+    const focusedUtility = !!header.querySelector('.info-bar :focus');
     const menuOpen = !!header.querySelector('[aria-expanded="true"]');
     const floating = host.getBoundingClientRect().bottom <= 0;
     if (!floating || focusedHeader || menuOpen) hidden = false;
@@ -56,7 +57,7 @@
     set(root, '--gcpro-admin-top', `${adminTop}px`);
     header.classList.toggle('is-floating', floating);
     header.classList.toggle('is-hidden', floating && hidden);
-    const clearance = floating && !hidden ? headerHeight - (focusedHeader ? 0 : utilityHeight) + adminTop : adminTop;
+    const clearance = floating && !hidden ? headerHeight - (focusedUtility ? 0 : utilityHeight) + adminTop : adminTop;
     set(root, '--gcpro-header-clearance', `${clearance + 8}px`);
     intros.forEach(el => {
       if (floating && !hidden && getComputedStyle(el).position === 'sticky') set(el, 'top', `${Math.max(introTops.get(el), clearance)}px`);

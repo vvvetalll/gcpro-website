@@ -1,0 +1,216 @@
+{
+  "beforeFix": {
+    "expanded": "false",
+    "headerTop": -40,
+    "toggle": {
+      "bottom": 61.13541793823242,
+      "height": 44,
+      "left": 329.3333435058594,
+      "right": 373.3333435058594,
+      "top": 17.135417938232422,
+      "width": 44,
+      "x": 329.3333435058594,
+      "y": 17.135417938232422
+    },
+    "y": 1200
+  },
+  "failedClickAfter": {
+    "headerTop": 0,
+    "expanded": false,
+    "toggleTop": 57.13541793823242,
+    "scrollY": 1200
+  },
+  "pointerTests": [
+    {
+      "width": 360,
+      "before": {
+        "bar": "flex",
+        "expanded": "false",
+        "headerTop": -40,
+        "overflow": 0,
+        "toggleTop": 17.135417938232422,
+        "y": 1200
+      },
+      "opened": {
+        "bar": "none",
+        "expanded": "true",
+        "headerTop": -40,
+        "overflow": 0,
+        "toggleTop": 17.135417938232422,
+        "y": 1200
+      },
+      "closed": {
+        "bar": "flex",
+        "expanded": "false",
+        "headerTop": -40,
+        "overflow": 0,
+        "toggleTop": 17.135417938232422,
+        "y": 1200
+      }
+    },
+    {
+      "width": 393,
+      "before": {
+        "bar": "flex",
+        "expanded": "false",
+        "headerTop": -40,
+        "overflow": 0,
+        "toggleTop": 17.135417938232422,
+        "y": 1200
+      },
+      "opened": {
+        "bar": "none",
+        "expanded": "true",
+        "headerTop": -40,
+        "overflow": 0,
+        "toggleTop": 17.135417938232422,
+        "y": 1200
+      },
+      "closed": {
+        "bar": "flex",
+        "expanded": "false",
+        "headerTop": -40,
+        "overflow": 0,
+        "toggleTop": 17.135417938232422,
+        "y": 1200
+      }
+    },
+    {
+      "width": 430,
+      "before": {
+        "bar": "flex",
+        "expanded": "false",
+        "headerTop": -40,
+        "overflow": 0,
+        "toggleTop": 17.135417938232422,
+        "y": 1200
+      },
+      "opened": {
+        "bar": "none",
+        "expanded": "true",
+        "headerTop": -40,
+        "overflow": 0,
+        "toggleTop": 17.135417938232422,
+        "y": 1200
+      },
+      "closed": {
+        "bar": "flex",
+        "expanded": "false",
+        "headerTop": -40,
+        "overflow": 0,
+        "toggleTop": 17.135417938232422,
+        "y": 1200
+      }
+    },
+    {
+      "width": 768,
+      "before": {
+        "bar": "none",
+        "expanded": "false",
+        "headerTop": 6,
+        "overflow": 0,
+        "toggleTop": 75.13542175292969,
+        "y": 1200
+      },
+      "opened": {
+        "bar": "none",
+        "expanded": "true",
+        "headerTop": 6,
+        "overflow": 0,
+        "toggleTop": 75.13542175292969,
+        "y": 1200
+      },
+      "closed": {
+        "bar": "none",
+        "expanded": "false",
+        "headerTop": 6,
+        "overflow": 0,
+        "toggleTop": 75.13542175292969,
+        "y": 1200
+      }
+    }
+  ],
+  "touchTests": [
+    {
+      "width": 360,
+      "before": {
+        "bar": "flex",
+        "expanded": "false",
+        "headerTop": -40,
+        "overflow": 0,
+        "toggleTop": 17.135417938232422,
+        "y": 2200
+      },
+      "opened": {
+        "bar": "none",
+        "expanded": "true",
+        "headerTop": -40,
+        "overflow": 0,
+        "toggleTop": 17.135417938232422,
+        "y": 2200
+      },
+      "closed": {
+        "bar": "flex",
+        "expanded": "false",
+        "headerTop": -40,
+        "overflow": 0,
+        "toggleTop": 17.135417938232422,
+        "y": 2200
+      }
+    },
+    {
+      "width": 393,
+      "before": {
+        "bar": "flex",
+        "expanded": "false",
+        "headerTop": -40,
+        "overflow": 0,
+        "toggleTop": 17.135417938232422,
+        "y": 2200
+      },
+      "opened": {
+        "bar": "none",
+        "expanded": "true",
+        "headerTop": -40,
+        "overflow": 0,
+        "toggleTop": 17.135417938232422,
+        "y": 2200
+      },
+      "closed": {
+        "bar": "flex",
+        "expanded": "false",
+        "headerTop": -40,
+        "overflow": 0,
+        "toggleTop": 17.135417938232422,
+        "y": 2200
+      }
+    },
+    {
+      "width": 430,
+      "before": {
+        "bar": "flex",
+        "expanded": "false",
+        "headerTop": -40,
+        "overflow": 0,
+        "toggleTop": 17.135417938232422,
+        "y": 2200
+      },
+      "opened": {
+        "bar": "none",
+        "expanded": "true",
+        "headerTop": -40,
+        "overflow": 0,
+        "toggleTop": 17.135417938232422,
+        "y": 2200
+      },
+      "closed": {
+        "bar": "flex",
+        "expanded": "false",
+        "headerTop": -40,
+        "overflow": 0,
+        "toggleTop": 17.135417938232422,
+        "y": 2200
+      }
+    }
+  ]
+}

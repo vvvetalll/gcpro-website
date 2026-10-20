@@ -1,5 +1,7 @@
 # Custom code and dependency register
 
+**E59,2026-10-20:** Existing903 CSS/JS updated in place: generic focus-within only reveals the transform; top reset is restricted to :has(.info-bar :focus). JS clearance uses focusedUtility rather than any Header focus. This fixes the verified40px toggle displacement during pointerdown without intercepting/replacing native menu clicks. Entire site/body-end5 unchanged; source equality verified after native editor reload. No new code entry/class/component/dependency.
+
 ## E58 global scroll navigation — 2026-10-20
 
 New active owner: **Custom Code903**, “GCPRO / Scroll Navigation & Emergency CTA”, Published/**Entire site**/**Body End**/**priority5**, jQuery opt-in off. [CSS](../integrations/scroll-navigation.css) + [JS](../integrations/scroll-navigation.js) are wrapped once in style#gcpro-scroll-navigation-css/script#gcpro-scroll-navigation-js in that entry; native editor reload source equality verified. Neither source is separately enqueued. Existing590/847 and their conditions remain unchanged. There are now **three** active code entries.

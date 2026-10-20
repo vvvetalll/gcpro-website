@@ -1,5 +1,9 @@
 # GCPRO project context
 
+## Menu pointer activation correction — 2026-10-20, E59
+
+Fixed a reproduced E58 defect: focus-within moved Header40px on pointerdown, preventing the original menu click.903 now preserves main-navigation position and reveals the utility row only for utility-link focus. Pointer360/393/430/768 and separate touch360/393/430 tests show zero button/scroll displacement, successful first activation and close; keyboard/reduced motion/Core clearance/desktop submenu checked. No new classes/components/dependencies or native sticky changes. [Regression observations](docs/audits/2026-10-20-menu-focus-fix-results.json). Production/BEAF untouched; guest and real-device limitations remain.
+
 ## Global smart navigation — 2026-10-20, E58
 
 Implemented on staging: existing universal Header113 gains scroll-direction behavior; one reusable Atomic Mobile Emergency CTA895 is mounted as a separate root sibling outside its moving shell. One global Custom Code903 (Entire site/body-end5) owns the shared controller; no page/template/generated-element selectors. Six new classes, no new Variables/plugins/libraries/theme files. [Exact locations, native configuration and rollback](docs/components/smart-navigation.md); [browser evidence and limits](docs/audits/2026-10-20-smart-navigation.md).
