@@ -1,5 +1,15 @@
 # GCPRO project context
 
+## Current saved-state synchronization — 2026-10-19 Chicago / 2026-10-20 UTC, E55
+
+Read-only MCP verified Homepage154, Header113/Footer114, Components80/582, archive structures703/822 and media/token inventories against main b106312. [Current audit, status matrix, IDs and unresolved links](docs/audits/2026-10-19-elementor-state-sync.md) supersedes only conflicting current-state claims below; historical implementation/QA records remain intact.
+
+- **Completed and verified in saved data:** ten Homepage sections in current order, audience photos629/630/white surface, sole Core B, four-step timeline582, three comparison shortcode wrappers/3-2-1 layout, WHY typography inheritance, standalone Testimonials shortcode,12-city Service Areas, Final CTA80 with8px radius; Header113/Footer114 published and active sitewide.
+- **Implemented but not fully tested:** Core intro6cb38139 now has desktop sticky96px, tablet static, **mobile sticky0px / z-index9999 / opaque #EFF6FF local background**. Older E44/E45 mobile-static descriptions are historical. Actual scrolling/header overlap/cascade needs runtime QA. Legacy shortcode contents, page Custom CSS and shared class declarations were not exposed; BEAF/Trustindex runtime claims remain historical.
+- **Pending:** request/category/city/gallery/service destinations; ZIP popup/search/backend (5350691e remains a button with no saved interaction); owner copy/location/review/typography decisions. Video846 gcpro-cta-test.mp4 is uploaded, but no video widget exists in Homepage154 or Component80; mobile CTA/video placement remains an experiment awaiting implementation/testing.
+- **Archived/experimental:** Core A703 and combined WHY/Testimonials822 remain readable outside Homepage; E53 orange CTA was superseded by E54. B's “Experimental” Navigator title does not negate E45 approval.
+- No WordPress/Elementor writes or runtime/browser tests in E55. Homepage returned190 main-tree nodes;36 variables and102 class identities. Preserve existing architecture/source ownership; no production work.
+
 ## Navy CTA restored; Homepage typography checked — 2026-10-19, E54
 
 **Supersedes E53:** owner selected the original navy final CTA, orange solid CALL, white outline REQUEST SERVICE. Existing Component80 instance37feb023 and all content/links preserved. Panel5ec4592 retains8px corners. Homepage main46c3aad4 style e-685133d2-110f now owns only the scoped radius; no CTA color/hover overrides remain.
@@ -427,6 +437,7 @@ Use these labels throughout the documentation. Observed facts are limited to the
 
 | Ref | Source and date | What it establishes / limits |
 | --- | --- | --- |
+| E55 | Read-only staging Elementor MCP and GitHub main b106312, 2026-10-19 America/Chicago / 2026-10-20 UTC; [audit](docs/audits/2026-10-19-elementor-state-sync.md) | Current saved structures/local styles/overrides, mobile sticky settings, uploaded-unplaced video846 and active Header/Footer; no WordPress writes or fresh runtime/legacy-shortcode/shared-class-declaration/page-CSS verification. |
 | E39 | Fresh staging154 saved reads/scoped snapshots and authenticated frontend CSS1440/840/392 geometry/screenshots, added-row hover and availability click/network observation,2026-10-19 | Twelve-city3/2/1 layout and orange outline button only; outside-section/heading/navy instance equality. Added four cities for layout only, all routes pending, no ZIP functionality; no anonymous/incognito/physical-device/native-editor interaction claim. |
 | E38 | Fresh staging154 saved reads/schemas and scoped snapshots; first-party GCPRO overview/eight city pages; staging Draft inventory; authenticated CSS1440/834/390 screenshots/geometry/hover and availability click/network observation,2026-10-19 | Full-width section,12 ZIP nodes removed, no new nodes; eight selected communities, links intentionally pending per owner; button enabled/no notice per later correction, no ZIP behavior. Outside-section154 equality verified; no anonymous/incognito, physical-device or formal performance claim. |
 | E37 | Staging MCP schemas/full saved154 before-after comparison; native editor observation; ordinary authenticated frontend1440/834/390, disabled/read-only/focus checks and Elementor cache regeneration, 2026-10-19 | Nine ZIP elements only; approved city list and other Homepage elements equal. No backend/JS/global resources; incognito/anonymous, physical-device and formal performance tests unperformed. |

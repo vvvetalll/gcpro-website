@@ -1,5 +1,13 @@
 # GCPRO changelog
 
+## 2026-10-19 Chicago / 2026-10-20 UTC — Read-only Elementor/repository synchronization — E55
+
+- Audited actual saved Homepage154, Header113/Footer114, CTA80/timeline582, archived703/822, video library, variables/class identities and recent main/source history. Added [current audit](docs/audits/2026-10-19-elementor-state-sync.md) with section statuses, exact IDs, evidence limits and12-city placeholder-link register.
+- Corrected current handoff: Core intro6cb38139 is saved desktop sticky96px/tablet static/**mobile sticky0px,z-index9999,opaque surface-alternate #EFF6FF**; E44/E45 mobile-static QA remains historical. New mobile scrolling/stacking behavior has not been runtime-tested by this audit.
+- Confirmed video attachment846 exists but Homepage154/CTA80 contains no video widget. Marked video/mobile CTA experiment and ZIP integration pending; availability button5350691e has no saved interaction/form input in its section.
+- Reconciled E54 CTA radius/WHY inheritance, current Testimonials shortcode and active sitewide Header/Footer. Preserved archives, design tokens, native editing architecture, source mirrors and historical records. No class declaration/legacy shortcode/page Custom CSS runtime equivalence invented.
+- Documentation only: no WordPress/Elementor/publishing/cache/production change, no new classes/Variables/Components/plugins/dependencies or source code edits; no browser/anonymous/physical-device QA.
+
 ## 2026-10-19 — Restore navy final CTA and audit Homepage typography — E54
 
 - Staging Homepage154 only. Owner reverted E53 orange preview: final CTA instance **37feb023** / Component80 panel **5ec4592** again uses native **navy#1A327D**, **orange solid CALL**, **white outline REQUEST SERVICE**. Retained requested **8px** corners. Removed all E53 color/hover overrides; main46c3aad4 local style e-685133d2-110f now contains only the panel-scoped radius rule. Shared component/classes untouched.

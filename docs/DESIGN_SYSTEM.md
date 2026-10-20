@@ -1,5 +1,15 @@
 # GCPRO design system
 
+## Current saved-state qualifications — E55, 2026-10-19 Chicago / 2026-10-20 UTC
+
+[Read-only audit](audits/2026-10-19-elementor-state-sync.md) preserves all existing native/token/class ownership and scoped exceptions. Fresh variables still number36 (Montserrat headings, Inter body, navy #1A327D, orange #F05A29, surface-alternate #EFF6FF); class resource returns102 identities/order only, not declarations. Earlier class counts are dated baselines.
+
+**Core B local responsive exception:** intro6cb38139/style e-67ba0794-7b2b is now sticky96px desktop, static/auto tablet, sticky0px mobile with z-index9999 and background var(--color-surface-alternate). The local mobile background resolves to opaque #EFF6FF; no local opacity reduction is returned. Full computed opacity, Header stacking and scrolling remain untested. This supersedes the mobile-static description in E44/E45, without adopting a new sitewide sticky rule or changing any style.
+
+E54 remains current for the Final CTA radius-only Homepage rule and WHY H2/body inheritance. E53 orange panel and E52 placeholder testimonial-card treatment are historical: current Testimonials contains shortcode02441ff. E54's Trustindex/Poppins exception still needs a source/typography decision; its current plugin settings were not exposed.
+
+Uploaded CTA video846 is an unplaced experiment; no video widget is saved in Homepage154/CTA80. No approved mobile corner-video/full-width CTA pattern is established by this audit. Hero background/hover class rules, BEAF page CSS and process Code590 deployment equality were not reverified through the limited read API; source mirrors are not separately enqueued proof.
+
 ## Provisional WHY editorial styles — 2026-10-19, E52
 
 These three new Atomic Global Classes are scoped to the four benefits on staging Homepage154's WHY section and await final visual approval. They are not a mandate to restyle other sections.

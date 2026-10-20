@@ -1,5 +1,16 @@
 # GCPRO Elementor map
 
+## Current saved locators and status — E55, 2026-10-19 Chicago / 2026-10-20 UTC
+
+[Current audit](audits/2026-10-19-elementor-state-sync.md) is the canonical E55 section/status and city-link register. Homepage154/root46c3aad4 has190 returned nodes and ten section roots in order: a62cdd3,7b416658,3fd180bb,6cde656f,4681b8f5,4221ba60,5b2c6d3c,10a34543,7d8c17ad,37feb023.
+
+- Core intro **6cb38139**, local style **e-67ba0794-7b2b**: desktop sticky96px; tablet static/auto; mobile sticky0px,z-index9999,background color-surface-alternate. This supersedes E44/E45 mobile-static descriptions. Actual mobile stacking/scrolling is untested here.
+- Final CTA **37feb023 →80**, panel **5ec4592**: existing instance tel/# overrides and main-scoped8px radius; no video widget in154 or80. Uploaded test video **846** is available but placement pending.
+- Header **113/root4ef1aa21**, Footer **114/root1687d698**: published/active, include/general. Header logo **72df1b0c** binds native internal-url to154; menus **7983af36/1faf8090** use robylo-primary. Request/utility links remain #. Individual menu destinations not returned.
+- Comparison widgets **eb597a1/6a2a094/961e3c2** and Testimonials **02441ff** are present; current legacy shortcode text is not exposed. Prior BEAF723/742/767 and Trustindex identifications remain historical evidence.
+- Service availability **5350691e** has no saved interaction; no ZIP form/input exists in Service Areas. All12 current row destinations are #; several Navigator city names differ from actual text. Use the audit's displayed-city/row/text-ID table.
+- Archives **703/root3ee0b7bc** and **822/root434b3976** remain readable outside the current Homepage. Archive restoration/status and frontend behavior not retested.
+
 ## Final CTA rollback and WHY typography normalization — 2026-10-19, E54
 
 - Homepage154 main **46c3aad4**, local style **e-685133d2-110f**: E53 color/hover groups removed. Only `& [data-interaction-id="5ec4592"] { border-radius:8px; }` remains. Native Component80 defaults supply navy panel, orange CALL and white outline REQUEST SERVICE in instance **37feb023**.
