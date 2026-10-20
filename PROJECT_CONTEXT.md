@@ -1,5 +1,7 @@
 # GCPRO project context
 
+**Current E67,2026-10-20:** Footer114 preserves approved desktop geometry; mobile source/visual order is Identity → Contact → Services, with44px compact service rows. Tablet identity/contact share the first row and two-column services the second; cities use4 tablet/2 mobile columns. Copyright/full Back to top share a mobile row with13px type and44px action height. Native controls/existing g-aca1669 reused;36 nodes/112 classes; no new Component/Variable/JS/plugin. Three minimal local CSS gaps: city separator hiding (tablet), top-link nowrap and copyright balanced wrapping (mobile). All corresponding service pages remain Draft, so no invented links. BEAF/Header/903/Core/production untouched. [Exact owners, links, six-width QA, limitations and rollback](docs/audits/2026-10-20-footer-responsive.md).
+
 ## Footer refinement and shared BEAF presentation — 2026-10-20, E65–E66
 
 Native brand block7ac91d92 uses24px space-md gaps at all breakpoints.

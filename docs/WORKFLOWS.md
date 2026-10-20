@@ -1,5 +1,7 @@
 # GCPRO workflows
 
+**E67 footer link follow-up:** All six corresponding service destinations remain Draft; do not add placeholders or publish pages to supply footer links. Exact candidate object IDs/statuses and native-link activation procedure are in the [responsive footer record](audits/2026-10-20-footer-responsive.md#service-navigation-and-preserved-destinations). Existing footer contact/social/Maps/#top URLs are unchanged.
+
 ## Phase 1 maintenance note — E57
 
 Follow [the exact owner/rollback record](audits/2026-10-20-phase1-cleanup.md). BEAF is outside this refactor: preserve its numeric isolation selectors and integration. For class CSS cleanup, edit only the native selected class/breakpoint Custom CSS body (the editor supplies element.style braces), allow the edit to settle, save, and independently reload/read back before declaring success. Never replace complete variants from partial resources. Code847 has a repository-only source mirror; Git does not deploy it. Validation50 must remain Draft; use Save Draft when editing shared class styles from that page.

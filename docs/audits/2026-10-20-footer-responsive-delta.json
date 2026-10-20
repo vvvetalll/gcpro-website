@@ -1,0 +1,532 @@
+{
+  "milestone": "E67",
+  "template": 114,
+  "changes": [
+    {
+      "id": "73b78d01",
+      "before": {
+        "id": "73b78d01",
+        "title": "Footer Columns",
+        "type": "e-flexbox",
+        "settings": {
+          "classes": [
+            "g-fb9219a",
+            "e-576e780c-5019"
+          ],
+          "tag": "div"
+        },
+        "styles": {
+          "__style_id": "e-576e780c-5019",
+          "css": "padding-block-end: var(--space-lg); display: grid; gap: var(--space-xl); grid-template-columns: 1fr 1.1fr 1.1fr; align-items: stretch;\n@media(--tablet) { gap: var(--space-lg); grid-template-columns: 1fr 1fr; }\n@media(--mobile) { padding-block-end: var(--space-lg); gap: var(--space-xl); grid-template-columns: 1fr; }"
+        },
+        "children": [
+          "7ac91d92",
+          "39be2867",
+          "e424c2c"
+        ]
+      },
+      "after": {
+        "id": "73b78d01",
+        "title": "Footer Columns",
+        "type": "e-flexbox",
+        "settings": {
+          "classes": [
+            "g-fb9219a",
+            "e-576e780c-5019"
+          ],
+          "tag": "div"
+        },
+        "styles": {
+          "__style_id": "e-576e780c-5019",
+          "css": "padding-block-end: var(--space-lg); display: grid; gap: var(--space-xl); grid-template-columns: 1fr 1.1fr 1.1fr; align-items: stretch;\n@media(--tablet) { gap: var(--space-lg); grid-template-columns: 1fr 1fr; }\n@media(--mobile) { padding-block-end: var(--space-lg); gap: var(--space-xl); grid-template-columns: 1fr; }"
+        },
+        "children": [
+          "7ac91d92",
+          "e424c2c",
+          "39be2867"
+        ]
+      }
+    },
+    {
+      "id": "7ac91d92",
+      "before": {
+        "id": "7ac91d92",
+        "title": "Footer Identity",
+        "type": "e-div-block",
+        "settings": {
+          "classes": [
+            "g-6f5f11a",
+            "g-3bac536",
+            "g-3f96b71",
+            "e-fdb3237-8a23"
+          ],
+          "tag": "div"
+        },
+        "styles": {
+          "__style_id": "e-fdb3237-8a23",
+          "css": "gap: var(--space-md);\n@media(--tablet) { gap: var(--space-md); }\n@media(--mobile) { gap: var(--space-md); }"
+        },
+        "children": [
+          "4eac9eb",
+          "1432e75b",
+          "734b137",
+          "bdfaa44"
+        ]
+      },
+      "after": {
+        "id": "7ac91d92",
+        "title": "Footer Identity",
+        "type": "e-div-block",
+        "settings": {
+          "classes": [
+            "g-6f5f11a",
+            "g-3bac536",
+            "g-3f96b71",
+            "e-fdb3237-8a23"
+          ],
+          "tag": "div"
+        },
+        "styles": {
+          "__style_id": "e-fdb3237-8a23",
+          "css": "gap: var(--space-md); grid-column: 1; grid-row: 1;\n@media(--tablet) { gap: var(--space-md); grid-column: 1; grid-row: 1; }\n@media(--mobile) { gap: var(--space-md); grid-column: auto; grid-row: auto; }"
+        },
+        "children": [
+          "4eac9eb",
+          "1432e75b",
+          "734b137",
+          "bdfaa44"
+        ]
+      }
+    },
+    {
+      "id": "e424c2c",
+      "before": {
+        "id": "e424c2c",
+        "title": "Footer Contact",
+        "type": "e-div-block",
+        "settings": {
+          "classes": [
+            "g-6f5f11a",
+            "g-3bac536",
+            "g-3f96b71",
+            "e-7b5b31ec-eb16"
+          ],
+          "tag": "div",
+          "link": {
+            "destination": null,
+            "isTargetBlank": null,
+            "tag": "a"
+          },
+          "_cssid": "robylo-contact"
+        },
+        "styles": {
+          "__style_id": "e-7b5b31ec-eb16",
+          "css": "gap: var(--space-xs); justify-content: space-between;\n@media(--tablet) { gap: var(--space-xs); grid-column: 1 / -1; justify-content: flex-start; }\n@media(--mobile) { gap: var(--space-xs); grid-column: auto; justify-content: flex-start; }"
+        },
+        "children": [
+          "779deb5e",
+          "47afb9a",
+          "3ecf72b4",
+          "331b5153",
+          "37cec545"
+        ]
+      },
+      "after": {
+        "id": "e424c2c",
+        "title": "Footer Contact",
+        "type": "e-div-block",
+        "settings": {
+          "classes": [
+            "g-6f5f11a",
+            "g-3bac536",
+            "g-3f96b71",
+            "e-7b5b31ec-eb16"
+          ],
+          "tag": "div",
+          "link": {
+            "destination": null,
+            "isTargetBlank": null,
+            "tag": "a"
+          },
+          "_cssid": "robylo-contact"
+        },
+        "styles": {
+          "__style_id": "e-7b5b31ec-eb16",
+          "css": "gap: var(--space-xs); grid-column: 3; grid-row: 1; justify-content: space-between;\n@media(--tablet) { gap: var(--space-xs); grid-column: 2; grid-row: 1; justify-content: flex-start; }\n@media(--mobile) { gap: var(--space-xs); grid-column: auto; grid-row: auto; justify-content: flex-start; }"
+        },
+        "children": [
+          "779deb5e",
+          "47afb9a",
+          "3ecf72b4",
+          "331b5153",
+          "37cec545"
+        ]
+      }
+    },
+    {
+      "id": "39be2867",
+      "before": {
+        "id": "39be2867",
+        "title": "Footer Navigation",
+        "type": "e-div-block",
+        "settings": {
+          "classes": [
+            "g-6f5f11a",
+            "g-3bac536",
+            "g-3f96b71",
+            "e-6077e757-234e"
+          ],
+          "tag": "div"
+        },
+        "styles": {
+          "__style_id": "e-6077e757-234e",
+          "css": "gap: 0px; justify-content: space-between;\n@media(--tablet) { justify-content: flex-start; }\n@media(--mobile) { justify-content: flex-start; }"
+        },
+        "children": [
+          "7ffa59b5",
+          "1a57ae23",
+          "7e3dc0fd",
+          "2a175611",
+          "15d483d9",
+          "147c396c",
+          "308c7b8f"
+        ]
+      },
+      "after": {
+        "id": "39be2867",
+        "title": "Footer Navigation",
+        "type": "e-div-block",
+        "settings": {
+          "classes": [
+            "g-6f5f11a",
+            "g-3bac536",
+            "g-3f96b71",
+            "e-6077e757-234e"
+          ],
+          "tag": "div"
+        },
+        "styles": {
+          "__style_id": "e-6077e757-234e",
+          "css": "gap: 0px; grid-column: 2; grid-row: 1; justify-content: space-between;\n@media(--tablet) { display: grid; gap: var(--space-xs); grid-template-columns: 1fr 1fr; grid-column: 1 / -1; grid-row: 2; justify-content: flex-start; }\n@media(--mobile) { display: flex; gap: 0px; grid-column: auto; grid-row: auto; justify-content: flex-start; }"
+        },
+        "children": [
+          "7ffa59b5",
+          "1a57ae23",
+          "7e3dc0fd",
+          "2a175611",
+          "15d483d9",
+          "147c396c",
+          "308c7b8f"
+        ]
+      }
+    },
+    {
+      "id": "7ffa59b5",
+      "before": {
+        "id": "7ffa59b5",
+        "title": "Services Heading",
+        "type": "e-heading",
+        "settings": {
+          "classes": [
+            "g-0526546",
+            "e-2f1bfe77-c32f"
+          ],
+          "tag": "h2",
+          "title": "Chicago Restoration Services"
+        },
+        "styles": {
+          "__style_id": "e-2f1bfe77-c32f",
+          "css": "margin-block-end: var(--space-sm);"
+        },
+        "children": []
+      },
+      "after": {
+        "id": "7ffa59b5",
+        "title": "Services Heading",
+        "type": "e-heading",
+        "settings": {
+          "classes": [
+            "g-0526546",
+            "e-2f1bfe77-c32f"
+          ],
+          "tag": "h2",
+          "title": "Chicago Restoration Services"
+        },
+        "styles": {
+          "__style_id": "e-2f1bfe77-c32f",
+          "css": "margin-block-end: var(--space-sm);\n@media(--tablet) { grid-column: 1 / -1; }"
+        },
+        "children": []
+      }
+    },
+    {
+      "id": "5fe71200",
+      "before": {
+        "id": "5fe71200",
+        "title": "Coverage Cities",
+        "type": "e-paragraph",
+        "settings": {
+          "classes": [
+            "e-6d369c26-c6cb"
+          ],
+          "paragraph": "Lombard · Arlington Heights · Elmhurst · Naperville · Northbrook · Downers Grove · Oak Brook · Glenview · Highland Park · Schaumburg · Evanston · Elk Grove Village",
+          "tag": "p"
+        },
+        "styles": {
+          "__style_id": "e-6d369c26-c6cb",
+          "css": "font-size: 14px; color: var(--color-border); line-height: 1.8;"
+        },
+        "children": []
+      },
+      "after": {
+        "id": "5fe71200",
+        "title": "Coverage Cities",
+        "type": "e-paragraph",
+        "settings": {
+          "classes": [
+            "e-6d369c26-c6cb"
+          ],
+          "paragraph": "<span>Lombard<span> · </span></span><span>Arlington Heights<span> · </span></span><span>Elmhurst<span> · </span></span><span>Naperville<span> · </span></span><span>Northbrook<span> · </span></span><span>Downers Grove<span> · </span></span><span>Oak Brook<span> · </span></span><span>Glenview<span> · </span></span><span>Highland Park<span> · </span></span><span>Schaumburg<span> · </span></span><span>Evanston<span> · </span></span><span>Elk Grove Village</span>",
+          "tag": "p"
+        },
+        "styles": {
+          "__style_id": "e-6d369c26-c6cb",
+          "css": "font-size: 14px; color: var(--color-border); line-height: 1.8;\n@media(--tablet) { display: grid; gap: var(--space-xs); grid-template-columns: repeat(4,minmax(0,1fr)); & > span > span { display:none; } }\n@media(--mobile) { grid-template-columns: repeat(2,minmax(0,1fr)); }"
+        },
+        "children": []
+      }
+    },
+    {
+      "id": "1d11b99e",
+      "before": {
+        "id": "1d11b99e",
+        "title": "Footer Bottom",
+        "type": "e-flexbox",
+        "settings": {
+          "classes": [
+            "g-11ba71a",
+            "e-3a3f1a6d-bc52"
+          ],
+          "tag": "div"
+        },
+        "styles": {
+          "__style_id": "e-3a3f1a6d-bc52",
+          "css": "border-block-start-width: 1px; flex-wrap: wrap; justify-content: space-between; align-items: center; border-top-style: solid; border-top-color: rgba(255,255,255,0.16);\n@media(--mobile) { flex-direction: row; gap: var(--space-xs); align-items: center; }"
+        },
+        "children": [
+          "578307c4",
+          "5a520a4e"
+        ]
+      },
+      "after": {
+        "id": "1d11b99e",
+        "title": "Footer Bottom",
+        "type": "e-flexbox",
+        "settings": {
+          "classes": [
+            "g-11ba71a",
+            "e-3a3f1a6d-bc52"
+          ],
+          "tag": "div"
+        },
+        "styles": {
+          "__style_id": "e-3a3f1a6d-bc52",
+          "css": "border-block-start-width: 1px; flex-wrap: wrap; justify-content: space-between; align-items: center; border-top-style: solid; border-top-color: rgba(255,255,255,0.16);\n@media(--mobile) { flex-direction: row; gap: var(--space-xs); flex-wrap: nowrap; align-items: center; }"
+        },
+        "children": [
+          "578307c4",
+          "5a520a4e"
+        ]
+      }
+    },
+    {
+      "id": "578307c4",
+      "before": {
+        "id": "578307c4",
+        "title": "Footer Copyright Group",
+        "type": "e-flexbox",
+        "settings": {
+          "classes": [
+            "g-0152925",
+            "e-1e6afb39-6123"
+          ]
+        },
+        "styles": {
+          "__style_id": "e-1e6afb39-6123",
+          "css": "width: auto; gap: 4px; flex-wrap: wrap; align-items: baseline;\n@media(--mobile) { flex: 1 1 0px; }"
+        },
+        "children": [
+          "890602e",
+          "23d35135"
+        ]
+      },
+      "after": {
+        "id": "578307c4",
+        "title": "Footer Copyright Group",
+        "type": "e-flexbox",
+        "settings": {
+          "classes": [
+            "g-0152925",
+            "e-1e6afb39-6123"
+          ]
+        },
+        "styles": {
+          "__style_id": "e-1e6afb39-6123",
+          "css": "width: auto; gap: 4px; flex-wrap: wrap; align-items: baseline;\n@media(--mobile) { flex-wrap: nowrap; flex: 1 1 0px; }"
+        },
+        "children": [
+          "890602e",
+          "23d35135"
+        ]
+      }
+    },
+    {
+      "id": "890602e",
+      "before": {
+        "id": "890602e",
+        "title": "Copyright Year",
+        "type": "e-paragraph",
+        "settings": {
+          "paragraph": {
+            "name": "current-date-time",
+            "settings": {
+              "date_format": "custom",
+              "time_format": "default",
+              "custom_format": "Y",
+              "before": "© ",
+              "after": ""
+            }
+          },
+          "classes": [
+            "g-2f5e3b0",
+            "e-b20365b-db91"
+          ],
+          "tag": "span"
+        },
+        "styles": {
+          "__style_id": "e-b20365b-db91",
+          "css": "font-size: 14px; color: var(--color-border);"
+        },
+        "children": []
+      },
+      "after": {
+        "id": "890602e",
+        "title": "Copyright Year",
+        "type": "e-paragraph",
+        "settings": {
+          "paragraph": {
+            "name": "current-date-time",
+            "settings": {
+              "date_format": "custom",
+              "time_format": "default",
+              "custom_format": "Y",
+              "before": "© ",
+              "after": ""
+            }
+          },
+          "classes": [
+            "g-2f5e3b0",
+            "e-b20365b-db91"
+          ],
+          "tag": "span"
+        },
+        "styles": {
+          "__style_id": "e-b20365b-db91",
+          "css": "font-size: 14px; color: var(--color-border);\n@media(--mobile) { font-size: 13px; line-height: 1.5; flex: 0 0 auto; }"
+        },
+        "children": []
+      }
+    },
+    {
+      "id": "23d35135",
+      "before": {
+        "id": "23d35135",
+        "title": "Copyright Identity",
+        "type": "e-paragraph",
+        "settings": {
+          "classes": [
+            "g-2f5e3b0",
+            "e-63994f17-a62c"
+          ],
+          "paragraph": "GCPRO Restoration. All rights reserved.",
+          "tag": "span"
+        },
+        "styles": {
+          "__style_id": "e-63994f17-a62c",
+          "css": "font-size: 14px; color: var(--color-border);"
+        },
+        "children": []
+      },
+      "after": {
+        "id": "23d35135",
+        "title": "Copyright Identity",
+        "type": "e-paragraph",
+        "settings": {
+          "classes": [
+            "g-2f5e3b0",
+            "e-63994f17-a62c"
+          ],
+          "paragraph": "GCPRO Restoration. All rights reserved.",
+          "tag": "span"
+        },
+        "styles": {
+          "__style_id": "e-63994f17-a62c",
+          "css": "font-size: 14px; color: var(--color-border);\n@media(--mobile) { font-size: 13px; line-height: 1.5; text-wrap: balance; }"
+        },
+        "children": []
+      }
+    },
+    {
+      "id": "5a520a4e",
+      "before": {
+        "id": "5a520a4e",
+        "title": "Footer Home",
+        "type": "e-button",
+        "settings": {
+          "classes": [
+            "g-373d928",
+            "e-3d1cd11b-276c"
+          ],
+          "text": "↑ Back to top",
+          "link": {
+            "destination": "#top",
+            "isTargetBlank": false,
+            "tag": "a"
+          }
+        },
+        "styles": {
+          "__style_id": "e-3d1cd11b-276c",
+          "css": "font-size: 14px; color: var(--color-border); margin-inline-start: auto;\n@media(--mobile) { margin-inline-start: auto; }"
+        },
+        "children": []
+      },
+      "after": {
+        "id": "5a520a4e",
+        "title": "Footer Home",
+        "type": "e-button",
+        "settings": {
+          "classes": [
+            "g-373d928",
+            "e-3d1cd11b-276c"
+          ],
+          "text": "↑ Back to top",
+          "link": {
+            "destination": "#top",
+            "isTargetBlank": false,
+            "tag": "a"
+          }
+        },
+        "styles": {
+          "__style_id": "e-3d1cd11b-276c",
+          "css": "font-size: 14px; color: var(--color-border); margin-inline-start: auto;\n@media(--mobile) { min-height: 44px; font-size: 13px; margin-inline-start: auto; display: flex; flex: 0 0 auto; align-items: center; white-space: nowrap; }"
+        },
+        "children": []
+      }
+    }
+  ],
+  "classChange": {
+    "id": "g-aca1669",
+    "before": "No explicit tablet/mobile min-height",
+    "after": "min-height:44px at tablet/mobile; base unchanged"
+  }
+}
