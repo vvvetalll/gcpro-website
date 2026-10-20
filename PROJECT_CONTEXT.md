@@ -1,5 +1,11 @@
 # GCPRO project context
 
+## Orange mobile Call Now and 24/7 — 2026-10-20, E63
+
+Global Mobile Emergency CTA895 now reuses Primary CTA53 and Emergency Service Mark286, displaying Emergency help →24/7→Call Now. Three existing outer override keys preserved; Header instance still renders Call Now/tel:+18476563322. Existing panel class g-6771860 owns native8px padding and narrowly scoped compact-button sizing/empty mark caption handling. No new classes/Variables/components/dependencies;903 behavior and production/BEAF unchanged. [Exact current IDs, CSS, tests and rollback](docs/audits/2026-10-20-mobile-cta-orange-247.md).
+
+Saved895 has four nodes, same component ID/UID; original nested Outline103 replaced by existing53, existing286 added as a nested instance with blank caption.360/393/430 fit without overlap/overflow, orange button44px high;768/1440 panel hidden. Hero hidden/footer visible, menu suppression/return, keyboard focus and inherited hover checked.109 Global Classes retained. Native component editor shell remained loading in this session; saved-state/MCP/resource/frontend checks passed, full visual-editor interaction not certified. Physical-device and anonymous/cache-HIT limits remain.
+
 ## Process transition CTA and first Header exit — 2026-10-20, E62
 
 E61's Process center check missed the entry interval: Emergency Restoration Support's call button remained visible while How We Work entered, so the implicit competing-phone rule hid Call Now. Removed that rule entirely from903; ordinary telephone buttons no longer suppress the panel after Hero. Menus/forms/overlays, existing explicit suppression hooks and responsive guards remain. [Exact behavior, storage, regression tests and rollback](docs/audits/2026-10-20-process-cta-transition.md).
@@ -482,6 +488,7 @@ Use these labels throughout the documentation. Observed facts are limited to the
 
 | Ref | Source and date | What it establishes / limits |
 | --- | --- | --- |
+| E63 | Native component895 publish/readback, class-resource reload and authenticated360/393/430/768/1440 browser tests,2026-10-20; [audit](docs/audits/2026-10-20-mobile-cta-orange-247.md) | Reused orange53/brand286, compact fit/44px button, preserved overrides/phone, focus/hover/menu. No physical-device/anonymous/full visual-editor certification. |
 | E62 | Native903 source reload, authenticated Chrome Process sweep and Header frame traces,2026-10-20; [audit](docs/audits/2026-10-20-process-cta-transition.md) | Phone-suppression root cause, continuous post-Hero panel at Process transitions, monotonic first Header exit at five widths, menu and reduced-motion checks. No physical-device/anonymous certification. |
 | E61 | Fresh154 MCP before/after190-node comparison, native903 source reload and authenticated responsive browser tests,2026-10-20; [audit](docs/audits/2026-10-20-section-layers-footer.md) | Local section stacking, Core sticky release, Call Now at Core/Process/footer and menu yield,360/393/430/768/1440. No physical-device/anonymous/cache-HIT certification. |
 | E60 | Native Code903 saved-source readback and authenticated Chrome responsive tests,2026-10-20; [audit](docs/audits/2026-10-20-header-cycle-fix.md) | Matching-position fixed entry, post-menu down/up cycles with retained pointer focus, touch393, keyboard-visible focus, reduced motion, Core clearance/release and panel collision suppression. No physical-device/anonymous/cache-HIT claim. |

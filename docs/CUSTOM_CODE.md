@@ -1,5 +1,7 @@
 # Custom code and dependency register
 
+**E63,2026-10-20:** No Custom Code903/source changes. Existing class gcpro-mobile-cta g-6771860 owns compact nested Primary53 sizing, no-shrink286 and empty-caption hiding; native panel padding becomes space-xs on all sides. Outline-specific guard replaced, duplicates removed, native colors/layout retained. [Exact class CSS and component locators](audits/2026-10-20-mobile-cta-orange-247.md). No new code entry/class/component/dependency.
+
 **Current E62,2026-10-20:** Existing903 JS removes automatic phone-button suppression, including main content, so Call Now stays through Process entry. First downward fixed entry starts its200ms exit immediately from measured flow top; one-time transient inline transform/transition setup plus style flush prevents gesture-overshoot bounce. Both inline properties are cleared immediately. CSS, native components and all hooks/observers/listeners unchanged. Saved wrapper exact, Entire site/Body End/priority5 preserved. [Exact locations, behavior, evidence and rollback](audits/2026-10-20-process-cta-transition.md). No new code entry, class or dependency.
 
 **Historical E61,2026-10-20:** Existing903 JS limited competing phone actions to main content; footer text phone no longer suppressed Call Now. E62 removes the remaining implicit phone rule. E61 removed E60 introOverlap gate after correcting native section stacking. Homepage154 native styles own section z0 and mobile intro z1. [Owners and rollback](audits/2026-10-20-section-layers-footer.md).

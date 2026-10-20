@@ -1,0 +1,550 @@
+{
+  "environment": "Authenticated Chrome responsive emulation; no physical device test",
+  "matrix": [
+    {
+      "width": 360,
+      "bar": {
+        "bottom": 844.0000228881836,
+        "height": 61.33333587646485,
+        "left": 8,
+        "right": 295,
+        "top": 782.6666870117188,
+        "width": 287,
+        "x": 8,
+        "y": 782.6666870117188
+      },
+      "bg": "rgb(240, 90, 41)",
+      "button": {
+        "bottom": 835.3333740234375,
+        "height": 44,
+        "left": 189.20834350585935,
+        "right": 286.3333435058594,
+        "top": 791.3333740234375,
+        "width": 97.125,
+        "x": 189.20834350585935,
+        "y": 791.3333740234375
+      },
+      "color": "rgb(255, 255, 255)",
+      "font": "14px",
+      "href": "tel:+18476563322",
+      "label": {
+        "bottom": 832.9271240234375,
+        "height": 39.1875,
+        "left": 16.666667938232422,
+        "right": 125.39583969116212,
+        "top": 793.7396240234375,
+        "width": 108.72917175292967,
+        "x": 16.666667938232422,
+        "y": 793.7396240234375
+      },
+      "mark": {
+        "bottom": 824.3333740234375,
+        "height": 22,
+        "left": 133.39584350585938,
+        "right": 181.20834350585935,
+        "top": 802.3333740234375,
+        "width": 47.8125,
+        "x": 133.39584350585938,
+        "y": 802.3333740234375
+      },
+      "nowrap": "nowrap",
+      "overflow": 0,
+      "padding": "8px",
+      "text": "Emergency help 24 / 7 Call Now",
+      "visible": true
+    },
+    {
+      "width": 393,
+      "bar": {
+        "bottom": 844.0000228881836,
+        "height": 61.33333587646485,
+        "left": 8,
+        "right": 262.3333435058594,
+        "top": 782.6666870117188,
+        "width": 254.33334350585935,
+        "x": 8,
+        "y": 782.6666870117188
+      },
+      "bg": "rgb(240, 90, 41)",
+      "button": {
+        "bottom": 835.3333740234375,
+        "height": 44,
+        "left": 156.5416717529297,
+        "right": 253.6666717529297,
+        "top": 791.3333740234375,
+        "width": 97.125,
+        "x": 156.5416717529297,
+        "y": 791.3333740234375
+      },
+      "color": "rgb(255, 255, 255)",
+      "font": "14px",
+      "href": "tel:+18476563322",
+      "label": {
+        "bottom": 832.9271240234375,
+        "height": 39.1875,
+        "left": 16.666667938232422,
+        "right": 92.72916793823242,
+        "top": 793.7396240234375,
+        "width": 76.0625,
+        "x": 16.666667938232422,
+        "y": 793.7396240234375
+      },
+      "mark": {
+        "bottom": 824.3333740234375,
+        "height": 22,
+        "left": 100.72917175292967,
+        "right": 148.5416717529297,
+        "top": 802.3333740234375,
+        "width": 47.8125,
+        "x": 100.72917175292967,
+        "y": 802.3333740234375
+      },
+      "nowrap": "nowrap",
+      "overflow": 0,
+      "padding": "8px",
+      "text": "Emergency help 24 / 7 Call Now",
+      "visible": true
+    },
+    {
+      "width": 430,
+      "bar": {
+        "bottom": 844.0000228881836,
+        "height": 61.33333587646485,
+        "left": 8,
+        "right": 295,
+        "top": 782.6666870117188,
+        "width": 287,
+        "x": 8,
+        "y": 782.6666870117188
+      },
+      "bg": "rgb(240, 90, 41)",
+      "button": {
+        "bottom": 835.3333740234375,
+        "height": 44,
+        "left": 189.20834350585935,
+        "right": 286.3333435058594,
+        "top": 791.3333740234375,
+        "width": 97.125,
+        "x": 189.20834350585935,
+        "y": 791.3333740234375
+      },
+      "color": "rgb(255, 255, 255)",
+      "font": "14px",
+      "href": "tel:+18476563322",
+      "label": {
+        "bottom": 832.9271240234375,
+        "height": 39.1875,
+        "left": 16.666667938232422,
+        "right": 125.39583969116212,
+        "top": 793.7396240234375,
+        "width": 108.72917175292967,
+        "x": 16.666667938232422,
+        "y": 793.7396240234375
+      },
+      "mark": {
+        "bottom": 824.3333740234375,
+        "height": 22,
+        "left": 133.39584350585938,
+        "right": 181.20834350585935,
+        "top": 802.3333740234375,
+        "width": 47.8125,
+        "x": 133.39584350585938,
+        "y": 802.3333740234375
+      },
+      "nowrap": "nowrap",
+      "overflow": 0,
+      "padding": "8px",
+      "text": "Emergency help 24 / 7 Call Now",
+      "visible": true
+    },
+    {
+      "width": 768,
+      "bar": {
+        "bottom": 0,
+        "height": 0,
+        "left": 0,
+        "right": 0,
+        "top": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      "bg": "rgb(240, 90, 41)",
+      "button": {
+        "bottom": 0,
+        "height": 0,
+        "left": 0,
+        "right": 0,
+        "top": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      "color": "rgb(255, 255, 255)",
+      "font": "14px",
+      "href": "tel:+18476563322",
+      "label": {
+        "bottom": 0,
+        "height": 0,
+        "left": 0,
+        "right": 0,
+        "top": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      "mark": {
+        "bottom": 0,
+        "height": 0,
+        "left": 0,
+        "right": 0,
+        "top": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      "nowrap": "nowrap",
+      "overflow": 0,
+      "padding": "8px",
+      "text": "Emergency help 24 / 7 Call Now",
+      "visible": false
+    },
+    {
+      "width": 1440,
+      "bar": {
+        "bottom": 0,
+        "height": 0,
+        "left": 0,
+        "right": 0,
+        "top": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      "bg": "rgb(240, 90, 41)",
+      "button": {
+        "bottom": 0,
+        "height": 0,
+        "left": 0,
+        "right": 0,
+        "top": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      "color": "rgb(255, 255, 255)",
+      "font": "14px",
+      "href": "tel:+18476563322",
+      "label": {
+        "bottom": 0,
+        "height": 0,
+        "left": 0,
+        "right": 0,
+        "top": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      "mark": {
+        "bottom": 0,
+        "height": 0,
+        "left": 0,
+        "right": 0,
+        "top": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+      },
+      "nowrap": "nowrap",
+      "overflow": 0,
+      "padding": "8px",
+      "text": "Emergency help 24 / 7 Call Now",
+      "visible": false
+    }
+  ],
+  "hero": {
+    "bar": {
+      "bottom": 0,
+      "height": 0,
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "bg": "rgb(240, 90, 41)",
+    "button": {
+      "bottom": 0,
+      "height": 0,
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "color": "rgb(255, 255, 255)",
+    "font": "14px",
+    "href": "tel:+18476563322",
+    "label": {
+      "bottom": 0,
+      "height": 0,
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "mark": {
+      "bottom": 0,
+      "height": 0,
+      "left": 0,
+      "right": 0,
+      "top": 0,
+      "width": 0,
+      "x": 0,
+      "y": 0
+    },
+    "nowrap": "nowrap",
+    "overflow": 0,
+    "padding": "8px",
+    "text": "Emergency help 24 / 7 Call Now",
+    "visible": false
+  },
+  "footer": {
+    "bar": {
+      "bottom": 844.0000228881836,
+      "height": 61.33333587646485,
+      "left": 8,
+      "right": 295.3333435058594,
+      "top": 782.6666870117188,
+      "width": 287.3333435058594,
+      "x": 8,
+      "y": 782.6666870117188
+    },
+    "bg": "rgb(20, 40, 98)",
+    "button": {
+      "bottom": 835.3333740234375,
+      "height": 44,
+      "left": 189.5416717529297,
+      "right": 286.6666717529297,
+      "top": 791.3333740234375,
+      "width": 97.125,
+      "x": 189.5416717529297,
+      "y": 791.3333740234375
+    },
+    "color": "rgb(255, 255, 255)",
+    "font": "14px",
+    "href": "tel:+18476563322",
+    "label": {
+      "bottom": 832.9271240234375,
+      "height": 39.1875,
+      "left": 16.666667938232422,
+      "right": 125.72916793823242,
+      "top": 793.7396240234375,
+      "width": 109.0625,
+      "x": 16.666667938232422,
+      "y": 793.7396240234375
+    },
+    "mark": {
+      "bottom": 824.3333740234375,
+      "height": 22,
+      "left": 133.7291717529297,
+      "right": 181.5416717529297,
+      "top": 802.3333740234375,
+      "width": 47.8125,
+      "x": 133.7291717529297,
+      "y": 802.3333740234375
+    },
+    "nowrap": "nowrap",
+    "overflow": 0,
+    "padding": "8px",
+    "text": "Emergency help 24 / 7 Call Now",
+    "visible": true
+  },
+  "menu": {
+    "expanded": "true",
+    "openVisible": false,
+    "closedVisible": true
+  },
+  "focus": {
+    "active": true,
+    "outline": "solid",
+    "visible": true
+  },
+  "hoverBg": "rgb(20, 40, 98)",
+  "classCount": 109,
+  "classBefore": {
+    "id": "g-6771860",
+    "label": "gcpro-mobile-cta",
+    "type": "class",
+    "variants": [
+      {
+        "meta": {
+          "breakpoint": "desktop",
+          "state": null
+        },
+        "props": {
+          "color": {
+            "$$type": "global-color-variable",
+            "value": "e-gv-714c09b"
+          },
+          "padding": {
+            "$$type": "dimensions",
+            "value": {
+              "block-start": {
+                "$$type": "global-size-variable",
+                "value": "e-gv-ae8c2d2"
+              },
+              "inline-end": {
+                "$$type": "global-size-variable",
+                "value": "e-gv-ff0543b"
+              },
+              "block-end": {
+                "$$type": "global-size-variable",
+                "value": "e-gv-ae8c2d2"
+              },
+              "inline-start": {
+                "$$type": "global-size-variable",
+                "value": "e-gv-ff0543b"
+              }
+            }
+          },
+          "border-radius": {
+            "$$type": "size",
+            "value": {
+              "size": 8,
+              "unit": "px"
+            }
+          },
+          "border-width": {
+            "$$type": "size",
+            "value": {
+              "size": 1,
+              "unit": "px"
+            }
+          },
+          "border-color": {
+            "$$type": "global-color-variable",
+            "value": "e-gv-a9a1731"
+          },
+          "border-style": {
+            "$$type": "string",
+            "value": "solid"
+          },
+          "background": {
+            "$$type": "background",
+            "value": {
+              "color": {
+                "$$type": "global-color-variable",
+                "value": "e-gv-b7d3afd"
+              }
+            }
+          },
+          "display": {
+            "$$type": "string",
+            "value": "none"
+          },
+          "flex-direction": {
+            "$$type": "string",
+            "value": "row"
+          },
+          "gap": {
+            "$$type": "global-size-variable",
+            "value": "e-gv-ae8c2d2"
+          },
+          "justify-content": {
+            "$$type": "string",
+            "value": "space-between"
+          },
+          "align-items": {
+            "$$type": "string",
+            "value": "center"
+          }
+        },
+        "custom_css": {
+          "raw": "JiAuYnV0dG9uLW91dGxpbmUtd2hpdGUgeyBmbGV4LXNocmluazogMDsgd2hpdGUtc3BhY2U6IG5vd3JhcDsgfSAmOndoZXJlKC5lbGVtZW50b3ItZWRpdG9yLWFjdGl2ZSAqKSB7IGRpc3BsYXk6IGZsZXg7IHBvc2l0aW9uOiByZWxhdGl2ZTsgfQ=="
+        }
+      }
+    ]
+  },
+  "classAfter": {
+    "id": "g-6771860",
+    "label": "gcpro-mobile-cta",
+    "type": "class",
+    "variants": [
+      {
+        "meta": {
+          "breakpoint": "desktop",
+          "state": null
+        },
+        "props": {
+          "color": {
+            "$$type": "global-color-variable",
+            "value": "e-gv-714c09b"
+          },
+          "padding": {
+            "$$type": "global-size-variable",
+            "value": "e-gv-ae8c2d2"
+          },
+          "border-radius": {
+            "$$type": "size",
+            "value": {
+              "size": 8,
+              "unit": "px"
+            }
+          },
+          "border-width": {
+            "$$type": "size",
+            "value": {
+              "size": 1,
+              "unit": "px"
+            }
+          },
+          "border-color": {
+            "$$type": "global-color-variable",
+            "value": "e-gv-a9a1731"
+          },
+          "border-style": {
+            "$$type": "string",
+            "value": "solid"
+          },
+          "background": {
+            "$$type": "background",
+            "value": {
+              "color": {
+                "$$type": "global-color-variable",
+                "value": "e-gv-b7d3afd"
+              }
+            }
+          },
+          "display": {
+            "$$type": "string",
+            "value": "none"
+          },
+          "flex-direction": {
+            "$$type": "string",
+            "value": "row"
+          },
+          "gap": {
+            "$$type": "global-size-variable",
+            "value": "e-gv-ae8c2d2"
+          },
+          "justify-content": {
+            "$$type": "string",
+            "value": "space-between"
+          },
+          "align-items": {
+            "$$type": "string",
+            "value": "center"
+          }
+        },
+        "custom_css": {
+          "raw": "JiAuYnV0dG9uLXByaW1hcnkgeyBmbGV4LXNocmluazogMDsgd2hpdGUtc3BhY2U6IG5vd3JhcDsgcGFkZGluZzogdmFyKC0tc3BhY2UteHMpOyBtaW4taGVpZ2h0OiA0NHB4OyBmb250LXNpemU6IDE0cHg7IH0gJiAuZW1lcmdlbmN5LW1hcmsgeyBmbGV4LXNocmluazogMDsgfSAmIC5lbWVyZ2VuY3ktbWFya19fbGFiZWw6ZW1wdHkgeyBkaXNwbGF5OiBub25lOyB9ICY6d2hlcmUoLmVsZW1lbnRvci1lZGl0b3ItYWN0aXZlICopIHsgZGlzcGxheTogZmxleDsgcG9zaXRpb246IHJlbGF0aXZlOyB9"
+        }
+      }
+    ]
+  }
+}

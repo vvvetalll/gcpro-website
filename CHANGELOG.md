@@ -1,5 +1,11 @@
 # GCPRO changelog
 
+## 2026-10-20 — Orange Call Now and existing24/7 mark — E63
+
+- Updated existing global CTA895: reused Primary CTA53 instead of Outline103; inserted existing Emergency Service Mark286 with blank caption to the right of Emergency help. Existing label/call_text/call_link keys and phone retained; shared53/103/286 definitions unchanged.
+- Existing gcpro-mobile-cta class: native padding8px, compact nested primary button14px/8px padding/min-height44px, mark no-shrink/empty caption hidden. Removed superseded Outline selector and duplicate declarations;109 class identities unchanged. No new component/class/token/plugin/script or903 changes.
+- Browser360/393/430 fit/overflow0,768/1440 hidden; menu, Hero/footer, focus and inherited hover checked. Native895/class readback verified. [Storage, limitations and rollback](docs/audits/2026-10-20-mobile-cta-orange-247.md). Staging only; production/BEAF untouched.
+
 ## 2026-10-20 — Keep CTA through Process entry and smooth first Header exit — E62
 
 - Reproduced Call Now hidden at y2900–3200 while How We Work entered and the preceding Emergency Support telephone button was still visible. Removed implicit telephone-button suppression from existing903; menu/form/modal/explicit policy rules remain. E61's center-only Process sample missed this interval.

@@ -10,9 +10,10 @@ The rendered outer `<header>` is a direct body child with no transform, containm
 
 **Atomic Component895**, “GCPRO / Mobile Emergency CTA”, UID component-9ee4de7d-4608-4b17-b780-3c450684119b:
 
-- Root **4f446aa2**: native Flexbox, tag aside, gcpro-mobile-cta.
-- Paragraph **142139fa**: Emergency help, gcpro-mobile-cta__label.
-- Nested existing Outline White Button **103**, instance **2c82656e**. No duplicate button definition.
+- Root **175d43eb**: native Flexbox, tag aside, gcpro-mobile-cta.
+- Paragraph **111fcda3**: Emergency help, gcpro-mobile-cta__label.
+- Nested existing Emergency Service Mark **286**, instance **1acf10db**, blank caption override; existing white numbers/orange slash render to the right of the label.
+- Nested existing Primary CTA Button **53**, instance **2077bfde**, orange normal state. No duplicate button/mark definition. E63 replaced the former Outline103 and regenerated the three original element IDs through native component publication;895 ID/UID and exposed keys are stable.
 - Supported overrides: **label**, **call_text**, **call_link**. Header instance overrides call_text to **Call Now**; telephone destination resolves to **tel:+18476563322**. Component origin text is Call847-656-3322. No new placeholder route.
 
 Edit global placement/instance overrides in [Header editor](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=113&action=elementor), or the shared [CTA definition](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=895&action=elementor). Select Global Mobile Emergency CTA in Navigator, then Edit Component. The component's editor-only class exception shows it in normal flow; the controller is disabled in Elementor editing/preview. Never detach it to change a label or telephone destination.
@@ -30,16 +31,18 @@ Six new Global Classes, taking103 identities to109; priority of existing classes
 | gcpro-sticky-intro / g-43749f7 | Empty hook on Core B intro6cb38139 for verified Header clearance conflict |
 | gcpro-cta-off / g-3cbfd16 | Empty page/template policy hook; 404125/root7351ac06 and Search126/root7071a479 |
 
-Reuse color-primary, color-white, color-accent, font-body, space-xs and space-sm. The existing103 button retains its typography, colors, padding, radius, hover and focus styles. No new Global Variables, palette, plugin, library, theme file or PHP.
+Reuse color-primary, color-white, color-accent, font-body and space-xs. E63 uses existing53 for primary colors/hover/focus/radius and existing286 for branded24/7. Their shared definitions remain unchanged. The panel owns its own8px padding and compact nested-button size; no new Global Variables, palette, plugin, library, theme file or PHP.
 
 Design System → Classes → gcpro-mobile-cta → Custom CSS owns only:
 
 ```css
-& .button-outline-white { flex-shrink: 0; white-space: nowrap; }
+& .button-primary { flex-shrink: 0; white-space: nowrap; padding: var(--space-xs); min-height: 44px; font-size: 14px; }
+& .emergency-mark { flex-shrink: 0; }
+& .emergency-mark__label:empty { display: none; }
 &:where(.elementor-editor-active *) { display: flex; position: relative; }
 ```
 
-The first prevents Call Now wrapping when the existing admin chat launcher needs space. The second permits static native editing while the frontend fallback remains hidden. Layout/brand properties stay in native controls. [Saved class snapshot](../audits/2026-10-20-smart-navigation-classes.json).
+The button guard keeps a44px-high compact action when the existing admin chat launcher reserves width. The mark guard preserves its shape and hides only its blank caption within this panel; Hero286 is unaffected. Editor rule permits static native editing while frontend fallback stays hidden. Nested53 exposes text/link, not compact size, so this existing class-owned exception avoids modifying every shared Primary button. [Current E63 owners/tests/rollback](../audits/2026-10-20-mobile-cta-orange-247.md); [historical E58 class snapshot](../audits/2026-10-20-smart-navigation-classes.json).
 
 ## One controller and active deployment
 
@@ -75,7 +78,7 @@ Before adding clearance, Chrome393px upward scroll at y2250 returned the Header 
 
 1. Set **Code903 to Draft**, update and clear staging cache. On a fresh load the Header is static, panel is hidden by its native class and Core uses its original native top values. This is the single behavioral rollback switch.
 2. For full removal, remove Header113's new Div block feba833/component18849090; remove the four semantic hooks from Header113, Homepage154's two nodes, Hero74 Copy and404/Search roots. Restore only those class lists, preserving all original local styles/links.
-3. Archive895 and remove the six new classes only after checking no additional consumers have been added. Preserve existing Component103,36 variables, menu,590,847 and all BEAF integration.
+3. Archive895 and remove the six new classes only after checking no additional consumers have been added. Preserve existing Components53/103/286,36 variables, menu,590,847 and all BEAF integration.
 4. Recheck saved state, desktop/mobile layout and anonymous delivery. Reverting Git alone does not change WordPress; there is no automatic deployment.
 
 Private scoped pre-change tree snapshots were captured in the task's work directory. They are not full site/database backups or a tested full restore. No raw session/admin response or credential is committed.
