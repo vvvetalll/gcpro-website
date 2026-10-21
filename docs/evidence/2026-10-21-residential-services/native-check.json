@@ -1,0 +1,26 @@
+{
+  "nodes": 52,
+  "components": {
+    "286": 1,
+    "53": 1,
+    "103": 1,
+    "71": 3,
+    "62": 6,
+    "77": 1,
+    "1152": 1,
+    "1149": 1,
+    "59": 1,
+    "1140": 1,
+    "83": 3,
+    "80": 1
+  },
+  "new_local_css": [],
+  "unique_ids": true,
+  "header_footer_unchanged": true,
+  "homepage_other_sections_unchanged": true,
+  "homepage_shared_instances": [
+    "6d0939b9",
+    "60cdf058",
+    "10feca9e"
+  ]
+}

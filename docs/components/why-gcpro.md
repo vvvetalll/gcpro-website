@@ -1,5 +1,7 @@
 # Why GCPRO
 
+**E77 current:** Original Homepage editorial design is now shared Component1149; Homepage60cdf058 and Residential225936ef use independent content Overrides. Source5b2c6d3c is historical. [Current exact locations and checks](residential-services.md).
+
 Editorial introduction plus four numbered benefits on a navy surface.
 
 | Field | Current implementation |

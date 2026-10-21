@@ -6,6 +6,7 @@ Current inspection: **2026-10-20, staging only**. This directory owns component-
 
 | Record | Scope |
 | --- | --- |
+| [Residential Services](residential-services.md) | E77 nine-section hub, shared1152/1149/1140/80, content Overrides, tests and rollback |
 | [Partner Programs](partner-programs.md) | Draft Pages982–986, native3-node shells, confirmed source names, prepared menu13 and activation/recovery |
 | [Main Hero with BEAF](hero-main-beaf.md) | Current main154, first existing comparison723; Hero-only fullscreen suppression, QA and rollback |
 | [Hero Concept B](hero-concept-b.md) | Retained static Draft970, Media973; approved and activated in E70, visual replaced by BEAF in E71 |

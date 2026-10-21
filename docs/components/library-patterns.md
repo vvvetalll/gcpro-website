@@ -1,5 +1,7 @@
 # Additional Atomic library patterns
 
+**E77 current:** First service hub uses established62/77/83, while actual Homepage Why/Process/Areas designs are promoted to1149/1152/1140 for shared reuse rather than visually different alternatives. [Current exact locations and checks](residential-services.md).
+
 **E58,2026-10-20:** Shared Hero74's Copy2bd621f1 gains empty gcpro-cta-origin g-b9ab0d8, ending at its existing CTA. Native styles, content, component overrides and links unchanged. This configures future Hero consumers for the one global navigation controller903; no script is stored in Hero74. [Reuse instructions](smart-navigation.md#responsive-behavior-and-configuration).
 
 Saved definitions and override schemas freshly inspected on2026-10-20. These nine entries complete the16-definition discovery inventory alongside [shared primitives](shared-components.md), [CTA](final-cta.md) and [timeline](how-we-work.md). They are not current Homepage section implementations unless a consumer is named. “Not used in Homepage main” never means safe to delete.

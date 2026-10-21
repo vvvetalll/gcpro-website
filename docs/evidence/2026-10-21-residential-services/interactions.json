@@ -1,0 +1,69 @@
+{
+  "faq": {
+    "EnterOpens": true,
+    "SpaceCloses": true,
+    "questions": 6,
+    "visibleKeyboardFocus": true,
+    "minDesktopSummaryHeight": 73.59
+  },
+  "beaf": {
+    "desktopDrag": {
+      "slider723": [
+        "278px",
+        "357.667px"
+      ],
+      "slider742": [
+        "278px",
+        "377.667px"
+      ]
+    },
+    "mobileDrag": {
+      "before": "176.667px",
+      "after": "left: 241.323px;"
+    },
+    "fullscreenOpenClose": true,
+    "mobileOverlayNoOverflow": true,
+    "callNowHiddenInPopup": true,
+    "verticalTouch": {
+      "before": 5805.33349609375,
+      "after": 5940
+    }
+  },
+  "navigation": [
+    {
+      "barVisible": true,
+      "headerHidden": false,
+      "overflow": 0,
+      "state": "initial",
+      "width": 393,
+      "y": 3110
+    },
+    {
+      "barVisible": false,
+      "headerHidden": false,
+      "originBottom": 688.8125,
+      "state": "top",
+      "y": 0
+    },
+    {
+      "barVisible": true,
+      "headerHidden": true,
+      "state": "down-past-origin",
+      "y": 1050
+    },
+    {
+      "barVisible": true,
+      "headerHidden": false,
+      "state": "up",
+      "y": 850
+    },
+    {
+      "barVisible": false,
+      "expanded": "true",
+      "headerHidden": false,
+      "state": "menu-open",
+      "y": 850
+    }
+  ],
+  "physicalDevices": false
+}

@@ -1,5 +1,7 @@
 # Final CTA and video experiment
 
+**E77 current:** CTA80 is shared unchanged design/content Overrides. Native panel5ec4592 now owns8px radius, obsolete Homepage local rule removed. Existing847 is Entire site, semantic .cta-panel initialization, same original video/mobile/reduced-motion behavior; no duplicated script. Earlier Homepage-only experiment notes below are historical. [Current exact locations and checks](residential-services.md).
+
 Native Component80 supplies reusable copy/actions. **A separate live Custom Code experiment847 modifies its rendered instance.** Absence of a saved video widget does not mean absence of a runtime video.
 
 ## Location, children and overrides

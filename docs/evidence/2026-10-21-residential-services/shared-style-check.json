@@ -1,0 +1,86 @@
+{
+  "home": {
+    "city": {
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "color": "rgb(26, 50, 125)",
+      "display": "flex",
+      "fontFamily": "Inter",
+      "fontSize": "16px",
+      "gap": "12px",
+      "padding": "16px 0px"
+    },
+    "cta": {
+      "background": "rgb(26, 50, 125)",
+      "borderRadius": "8px",
+      "color": "rgb(255, 255, 255)",
+      "display": "flex",
+      "fontFamily": "\"Times New Roman\"",
+      "fontSize": "16px",
+      "gap": "32px",
+      "padding": "48px"
+    },
+    "timeline": {
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "color": "rgb(0, 0, 0)",
+      "display": "grid",
+      "fontFamily": "\"Times New Roman\"",
+      "fontSize": "16px",
+      "gap": "0px",
+      "padding": "0px"
+    },
+    "why": {
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "color": "rgb(255, 255, 255)",
+      "display": "grid",
+      "fontFamily": "\"Times New Roman\"",
+      "fontSize": "16px",
+      "gap": "16px",
+      "padding": "24px"
+    }
+  },
+  "residential": {
+    "city": {
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "color": "rgb(26, 50, 125)",
+      "display": "flex",
+      "fontFamily": "Inter",
+      "fontSize": "16px",
+      "gap": "12px",
+      "padding": "16px 0px"
+    },
+    "cta": {
+      "background": "rgb(26, 50, 125)",
+      "borderRadius": "8px",
+      "color": "rgb(255, 255, 255)",
+      "display": "flex",
+      "fontFamily": "\"Times New Roman\"",
+      "fontSize": "16px",
+      "gap": "32px",
+      "padding": "48px"
+    },
+    "timeline": {
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "color": "rgb(0, 0, 0)",
+      "display": "grid",
+      "fontFamily": "\"Times New Roman\"",
+      "fontSize": "16px",
+      "gap": "0px",
+      "padding": "0px"
+    },
+    "why": {
+      "background": "rgba(0, 0, 0, 0)",
+      "borderRadius": "0px",
+      "color": "rgb(255, 255, 255)",
+      "display": "grid",
+      "fontFamily": "\"Times New Roman\"",
+      "fontSize": "16px",
+      "gap": "16px",
+      "padding": "24px"
+    }
+  }
+}

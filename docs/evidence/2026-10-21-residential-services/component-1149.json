@@ -1,0 +1,696 @@
+{
+  "elements": [
+    {
+      "id": "1be868eb",
+      "elType": "e-div-block",
+      "title": "04 Why Choose GCPRO",
+      "elements": [
+        {
+          "id": "4c8c0961",
+          "elType": "e-div-block",
+          "title": "Why editorial container",
+          "elements": [
+            {
+              "id": "4e03a2e8",
+              "elType": "e-div-block",
+              "title": "Why introduction column",
+              "elements": [
+                {
+                  "id": "17bbc493",
+                  "elType": "widget",
+                  "widgetType": "e-paragraph",
+                  "title": "Why eyebrow",
+                  "interactions": [],
+                  "settings": {
+                    "classes": [
+                      "g-b12aa04",
+                      "e-5c212732-435f"
+                    ],
+                    "paragraph": {
+                      "override_key": "ebd1102",
+                      "origin_value": {
+                        "$$type": "escaped-html",
+                        "value": "05 / WHY GCPRO"
+                      }
+                    },
+                    "tag": "p"
+                  },
+                  "styles": {
+                    "__style_id": "e-5c212732-435f",
+                    "css": "color: var(--color-white);"
+                  },
+                  "tag": "p",
+                  "default_styles": ".elementor .e-paragraph-base{margin:0px;}.elementor .e-paragraph-link-base{all:unset;cursor:pointer;}\n.elementor .e-default-p{font-family:var(--font-body);font-weight:400;font-size:var(--font-size-body);color:var(--color-text);line-height:1.6;margin:0px;cursor: auto; overflow-wrap: anywhere;\\n}"
+                },
+                {
+                  "id": "15fd2255",
+                  "elType": "widget",
+                  "widgetType": "e-heading",
+                  "title": "Why editorial H2",
+                  "interactions": [],
+                  "settings": {
+                    "classes": [
+                      "e-717a7723-bccc"
+                    ],
+                    "tag": "h2",
+                    "title": {
+                      "override_key": "62a085d4",
+                      "origin_value": {
+                        "$$type": "escaped-html",
+                        "value": "WHY CHOOSE GCPRO"
+                      }
+                    }
+                  },
+                  "styles": {
+                    "__style_id": "e-717a7723-bccc",
+                    "css": "color: var(--color-white);"
+                  },
+                  "tag": "h2",
+                  "default_styles": ".elementor .e-heading-base{margin:0px;}.elementor .e-heading-link-base{all:unset;cursor:pointer;}\n.elementor .e-default-h2{font-family:var(--font-heading);font-weight:700;font-size:32px;color:var(--color-text);line-height:1.15;text-transform:uppercase;margin:0px;cursor: auto; overflow-wrap: anywhere;\\n}@media(max-width:1024px){.elementor .e-default-h2{font-size:28px;}}@media(max-width:767px){.elementor .e-default-h2{font-size:24px;}}"
+                },
+                {
+                  "id": "4651ae5a",
+                  "elType": "widget",
+                  "widgetType": "e-divider",
+                  "title": "Why orange accent",
+                  "interactions": [],
+                  "settings": {
+                    "classes": [
+                      "e-66290309-5bda"
+                    ]
+                  },
+                  "styles": {
+                    "__style_id": "e-66290309-5bda",
+                    "css": "width: 40px; height: 3px; margin-block-start: -8px; background-color: var(--color-accent);"
+                  },
+                  "tag": "hr",
+                  "default_styles": ".elementor .e-divider-base{width:100%;height:1px;border-width:0px;border-color:transparent;border-style:none;background-color:#000;}"
+                },
+                {
+                  "id": "4c58995d",
+                  "elType": "widget",
+                  "widgetType": "e-paragraph",
+                  "title": "Why introduction",
+                  "interactions": [],
+                  "settings": {
+                    "classes": [
+                      "e-7f029863-f859"
+                    ],
+                    "paragraph": {
+                      "override_key": "31a44bf8",
+                      "origin_value": {
+                        "$$type": "escaped-html",
+                        "value": "Restoration services for homes, businesses, and properties across the Chicago area."
+                      }
+                    },
+                    "tag": "p"
+                  },
+                  "styles": {
+                    "__style_id": "e-7f029863-f859",
+                    "css": "opacity: 85%;"
+                  },
+                  "tag": "p",
+                  "default_styles": ".elementor .e-paragraph-base{margin:0px;}.elementor .e-paragraph-link-base{all:unset;cursor:pointer;}\n.elementor .e-default-p{font-family:var(--font-body);font-weight:400;font-size:var(--font-size-body);color:var(--color-text);line-height:1.6;margin:0px;cursor: auto; overflow-wrap: anywhere;\\n}"
+                }
+              ],
+              "interactions": [],
+              "settings": {
+                "classes": [
+                  "g-0152925",
+                  "g-6f5f11a",
+                  "e-43dab044-8ee9"
+                ],
+                "tag": "div"
+              },
+              "styles": {
+                "__style_id": "e-43dab044-8ee9",
+                "css": "max-width: 420px; align-content: start;\n@media(--tablet) { max-width: 640px; }"
+              },
+              "tag": "div",
+              "default_styles": ".e-con{position:relative;width:100%;min-width:0;}\n.elementor .e-div-block-base{min-width:30px;padding:10px;display:block;}"
+            },
+            {
+              "id": "5978f758",
+              "elType": "e-div-block",
+              "title": "Why benefits grid",
+              "elements": [
+                {
+                  "id": "69a3fc05",
+                  "elType": "e-div-block",
+                  "title": "Benefit 1",
+                  "elements": [
+                    {
+                      "id": "44761e91",
+                      "elType": "widget",
+                      "widgetType": "e-paragraph",
+                      "title": "Benefit 1 number",
+                      "interactions": [],
+                      "settings": {
+                        "classes": [
+                          "g-046e833"
+                        ],
+                        "paragraph": "01",
+                        "tag": "p"
+                      },
+                      "styles": [],
+                      "tag": "p",
+                      "default_styles": ".elementor .e-paragraph-base{margin:0px;}.elementor .e-paragraph-link-base{all:unset;cursor:pointer;}\n.elementor .e-default-p{font-family:var(--font-body);font-weight:400;font-size:var(--font-size-body);color:var(--color-text);line-height:1.6;margin:0px;cursor: auto; overflow-wrap: anywhere;\\n}"
+                    },
+                    {
+                      "id": "c54763e",
+                      "elType": "e-div-block",
+                      "title": "Benefit 1 content",
+                      "elements": [
+                        {
+                          "id": "74926b17",
+                          "elType": "widget",
+                          "widgetType": "e-svg",
+                          "title": "Benefit 1 icon",
+                          "interactions": [],
+                          "settings": {
+                            "classes": [
+                              "e-35e964b6-7d0e"
+                            ],
+                            "svg": {
+                              "id": 205,
+                              "url": null
+                            }
+                          },
+                          "styles": {
+                            "__style_id": "e-35e964b6-7d0e",
+                            "css": "width: 40px; height: 40px; color: var(--color-accent);"
+                          },
+                          "tag": "div",
+                          "default_styles": ".elementor .e-svg-base{width:65px;height:65px;display:inline-block;}"
+                        },
+                        {
+                          "id": "4dec54e2",
+                          "elType": "widget",
+                          "widgetType": "e-heading",
+                          "title": "Benefit 1 heading",
+                          "interactions": [],
+                          "settings": {
+                            "classes": [
+                              "g-48d2a32"
+                            ],
+                            "tag": "h3",
+                            "title": {
+                              "override_key": "11debea0",
+                              "origin_value": {
+                                "$$type": "escaped-html",
+                                "value": "Residential &amp; Commercial"
+                              }
+                            }
+                          },
+                          "styles": [],
+                          "tag": "h3",
+                          "default_styles": ".elementor .e-heading-base{margin:0px;}.elementor .e-heading-link-base{all:unset;cursor:pointer;}\n.elementor .e-default-h3{font-family:var(--font-heading);font-weight:600;font-size:24px;color:var(--color-text);line-height:1.3;text-transform:capitalize;margin:0px;cursor: auto; overflow-wrap: anywhere;\\n}@media(max-width:1024px){.elementor .e-default-h3{font-size:22px;}}@media(max-width:767px){.elementor .e-default-h3{font-size:20px;}}"
+                        },
+                        {
+                          "id": "5463aefc",
+                          "elType": "widget",
+                          "widgetType": "e-paragraph",
+                          "title": "Benefit 1 description",
+                          "interactions": [],
+                          "settings": {
+                            "classes": [
+                              "e-21c697c0-bed4"
+                            ],
+                            "paragraph": {
+                              "override_key": "46074ea9",
+                              "origin_value": {
+                                "$$type": "escaped-html",
+                                "value": "Restoration services for homes, businesses, and commercial properties."
+                              }
+                            },
+                            "tag": "p"
+                          },
+                          "styles": {
+                            "__style_id": "e-21c697c0-bed4",
+                            "css": "opacity: 85%;"
+                          },
+                          "tag": "p",
+                          "default_styles": ".elementor .e-paragraph-base{margin:0px;}.elementor .e-paragraph-link-base{all:unset;cursor:pointer;}\n.elementor .e-default-p{font-family:var(--font-body);font-weight:400;font-size:var(--font-size-body);color:var(--color-text);line-height:1.6;margin:0px;cursor: auto; overflow-wrap: anywhere;\\n}"
+                        }
+                      ],
+                      "interactions": [],
+                      "settings": {
+                        "classes": [
+                          "g-0152925",
+                          "g-6f5f11a",
+                          "g-3bac536"
+                        ],
+                        "tag": "div"
+                      },
+                      "styles": [],
+                      "tag": "div",
+                      "default_styles": ".e-con{position:relative;width:100%;min-width:0;}\n.elementor .e-div-block-base{min-width:30px;padding:10px;display:block;}"
+                    }
+                  ],
+                  "interactions": [],
+                  "settings": {
+                    "classes": [
+                      "g-9bf65cb",
+                      "e-6accc680-b9a5"
+                    ],
+                    "tag": "div"
+                  },
+                  "styles": {
+                    "__style_id": "e-6accc680-b9a5",
+                    "css": "border-block-end-width: 1px; border-inline-end-width: 1px; border-bottom-style: solid; border-bottom-color: rgba(255,255,255,0.22); border-right-style: solid; border-right-color: rgba(255,255,255,0.22);\n@media(--mobile) { border-block-end-width: 1px; border-inline-end-width: 0px; border-bottom-style: solid; border-bottom-color: rgba(255,255,255,0.22); }"
+                  },
+                  "tag": "div",
+                  "default_styles": ".e-con{position:relative;width:100%;min-width:0;}\n.elementor .e-div-block-base{min-width:30px;padding:10px;display:block;}"
+                },
+                {
+                  "id": "51bc19e4",
+                  "elType": "e-div-block",
+                  "title": "Benefit 2",
+                  "elements": [
+                    {
+                      "id": "6bd36bbb",
+                      "elType": "widget",
+                      "widgetType": "e-paragraph",
+                      "title": "Benefit 2 number",
+                      "interactions": [],
+                      "settings": {
+                        "classes": [
+                          "g-046e833"
+                        ],
+                        "paragraph": "02",
+                        "tag": "p"
+                      },
+                      "styles": [],
+                      "tag": "p",
+                      "default_styles": ".elementor .e-paragraph-base{margin:0px;}.elementor .e-paragraph-link-base{all:unset;cursor:pointer;}\n.elementor .e-default-p{font-family:var(--font-body);font-weight:400;font-size:var(--font-size-body);color:var(--color-text);line-height:1.6;margin:0px;cursor: auto; overflow-wrap: anywhere;\\n}"
+                    },
+                    {
+                      "id": "40b3f6f5",
+                      "elType": "e-div-block",
+                      "title": "Benefit 2 content",
+                      "elements": [
+                        {
+                          "id": "3b3e79ab",
+                          "elType": "widget",
+                          "widgetType": "e-svg",
+                          "title": "Benefit 2 icon",
+                          "interactions": [],
+                          "settings": {
+                            "classes": [
+                              "e-51526ac7-3bae"
+                            ],
+                            "svg": {
+                              "id": 206,
+                              "url": null
+                            }
+                          },
+                          "styles": {
+                            "__style_id": "e-51526ac7-3bae",
+                            "css": "width: 40px; height: 40px; color: var(--color-accent);"
+                          },
+                          "tag": "div",
+                          "default_styles": ".elementor .e-svg-base{width:65px;height:65px;display:inline-block;}"
+                        },
+                        {
+                          "id": "4c2ad172",
+                          "elType": "widget",
+                          "widgetType": "e-heading",
+                          "title": "Benefit 2 heading",
+                          "interactions": [],
+                          "settings": {
+                            "classes": [
+                              "g-48d2a32"
+                            ],
+                            "tag": "h3",
+                            "title": {
+                              "override_key": "74658ef6",
+                              "origin_value": {
+                                "$$type": "escaped-html",
+                                "value": "Comprehensive Restoration"
+                              }
+                            }
+                          },
+                          "styles": [],
+                          "tag": "h3",
+                          "default_styles": ".elementor .e-heading-base{margin:0px;}.elementor .e-heading-link-base{all:unset;cursor:pointer;}\n.elementor .e-default-h3{font-family:var(--font-heading);font-weight:600;font-size:24px;color:var(--color-text);line-height:1.3;text-transform:capitalize;margin:0px;cursor: auto; overflow-wrap: anywhere;\\n}@media(max-width:1024px){.elementor .e-default-h3{font-size:22px;}}@media(max-width:767px){.elementor .e-default-h3{font-size:20px;}}"
+                        },
+                        {
+                          "id": "525d2da",
+                          "elType": "widget",
+                          "widgetType": "e-paragraph",
+                          "title": "Benefit 2 description",
+                          "interactions": [],
+                          "settings": {
+                            "classes": [
+                              "e-c4fc95-ff06"
+                            ],
+                            "paragraph": {
+                              "override_key": "2195b550",
+                              "origin_value": {
+                                "$$type": "escaped-html",
+                                "value": "Water, fire, mold, storm damage, and reconstruction services."
+                              }
+                            },
+                            "tag": "p"
+                          },
+                          "styles": {
+                            "__style_id": "e-c4fc95-ff06",
+                            "css": "opacity: 85%;"
+                          },
+                          "tag": "p",
+                          "default_styles": ".elementor .e-paragraph-base{margin:0px;}.elementor .e-paragraph-link-base{all:unset;cursor:pointer;}\n.elementor .e-default-p{font-family:var(--font-body);font-weight:400;font-size:var(--font-size-body);color:var(--color-text);line-height:1.6;margin:0px;cursor: auto; overflow-wrap: anywhere;\\n}"
+                        }
+                      ],
+                      "interactions": [],
+                      "settings": {
+                        "classes": [
+                          "g-0152925",
+                          "g-6f5f11a",
+                          "g-3bac536"
+                        ],
+                        "tag": "div"
+                      },
+                      "styles": [],
+                      "tag": "div",
+                      "default_styles": ".e-con{position:relative;width:100%;min-width:0;}\n.elementor .e-div-block-base{min-width:30px;padding:10px;display:block;}"
+                    }
+                  ],
+                  "interactions": [],
+                  "settings": {
+                    "classes": [
+                      "g-9bf65cb",
+                      "e-7d0f4f1d-2cb3"
+                    ],
+                    "tag": "div"
+                  },
+                  "styles": {
+                    "__style_id": "e-7d0f4f1d-2cb3",
+                    "css": "border-block-end-width: 1px; border-bottom-style: solid; border-bottom-color: rgba(255,255,255,0.22);\n@media(--mobile) { border-block-end-width: 1px; border-inline-end-width: 0px; border-bottom-style: solid; border-bottom-color: rgba(255,255,255,0.22); }"
+                  },
+                  "tag": "div",
+                  "default_styles": ".e-con{position:relative;width:100%;min-width:0;}\n.elementor .e-div-block-base{min-width:30px;padding:10px;display:block;}"
+                },
+                {
+                  "id": "270a0504",
+                  "elType": "e-div-block",
+                  "title": "Benefit 3",
+                  "elements": [
+                    {
+                      "id": "1f89adb",
+                      "elType": "widget",
+                      "widgetType": "e-paragraph",
+                      "title": "Benefit 3 number",
+                      "interactions": [],
+                      "settings": {
+                        "classes": [
+                          "g-046e833"
+                        ],
+                        "paragraph": "03",
+                        "tag": "p"
+                      },
+                      "styles": [],
+                      "tag": "p",
+                      "default_styles": ".elementor .e-paragraph-base{margin:0px;}.elementor .e-paragraph-link-base{all:unset;cursor:pointer;}\n.elementor .e-default-p{font-family:var(--font-body);font-weight:400;font-size:var(--font-size-body);color:var(--color-text);line-height:1.6;margin:0px;cursor: auto; overflow-wrap: anywhere;\\n}"
+                    },
+                    {
+                      "id": "5be745a",
+                      "elType": "e-div-block",
+                      "title": "Benefit 3 content",
+                      "elements": [
+                        {
+                          "id": "50d8b007",
+                          "elType": "widget",
+                          "widgetType": "e-svg",
+                          "title": "Benefit 3 icon",
+                          "interactions": [],
+                          "settings": {
+                            "classes": [
+                              "e-186c143f-38f2"
+                            ],
+                            "svg": {
+                              "id": 210,
+                              "url": null
+                            }
+                          },
+                          "styles": {
+                            "__style_id": "e-186c143f-38f2",
+                            "css": "width: 40px; height: 40px; color: var(--color-accent);"
+                          },
+                          "tag": "div",
+                          "default_styles": ".elementor .e-svg-base{width:65px;height:65px;display:inline-block;}"
+                        },
+                        {
+                          "id": "dd0147d",
+                          "elType": "widget",
+                          "widgetType": "e-heading",
+                          "title": "Benefit 3 heading",
+                          "interactions": [],
+                          "settings": {
+                            "classes": [
+                              "g-48d2a32"
+                            ],
+                            "tag": "h3",
+                            "title": {
+                              "override_key": "133bbae9",
+                              "origin_value": {
+                                "$$type": "escaped-html",
+                                "value": "Coordinated Process"
+                              }
+                            }
+                          },
+                          "styles": [],
+                          "tag": "h3",
+                          "default_styles": ".elementor .e-heading-base{margin:0px;}.elementor .e-heading-link-base{all:unset;cursor:pointer;}\n.elementor .e-default-h3{font-family:var(--font-heading);font-weight:600;font-size:24px;color:var(--color-text);line-height:1.3;text-transform:capitalize;margin:0px;cursor: auto; overflow-wrap: anywhere;\\n}@media(max-width:1024px){.elementor .e-default-h3{font-size:22px;}}@media(max-width:767px){.elementor .e-default-h3{font-size:20px;}}"
+                        },
+                        {
+                          "id": "2525eae",
+                          "elType": "widget",
+                          "widgetType": "e-paragraph",
+                          "title": "Benefit 3 description",
+                          "interactions": [],
+                          "settings": {
+                            "classes": [
+                              "e-404cbff7-cfc6"
+                            ],
+                            "paragraph": {
+                              "override_key": "44c64cc8",
+                              "origin_value": {
+                                "$$type": "escaped-html",
+                                "value": "From assessment to completion, we coordinate the restoration process."
+                              }
+                            },
+                            "tag": "p"
+                          },
+                          "styles": {
+                            "__style_id": "e-404cbff7-cfc6",
+                            "css": "opacity: 85%;"
+                          },
+                          "tag": "p",
+                          "default_styles": ".elementor .e-paragraph-base{margin:0px;}.elementor .e-paragraph-link-base{all:unset;cursor:pointer;}\n.elementor .e-default-p{font-family:var(--font-body);font-weight:400;font-size:var(--font-size-body);color:var(--color-text);line-height:1.6;margin:0px;cursor: auto; overflow-wrap: anywhere;\\n}"
+                        }
+                      ],
+                      "interactions": [],
+                      "settings": {
+                        "classes": [
+                          "g-0152925",
+                          "g-6f5f11a",
+                          "g-3bac536"
+                        ],
+                        "tag": "div"
+                      },
+                      "styles": [],
+                      "tag": "div",
+                      "default_styles": ".e-con{position:relative;width:100%;min-width:0;}\n.elementor .e-div-block-base{min-width:30px;padding:10px;display:block;}"
+                    }
+                  ],
+                  "interactions": [],
+                  "settings": {
+                    "classes": [
+                      "g-9bf65cb",
+                      "e-1dc54fcd-6015"
+                    ],
+                    "tag": "div"
+                  },
+                  "styles": {
+                    "__style_id": "e-1dc54fcd-6015",
+                    "css": "border-inline-end-width: 1px; border-right-style: solid; border-right-color: rgba(255,255,255,0.22);\n@media(--mobile) { border-block-end-width: 1px; border-inline-end-width: 0px; border-bottom-style: solid; border-bottom-color: rgba(255,255,255,0.22); }"
+                  },
+                  "tag": "div",
+                  "default_styles": ".e-con{position:relative;width:100%;min-width:0;}\n.elementor .e-div-block-base{min-width:30px;padding:10px;display:block;}"
+                },
+                {
+                  "id": "40594088",
+                  "elType": "e-div-block",
+                  "title": "Benefit 4",
+                  "elements": [
+                    {
+                      "id": "3f9bc020",
+                      "elType": "widget",
+                      "widgetType": "e-paragraph",
+                      "title": "Benefit 4 number",
+                      "interactions": [],
+                      "settings": {
+                        "classes": [
+                          "g-046e833"
+                        ],
+                        "paragraph": "04",
+                        "tag": "p"
+                      },
+                      "styles": [],
+                      "tag": "p",
+                      "default_styles": ".elementor .e-paragraph-base{margin:0px;}.elementor .e-paragraph-link-base{all:unset;cursor:pointer;}\n.elementor .e-default-p{font-family:var(--font-body);font-weight:400;font-size:var(--font-size-body);color:var(--color-text);line-height:1.6;margin:0px;cursor: auto; overflow-wrap: anywhere;\\n}"
+                    },
+                    {
+                      "id": "1f2e91e6",
+                      "elType": "e-div-block",
+                      "title": "Benefit 4 content",
+                      "elements": [
+                        {
+                          "id": "5da2c2d",
+                          "elType": "widget",
+                          "widgetType": "e-svg",
+                          "title": "Benefit 4 icon",
+                          "interactions": [],
+                          "settings": {
+                            "classes": [
+                              "e-4f438a0b-1dab"
+                            ],
+                            "svg": {
+                              "id": 211,
+                              "url": null
+                            }
+                          },
+                          "styles": {
+                            "__style_id": "e-4f438a0b-1dab",
+                            "css": "width: 40px; height: 40px; color: var(--color-accent);"
+                          },
+                          "tag": "div",
+                          "default_styles": ".elementor .e-svg-base{width:65px;height:65px;display:inline-block;}"
+                        },
+                        {
+                          "id": "28351a08",
+                          "elType": "widget",
+                          "widgetType": "e-heading",
+                          "title": "Benefit 4 heading",
+                          "interactions": [],
+                          "settings": {
+                            "classes": [
+                              "g-48d2a32"
+                            ],
+                            "tag": "h3",
+                            "title": {
+                              "override_key": "49c6ac5f",
+                              "origin_value": {
+                                "$$type": "escaped-html",
+                                "value": "Clear Communication"
+                              }
+                            }
+                          },
+                          "styles": [],
+                          "tag": "h3",
+                          "default_styles": ".elementor .e-heading-base{margin:0px;}.elementor .e-heading-link-base{all:unset;cursor:pointer;}\n.elementor .e-default-h3{font-family:var(--font-heading);font-weight:600;font-size:24px;color:var(--color-text);line-height:1.3;text-transform:capitalize;margin:0px;cursor: auto; overflow-wrap: anywhere;\\n}@media(max-width:1024px){.elementor .e-default-h3{font-size:22px;}}@media(max-width:767px){.elementor .e-default-h3{font-size:20px;}}"
+                        },
+                        {
+                          "id": "1069b4ee",
+                          "elType": "widget",
+                          "widgetType": "e-paragraph",
+                          "title": "Benefit 4 description",
+                          "interactions": [],
+                          "settings": {
+                            "classes": [
+                              "e-75f30e0c-6dfa"
+                            ],
+                            "paragraph": {
+                              "override_key": "65cfbe6e",
+                              "origin_value": {
+                                "$$type": "escaped-html",
+                                "value": "Project information and updates throughout the restoration process."
+                              }
+                            },
+                            "tag": "p"
+                          },
+                          "styles": {
+                            "__style_id": "e-75f30e0c-6dfa",
+                            "css": "opacity: 85%;"
+                          },
+                          "tag": "p",
+                          "default_styles": ".elementor .e-paragraph-base{margin:0px;}.elementor .e-paragraph-link-base{all:unset;cursor:pointer;}\n.elementor .e-default-p{font-family:var(--font-body);font-weight:400;font-size:var(--font-size-body);color:var(--color-text);line-height:1.6;margin:0px;cursor: auto; overflow-wrap: anywhere;\\n}"
+                        }
+                      ],
+                      "interactions": [],
+                      "settings": {
+                        "classes": [
+                          "g-0152925",
+                          "g-6f5f11a",
+                          "g-3bac536"
+                        ],
+                        "tag": "div"
+                      },
+                      "styles": [],
+                      "tag": "div",
+                      "default_styles": ".e-con{position:relative;width:100%;min-width:0;}\n.elementor .e-div-block-base{min-width:30px;padding:10px;display:block;}"
+                    }
+                  ],
+                  "interactions": [],
+                  "settings": {
+                    "classes": [
+                      "g-9bf65cb",
+                      "e-15bf4e4d-e040"
+                    ],
+                    "tag": "div"
+                  },
+                  "styles": {
+                    "__style_id": "e-15bf4e4d-e040",
+                    "css": "@media(--mobile) { border-block-end-width: 0px; border-inline-end-width: 0px; }"
+                  },
+                  "tag": "div",
+                  "default_styles": ".e-con{position:relative;width:100%;min-width:0;}\n.elementor .e-div-block-base{min-width:30px;padding:10px;display:block;}"
+                }
+              ],
+              "interactions": [],
+              "settings": {
+                "classes": [
+                  "g-0152925",
+                  "e-7c4ef2e3-6069"
+                ],
+                "tag": "div"
+              },
+              "styles": {
+                "__style_id": "e-7c4ef2e3-6069",
+                "css": "display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); align-items: stretch;\n@media(--mobile) { grid-template-columns: minmax(0,1fr); }"
+              },
+              "tag": "div",
+              "default_styles": ".e-con{position:relative;width:100%;min-width:0;}\n.elementor .e-div-block-base{min-width:30px;padding:10px;display:block;}"
+            }
+          ],
+          "interactions": [],
+          "settings": {
+            "classes": [
+              "g-68fb534",
+              "e-23f23a18-12ba"
+            ],
+            "tag": "div"
+          },
+          "styles": {
+            "__style_id": "e-23f23a18-12ba",
+            "css": "display: grid; gap: 40px; grid-template-columns: minmax(0,0.54fr) minmax(0,1fr); align-items: start;\n@media(--tablet) { grid-template-columns: minmax(0,1fr); }\n@media(--mobile) { gap: var(--space-lg); }"
+          },
+          "tag": "div",
+          "default_styles": ".e-con{position:relative;width:100%;min-width:0;}\n.elementor .e-div-block-base{min-width:30px;padding:10px;display:block;}"
+        }
+      ],
+      "interactions": [],
+      "settings": {
+        "classes": [
+          "g-d3248b3",
+          "g-43edd01",
+          "e-70321b69-d5da"
+        ],
+        "tag": "section"
+      },
+      "styles": [],
+      "tag": "section",
+      "default_styles": ".e-con{position:relative;width:100%;min-width:0;margin-inline-start:auto;margin-inline-end:auto;max-width:100%;}\n.elementor .e-div-block-base{min-width:30px;padding:10px;display:block;}"
+    }
+  ]
+}

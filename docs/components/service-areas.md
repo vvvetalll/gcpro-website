@@ -1,5 +1,7 @@
 # Service Areas
 
+**E77 current:** Shared Component1140 now owns the unchanged Homepage design, with Homepage10feca9e and Residential5ced3ca1 consumers.12 city links and both actions are native real Page references. Former inactive availability action becomes Outline Orange100→492. Source7d8c17ad is historical. [Current exact locations and checks](residential-services.md).
+
 Twelve community links and a directory action, followed by the separate [unfinished ZIP prototype](zip-search.md).
 
 ## Location and structure

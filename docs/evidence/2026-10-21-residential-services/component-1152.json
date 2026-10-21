@@ -1,0 +1,366 @@
+{
+  "elements": [
+    {
+      "id": "6abf1421",
+      "elType": "e-div-block",
+      "title": "06 How We Work",
+      "elements": [
+        {
+          "id": "466f7a12",
+          "elType": "e-div-block",
+          "title": "06 How We Work Container",
+          "elements": [
+            {
+              "id": "7a99dc87",
+              "elType": "widget",
+              "widgetType": "e-paragraph",
+              "title": "Eyebrow 03 / OUR PROCESS",
+              "interactions": [],
+              "settings": {
+                "classes": [
+                  "g-b12aa04"
+                ],
+                "paragraph": {
+                  "override_key": "eyebrow",
+                  "origin_value": {
+                    "$$type": "escaped-html",
+                    "value": "03 / OUR PROCESS"
+                  }
+                },
+                "tag": "p"
+              },
+              "styles": [],
+              "tag": "p",
+              "default_styles": ".elementor .e-paragraph-base{margin:0px;}.elementor .e-paragraph-link-base{all:unset;cursor:pointer;}\n.elementor .e-default-p{font-family:var(--font-body);font-weight:400;font-size:var(--font-size-body);color:var(--color-text);line-height:1.6;margin:0px;cursor: auto; overflow-wrap: anywhere;\\n}"
+            },
+            {
+              "id": "7c0486b9",
+              "elType": "widget",
+              "widgetType": "e-component",
+              "title": "How We Work Heading",
+              "interactions": [],
+              "settings": {
+                "component_instance": {
+                  "component_id": 71,
+                  "overrides": [
+                    {
+                      "override_key": "heading_tag",
+                      "override_value": {
+                        "$$type": "string",
+                        "value": "h2"
+                      },
+                      "schema_source": {
+                        "type": "component",
+                        "id": 71
+                      }
+                    },
+                    {
+                      "override_key": "heading",
+                      "origin_value": {
+                        "$$type": "override",
+                        "value": {
+                          "override_key": "title",
+                          "override_value": {
+                            "$$type": "escaped-html",
+                            "value": "How We Work"
+                          },
+                          "schema_source": {
+                            "type": "component",
+                            "id": 71
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "override_key": "description",
+                      "origin_value": {
+                        "$$type": "override",
+                        "value": {
+                          "override_key": "description",
+                          "override_value": {
+                            "$$type": "escaped-html",
+                            "value": "A straightforward process from your first call to project completion."
+                          },
+                          "schema_source": {
+                            "type": "component",
+                            "id": 71
+                          }
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              "styles": [],
+              "tag": "div"
+            },
+            {
+              "id": "922f41a",
+              "elType": "e-div-block",
+              "title": "Process Steps",
+              "elements": [
+                {
+                  "id": "4a99d69e",
+                  "elType": "widget",
+                  "widgetType": "e-component",
+                  "title": "process-timeline",
+                  "interactions": [],
+                  "settings": {
+                    "component_instance": {
+                      "component_id": 582,
+                      "overrides": [
+                        {
+                          "override_key": "step_1_number",
+                          "origin_value": {
+                            "$$type": "override",
+                            "value": {
+                              "override_key": "step_1_number",
+                              "override_value": {
+                                "$$type": "escaped-html",
+                                "value": "01"
+                              },
+                              "schema_source": {
+                                "type": "component",
+                                "id": 582
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "override_key": "step_1_title",
+                          "origin_value": {
+                            "$$type": "override",
+                            "value": {
+                              "override_key": "step_1_title",
+                              "override_value": {
+                                "$$type": "escaped-html",
+                                "value": "Contact"
+                              },
+                              "schema_source": {
+                                "type": "component",
+                                "id": 582
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "override_key": "step_1_description",
+                          "origin_value": {
+                            "$$type": "override",
+                            "value": {
+                              "override_key": "step_1_description",
+                              "override_value": {
+                                "$$type": "escaped-html",
+                                "value": "Tell us about your property and restoration needs."
+                              },
+                              "schema_source": {
+                                "type": "component",
+                                "id": 582
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "override_key": "step_2_number",
+                          "origin_value": {
+                            "$$type": "override",
+                            "value": {
+                              "override_key": "step_2_number",
+                              "override_value": {
+                                "$$type": "escaped-html",
+                                "value": "02"
+                              },
+                              "schema_source": {
+                                "type": "component",
+                                "id": 582
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "override_key": "step_2_title",
+                          "origin_value": {
+                            "$$type": "override",
+                            "value": {
+                              "override_key": "step_2_title",
+                              "override_value": {
+                                "$$type": "escaped-html",
+                                "value": "Assessment"
+                              },
+                              "schema_source": {
+                                "type": "component",
+                                "id": 582
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "override_key": "step_2_description",
+                          "origin_value": {
+                            "$$type": "override",
+                            "value": {
+                              "override_key": "step_2_description",
+                              "override_value": {
+                                "$$type": "escaped-html",
+                                "value": "We assess the damage and recommend next steps."
+                              },
+                              "schema_source": {
+                                "type": "component",
+                                "id": 582
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "override_key": "step_3_number",
+                          "origin_value": {
+                            "$$type": "override",
+                            "value": {
+                              "override_key": "step_3_number",
+                              "override_value": {
+                                "$$type": "escaped-html",
+                                "value": "03"
+                              },
+                              "schema_source": {
+                                "type": "component",
+                                "id": 582
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "override_key": "step_3_title",
+                          "origin_value": {
+                            "$$type": "override",
+                            "value": {
+                              "override_key": "step_3_title",
+                              "override_value": {
+                                "$$type": "escaped-html",
+                                "value": "Restoration"
+                              },
+                              "schema_source": {
+                                "type": "component",
+                                "id": 582
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "override_key": "step_3_description",
+                          "origin_value": {
+                            "$$type": "override",
+                            "value": {
+                              "override_key": "step_3_description",
+                              "override_value": {
+                                "$$type": "escaped-html",
+                                "value": "Our team completes the work within the agreed scope."
+                              },
+                              "schema_source": {
+                                "type": "component",
+                                "id": 582
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "override_key": "step_4_number",
+                          "origin_value": {
+                            "$$type": "override",
+                            "value": {
+                              "override_key": "step_4_number",
+                              "override_value": {
+                                "$$type": "escaped-html",
+                                "value": "04"
+                              },
+                              "schema_source": {
+                                "type": "component",
+                                "id": 582
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "override_key": "step_4_title",
+                          "origin_value": {
+                            "$$type": "override",
+                            "value": {
+                              "override_key": "step_4_title",
+                              "override_value": {
+                                "$$type": "escaped-html",
+                                "value": "Review"
+                              },
+                              "schema_source": {
+                                "type": "component",
+                                "id": 582
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "override_key": "step_4_description",
+                          "origin_value": {
+                            "$$type": "override",
+                            "value": {
+                              "override_key": "step_4_description",
+                              "override_value": {
+                                "$$type": "escaped-html",
+                                "value": "We review the completed work and final details."
+                              },
+                              "schema_source": {
+                                "type": "component",
+                                "id": 582
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  "styles": [],
+                  "tag": "div"
+                }
+              ],
+              "interactions": [],
+              "settings": {
+                "classes": [
+                  "g-0152925"
+                ],
+                "tag": "div"
+              },
+              "styles": [],
+              "tag": "div",
+              "default_styles": ".e-con{position:relative;width:100%;min-width:0;}\n.elementor .e-div-block-base{min-width:30px;padding:10px;display:block;}"
+            }
+          ],
+          "interactions": [],
+          "settings": {
+            "classes": [
+              "g-a537304",
+              "g-68fb534",
+              "g-6f5f11a"
+            ],
+            "tag": "div"
+          },
+          "styles": [],
+          "tag": "div",
+          "default_styles": ".e-con{position:relative;width:100%;min-width:0;}\n.elementor .e-div-block-base{min-width:30px;padding:10px;display:block;}"
+        }
+      ],
+      "interactions": [],
+      "settings": {
+        "classes": [
+          "g-1834399",
+          "g-d3248b3",
+          "e-1ed92cbb-13f6"
+        ],
+        "tag": "section"
+      },
+      "styles": {
+        "__style_id": "e-1ed92cbb-13f6",
+        "css": "z-index: 0;"
+      },
+      "tag": "section",
+      "default_styles": ".e-con{position:relative;width:100%;min-width:0;margin-inline-start:auto;margin-inline-end:auto;max-width:100%;}\n.elementor .e-div-block-base{min-width:30px;padding:10px;display:block;}"
+    }
+  ]
+}

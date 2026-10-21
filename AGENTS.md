@@ -39,6 +39,10 @@ Avoid hidden CSS, JavaScript, HTML-widget workarounds, fragile selectors, direct
 
 Discover actual connector capabilities and schemas. Tool presence is not a successful staging test. Read fresh structure before changes and after saves; never reuse stale element trees after another write. Do not infer IDs from labels or copy IDs between installations.
 
+## Shared section consistency
+
+Reuse one established visual design per shared section type. Homepage How We Work1152, Why1149, Service Areas1140 and Final CTA80 are shared definitions; change content through supported Overrides, not duplicated structures or different styling. Preserve uppercase Hero H1 typography. Create a new Component only for a genuinely missing repeated design, not because page copy differs. See docs/components/residential-services.md.
+
 ## CSS architecture policy
 
 Adopted 2026-10-19. Apply this order to new work and authorized refinements:

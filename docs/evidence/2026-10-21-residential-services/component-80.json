@@ -1,0 +1,255 @@
+{
+  "elements": [
+    {
+      "id": "324d9854",
+      "elType": "e-div-block",
+      "title": "CTA Section",
+      "elements": [
+        {
+          "id": "79c33bf7",
+          "elType": "e-div-block",
+          "title": "CTA Container",
+          "elements": [
+            {
+              "id": "5ec4592",
+              "elType": "e-flexbox",
+              "title": "Inset CTA Panel",
+              "elements": [
+                {
+                  "id": "7c20b93d",
+                  "elType": "e-div-block",
+                  "title": "CTA Copy",
+                  "elements": [
+                    {
+                      "id": "2aca64be",
+                      "elType": "widget",
+                      "widgetType": "e-heading",
+                      "title": "CTA Heading",
+                      "interactions": [],
+                      "settings": {
+                        "tag": "h2",
+                        "title": {
+                          "override_key": "title",
+                          "origin_value": {
+                            "$$type": "escaped-html",
+                            "value": "Ready to take the next step?"
+                          }
+                        }
+                      },
+                      "styles": [],
+                      "tag": "h2",
+                      "default_styles": ".elementor .e-heading-base{margin:0px;}.elementor .e-heading-link-base{all:unset;cursor:pointer;}\n.elementor .e-default-h2{font-family:var(--font-heading);font-weight:700;font-size:32px;color:var(--color-text);line-height:1.15;text-transform:uppercase;margin:0px;cursor: auto; overflow-wrap: anywhere;\\n}@media(max-width:1024px){.elementor .e-default-h2{font-size:28px;}}@media(max-width:767px){.elementor .e-default-h2{font-size:24px;}}"
+                    },
+                    {
+                      "id": "12ea707c",
+                      "elType": "widget",
+                      "widgetType": "e-paragraph",
+                      "title": "CTA Description",
+                      "interactions": [],
+                      "settings": {
+                        "paragraph": {
+                          "override_key": "description",
+                          "origin_value": {
+                            "$$type": "escaped-html",
+                            "value": "Give visitors a clear reason to get in touch."
+                          }
+                        }
+                      },
+                      "styles": [],
+                      "tag": "p",
+                      "default_styles": ".elementor .e-paragraph-base{margin:0px;}.elementor .e-paragraph-link-base{all:unset;cursor:pointer;}\n.elementor .e-default-p{font-family:var(--font-body);font-weight:400;font-size:var(--font-size-body);color:var(--color-text);line-height:1.6;margin:0px;cursor: auto; overflow-wrap: anywhere;\\n}"
+                    }
+                  ],
+                  "interactions": [],
+                  "settings": {
+                    "classes": [
+                      "g-6f5f11a"
+                    ]
+                  },
+                  "styles": [],
+                  "tag": "div",
+                  "default_styles": ".e-con{position:relative;width:100%;min-width:0;}\n.elementor .e-div-block-base{min-width:30px;padding:10px;display:block;}"
+                },
+                {
+                  "id": "460a04b7",
+                  "elType": "e-flexbox",
+                  "title": "CTA Actions",
+                  "elements": [
+                    {
+                      "id": "699f9898",
+                      "elType": "widget",
+                      "widgetType": "e-component",
+                      "title": "Primary Action",
+                      "interactions": [],
+                      "settings": {
+                        "component_instance": {
+                          "component_id": 53,
+                          "overrides": [
+                            {
+                              "override_key": "cta_text",
+                              "origin_value": {
+                                "$$type": "override",
+                                "value": {
+                                  "override_key": "text",
+                                  "override_value": {
+                                    "$$type": "escaped-html",
+                                    "value": "Request Service"
+                                  },
+                                  "schema_source": {
+                                    "type": "component",
+                                    "id": 53
+                                  }
+                                }
+                              }
+                            },
+                            {
+                              "override_key": "cta_link",
+                              "origin_value": {
+                                "$$type": "override",
+                                "value": {
+                                  "override_key": "link",
+                                  "override_value": {
+                                    "$$type": "link",
+                                    "value": {
+                                      "destination": {
+                                        "$$type": "url",
+                                        "value": "#"
+                                      },
+                                      "isTargetBlank": {
+                                        "$$type": "boolean",
+                                        "value": false
+                                      },
+                                      "tag": {
+                                        "$$type": "string",
+                                        "value": "a"
+                                      }
+                                    }
+                                  },
+                                  "schema_source": {
+                                    "type": "component",
+                                    "id": 53
+                                  }
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      "styles": [],
+                      "tag": "div"
+                    },
+                    {
+                      "id": "6aa9a1a0",
+                      "elType": "widget",
+                      "widgetType": "e-component",
+                      "title": "Secondary Action",
+                      "interactions": [],
+                      "settings": {
+                        "component_instance": {
+                          "component_id": 103,
+                          "overrides": [
+                            {
+                              "override_key": "secondary_text",
+                              "origin_value": {
+                                "$$type": "override",
+                                "value": {
+                                  "override_key": "text",
+                                  "override_value": {
+                                    "$$type": "escaped-html",
+                                    "value": "Call 847-656-3322"
+                                  },
+                                  "schema_source": {
+                                    "type": "component",
+                                    "id": 103
+                                  }
+                                }
+                              }
+                            },
+                            {
+                              "override_key": "secondary_link",
+                              "origin_value": {
+                                "$$type": "override",
+                                "value": {
+                                  "override_key": "link",
+                                  "override_value": {
+                                    "$$type": "link",
+                                    "value": {
+                                      "destination": {
+                                        "$$type": "url",
+                                        "value": "tel:+18476563322"
+                                      },
+                                      "isTargetBlank": {
+                                        "$$type": "boolean",
+                                        "value": false
+                                      },
+                                      "tag": {
+                                        "$$type": "string",
+                                        "value": "a"
+                                      }
+                                    }
+                                  },
+                                  "schema_source": {
+                                    "type": "component",
+                                    "id": 103
+                                  }
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      "styles": [],
+                      "tag": "div"
+                    }
+                  ],
+                  "interactions": [],
+                  "settings": {
+                    "classes": [
+                      "g-0e529a5"
+                    ]
+                  },
+                  "styles": [],
+                  "tag": "div",
+                  "default_styles": ".e-con{position:relative;width:100%;min-width:0;}\n.elementor .e-flexbox-base{padding:10px;display:flex;flex-direction:row;}"
+                }
+              ],
+              "interactions": [],
+              "settings": {
+                "classes": [
+                  "g-e1d4327",
+                  "g-43edd01",
+                  "e-69831b6e-42d0"
+                ]
+              },
+              "styles": {
+                "__style_id": "e-69831b6e-42d0",
+                "css": "border-radius: var(--space-xs);"
+              },
+              "tag": "div",
+              "default_styles": ".e-con{position:relative;width:100%;min-width:0;}\n.elementor .e-flexbox-base{padding:10px;display:flex;flex-direction:row;}"
+            }
+          ],
+          "interactions": [],
+          "settings": {
+            "classes": [
+              "g-68fb534"
+            ]
+          },
+          "styles": [],
+          "tag": "div",
+          "default_styles": ".e-con{position:relative;width:100%;min-width:0;}\n.elementor .e-div-block-base{min-width:30px;padding:10px;display:block;}"
+        }
+      ],
+      "interactions": [],
+      "settings": {
+        "classes": [
+          "g-d3248b3"
+        ],
+        "tag": "section"
+      },
+      "styles": [],
+      "tag": "section",
+      "default_styles": ".e-con{position:relative;width:100%;min-width:0;margin-inline-start:auto;margin-inline-end:auto;max-width:100%;}\n.elementor .e-div-block-base{min-width:30px;padding:10px;display:block;}"
+    }
+  ]
+}

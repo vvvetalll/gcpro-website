@@ -1,5 +1,7 @@
 # How We Work
 
+**E77 current:** Complete original section now shared1152 (nested582 retained), Homepage6d0939b9/Residential5412e337. Code590 source unchanged, Entire-site native condition enables identical touch sequence. Source4681b8f5 is historical. [Current exact locations and checks](residential-services.md).
+
 **Current E62,2026-10-20:** Code903's implicit competing-phone rule, not Process styling, caused Call Now to disappear during section entry: the preceding Emergency Support call button was still on screen. That rule is removed globally. Full entry/inside/exit sweeps in both directions at360/393/430 now retain the panel;768/1440 keep it hidden. E61's section-center check missed this transition. Component582/590/native section settings remain unchanged in E62. [Evidence and rollback](../audits/2026-10-20-process-cta-transition.md).
 
 **E61,2026-10-20:** Homepage section4681b8f5 local native style e-1ed92cbb-13f6 now owns z-index0, containing internal timeline layers. No sticky positioning or z9999 was found here; numbers use existing necessary z1. Component582, its overrides/classes, Code590 and theme ripple CSS are unchanged. At mobile360/393/430 the global Call Now remains visible through Process; section exit hit tests show no remaining Process layer over subsequent content. [Exact change and limits](../audits/2026-10-20-section-layers-footer.md).

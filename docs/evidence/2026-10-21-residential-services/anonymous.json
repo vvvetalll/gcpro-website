@@ -1,0 +1,46 @@
+{
+  "at": "2026-10-21T17:34:44.185249+00:00",
+  "anonymous": true,
+  "results": [
+    {
+      "path": "/residential-services/",
+      "http": 403
+    },
+    {
+      "path": "/residential-services/water-damage/",
+      "http": 403
+    },
+    {
+      "path": "/residential-services/fire-smoke/",
+      "http": 403
+    },
+    {
+      "path": "/residential-services/mold-removal/",
+      "http": 403
+    },
+    {
+      "path": "/residential-services/storm-damage/",
+      "http": 403
+    },
+    {
+      "path": "/residential-services/reconstruction/",
+      "http": 403
+    },
+    {
+      "path": "/residential-services/personal-property-restoration/",
+      "http": 403
+    },
+    {
+      "path": "/service-request/",
+      "http": 403
+    },
+    {
+      "path": "/portfolio/",
+      "http": 403
+    },
+    {
+      "path": "/service-area/",
+      "http": 403
+    }
+  ]
+}

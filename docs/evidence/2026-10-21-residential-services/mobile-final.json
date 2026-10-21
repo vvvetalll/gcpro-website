@@ -1,0 +1,20 @@
+{
+  "down": {
+    "barVisible": true,
+    "headerHidden": true,
+    "menu": "false",
+    "y": 1150
+  },
+  "up": {
+    "barVisible": true,
+    "headerHidden": false,
+    "menu": "false",
+    "y": 990
+  },
+  "open": {
+    "barVisible": false,
+    "headerHidden": false,
+    "menu": "true",
+    "y": 990
+  }
+}

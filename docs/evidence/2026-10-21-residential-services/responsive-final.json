@@ -1,0 +1,394 @@
+[
+  {
+    "badLinks": 0,
+    "cityColumns": "320px",
+    "cityCount": 12,
+    "cityHeights": [
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64
+    ],
+    "cta": {
+      "padding": "32px 20px",
+      "radius": "0px"
+    },
+    "faq": 6,
+    "h1Count": 1,
+    "h1Transform": "uppercase",
+    "images": [
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      }
+    ],
+    "overflow": 0,
+    "serviceColumns": "320px",
+    "whyCount": 4,
+    "width": 360
+  },
+  {
+    "badLinks": 0,
+    "cityColumns": "353.333px",
+    "cityCount": 12,
+    "cityHeights": [
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64
+    ],
+    "cta": {
+      "padding": "32px 20px",
+      "radius": "0px"
+    },
+    "faq": 6,
+    "h1Count": 1,
+    "h1Transform": "uppercase",
+    "images": [
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      }
+    ],
+    "overflow": 0,
+    "serviceColumns": "353.333px",
+    "whyCount": 4,
+    "width": 393
+  },
+  {
+    "badLinks": 0,
+    "cityColumns": "390px",
+    "cityCount": 12,
+    "cityHeights": [
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64
+    ],
+    "cta": {
+      "padding": "32px 20px",
+      "radius": "0px"
+    },
+    "faq": 6,
+    "h1Count": 1,
+    "h1Transform": "uppercase",
+    "images": [
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      }
+    ],
+    "overflow": 0,
+    "serviceColumns": "390px",
+    "whyCount": 4,
+    "width": 430
+  },
+  {
+    "badLinks": 0,
+    "cityColumns": "324.333px 324.333px",
+    "cityCount": 12,
+    "cityHeights": [
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64
+    ],
+    "cta": {
+      "padding": "48px",
+      "radius": "8px"
+    },
+    "faq": 6,
+    "h1Count": 1,
+    "h1Transform": "uppercase",
+    "images": [
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      }
+    ],
+    "overflow": 0,
+    "serviceColumns": "332.333px 332.333px",
+    "whyCount": 4,
+    "width": 768
+  },
+  {
+    "badLinks": 0,
+    "cityColumns": "452.333px 452.333px",
+    "cityCount": 12,
+    "cityHeights": [
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64
+    ],
+    "cta": {
+      "padding": "48px",
+      "radius": "8px"
+    },
+    "faq": 6,
+    "h1Count": 1,
+    "h1Transform": "uppercase",
+    "images": [
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      }
+    ],
+    "overflow": 0,
+    "serviceColumns": "460.333px 460.333px",
+    "whyCount": 4,
+    "width": 1024
+  },
+  {
+    "badLinks": 0,
+    "cityColumns": "346.667px 346.667px 346.667px",
+    "cityCount": 12,
+    "cityHeights": [
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64
+    ],
+    "cta": {
+      "padding": "48px",
+      "radius": "8px"
+    },
+    "faq": 6,
+    "h1Count": 1,
+    "h1Transform": "uppercase",
+    "images": [
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      }
+    ],
+    "overflow": 0,
+    "serviceColumns": "362.667px 362.667px 362.667px",
+    "whyCount": 4,
+    "width": 1280
+  },
+  {
+    "badLinks": 0,
+    "cityColumns": "346.667px 346.667px 346.667px",
+    "cityCount": 12,
+    "cityHeights": [
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64
+    ],
+    "cta": {
+      "padding": "48px",
+      "radius": "8px"
+    },
+    "faq": 6,
+    "h1Count": 1,
+    "h1Transform": "uppercase",
+    "images": [
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      },
+      {
+        "alt": true,
+        "loaded": true
+      }
+    ],
+    "overflow": 0,
+    "serviceColumns": "362.667px 362.667px 362.667px",
+    "whyCount": 4,
+    "width": 1440
+  }
+]

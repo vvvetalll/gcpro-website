@@ -22,7 +22,7 @@ Staging Reading → Discourage search engines checked before publication; anonym
 
 ## Actual staging Page hierarchy
 
-ACTUAL means a saved WordPress object; Published routes link to the frontend, Drafts link to admin only. Unrelated fixtures/experiments and legal Drafts remain outside navigation. Native shared structural template1008 supplies one H1 and a development notice to80 Pages; Partner Pages982–986 retain their own Atomic shells.
+ACTUAL means a saved WordPress object; Published routes link to the frontend, Drafts link to admin only. Unrelated fixtures/experiments and legal Drafts remain outside navigation. Native shared structural template1008 supplies one H1 and a development notice to79 Pages; Partner Pages982–986 retain their own Atomic shells.
 
 - **ACTUAL [All Projects](https://vitaliiv1.sg-host.com/portfolio/)** — ID1132, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=1132&action=edit); E76 structural index only, no project records imported
 
@@ -53,7 +53,7 @@ ACTUAL means a saved WordPress object; Published routes link to the frontend, Dr
   - **ACTUAL [Insurance Agent Program](https://vitaliiv1.sg-host.com/partner-programs/insurance-agent-program/)** — ID984, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=984&action=edit)
   - **ACTUAL [Plumber Support Program](https://vitaliiv1.sg-host.com/partner-programs/plumber-support-program/)** — ID983, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=983&action=edit)
 - **ACTUAL [Privacy Policy](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=3&action=edit)** — ID3, **draft**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=3&action=edit)
-- **ACTUAL [Residential Services](https://vitaliiv1.sg-host.com/residential-services/)** — ID484, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=484&action=edit)
+- **ACTUAL — BUILT SERVICE HUB [Residential Property Restoration in Chicago](https://vitaliiv1.sg-host.com/residential-services/)** — ID484, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=484&action=edit)
   - **ACTUAL [Fire & Smoke](https://vitaliiv1.sg-host.com/residential-services/fire-smoke/)** — ID517, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=517&action=edit)
   - **ACTUAL [Mold Removal](https://vitaliiv1.sg-host.com/residential-services/mold-removal/)** — ID516, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=516&action=edit)
   - **ACTUAL [Personal Property Restoration](https://vitaliiv1.sg-host.com/residential-services/personal-property-restoration/)** — ID521, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=521&action=edit)
