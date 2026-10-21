@@ -1,5 +1,7 @@
 # GCPRO design system
 
+**E83,2026-10-21:** Approved A now styles all20 BA cards identically across Homepage154, Residential484 and Gallery493. Three native shared Global Classes own the frame/caption/title;20px titles,24px padding,10px radius,4:3 photos. Captions unified: known City, IL in title, outcome-only description; reused projects share copy. No custom code/Variables/library Components/plugins/media added; vendor records/Hero/links/authored SEO/production untouched.18 responsive cases and three representative drag/fullscreen placements pass; anonymous HTML200 on all three. [Exact owners, caption copy, evidence and rollback](components/before-after.md#e83--approved-a-card-design-2026-10-21).
+
 ## Photographic media — E81
 
 Optimize new/replaced photographic images to WebP with suitable dimensions and truthful alt/title/description. Comparison pairs use the owner-approved4:3 crop, matching dimensions and no stretching; retain original files. Avoid redundant near-identical comparison cards. This does not require rasterizing SVG logos/icons or rewriting historical media outside scope. [Gallery owners and verification](components/before-after.md#e81--owner-supplied-gallery-and-optimized-photographs-2026-10-21).

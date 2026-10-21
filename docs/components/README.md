@@ -1,5 +1,7 @@
 # Component maintenance index
 
+E83: [BA card A](before-after.md#e83--approved-a-card-design-2026-10-21) is the shared20-card presentation across Home/Residential/gallery, with three native classes and unified captions; no new library Component or code.
+
 E82: [CTA hierarchy](../DESIGN_SYSTEM.md#cta-button-hierarchy--e82-2026-10-21) is mandatory for future pages. Residential assessment uses existing Solid Blue styling through77; no new component. E81 gallery/media implementation is recorded in [Before / After](before-after.md).
 
 E79: [Residential SEO content](../seo/2026-10-21-residential-services.md) uses existing instance content Overrides only; shared definitions/design/links unchanged. [AIOSEO global storage](../SEO_AIOSEO.md) is native plugin configuration, not another Atomic component.

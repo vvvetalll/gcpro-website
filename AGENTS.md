@@ -49,6 +49,10 @@ New or replaced photographic assets must be appropriately sized and optimized to
 
 Reuse one established visual design per shared section type. Homepage How We Work1152, Why1149, Service Areas1140 and Final CTA80 are shared definitions; change content through supported Overrides, not duplicated structures or different styling. Preserve uppercase Hero H1 typography. Create a new Component only for a genuinely missing repeated design, not because page copy differs. See docs/components/residential-services.md.
 
+## Before / After card consistency
+
+Use the owner-approved A presentation everywhere for BA cards: ba-card, ba-card__caption and ba-card__title, with native article/media/caption structure. Preserve4:3 optimized images, existing plugin runtime, appropriate heading levels and metadata. Known locations use City, IL in titles; descriptions focus on work without repeating location. Do not invent missing locations. Reused projects share caption copy. Hero comparisons are a separate composition. See docs/components/before-after.md for exact owners and reuse.
+
 ## CSS architecture policy
 
 Adopted 2026-10-19. Apply this order to new work and authorized refinements:

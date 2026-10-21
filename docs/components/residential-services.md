@@ -1,5 +1,7 @@
 # Residential Services — E77, 2026-10-21
 
+**E83:** Results cards25d5b401/14e979f now use the shared [approved A design](before-after.md#e83--approved-a-card-design-2026-10-21), matching Home/gallery. Two caption divs group the original headings/paragraphs;723/742 captions now identical to Home with City, IL in titles only. Hero, service-card buttons and Solid Blue assessment CTA remain unchanged.
+
 ## E81/E82 — image and contextual CTA
 
 Existing77 instance26c8a5b5 now uses technician WebP1243 (1448x1086,4:3) in the assessment section. Attachment alt: "GCPRO technician cleaning debris from an interior with exposed wall framing during home restoration." Descriptive title/description supplied; no visible caption added. Original724 retained for rollback.

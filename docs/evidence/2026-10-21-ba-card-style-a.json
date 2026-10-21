@@ -1,0 +1,2243 @@
+{
+  "milestone": "E83",
+  "date": "2026-10-21",
+  "host": "https://vitaliiv1.sg-host.com",
+  "approved_design": "A - clean frame",
+  "classes": {
+    "g-c02ab3c": {
+      "id": "g-c02ab3c",
+      "label": "ba-card",
+      "type": "class",
+      "variants": [
+        {
+          "meta": {
+            "breakpoint": "desktop",
+            "state": null
+          },
+          "props": {
+            "height": {
+              "$$type": "size",
+              "value": {
+                "size": 100,
+                "unit": "%"
+              }
+            },
+            "min-width": {
+              "$$type": "size",
+              "value": {
+                "size": 0,
+                "unit": "px"
+              }
+            },
+            "overflow": {
+              "$$type": "string",
+              "value": "hidden"
+            },
+            "color": {
+              "$$type": "global-color-variable",
+              "value": "e-gv-73c03d5"
+            },
+            "padding": {
+              "$$type": "size",
+              "value": {
+                "size": 0,
+                "unit": "px"
+              }
+            },
+            "border-radius": {
+              "$$type": "size",
+              "value": {
+                "size": 10,
+                "unit": "px"
+              }
+            },
+            "border-width": {
+              "$$type": "size",
+              "value": {
+                "size": 1,
+                "unit": "px"
+              }
+            },
+            "border-color": {
+              "$$type": "global-color-variable",
+              "value": "e-gv-4cef0e9"
+            },
+            "border-style": {
+              "$$type": "string",
+              "value": "solid"
+            },
+            "background": {
+              "$$type": "background",
+              "value": {
+                "color": {
+                  "$$type": "global-color-variable",
+                  "value": "e-gv-61c26cd"
+                }
+              }
+            },
+            "display": {
+              "$$type": "string",
+              "value": "flex"
+            },
+            "flex-direction": {
+              "$$type": "string",
+              "value": "column"
+            },
+            "gap": {
+              "$$type": "size",
+              "value": {
+                "size": 0,
+                "unit": "px"
+              }
+            },
+            "align-items": {
+              "$$type": "string",
+              "value": "stretch"
+            }
+          },
+          "custom_css": null
+        }
+      ]
+    },
+    "g-c65c717": {
+      "id": "g-c65c717",
+      "label": "ba-card__caption",
+      "type": "class",
+      "variants": [
+        {
+          "meta": {
+            "breakpoint": "desktop",
+            "state": null
+          },
+          "props": {
+            "min-width": {
+              "$$type": "size",
+              "value": {
+                "size": 0,
+                "unit": "px"
+              }
+            },
+            "padding": {
+              "$$type": "global-size-variable",
+              "value": "e-gv-a0a0c34"
+            },
+            "display": {
+              "$$type": "string",
+              "value": "grid"
+            },
+            "gap": {
+              "$$type": "size",
+              "value": {
+                "size": 10,
+                "unit": "px"
+              }
+            },
+            "flex": {
+              "$$type": "flex",
+              "value": {
+                "flexGrow": {
+                  "$$type": "number",
+                  "value": 1
+                },
+                "flexShrink": {
+                  "$$type": "number",
+                  "value": 1
+                },
+                "flexBasis": {
+                  "$$type": "size",
+                  "value": {
+                    "size": "auto",
+                    "unit": "custom"
+                  }
+                }
+              }
+            },
+            "align-content": {
+              "$$type": "string",
+              "value": "start"
+            }
+          },
+          "custom_css": null
+        }
+      ]
+    },
+    "g-4523dc2": {
+      "id": "g-4523dc2",
+      "label": "ba-card__title",
+      "type": "class",
+      "variants": [
+        {
+          "meta": {
+            "breakpoint": "desktop",
+            "state": null
+          },
+          "props": {
+            "font-family": {
+              "$$type": "global-font-variable",
+              "value": "e-gv-7b550b1"
+            },
+            "font-weight": {
+              "$$type": "string",
+              "value": "600"
+            },
+            "font-size": {
+              "$$type": "size",
+              "value": {
+                "size": 20,
+                "unit": "px"
+              }
+            },
+            "color": {
+              "$$type": "global-color-variable",
+              "value": "e-gv-73c03d5"
+            },
+            "line-height": {
+              "$$type": "size",
+              "value": {
+                "size": "1.35",
+                "unit": "custom"
+              }
+            },
+            "text-transform": {
+              "$$type": "string",
+              "value": "none"
+            },
+            "margin": {
+              "$$type": "size",
+              "value": {
+                "size": 0,
+                "unit": "px"
+              }
+            }
+          },
+          "custom_css": null
+        },
+        {
+          "meta": {
+            "breakpoint": "tablet",
+            "state": null
+          },
+          "props": {
+            "font-size": {
+              "$$type": "size",
+              "value": {
+                "size": 20,
+                "unit": "px"
+              }
+            }
+          },
+          "custom_css": null
+        },
+        {
+          "meta": {
+            "breakpoint": "mobile",
+            "state": null
+          },
+          "props": {
+            "font-size": {
+              "$$type": "size",
+              "value": {
+                "size": 20,
+                "unit": "px"
+              }
+            }
+          },
+          "custom_css": null
+        }
+      ]
+    }
+  },
+  "card_locators": [
+    {
+      "page": 154,
+      "card": "22e7aed8",
+      "frame": "33681ad8",
+      "caption": "ae30c3b",
+      "title": "0fccf2a",
+      "shortcode": "eb597a1",
+      "value": "[bafg id=\"723\"]"
+    },
+    {
+      "page": 154,
+      "card": "b72017c",
+      "frame": "55241554",
+      "caption": "2f6babff",
+      "title": "3a39c79b",
+      "shortcode": "6a2a094",
+      "value": "[bafg id=\"742\"]"
+    },
+    {
+      "page": 154,
+      "card": "31087133",
+      "frame": "5f199388",
+      "caption": "1b321c8b",
+      "title": "5931ddb6",
+      "shortcode": "961e3c2",
+      "value": "[bafg id=\"767\"]"
+    },
+    {
+      "page": 484,
+      "card": "25d5b401",
+      "frame": "b909654",
+      "caption": "57237c9f",
+      "title": "5489a838",
+      "shortcode": "5c5184f0",
+      "value": "[bafg id=\"723\"]"
+    },
+    {
+      "page": 484,
+      "card": "14e979f",
+      "frame": "38e48a8d",
+      "caption": "6b9038c8",
+      "title": "1a1cca70",
+      "shortcode": "9bb91a0b",
+      "value": "[bafg id=\"742\"]"
+    },
+    {
+      "page": 493,
+      "card": "e61e4810",
+      "frame": "e0dd873a",
+      "caption": "d5111008",
+      "title": "548e15bf",
+      "shortcode": "0e8e35f8",
+      "value": "[bafg id=\"1165\"]"
+    },
+    {
+      "page": 493,
+      "card": "eb355409",
+      "frame": "a0e6407b",
+      "caption": "96800794",
+      "title": "22eb69d8",
+      "shortcode": "2e2d8ef8",
+      "value": "[bafg id=\"1198\"]"
+    },
+    {
+      "page": 493,
+      "card": "3532ebd9",
+      "frame": "9a515080",
+      "caption": "bfc96742",
+      "title": "b886446f",
+      "shortcode": "31fa2179",
+      "value": "[bafg id=\"1199\"]"
+    },
+    {
+      "page": 493,
+      "card": "5d71e732",
+      "frame": "9fe021fa",
+      "caption": "b827742d",
+      "title": "560f38d1",
+      "shortcode": "3abb99b6",
+      "value": "[bafg id=\"1200\"]"
+    },
+    {
+      "page": 493,
+      "card": "67c5f89a",
+      "frame": "fc58adf8",
+      "caption": "7c8e1cf6",
+      "title": "916abd12",
+      "shortcode": "c469977c",
+      "value": "[bafg id=\"1201\"]"
+    },
+    {
+      "page": 493,
+      "card": "fadc48fa",
+      "frame": "5857d990",
+      "caption": "a22a3794",
+      "title": "f068f469",
+      "shortcode": "fd3d4553",
+      "value": "[bafg id=\"1202\"]"
+    },
+    {
+      "page": 493,
+      "card": "bfa420b5",
+      "frame": "9a83c299",
+      "caption": "5747d9e6",
+      "title": "fddc3c34",
+      "shortcode": "e2ea1ff7",
+      "value": "[bafg id=\"1203\"]"
+    },
+    {
+      "page": 493,
+      "card": "78b6f9b1",
+      "frame": "7a5fed28",
+      "caption": "7639c54b",
+      "title": "cbd019a8",
+      "shortcode": "7c5bf211",
+      "value": "[bafg id=\"1204\"]"
+    },
+    {
+      "page": 493,
+      "card": "ffa1ae51",
+      "frame": "cff89c50",
+      "caption": "29df2c48",
+      "title": "b6cc1ece",
+      "shortcode": "e621fa87",
+      "value": "[bafg id=\"1205\"]"
+    },
+    {
+      "page": 493,
+      "card": "77f6cc7a",
+      "frame": "99e9f54e",
+      "caption": "a973ac57",
+      "title": "8c943184",
+      "shortcode": "657ddab6",
+      "value": "[bafg id=\"1206\"]"
+    },
+    {
+      "page": 493,
+      "card": "f945089e",
+      "frame": "58a780d8",
+      "caption": "15eb71d5",
+      "title": "709fcef1",
+      "shortcode": "73312f41",
+      "value": "[bafg id=\"1207\"]"
+    },
+    {
+      "page": 493,
+      "card": "c8142deb",
+      "frame": "9cdcb489",
+      "caption": "1e8c3f57",
+      "title": "45f312e0",
+      "shortcode": "c7226fdd",
+      "value": "[bafg id=\"1208\"]"
+    },
+    {
+      "page": 493,
+      "card": "0302ccfc",
+      "frame": "ef5131ae",
+      "caption": "78ccb223",
+      "title": "72392b1d",
+      "shortcode": "26cc233d",
+      "value": "[bafg id=\"1209\"]"
+    },
+    {
+      "page": 493,
+      "card": "b847df27",
+      "frame": "648bc2c2",
+      "caption": "5c38a62f",
+      "title": "29f38aff",
+      "shortcode": "17f380ab",
+      "value": "[bafg id=\"1210\"]"
+    },
+    {
+      "page": 493,
+      "card": "c8003fcf",
+      "frame": "f549a350",
+      "caption": "07754b94",
+      "title": "7d209f39",
+      "shortcode": "0fa2621d",
+      "value": "[bafg id=\"1245\"]"
+    }
+  ],
+  "captions": [
+    {
+      "page": 154,
+      "slider": 723,
+      "title": "Fire Damage Restoration — Tinley Park, IL",
+      "description": "Damaged framing and finishes transformed into a completed interior.",
+      "location_basis": "Existing published title/source-pair location; no new location for unlocated projects. Northbrook existing title retained; historical independent confirmation still pending."
+    },
+    {
+      "page": 154,
+      "slider": 742,
+      "title": "Water Damage Restoration — Glenview, IL",
+      "description": "Ceiling damage repaired and a living space restored.",
+      "location_basis": "Existing published title/source-pair location; no new location for unlocated projects. Northbrook existing title retained; historical independent confirmation still pending."
+    },
+    {
+      "page": 154,
+      "slider": 767,
+      "title": "Garage Fire Damage Restoration — Northbrook, IL",
+      "description": "A garage exterior restored with finished trim, a white door and a side entrance.",
+      "location_basis": "Existing published title/source-pair location; no new location for unlocated projects. Northbrook existing title retained; historical independent confirmation still pending."
+    },
+    {
+      "page": 484,
+      "slider": 723,
+      "title": "Fire Damage Restoration — Tinley Park, IL",
+      "description": "Damaged framing and finishes transformed into a completed interior.",
+      "location_basis": "Existing published title/source-pair location; no new location for unlocated projects. Northbrook existing title retained; historical independent confirmation still pending."
+    },
+    {
+      "page": 484,
+      "slider": 742,
+      "title": "Water Damage Restoration — Glenview, IL",
+      "description": "Ceiling damage repaired and a living space restored.",
+      "location_basis": "Existing published title/source-pair location; no new location for unlocated projects. Northbrook existing title retained; historical independent confirmation still pending."
+    },
+    {
+      "page": 493,
+      "slider": 1165,
+      "title": "Kitchen Renovation",
+      "description": "A kitchen updated with cabinetry, lighting and an island.",
+      "location_basis": "Existing published title/source-pair location; no new location for unlocated projects. Northbrook existing title retained; historical independent confirmation still pending."
+    },
+    {
+      "page": 493,
+      "slider": 1198,
+      "title": "Bathroom Restoration",
+      "description": "Exposed lower wall framing restored to a finished vanity and tile floor.",
+      "location_basis": "Existing published title/source-pair location; no new location for unlocated projects. Northbrook existing title retained; historical independent confirmation still pending."
+    },
+    {
+      "page": 493,
+      "slider": 1199,
+      "title": "Interior Restoration — Wonder Lake, IL",
+      "description": "Open framing transformed into completed walls, ceilings and flooring.",
+      "location_basis": "Existing published title/source-pair location; no new location for unlocated projects. Northbrook existing title retained; historical independent confirmation still pending."
+    },
+    {
+      "page": 493,
+      "slider": 1200,
+      "title": "Living Area Fire Damage Restoration — Tinley Park, IL",
+      "description": "A fire-damaged living area and kitchen restored to completed interiors.",
+      "location_basis": "Existing published title/source-pair location; no new location for unlocated projects. Northbrook existing title retained; historical independent confirmation still pending."
+    },
+    {
+      "page": 493,
+      "slider": 1201,
+      "title": "Kitchen Restoration — Wonder Lake, IL",
+      "description": "Exposed framing restored to a kitchen with finished cabinetry and countertops.",
+      "location_basis": "Existing published title/source-pair location; no new location for unlocated projects. Northbrook existing title retained; historical independent confirmation still pending."
+    },
+    {
+      "page": 493,
+      "slider": 1202,
+      "title": "Club Room Renovation (Window View)",
+      "description": "A club room updated with new flooring, wall finishes and an open ceiling.",
+      "location_basis": "Existing published title/source-pair location; no new location for unlocated projects. Northbrook existing title retained; historical independent confirmation still pending."
+    },
+    {
+      "page": 493,
+      "slider": 1203,
+      "title": "Club Room Renovation (Door View)",
+      "description": "Another view of the club room with updated flooring, wall finishes and lighting.",
+      "location_basis": "Existing published title/source-pair location; no new location for unlocated projects. Northbrook existing title retained; historical independent confirmation still pending."
+    },
+    {
+      "page": 493,
+      "slider": 1204,
+      "title": "Fireplace Room Restoration — Wonder Lake, IL",
+      "description": "An unfinished fireplace room restored with stone finishes, flooring and painted walls.",
+      "location_basis": "Existing published title/source-pair location; no new location for unlocated projects. Northbrook existing title retained; historical independent confirmation still pending."
+    },
+    {
+      "page": 493,
+      "slider": 1205,
+      "title": "Bedroom Fire Damage Restoration — Tinley Park, IL",
+      "description": "A fire-damaged bedroom restored with finished walls, carpeting and lighting.",
+      "location_basis": "Existing published title/source-pair location; no new location for unlocated projects. Northbrook existing title retained; historical independent confirmation still pending."
+    },
+    {
+      "page": 493,
+      "slider": 1206,
+      "title": "Exterior Fire Damage Restoration — Tinley Park, IL",
+      "description": "A fire-damaged home exterior restored with finished trim and windows.",
+      "location_basis": "Existing published title/source-pair location; no new location for unlocated projects. Northbrook existing title retained; historical independent confirmation still pending."
+    },
+    {
+      "page": 493,
+      "slider": 1207,
+      "title": "Shower Room Fire Damage Restoration — Tinley Park, IL",
+      "description": "A fire-damaged shower room restored with finished walls, tile and fixtures.",
+      "location_basis": "Existing published title/source-pair location; no new location for unlocated projects. Northbrook existing title retained; historical independent confirmation still pending."
+    },
+    {
+      "page": 493,
+      "slider": 1208,
+      "title": "Bathroom Fire Damage Restoration — Tinley Park, IL",
+      "description": "A fire-damaged bathroom restored with a finished vanity, tub and wall finishes.",
+      "location_basis": "Existing published title/source-pair location; no new location for unlocated projects. Northbrook existing title retained; historical independent confirmation still pending."
+    },
+    {
+      "page": 493,
+      "slider": 1209,
+      "title": "Commercial Entrance Renovation",
+      "description": "A commercial entrance updated with white framing, dark doors and finished flooring.",
+      "location_basis": "Existing published title/source-pair location; no new location for unlocated projects. Northbrook existing title retained; historical independent confirmation still pending."
+    },
+    {
+      "page": 493,
+      "slider": 1210,
+      "title": "Living Room Renovation",
+      "description": "A living room updated with lighter finishes, flooring and an open layout around the brick fireplace.",
+      "location_basis": "Existing published title/source-pair location; no new location for unlocated projects. Northbrook existing title retained; historical independent confirmation still pending."
+    },
+    {
+      "page": 493,
+      "slider": 1245,
+      "title": "Kitchen Restoration",
+      "description": "A kitchen restored with white cabinetry, countertops and finished flooring.",
+      "location_basis": "Existing published title/source-pair location; no new location for unlocated projects. Northbrook existing title retained; historical independent confirmation still pending."
+    }
+  ],
+  "preservation": {
+    "154": {
+      "outside_card_tree_unchanged": true,
+      "authored_seo_fields_unchanged": true,
+      "card_count": 3
+    },
+    "484": {
+      "outside_card_tree_unchanged": true,
+      "authored_seo_fields_unchanged": true,
+      "card_count": 2
+    },
+    "493": {
+      "outside_card_tree_unchanged": true,
+      "authored_seo_fields_unchanged": true,
+      "card_count": 15
+    }
+  },
+  "responsive_18_cases": [
+    {
+      "cards": [
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333780477334,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H3"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333780477334,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H3"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333780477334,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H3"
+        }
+      ],
+      "overflow": false,
+      "url": "/",
+      "width": 360
+    },
+    {
+      "cards": [
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.333333413907797,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H3"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.333333413907797,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H3"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.333333413907797,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H3"
+        }
+      ],
+      "overflow": false,
+      "url": "/",
+      "width": 393
+    },
+    {
+      "cards": [
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333696637837,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H3"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333696637837,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H3"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333696637837,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H3"
+        }
+      ],
+      "overflow": false,
+      "url": "/",
+      "width": 430
+    },
+    {
+      "cards": [
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H3"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H3"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H3"
+        }
+      ],
+      "overflow": false,
+      "url": "/",
+      "width": 768
+    },
+    {
+      "cards": [
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H3"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H3"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H3"
+        }
+      ],
+      "overflow": false,
+      "url": "/",
+      "width": 1024
+    },
+    {
+      "cards": [
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.33333337087033,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H3"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.33333337087033,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H3"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.33333337087033,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H3"
+        }
+      ],
+      "overflow": false,
+      "url": "/",
+      "width": 1440
+    },
+    {
+      "cards": [
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333780477334,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H3"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333780477334,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H3"
+        }
+      ],
+      "overflow": false,
+      "url": "/residential-services/",
+      "width": 360
+    },
+    {
+      "cards": [
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.333333413907797,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H3"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.333333413907797,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H3"
+        }
+      ],
+      "overflow": false,
+      "url": "/residential-services/",
+      "width": 393
+    },
+    {
+      "cards": [
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333696637837,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H3"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333696637837,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H3"
+        }
+      ],
+      "overflow": false,
+      "url": "/residential-services/",
+      "width": 430
+    },
+    {
+      "cards": [
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H3"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H3"
+        }
+      ],
+      "overflow": false,
+      "url": "/residential-services/",
+      "width": 768
+    },
+    {
+      "cards": [
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H3"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H3"
+        }
+      ],
+      "overflow": false,
+      "url": "/residential-services/",
+      "width": 1024
+    },
+    {
+      "cards": [
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333822397084,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H3"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333822397084,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H3"
+        }
+      ],
+      "overflow": false,
+      "url": "/residential-services/",
+      "width": 1440
+    },
+    {
+      "cards": [
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333780477334,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333780477334,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333780477334,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333780477334,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333780477334,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333780477334,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333780477334,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333780477334,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333780477334,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333780477334,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333780477334,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333780477334,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333780477334,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333780477334,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333780477334,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        }
+      ],
+      "overflow": false,
+      "url": "/before-and-after/",
+      "width": 360
+    },
+    {
+      "cards": [
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.333333413907797,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.333333413907797,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.333333413907797,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.333333413907797,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.333333413907797,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.333333413907797,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.333333413907797,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.333333413907797,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.333333413907797,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.333333413907797,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.333333413907797,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.333333413907797,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.333333413907797,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.333333413907797,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.333333413907797,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        }
+      ],
+      "overflow": false,
+      "url": "/before-and-after/",
+      "width": 393
+    },
+    {
+      "cards": [
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333696637837,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333696637837,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333696637837,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333696637837,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333696637837,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333696637837,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333696637837,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333696637837,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333696637837,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333696637837,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333696637837,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333696637837,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333696637837,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333696637837,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333696637837,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        }
+      ],
+      "overflow": false,
+      "url": "/before-and-after/",
+      "width": 430
+    },
+    {
+      "cards": [
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        }
+      ],
+      "overflow": false,
+      "url": "/before-and-after/",
+      "width": 768
+    },
+    {
+      "cards": [
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.3333333333333333,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        }
+      ],
+      "overflow": false,
+      "url": "/before-and-after/",
+      "width": 1024
+    },
+    {
+      "cards": [
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.33333337087033,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.33333337087033,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.33333337087033,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.33333337087033,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.33333337087033,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.33333337087033,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.33333337087033,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.33333337087033,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.33333337087033,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.33333337087033,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.33333337087033,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.33333337087033,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.33333337087033,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.33333337087033,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        },
+        {
+          "bg": "rgb(255, 255, 255)",
+          "captionFits": true,
+          "loaded": true,
+          "padding": "24px",
+          "radius": "10px",
+          "ratio": 1.33333337087033,
+          "titleFont": "600 20px / 27px Montserrat",
+          "titleSize": "20px",
+          "titleTag": "H2"
+        }
+      ],
+      "overflow": false,
+      "url": "/before-and-after/",
+      "width": 1440
+    }
+  ],
+  "final_caption_checks": [
+    {
+      "captions": [
+        {
+          "description": "Damaged framing and finishes transformed into a completed interior.",
+          "fits": true,
+          "title": "Fire Damage Restoration — Tinley Park, IL",
+          "titleSize": "20px"
+        },
+        {
+          "description": "Ceiling damage repaired and a living space restored.",
+          "fits": true,
+          "title": "Water Damage Restoration — Glenview, IL",
+          "titleSize": "20px"
+        },
+        {
+          "description": "A garage exterior restored with finished trim, a white door and a side entrance.",
+          "fits": true,
+          "title": "Garage Fire Damage Restoration — Northbrook, IL",
+          "titleSize": "20px"
+        }
+      ],
+      "overflow": false,
+      "path": "/",
+      "width": 1440
+    },
+    {
+      "captions": [
+        {
+          "description": "Damaged framing and finishes transformed into a completed interior.",
+          "fits": true,
+          "title": "Fire Damage Restoration — Tinley Park, IL",
+          "titleSize": "20px"
+        },
+        {
+          "description": "Ceiling damage repaired and a living space restored.",
+          "fits": true,
+          "title": "Water Damage Restoration — Glenview, IL",
+          "titleSize": "20px"
+        }
+      ],
+      "overflow": false,
+      "path": "/residential-services/",
+      "width": 1440
+    },
+    {
+      "captions": [
+        {
+          "description": "A kitchen updated with cabinetry, lighting and an island.",
+          "fits": true,
+          "title": "Kitchen Renovation",
+          "titleSize": "20px"
+        },
+        {
+          "description": "Exposed lower wall framing restored to a finished vanity and tile floor.",
+          "fits": true,
+          "title": "Bathroom Restoration",
+          "titleSize": "20px"
+        },
+        {
+          "description": "Open framing transformed into completed walls, ceilings and flooring.",
+          "fits": true,
+          "title": "Interior Restoration — Wonder Lake, IL",
+          "titleSize": "20px"
+        },
+        {
+          "description": "A fire-damaged living area and kitchen restored to completed interiors.",
+          "fits": true,
+          "title": "Living Area Fire Damage Restoration — Tinley Park, IL",
+          "titleSize": "20px"
+        },
+        {
+          "description": "Exposed framing restored to a kitchen with finished cabinetry and countertops.",
+          "fits": true,
+          "title": "Kitchen Restoration — Wonder Lake, IL",
+          "titleSize": "20px"
+        },
+        {
+          "description": "A club room updated with new flooring, wall finishes and an open ceiling.",
+          "fits": true,
+          "title": "Club Room Renovation (Window View)",
+          "titleSize": "20px"
+        },
+        {
+          "description": "Another view of the club room with updated flooring, wall finishes and lighting.",
+          "fits": true,
+          "title": "Club Room Renovation (Door View)",
+          "titleSize": "20px"
+        },
+        {
+          "description": "An unfinished fireplace room restored with stone finishes, flooring and painted walls.",
+          "fits": true,
+          "title": "Fireplace Room Restoration — Wonder Lake, IL",
+          "titleSize": "20px"
+        },
+        {
+          "description": "A fire-damaged bedroom restored with finished walls, carpeting and lighting.",
+          "fits": true,
+          "title": "Bedroom Fire Damage Restoration — Tinley Park, IL",
+          "titleSize": "20px"
+        },
+        {
+          "description": "A fire-damaged home exterior restored with finished trim and windows.",
+          "fits": true,
+          "title": "Exterior Fire Damage Restoration — Tinley Park, IL",
+          "titleSize": "20px"
+        },
+        {
+          "description": "A fire-damaged shower room restored with finished walls, tile and fixtures.",
+          "fits": true,
+          "title": "Shower Room Fire Damage Restoration — Tinley Park, IL",
+          "titleSize": "20px"
+        },
+        {
+          "description": "A fire-damaged bathroom restored with a finished vanity, tub and wall finishes.",
+          "fits": true,
+          "title": "Bathroom Fire Damage Restoration — Tinley Park, IL",
+          "titleSize": "20px"
+        },
+        {
+          "description": "A commercial entrance updated with white framing, dark doors and finished flooring.",
+          "fits": true,
+          "title": "Commercial Entrance Renovation",
+          "titleSize": "20px"
+        },
+        {
+          "description": "A living room updated with lighter finishes, flooring and an open layout around the brick fireplace.",
+          "fits": true,
+          "title": "Living Room Renovation",
+          "titleSize": "20px"
+        },
+        {
+          "description": "A kitchen restored with white cabinetry, countertops and finished flooring.",
+          "fits": true,
+          "title": "Kitchen Restoration",
+          "titleSize": "20px"
+        }
+      ],
+      "overflow": false,
+      "path": "/before-and-after/",
+      "width": 2321
+    }
+  ],
+  "drag_checks": [
+    {
+      "tab": "1569789162",
+      "moved": true
+    },
+    {
+      "tab": "1569789165",
+      "moved": true
+    },
+    {
+      "tab": "1569789156",
+      "moved": true
+    }
+  ],
+  "fullscreen_checks": [
+    {
+      "page": 493,
+      "openClose": true,
+      "enterActivated": true
+    },
+    {
+      "page": 154,
+      "openClose": true
+    },
+    {
+      "page": 484,
+      "openClose": true
+    }
+  ],
+  "anonymous_html": [
+    {
+      "path": "/",
+      "status": 200,
+      "card_class_tokens": 3,
+      "native_article_cards": 14,
+      "noindex": true
+    },
+    {
+      "path": "/residential-services/",
+      "status": 200,
+      "card_class_tokens": 2,
+      "native_article_cards": 13,
+      "noindex": true
+    },
+    {
+      "path": "/before-and-after/",
+      "status": 200,
+      "card_class_tokens": 15,
+      "native_article_cards": 15,
+      "noindex": true
+    }
+  ],
+  "new_global_classes": 3,
+  "new_variables": 0,
+  "new_library_components": 0,
+  "new_custom_code": 0,
+  "new_dependencies": 0,
+  "new_media": 0,
+  "new_native_caption_containers": 2,
+  "beaf_record_or_plugin_changes": false,
+  "production_changes": false
+}
