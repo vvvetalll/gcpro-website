@@ -224,3 +224,7 @@ Do not call the milestone complete while required documentation delivery is pend
 ## Recovery
 
 For a failed staging change, stop further writes, preserve evidence and restore the affected configuration from the verified backup using the authorized staging recovery process. Include dependent Components/classes/templates and media as needed. Recheck frontend, editor, consumers and conditions. Document what was restored and remaining issues. A Git revert of documentation cannot restore WordPress; a theme rollback alone cannot restore Elementor state.
+
+## Preservation baseline versus future architecture — E72
+
+Before adding staging structure, reconcile the complete approved mapping with fresh native saved status/slug/parent/full paths; reuse existing objects and do not recreate completed skeletons. Current URL preservation does not approve long-term architecture or source audit redirects/removals. Maintain the single canonical SEO_URL_INVENTORY.csv using the E72 field contract in SEO_STRUCTURE.md. Retain historical fields and exact URL identities, append dated discoveries/decisions/evidence, distinguish intended Draft routing from public history, and record unavailable production unpublished/performance access honestly. Final targets and execution remain a separately authorized migration milestone.

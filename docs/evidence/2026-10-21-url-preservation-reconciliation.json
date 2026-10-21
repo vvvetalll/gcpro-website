@@ -1,0 +1,46 @@
+{
+  "checked_at_utc": "2026-10-21T14:25:42.343542+00:00",
+  "staging_host": "vitaliiv1.sg-host.com",
+  "wordpress_writes": 0,
+  "preserved_original_rows": 207,
+  "staging_only_added": 5,
+  "inventory_rows": 212,
+  "verified_retained_page_destinations": 81,
+  "verified_city_children": 51,
+  "staging_pages": 86,
+  "staging_status_counts": {
+    "draft": 83,
+    "publish": 3
+  },
+  "current_public_production_objects": {
+    "production_pages": 88,
+    "production_posts": 30,
+    "production_portfolio": 13
+  },
+  "all_public_source_urls_already_in_original_register": true,
+  "future_actions": {
+    "301 REDIRECT": 9,
+    "UPDATE": 133,
+    "KEEP": 43,
+    "REVIEW": 12,
+    "REMOVE": 13,
+    "MERGE": 2
+  },
+  "urls_with_gsc_clicks_available": 125,
+  "source_workbook_sha256": "b4619b0a733652e845f5ef78702344c8e5beb59a0d905ec2eb615f52d4bb1774",
+  "validation": [
+    "All81 staging IDs/statuses/saved slugs/parents/full paths independently reread",
+    "All original207 rows and existing fields preserved; no normalized URL collapse",
+    "All future actions from source audit or REVIEW, no final restructuring approval inferred",
+    "All new fields populated or explicitly unavailable/not applicable",
+    "No new draft or duplicate page needed; existing approved skeleton complete"
+  ],
+  "limitations": [
+    "No authenticated production access; production drafts/private/trash inventory completeness not certified",
+    "No new GSC/GA4 connection/export; historical URL metrics only",
+    "SEO title/description/canonical/HTTP observations retain original2026-10-16 timestamps; not a fresh full crawl",
+    "Orphan candidates limited to dated collected link set, not definitive crawl-wide classification",
+    "Posts/CPT imports, archive setup and8 review holds remain separate"
+  ],
+  "additional_unimplemented_staging_url_candidates": 108
+}
