@@ -1,0 +1,933 @@
+[
+  {
+    "eyebrows": [
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "01 / RESIDENTIAL SERVICES",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "02 / RESTORATION SOLUTIONS",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "03 / OUR PROCESS",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "04 / WHY GCPRO",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "05 / REAL RESULTS",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "06 / LOCAL COVERAGE",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "07 / HOMEOWNER QUESTIONS",
+        "transform": "none"
+      }
+    ],
+    "h1": [
+      {
+        "text": "Residential Property Restoration in Chicago",
+        "transform": "uppercase"
+      }
+    ],
+    "h2": [
+      {
+        "clipped": false,
+        "line": true,
+        "size": "24px",
+        "text": "Residential restoration services"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "24px",
+        "text": "A practical path back to your home"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "24px",
+        "text": "Our restoration process"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "24px",
+        "text": "Why homeowners choose GCPRO"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "24px",
+        "text": "Real restoration results"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "24px",
+        "text": "Serving Chicago and surrounding areas"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "24px",
+        "text": "Residential restoration questions"
+      },
+      {
+        "clipped": false,
+        "line": false,
+        "size": "24px",
+        "text": "Need help restoring your home?"
+      }
+    ],
+    "links": [
+      "tel:+18476563322",
+      "https://vitaliiv1.sg-host.com/service-request/",
+      "https://vitaliiv1.sg-host.com/residential-services/water-damage/",
+      "https://vitaliiv1.sg-host.com/residential-services/fire-smoke/",
+      "https://vitaliiv1.sg-host.com/residential-services/mold-removal/",
+      "https://vitaliiv1.sg-host.com/residential-services/storm-damage/",
+      "https://vitaliiv1.sg-host.com/residential-services/reconstruction/",
+      "https://vitaliiv1.sg-host.com/residential-services/personal-property-restoration/",
+      "https://vitaliiv1.sg-host.com/service-request/",
+      "https://vitaliiv1.sg-host.com/portfolio/",
+      "https://vitaliiv1.sg-host.com/service-area/lombard/",
+      "https://vitaliiv1.sg-host.com/service-area/arlington-heights/",
+      "https://vitaliiv1.sg-host.com/service-area/elmhurst/",
+      "https://vitaliiv1.sg-host.com/service-area/naperville/",
+      "https://vitaliiv1.sg-host.com/service-area/northbrook/",
+      "https://vitaliiv1.sg-host.com/service-area/downers-grove/",
+      "https://vitaliiv1.sg-host.com/service-area/oak-brook/",
+      "https://vitaliiv1.sg-host.com/service-area/glenview/",
+      "https://vitaliiv1.sg-host.com/service-area/highland-park/",
+      "https://vitaliiv1.sg-host.com/service-area/schaumburg/",
+      "https://vitaliiv1.sg-host.com/service-area/evanston/",
+      "https://vitaliiv1.sg-host.com/service-area/elk-grove-village/",
+      "https://vitaliiv1.sg-host.com/service-area/",
+      "https://vitaliiv1.sg-host.com/service-request/",
+      "tel:+18476563322",
+      "https://vitaliiv1.sg-host.com/service-request/"
+    ],
+    "overflow": 0,
+    "sliders": 2,
+    "width": 360
+  },
+  {
+    "eyebrows": [
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "01 / RESIDENTIAL SERVICES",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "02 / RESTORATION SOLUTIONS",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "03 / OUR PROCESS",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "04 / WHY GCPRO",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "05 / REAL RESULTS",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "06 / LOCAL COVERAGE",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "07 / HOMEOWNER QUESTIONS",
+        "transform": "none"
+      }
+    ],
+    "h1": [
+      {
+        "text": "Residential Property Restoration in Chicago",
+        "transform": "uppercase"
+      }
+    ],
+    "h2": [
+      {
+        "clipped": false,
+        "line": true,
+        "size": "24px",
+        "text": "Residential restoration services"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "24px",
+        "text": "A practical path back to your home"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "24px",
+        "text": "Our restoration process"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "24px",
+        "text": "Why homeowners choose GCPRO"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "24px",
+        "text": "Real restoration results"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "24px",
+        "text": "Serving Chicago and surrounding areas"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "24px",
+        "text": "Residential restoration questions"
+      },
+      {
+        "clipped": false,
+        "line": false,
+        "size": "24px",
+        "text": "Need help restoring your home?"
+      }
+    ],
+    "links": [
+      "tel:+18476563322",
+      "https://vitaliiv1.sg-host.com/service-request/",
+      "https://vitaliiv1.sg-host.com/residential-services/water-damage/",
+      "https://vitaliiv1.sg-host.com/residential-services/fire-smoke/",
+      "https://vitaliiv1.sg-host.com/residential-services/mold-removal/",
+      "https://vitaliiv1.sg-host.com/residential-services/storm-damage/",
+      "https://vitaliiv1.sg-host.com/residential-services/reconstruction/",
+      "https://vitaliiv1.sg-host.com/residential-services/personal-property-restoration/",
+      "https://vitaliiv1.sg-host.com/service-request/",
+      "https://vitaliiv1.sg-host.com/portfolio/",
+      "https://vitaliiv1.sg-host.com/service-area/lombard/",
+      "https://vitaliiv1.sg-host.com/service-area/arlington-heights/",
+      "https://vitaliiv1.sg-host.com/service-area/elmhurst/",
+      "https://vitaliiv1.sg-host.com/service-area/naperville/",
+      "https://vitaliiv1.sg-host.com/service-area/northbrook/",
+      "https://vitaliiv1.sg-host.com/service-area/downers-grove/",
+      "https://vitaliiv1.sg-host.com/service-area/oak-brook/",
+      "https://vitaliiv1.sg-host.com/service-area/glenview/",
+      "https://vitaliiv1.sg-host.com/service-area/highland-park/",
+      "https://vitaliiv1.sg-host.com/service-area/schaumburg/",
+      "https://vitaliiv1.sg-host.com/service-area/evanston/",
+      "https://vitaliiv1.sg-host.com/service-area/elk-grove-village/",
+      "https://vitaliiv1.sg-host.com/service-area/",
+      "https://vitaliiv1.sg-host.com/service-request/",
+      "tel:+18476563322",
+      "https://vitaliiv1.sg-host.com/service-request/"
+    ],
+    "overflow": 0,
+    "sliders": 2,
+    "width": 393
+  },
+  {
+    "eyebrows": [
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "01 / RESIDENTIAL SERVICES",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "02 / RESTORATION SOLUTIONS",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "03 / OUR PROCESS",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "04 / WHY GCPRO",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "05 / REAL RESULTS",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "06 / LOCAL COVERAGE",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "07 / HOMEOWNER QUESTIONS",
+        "transform": "none"
+      }
+    ],
+    "h1": [
+      {
+        "text": "Residential Property Restoration in Chicago",
+        "transform": "uppercase"
+      }
+    ],
+    "h2": [
+      {
+        "clipped": false,
+        "line": true,
+        "size": "24px",
+        "text": "Residential restoration services"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "24px",
+        "text": "A practical path back to your home"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "24px",
+        "text": "Our restoration process"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "24px",
+        "text": "Why homeowners choose GCPRO"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "24px",
+        "text": "Real restoration results"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "24px",
+        "text": "Serving Chicago and surrounding areas"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "24px",
+        "text": "Residential restoration questions"
+      },
+      {
+        "clipped": false,
+        "line": false,
+        "size": "24px",
+        "text": "Need help restoring your home?"
+      }
+    ],
+    "links": [
+      "tel:+18476563322",
+      "https://vitaliiv1.sg-host.com/service-request/",
+      "https://vitaliiv1.sg-host.com/residential-services/water-damage/",
+      "https://vitaliiv1.sg-host.com/residential-services/fire-smoke/",
+      "https://vitaliiv1.sg-host.com/residential-services/mold-removal/",
+      "https://vitaliiv1.sg-host.com/residential-services/storm-damage/",
+      "https://vitaliiv1.sg-host.com/residential-services/reconstruction/",
+      "https://vitaliiv1.sg-host.com/residential-services/personal-property-restoration/",
+      "https://vitaliiv1.sg-host.com/service-request/",
+      "https://vitaliiv1.sg-host.com/portfolio/",
+      "https://vitaliiv1.sg-host.com/service-area/lombard/",
+      "https://vitaliiv1.sg-host.com/service-area/arlington-heights/",
+      "https://vitaliiv1.sg-host.com/service-area/elmhurst/",
+      "https://vitaliiv1.sg-host.com/service-area/naperville/",
+      "https://vitaliiv1.sg-host.com/service-area/northbrook/",
+      "https://vitaliiv1.sg-host.com/service-area/downers-grove/",
+      "https://vitaliiv1.sg-host.com/service-area/oak-brook/",
+      "https://vitaliiv1.sg-host.com/service-area/glenview/",
+      "https://vitaliiv1.sg-host.com/service-area/highland-park/",
+      "https://vitaliiv1.sg-host.com/service-area/schaumburg/",
+      "https://vitaliiv1.sg-host.com/service-area/evanston/",
+      "https://vitaliiv1.sg-host.com/service-area/elk-grove-village/",
+      "https://vitaliiv1.sg-host.com/service-area/",
+      "https://vitaliiv1.sg-host.com/service-request/",
+      "tel:+18476563322",
+      "https://vitaliiv1.sg-host.com/service-request/"
+    ],
+    "overflow": 0,
+    "sliders": 2,
+    "width": 430
+  },
+  {
+    "eyebrows": [
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "01 / RESIDENTIAL SERVICES",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "02 / RESTORATION SOLUTIONS",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "03 / OUR PROCESS",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "04 / WHY GCPRO",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "05 / REAL RESULTS",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "06 / LOCAL COVERAGE",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "07 / HOMEOWNER QUESTIONS",
+        "transform": "none"
+      }
+    ],
+    "h1": [
+      {
+        "text": "Residential Property Restoration in Chicago",
+        "transform": "uppercase"
+      }
+    ],
+    "h2": [
+      {
+        "clipped": false,
+        "line": true,
+        "size": "28px",
+        "text": "Residential restoration services"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "28px",
+        "text": "A practical path back to your home"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "28px",
+        "text": "Our restoration process"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "28px",
+        "text": "Why homeowners choose GCPRO"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "28px",
+        "text": "Real restoration results"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "28px",
+        "text": "Serving Chicago and surrounding areas"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "28px",
+        "text": "Residential restoration questions"
+      },
+      {
+        "clipped": false,
+        "line": false,
+        "size": "28px",
+        "text": "Need help restoring your home?"
+      }
+    ],
+    "links": [
+      "tel:+18476563322",
+      "https://vitaliiv1.sg-host.com/service-request/",
+      "https://vitaliiv1.sg-host.com/residential-services/water-damage/",
+      "https://vitaliiv1.sg-host.com/residential-services/fire-smoke/",
+      "https://vitaliiv1.sg-host.com/residential-services/mold-removal/",
+      "https://vitaliiv1.sg-host.com/residential-services/storm-damage/",
+      "https://vitaliiv1.sg-host.com/residential-services/reconstruction/",
+      "https://vitaliiv1.sg-host.com/residential-services/personal-property-restoration/",
+      "https://vitaliiv1.sg-host.com/service-request/",
+      "https://vitaliiv1.sg-host.com/portfolio/",
+      "https://vitaliiv1.sg-host.com/service-area/lombard/",
+      "https://vitaliiv1.sg-host.com/service-area/arlington-heights/",
+      "https://vitaliiv1.sg-host.com/service-area/elmhurst/",
+      "https://vitaliiv1.sg-host.com/service-area/naperville/",
+      "https://vitaliiv1.sg-host.com/service-area/northbrook/",
+      "https://vitaliiv1.sg-host.com/service-area/downers-grove/",
+      "https://vitaliiv1.sg-host.com/service-area/oak-brook/",
+      "https://vitaliiv1.sg-host.com/service-area/glenview/",
+      "https://vitaliiv1.sg-host.com/service-area/highland-park/",
+      "https://vitaliiv1.sg-host.com/service-area/schaumburg/",
+      "https://vitaliiv1.sg-host.com/service-area/evanston/",
+      "https://vitaliiv1.sg-host.com/service-area/elk-grove-village/",
+      "https://vitaliiv1.sg-host.com/service-area/",
+      "https://vitaliiv1.sg-host.com/service-request/",
+      "tel:+18476563322",
+      "https://vitaliiv1.sg-host.com/service-request/"
+    ],
+    "overflow": 0,
+    "sliders": 2,
+    "width": 768
+  },
+  {
+    "eyebrows": [
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "01 / RESIDENTIAL SERVICES",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "02 / RESTORATION SOLUTIONS",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "03 / OUR PROCESS",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "04 / WHY GCPRO",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "05 / REAL RESULTS",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "06 / LOCAL COVERAGE",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "07 / HOMEOWNER QUESTIONS",
+        "transform": "none"
+      }
+    ],
+    "h1": [
+      {
+        "text": "Residential Property Restoration in Chicago",
+        "transform": "uppercase"
+      }
+    ],
+    "h2": [
+      {
+        "clipped": false,
+        "line": true,
+        "size": "28px",
+        "text": "Residential restoration services"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "28px",
+        "text": "A practical path back to your home"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "28px",
+        "text": "Our restoration process"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "28px",
+        "text": "Why homeowners choose GCPRO"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "28px",
+        "text": "Real restoration results"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "28px",
+        "text": "Serving Chicago and surrounding areas"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "28px",
+        "text": "Residential restoration questions"
+      },
+      {
+        "clipped": false,
+        "line": false,
+        "size": "28px",
+        "text": "Need help restoring your home?"
+      }
+    ],
+    "links": [
+      "tel:+18476563322",
+      "https://vitaliiv1.sg-host.com/service-request/",
+      "https://vitaliiv1.sg-host.com/residential-services/water-damage/",
+      "https://vitaliiv1.sg-host.com/residential-services/fire-smoke/",
+      "https://vitaliiv1.sg-host.com/residential-services/mold-removal/",
+      "https://vitaliiv1.sg-host.com/residential-services/storm-damage/",
+      "https://vitaliiv1.sg-host.com/residential-services/reconstruction/",
+      "https://vitaliiv1.sg-host.com/residential-services/personal-property-restoration/",
+      "https://vitaliiv1.sg-host.com/service-request/",
+      "https://vitaliiv1.sg-host.com/portfolio/",
+      "https://vitaliiv1.sg-host.com/service-area/lombard/",
+      "https://vitaliiv1.sg-host.com/service-area/arlington-heights/",
+      "https://vitaliiv1.sg-host.com/service-area/elmhurst/",
+      "https://vitaliiv1.sg-host.com/service-area/naperville/",
+      "https://vitaliiv1.sg-host.com/service-area/northbrook/",
+      "https://vitaliiv1.sg-host.com/service-area/downers-grove/",
+      "https://vitaliiv1.sg-host.com/service-area/oak-brook/",
+      "https://vitaliiv1.sg-host.com/service-area/glenview/",
+      "https://vitaliiv1.sg-host.com/service-area/highland-park/",
+      "https://vitaliiv1.sg-host.com/service-area/schaumburg/",
+      "https://vitaliiv1.sg-host.com/service-area/evanston/",
+      "https://vitaliiv1.sg-host.com/service-area/elk-grove-village/",
+      "https://vitaliiv1.sg-host.com/service-area/",
+      "https://vitaliiv1.sg-host.com/service-request/",
+      "tel:+18476563322",
+      "https://vitaliiv1.sg-host.com/service-request/"
+    ],
+    "overflow": 0,
+    "sliders": 2,
+    "width": 1024
+  },
+  {
+    "eyebrows": [
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "01 / RESIDENTIAL SERVICES",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "02 / RESTORATION SOLUTIONS",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "03 / OUR PROCESS",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "04 / WHY GCPRO",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "05 / REAL RESULTS",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "06 / LOCAL COVERAGE",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "07 / HOMEOWNER QUESTIONS",
+        "transform": "none"
+      }
+    ],
+    "h1": [
+      {
+        "text": "Residential Property Restoration in Chicago",
+        "transform": "uppercase"
+      }
+    ],
+    "h2": [
+      {
+        "clipped": false,
+        "line": true,
+        "size": "32px",
+        "text": "Residential restoration services"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "32px",
+        "text": "A practical path back to your home"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "32px",
+        "text": "Our restoration process"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "32px",
+        "text": "Why homeowners choose GCPRO"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "32px",
+        "text": "Real restoration results"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "32px",
+        "text": "Serving Chicago and surrounding areas"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "32px",
+        "text": "Residential restoration questions"
+      },
+      {
+        "clipped": false,
+        "line": false,
+        "size": "32px",
+        "text": "Need help restoring your home?"
+      }
+    ],
+    "links": [
+      "tel:+18476563322",
+      "https://vitaliiv1.sg-host.com/service-request/",
+      "https://vitaliiv1.sg-host.com/residential-services/water-damage/",
+      "https://vitaliiv1.sg-host.com/residential-services/fire-smoke/",
+      "https://vitaliiv1.sg-host.com/residential-services/mold-removal/",
+      "https://vitaliiv1.sg-host.com/residential-services/storm-damage/",
+      "https://vitaliiv1.sg-host.com/residential-services/reconstruction/",
+      "https://vitaliiv1.sg-host.com/residential-services/personal-property-restoration/",
+      "https://vitaliiv1.sg-host.com/service-request/",
+      "https://vitaliiv1.sg-host.com/portfolio/",
+      "https://vitaliiv1.sg-host.com/service-area/lombard/",
+      "https://vitaliiv1.sg-host.com/service-area/arlington-heights/",
+      "https://vitaliiv1.sg-host.com/service-area/elmhurst/",
+      "https://vitaliiv1.sg-host.com/service-area/naperville/",
+      "https://vitaliiv1.sg-host.com/service-area/northbrook/",
+      "https://vitaliiv1.sg-host.com/service-area/downers-grove/",
+      "https://vitaliiv1.sg-host.com/service-area/oak-brook/",
+      "https://vitaliiv1.sg-host.com/service-area/glenview/",
+      "https://vitaliiv1.sg-host.com/service-area/highland-park/",
+      "https://vitaliiv1.sg-host.com/service-area/schaumburg/",
+      "https://vitaliiv1.sg-host.com/service-area/evanston/",
+      "https://vitaliiv1.sg-host.com/service-area/elk-grove-village/",
+      "https://vitaliiv1.sg-host.com/service-area/",
+      "https://vitaliiv1.sg-host.com/service-request/",
+      "tel:+18476563322",
+      "https://vitaliiv1.sg-host.com/service-request/"
+    ],
+    "overflow": 0,
+    "sliders": 2,
+    "width": 1280
+  },
+  {
+    "eyebrows": [
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "01 / RESIDENTIAL SERVICES",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "02 / RESTORATION SOLUTIONS",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "03 / OUR PROCESS",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "04 / WHY GCPRO",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "05 / REAL RESULTS",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "06 / LOCAL COVERAGE",
+        "transform": "none"
+      },
+      {
+        "font": "Inter",
+        "size": "12px",
+        "text": "07 / HOMEOWNER QUESTIONS",
+        "transform": "none"
+      }
+    ],
+    "h1": [
+      {
+        "text": "Residential Property Restoration in Chicago",
+        "transform": "uppercase"
+      }
+    ],
+    "h2": [
+      {
+        "clipped": false,
+        "line": true,
+        "size": "32px",
+        "text": "Residential restoration services"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "32px",
+        "text": "A practical path back to your home"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "32px",
+        "text": "Our restoration process"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "32px",
+        "text": "Why homeowners choose GCPRO"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "32px",
+        "text": "Real restoration results"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "32px",
+        "text": "Serving Chicago and surrounding areas"
+      },
+      {
+        "clipped": false,
+        "line": true,
+        "size": "32px",
+        "text": "Residential restoration questions"
+      },
+      {
+        "clipped": false,
+        "line": false,
+        "size": "32px",
+        "text": "Need help restoring your home?"
+      }
+    ],
+    "links": [
+      "tel:+18476563322",
+      "https://vitaliiv1.sg-host.com/service-request/",
+      "https://vitaliiv1.sg-host.com/residential-services/water-damage/",
+      "https://vitaliiv1.sg-host.com/residential-services/fire-smoke/",
+      "https://vitaliiv1.sg-host.com/residential-services/mold-removal/",
+      "https://vitaliiv1.sg-host.com/residential-services/storm-damage/",
+      "https://vitaliiv1.sg-host.com/residential-services/reconstruction/",
+      "https://vitaliiv1.sg-host.com/residential-services/personal-property-restoration/",
+      "https://vitaliiv1.sg-host.com/service-request/",
+      "https://vitaliiv1.sg-host.com/portfolio/",
+      "https://vitaliiv1.sg-host.com/service-area/lombard/",
+      "https://vitaliiv1.sg-host.com/service-area/arlington-heights/",
+      "https://vitaliiv1.sg-host.com/service-area/elmhurst/",
+      "https://vitaliiv1.sg-host.com/service-area/naperville/",
+      "https://vitaliiv1.sg-host.com/service-area/northbrook/",
+      "https://vitaliiv1.sg-host.com/service-area/downers-grove/",
+      "https://vitaliiv1.sg-host.com/service-area/oak-brook/",
+      "https://vitaliiv1.sg-host.com/service-area/glenview/",
+      "https://vitaliiv1.sg-host.com/service-area/highland-park/",
+      "https://vitaliiv1.sg-host.com/service-area/schaumburg/",
+      "https://vitaliiv1.sg-host.com/service-area/evanston/",
+      "https://vitaliiv1.sg-host.com/service-area/elk-grove-village/",
+      "https://vitaliiv1.sg-host.com/service-area/",
+      "https://vitaliiv1.sg-host.com/service-request/",
+      "tel:+18476563322",
+      "https://vitaliiv1.sg-host.com/service-request/"
+    ],
+    "overflow": 0,
+    "sliders": 2,
+    "width": 1440
+  }
+]

@@ -1,0 +1,3462 @@
+{
+  "id": 484,
+  "slug": "residential-services",
+  "status": "publish",
+  "tree": [
+    {
+      "id": "b1c1ff0",
+      "elType": "e-div-block",
+      "settings": {
+        "classes": {
+          "$$type": "classes",
+          "value": [
+            "g-6f5f11a",
+            "e-5ba877a0-50b9"
+          ]
+        },
+        "tag": {
+          "$$type": "string",
+          "value": "div"
+        }
+      },
+      "elements": [
+        {
+          "id": "5357c5f3",
+          "elType": "e-div-block",
+          "settings": {
+            "classes": {
+              "$$type": "classes",
+              "value": [
+                "g-d3248b3",
+                "g-43edd01"
+              ]
+            },
+            "tag": {
+              "$$type": "string",
+              "value": "section"
+            }
+          },
+          "elements": [
+            {
+              "id": "1588bcce",
+              "elType": "e-div-block",
+              "settings": {
+                "classes": {
+                  "$$type": "classes",
+                  "value": [
+                    "g-68fb534",
+                    "g-6f5f11a",
+                    "e-7f61192a-183d"
+                  ]
+                },
+                "tag": {
+                  "$$type": "string",
+                  "value": "div"
+                }
+              },
+              "elements": [
+                {
+                  "id": "1e6db935",
+                  "elType": "e-div-block",
+                  "settings": {
+                    "classes": {
+                      "$$type": "classes",
+                      "value": [
+                        "g-9b8782d",
+                        "e-4e075381-73b2"
+                      ]
+                    },
+                    "tag": {
+                      "$$type": "string",
+                      "value": "div"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "79eab91b",
+                      "elType": "e-div-block",
+                      "settings": {
+                        "classes": {
+                          "$$type": "classes",
+                          "value": [
+                            "g-6f5f11a",
+                            "g-b9ab0d8",
+                            "e-199d005b-7cbf"
+                          ]
+                        },
+                        "tag": {
+                          "$$type": "string",
+                          "value": "div"
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "4ae63149",
+                          "elType": "widget",
+                          "settings": {
+                            "component_instance": {
+                              "$$type": "component-instance",
+                              "value": {
+                                "component_id": {
+                                  "$$type": "number",
+                                  "value": 286
+                                },
+                                "overrides": {
+                                  "$$type": "overrides",
+                                  "value": [
+                                    {
+                                      "$$type": "override",
+                                      "value": {
+                                        "override_key": "label",
+                                        "override_value": {
+                                          "$$type": "escaped-html",
+                                          "value": "Emergency restoration"
+                                        },
+                                        "schema_source": {
+                                          "type": "component",
+                                          "id": 286
+                                        }
+                                      }
+                                    }
+                                  ]
+                                }
+                              }
+                            }
+                          },
+                          "elements": [],
+                          "widgetType": "e-component",
+                          "editor_settings": {
+                            "title": "Residential Emergency Mark"
+                          },
+                          "version": "0.0"
+                        },
+                        {
+                          "id": "12e30c52",
+                          "elType": "widget",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "e-72ca957a-729a"
+                              ]
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "h1"
+                            },
+                            "title": {
+                              "$$type": "escaped-html",
+                              "value": "Residential Property Restoration in Chicago"
+                            }
+                          },
+                          "elements": [],
+                          "widgetType": "e-heading",
+                          "styles": {
+                            "e-72ca957a-729a": {
+                              "id": "e-72ca957a-729a",
+                              "label": "local",
+                              "type": "class",
+                              "variants": [
+                                {
+                                  "meta": {
+                                    "breakpoint": "desktop",
+                                    "state": null
+                                  },
+                                  "props": {
+                                    "color": {
+                                      "$$type": "global-color-variable",
+                                      "value": "e-gv-714c09b"
+                                    }
+                                  },
+                                  "custom_css": null
+                                }
+                              ]
+                            }
+                          },
+                          "editor_settings": {
+                            "title": "Residential H1"
+                          },
+                          "version": "0.0"
+                        },
+                        {
+                          "id": "4292b809",
+                          "elType": "widget",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "g-8c1a9a9",
+                                "e-5bbdcc32-637e"
+                              ]
+                            },
+                            "paragraph": {
+                              "$$type": "escaped-html",
+                              "value": "When water, fire, mold or storm damage affects your home, the next step should be clear. GCPRO provides residential restoration, reconstruction and personal property services across Chicago and surrounding Chicagoland communities."
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "p"
+                            }
+                          },
+                          "elements": [],
+                          "widgetType": "e-paragraph",
+                          "styles": {
+                            "e-5bbdcc32-637e": {
+                              "id": "e-5bbdcc32-637e",
+                              "label": "local",
+                              "type": "class",
+                              "variants": [
+                                {
+                                  "meta": {
+                                    "breakpoint": "desktop",
+                                    "state": null
+                                  },
+                                  "props": {
+                                    "color": {
+                                      "$$type": "global-color-variable",
+                                      "value": "e-gv-714c09b"
+                                    }
+                                  },
+                                  "custom_css": null
+                                }
+                              ]
+                            }
+                          },
+                          "editor_settings": {
+                            "title": "Residential Hero Introduction"
+                          },
+                          "version": "0.0"
+                        },
+                        {
+                          "id": "6d525a9c",
+                          "elType": "e-div-block",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "g-0e529a5"
+                              ]
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "div"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "2618db69",
+                              "elType": "widget",
+                              "settings": {
+                                "component_instance": {
+                                  "$$type": "component-instance",
+                                  "value": {
+                                    "component_id": {
+                                      "$$type": "number",
+                                      "value": 53
+                                    },
+                                    "overrides": {
+                                      "$$type": "overrides",
+                                      "value": [
+                                        {
+                                          "$$type": "override",
+                                          "value": {
+                                            "override_key": "text",
+                                            "override_value": {
+                                              "$$type": "escaped-html",
+                                              "value": "Call 847-656-3322"
+                                            },
+                                            "schema_source": {
+                                              "type": "component",
+                                              "id": 53
+                                            }
+                                          }
+                                        },
+                                        {
+                                          "$$type": "override",
+                                          "value": {
+                                            "override_key": "link",
+                                            "override_value": {
+                                              "$$type": "link",
+                                              "value": {
+                                                "destination": {
+                                                  "$$type": "url",
+                                                  "value": "tel:+18476563322"
+                                                },
+                                                "isTargetBlank": {
+                                                  "$$type": "boolean",
+                                                  "value": false
+                                                },
+                                                "tag": {
+                                                  "$$type": "string",
+                                                  "value": "a"
+                                                }
+                                              }
+                                            },
+                                            "schema_source": {
+                                              "type": "component",
+                                              "id": 53
+                                            }
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "elements": [],
+                              "widgetType": "e-component",
+                              "editor_settings": {
+                                "title": "Hero Call Now"
+                              },
+                              "version": "0.0"
+                            },
+                            {
+                              "id": "20437cdc",
+                              "elType": "widget",
+                              "settings": {
+                                "component_instance": {
+                                  "$$type": "component-instance",
+                                  "value": {
+                                    "component_id": {
+                                      "$$type": "number",
+                                      "value": 103
+                                    },
+                                    "overrides": {
+                                      "$$type": "overrides",
+                                      "value": [
+                                        {
+                                          "$$type": "override",
+                                          "value": {
+                                            "override_key": "text",
+                                            "override_value": {
+                                              "$$type": "escaped-html",
+                                              "value": "Request Service"
+                                            },
+                                            "schema_source": {
+                                              "type": "component",
+                                              "id": 103
+                                            }
+                                          }
+                                        },
+                                        {
+                                          "$$type": "override",
+                                          "value": {
+                                            "override_key": "link",
+                                            "override_value": {
+                                              "$$type": "link",
+                                              "value": {
+                                                "destination": {
+                                                  "$$type": "dynamic",
+                                                  "value": {
+                                                    "name": "internal-url",
+                                                    "group": "site",
+                                                    "settings": {
+                                                      "type": {
+                                                        "$$type": "string",
+                                                        "value": "post"
+                                                      },
+                                                      "post_id": {
+                                                        "$$type": "query",
+                                                        "value": {
+                                                          "id": {
+                                                            "$$type": "number",
+                                                            "value": 492
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                },
+                                                "isTargetBlank": {
+                                                  "$$type": "boolean",
+                                                  "value": false
+                                                },
+                                                "tag": {
+                                                  "$$type": "string",
+                                                  "value": "a"
+                                                }
+                                              }
+                                            },
+                                            "schema_source": {
+                                              "type": "component",
+                                              "id": 103
+                                            }
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "elements": [],
+                              "widgetType": "e-component",
+                              "editor_settings": {
+                                "title": "Hero Request Service"
+                              },
+                              "version": "0.0"
+                            }
+                          ],
+                          "isInner": false,
+                          "editor_settings": {
+                            "title": "Residential Hero Actions"
+                          },
+                          "version": "0.0"
+                        }
+                      ],
+                      "isInner": false,
+                      "styles": {
+                        "e-199d005b-7cbf": {
+                          "id": "e-199d005b-7cbf",
+                          "label": "local",
+                          "type": "class",
+                          "variants": [
+                            {
+                              "meta": {
+                                "breakpoint": "desktop",
+                                "state": null
+                              },
+                              "props": {
+                                "gap": {
+                                  "$$type": "global-size-variable",
+                                  "value": "e-gv-a0a0c34"
+                                }
+                              },
+                              "custom_css": null
+                            }
+                          ]
+                        }
+                      },
+                      "editor_settings": {
+                        "title": "Residential Hero Copy"
+                      },
+                      "version": "0.0"
+                    },
+                    {
+                      "id": "dea2d48",
+                      "elType": "e-div-block",
+                      "settings": {
+                        "classes": {
+                          "$$type": "classes",
+                          "value": [
+                            "g-6f5f11a",
+                            "e-41d959c7-47ca"
+                          ]
+                        },
+                        "tag": {
+                          "$$type": "string",
+                          "value": "div"
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "1ebe662e",
+                          "elType": "widget",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "e-307475c6-d852"
+                              ]
+                            },
+                            "image": {
+                              "$$type": "image",
+                              "value": {
+                                "src": {
+                                  "$$type": "image-src",
+                                  "value": {
+                                    "id": {
+                                      "$$type": "image-attachment-id",
+                                      "value": 747
+                                    }
+                                  }
+                                },
+                                "size": {
+                                  "$$type": "string",
+                                  "value": "large"
+                                }
+                              }
+                            }
+                          },
+                          "elements": [],
+                          "widgetType": "e-image",
+                          "styles": {
+                            "e-307475c6-d852": {
+                              "id": "e-307475c6-d852",
+                              "label": "local",
+                              "type": "class",
+                              "variants": [
+                                {
+                                  "meta": {
+                                    "breakpoint": "desktop",
+                                    "state": null
+                                  },
+                                  "props": {
+                                    "width": {
+                                      "$$type": "size",
+                                      "value": {
+                                        "size": 100,
+                                        "unit": "%"
+                                      }
+                                    },
+                                    "height": {
+                                      "$$type": "size",
+                                      "value": {
+                                        "size": "",
+                                        "unit": "auto"
+                                      }
+                                    },
+                                    "border-radius": {
+                                      "$$type": "global-size-variable",
+                                      "value": "e-gv-ae8c2d2"
+                                    }
+                                  },
+                                  "custom_css": null
+                                }
+                              ]
+                            }
+                          },
+                          "editor_settings": {
+                            "title": "Glenview Restored Home Photo"
+                          },
+                          "version": "0.0"
+                        },
+                        {
+                          "id": "567882a1",
+                          "elType": "widget",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "e-60ab2079-50f7"
+                              ]
+                            },
+                            "paragraph": {
+                              "$$type": "escaped-html",
+                              "value": "A completed living space from GCPRO\u2019s Glenview restoration project."
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "p"
+                            }
+                          },
+                          "elements": [],
+                          "widgetType": "e-paragraph",
+                          "styles": {
+                            "e-60ab2079-50f7": {
+                              "id": "e-60ab2079-50f7",
+                              "label": "local",
+                              "type": "class",
+                              "variants": [
+                                {
+                                  "meta": {
+                                    "breakpoint": "desktop",
+                                    "state": null
+                                  },
+                                  "props": {
+                                    "font-size": {
+                                      "$$type": "size",
+                                      "value": {
+                                        "size": 0.875,
+                                        "unit": "rem"
+                                      }
+                                    },
+                                    "color": {
+                                      "$$type": "global-color-variable",
+                                      "value": "e-gv-714c09b"
+                                    }
+                                  },
+                                  "custom_css": null
+                                }
+                              ]
+                            }
+                          },
+                          "editor_settings": {
+                            "title": "Hero Photo Caption"
+                          },
+                          "version": "0.0"
+                        }
+                      ],
+                      "isInner": false,
+                      "styles": {
+                        "e-41d959c7-47ca": {
+                          "id": "e-41d959c7-47ca",
+                          "label": "local",
+                          "type": "class",
+                          "variants": [
+                            {
+                              "meta": {
+                                "breakpoint": "desktop",
+                                "state": null
+                              },
+                              "props": {
+                                "gap": {
+                                  "$$type": "global-size-variable",
+                                  "value": "e-gv-ff0543b"
+                                }
+                              },
+                              "custom_css": null
+                            }
+                          ]
+                        }
+                      },
+                      "editor_settings": {
+                        "title": "Residential Hero Media"
+                      },
+                      "version": "0.0"
+                    }
+                  ],
+                  "isInner": false,
+                  "styles": {
+                    "e-4e075381-73b2": {
+                      "id": "e-4e075381-73b2",
+                      "label": "local",
+                      "type": "class",
+                      "variants": [
+                        {
+                          "meta": {
+                            "breakpoint": "desktop",
+                            "state": null
+                          },
+                          "props": {
+                            "align-items": {
+                              "$$type": "string",
+                              "value": "center"
+                            }
+                          },
+                          "custom_css": null
+                        }
+                      ]
+                    }
+                  },
+                  "editor_settings": {
+                    "title": "Residential Hero Layout"
+                  },
+                  "version": "0.0"
+                }
+              ],
+              "isInner": false,
+              "styles": {
+                "e-7f61192a-183d": {
+                  "id": "e-7f61192a-183d",
+                  "label": "local",
+                  "type": "class",
+                  "variants": [
+                    {
+                      "meta": {
+                        "breakpoint": "desktop",
+                        "state": null
+                      },
+                      "props": {
+                        "gap": {
+                          "$$type": "global-size-variable",
+                          "value": "e-gv-cb4ef7f"
+                        }
+                      },
+                      "custom_css": null
+                    }
+                  ]
+                }
+              },
+              "editor_settings": {
+                "title": "01 Residential Hero Container"
+              },
+              "version": "0.0"
+            }
+          ],
+          "isInner": false,
+          "editor_settings": {
+            "title": "01 Residential Hero"
+          },
+          "version": "0.0"
+        },
+        {
+          "id": "305c8aa",
+          "elType": "e-div-block",
+          "settings": {
+            "classes": {
+              "$$type": "classes",
+              "value": [
+                "g-d3248b3",
+                "e-283a875e-eceb"
+              ]
+            },
+            "tag": {
+              "$$type": "string",
+              "value": "section"
+            }
+          },
+          "elements": [
+            {
+              "id": "1c714b47",
+              "elType": "e-div-block",
+              "settings": {
+                "classes": {
+                  "$$type": "classes",
+                  "value": [
+                    "g-a537304",
+                    "g-68fb534",
+                    "g-6f5f11a",
+                    "e-3f4d23f7-d434"
+                  ]
+                },
+                "tag": {
+                  "$$type": "string",
+                  "value": "div"
+                }
+              },
+              "elements": [
+                {
+                  "id": "48d8e79c",
+                  "elType": "widget",
+                  "settings": {
+                    "component_instance": {
+                      "$$type": "component-instance",
+                      "value": {
+                        "component_id": {
+                          "$$type": "number",
+                          "value": 71
+                        },
+                        "overrides": {
+                          "$$type": "overrides",
+                          "value": [
+                            {
+                              "$$type": "override",
+                              "value": {
+                                "override_key": "title",
+                                "override_value": {
+                                  "$$type": "escaped-html",
+                                  "value": "Residential restoration services"
+                                },
+                                "schema_source": {
+                                  "type": "component",
+                                  "id": 71
+                                }
+                              }
+                            },
+                            {
+                              "$$type": "override",
+                              "value": {
+                                "override_key": "heading_tag",
+                                "override_value": {
+                                  "$$type": "string",
+                                  "value": "h2"
+                                },
+                                "schema_source": {
+                                  "type": "component",
+                                  "id": 71
+                                }
+                              }
+                            },
+                            {
+                              "$$type": "override",
+                              "value": {
+                                "override_key": "description",
+                                "override_value": {
+                                  "$$type": "escaped-html",
+                                  "value": "Choose the service that best matches the damage to your property, from affected rooms and finishes to belongings and reconstruction needs."
+                                },
+                                "schema_source": {
+                                  "type": "component",
+                                  "id": 71
+                                }
+                              }
+                            },
+                            {
+                              "$$type": "override",
+                              "value": {
+                                "override_key": "eyebrow",
+                                "override_value": {
+                                  "$$type": "escaped-html",
+                                  "value": "01 / RESIDENTIAL SERVICES"
+                                },
+                                "schema_source": {
+                                  "type": "component",
+                                  "id": 71
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "e-component",
+                  "editor_settings": {
+                    "title": "Residential Services Heading"
+                  },
+                  "version": "0.0"
+                },
+                {
+                  "id": "d963a70",
+                  "elType": "e-div-block",
+                  "settings": {
+                    "classes": {
+                      "$$type": "classes",
+                      "value": [
+                        "g-2f37dc0"
+                      ]
+                    },
+                    "tag": {
+                      "$$type": "string",
+                      "value": "div"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "170443ba",
+                      "elType": "widget",
+                      "settings": {
+                        "component_instance": {
+                          "$$type": "component-instance",
+                          "value": {
+                            "component_id": {
+                              "$$type": "number",
+                              "value": 62
+                            },
+                            "overrides": {
+                              "$$type": "overrides",
+                              "value": [
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "icon",
+                                    "override_value": {
+                                      "$$type": "svg-src",
+                                      "value": {
+                                        "id": {
+                                          "$$type": "image-attachment-id",
+                                          "value": 596
+                                        }
+                                      }
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 62
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "title",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Water Damage Restoration"
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 62
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "description",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Restore affected rooms and finishes after leaks, water intrusion and related moisture damage."
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 62
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "cta_text",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Explore water damage"
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 62
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "cta_link",
+                                    "override_value": {
+                                      "$$type": "link",
+                                      "value": {
+                                        "destination": {
+                                          "$$type": "dynamic",
+                                          "value": {
+                                            "name": "internal-url",
+                                            "group": "site",
+                                            "settings": {
+                                              "type": {
+                                                "$$type": "string",
+                                                "value": "post"
+                                              },
+                                              "post_id": {
+                                                "$$type": "query",
+                                                "value": {
+                                                  "id": {
+                                                    "$$type": "number",
+                                                    "value": 514
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        },
+                                        "isTargetBlank": {
+                                          "$$type": "boolean",
+                                          "value": false
+                                        },
+                                        "tag": {
+                                          "$$type": "string",
+                                          "value": "a"
+                                        }
+                                      }
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 62
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "e-component",
+                      "editor_settings": {
+                        "title": "Water Damage Restoration Card"
+                      },
+                      "version": "0.0"
+                    },
+                    {
+                      "id": "3ed0e60b",
+                      "elType": "widget",
+                      "settings": {
+                        "component_instance": {
+                          "$$type": "component-instance",
+                          "value": {
+                            "component_id": {
+                              "$$type": "number",
+                              "value": 62
+                            },
+                            "overrides": {
+                              "$$type": "overrides",
+                              "value": [
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "icon",
+                                    "override_value": {
+                                      "$$type": "svg-src",
+                                      "value": {
+                                        "id": {
+                                          "$$type": "image-attachment-id",
+                                          "value": 597
+                                        }
+                                      }
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 62
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "title",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Fire &amp; Smoke Damage Restoration"
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 62
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "description",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Plan the restoration of home interiors affected by fire, smoke and damaged building materials."
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 62
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "cta_text",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Explore fire and smoke"
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 62
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "cta_link",
+                                    "override_value": {
+                                      "$$type": "link",
+                                      "value": {
+                                        "destination": {
+                                          "$$type": "dynamic",
+                                          "value": {
+                                            "name": "internal-url",
+                                            "group": "site",
+                                            "settings": {
+                                              "type": {
+                                                "$$type": "string",
+                                                "value": "post"
+                                              },
+                                              "post_id": {
+                                                "$$type": "query",
+                                                "value": {
+                                                  "id": {
+                                                    "$$type": "number",
+                                                    "value": 517
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        },
+                                        "isTargetBlank": {
+                                          "$$type": "boolean",
+                                          "value": false
+                                        },
+                                        "tag": {
+                                          "$$type": "string",
+                                          "value": "a"
+                                        }
+                                      }
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 62
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "e-component",
+                      "editor_settings": {
+                        "title": "Fire & Smoke Damage Restoration Card"
+                      },
+                      "version": "0.0"
+                    },
+                    {
+                      "id": "dedb673",
+                      "elType": "widget",
+                      "settings": {
+                        "component_instance": {
+                          "$$type": "component-instance",
+                          "value": {
+                            "component_id": {
+                              "$$type": "number",
+                              "value": 62
+                            },
+                            "overrides": {
+                              "$$type": "overrides",
+                              "value": [
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "icon",
+                                    "override_value": {
+                                      "$$type": "svg-src",
+                                      "value": {
+                                        "id": {
+                                          "$$type": "image-attachment-id",
+                                          "value": 607
+                                        }
+                                      }
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 62
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "title",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Mold Remediation"
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 62
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "description",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Find information about mold removal and remediation for affected areas of your home."
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 62
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "cta_text",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Explore mold remediation"
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 62
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "cta_link",
+                                    "override_value": {
+                                      "$$type": "link",
+                                      "value": {
+                                        "destination": {
+                                          "$$type": "dynamic",
+                                          "value": {
+                                            "name": "internal-url",
+                                            "group": "site",
+                                            "settings": {
+                                              "type": {
+                                                "$$type": "string",
+                                                "value": "post"
+                                              },
+                                              "post_id": {
+                                                "$$type": "query",
+                                                "value": {
+                                                  "id": {
+                                                    "$$type": "number",
+                                                    "value": 516
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        },
+                                        "isTargetBlank": {
+                                          "$$type": "boolean",
+                                          "value": false
+                                        },
+                                        "tag": {
+                                          "$$type": "string",
+                                          "value": "a"
+                                        }
+                                      }
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 62
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "e-component",
+                      "editor_settings": {
+                        "title": "Mold Remediation Card"
+                      },
+                      "version": "0.0"
+                    },
+                    {
+                      "id": "740bef0f",
+                      "elType": "widget",
+                      "settings": {
+                        "component_instance": {
+                          "$$type": "component-instance",
+                          "value": {
+                            "component_id": {
+                              "$$type": "number",
+                              "value": 62
+                            },
+                            "overrides": {
+                              "$$type": "overrides",
+                              "value": [
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "icon",
+                                    "override_value": {
+                                      "$$type": "svg-src",
+                                      "value": {
+                                        "id": {
+                                          "$$type": "image-attachment-id",
+                                          "value": 600
+                                        }
+                                      }
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 62
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "title",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Storm Damage Restoration"
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 62
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "description",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Explore residential restoration services for property damage following a storm."
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 62
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "cta_text",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Explore storm damage"
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 62
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "cta_link",
+                                    "override_value": {
+                                      "$$type": "link",
+                                      "value": {
+                                        "destination": {
+                                          "$$type": "dynamic",
+                                          "value": {
+                                            "name": "internal-url",
+                                            "group": "site",
+                                            "settings": {
+                                              "type": {
+                                                "$$type": "string",
+                                                "value": "post"
+                                              },
+                                              "post_id": {
+                                                "$$type": "query",
+                                                "value": {
+                                                  "id": {
+                                                    "$$type": "number",
+                                                    "value": 523
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        },
+                                        "isTargetBlank": {
+                                          "$$type": "boolean",
+                                          "value": false
+                                        },
+                                        "tag": {
+                                          "$$type": "string",
+                                          "value": "a"
+                                        }
+                                      }
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 62
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "e-component",
+                      "editor_settings": {
+                        "title": "Storm Damage Restoration Card"
+                      },
+                      "version": "0.0"
+                    },
+                    {
+                      "id": "44127e7c",
+                      "elType": "widget",
+                      "settings": {
+                        "component_instance": {
+                          "$$type": "component-instance",
+                          "value": {
+                            "component_id": {
+                              "$$type": "number",
+                              "value": 62
+                            },
+                            "overrides": {
+                              "$$type": "overrides",
+                              "value": [
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "icon",
+                                    "override_value": {
+                                      "$$type": "svg-src",
+                                      "value": {
+                                        "id": {
+                                          "$$type": "image-attachment-id",
+                                          "value": 599
+                                        }
+                                      }
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 62
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "title",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Reconstruction"
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 62
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "description",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Rebuild affected spaces and finishes as part of an agreed property restoration scope."
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 62
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "cta_text",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Explore reconstruction"
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 62
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "cta_link",
+                                    "override_value": {
+                                      "$$type": "link",
+                                      "value": {
+                                        "destination": {
+                                          "$$type": "dynamic",
+                                          "value": {
+                                            "name": "internal-url",
+                                            "group": "site",
+                                            "settings": {
+                                              "type": {
+                                                "$$type": "string",
+                                                "value": "post"
+                                              },
+                                              "post_id": {
+                                                "$$type": "query",
+                                                "value": {
+                                                  "id": {
+                                                    "$$type": "number",
+                                                    "value": 518
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        },
+                                        "isTargetBlank": {
+                                          "$$type": "boolean",
+                                          "value": false
+                                        },
+                                        "tag": {
+                                          "$$type": "string",
+                                          "value": "a"
+                                        }
+                                      }
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 62
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "e-component",
+                      "editor_settings": {
+                        "title": "Reconstruction Card"
+                      },
+                      "version": "0.0"
+                    },
+                    {
+                      "id": "16d63af0",
+                      "elType": "widget",
+                      "settings": {
+                        "component_instance": {
+                          "$$type": "component-instance",
+                          "value": {
+                            "component_id": {
+                              "$$type": "number",
+                              "value": 62
+                            },
+                            "overrides": {
+                              "$$type": "overrides",
+                              "value": [
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "icon",
+                                    "override_value": {
+                                      "$$type": "svg-src",
+                                      "value": {
+                                        "id": {
+                                          "$$type": "image-attachment-id",
+                                          "value": 601
+                                        }
+                                      }
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 62
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "title",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Personal Property Restoration"
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 62
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "description",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Discuss restoration needs for belongings and contents affected by property damage."
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 62
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "cta_text",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Explore personal property"
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 62
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "cta_link",
+                                    "override_value": {
+                                      "$$type": "link",
+                                      "value": {
+                                        "destination": {
+                                          "$$type": "dynamic",
+                                          "value": {
+                                            "name": "internal-url",
+                                            "group": "site",
+                                            "settings": {
+                                              "type": {
+                                                "$$type": "string",
+                                                "value": "post"
+                                              },
+                                              "post_id": {
+                                                "$$type": "query",
+                                                "value": {
+                                                  "id": {
+                                                    "$$type": "number",
+                                                    "value": 521
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        },
+                                        "isTargetBlank": {
+                                          "$$type": "boolean",
+                                          "value": false
+                                        },
+                                        "tag": {
+                                          "$$type": "string",
+                                          "value": "a"
+                                        }
+                                      }
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 62
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "e-component",
+                      "editor_settings": {
+                        "title": "Personal Property Restoration Card"
+                      },
+                      "version": "0.0"
+                    }
+                  ],
+                  "isInner": false,
+                  "editor_settings": {
+                    "title": "Residential Six Service Grid"
+                  },
+                  "version": "0.0"
+                }
+              ],
+              "isInner": false,
+              "styles": {
+                "e-3f4d23f7-d434": {
+                  "id": "e-3f4d23f7-d434",
+                  "label": "local",
+                  "type": "class",
+                  "variants": [
+                    {
+                      "meta": {
+                        "breakpoint": "desktop",
+                        "state": null
+                      },
+                      "props": {
+                        "gap": {
+                          "$$type": "global-size-variable",
+                          "value": "e-gv-cb4ef7f"
+                        }
+                      },
+                      "custom_css": null
+                    }
+                  ]
+                }
+              },
+              "editor_settings": {
+                "title": "02 Residential Restoration Services Container"
+              },
+              "version": "0.0"
+            }
+          ],
+          "isInner": false,
+          "styles": {
+            "e-283a875e-eceb": {
+              "id": "e-283a875e-eceb",
+              "label": "local",
+              "type": "class",
+              "variants": [
+                {
+                  "meta": {
+                    "breakpoint": "desktop",
+                    "state": null
+                  },
+                  "props": {
+                    "background": {
+                      "$$type": "background",
+                      "value": {
+                        "color": {
+                          "$$type": "global-color-variable",
+                          "value": "e-gv-0c01532"
+                        }
+                      }
+                    }
+                  },
+                  "custom_css": null
+                }
+              ]
+            }
+          },
+          "editor_settings": {
+            "title": "02 Residential Restoration Services"
+          },
+          "version": "0.0"
+        },
+        {
+          "id": "26c8a5b5",
+          "elType": "widget",
+          "settings": {
+            "component_instance": {
+              "$$type": "component-instance",
+              "value": {
+                "component_id": {
+                  "$$type": "number",
+                  "value": 77
+                },
+                "overrides": {
+                  "$$type": "overrides",
+                  "value": [
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "title",
+                        "override_value": {
+                          "$$type": "escaped-html",
+                          "value": "A practical path back to your home"
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 77
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "heading_tag",
+                        "override_value": {
+                          "$$type": "string",
+                          "value": "h2"
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 77
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "description",
+                        "override_value": {
+                          "$$type": "escaped-html",
+                          "value": "Property damage can affect the spaces you use every day, from living areas and bedrooms to the finishes and belongings inside them. We begin by discussing what happened and assessing the affected areas. That assessment helps define the restoration work, any reconstruction needs and the next steps for your property."
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 77
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "cta_text",
+                        "override_value": {
+                          "$$type": "escaped-html",
+                          "value": "Discuss your restoration needs"
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 77
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "cta_link",
+                        "override_value": {
+                          "$$type": "link",
+                          "value": {
+                            "destination": {
+                              "$$type": "dynamic",
+                              "value": {
+                                "name": "internal-url",
+                                "group": "site",
+                                "settings": {
+                                  "type": {
+                                    "$$type": "string",
+                                    "value": "post"
+                                  },
+                                  "post_id": {
+                                    "$$type": "query",
+                                    "value": {
+                                      "id": {
+                                        "$$type": "number",
+                                        "value": 492
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "isTargetBlank": {
+                              "$$type": "boolean",
+                              "value": false
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "a"
+                            }
+                          }
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 77
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "image",
+                        "override_value": {
+                          "$$type": "image",
+                          "value": {
+                            "src": {
+                              "$$type": "image-src",
+                              "value": {
+                                "id": {
+                                  "$$type": "image-attachment-id",
+                                  "value": 724
+                                }
+                              }
+                            },
+                            "size": {
+                              "$$type": "string",
+                              "value": "large"
+                            }
+                          }
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 77
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "eyebrow",
+                        "override_value": {
+                          "$$type": "escaped-html",
+                          "value": "02 / RESTORATION SOLUTIONS"
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 77
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "elements": [],
+          "widgetType": "e-component",
+          "editor_settings": {
+            "title": "03 Residential Restoration Solutions"
+          },
+          "version": "0.0"
+        },
+        {
+          "id": "5412e337",
+          "elType": "widget",
+          "settings": {
+            "component_instance": {
+              "$$type": "component-instance",
+              "value": {
+                "component_id": {
+                  "$$type": "number",
+                  "value": 1152
+                },
+                "overrides": {
+                  "$$type": "overrides",
+                  "value": [
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "eyebrow",
+                        "override_value": {
+                          "$$type": "escaped-html",
+                          "value": "03 / OUR PROCESS"
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 1152
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "heading",
+                        "override_value": {
+                          "$$type": "escaped-html",
+                          "value": "Our restoration process"
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 1152
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "description",
+                        "override_value": {
+                          "$$type": "escaped-html",
+                          "value": "A clear sequence from your first conversation to a review of the completed work."
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 1152
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "step_1_description",
+                        "override_value": {
+                          "$$type": "escaped-html",
+                          "value": "Tell us what happened, where the damage is and how to reach you."
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 1152
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "step_2_description",
+                        "override_value": {
+                          "$$type": "escaped-html",
+                          "value": "Review the affected areas and discuss the proposed restoration scope."
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 1152
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "step_3_description",
+                        "override_value": {
+                          "$$type": "escaped-html",
+                          "value": "Complete the agreed restoration and reconstruction work for your home."
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 1152
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "step_4_description",
+                        "override_value": {
+                          "$$type": "escaped-html",
+                          "value": "Review the completed work and discuss any remaining project details."
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 1152
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "elements": [],
+          "widgetType": "e-component",
+          "editor_settings": {
+            "title": "Residential Shared How We Work"
+          },
+          "version": "0.0"
+        },
+        {
+          "id": "225936ef",
+          "elType": "widget",
+          "settings": {
+            "component_instance": {
+              "$$type": "component-instance",
+              "value": {
+                "component_id": {
+                  "$$type": "number",
+                  "value": 1149
+                },
+                "overrides": {
+                  "$$type": "overrides",
+                  "value": [
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "62a085d4",
+                        "override_value": {
+                          "$$type": "escaped-html",
+                          "value": "Why homeowners choose GCPRO"
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 1149
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "31a44bf8",
+                        "override_value": {
+                          "$$type": "escaped-html",
+                          "value": "Residential restoration services for damaged rooms, finishes and belongings across the Chicago area."
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 1149
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "11debea0",
+                        "override_value": {
+                          "$$type": "escaped-html",
+                          "value": "Restoration for your home"
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 1149
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "46074ea9",
+                        "override_value": {
+                          "$$type": "escaped-html",
+                          "value": "A residential focus on affected rooms, finishes and the belongings within your property."
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 1149
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "74658ef6",
+                        "override_value": {
+                          "$$type": "escaped-html",
+                          "value": "Comprehensive restoration"
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 1149
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "2195b550",
+                        "override_value": {
+                          "$$type": "escaped-html",
+                          "value": "Water, fire, mold and storm damage services, with reconstruction where required."
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 1149
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "133bbae9",
+                        "override_value": {
+                          "$$type": "escaped-html",
+                          "value": "A coordinated scope"
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 1149
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "44c64cc8",
+                        "override_value": {
+                          "$$type": "escaped-html",
+                          "value": "Discuss the affected areas and the agreed work needed to restore your home."
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 1149
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "49c6ac5f",
+                        "override_value": {
+                          "$$type": "escaped-html",
+                          "value": "Clear communication"
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 1149
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "65cfbe6e",
+                        "override_value": {
+                          "$$type": "escaped-html",
+                          "value": "Project information and updates throughout the residential restoration process."
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 1149
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "ebd1102",
+                        "override_value": {
+                          "$$type": "escaped-html",
+                          "value": "04 / WHY GCPRO"
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 1149
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "elements": [],
+          "widgetType": "e-component",
+          "editor_settings": {
+            "title": "Residential Shared Why Choose GCPRO"
+          },
+          "version": "0.0"
+        },
+        {
+          "id": "264c58b4",
+          "elType": "e-div-block",
+          "settings": {
+            "classes": {
+              "$$type": "classes",
+              "value": [
+                "g-d3248b3",
+                "e-45370a68-b7e9"
+              ]
+            },
+            "tag": {
+              "$$type": "string",
+              "value": "section"
+            }
+          },
+          "elements": [
+            {
+              "id": "2fbfe1ea",
+              "elType": "e-div-block",
+              "settings": {
+                "classes": {
+                  "$$type": "classes",
+                  "value": [
+                    "g-a537304",
+                    "g-68fb534",
+                    "g-6f5f11a",
+                    "e-3610ace9-896d"
+                  ]
+                },
+                "tag": {
+                  "$$type": "string",
+                  "value": "div"
+                }
+              },
+              "elements": [
+                {
+                  "id": "5cd7bb8a",
+                  "elType": "widget",
+                  "settings": {
+                    "component_instance": {
+                      "$$type": "component-instance",
+                      "value": {
+                        "component_id": {
+                          "$$type": "number",
+                          "value": 71
+                        },
+                        "overrides": {
+                          "$$type": "overrides",
+                          "value": [
+                            {
+                              "$$type": "override",
+                              "value": {
+                                "override_key": "title",
+                                "override_value": {
+                                  "$$type": "escaped-html",
+                                  "value": "Real restoration results"
+                                },
+                                "schema_source": {
+                                  "type": "component",
+                                  "id": 71
+                                }
+                              }
+                            },
+                            {
+                              "$$type": "override",
+                              "value": {
+                                "override_key": "heading_tag",
+                                "override_value": {
+                                  "$$type": "string",
+                                  "value": "h2"
+                                },
+                                "schema_source": {
+                                  "type": "component",
+                                  "id": 71
+                                }
+                              }
+                            },
+                            {
+                              "$$type": "override",
+                              "value": {
+                                "override_key": "description",
+                                "override_value": {
+                                  "$$type": "escaped-html",
+                                  "value": "Actual GCPRO project photographs show the difference between damaged spaces and restored interiors. Drag each divider to compare."
+                                },
+                                "schema_source": {
+                                  "type": "component",
+                                  "id": 71
+                                }
+                              }
+                            },
+                            {
+                              "$$type": "override",
+                              "value": {
+                                "override_key": "eyebrow",
+                                "override_value": {
+                                  "$$type": "escaped-html",
+                                  "value": "05 / REAL RESULTS"
+                                },
+                                "schema_source": {
+                                  "type": "component",
+                                  "id": 71
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "e-component",
+                  "editor_settings": {
+                    "title": "Residential Results Heading"
+                  },
+                  "version": "0.0"
+                },
+                {
+                  "id": "2b07a9e6",
+                  "elType": "e-div-block",
+                  "settings": {
+                    "classes": {
+                      "$$type": "classes",
+                      "value": [
+                        "g-9b8782d"
+                      ]
+                    },
+                    "tag": {
+                      "$$type": "string",
+                      "value": "div"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "25d5b401",
+                      "elType": "e-div-block",
+                      "settings": {
+                        "classes": {
+                          "$$type": "classes",
+                          "value": [
+                            "g-6f5f11a",
+                            "e-6bbce12c-a139"
+                          ]
+                        },
+                        "tag": {
+                          "$$type": "string",
+                          "value": "div"
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "b909654",
+                          "elType": "e-div-block",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "e-723f4b4c-e965"
+                              ]
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "div"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "5c5184f0",
+                              "elType": "widget",
+                              "settings": {
+                                "shortcode": "[bafg id=\"723\"]"
+                              },
+                              "elements": [],
+                              "widgetType": "shortcode"
+                            }
+                          ],
+                          "isInner": false,
+                          "styles": {
+                            "e-723f4b4c-e965": {
+                              "id": "e-723f4b4c-e965",
+                              "label": "local",
+                              "type": "class",
+                              "variants": [
+                                {
+                                  "meta": {
+                                    "breakpoint": "desktop",
+                                    "state": null
+                                  },
+                                  "props": {
+                                    "overflow": {
+                                      "$$type": "string",
+                                      "value": "hidden"
+                                    },
+                                    "padding": {
+                                      "$$type": "size",
+                                      "value": {
+                                        "size": 0,
+                                        "unit": "px"
+                                      }
+                                    },
+                                    "border-radius": {
+                                      "$$type": "global-size-variable",
+                                      "value": "e-gv-ae8c2d2"
+                                    }
+                                  },
+                                  "custom_css": null
+                                }
+                              ]
+                            }
+                          },
+                          "editor_settings": {
+                            "title": "Tinley Park Result Slider Slot"
+                          },
+                          "version": "0.0"
+                        },
+                        {
+                          "id": "5489a838",
+                          "elType": "widget",
+                          "settings": {
+                            "tag": {
+                              "$$type": "string",
+                              "value": "h3"
+                            },
+                            "title": {
+                              "$$type": "escaped-html",
+                              "value": "Residential Fire Damage Restoration \u2014 Tinley Park, IL"
+                            }
+                          },
+                          "elements": [],
+                          "widgetType": "e-heading",
+                          "editor_settings": {
+                            "title": "Tinley Park Result Title"
+                          },
+                          "version": "0.0"
+                        },
+                        {
+                          "id": "7dafa7eb",
+                          "elType": "widget",
+                          "settings": {
+                            "paragraph": {
+                              "$$type": "escaped-html",
+                              "value": "Before-and-after photographs of a residential fire damage project in Tinley Park, Illinois."
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "p"
+                            }
+                          },
+                          "elements": [],
+                          "widgetType": "e-paragraph",
+                          "editor_settings": {
+                            "title": "Tinley Park Result Description"
+                          },
+                          "version": "0.0"
+                        }
+                      ],
+                      "isInner": false,
+                      "styles": {
+                        "e-6bbce12c-a139": {
+                          "id": "e-6bbce12c-a139",
+                          "label": "local",
+                          "type": "class",
+                          "variants": [
+                            {
+                              "meta": {
+                                "breakpoint": "desktop",
+                                "state": null
+                              },
+                              "props": {
+                                "gap": {
+                                  "$$type": "global-size-variable",
+                                  "value": "e-gv-ff0543b"
+                                }
+                              },
+                              "custom_css": null
+                            }
+                          ]
+                        }
+                      },
+                      "editor_settings": {
+                        "title": "Tinley Park Result"
+                      },
+                      "version": "0.0"
+                    },
+                    {
+                      "id": "14e979f",
+                      "elType": "e-div-block",
+                      "settings": {
+                        "classes": {
+                          "$$type": "classes",
+                          "value": [
+                            "g-6f5f11a",
+                            "e-9482669-93aa"
+                          ]
+                        },
+                        "tag": {
+                          "$$type": "string",
+                          "value": "div"
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "38e48a8d",
+                          "elType": "e-div-block",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "e-20f01557-dc33"
+                              ]
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "div"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "9bb91a0b",
+                              "elType": "widget",
+                              "settings": {
+                                "shortcode": "[bafg id=\"742\"]"
+                              },
+                              "elements": [],
+                              "widgetType": "shortcode"
+                            }
+                          ],
+                          "isInner": false,
+                          "styles": {
+                            "e-20f01557-dc33": {
+                              "id": "e-20f01557-dc33",
+                              "label": "local",
+                              "type": "class",
+                              "variants": [
+                                {
+                                  "meta": {
+                                    "breakpoint": "desktop",
+                                    "state": null
+                                  },
+                                  "props": {
+                                    "overflow": {
+                                      "$$type": "string",
+                                      "value": "hidden"
+                                    },
+                                    "padding": {
+                                      "$$type": "size",
+                                      "value": {
+                                        "size": 0,
+                                        "unit": "px"
+                                      }
+                                    },
+                                    "border-radius": {
+                                      "$$type": "global-size-variable",
+                                      "value": "e-gv-ae8c2d2"
+                                    }
+                                  },
+                                  "custom_css": null
+                                }
+                              ]
+                            }
+                          },
+                          "editor_settings": {
+                            "title": "Glenview Result Slider Slot"
+                          },
+                          "version": "0.0"
+                        },
+                        {
+                          "id": "1a1cca70",
+                          "elType": "widget",
+                          "settings": {
+                            "tag": {
+                              "$$type": "string",
+                              "value": "h3"
+                            },
+                            "title": {
+                              "$$type": "escaped-html",
+                              "value": "Water Damage Restoration \u2014 Glenview"
+                            }
+                          },
+                          "elements": [],
+                          "widgetType": "e-heading",
+                          "editor_settings": {
+                            "title": "Glenview Result Title"
+                          },
+                          "version": "0.0"
+                        },
+                        {
+                          "id": "a22cb97",
+                          "elType": "widget",
+                          "settings": {
+                            "paragraph": {
+                              "$$type": "escaped-html",
+                              "value": "Before-and-after photographs from a water damage project in Glenview."
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "p"
+                            }
+                          },
+                          "elements": [],
+                          "widgetType": "e-paragraph",
+                          "editor_settings": {
+                            "title": "Glenview Result Description"
+                          },
+                          "version": "0.0"
+                        }
+                      ],
+                      "isInner": false,
+                      "styles": {
+                        "e-9482669-93aa": {
+                          "id": "e-9482669-93aa",
+                          "label": "local",
+                          "type": "class",
+                          "variants": [
+                            {
+                              "meta": {
+                                "breakpoint": "desktop",
+                                "state": null
+                              },
+                              "props": {
+                                "gap": {
+                                  "$$type": "global-size-variable",
+                                  "value": "e-gv-ff0543b"
+                                }
+                              },
+                              "custom_css": null
+                            }
+                          ]
+                        }
+                      },
+                      "editor_settings": {
+                        "title": "Glenview Result"
+                      },
+                      "version": "0.0"
+                    }
+                  ],
+                  "isInner": false,
+                  "editor_settings": {
+                    "title": "Residential Results Grid"
+                  },
+                  "version": "0.0"
+                },
+                {
+                  "id": "d896908b",
+                  "elType": "e-div-block",
+                  "settings": {
+                    "classes": {
+                      "$$type": "classes",
+                      "value": [
+                        "g-0e529a5"
+                      ]
+                    },
+                    "tag": {
+                      "$$type": "string",
+                      "value": "div"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "54087252",
+                      "elType": "widget",
+                      "settings": {
+                        "component_instance": {
+                          "$$type": "component-instance",
+                          "value": {
+                            "component_id": {
+                              "$$type": "number",
+                              "value": 59
+                            },
+                            "overrides": {
+                              "$$type": "overrides",
+                              "value": [
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "text",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "View all projects"
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 59
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "link",
+                                    "override_value": {
+                                      "$$type": "link",
+                                      "value": {
+                                        "destination": {
+                                          "$$type": "dynamic",
+                                          "value": {
+                                            "name": "internal-url",
+                                            "group": "site",
+                                            "settings": {
+                                              "type": {
+                                                "$$type": "string",
+                                                "value": "post"
+                                              },
+                                              "post_id": {
+                                                "$$type": "query",
+                                                "value": {
+                                                  "id": {
+                                                    "$$type": "number",
+                                                    "value": 1132
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        },
+                                        "isTargetBlank": {
+                                          "$$type": "boolean",
+                                          "value": false
+                                        },
+                                        "tag": {
+                                          "$$type": "string",
+                                          "value": "a"
+                                        }
+                                      }
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 59
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "e-component",
+                      "editor_settings": {
+                        "title": "Residential All Projects Link"
+                      },
+                      "version": "0.0"
+                    }
+                  ],
+                  "isInner": false,
+                  "editor_settings": {
+                    "title": "Residential All Projects Link Action Row"
+                  },
+                  "version": "0.0"
+                }
+              ],
+              "isInner": false,
+              "styles": {
+                "e-3610ace9-896d": {
+                  "id": "e-3610ace9-896d",
+                  "label": "local",
+                  "type": "class",
+                  "variants": [
+                    {
+                      "meta": {
+                        "breakpoint": "desktop",
+                        "state": null
+                      },
+                      "props": {
+                        "gap": {
+                          "$$type": "global-size-variable",
+                          "value": "e-gv-cb4ef7f"
+                        }
+                      },
+                      "custom_css": null
+                    }
+                  ]
+                }
+              },
+              "editor_settings": {
+                "title": "06 Real Residential Restoration Results Container"
+              },
+              "version": "0.0"
+            }
+          ],
+          "isInner": false,
+          "styles": {
+            "e-45370a68-b7e9": {
+              "id": "e-45370a68-b7e9",
+              "label": "local",
+              "type": "class",
+              "variants": [
+                {
+                  "meta": {
+                    "breakpoint": "desktop",
+                    "state": null
+                  },
+                  "props": {
+                    "background": {
+                      "$$type": "background",
+                      "value": {
+                        "color": {
+                          "$$type": "global-color-variable",
+                          "value": "e-gv-0c01532"
+                        }
+                      }
+                    }
+                  },
+                  "custom_css": null
+                }
+              ]
+            }
+          },
+          "editor_settings": {
+            "title": "06 Real Residential Restoration Results"
+          },
+          "version": "0.0"
+        },
+        {
+          "id": "5ced3ca1",
+          "elType": "widget",
+          "settings": {
+            "component_instance": {
+              "$$type": "component-instance",
+              "value": {
+                "component_id": {
+                  "$$type": "number",
+                  "value": 1140
+                },
+                "overrides": {
+                  "$$type": "overrides",
+                  "value": [
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "eyebrow",
+                        "override_value": {
+                          "$$type": "escaped-html",
+                          "value": "06 / LOCAL COVERAGE"
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 1140
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "heading",
+                        "override_value": {
+                          "$$type": "escaped-html",
+                          "value": "Serving Chicago and surrounding areas"
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 1140
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "description",
+                        "override_value": {
+                          "$$type": "escaped-html",
+                          "value": "GCPRO serves homeowners across Chicago and Chicagoland. Explore local service information, or contact our team to discuss your property\u2019s location."
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 1140
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "elements": [],
+          "widgetType": "e-component",
+          "editor_settings": {
+            "title": "Residential Shared Service Areas"
+          },
+          "version": "0.0"
+        },
+        {
+          "id": "564749dd",
+          "elType": "e-div-block",
+          "settings": {
+            "classes": {
+              "$$type": "classes",
+              "value": [
+                "g-d3248b3"
+              ]
+            },
+            "tag": {
+              "$$type": "string",
+              "value": "section"
+            }
+          },
+          "elements": [
+            {
+              "id": "6aa52bc6",
+              "elType": "e-div-block",
+              "settings": {
+                "classes": {
+                  "$$type": "classes",
+                  "value": [
+                    "g-a537304",
+                    "g-68fb534",
+                    "g-6f5f11a",
+                    "e-2157b29d-aef5"
+                  ]
+                },
+                "tag": {
+                  "$$type": "string",
+                  "value": "div"
+                }
+              },
+              "elements": [
+                {
+                  "id": "44dce85e",
+                  "elType": "widget",
+                  "settings": {
+                    "component_instance": {
+                      "$$type": "component-instance",
+                      "value": {
+                        "component_id": {
+                          "$$type": "number",
+                          "value": 71
+                        },
+                        "overrides": {
+                          "$$type": "overrides",
+                          "value": [
+                            {
+                              "$$type": "override",
+                              "value": {
+                                "override_key": "title",
+                                "override_value": {
+                                  "$$type": "escaped-html",
+                                  "value": "Residential restoration questions"
+                                },
+                                "schema_source": {
+                                  "type": "component",
+                                  "id": 71
+                                }
+                              }
+                            },
+                            {
+                              "$$type": "override",
+                              "value": {
+                                "override_key": "heading_tag",
+                                "override_value": {
+                                  "$$type": "string",
+                                  "value": "h2"
+                                },
+                                "schema_source": {
+                                  "type": "component",
+                                  "id": 71
+                                }
+                              }
+                            },
+                            {
+                              "$$type": "override",
+                              "value": {
+                                "override_key": "description",
+                                "override_value": {
+                                  "$$type": "escaped-html",
+                                  "value": "Useful starting points when you are considering restoration work for your home."
+                                },
+                                "schema_source": {
+                                  "type": "component",
+                                  "id": 71
+                                }
+                              }
+                            },
+                            {
+                              "$$type": "override",
+                              "value": {
+                                "override_key": "eyebrow",
+                                "override_value": {
+                                  "$$type": "escaped-html",
+                                  "value": "07 / HOMEOWNER QUESTIONS"
+                                },
+                                "schema_source": {
+                                  "type": "component",
+                                  "id": 71
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "e-component",
+                  "editor_settings": {
+                    "title": "Residential FAQ Heading"
+                  },
+                  "version": "0.0"
+                },
+                {
+                  "id": "3d31b8d5",
+                  "elType": "e-div-block",
+                  "settings": {
+                    "classes": {
+                      "$$type": "classes",
+                      "value": [
+                        "g-6f5f11a",
+                        "e-618d3825-7774"
+                      ]
+                    },
+                    "tag": {
+                      "$$type": "string",
+                      "value": "div"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "719bb94f",
+                      "elType": "widget",
+                      "settings": {
+                        "component_instance": {
+                          "$$type": "component-instance",
+                          "value": {
+                            "component_id": {
+                              "$$type": "number",
+                              "value": 83
+                            },
+                            "overrides": {
+                              "$$type": "overrides",
+                              "value": [
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "question_1",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "What should I share when contacting GCPRO?"
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 83
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "answer_1",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Tell us your property address, what happened, which rooms or belongings are affected and how we can reach you. If you already have photographs, mention them when discussing the property."
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 83
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "question_2",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Which restoration service does my home need?"
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 83
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "answer_2",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Water, fire, smoke, mold and storm damage can affect a home in different ways. Describe what you have noticed so the team can discuss an assessment and the appropriate next steps."
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 83
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "e-component",
+                      "editor_settings": {
+                        "title": "Residential FAQ Group 1"
+                      },
+                      "version": "0.0"
+                    },
+                    {
+                      "id": "25373f2d",
+                      "elType": "widget",
+                      "settings": {
+                        "component_instance": {
+                          "$$type": "component-instance",
+                          "value": {
+                            "component_id": {
+                              "$$type": "number",
+                              "value": 83
+                            },
+                            "overrides": {
+                              "$$type": "overrides",
+                              "value": [
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "question_1",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Can restoration include rebuilding damaged areas?"
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 83
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "answer_1",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "GCPRO offers reconstruction as well as restoration services. The work needed for your home, including affected finishes, is determined through the assessment and agreed project scope."
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 83
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "question_2",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Can you help with affected belongings?"
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 83
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "answer_2",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Personal property restoration is one of GCPRO\u2019s residential services. Discuss the affected items with the team so their condition and restoration needs can be reviewed."
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 83
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "e-component",
+                      "editor_settings": {
+                        "title": "Residential FAQ Group 2"
+                      },
+                      "version": "0.0"
+                    },
+                    {
+                      "id": "7d01127d",
+                      "elType": "widget",
+                      "settings": {
+                        "component_instance": {
+                          "$$type": "component-instance",
+                          "value": {
+                            "component_id": {
+                              "$$type": "number",
+                              "value": 83
+                            },
+                            "overrides": {
+                              "$$type": "overrides",
+                              "value": [
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "question_1",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Do you serve my Chicagoland community?"
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 83
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "answer_1",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "GCPRO serves Chicago and surrounding Chicagoland communities. Use the Service Areas directory to explore local information and contact the team to confirm your property\u2019s location."
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 83
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "question_2",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Where can I see examples of your restoration work?"
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 83
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "answer_2",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "The comparisons above use actual GCPRO project photographs. Open All Projects or Before &amp; After to explore the available project information."
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 83
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "e-component",
+                      "editor_settings": {
+                        "title": "Residential FAQ Group 3"
+                      },
+                      "version": "0.0"
+                    }
+                  ],
+                  "isInner": false,
+                  "styles": {
+                    "e-618d3825-7774": {
+                      "id": "e-618d3825-7774",
+                      "label": "local",
+                      "type": "class",
+                      "variants": [
+                        {
+                          "meta": {
+                            "breakpoint": "desktop",
+                            "state": null
+                          },
+                          "props": {
+                            "gap": {
+                              "$$type": "global-size-variable",
+                              "value": "e-gv-ff0543b"
+                            }
+                          },
+                          "custom_css": null
+                        }
+                      ]
+                    }
+                  },
+                  "editor_settings": {
+                    "title": "Residential FAQ Groups"
+                  },
+                  "version": "0.0"
+                }
+              ],
+              "isInner": false,
+              "styles": {
+                "e-2157b29d-aef5": {
+                  "id": "e-2157b29d-aef5",
+                  "label": "local",
+                  "type": "class",
+                  "variants": [
+                    {
+                      "meta": {
+                        "breakpoint": "desktop",
+                        "state": null
+                      },
+                      "props": {
+                        "gap": {
+                          "$$type": "global-size-variable",
+                          "value": "e-gv-cb4ef7f"
+                        }
+                      },
+                      "custom_css": null
+                    }
+                  ]
+                }
+              },
+              "editor_settings": {
+                "title": "08 Residential Frequently Asked Questions Container"
+              },
+              "version": "0.0"
+            }
+          ],
+          "isInner": false,
+          "editor_settings": {
+            "title": "08 Residential Frequently Asked Questions"
+          },
+          "version": "0.0"
+        },
+        {
+          "id": "728c4896",
+          "elType": "widget",
+          "settings": {
+            "component_instance": {
+              "$$type": "component-instance",
+              "value": {
+                "component_id": {
+                  "$$type": "number",
+                  "value": 80
+                },
+                "overrides": {
+                  "$$type": "overrides",
+                  "value": [
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "title",
+                        "override_value": {
+                          "$$type": "escaped-html",
+                          "value": "Need help restoring your home?"
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 80
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "description",
+                        "override_value": {
+                          "$$type": "escaped-html",
+                          "value": "Call GCPRO to discuss residential property damage in Chicago and the surrounding area."
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 80
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "cta_text",
+                        "override_value": {
+                          "$$type": "escaped-html",
+                          "value": "Call 847-656-3322"
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 80
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "cta_link",
+                        "override_value": {
+                          "$$type": "link",
+                          "value": {
+                            "destination": {
+                              "$$type": "url",
+                              "value": "tel:+18476563322"
+                            },
+                            "isTargetBlank": {
+                              "$$type": "boolean",
+                              "value": false
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "a"
+                            }
+                          }
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 80
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "secondary_text",
+                        "override_value": {
+                          "$$type": "escaped-html",
+                          "value": "Request Service"
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 80
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "secondary_link",
+                        "override_value": {
+                          "$$type": "link",
+                          "value": {
+                            "destination": {
+                              "$$type": "dynamic",
+                              "value": {
+                                "name": "internal-url",
+                                "group": "site",
+                                "settings": {
+                                  "type": {
+                                    "$$type": "string",
+                                    "value": "post"
+                                  },
+                                  "post_id": {
+                                    "$$type": "query",
+                                    "value": {
+                                      "id": {
+                                        "$$type": "number",
+                                        "value": 492
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "isTargetBlank": {
+                              "$$type": "boolean",
+                              "value": false
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "a"
+                            }
+                          }
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 80
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "elements": [],
+          "widgetType": "e-component",
+          "editor_settings": {
+            "title": "09 Residential Emergency CTA"
+          },
+          "version": "0.0"
+        }
+      ],
+      "isInner": false,
+      "styles": {
+        "e-5ba877a0-50b9": {
+          "id": "e-5ba877a0-50b9",
+          "label": "local",
+          "type": "class",
+          "variants": [
+            {
+              "meta": {
+                "breakpoint": "desktop",
+                "state": null
+              },
+              "props": {
+                "padding": {
+                  "$$type": "size",
+                  "value": {
+                    "size": 0,
+                    "unit": "px"
+                  }
+                },
+                "gap": {
+                  "$$type": "size",
+                  "value": {
+                    "size": 0,
+                    "unit": "px"
+                  }
+                }
+              },
+              "custom_css": null
+            }
+          ]
+        }
+      },
+      "editor_settings": {
+        "title": "Residential Services Page"
+      },
+      "version": "0.0"
+    }
+  ]
+}

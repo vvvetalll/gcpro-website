@@ -1,5 +1,7 @@
 # Custom code and dependency register
 
+E78: no Custom Code/CSS/JS/PHP source change. Residential numbered headings reuse existing section-eyebrow/hide-empty/section-heading--accent;71 adds native optional content only. [Current owners](components/residential-services.md#e78--numbered-heading-consistency-and-native-residential-entry-link).
+
 **E77 current shared owners:** Existing847 now Entire site, semantic `.cta-panel` iteration; source mirror updated once, not enqueued. Existing590 source unchanged, Entire-site condition for shared Timeline. Component80 native panel radius replaces Homepage local CSS. No new code entry/file/dependency;903 and BEAF unchanged. [Current storage, reuse and rollback](components/residential-services.md). Earlier154-only references below describe historical conditions.
 
 **Current E76,2026-10-21:** Projects now links to real structural Page1132 `/portfolio/`, with native All Projects / Before & After dropdown. Existing13 project records/URLs untouched. Standard-grid five-item Header and utility Partner Programs retained.93 staging Pages:88 Published/5 Draft;321 migration rows. No new E76 CSS/JS/classes/plugins/dependencies. [Exact storage, checks and limitations](audits/2026-10-21-projects-navigation.md).

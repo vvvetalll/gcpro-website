@@ -1,0 +1,4842 @@
+{
+  "id": 154,
+  "slug": "gcpro-homepage-phase-1-atomic-wireframe",
+  "status": "publish",
+  "tree": [
+    {
+      "id": "46c3aad4",
+      "elType": "e-div-block",
+      "settings": {
+        "classes": {
+          "$$type": "classes",
+          "value": [
+            "g-d0c199c",
+            "g-0152925",
+            "e-685133d2-110f"
+          ]
+        },
+        "tag": {
+          "$$type": "string",
+          "value": "div"
+        }
+      },
+      "elements": [
+        {
+          "id": "a62cdd3",
+          "elType": "e-div-block",
+          "settings": {
+            "classes": {
+              "$$type": "classes",
+              "value": [
+                "g-d3248b3",
+                "g-43edd01",
+                "e-7cfcd182-d44a"
+              ]
+            },
+            "tag": {
+              "$$type": "string",
+              "value": "section"
+            }
+          },
+          "elements": [
+            {
+              "id": "67b7c63f",
+              "elType": "e-div-block",
+              "settings": {
+                "classes": {
+                  "$$type": "classes",
+                  "value": [
+                    "g-68fb534"
+                  ]
+                },
+                "tag": {
+                  "$$type": "string",
+                  "value": "div"
+                }
+              },
+              "elements": [
+                {
+                  "id": "3637829f",
+                  "elType": "e-div-block",
+                  "settings": {
+                    "classes": {
+                      "$$type": "classes",
+                      "value": [
+                        "g-0152925",
+                        "e-684a98d6-1453"
+                      ]
+                    },
+                    "tag": {
+                      "$$type": "string",
+                      "value": "div"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "41b35720",
+                      "elType": "e-div-block",
+                      "settings": {
+                        "classes": {
+                          "$$type": "classes",
+                          "value": [
+                            "g-6f5f11a",
+                            "e-483c967e-e645"
+                          ]
+                        },
+                        "tag": {
+                          "$$type": "string",
+                          "value": "div"
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "25cebce7",
+                          "elType": "widget",
+                          "settings": {
+                            "component_instance": {
+                              "$$type": "component-instance",
+                              "value": {
+                                "component_id": {
+                                  "$$type": "number",
+                                  "value": 286
+                                },
+                                "overrides": {
+                                  "$$type": "overrides",
+                                  "value": [
+                                    {
+                                      "$$type": "override",
+                                      "value": {
+                                        "override_key": "label",
+                                        "override_value": {
+                                          "$$type": "escaped-html",
+                                          "value": "Emergency Restoration"
+                                        },
+                                        "schema_source": {
+                                          "type": "component",
+                                          "id": 286
+                                        }
+                                      }
+                                    }
+                                  ]
+                                }
+                              }
+                            }
+                          },
+                          "elements": [],
+                          "widgetType": "e-component",
+                          "editor_settings": {
+                            "title": "Concept B Emergency Mark"
+                          },
+                          "version": "0.0"
+                        },
+                        {
+                          "id": "7f9397ab",
+                          "elType": "widget",
+                          "settings": {
+                            "tag": {
+                              "$$type": "string",
+                              "value": "h1"
+                            },
+                            "title": {
+                              "$$type": "escaped-html",
+                              "value": "Property restoration in Chicago"
+                            }
+                          },
+                          "elements": [],
+                          "widgetType": "e-heading",
+                          "editor_settings": {
+                            "title": "Concept B H1"
+                          },
+                          "version": "0.0"
+                        },
+                        {
+                          "id": "1d8de660",
+                          "elType": "widget",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "g-8c1a9a9",
+                                "e-5a22681a-5033"
+                              ]
+                            },
+                            "paragraph": {
+                              "$$type": "escaped-html",
+                              "value": "Explore residential and commercial restoration services, project&nbsp;information and the next steps for requesting help."
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "p"
+                            }
+                          },
+                          "elements": [],
+                          "widgetType": "e-paragraph",
+                          "styles": {
+                            "e-5a22681a-5033": {
+                              "id": "e-5a22681a-5033",
+                              "label": "local",
+                              "type": "class",
+                              "variants": [
+                                {
+                                  "meta": {
+                                    "breakpoint": "desktop",
+                                    "state": null
+                                  },
+                                  "props": {
+                                    "max-width": {
+                                      "$$type": "size",
+                                      "value": {
+                                        "size": 520,
+                                        "unit": "px"
+                                      }
+                                    }
+                                  },
+                                  "custom_css": null
+                                }
+                              ]
+                            }
+                          },
+                          "editor_settings": {
+                            "title": "Concept B Supporting Copy"
+                          },
+                          "version": "0.0"
+                        },
+                        {
+                          "id": "55056501",
+                          "elType": "e-div-block",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "g-0e529a5",
+                                "g-b9ab0d8",
+                                "e-10c57ad9-241d"
+                              ]
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "div"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "7790eda8",
+                              "elType": "widget",
+                              "settings": {
+                                "component_instance": {
+                                  "$$type": "component-instance",
+                                  "value": {
+                                    "component_id": {
+                                      "$$type": "number",
+                                      "value": 53
+                                    },
+                                    "overrides": {
+                                      "$$type": "overrides",
+                                      "value": [
+                                        {
+                                          "$$type": "override",
+                                          "value": {
+                                            "override_key": "text",
+                                            "override_value": {
+                                              "$$type": "escaped-html",
+                                              "value": "CALL 847-656-3322"
+                                            },
+                                            "schema_source": {
+                                              "type": "component",
+                                              "id": 53
+                                            }
+                                          }
+                                        },
+                                        {
+                                          "$$type": "override",
+                                          "value": {
+                                            "override_key": "link",
+                                            "override_value": {
+                                              "$$type": "link",
+                                              "value": {
+                                                "destination": {
+                                                  "$$type": "url",
+                                                  "value": "tel:+18476563322"
+                                                },
+                                                "isTargetBlank": {
+                                                  "$$type": "boolean",
+                                                  "value": false
+                                                },
+                                                "tag": {
+                                                  "$$type": "string",
+                                                  "value": "a"
+                                                }
+                                              }
+                                            },
+                                            "schema_source": {
+                                              "type": "component",
+                                              "id": 53
+                                            }
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "elements": [],
+                              "widgetType": "e-component",
+                              "editor_settings": {
+                                "title": "Concept B Call"
+                              },
+                              "version": "0.0"
+                            },
+                            {
+                              "id": "36d1fd50",
+                              "elType": "widget",
+                              "settings": {
+                                "component_instance": {
+                                  "$$type": "component-instance",
+                                  "value": {
+                                    "component_id": {
+                                      "$$type": "number",
+                                      "value": 103
+                                    },
+                                    "overrides": {
+                                      "$$type": "overrides",
+                                      "value": [
+                                        {
+                                          "$$type": "override",
+                                          "value": {
+                                            "override_key": "text",
+                                            "override_value": {
+                                              "$$type": "escaped-html",
+                                              "value": "REQUEST SERVICE"
+                                            },
+                                            "schema_source": {
+                                              "type": "component",
+                                              "id": 103
+                                            }
+                                          }
+                                        },
+                                        {
+                                          "$$type": "override",
+                                          "value": {
+                                            "override_key": "link",
+                                            "override_value": {
+                                              "$$type": "link",
+                                              "value": {
+                                                "destination": {
+                                                  "$$type": "url",
+                                                  "value": "#"
+                                                },
+                                                "isTargetBlank": {
+                                                  "$$type": "boolean",
+                                                  "value": false
+                                                },
+                                                "tag": {
+                                                  "$$type": "string",
+                                                  "value": "a"
+                                                }
+                                              }
+                                            },
+                                            "schema_source": {
+                                              "type": "component",
+                                              "id": 103
+                                            }
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                }
+                              },
+                              "elements": [],
+                              "widgetType": "e-component",
+                              "editor_settings": {
+                                "title": "Concept B Request"
+                              },
+                              "version": "0.0"
+                            }
+                          ],
+                          "isInner": false,
+                          "styles": {
+                            "e-10c57ad9-241d": {
+                              "id": "e-10c57ad9-241d",
+                              "label": "local",
+                              "type": "class",
+                              "variants": [
+                                {
+                                  "meta": {
+                                    "breakpoint": "desktop",
+                                    "state": null
+                                  },
+                                  "props": {
+                                    "gap": {
+                                      "$$type": "global-size-variable",
+                                      "value": "e-gv-ff0543b"
+                                    }
+                                  },
+                                  "custom_css": null
+                                }
+                              ]
+                            }
+                          },
+                          "editor_settings": {
+                            "title": "Concept B Actions"
+                          },
+                          "version": "0.0"
+                        }
+                      ],
+                      "isInner": false,
+                      "styles": {
+                        "e-483c967e-e645": {
+                          "id": "e-483c967e-e645",
+                          "label": "local",
+                          "type": "class",
+                          "variants": [
+                            {
+                              "meta": {
+                                "breakpoint": "mobile",
+                                "state": null
+                              },
+                              "props": {
+                                "max-width": {
+                                  "$$type": "size",
+                                  "value": {
+                                    "size": 100,
+                                    "unit": "%"
+                                  }
+                                }
+                              },
+                              "custom_css": null
+                            },
+                            {
+                              "meta": {
+                                "breakpoint": "desktop",
+                                "state": null
+                              },
+                              "props": {
+                                "max-width": {
+                                  "$$type": "size",
+                                  "value": {
+                                    "size": 600,
+                                    "unit": "px"
+                                  }
+                                },
+                                "gap": {
+                                  "$$type": "global-size-variable",
+                                  "value": "e-gv-a0a0c34"
+                                }
+                              },
+                              "custom_css": null
+                            }
+                          ]
+                        }
+                      },
+                      "editor_settings": {
+                        "title": "Concept B Copy"
+                      },
+                      "version": "0.0"
+                    },
+                    {
+                      "id": "484c13ec",
+                      "elType": "e-div-block",
+                      "settings": {
+                        "classes": {
+                          "$$type": "classes",
+                          "value": [
+                            "g-0152925",
+                            "e-401e0bb0-ed4f"
+                          ]
+                        },
+                        "tag": {
+                          "$$type": "string",
+                          "value": "div"
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "30e0c45",
+                          "elType": "widget",
+                          "settings": {
+                            "shortcode": "[bafg id=\"723\"]"
+                          },
+                          "elements": [],
+                          "widgetType": "shortcode"
+                        }
+                      ],
+                      "isInner": false,
+                      "styles": {
+                        "e-401e0bb0-ed4f": {
+                          "id": "e-401e0bb0-ed4f",
+                          "label": "local",
+                          "type": "class",
+                          "variants": [
+                            {
+                              "meta": {
+                                "breakpoint": "desktop",
+                                "state": null
+                              },
+                              "props": {
+                                "overflow": {
+                                  "$$type": "string",
+                                  "value": "hidden"
+                                },
+                                "border-radius": {
+                                  "$$type": "size",
+                                  "value": {
+                                    "size": 8,
+                                    "unit": "px"
+                                  }
+                                }
+                              },
+                              "custom_css": {
+                                "raw": "JiAucG9wdXBfYnV0dG9uIHsgZGlzcGxheTogbm9uZTsgfQ=="
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      "editor_settings": {
+                        "title": "Concept B Transformation Visual"
+                      },
+                      "version": "0.0"
+                    }
+                  ],
+                  "isInner": false,
+                  "styles": {
+                    "e-684a98d6-1453": {
+                      "id": "e-684a98d6-1453",
+                      "label": "local",
+                      "type": "class",
+                      "variants": [
+                        {
+                          "meta": {
+                            "breakpoint": "tablet",
+                            "state": null
+                          },
+                          "props": {
+                            "gap": {
+                              "$$type": "global-size-variable",
+                              "value": "e-gv-6821972"
+                            },
+                            "grid-template-columns": {
+                              "$$type": "string",
+                              "value": "1fr"
+                            }
+                          },
+                          "custom_css": null
+                        },
+                        {
+                          "meta": {
+                            "breakpoint": "desktop",
+                            "state": null
+                          },
+                          "props": {
+                            "display": {
+                              "$$type": "string",
+                              "value": "grid"
+                            },
+                            "gap": {
+                              "$$type": "global-size-variable",
+                              "value": "e-gv-cb4ef7f"
+                            },
+                            "grid-template-columns": {
+                              "$$type": "string",
+                              "value": "1fr 1.15fr"
+                            },
+                            "align-items": {
+                              "$$type": "string",
+                              "value": "center"
+                            }
+                          },
+                          "custom_css": null
+                        }
+                      ]
+                    }
+                  },
+                  "editor_settings": {
+                    "title": "Concept B Split Layout"
+                  },
+                  "version": "0.0"
+                }
+              ],
+              "isInner": false,
+              "editor_settings": {
+                "title": "Concept B Container"
+              },
+              "version": "0.0"
+            }
+          ],
+          "isInner": false,
+          "styles": {
+            "e-7cfcd182-d44a": {
+              "id": "e-7cfcd182-d44a",
+              "label": "local",
+              "type": "class",
+              "variants": [
+                {
+                  "meta": {
+                    "breakpoint": "mobile",
+                    "state": null
+                  },
+                  "props": {
+                    "padding": {
+                      "$$type": "dimensions",
+                      "value": {
+                        "block-start": {
+                          "$$type": "global-size-variable",
+                          "value": "e-gv-cb4ef7f"
+                        },
+                        "block-end": {
+                          "$$type": "global-size-variable",
+                          "value": "e-gv-cb4ef7f"
+                        }
+                      }
+                    }
+                  },
+                  "custom_css": null
+                },
+                {
+                  "meta": {
+                    "breakpoint": "desktop",
+                    "state": null
+                  },
+                  "props": {
+                    "padding": {
+                      "$$type": "dimensions",
+                      "value": {
+                        "block-start": {
+                          "$$type": "global-size-variable",
+                          "value": "e-gv-e336625"
+                        },
+                        "block-end": {
+                          "$$type": "global-size-variable",
+                          "value": "e-gv-e336625"
+                        }
+                      }
+                    },
+                    "background": {
+                      "$$type": "background",
+                      "value": {
+                        "color": {
+                          "$$type": "global-color-variable",
+                          "value": "e-gv-b7d3afd"
+                        }
+                      }
+                    }
+                  },
+                  "custom_css": null
+                }
+              ]
+            }
+          },
+          "editor_settings": {
+            "title": "01 Hero"
+          },
+          "version": "0.0"
+        },
+        {
+          "id": "7b416658",
+          "elType": "e-div-block",
+          "settings": {
+            "classes": {
+              "$$type": "classes",
+              "value": [
+                "g-d3248b3",
+                "e-ed7202b-3efe",
+                "g-1834399"
+              ]
+            },
+            "tag": {
+              "$$type": "string",
+              "value": "section"
+            }
+          },
+          "elements": [
+            {
+              "id": "1b98920a",
+              "elType": "e-div-block",
+              "settings": {
+                "classes": {
+                  "$$type": "classes",
+                  "value": [
+                    "g-a537304",
+                    "g-68fb534",
+                    "g-6f5f11a"
+                  ]
+                },
+                "tag": {
+                  "$$type": "string",
+                  "value": "div"
+                }
+              },
+              "elements": [
+                {
+                  "id": "77779f6f",
+                  "elType": "widget",
+                  "settings": {
+                    "classes": {
+                      "$$type": "classes",
+                      "value": [
+                        "g-b12aa04"
+                      ]
+                    },
+                    "paragraph": {
+                      "$$type": "escaped-html",
+                      "value": "01 / WHO WE HELP"
+                    },
+                    "tag": {
+                      "$$type": "string",
+                      "value": "p"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "e-paragraph",
+                  "editor_settings": {
+                    "title": "Eyebrow 01 / WHO WE HELP"
+                  },
+                  "version": "0.0"
+                },
+                {
+                  "id": "300decb5",
+                  "elType": "widget",
+                  "settings": {
+                    "component_instance": {
+                      "$$type": "component-instance",
+                      "value": {
+                        "component_id": {
+                          "$$type": "number",
+                          "value": 71
+                        },
+                        "overrides": {
+                          "$$type": "overrides",
+                          "value": [
+                            {
+                              "$$type": "override",
+                              "value": {
+                                "override_key": "title",
+                                "override_value": {
+                                  "$$type": "escaped-html",
+                                  "value": "Residential &amp; Commercial Services"
+                                },
+                                "schema_source": {
+                                  "type": "component",
+                                  "id": 71
+                                }
+                              }
+                            },
+                            {
+                              "$$type": "override",
+                              "value": {
+                                "override_key": "heading_tag",
+                                "override_value": {
+                                  "$$type": "string",
+                                  "value": "h2"
+                                },
+                                "schema_source": {
+                                  "type": "component",
+                                  "id": 71
+                                }
+                              }
+                            },
+                            {
+                              "$$type": "override",
+                              "value": {
+                                "override_key": "description",
+                                "override_value": {
+                                  "$$type": "escaped-html",
+                                  "value": "Choose the service information that matches your property."
+                                },
+                                "schema_source": {
+                                  "type": "component",
+                                  "id": 71
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "e-component",
+                  "editor_settings": {
+                    "title": "Audience Section Heading"
+                  },
+                  "version": "0.0"
+                },
+                {
+                  "id": "1a13f287",
+                  "elType": "e-div-block",
+                  "settings": {
+                    "classes": {
+                      "$$type": "classes",
+                      "value": [
+                        "g-9b8782d"
+                      ]
+                    },
+                    "tag": {
+                      "$$type": "string",
+                      "value": "div"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "4c8810dc",
+                      "elType": "e-div-block",
+                      "settings": {
+                        "classes": {
+                          "$$type": "classes",
+                          "value": [
+                            "g-38b29fb",
+                            "e-26cabec6-e41c"
+                          ]
+                        },
+                        "tag": {
+                          "$$type": "string",
+                          "value": "a"
+                        },
+                        "link": {
+                          "$$type": "link",
+                          "value": {
+                            "destination": {
+                              "$$type": "dynamic",
+                              "value": {
+                                "name": "internal-url",
+                                "group": "site",
+                                "settings": {
+                                  "type": {
+                                    "$$type": "string",
+                                    "value": "post"
+                                  },
+                                  "post_id": {
+                                    "$$type": "query",
+                                    "value": {
+                                      "id": {
+                                        "$$type": "number",
+                                        "value": 484
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "isTargetBlank": {
+                              "$$type": "boolean",
+                              "value": false
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "a"
+                            }
+                          }
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "6e5afc98",
+                          "elType": "e-div-block",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "g-0152925",
+                                "e-401a039-b898"
+                              ]
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "div"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "295bf90e",
+                              "elType": "widget",
+                              "settings": {
+                                "classes": {
+                                  "$$type": "classes",
+                                  "value": [
+                                    "g-77c2a17"
+                                  ]
+                                },
+                                "image": {
+                                  "$$type": "image",
+                                  "value": {
+                                    "src": {
+                                      "$$type": "image-src",
+                                      "value": {
+                                        "id": {
+                                          "$$type": "image-attachment-id",
+                                          "value": 629
+                                        }
+                                      }
+                                    },
+                                    "size": {
+                                      "$$type": "string",
+                                      "value": "full"
+                                    }
+                                  }
+                                }
+                              },
+                              "elements": [],
+                              "widgetType": "e-image",
+                              "editor_settings": {
+                                "title": "Residential Restoration Photo"
+                              },
+                              "version": "0.0"
+                            }
+                          ],
+                          "isInner": false,
+                          "styles": {
+                            "e-401a039-b898": {
+                              "id": "e-401a039-b898",
+                              "label": "local",
+                              "type": "class",
+                              "variants": []
+                            }
+                          },
+                          "editor_settings": {
+                            "title": "Residential Photo Placeholder"
+                          },
+                          "version": "0.0"
+                        },
+                        {
+                          "id": "6b95719",
+                          "elType": "e-div-block",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "g-19a0c6f"
+                              ]
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "a575649",
+                              "elType": "e-div-block",
+                              "settings": {
+                                "classes": {
+                                  "$$type": "classes",
+                                  "value": [
+                                    "g-3bac536",
+                                    "g-6f5f11a"
+                                  ]
+                                }
+                              },
+                              "elements": [
+                                {
+                                  "id": "7f49d2f5",
+                                  "elType": "widget",
+                                  "settings": {
+                                    "tag": {
+                                      "$$type": "string",
+                                      "value": "h3"
+                                    },
+                                    "title": {
+                                      "$$type": "escaped-html",
+                                      "value": "Residential Restoration"
+                                    },
+                                    "link": {
+                                      "$$type": "link",
+                                      "value": {
+                                        "isTargetBlank": null
+                                      }
+                                    }
+                                  },
+                                  "elements": [],
+                                  "widgetType": "e-heading",
+                                  "editor_settings": {
+                                    "title": "Residential Card Heading"
+                                  },
+                                  "version": "0.0"
+                                },
+                                {
+                                  "id": "1a430710",
+                                  "elType": "widget",
+                                  "settings": {
+                                    "paragraph": {
+                                      "$$type": "escaped-html",
+                                      "value": "Homes, condos and personal property."
+                                    }
+                                  },
+                                  "elements": [],
+                                  "widgetType": "e-paragraph",
+                                  "editor_settings": {
+                                    "title": "Residential Card Description"
+                                  },
+                                  "version": "0.0"
+                                }
+                              ],
+                              "isInner": false,
+                              "editor_settings": {
+                                "title": "Residential Card Copy"
+                              },
+                              "version": "0.0"
+                            },
+                            {
+                              "id": "5c2d4dca",
+                              "elType": "e-div-block",
+                              "settings": {
+                                "classes": {
+                                  "$$type": "classes",
+                                  "value": [
+                                    "g-a5c0d65"
+                                  ]
+                                }
+                              },
+                              "elements": [
+                                {
+                                  "id": "658b1119",
+                                  "elType": "widget",
+                                  "settings": {
+                                    "classes": {
+                                      "$$type": "classes",
+                                      "value": [
+                                        "g-8a7dd36"
+                                      ]
+                                    },
+                                    "svg": {
+                                      "$$type": "svg-src",
+                                      "value": {
+                                        "id": {
+                                          "$$type": "image-attachment-id",
+                                          "value": 464
+                                        }
+                                      }
+                                    }
+                                  },
+                                  "elements": [],
+                                  "widgetType": "e-svg",
+                                  "editor_settings": {
+                                    "title": "Residential Arrow SVG"
+                                  },
+                                  "version": "0.0"
+                                }
+                              ],
+                              "isInner": false,
+                              "editor_settings": {
+                                "title": "Residential Circle Action"
+                              },
+                              "version": "0.0"
+                            }
+                          ],
+                          "isInner": false,
+                          "editor_settings": {
+                            "title": "Residential Card Body"
+                          },
+                          "version": "0.0"
+                        }
+                      ],
+                      "isInner": false,
+                      "styles": {
+                        "e-26cabec6-e41c": {
+                          "id": "e-26cabec6-e41c",
+                          "label": "local",
+                          "type": "class",
+                          "variants": []
+                        }
+                      },
+                      "editor_settings": {
+                        "title": "Residential Audience Layout"
+                      },
+                      "version": "0.0"
+                    },
+                    {
+                      "id": "2066a26",
+                      "elType": "e-div-block",
+                      "settings": {
+                        "classes": {
+                          "$$type": "classes",
+                          "value": [
+                            "g-38b29fb",
+                            "e-204b62df-912e"
+                          ]
+                        },
+                        "tag": {
+                          "$$type": "string",
+                          "value": "a"
+                        },
+                        "link": {
+                          "$$type": "link",
+                          "value": {
+                            "destination": {
+                              "$$type": "url",
+                              "value": "#"
+                            },
+                            "isTargetBlank": {
+                              "$$type": "boolean",
+                              "value": false
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "a"
+                            }
+                          }
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "4c8bb651",
+                          "elType": "e-div-block",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "g-0152925",
+                                "e-1ef30852-f04f"
+                              ]
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "div"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "27ec40d5",
+                              "elType": "widget",
+                              "settings": {
+                                "classes": {
+                                  "$$type": "classes",
+                                  "value": [
+                                    "g-77c2a17"
+                                  ]
+                                },
+                                "image": {
+                                  "$$type": "image",
+                                  "value": {
+                                    "src": {
+                                      "$$type": "image-src",
+                                      "value": {
+                                        "id": {
+                                          "$$type": "image-attachment-id",
+                                          "value": 630
+                                        }
+                                      }
+                                    },
+                                    "size": {
+                                      "$$type": "string",
+                                      "value": "full"
+                                    }
+                                  }
+                                }
+                              },
+                              "elements": [],
+                              "widgetType": "e-image",
+                              "editor_settings": {
+                                "title": "Commercial Restoration Photo"
+                              },
+                              "version": "0.0"
+                            }
+                          ],
+                          "isInner": false,
+                          "styles": {
+                            "e-1ef30852-f04f": {
+                              "id": "e-1ef30852-f04f",
+                              "label": "local",
+                              "type": "class",
+                              "variants": []
+                            }
+                          },
+                          "editor_settings": {
+                            "title": "Commercial Photo Placeholder"
+                          },
+                          "version": "0.0"
+                        },
+                        {
+                          "id": "687ff42f",
+                          "elType": "e-div-block",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "g-19a0c6f"
+                              ]
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "6066a3bb",
+                              "elType": "e-div-block",
+                              "settings": {
+                                "classes": {
+                                  "$$type": "classes",
+                                  "value": [
+                                    "g-3bac536",
+                                    "g-6f5f11a"
+                                  ]
+                                }
+                              },
+                              "elements": [
+                                {
+                                  "id": "51809f70",
+                                  "elType": "widget",
+                                  "settings": {
+                                    "tag": {
+                                      "$$type": "string",
+                                      "value": "h3"
+                                    },
+                                    "title": {
+                                      "$$type": "escaped-html",
+                                      "value": "Commercial Restoration"
+                                    }
+                                  },
+                                  "elements": [],
+                                  "widgetType": "e-heading",
+                                  "editor_settings": {
+                                    "title": "Commercial Card Heading"
+                                  },
+                                  "version": "0.0"
+                                },
+                                {
+                                  "id": "6eb72b87",
+                                  "elType": "widget",
+                                  "settings": {
+                                    "paragraph": {
+                                      "$$type": "escaped-html",
+                                      "value": "Offices, retail, facilities and multi-unit buildings."
+                                    }
+                                  },
+                                  "elements": [],
+                                  "widgetType": "e-paragraph",
+                                  "editor_settings": {
+                                    "title": "Commercial Card Description"
+                                  },
+                                  "version": "0.0"
+                                }
+                              ],
+                              "isInner": false,
+                              "editor_settings": {
+                                "title": "Commercial Card Copy"
+                              },
+                              "version": "0.0"
+                            },
+                            {
+                              "id": "5b9bc8c3",
+                              "elType": "e-div-block",
+                              "settings": {
+                                "classes": {
+                                  "$$type": "classes",
+                                  "value": [
+                                    "g-a5c0d65"
+                                  ]
+                                }
+                              },
+                              "elements": [
+                                {
+                                  "id": "6773a91b",
+                                  "elType": "widget",
+                                  "settings": {
+                                    "classes": {
+                                      "$$type": "classes",
+                                      "value": [
+                                        "g-8a7dd36"
+                                      ]
+                                    },
+                                    "svg": {
+                                      "$$type": "svg-src",
+                                      "value": {
+                                        "id": {
+                                          "$$type": "image-attachment-id",
+                                          "value": 464
+                                        }
+                                      }
+                                    }
+                                  },
+                                  "elements": [],
+                                  "widgetType": "e-svg",
+                                  "editor_settings": {
+                                    "title": "Commercial Arrow SVG"
+                                  },
+                                  "version": "0.0"
+                                }
+                              ],
+                              "isInner": false,
+                              "editor_settings": {
+                                "title": "Commercial Circle Action"
+                              },
+                              "version": "0.0"
+                            }
+                          ],
+                          "isInner": false,
+                          "editor_settings": {
+                            "title": "Commercial Card Body"
+                          },
+                          "version": "0.0"
+                        }
+                      ],
+                      "isInner": false,
+                      "styles": {
+                        "e-204b62df-912e": {
+                          "id": "e-204b62df-912e",
+                          "label": "local",
+                          "type": "class",
+                          "variants": []
+                        }
+                      },
+                      "editor_settings": {
+                        "title": "Commercial Audience Layout"
+                      },
+                      "version": "0.0"
+                    }
+                  ],
+                  "isInner": false,
+                  "editor_settings": {
+                    "title": "Audience Paths"
+                  },
+                  "version": "0.0"
+                }
+              ],
+              "isInner": false,
+              "editor_settings": {
+                "title": "02 Residential and Commercial Services Container"
+              },
+              "version": "0.0"
+            }
+          ],
+          "isInner": false,
+          "styles": {
+            "e-ed7202b-3efe": {
+              "id": "e-ed7202b-3efe",
+              "label": "local",
+              "type": "class",
+              "variants": [
+                {
+                  "meta": {
+                    "breakpoint": "desktop",
+                    "state": null
+                  },
+                  "props": {
+                    "background": {
+                      "$$type": "background",
+                      "value": {
+                        "color": {
+                          "$$type": "global-color-variable",
+                          "value": "e-gv-714c09b"
+                        }
+                      }
+                    }
+                  },
+                  "custom_css": null
+                }
+              ]
+            }
+          },
+          "editor_settings": {
+            "title": "02 Residential and Commercial Services"
+          },
+          "version": "0.0"
+        },
+        {
+          "id": "3fd180bb",
+          "elType": "e-div-block",
+          "settings": {
+            "classes": {
+              "$$type": "classes",
+              "value": [
+                "g-d3248b3",
+                "g-1834399",
+                "e-3ed21e1f-ddd9"
+              ]
+            },
+            "tag": {
+              "$$type": "string",
+              "value": "section"
+            }
+          },
+          "elements": [
+            {
+              "id": "61328a99",
+              "elType": "e-div-block",
+              "settings": {
+                "classes": {
+                  "$$type": "classes",
+                  "value": [
+                    "g-68fb534",
+                    "e-c32a8d1-45a4"
+                  ]
+                },
+                "tag": {
+                  "$$type": "string",
+                  "value": "div"
+                }
+              },
+              "elements": [
+                {
+                  "id": "6cb38139",
+                  "elType": "e-div-block",
+                  "settings": {
+                    "classes": {
+                      "$$type": "classes",
+                      "value": [
+                        "g-43749f7",
+                        "g-6f5f11a",
+                        "e-67ba0794-7b2b"
+                      ]
+                    },
+                    "tag": {
+                      "$$type": "string",
+                      "value": "div"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "135f55",
+                      "elType": "widget",
+                      "settings": {
+                        "classes": {
+                          "$$type": "classes",
+                          "value": [
+                            "g-b12aa04",
+                            "e-4e2a0a0-f4cc"
+                          ]
+                        },
+                        "paragraph": {
+                          "$$type": "escaped-html",
+                          "value": "02 / RESTORATION SERVICES"
+                        },
+                        "tag": {
+                          "$$type": "string",
+                          "value": "p"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "e-paragraph",
+                      "styles": {
+                        "e-4e2a0a0-f4cc": {
+                          "id": "e-4e2a0a0-f4cc",
+                          "label": "local",
+                          "type": "class",
+                          "variants": []
+                        }
+                      },
+                      "editor_settings": {
+                        "title": "B Eyebrow"
+                      },
+                      "version": "0.0"
+                    },
+                    {
+                      "id": "1aa0cb69",
+                      "elType": "widget",
+                      "settings": {
+                        "classes": {
+                          "$$type": "classes",
+                          "value": [
+                            "e-1efae9fc-c602"
+                          ]
+                        },
+                        "tag": {
+                          "$$type": "string",
+                          "value": "h2"
+                        },
+                        "title": {
+                          "$$type": "escaped-html",
+                          "value": "CORE RESTORATION SERVICES"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "e-heading",
+                      "styles": {
+                        "e-1efae9fc-c602": {
+                          "id": "e-1efae9fc-c602",
+                          "label": "local",
+                          "type": "class",
+                          "variants": [
+                            {
+                              "meta": {
+                                "breakpoint": "tablet",
+                                "state": null
+                              },
+                              "props": {
+                                "font-size": {
+                                  "$$type": "size",
+                                  "value": {
+                                    "size": 36,
+                                    "unit": "px"
+                                  }
+                                }
+                              },
+                              "custom_css": null
+                            },
+                            {
+                              "meta": {
+                                "breakpoint": "mobile",
+                                "state": null
+                              },
+                              "props": {
+                                "font-size": {
+                                  "$$type": "size",
+                                  "value": {
+                                    "size": 28,
+                                    "unit": "px"
+                                  }
+                                }
+                              },
+                              "custom_css": null
+                            },
+                            {
+                              "meta": {
+                                "breakpoint": "desktop",
+                                "state": null
+                              },
+                              "props": {
+                                "font-family": {
+                                  "$$type": "global-font-variable",
+                                  "value": "e-gv-7b550b1"
+                                },
+                                "font-weight": {
+                                  "$$type": "string",
+                                  "value": "700"
+                                },
+                                "font-size": {
+                                  "$$type": "size",
+                                  "value": {
+                                    "size": 40,
+                                    "unit": "px"
+                                  }
+                                },
+                                "color": {
+                                  "$$type": "global-color-variable",
+                                  "value": "e-gv-73c03d5"
+                                },
+                                "line-height": {
+                                  "$$type": "size",
+                                  "value": {
+                                    "size": "1.15",
+                                    "unit": "custom"
+                                  }
+                                }
+                              },
+                              "custom_css": null
+                            }
+                          ]
+                        }
+                      },
+                      "editor_settings": {
+                        "title": "B Heading"
+                      },
+                      "version": "0.0"
+                    },
+                    {
+                      "id": "4a4d8cc5",
+                      "elType": "widget",
+                      "settings": {
+                        "classes": {
+                          "$$type": "classes",
+                          "value": [
+                            "e-7702f287-daa3"
+                          ]
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "e-divider",
+                      "styles": {
+                        "e-7702f287-daa3": {
+                          "id": "e-7702f287-daa3",
+                          "label": "local",
+                          "type": "class",
+                          "variants": [
+                            {
+                              "meta": {
+                                "breakpoint": "desktop",
+                                "state": null
+                              },
+                              "props": {
+                                "width": {
+                                  "$$type": "size",
+                                  "value": {
+                                    "size": 40,
+                                    "unit": "px"
+                                  }
+                                },
+                                "height": {
+                                  "$$type": "size",
+                                  "value": {
+                                    "size": 3,
+                                    "unit": "px"
+                                  }
+                                },
+                                "margin": {
+                                  "$$type": "size",
+                                  "value": {
+                                    "size": 0,
+                                    "unit": "px"
+                                  }
+                                },
+                                "background": {
+                                  "$$type": "background",
+                                  "value": {
+                                    "color": {
+                                      "$$type": "global-color-variable",
+                                      "value": "e-gv-a9a1731"
+                                    }
+                                  }
+                                }
+                              },
+                              "custom_css": null
+                            }
+                          ]
+                        }
+                      },
+                      "editor_settings": {
+                        "title": "B Accent Line"
+                      },
+                      "version": "0.0"
+                    },
+                    {
+                      "id": "7775c3e8",
+                      "elType": "widget",
+                      "settings": {
+                        "classes": {
+                          "$$type": "classes",
+                          "value": [
+                            "g-68bba82",
+                            "e-7766bf2d-fba8"
+                          ]
+                        },
+                        "paragraph": {
+                          "$$type": "escaped-html",
+                          "value": "Explore water, fire, mold, reconstruction and related restoration services."
+                        },
+                        "tag": {
+                          "$$type": "string",
+                          "value": "p"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "e-paragraph",
+                      "styles": {
+                        "e-7766bf2d-fba8": {
+                          "id": "e-7766bf2d-fba8",
+                          "label": "local",
+                          "type": "class",
+                          "variants": [
+                            {
+                              "meta": {
+                                "breakpoint": "mobile",
+                                "state": null
+                              },
+                              "props": {
+                                "font-size": {
+                                  "$$type": "size",
+                                  "value": {
+                                    "size": 16,
+                                    "unit": "px"
+                                  }
+                                }
+                              },
+                              "custom_css": null
+                            },
+                            {
+                              "meta": {
+                                "breakpoint": "desktop",
+                                "state": null
+                              },
+                              "props": {
+                                "max-width": {
+                                  "$$type": "size",
+                                  "value": {
+                                    "size": 480,
+                                    "unit": "px"
+                                  }
+                                },
+                                "font-family": {
+                                  "$$type": "global-font-variable",
+                                  "value": "e-gv-c82d6d2"
+                                },
+                                "font-size": {
+                                  "$$type": "size",
+                                  "value": {
+                                    "size": 18,
+                                    "unit": "px"
+                                  }
+                                },
+                                "line-height": {
+                                  "$$type": "size",
+                                  "value": {
+                                    "size": "1.6",
+                                    "unit": "custom"
+                                  }
+                                },
+                                "text-transform": {
+                                  "$$type": "string",
+                                  "value": "none"
+                                }
+                              },
+                              "custom_css": null
+                            }
+                          ]
+                        }
+                      },
+                      "editor_settings": {
+                        "title": "B Intro Text"
+                      },
+                      "version": "0.0"
+                    }
+                  ],
+                  "isInner": false,
+                  "styles": {
+                    "e-67ba0794-7b2b": {
+                      "id": "e-67ba0794-7b2b",
+                      "label": "local",
+                      "type": "class",
+                      "variants": [
+                        {
+                          "meta": {
+                            "breakpoint": "tablet",
+                            "state": null
+                          },
+                          "props": {
+                            "position": {
+                              "$$type": "string",
+                              "value": "static"
+                            },
+                            "inset-block-start": {
+                              "$$type": "size",
+                              "value": {
+                                "size": "",
+                                "unit": "auto"
+                              }
+                            }
+                          },
+                          "custom_css": null
+                        },
+                        {
+                          "meta": {
+                            "breakpoint": "desktop",
+                            "state": null
+                          },
+                          "props": {
+                            "position": {
+                              "$$type": "string",
+                              "value": "sticky"
+                            },
+                            "inset-block-start": {
+                              "$$type": "size",
+                              "value": {
+                                "size": 96,
+                                "unit": "px"
+                              }
+                            }
+                          },
+                          "custom_css": null
+                        },
+                        {
+                          "meta": {
+                            "breakpoint": "mobile",
+                            "state": null
+                          },
+                          "props": {
+                            "position": {
+                              "$$type": "string",
+                              "value": "sticky"
+                            },
+                            "inset-block-start": {
+                              "$$type": "size",
+                              "value": {
+                                "size": 0,
+                                "unit": "px"
+                              }
+                            },
+                            "z-index": {
+                              "$$type": "number",
+                              "value": 1
+                            },
+                            "padding": {
+                              "$$type": "dimensions",
+                              "value": {
+                                "block-start": {
+                                  "$$type": "global-size-variable",
+                                  "value": "e-gv-ff0543b"
+                                },
+                                "inline-end": {
+                                  "$$type": "size",
+                                  "value": {
+                                    "size": 0,
+                                    "unit": "px"
+                                  }
+                                },
+                                "block-end": {
+                                  "$$type": "global-size-variable",
+                                  "value": "e-gv-ff0543b"
+                                },
+                                "inline-start": {
+                                  "$$type": "size",
+                                  "value": {
+                                    "size": 0,
+                                    "unit": "px"
+                                  }
+                                }
+                              }
+                            },
+                            "background": {
+                              "$$type": "background",
+                              "value": {
+                                "color": {
+                                  "$$type": "global-color-variable",
+                                  "value": "e-gv-c987ce0"
+                                }
+                              }
+                            }
+                          },
+                          "custom_css": null
+                        }
+                      ]
+                    }
+                  },
+                  "editor_settings": {
+                    "title": "B Introduction"
+                  },
+                  "version": "0.0"
+                },
+                {
+                  "id": "48842292",
+                  "elType": "e-div-block",
+                  "settings": {
+                    "classes": {
+                      "$$type": "classes",
+                      "value": [
+                        "g-0152925",
+                        "e-437d9c1c-e816"
+                      ]
+                    },
+                    "tag": {
+                      "$$type": "string",
+                      "value": "div"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "54ee8d2d",
+                      "elType": "e-div-block",
+                      "settings": {
+                        "classes": {
+                          "$$type": "classes",
+                          "value": [
+                            "g-d37a353"
+                          ]
+                        },
+                        "tag": {
+                          "$$type": "string",
+                          "value": "article"
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "5071b7ac",
+                          "elType": "widget",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "g-b84ed52"
+                              ]
+                            },
+                            "svg": {
+                              "$$type": "svg-src",
+                              "value": {
+                                "id": {
+                                  "$$type": "image-attachment-id",
+                                  "value": 596
+                                }
+                              }
+                            }
+                          },
+                          "elements": [],
+                          "widgetType": "e-svg",
+                          "editor_settings": {
+                            "title": "B 1 Icon"
+                          },
+                          "version": "0.0"
+                        },
+                        {
+                          "id": "5c88d316",
+                          "elType": "e-div-block",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "g-6f5f11a",
+                                "g-3bac536"
+                              ]
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "div"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "34b2ebdb",
+                              "elType": "widget",
+                              "settings": {
+                                "classes": {
+                                  "$$type": "classes",
+                                  "value": [
+                                    "g-757705e"
+                                  ]
+                                },
+                                "tag": {
+                                  "$$type": "string",
+                                  "value": "h3"
+                                },
+                                "title": {
+                                  "$$type": "escaped-html",
+                                  "value": "Water Damage"
+                                }
+                              },
+                              "elements": [],
+                              "widgetType": "e-heading",
+                              "editor_settings": {
+                                "title": "B 1 Title"
+                              },
+                              "version": "0.0"
+                            },
+                            {
+                              "id": "3f7b366a",
+                              "elType": "widget",
+                              "settings": {
+                                "classes": {
+                                  "$$type": "classes",
+                                  "value": [
+                                    "g-6bb05c4"
+                                  ]
+                                },
+                                "paragraph": {
+                                  "$$type": "escaped-html",
+                                  "value": "Water damage assessment and restoration services."
+                                },
+                                "tag": {
+                                  "$$type": "string",
+                                  "value": "p"
+                                }
+                              },
+                              "elements": [],
+                              "widgetType": "e-paragraph",
+                              "editor_settings": {
+                                "title": "B 1 Description"
+                              },
+                              "version": "0.0"
+                            }
+                          ],
+                          "isInner": false,
+                          "editor_settings": {
+                            "title": "B 1 Copy"
+                          },
+                          "version": "0.0"
+                        },
+                        {
+                          "id": "1d9f5018",
+                          "elType": "widget",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "g-c3123c0"
+                              ]
+                            },
+                            "paragraph": {
+                              "$$type": "escaped-html",
+                              "value": "\u2192"
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "span"
+                            }
+                          },
+                          "elements": [],
+                          "widgetType": "e-paragraph",
+                          "editor_settings": {
+                            "title": "B 1 Arrow"
+                          },
+                          "version": "0.0"
+                        }
+                      ],
+                      "isInner": false,
+                      "editor_settings": {
+                        "title": "B 1 Row"
+                      },
+                      "version": "0.0"
+                    },
+                    {
+                      "id": "97cc573",
+                      "elType": "e-div-block",
+                      "settings": {
+                        "classes": {
+                          "$$type": "classes",
+                          "value": [
+                            "g-d37a353"
+                          ]
+                        },
+                        "tag": {
+                          "$$type": "string",
+                          "value": "article"
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "2de7976c",
+                          "elType": "widget",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "g-b84ed52"
+                              ]
+                            },
+                            "svg": {
+                              "$$type": "svg-src",
+                              "value": {
+                                "id": {
+                                  "$$type": "image-attachment-id",
+                                  "value": 597
+                                }
+                              }
+                            }
+                          },
+                          "elements": [],
+                          "widgetType": "e-svg",
+                          "editor_settings": {
+                            "title": "B 2 Icon"
+                          },
+                          "version": "0.0"
+                        },
+                        {
+                          "id": "4aa5fdaa",
+                          "elType": "e-div-block",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "g-6f5f11a",
+                                "g-3bac536"
+                              ]
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "div"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "7718ccbe",
+                              "elType": "widget",
+                              "settings": {
+                                "classes": {
+                                  "$$type": "classes",
+                                  "value": [
+                                    "g-757705e"
+                                  ]
+                                },
+                                "tag": {
+                                  "$$type": "string",
+                                  "value": "h3"
+                                },
+                                "title": {
+                                  "$$type": "escaped-html",
+                                  "value": "Fire &amp; Smoke Damage"
+                                }
+                              },
+                              "elements": [],
+                              "widgetType": "e-heading",
+                              "editor_settings": {
+                                "title": "B 2 Title"
+                              },
+                              "version": "0.0"
+                            },
+                            {
+                              "id": "62cf5647",
+                              "elType": "widget",
+                              "settings": {
+                                "classes": {
+                                  "$$type": "classes",
+                                  "value": [
+                                    "g-6bb05c4"
+                                  ]
+                                },
+                                "paragraph": {
+                                  "$$type": "escaped-html",
+                                  "value": "Fire and smoke restoration service information."
+                                },
+                                "tag": {
+                                  "$$type": "string",
+                                  "value": "p"
+                                }
+                              },
+                              "elements": [],
+                              "widgetType": "e-paragraph",
+                              "editor_settings": {
+                                "title": "B 2 Description"
+                              },
+                              "version": "0.0"
+                            }
+                          ],
+                          "isInner": false,
+                          "editor_settings": {
+                            "title": "B 2 Copy"
+                          },
+                          "version": "0.0"
+                        },
+                        {
+                          "id": "48ff6dd2",
+                          "elType": "widget",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "g-c3123c0"
+                              ]
+                            },
+                            "paragraph": {
+                              "$$type": "escaped-html",
+                              "value": "\u2192"
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "span"
+                            }
+                          },
+                          "elements": [],
+                          "widgetType": "e-paragraph",
+                          "editor_settings": {
+                            "title": "B 2 Arrow"
+                          },
+                          "version": "0.0"
+                        }
+                      ],
+                      "isInner": false,
+                      "editor_settings": {
+                        "title": "B 2 Row"
+                      },
+                      "version": "0.0"
+                    },
+                    {
+                      "id": "2ebf3e02",
+                      "elType": "e-div-block",
+                      "settings": {
+                        "classes": {
+                          "$$type": "classes",
+                          "value": [
+                            "g-d37a353"
+                          ]
+                        },
+                        "tag": {
+                          "$$type": "string",
+                          "value": "article"
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "7971ab6",
+                          "elType": "widget",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "g-b84ed52"
+                              ]
+                            },
+                            "svg": {
+                              "$$type": "svg-src",
+                              "value": {
+                                "id": {
+                                  "$$type": "image-attachment-id",
+                                  "value": 607
+                                }
+                              }
+                            }
+                          },
+                          "elements": [],
+                          "widgetType": "e-svg",
+                          "editor_settings": {
+                            "title": "B 3 Icon"
+                          },
+                          "version": "0.0"
+                        },
+                        {
+                          "id": "4ae270bf",
+                          "elType": "e-div-block",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "g-6f5f11a",
+                                "g-3bac536"
+                              ]
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "div"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "6d682a50",
+                              "elType": "widget",
+                              "settings": {
+                                "classes": {
+                                  "$$type": "classes",
+                                  "value": [
+                                    "g-757705e"
+                                  ]
+                                },
+                                "tag": {
+                                  "$$type": "string",
+                                  "value": "h3"
+                                },
+                                "title": {
+                                  "$$type": "escaped-html",
+                                  "value": "Mold Remediation"
+                                }
+                              },
+                              "elements": [],
+                              "widgetType": "e-heading",
+                              "editor_settings": {
+                                "title": "B 3 Title"
+                              },
+                              "version": "0.0"
+                            },
+                            {
+                              "id": "2bc00034",
+                              "elType": "widget",
+                              "settings": {
+                                "classes": {
+                                  "$$type": "classes",
+                                  "value": [
+                                    "g-6bb05c4"
+                                  ]
+                                },
+                                "paragraph": {
+                                  "$$type": "escaped-html",
+                                  "value": "Mold removal and remediation service information."
+                                },
+                                "tag": {
+                                  "$$type": "string",
+                                  "value": "p"
+                                }
+                              },
+                              "elements": [],
+                              "widgetType": "e-paragraph",
+                              "editor_settings": {
+                                "title": "B 3 Description"
+                              },
+                              "version": "0.0"
+                            }
+                          ],
+                          "isInner": false,
+                          "editor_settings": {
+                            "title": "B 3 Copy"
+                          },
+                          "version": "0.0"
+                        },
+                        {
+                          "id": "1a450338",
+                          "elType": "widget",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "g-c3123c0"
+                              ]
+                            },
+                            "paragraph": {
+                              "$$type": "escaped-html",
+                              "value": "\u2192"
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "span"
+                            }
+                          },
+                          "elements": [],
+                          "widgetType": "e-paragraph",
+                          "editor_settings": {
+                            "title": "B 3 Arrow"
+                          },
+                          "version": "0.0"
+                        }
+                      ],
+                      "isInner": false,
+                      "editor_settings": {
+                        "title": "B 3 Row"
+                      },
+                      "version": "0.0"
+                    },
+                    {
+                      "id": "24281f6b",
+                      "elType": "e-div-block",
+                      "settings": {
+                        "classes": {
+                          "$$type": "classes",
+                          "value": [
+                            "g-d37a353"
+                          ]
+                        },
+                        "tag": {
+                          "$$type": "string",
+                          "value": "article"
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "16d7e4c2",
+                          "elType": "widget",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "g-b84ed52"
+                              ]
+                            },
+                            "svg": {
+                              "$$type": "svg-src",
+                              "value": {
+                                "id": {
+                                  "$$type": "image-attachment-id",
+                                  "value": 599
+                                }
+                              }
+                            }
+                          },
+                          "elements": [],
+                          "widgetType": "e-svg",
+                          "editor_settings": {
+                            "title": "B 4 Icon"
+                          },
+                          "version": "0.0"
+                        },
+                        {
+                          "id": "79d2ec77",
+                          "elType": "e-div-block",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "g-6f5f11a",
+                                "g-3bac536"
+                              ]
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "div"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "15f885e6",
+                              "elType": "widget",
+                              "settings": {
+                                "classes": {
+                                  "$$type": "classes",
+                                  "value": [
+                                    "g-757705e"
+                                  ]
+                                },
+                                "tag": {
+                                  "$$type": "string",
+                                  "value": "h3"
+                                },
+                                "title": {
+                                  "$$type": "escaped-html",
+                                  "value": "Reconstruction"
+                                }
+                              },
+                              "elements": [],
+                              "widgetType": "e-heading",
+                              "editor_settings": {
+                                "title": "B 4 Title"
+                              },
+                              "version": "0.0"
+                            },
+                            {
+                              "id": "217248a7",
+                              "elType": "widget",
+                              "settings": {
+                                "classes": {
+                                  "$$type": "classes",
+                                  "value": [
+                                    "g-6bb05c4"
+                                  ]
+                                },
+                                "paragraph": {
+                                  "$$type": "escaped-html",
+                                  "value": "Reconstruction services and project examples."
+                                },
+                                "tag": {
+                                  "$$type": "string",
+                                  "value": "p"
+                                }
+                              },
+                              "elements": [],
+                              "widgetType": "e-paragraph",
+                              "editor_settings": {
+                                "title": "B 4 Description"
+                              },
+                              "version": "0.0"
+                            }
+                          ],
+                          "isInner": false,
+                          "editor_settings": {
+                            "title": "B 4 Copy"
+                          },
+                          "version": "0.0"
+                        },
+                        {
+                          "id": "1b7b1a54",
+                          "elType": "widget",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "g-c3123c0"
+                              ]
+                            },
+                            "paragraph": {
+                              "$$type": "escaped-html",
+                              "value": "\u2192"
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "span"
+                            }
+                          },
+                          "elements": [],
+                          "widgetType": "e-paragraph",
+                          "editor_settings": {
+                            "title": "B 4 Arrow"
+                          },
+                          "version": "0.0"
+                        }
+                      ],
+                      "isInner": false,
+                      "editor_settings": {
+                        "title": "B 4 Row"
+                      },
+                      "version": "0.0"
+                    },
+                    {
+                      "id": "2890630",
+                      "elType": "e-div-block",
+                      "settings": {
+                        "classes": {
+                          "$$type": "classes",
+                          "value": [
+                            "g-d37a353"
+                          ]
+                        },
+                        "tag": {
+                          "$$type": "string",
+                          "value": "article"
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "1acc89e6",
+                          "elType": "widget",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "g-b84ed52"
+                              ]
+                            },
+                            "svg": {
+                              "$$type": "svg-src",
+                              "value": {
+                                "id": {
+                                  "$$type": "image-attachment-id",
+                                  "value": 600
+                                }
+                              }
+                            }
+                          },
+                          "elements": [],
+                          "widgetType": "e-svg",
+                          "editor_settings": {
+                            "title": "B 5 Icon"
+                          },
+                          "version": "0.0"
+                        },
+                        {
+                          "id": "2e05e468",
+                          "elType": "e-div-block",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "g-6f5f11a",
+                                "g-3bac536"
+                              ]
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "div"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "1c939577",
+                              "elType": "widget",
+                              "settings": {
+                                "classes": {
+                                  "$$type": "classes",
+                                  "value": [
+                                    "g-757705e"
+                                  ]
+                                },
+                                "tag": {
+                                  "$$type": "string",
+                                  "value": "h3"
+                                },
+                                "title": {
+                                  "$$type": "escaped-html",
+                                  "value": "Storm Damage"
+                                }
+                              },
+                              "elements": [],
+                              "widgetType": "e-heading",
+                              "editor_settings": {
+                                "title": "B 5 Title"
+                              },
+                              "version": "0.0"
+                            },
+                            {
+                              "id": "3f3df828",
+                              "elType": "widget",
+                              "settings": {
+                                "classes": {
+                                  "$$type": "classes",
+                                  "value": [
+                                    "g-6bb05c4"
+                                  ]
+                                },
+                                "paragraph": {
+                                  "$$type": "escaped-html",
+                                  "value": "Residential storm damage service information."
+                                },
+                                "tag": {
+                                  "$$type": "string",
+                                  "value": "p"
+                                }
+                              },
+                              "elements": [],
+                              "widgetType": "e-paragraph",
+                              "editor_settings": {
+                                "title": "B 5 Description"
+                              },
+                              "version": "0.0"
+                            }
+                          ],
+                          "isInner": false,
+                          "editor_settings": {
+                            "title": "B 5 Copy"
+                          },
+                          "version": "0.0"
+                        },
+                        {
+                          "id": "7b9a5a9f",
+                          "elType": "widget",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "g-c3123c0"
+                              ]
+                            },
+                            "paragraph": {
+                              "$$type": "escaped-html",
+                              "value": "\u2192"
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "span"
+                            }
+                          },
+                          "elements": [],
+                          "widgetType": "e-paragraph",
+                          "editor_settings": {
+                            "title": "B 5 Arrow"
+                          },
+                          "version": "0.0"
+                        }
+                      ],
+                      "isInner": false,
+                      "editor_settings": {
+                        "title": "B 5 Row"
+                      },
+                      "version": "0.0"
+                    },
+                    {
+                      "id": "463d381e",
+                      "elType": "e-div-block",
+                      "settings": {
+                        "classes": {
+                          "$$type": "classes",
+                          "value": [
+                            "g-d37a353"
+                          ]
+                        },
+                        "tag": {
+                          "$$type": "string",
+                          "value": "article"
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "55d70b59",
+                          "elType": "widget",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "g-b84ed52"
+                              ]
+                            },
+                            "svg": {
+                              "$$type": "svg-src",
+                              "value": {
+                                "id": {
+                                  "$$type": "image-attachment-id",
+                                  "value": 601
+                                }
+                              }
+                            }
+                          },
+                          "elements": [],
+                          "widgetType": "e-svg",
+                          "editor_settings": {
+                            "title": "B 6 Icon"
+                          },
+                          "version": "0.0"
+                        },
+                        {
+                          "id": "439484c9",
+                          "elType": "e-div-block",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "g-6f5f11a",
+                                "g-3bac536"
+                              ]
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "div"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "34c06f7f",
+                              "elType": "widget",
+                              "settings": {
+                                "classes": {
+                                  "$$type": "classes",
+                                  "value": [
+                                    "g-757705e"
+                                  ]
+                                },
+                                "tag": {
+                                  "$$type": "string",
+                                  "value": "h3"
+                                },
+                                "title": {
+                                  "$$type": "escaped-html",
+                                  "value": "Personal Property Restoration"
+                                }
+                              },
+                              "elements": [],
+                              "widgetType": "e-heading",
+                              "editor_settings": {
+                                "title": "B 6 Title"
+                              },
+                              "version": "0.0"
+                            },
+                            {
+                              "id": "2e7a260b",
+                              "elType": "widget",
+                              "settings": {
+                                "classes": {
+                                  "$$type": "classes",
+                                  "value": [
+                                    "g-6bb05c4"
+                                  ]
+                                },
+                                "paragraph": {
+                                  "$$type": "escaped-html",
+                                  "value": "Contents and personal property restoration."
+                                },
+                                "tag": {
+                                  "$$type": "string",
+                                  "value": "p"
+                                }
+                              },
+                              "elements": [],
+                              "widgetType": "e-paragraph",
+                              "editor_settings": {
+                                "title": "B 6 Description"
+                              },
+                              "version": "0.0"
+                            }
+                          ],
+                          "isInner": false,
+                          "editor_settings": {
+                            "title": "B 6 Copy"
+                          },
+                          "version": "0.0"
+                        },
+                        {
+                          "id": "1826bbf4",
+                          "elType": "widget",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "g-c3123c0"
+                              ]
+                            },
+                            "paragraph": {
+                              "$$type": "escaped-html",
+                              "value": "\u2192"
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "span"
+                            }
+                          },
+                          "elements": [],
+                          "widgetType": "e-paragraph",
+                          "editor_settings": {
+                            "title": "B 6 Arrow"
+                          },
+                          "version": "0.0"
+                        }
+                      ],
+                      "isInner": false,
+                      "editor_settings": {
+                        "title": "B 6 Row"
+                      },
+                      "version": "0.0"
+                    }
+                  ],
+                  "isInner": false,
+                  "styles": {
+                    "e-437d9c1c-e816": {
+                      "id": "e-437d9c1c-e816",
+                      "label": "local",
+                      "type": "class",
+                      "variants": [
+                        {
+                          "meta": {
+                            "breakpoint": "desktop",
+                            "state": null
+                          },
+                          "props": {
+                            "border-width": {
+                              "$$type": "border-width-v2",
+                              "value": {
+                                "block-start": {
+                                  "$$type": "size",
+                                  "value": {
+                                    "size": 1,
+                                    "unit": "px"
+                                  }
+                                },
+                                "inline-end": {
+                                  "$$type": "size",
+                                  "value": {
+                                    "size": 0,
+                                    "unit": "px"
+                                  }
+                                },
+                                "block-end": {
+                                  "$$type": "size",
+                                  "value": {
+                                    "size": 0,
+                                    "unit": "px"
+                                  }
+                                },
+                                "inline-start": {
+                                  "$$type": "size",
+                                  "value": {
+                                    "size": 0,
+                                    "unit": "px"
+                                  }
+                                }
+                              }
+                            },
+                            "border-color": {
+                              "$$type": "global-color-variable",
+                              "value": "e-gv-4cef0e9"
+                            },
+                            "border-style": {
+                              "$$type": "string",
+                              "value": "solid"
+                            }
+                          },
+                          "custom_css": null
+                        }
+                      ]
+                    }
+                  },
+                  "editor_settings": {
+                    "title": "B Service Directory"
+                  },
+                  "version": "0.0"
+                }
+              ],
+              "isInner": false,
+              "styles": {
+                "e-c32a8d1-45a4": {
+                  "id": "e-c32a8d1-45a4",
+                  "label": "local",
+                  "type": "class",
+                  "variants": [
+                    {
+                      "meta": {
+                        "breakpoint": "tablet",
+                        "state": null
+                      },
+                      "props": {
+                        "gap": {
+                          "$$type": "size",
+                          "value": {
+                            "size": 40,
+                            "unit": "px"
+                          }
+                        },
+                        "grid-template-columns": {
+                          "$$type": "string",
+                          "value": "minmax(0,1fr)"
+                        }
+                      },
+                      "custom_css": null
+                    },
+                    {
+                      "meta": {
+                        "breakpoint": "mobile",
+                        "state": null
+                      },
+                      "props": {
+                        "gap": {
+                          "$$type": "size",
+                          "value": {
+                            "size": 24,
+                            "unit": "px"
+                          }
+                        }
+                      },
+                      "custom_css": null
+                    },
+                    {
+                      "meta": {
+                        "breakpoint": "desktop",
+                        "state": null
+                      },
+                      "props": {
+                        "display": {
+                          "$$type": "string",
+                          "value": "grid"
+                        },
+                        "gap": {
+                          "$$type": "size",
+                          "value": {
+                            "size": 80,
+                            "unit": "px"
+                          }
+                        },
+                        "grid-template-columns": {
+                          "$$type": "string",
+                          "value": "minmax(0, 0.9fr) minmax(0, 1.4fr)"
+                        },
+                        "align-items": {
+                          "$$type": "string",
+                          "value": "start"
+                        }
+                      },
+                      "custom_css": null
+                    }
+                  ]
+                }
+              },
+              "editor_settings": {
+                "title": "B Editorial Grid"
+              },
+              "version": "0.0"
+            }
+          ],
+          "isInner": false,
+          "styles": {
+            "e-3ed21e1f-ddd9": {
+              "id": "e-3ed21e1f-ddd9",
+              "label": "local",
+              "type": "class",
+              "variants": [
+                {
+                  "meta": {
+                    "breakpoint": "desktop",
+                    "state": null
+                  },
+                  "props": {
+                    "z-index": {
+                      "$$type": "number",
+                      "value": 0
+                    }
+                  },
+                  "custom_css": null
+                }
+              ]
+            }
+          },
+          "editor_settings": {
+            "title": "Core Services B \u2014 Experimental"
+          },
+          "version": "0.0"
+        },
+        {
+          "id": "6cde656f",
+          "elType": "e-div-block",
+          "settings": {
+            "classes": {
+              "$$type": "classes",
+              "value": [
+                "g-8f39284",
+                "g-d3248b3",
+                "g-43edd01"
+              ]
+            },
+            "tag": {
+              "$$type": "string",
+              "value": "section"
+            }
+          },
+          "elements": [
+            {
+              "id": "2bf35876",
+              "elType": "e-div-block",
+              "settings": {
+                "classes": {
+                  "$$type": "classes",
+                  "value": [
+                    "g-68fb534",
+                    "g-5f7b649"
+                  ]
+                },
+                "tag": {
+                  "$$type": "string",
+                  "value": "div"
+                }
+              },
+              "elements": [
+                {
+                  "id": "2631f818",
+                  "elType": "widget",
+                  "settings": {
+                    "component_instance": {
+                      "$$type": "component-instance",
+                      "value": {
+                        "component_id": {
+                          "$$type": "number",
+                          "value": 71
+                        },
+                        "overrides": {
+                          "$$type": "overrides",
+                          "value": [
+                            {
+                              "$$type": "override",
+                              "value": {
+                                "override_key": "title",
+                                "override_value": {
+                                  "$$type": "escaped-html",
+                                  "value": "Emergency Restoration Support"
+                                },
+                                "schema_source": {
+                                  "type": "component",
+                                  "id": 71
+                                }
+                              }
+                            },
+                            {
+                              "$$type": "override",
+                              "value": {
+                                "override_key": "heading_tag",
+                                "override_value": {
+                                  "$$type": "string",
+                                  "value": "h2"
+                                },
+                                "schema_source": {
+                                  "type": "component",
+                                  "id": 71
+                                }
+                              }
+                            },
+                            {
+                              "$$type": "override",
+                              "value": {
+                                "override_key": "description",
+                                "override_value": {
+                                  "$$type": "escaped-html",
+                                  "value": "Call to discuss your restoration needs."
+                                },
+                                "schema_source": {
+                                  "type": "component",
+                                  "id": 71
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "e-component",
+                  "editor_settings": {
+                    "title": "Emergency Response Heading"
+                  },
+                  "version": "0.0"
+                },
+                {
+                  "id": "53d683de",
+                  "elType": "e-div-block",
+                  "settings": {
+                    "classes": {
+                      "$$type": "classes",
+                      "value": [
+                        "g-0e529a5",
+                        "e-5c3ab0bc-70c6"
+                      ]
+                    },
+                    "tag": {
+                      "$$type": "string",
+                      "value": "div"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "300e78c6",
+                      "elType": "widget",
+                      "settings": {
+                        "component_instance": {
+                          "$$type": "component-instance",
+                          "value": {
+                            "component_id": {
+                              "$$type": "number",
+                              "value": 53
+                            },
+                            "overrides": {
+                              "$$type": "overrides",
+                              "value": [
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "text",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Call 847-656-3322"
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 53
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "link",
+                                    "override_value": {
+                                      "$$type": "link",
+                                      "value": {
+                                        "destination": {
+                                          "$$type": "url",
+                                          "value": "tel:+18476563322"
+                                        },
+                                        "isTargetBlank": {
+                                          "$$type": "boolean",
+                                          "value": false
+                                        },
+                                        "tag": {
+                                          "$$type": "string",
+                                          "value": "a"
+                                        }
+                                      }
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 53
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "e-component",
+                      "editor_settings": {
+                        "title": "Emergency Call CTA"
+                      },
+                      "version": "0.0"
+                    },
+                    {
+                      "id": "91ce6f0",
+                      "elType": "widget",
+                      "settings": {
+                        "component_instance": {
+                          "$$type": "component-instance",
+                          "value": {
+                            "component_id": {
+                              "$$type": "number",
+                              "value": 103
+                            },
+                            "overrides": {
+                              "$$type": "overrides",
+                              "value": [
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "text",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Request Service"
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 103
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "link",
+                                    "override_value": {
+                                      "$$type": "link",
+                                      "value": {
+                                        "destination": {
+                                          "$$type": "url",
+                                          "value": "#"
+                                        },
+                                        "isTargetBlank": {
+                                          "$$type": "boolean",
+                                          "value": false
+                                        },
+                                        "tag": {
+                                          "$$type": "string",
+                                          "value": "a"
+                                        }
+                                      }
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 103
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "e-component",
+                      "editor_settings": {
+                        "title": "Emergency Request CTA",
+                        "component_uid": "component-9e3d299e-89f8-4484-9760-f482541d98b1"
+                      },
+                      "version": "0.0"
+                    }
+                  ],
+                  "isInner": false,
+                  "styles": {
+                    "e-5c3ab0bc-70c6": {
+                      "id": "e-5c3ab0bc-70c6",
+                      "label": "local",
+                      "type": "class",
+                      "variants": []
+                    }
+                  },
+                  "editor_settings": {
+                    "title": "Emergency Response Actions"
+                  },
+                  "version": "0.0"
+                }
+              ],
+              "isInner": false,
+              "editor_settings": {
+                "title": "05 Emergency Response Container"
+              },
+              "version": "0.0"
+            }
+          ],
+          "isInner": false,
+          "editor_settings": {
+            "title": "05 Emergency Response"
+          },
+          "version": "0.0"
+        },
+        {
+          "id": "6d0939b9",
+          "elType": "widget",
+          "settings": {
+            "component_instance": {
+              "$$type": "component-instance",
+              "value": {
+                "component_id": {
+                  "$$type": "number",
+                  "value": 1152
+                }
+              }
+            }
+          },
+          "elements": [],
+          "widgetType": "e-component",
+          "editor_settings": {
+            "title": "Shared How We Work"
+          },
+          "version": "0.0"
+        },
+        {
+          "id": "4221ba60",
+          "elType": "e-div-block",
+          "settings": {
+            "classes": {
+              "$$type": "classes",
+              "value": [
+                "g-d3248b3"
+              ]
+            },
+            "tag": {
+              "$$type": "string",
+              "value": "section"
+            }
+          },
+          "elements": [
+            {
+              "id": "14d7e71c",
+              "elType": "e-div-block",
+              "settings": {
+                "classes": {
+                  "$$type": "classes",
+                  "value": [
+                    "g-a537304",
+                    "g-68fb534",
+                    "g-6f5f11a"
+                  ]
+                },
+                "tag": {
+                  "$$type": "string",
+                  "value": "div"
+                }
+              },
+              "elements": [
+                {
+                  "id": "41526d68",
+                  "elType": "widget",
+                  "settings": {
+                    "classes": {
+                      "$$type": "classes",
+                      "value": [
+                        "g-b12aa04"
+                      ]
+                    },
+                    "paragraph": {
+                      "$$type": "escaped-html",
+                      "value": "04 / OUR WORK"
+                    },
+                    "tag": {
+                      "$$type": "string",
+                      "value": "p"
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "e-paragraph",
+                  "editor_settings": {
+                    "title": "Eyebrow 04 / OUR WORK"
+                  },
+                  "version": "0.0"
+                },
+                {
+                  "id": "6b4663fc",
+                  "elType": "widget",
+                  "settings": {
+                    "component_instance": {
+                      "$$type": "component-instance",
+                      "value": {
+                        "component_id": {
+                          "$$type": "number",
+                          "value": 71
+                        },
+                        "overrides": {
+                          "$$type": "overrides",
+                          "value": [
+                            {
+                              "$$type": "override",
+                              "value": {
+                                "override_key": "title",
+                                "override_value": {
+                                  "$$type": "escaped-html",
+                                  "value": "Before / After"
+                                },
+                                "schema_source": {
+                                  "type": "component",
+                                  "id": 71
+                                }
+                              }
+                            },
+                            {
+                              "$$type": "override",
+                              "value": {
+                                "override_key": "heading_tag",
+                                "override_value": {
+                                  "$$type": "string",
+                                  "value": "h2"
+                                },
+                                "schema_source": {
+                                  "type": "component",
+                                  "id": 71
+                                }
+                              }
+                            },
+                            {
+                              "$$type": "override",
+                              "value": {
+                                "override_key": "description",
+                                "override_value": {
+                                  "$$type": "escaped-html",
+                                  "value": "See the difference. Explore real before-and-after transformations by GCPRO."
+                                },
+                                "schema_source": {
+                                  "type": "component",
+                                  "id": 71
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  },
+                  "elements": [],
+                  "widgetType": "e-component",
+                  "editor_settings": {
+                    "title": "Projects Heading"
+                  },
+                  "version": "0.0"
+                },
+                {
+                  "id": "66b1c7d4",
+                  "elType": "e-div-block",
+                  "settings": {
+                    "classes": {
+                      "$$type": "classes",
+                      "value": [
+                        "g-2f37dc0",
+                        "e-50f5e7b2-899b"
+                      ]
+                    },
+                    "tag": {
+                      "$$type": "string",
+                      "value": "div"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "22e7aed8",
+                      "elType": "e-div-block",
+                      "settings": {
+                        "classes": {
+                          "$$type": "classes",
+                          "value": [
+                            "e-6a09995a-6bbb"
+                          ]
+                        },
+                        "tag": {
+                          "$$type": "string",
+                          "value": "div"
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "33681ad8",
+                          "elType": "e-div-block",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "e-44062804-3509"
+                              ]
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "div"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "eb597a1",
+                              "elType": "widget",
+                              "settings": {
+                                "shortcode": "[bafg id=\"723\"]"
+                              },
+                              "elements": [],
+                              "widgetType": "shortcode"
+                            }
+                          ],
+                          "isInner": false,
+                          "styles": {
+                            "e-44062804-3509": {
+                              "id": "e-44062804-3509",
+                              "label": "local",
+                              "type": "class",
+                              "variants": [
+                                {
+                                  "meta": {
+                                    "breakpoint": "desktop",
+                                    "state": null
+                                  },
+                                  "props": {
+                                    "padding": {
+                                      "$$type": "size",
+                                      "value": {
+                                        "size": 0,
+                                        "unit": "px"
+                                      }
+                                    },
+                                    "display": {
+                                      "$$type": "string",
+                                      "value": "block"
+                                    }
+                                  },
+                                  "custom_css": null
+                                }
+                              ]
+                            }
+                          },
+                          "editor_settings": {
+                            "title": "Chicago Water Damage Project Image Placeholder"
+                          },
+                          "version": "0.0"
+                        },
+                        {
+                          "id": "ae30c3b",
+                          "elType": "e-div-block",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "e-99143c4-310f"
+                              ]
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "div"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "0fccf2a",
+                              "elType": "widget",
+                              "settings": {
+                                "classes": {
+                                  "$$type": "classes",
+                                  "value": [
+                                    "e-1528cb61-f0b4"
+                                  ]
+                                },
+                                "tag": {
+                                  "$$type": "string",
+                                  "value": "h3"
+                                },
+                                "title": {
+                                  "$$type": "escaped-html",
+                                  "value": "Residential Fire Damage Restoration \u2014 Tinley Park, IL"
+                                }
+                              },
+                              "elements": [],
+                              "widgetType": "e-heading",
+                              "styles": {
+                                "e-1528cb61-f0b4": {
+                                  "id": "e-1528cb61-f0b4",
+                                  "label": "local",
+                                  "type": "class",
+                                  "variants": [
+                                    {
+                                      "meta": {
+                                        "breakpoint": "mobile",
+                                        "state": null
+                                      },
+                                      "props": {
+                                        "font-size": {
+                                          "$$type": "size",
+                                          "value": {
+                                            "size": 20,
+                                            "unit": "px"
+                                          }
+                                        }
+                                      },
+                                      "custom_css": null
+                                    },
+                                    {
+                                      "meta": {
+                                        "breakpoint": "desktop",
+                                        "state": null
+                                      },
+                                      "props": {
+                                        "font-size": {
+                                          "$$type": "size",
+                                          "value": {
+                                            "size": 22,
+                                            "unit": "px"
+                                          }
+                                        }
+                                      },
+                                      "custom_css": null
+                                    }
+                                  ]
+                                }
+                              },
+                              "editor_settings": {
+                                "title": "Title"
+                              },
+                              "version": "0.0"
+                            },
+                            {
+                              "id": "27fac69",
+                              "elType": "widget",
+                              "settings": {
+                                "paragraph": {
+                                  "$$type": "escaped-html",
+                                  "value": "Before-and-after photographs of a residential fire damage project in Tinley Park, Illinois."
+                                },
+                                "tag": {
+                                  "$$type": "string",
+                                  "value": "p"
+                                }
+                              },
+                              "elements": [],
+                              "widgetType": "e-paragraph",
+                              "editor_settings": {
+                                "title": "Description"
+                              },
+                              "version": "0.0"
+                            }
+                          ],
+                          "isInner": false,
+                          "styles": {
+                            "e-99143c4-310f": {
+                              "id": "e-99143c4-310f",
+                              "label": "local",
+                              "type": "class",
+                              "variants": [
+                                {
+                                  "meta": {
+                                    "breakpoint": "desktop",
+                                    "state": null
+                                  },
+                                  "props": {
+                                    "padding": {
+                                      "$$type": "size",
+                                      "value": {
+                                        "size": 0,
+                                        "unit": "px"
+                                      }
+                                    },
+                                    "display": {
+                                      "$$type": "string",
+                                      "value": "grid"
+                                    },
+                                    "gap": {
+                                      "$$type": "global-size-variable",
+                                      "value": "e-gv-ff0543b"
+                                    }
+                                  },
+                                  "custom_css": null
+                                }
+                              ]
+                            }
+                          },
+                          "editor_settings": {
+                            "title": "Card"
+                          },
+                          "version": "0.0"
+                        }
+                      ],
+                      "isInner": false,
+                      "styles": {
+                        "e-6a09995a-6bbb": {
+                          "id": "e-6a09995a-6bbb",
+                          "label": "local",
+                          "type": "class",
+                          "variants": [
+                            {
+                              "meta": {
+                                "breakpoint": "tablet",
+                                "state": null
+                              },
+                              "props": {
+                                "grid-template-columns": {
+                                  "$$type": "string",
+                                  "value": "minmax(0,1fr)"
+                                }
+                              },
+                              "custom_css": null
+                            },
+                            {
+                              "meta": {
+                                "breakpoint": "desktop",
+                                "state": null
+                              },
+                              "props": {
+                                "padding": {
+                                  "$$type": "size",
+                                  "value": {
+                                    "size": 0,
+                                    "unit": "px"
+                                  }
+                                },
+                                "display": {
+                                  "$$type": "string",
+                                  "value": "grid"
+                                },
+                                "gap": {
+                                  "$$type": "global-size-variable",
+                                  "value": "e-gv-ff0543b"
+                                },
+                                "grid-template-columns": {
+                                  "$$type": "string",
+                                  "value": "minmax(0,1fr)"
+                                },
+                                "align-content": {
+                                  "$$type": "string",
+                                  "value": "start"
+                                },
+                                "align-items": {
+                                  "$$type": "string",
+                                  "value": "start"
+                                }
+                              },
+                              "custom_css": null
+                            }
+                          ]
+                        }
+                      },
+                      "editor_settings": {
+                        "title": "Chicago Water Damage Project Wireframe"
+                      },
+                      "version": "0.0"
+                    },
+                    {
+                      "id": "b72017c",
+                      "elType": "e-div-block",
+                      "settings": {
+                        "classes": {
+                          "$$type": "classes",
+                          "value": [
+                            "e-1a667745-8a36"
+                          ]
+                        },
+                        "tag": {
+                          "$$type": "string",
+                          "value": "div"
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "55241554",
+                          "elType": "e-div-block",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "e-55271e32-46d6"
+                              ]
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "div"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "6a2a094",
+                              "elType": "widget",
+                              "settings": {
+                                "shortcode": "[bafg id=\"742\"]"
+                              },
+                              "elements": [],
+                              "widgetType": "shortcode"
+                            }
+                          ],
+                          "isInner": false,
+                          "styles": {
+                            "e-55271e32-46d6": {
+                              "id": "e-55271e32-46d6",
+                              "label": "local",
+                              "type": "class",
+                              "variants": [
+                                {
+                                  "meta": {
+                                    "breakpoint": "desktop",
+                                    "state": null
+                                  },
+                                  "props": {
+                                    "padding": {
+                                      "$$type": "size",
+                                      "value": {
+                                        "size": 0,
+                                        "unit": "px"
+                                      }
+                                    },
+                                    "display": {
+                                      "$$type": "string",
+                                      "value": "block"
+                                    }
+                                  },
+                                  "custom_css": null
+                                }
+                              ]
+                            }
+                          },
+                          "editor_settings": {
+                            "title": "Chicago Fire Damage Project Image Placeholder"
+                          },
+                          "version": "0.0"
+                        },
+                        {
+                          "id": "2f6babff",
+                          "elType": "e-div-block",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "e-47accef1-d096"
+                              ]
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "div"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "3a39c79b",
+                              "elType": "widget",
+                              "settings": {
+                                "classes": {
+                                  "$$type": "classes",
+                                  "value": [
+                                    "e-62c3d0e6-e943"
+                                  ]
+                                },
+                                "tag": {
+                                  "$$type": "string",
+                                  "value": "h3"
+                                },
+                                "title": {
+                                  "$$type": "escaped-html",
+                                  "value": "Water Damage Restoration \u2014 Glenview"
+                                }
+                              },
+                              "elements": [],
+                              "widgetType": "e-heading",
+                              "styles": {
+                                "e-62c3d0e6-e943": {
+                                  "id": "e-62c3d0e6-e943",
+                                  "label": "local",
+                                  "type": "class",
+                                  "variants": [
+                                    {
+                                      "meta": {
+                                        "breakpoint": "mobile",
+                                        "state": null
+                                      },
+                                      "props": {
+                                        "font-size": {
+                                          "$$type": "size",
+                                          "value": {
+                                            "size": 20,
+                                            "unit": "px"
+                                          }
+                                        }
+                                      },
+                                      "custom_css": null
+                                    },
+                                    {
+                                      "meta": {
+                                        "breakpoint": "desktop",
+                                        "state": null
+                                      },
+                                      "props": {
+                                        "font-size": {
+                                          "$$type": "size",
+                                          "value": {
+                                            "size": 22,
+                                            "unit": "px"
+                                          }
+                                        }
+                                      },
+                                      "custom_css": null
+                                    }
+                                  ]
+                                }
+                              },
+                              "editor_settings": {
+                                "title": "Second project title"
+                              },
+                              "version": "0.0"
+                            },
+                            {
+                              "id": "2a2eb209",
+                              "elType": "widget",
+                              "settings": {
+                                "paragraph": {
+                                  "$$type": "escaped-html",
+                                  "value": "Before-and-after photographs from a water damage project in Glenview."
+                                },
+                                "tag": {
+                                  "$$type": "string",
+                                  "value": "p"
+                                }
+                              },
+                              "elements": [],
+                              "widgetType": "e-paragraph",
+                              "editor_settings": {
+                                "title": "Second project description"
+                              },
+                              "version": "0.0"
+                            }
+                          ],
+                          "isInner": false,
+                          "styles": {
+                            "e-47accef1-d096": {
+                              "id": "e-47accef1-d096",
+                              "label": "local",
+                              "type": "class",
+                              "variants": [
+                                {
+                                  "meta": {
+                                    "breakpoint": "desktop",
+                                    "state": null
+                                  },
+                                  "props": {
+                                    "padding": {
+                                      "$$type": "size",
+                                      "value": {
+                                        "size": 0,
+                                        "unit": "px"
+                                      }
+                                    },
+                                    "display": {
+                                      "$$type": "string",
+                                      "value": "grid"
+                                    },
+                                    "gap": {
+                                      "$$type": "global-size-variable",
+                                      "value": "e-gv-ff0543b"
+                                    }
+                                  },
+                                  "custom_css": null
+                                }
+                              ]
+                            }
+                          },
+                          "editor_settings": {
+                            "title": "Second project caption"
+                          },
+                          "version": "0.0"
+                        }
+                      ],
+                      "isInner": false,
+                      "styles": {
+                        "e-1a667745-8a36": {
+                          "id": "e-1a667745-8a36",
+                          "label": "local",
+                          "type": "class",
+                          "variants": [
+                            {
+                              "meta": {
+                                "breakpoint": "tablet",
+                                "state": null
+                              },
+                              "props": {
+                                "grid-template-columns": {
+                                  "$$type": "string",
+                                  "value": "minmax(0,1fr)"
+                                }
+                              },
+                              "custom_css": null
+                            },
+                            {
+                              "meta": {
+                                "breakpoint": "desktop",
+                                "state": null
+                              },
+                              "props": {
+                                "padding": {
+                                  "$$type": "size",
+                                  "value": {
+                                    "size": 0,
+                                    "unit": "px"
+                                  }
+                                },
+                                "display": {
+                                  "$$type": "string",
+                                  "value": "grid"
+                                },
+                                "gap": {
+                                  "$$type": "global-size-variable",
+                                  "value": "e-gv-ff0543b"
+                                },
+                                "grid-template-columns": {
+                                  "$$type": "string",
+                                  "value": "minmax(0,1fr)"
+                                },
+                                "align-content": {
+                                  "$$type": "string",
+                                  "value": "start"
+                                },
+                                "align-items": {
+                                  "$$type": "string",
+                                  "value": "start"
+                                }
+                              },
+                              "custom_css": null
+                            }
+                          ]
+                        }
+                      },
+                      "editor_settings": {
+                        "title": "Chicago Fire Damage Project Wireframe"
+                      },
+                      "version": "0.0"
+                    },
+                    {
+                      "id": "31087133",
+                      "elType": "e-div-block",
+                      "settings": {
+                        "classes": {
+                          "$$type": "classes",
+                          "value": [
+                            "e-d7f1be6-f9b3"
+                          ]
+                        },
+                        "tag": {
+                          "$$type": "string",
+                          "value": "div"
+                        }
+                      },
+                      "elements": [
+                        {
+                          "id": "5f199388",
+                          "elType": "e-div-block",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "e-42d7b0ce-6a28"
+                              ]
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "div"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "961e3c2",
+                              "elType": "widget",
+                              "settings": {
+                                "shortcode": "[bafg id=\"767\"]"
+                              },
+                              "elements": [],
+                              "widgetType": "shortcode"
+                            }
+                          ],
+                          "isInner": false,
+                          "styles": {
+                            "e-42d7b0ce-6a28": {
+                              "id": "e-42d7b0ce-6a28",
+                              "label": "local",
+                              "type": "class",
+                              "variants": [
+                                {
+                                  "meta": {
+                                    "breakpoint": "desktop",
+                                    "state": null
+                                  },
+                                  "props": {
+                                    "padding": {
+                                      "$$type": "size",
+                                      "value": {
+                                        "size": 0,
+                                        "unit": "px"
+                                      }
+                                    },
+                                    "display": {
+                                      "$$type": "string",
+                                      "value": "block"
+                                    }
+                                  },
+                                  "custom_css": null
+                                }
+                              ]
+                            }
+                          },
+                          "editor_settings": {
+                            "title": "Boys Girls Club Project Image Placeholder"
+                          },
+                          "version": "0.0"
+                        },
+                        {
+                          "id": "1b321c8b",
+                          "elType": "e-div-block",
+                          "settings": {
+                            "classes": {
+                              "$$type": "classes",
+                              "value": [
+                                "e-79807e2f-3d0c"
+                              ]
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "div"
+                            }
+                          },
+                          "elements": [
+                            {
+                              "id": "5931ddb6",
+                              "elType": "widget",
+                              "settings": {
+                                "classes": {
+                                  "$$type": "classes",
+                                  "value": [
+                                    "e-5ee4f8d-ad38"
+                                  ]
+                                },
+                                "tag": {
+                                  "$$type": "string",
+                                  "value": "h3"
+                                },
+                                "title": {
+                                  "$$type": "escaped-html",
+                                  "value": "Garage Fire Damage Restoration \u2014 Northbrook, IL"
+                                }
+                              },
+                              "elements": [],
+                              "widgetType": "e-heading",
+                              "styles": {
+                                "e-5ee4f8d-ad38": {
+                                  "id": "e-5ee4f8d-ad38",
+                                  "label": "local",
+                                  "type": "class",
+                                  "variants": [
+                                    {
+                                      "meta": {
+                                        "breakpoint": "mobile",
+                                        "state": null
+                                      },
+                                      "props": {
+                                        "font-size": {
+                                          "$$type": "size",
+                                          "value": {
+                                            "size": 20,
+                                            "unit": "px"
+                                          }
+                                        }
+                                      },
+                                      "custom_css": null
+                                    },
+                                    {
+                                      "meta": {
+                                        "breakpoint": "desktop",
+                                        "state": null
+                                      },
+                                      "props": {
+                                        "font-size": {
+                                          "$$type": "size",
+                                          "value": {
+                                            "size": 22,
+                                            "unit": "px"
+                                          }
+                                        }
+                                      },
+                                      "custom_css": null
+                                    }
+                                  ]
+                                }
+                              },
+                              "editor_settings": {
+                                "title": "Third project title"
+                              },
+                              "version": "0.0"
+                            },
+                            {
+                              "id": "4cd02acc",
+                              "elType": "widget",
+                              "settings": {
+                                "paragraph": {
+                                  "$$type": "escaped-html",
+                                  "value": "Before-and-after photographs of a garage fire damage restoration project."
+                                },
+                                "tag": {
+                                  "$$type": "string",
+                                  "value": "p"
+                                }
+                              },
+                              "elements": [],
+                              "widgetType": "e-paragraph",
+                              "editor_settings": {
+                                "title": "Third project description"
+                              },
+                              "version": "0.0"
+                            }
+                          ],
+                          "isInner": false,
+                          "styles": {
+                            "e-79807e2f-3d0c": {
+                              "id": "e-79807e2f-3d0c",
+                              "label": "local",
+                              "type": "class",
+                              "variants": [
+                                {
+                                  "meta": {
+                                    "breakpoint": "desktop",
+                                    "state": null
+                                  },
+                                  "props": {
+                                    "padding": {
+                                      "$$type": "size",
+                                      "value": {
+                                        "size": 0,
+                                        "unit": "px"
+                                      }
+                                    },
+                                    "display": {
+                                      "$$type": "string",
+                                      "value": "grid"
+                                    },
+                                    "gap": {
+                                      "$$type": "global-size-variable",
+                                      "value": "e-gv-ff0543b"
+                                    }
+                                  },
+                                  "custom_css": null
+                                }
+                              ]
+                            }
+                          },
+                          "editor_settings": {
+                            "title": "Third project caption"
+                          },
+                          "version": "0.0"
+                        }
+                      ],
+                      "isInner": false,
+                      "styles": {
+                        "e-d7f1be6-f9b3": {
+                          "id": "e-d7f1be6-f9b3",
+                          "label": "local",
+                          "type": "class",
+                          "variants": [
+                            {
+                              "meta": {
+                                "breakpoint": "desktop",
+                                "state": null
+                              },
+                              "props": {
+                                "padding": {
+                                  "$$type": "size",
+                                  "value": {
+                                    "size": 0,
+                                    "unit": "px"
+                                  }
+                                },
+                                "display": {
+                                  "$$type": "string",
+                                  "value": "grid"
+                                },
+                                "gap": {
+                                  "$$type": "global-size-variable",
+                                  "value": "e-gv-ff0543b"
+                                },
+                                "grid-template-columns": {
+                                  "$$type": "string",
+                                  "value": "minmax(0,1fr)"
+                                },
+                                "align-content": {
+                                  "$$type": "string",
+                                  "value": "start"
+                                },
+                                "align-items": {
+                                  "$$type": "string",
+                                  "value": "start"
+                                }
+                              },
+                              "custom_css": null
+                            }
+                          ]
+                        }
+                      },
+                      "editor_settings": {
+                        "title": "Boys Girls Club Project Wireframe"
+                      },
+                      "version": "0.0"
+                    }
+                  ],
+                  "isInner": false,
+                  "styles": {
+                    "e-50f5e7b2-899b": {
+                      "id": "e-50f5e7b2-899b",
+                      "label": "local",
+                      "type": "class",
+                      "variants": [
+                        {
+                          "meta": {
+                            "breakpoint": "tablet",
+                            "state": null
+                          },
+                          "props": {
+                            "grid-template-columns": {
+                              "$$type": "string",
+                              "value": "repeat(2,minmax(0,1fr))"
+                            }
+                          },
+                          "custom_css": null
+                        },
+                        {
+                          "meta": {
+                            "breakpoint": "mobile",
+                            "state": null
+                          },
+                          "props": {
+                            "grid-template-columns": {
+                              "$$type": "string",
+                              "value": "minmax(0,1fr)"
+                            }
+                          },
+                          "custom_css": null
+                        },
+                        {
+                          "meta": {
+                            "breakpoint": "desktop",
+                            "state": null
+                          },
+                          "props": {
+                            "grid-template-columns": {
+                              "$$type": "string",
+                              "value": "repeat(3,minmax(0,1fr))"
+                            }
+                          },
+                          "custom_css": null
+                        }
+                      ]
+                    }
+                  },
+                  "editor_settings": {
+                    "title": "Project Card Wireframes"
+                  },
+                  "version": "0.0"
+                },
+                {
+                  "id": "3281b1db",
+                  "elType": "e-div-block",
+                  "settings": {
+                    "classes": {
+                      "$$type": "classes",
+                      "value": [
+                        "g-0e529a5",
+                        "e-5c79e13e-ac01"
+                      ]
+                    },
+                    "tag": {
+                      "$$type": "string",
+                      "value": "div"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "2364d92a",
+                      "elType": "widget",
+                      "settings": {
+                        "component_instance": {
+                          "$$type": "component-instance",
+                          "value": {
+                            "component_id": {
+                              "$$type": "number",
+                              "value": 59
+                            },
+                            "overrides": {
+                              "$$type": "overrides",
+                              "value": [
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "text",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "View All Transformations"
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 59
+                                    }
+                                  }
+                                },
+                                {
+                                  "$$type": "override",
+                                  "value": {
+                                    "override_key": "link",
+                                    "override_value": {
+                                      "$$type": "link",
+                                      "value": {
+                                        "destination": {
+                                          "$$type": "url",
+                                          "value": "#"
+                                        },
+                                        "isTargetBlank": {
+                                          "$$type": "boolean",
+                                          "value": false
+                                        },
+                                        "tag": {
+                                          "$$type": "string",
+                                          "value": "a"
+                                        }
+                                      }
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 59
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "e-component",
+                      "editor_settings": {
+                        "title": "Portfolio Link"
+                      },
+                      "version": "0.0"
+                    }
+                  ],
+                  "isInner": false,
+                  "styles": {
+                    "e-5c79e13e-ac01": {
+                      "id": "e-5c79e13e-ac01",
+                      "label": "local",
+                      "type": "class",
+                      "variants": []
+                    }
+                  },
+                  "editor_settings": {
+                    "title": "Project Index Links"
+                  },
+                  "version": "0.0"
+                }
+              ],
+              "isInner": false,
+              "editor_settings": {
+                "title": "07 Projects and Before After Container"
+              },
+              "version": "0.0"
+            }
+          ],
+          "isInner": false,
+          "editor_settings": {
+            "title": "07 Projects and Before After"
+          },
+          "version": "0.0"
+        },
+        {
+          "id": "60cdf058",
+          "elType": "widget",
+          "settings": {
+            "component_instance": {
+              "$$type": "component-instance",
+              "value": {
+                "component_id": {
+                  "$$type": "number",
+                  "value": 1149
+                }
+              }
+            }
+          },
+          "elements": [],
+          "widgetType": "e-component",
+          "editor_settings": {
+            "title": "Shared Why Choose GCPRO"
+          },
+          "version": "0.0"
+        },
+        {
+          "id": "10a34543",
+          "elType": "e-div-block",
+          "settings": {
+            "classes": {
+              "$$type": "classes",
+              "value": [
+                "g-d3248b3",
+                "e-28d0ebf2-3ce0"
+              ]
+            },
+            "tag": {
+              "$$type": "string",
+              "value": "section"
+            }
+          },
+          "elements": [
+            {
+              "id": "7d037e04",
+              "elType": "e-div-block",
+              "settings": {
+                "classes": {
+                  "$$type": "classes",
+                  "value": [
+                    "g-68fb534",
+                    "g-6f5f11a",
+                    "e-63b18ed1-6f34"
+                  ]
+                },
+                "tag": {
+                  "$$type": "string",
+                  "value": "div"
+                }
+              },
+              "elements": [
+                {
+                  "id": "629e394d",
+                  "elType": "e-div-block",
+                  "settings": {
+                    "classes": {
+                      "$$type": "classes",
+                      "value": [
+                        "g-0152925",
+                        "g-6f5f11a"
+                      ]
+                    },
+                    "tag": {
+                      "$$type": "string",
+                      "value": "div"
+                    }
+                  },
+                  "elements": [
+                    {
+                      "id": "31825a3f",
+                      "elType": "widget",
+                      "settings": {
+                        "classes": {
+                          "$$type": "classes",
+                          "value": [
+                            "g-b12aa04"
+                          ]
+                        },
+                        "paragraph": {
+                          "$$type": "escaped-html",
+                          "value": "TESTIMONIALS"
+                        },
+                        "tag": {
+                          "$$type": "string",
+                          "value": "p"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "e-paragraph",
+                      "editor_settings": {
+                        "title": "Testimonials eyebrow"
+                      },
+                      "version": "0.0"
+                    },
+                    {
+                      "id": "3d727826",
+                      "elType": "widget",
+                      "settings": {
+                        "classes": {
+                          "$$type": "classes",
+                          "value": [
+                            "e-5dfe960-b277"
+                          ]
+                        },
+                        "tag": {
+                          "$$type": "string",
+                          "value": "h2"
+                        },
+                        "title": {
+                          "$$type": "escaped-html",
+                          "value": "WHAT OUR CLIENTS SAY"
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "e-heading",
+                      "styles": {
+                        "e-5dfe960-b277": {
+                          "id": "e-5dfe960-b277",
+                          "label": "local",
+                          "type": "class",
+                          "variants": [
+                            {
+                              "meta": {
+                                "breakpoint": "desktop",
+                                "state": null
+                              },
+                              "props": {
+                                "color": {
+                                  "$$type": "global-color-variable",
+                                  "value": "e-gv-73c03d5"
+                                }
+                              },
+                              "custom_css": null
+                            }
+                          ]
+                        }
+                      },
+                      "editor_settings": {
+                        "title": "Testimonials H2"
+                      },
+                      "version": "0.0"
+                    },
+                    {
+                      "id": "41bcab5a",
+                      "elType": "widget",
+                      "settings": {
+                        "classes": {
+                          "$$type": "classes",
+                          "value": [
+                            "e-60f68724-59d0"
+                          ]
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "e-divider",
+                      "styles": {
+                        "e-60f68724-59d0": {
+                          "id": "e-60f68724-59d0",
+                          "label": "local",
+                          "type": "class",
+                          "variants": [
+                            {
+                              "meta": {
+                                "breakpoint": "desktop",
+                                "state": null
+                              },
+                              "props": {
+                                "width": {
+                                  "$$type": "size",
+                                  "value": {
+                                    "size": 40,
+                                    "unit": "px"
+                                  }
+                                },
+                                "height": {
+                                  "$$type": "size",
+                                  "value": {
+                                    "size": 3,
+                                    "unit": "px"
+                                  }
+                                },
+                                "margin": {
+                                  "$$type": "dimensions",
+                                  "value": {
+                                    "block-start": {
+                                      "$$type": "size",
+                                      "value": {
+                                        "size": -8,
+                                        "unit": "px"
+                                      }
+                                    }
+                                  }
+                                },
+                                "background": {
+                                  "$$type": "background",
+                                  "value": {
+                                    "color": {
+                                      "$$type": "global-color-variable",
+                                      "value": "e-gv-a9a1731"
+                                    }
+                                  }
+                                }
+                              },
+                              "custom_css": null
+                            }
+                          ]
+                        }
+                      },
+                      "editor_settings": {
+                        "title": "Testimonials orange accent"
+                      },
+                      "version": "0.0"
+                    }
+                  ],
+                  "isInner": false,
+                  "editor_settings": {
+                    "title": "Testimonials heading"
+                  },
+                  "version": "0.0"
+                },
+                {
+                  "id": "02441ff",
+                  "elType": "widget",
+                  "settings": {
+                    "shortcode": "[trustindex data-widget-id=3c3f6b184e520136de76f94fefa]"
+                  },
+                  "elements": [],
+                  "widgetType": "shortcode"
+                }
+              ],
+              "isInner": false,
+              "styles": {
+                "e-63b18ed1-6f34": {
+                  "id": "e-63b18ed1-6f34",
+                  "label": "local",
+                  "type": "class",
+                  "variants": [
+                    {
+                      "meta": {
+                        "breakpoint": "desktop",
+                        "state": null
+                      },
+                      "props": {
+                        "gap": {
+                          "$$type": "global-size-variable",
+                          "value": "e-gv-6821972"
+                        }
+                      },
+                      "custom_css": null
+                    }
+                  ]
+                }
+              },
+              "editor_settings": {
+                "title": "Testimonials inner container"
+              },
+              "version": "0.0"
+            }
+          ],
+          "isInner": false,
+          "styles": {
+            "e-28d0ebf2-3ce0": {
+              "id": "e-28d0ebf2-3ce0",
+              "label": "local",
+              "type": "class",
+              "variants": [
+                {
+                  "meta": {
+                    "breakpoint": "desktop",
+                    "state": null
+                  },
+                  "props": {
+                    "background": {
+                      "$$type": "background",
+                      "value": {
+                        "color": {
+                          "$$type": "global-color-variable",
+                          "value": "e-gv-c987ce0"
+                        }
+                      }
+                    }
+                  },
+                  "custom_css": null
+                }
+              ]
+            }
+          },
+          "editor_settings": {
+            "title": "Testimonials standalone section"
+          },
+          "version": "0.0"
+        },
+        {
+          "id": "10feca9e",
+          "elType": "widget",
+          "settings": {
+            "component_instance": {
+              "$$type": "component-instance",
+              "value": {
+                "component_id": {
+                  "$$type": "number",
+                  "value": 1140
+                }
+              }
+            }
+          },
+          "elements": [],
+          "widgetType": "e-component",
+          "editor_settings": {
+            "title": "Shared Service Areas"
+          },
+          "version": "0.0"
+        },
+        {
+          "id": "37feb023",
+          "elType": "widget",
+          "settings": {
+            "component_instance": {
+              "$$type": "component-instance",
+              "value": {
+                "component_id": {
+                  "$$type": "number",
+                  "value": 80
+                },
+                "overrides": {
+                  "$$type": "overrides",
+                  "value": [
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "title",
+                        "override_value": {
+                          "$$type": "escaped-html",
+                          "value": "Discuss Your Restoration Needs"
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 80
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "description",
+                        "override_value": {
+                          "$$type": "escaped-html",
+                          "value": "Send a service request or contact GCPRO for the next step."
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 80
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "cta_text",
+                        "override_value": {
+                          "$$type": "escaped-html",
+                          "value": "CALL 847-656-3322"
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 80
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "cta_link",
+                        "override_value": {
+                          "$$type": "link",
+                          "value": {
+                            "destination": {
+                              "$$type": "url",
+                              "value": "tel:+18476563322"
+                            },
+                            "isTargetBlank": {
+                              "$$type": "boolean",
+                              "value": false
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "a"
+                            }
+                          }
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 80
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "secondary_text",
+                        "override_value": {
+                          "$$type": "escaped-html",
+                          "value": "REQUEST SERVICE"
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 80
+                        }
+                      }
+                    },
+                    {
+                      "$$type": "override",
+                      "value": {
+                        "override_key": "secondary_link",
+                        "override_value": {
+                          "$$type": "link",
+                          "value": {
+                            "destination": {
+                              "$$type": "url",
+                              "value": "#"
+                            },
+                            "isTargetBlank": {
+                              "$$type": "boolean",
+                              "value": false
+                            },
+                            "tag": {
+                              "$$type": "string",
+                              "value": "a"
+                            }
+                          }
+                        },
+                        "schema_source": {
+                          "type": "component",
+                          "id": 80
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "elements": [],
+          "widgetType": "e-component",
+          "styles": {
+            "e-650e6d9d-8be7": {
+              "id": "e-650e6d9d-8be7",
+              "label": "local",
+              "type": "class",
+              "variants": []
+            }
+          },
+          "editor_settings": {
+            "title": "10 Final CTA"
+          },
+          "version": "0.0"
+        }
+      ],
+      "isInner": false,
+      "styles": {
+        "e-685133d2-110f": {
+          "id": "e-685133d2-110f",
+          "label": "local",
+          "type": "class",
+          "variants": [
+            {
+              "meta": {
+                "breakpoint": "desktop",
+                "state": null
+              },
+              "props": [],
+              "custom_css": null
+            }
+          ]
+        }
+      },
+      "editor_settings": {
+        "title": "GCPRO Homepage Main"
+      },
+      "version": "0.0"
+    }
+  ]
+}

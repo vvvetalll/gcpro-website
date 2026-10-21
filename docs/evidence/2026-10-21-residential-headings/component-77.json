@@ -1,0 +1,272 @@
+{
+  "elements": [
+    {
+      "id": "1a39a5fc",
+      "elType": "e-div-block",
+      "title": "Section",
+      "elements": [
+        {
+          "id": "7a0e8404",
+          "elType": "e-div-block",
+          "title": "Container",
+          "elements": [
+            {
+              "id": "737f2e76",
+              "elType": "e-div-block",
+              "title": "Layout",
+              "elements": [
+                {
+                  "id": "26cea43c",
+                  "elType": "e-div-block",
+                  "title": "Copy",
+                  "elements": [
+                    {
+                      "id": "5b990eed",
+                      "elType": "widget",
+                      "widgetType": "e-component",
+                      "title": "Heading",
+                      "interactions": [],
+                      "settings": {
+                        "component_instance": {
+                          "component_id": 71,
+                          "overrides": [
+                            {
+                              "override_key": "eyebrow",
+                              "origin_value": {
+                                "$$type": "override",
+                                "value": {
+                                  "override_key": "eyebrow",
+                                  "override_value": {
+                                    "$$type": "escaped-html",
+                                    "value": ""
+                                  },
+                                  "schema_source": {
+                                    "type": "component",
+                                    "id": 71
+                                  }
+                                }
+                              }
+                            },
+                            {
+                              "override_key": "title",
+                              "origin_value": {
+                                "$$type": "override",
+                                "value": {
+                                  "override_key": "title",
+                                  "override_value": {
+                                    "$$type": "escaped-html",
+                                    "value": "Show the story behind your service"
+                                  },
+                                  "schema_source": {
+                                    "type": "component",
+                                    "id": 71
+                                  }
+                                }
+                              }
+                            },
+                            {
+                              "override_key": "heading_tag",
+                              "origin_value": {
+                                "$$type": "override",
+                                "value": {
+                                  "override_key": "heading_tag",
+                                  "override_value": {
+                                    "$$type": "string",
+                                    "value": "h2"
+                                  },
+                                  "schema_source": {
+                                    "type": "component",
+                                    "id": 71
+                                  }
+                                }
+                              }
+                            },
+                            {
+                              "override_key": "description",
+                              "origin_value": {
+                                "$$type": "override",
+                                "value": {
+                                  "override_key": "description",
+                                  "override_value": {
+                                    "$$type": "escaped-html",
+                                    "value": "Replace this starter copy with a specific benefit for the client’s audience."
+                                  },
+                                  "schema_source": {
+                                    "type": "component",
+                                    "id": 71
+                                  }
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      "styles": [],
+                      "tag": "div"
+                    },
+                    {
+                      "id": "165b35c",
+                      "elType": "widget",
+                      "widgetType": "e-component",
+                      "title": "CTA",
+                      "interactions": [],
+                      "settings": {
+                        "component_instance": {
+                          "component_id": 53,
+                          "overrides": [
+                            {
+                              "override_key": "cta_text",
+                              "origin_value": {
+                                "$$type": "override",
+                                "value": {
+                                  "override_key": "text",
+                                  "override_value": {
+                                    "$$type": "escaped-html",
+                                    "value": "Find out more"
+                                  },
+                                  "schema_source": {
+                                    "type": "component",
+                                    "id": 53
+                                  }
+                                }
+                              }
+                            },
+                            {
+                              "override_key": "cta_link",
+                              "origin_value": {
+                                "$$type": "override",
+                                "value": {
+                                  "override_key": "link",
+                                  "override_value": {
+                                    "$$type": "link",
+                                    "value": {
+                                      "destination": {
+                                        "$$type": "url",
+                                        "value": "#robylo-content"
+                                      },
+                                      "isTargetBlank": {
+                                        "$$type": "boolean",
+                                        "value": false
+                                      },
+                                      "tag": {
+                                        "$$type": "string",
+                                        "value": "a"
+                                      }
+                                    }
+                                  },
+                                  "schema_source": {
+                                    "type": "component",
+                                    "id": 53
+                                  }
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      "styles": [],
+                      "tag": "div"
+                    }
+                  ],
+                  "interactions": [],
+                  "settings": {
+                    "classes": [
+                      "g-6f5f11a",
+                      "g-a537304",
+                      "e-7ac7f394-d894"
+                    ]
+                  },
+                  "styles": {
+                    "__style_id": "e-7ac7f394-d894",
+                    "css": "align-items: flex-start;"
+                  },
+                  "tag": "div",
+                  "default_styles": ".e-con{position:relative;width:100%;min-width:0;}\n.elementor .e-div-block-base{min-width:30px;padding:10px;display:block;}"
+                },
+                {
+                  "id": "1fb31318",
+                  "elType": "widget",
+                  "widgetType": "e-image",
+                  "title": "Image",
+                  "interactions": [],
+                  "settings": {
+                    "classes": [
+                      "e-6007286-3d05"
+                    ],
+                    "image": {
+                      "override_key": "image",
+                      "origin_value": {
+                        "$$type": "image",
+                        "value": {
+                          "src": {
+                            "$$type": "image-src",
+                            "value": {
+                              "url": {
+                                "$$type": "url",
+                                "value": ""
+                              },
+                              "alt": {
+                                "$$type": "string",
+                                "value": ""
+                              }
+                            }
+                          },
+                          "size": {
+                            "$$type": "string",
+                            "value": "full"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "styles": {
+                    "__style_id": "e-6007286-3d05",
+                    "css": "height: auto; max-width: 100%; border-radius: var(--space-xs); &:not([src]):not(:has(img)), &[src=\"\"] { display: none; }"
+                  },
+                  "tag": "img",
+                  "default_styles": ".elementor .e-image-link-base{width:fit-content;all:unset;cursor:pointer;display:inherit;}.elementor .e-image-base{display:block;}"
+                }
+              ],
+              "interactions": [],
+              "settings": {
+                "classes": [
+                  "g-9b8782d",
+                  "e-3922a6a1-4b74"
+                ]
+              },
+              "styles": {
+                "__style_id": "e-3922a6a1-4b74",
+                "css": "align-items: center; &:not(:has(img[src]:not([src=\"\"]))) { grid-template-columns: minmax(0, 1fr); }"
+              },
+              "tag": "div",
+              "default_styles": ".e-con{position:relative;width:100%;min-width:0;}\n.elementor .e-div-block-base{min-width:30px;padding:10px;display:block;}"
+            }
+          ],
+          "interactions": [],
+          "settings": {
+            "classes": [
+              "g-68fb534"
+            ]
+          },
+          "styles": [],
+          "tag": "div",
+          "default_styles": ".e-con{position:relative;width:100%;min-width:0;}\n.elementor .e-div-block-base{min-width:30px;padding:10px;display:block;}"
+        }
+      ],
+      "interactions": [],
+      "settings": {
+        "classes": [
+          "g-d3248b3",
+          "e-32bcc622-bdf6"
+        ],
+        "tag": "section"
+      },
+      "styles": {
+        "__style_id": "e-32bcc622-bdf6",
+        "css": "background-color: var(--color-background);"
+      },
+      "tag": "section",
+      "default_styles": ".e-con{position:relative;width:100%;min-width:0;margin-inline-start:auto;margin-inline-end:auto;max-width:100%;}\n.elementor .e-div-block-base{min-width:30px;padding:10px;display:block;}"
+    }
+  ]
+}

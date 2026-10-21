@@ -1,0 +1,93 @@
+{
+  "elements": [
+    {
+      "id": "1c84f24b",
+      "elType": "e-div-block",
+      "title": "Heading",
+      "elements": [
+        {
+          "id": "7e688b7b",
+          "elType": "widget",
+          "widgetType": "e-paragraph",
+          "title": "Optional Numbered Eyebrow",
+          "interactions": [],
+          "settings": {
+            "classes": [
+              "g-b12aa04",
+              "g-dea53d0"
+            ],
+            "paragraph": {
+              "override_key": "eyebrow",
+              "origin_value": {
+                "$$type": "escaped-html",
+                "value": ""
+              }
+            },
+            "tag": "p"
+          },
+          "styles": [],
+          "tag": "p",
+          "default_styles": ".elementor .e-paragraph-base{margin:0px;}.elementor .e-paragraph-link-base{all:unset;cursor:pointer;}\n.elementor .e-default-p{font-family:var(--font-body);font-weight:400;font-size:var(--font-size-body);color:var(--color-text);line-height:1.6;margin:0px;cursor: auto; overflow-wrap: anywhere;\\n}"
+        },
+        {
+          "id": "22bb7fb2",
+          "elType": "widget",
+          "widgetType": "e-heading",
+          "title": "Title",
+          "interactions": [],
+          "settings": {
+            "tag": {
+              "override_key": "heading_tag",
+              "origin_value": {
+                "$$type": "string",
+                "value": "h2"
+              }
+            },
+            "title": {
+              "override_key": "title",
+              "origin_value": {
+                "$$type": "escaped-html",
+                "value": "A clear section heading"
+              }
+            }
+          },
+          "styles": [],
+          "tag": "h2",
+          "default_styles": ".elementor .e-heading-base{margin:0px;}.elementor .e-heading-link-base{all:unset;cursor:pointer;}\n.elementor .e-default-h2{font-family:var(--font-heading);font-weight:700;font-size:32px;color:var(--color-text);line-height:1.15;text-transform:uppercase;margin:0px;cursor: auto; overflow-wrap: anywhere;\\n}@media(max-width:1024px){.elementor .e-default-h2{font-size:28px;}}@media(max-width:767px){.elementor .e-default-h2{font-size:24px;}}"
+        },
+        {
+          "id": "260bd244",
+          "elType": "widget",
+          "widgetType": "e-paragraph",
+          "title": "Description",
+          "interactions": [],
+          "settings": {
+            "classes": [
+              "g-dea53d0"
+            ],
+            "paragraph": {
+              "override_key": "description",
+              "origin_value": {
+                "$$type": "escaped-html",
+                "value": "Explain the client benefit in one clear sentence."
+              }
+            },
+            "tag": "p"
+          },
+          "styles": [],
+          "tag": "p",
+          "default_styles": ".elementor .e-paragraph-base{margin:0px;}.elementor .e-paragraph-link-base{all:unset;cursor:pointer;}\n.elementor .e-default-p{font-family:var(--font-body);font-weight:400;font-size:var(--font-size-body);color:var(--color-text);line-height:1.6;margin:0px;cursor: auto; overflow-wrap: anywhere;\\n}"
+        }
+      ],
+      "interactions": [],
+      "settings": {
+        "classes": [
+          "g-6f5f11a"
+        ]
+      },
+      "styles": [],
+      "tag": "div",
+      "default_styles": ".e-con{position:relative;width:100%;min-width:0;margin-inline-start:auto;margin-inline-end:auto;max-width:100%;}\n.elementor .e-div-block-base{min-width:30px;padding:10px;display:block;}"
+    }
+  ]
+}

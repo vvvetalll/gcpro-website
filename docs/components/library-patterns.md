@@ -1,5 +1,7 @@
 # Additional Atomic library patterns
 
+E78: Image+Text77 forwards optional eyebrow to its existing nested Section Heading71 and reuses section-heading--accent on Copy. Existing image/action/heading Override keys retained; root now1a39a5fc. No new definition/class/code. [Owners and verification](residential-services.md#e78--numbered-heading-consistency-and-native-residential-entry-link).
+
 **E77 current:** First service hub uses established62/77/83, while actual Homepage Why/Process/Areas designs are promoted to1149/1152/1140 for shared reuse rather than visually different alternatives. [Current exact locations and checks](residential-services.md).
 
 **E58,2026-10-20:** Shared Hero74's Copy2bd621f1 gains empty gcpro-cta-origin g-b9ab0d8, ending at its existing CTA. Native styles, content, component overrides and links unchanged. This configures future Hero consumers for the one global navigation controller903; no script is stored in Hero74. [Reuse instructions](smart-navigation.md#responsive-behavior-and-configuration).

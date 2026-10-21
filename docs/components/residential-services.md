@@ -1,5 +1,37 @@
 # Residential Services — E77, 2026-10-21
 
+## E78 — numbered heading consistency and native Residential entry link
+
+2026-10-21, staging only. Seven main content sections now use the established numbered-eyebrow/H2/orange-line/intro system:
+
+| Number / editable label | Existing owner |
+| --- | --- |
+| 01 / RESIDENTIAL SERVICES | Page484 Section Heading71 instance48d8e79c |
+| 02 / RESTORATION SOLUTIONS | Page484 Image+Text77 instance26c8a5b5 → existing nested71 |
+| 03 / OUR PROCESS | Page484 shared1152 instance5412e337, existing eyebrow Override |
+| 04 / WHY GCPRO | Page484 shared1149 instance225936ef, existing ebd1102 eyebrow Override |
+| 05 / REAL RESULTS | Page484 Section Heading71 instance5cd7bb8a |
+| 06 / LOCAL COVERAGE | Page484 shared1140 instance5ced3ca1, existing eyebrow Override |
+| 07 / HOMEOWNER QUESTIONS | Page484 Section Heading71 instance44dce85e |
+
+Hero retains its single uppercase H1. Final conversion CTA80 retains the approved shared Homepage format and animation; it is separate from the numbered content sequence. All H2/H3 titles, descriptions, images, links, service/project/FAQ content and layouts are preserved.
+
+**Shared settings:** existing Section Heading71 now exposes one optional `eyebrow` content field (empty default). Root1c84f24b: existing stack → paragraph using existing section-eyebrow + hide-empty, H2 and optional description. Original title/heading_tag/description keys/defaults retained. Empty eyebrows render display:none on Homepage consumers, so its visible numbering/design is unchanged. No new heading Component or style variant.
+
+Existing Image+Text77 root1a39a5fc forwards `eyebrow` to its existing nested71; original title/tag/description/image/CTA Overrides remain independent. Its native Copy wrapper reuses section-heading--accent; no new CSS rule. Existing image/split layout/conditional image hiding rules preserved. No Homepage77 instance exists. Component internals received regenerated native IDs when the existing definitions were updated; component IDs/UIDs and original public Override keys remain stable.
+
+Page484 native containers1c714b47, the Results heading container and FAQ heading container gain existing section-heading--accent g-a537304. This reuses its existing `.section-heading--accent > .stack > h2::after` rule. Shared Why retains its original native orange Divider; Process/Service Areas retain their original accent-class ownership. Only instance labels and these three existing-class assignments change in the saved Page tree.52 Page nodes retained. No new Global Class, Global Variable, Atomic Component, Custom Code, CSS/JS/PHP file, plugin or dependency. Existing590/847/903, BEAF records/shortcodes/styles, Header113/Footer114 and other shared section definitions are unchanged.
+
+**Homepage native link:** existing whole Residential card154/4c8810dc now uses native Dynamic Tags → Internal URL → Page484. Previously `#`; no manual staging/production URL. The existing child heading remains within the single anchor; zero nested anchors. Existing WordPress menu item109 is already `type=post_type`, `object=page`, `object_id=484`, reused by desktop/mobile Header renderings; verified both resolve to `/residential-services/`. No new duplicate menu items or links on explanatory body text. No other Homepage saved field changed, confirmed after excluding only this card's link from comparison. No URL, parent, publication, redirect or inventory-row changes.
+
+**Verification:** Chrome viewport simulation360/393/430/768/1024/1280/1440 shows exact01–07 sequence, existing font/uppercase behavior, orange line on all seven content H2s, no text clipping/horizontal overflow, one uppercase H1 and two initialized Residential comparisons. Existing Page body destinations are unchanged. Homepage visible eyebrows remain01 WHO WE HELP /02 RESTORATION SERVICES /03 OUR PROCESS /04 OUR WORK /05 WHY GCPRO /TESTIMONIALS /06 COVERAGE AREA; all added optional eyebrow nodes are empty/hidden. Four Homepage comparisons initialize after load. Actual click on the Residential card navigates to Page484. Header/Footer native settings exactly match the pre-E78 backups. Source comparison proves all Residential content/links/BEAF nodes unchanged except approved eyebrow Overrides and accent-class assignments. Desktop/mobile screenshots saved for owner review.
+
+Elementor Tools Clear Files & Data completed successfully. No new editor-session certification, physical-device test or anonymous/incognito certification is claimed; prior editor-loading/external403 limits remain. This heading-only change did not retest every BEAF drag/popup state; prior E77 interaction evidence remains dated.
+
+**Editing:** [Section Heading71](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=71&action=elementor), [Image+Text77](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=77&action=elementor). Set page-specific labels through supported content Overrides; do not edit shared defaults for one Page or add per-page CSS. Maintain sequence when inserting/reordering content sections. Keep Homepage's optional eyebrow values empty where it already supplies an outer label.
+
+**Rollback:** restore only Page484 pre-E78 eyebrow Overrides/classes and Homepage card's previous link from private backups. Restore pre-E78 definitions71/77 (original exposed keys, styles and defaults) together if removing the new optional control. Preserve other Pages/Components/menus; clear Elementor rendering cache and verify both consumers. Public sanitized final native state and responsive evidence: `docs/evidence/2026-10-21-residential-headings/`. Raw admin backups remain outside Git.
+
 Implemented on staging only: [Residential Services](https://vitaliiv1.sg-host.com/residential-services/), existing Published Page484, unchanged slug/parent. This supersedes the initial E77 trial variants: the independently assembled cities and white benefit cards were removed. Shared section types retain the Homepage design; only content differs through native Overrides.
 
 ## Exact owners and reuse
