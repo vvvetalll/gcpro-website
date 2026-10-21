@@ -1,0 +1,309 @@
+{
+  "id": 1008,
+  "tree": [
+    {
+      "id": "6d9d9a1d",
+      "elType": "e-div-block",
+      "settings": {
+        "classes": {
+          "$$type": "classes",
+          "value": [
+            "g-d3248b3"
+          ]
+        },
+        "tag": {
+          "$$type": "string",
+          "value": "section"
+        }
+      },
+      "elements": [
+        {
+          "id": "6c88017d",
+          "elType": "e-div-block",
+          "settings": {
+            "classes": {
+              "$$type": "classes",
+              "value": [
+                "g-68fb534",
+                "g-6f5f11a",
+                "e-6292723f-ea4a"
+              ]
+            }
+          },
+          "elements": [
+            {
+              "id": "ba5d136",
+              "elType": "widget",
+              "settings": {
+                "tag": {
+                  "$$type": "string",
+                  "value": "h1"
+                },
+                "title": {
+                  "$$type": "dynamic",
+                  "value": {
+                    "name": "post-title",
+                    "group": "post",
+                    "settings": {
+                      "before": {
+                        "$$type": "string",
+                        "value": ""
+                      },
+                      "after": {
+                        "$$type": "string",
+                        "value": ""
+                      }
+                    }
+                  }
+                }
+              },
+              "elements": [],
+              "widgetType": "e-heading",
+              "editor_settings": {
+                "title": "Page Title"
+              },
+              "version": "0.0"
+            },
+            {
+              "id": "46afb93d",
+              "elType": "widget",
+              "settings": {
+                "classes": {
+                  "$$type": "classes",
+                  "value": [
+                    "g-68bba82",
+                    "e-c555088-221f"
+                  ]
+                },
+                "paragraph": {
+                  "$$type": "escaped-html",
+                  "value": "Staging structure preview. Detailed content and page design are in development."
+                }
+              },
+              "elements": [],
+              "widgetType": "e-paragraph",
+              "styles": {
+                "e-c555088-221f": {
+                  "id": "e-c555088-221f",
+                  "label": "local",
+                  "type": "class",
+                  "variants": [
+                    {
+                      "meta": {
+                        "breakpoint": "desktop",
+                        "state": null
+                      },
+                      "props": {
+                        "font-weight": {
+                          "$$type": "string",
+                          "value": "400"
+                        },
+                        "text-transform": {
+                          "$$type": "string",
+                          "value": "none"
+                        }
+                      },
+                      "custom_css": null
+                    }
+                  ]
+                }
+              },
+              "editor_settings": {
+                "title": "Preview Notice"
+              },
+              "version": "0.0"
+            },
+            {
+              "id": "76ea3b3e",
+              "elType": "e-div-block",
+              "settings": {
+                "classes": {
+                  "$$type": "classes",
+                  "value": [
+                    "e-40d3025d-148a"
+                  ]
+                }
+              },
+              "elements": [
+                {
+                  "id": "43f3b646",
+                  "elType": "widget",
+                  "settings": [],
+                  "elements": [],
+                  "widgetType": "theme-post-content"
+                }
+              ],
+              "isInner": false,
+              "styles": {
+                "e-40d3025d-148a": {
+                  "id": "e-40d3025d-148a",
+                  "label": "local",
+                  "type": "class",
+                  "variants": [
+                    {
+                      "meta": {
+                        "breakpoint": "desktop",
+                        "state": null
+                      },
+                      "props": {
+                        "font-family": {
+                          "$$type": "global-font-variable",
+                          "value": "e-gv-c82d6d2"
+                        },
+                        "font-weight": {
+                          "$$type": "string",
+                          "value": "400"
+                        },
+                        "font-size": {
+                          "$$type": "global-size-variable",
+                          "value": "e-gv-c850a5e"
+                        },
+                        "line-height": {
+                          "$$type": "size",
+                          "value": {
+                            "size": "2.75",
+                            "unit": "custom"
+                          }
+                        },
+                        "text-transform": {
+                          "$$type": "string",
+                          "value": "none"
+                        },
+                        "padding": {
+                          "$$type": "size",
+                          "value": {
+                            "size": 0,
+                            "unit": "px"
+                          }
+                        }
+                      },
+                      "custom_css": null
+                    }
+                  ]
+                }
+              },
+              "editor_settings": {
+                "title": "Page Body"
+              },
+              "version": "0.0"
+            }
+          ],
+          "isInner": false,
+          "styles": {
+            "e-6292723f-ea4a": {
+              "id": "e-6292723f-ea4a",
+              "label": "local",
+              "type": "class",
+              "variants": [
+                {
+                  "meta": {
+                    "breakpoint": "desktop",
+                    "state": null
+                  },
+                  "props": {
+                    "gap": {
+                      "$$type": "global-size-variable",
+                      "value": "e-gv-a0a0c34"
+                    }
+                  },
+                  "custom_css": null
+                }
+              ]
+            }
+          },
+          "editor_settings": {
+            "title": "Page Container"
+          },
+          "version": "0.0"
+        }
+      ],
+      "isInner": false,
+      "editor_settings": {
+        "title": "Structure Preview"
+      },
+      "version": "0.0"
+    }
+  ],
+  "conditions": [
+    "include/singular/page/498",
+    "include/singular/page/565",
+    "include/singular/page/557",
+    "include/singular/page/544",
+    "include/singular/page/552",
+    "include/singular/page/496",
+    "include/singular/page/556",
+    "include/singular/page/484",
+    "include/singular/page/486",
+    "include/singular/page/487",
+    "include/singular/page/488",
+    "include/singular/page/489",
+    "include/singular/page/490",
+    "include/singular/page/491",
+    "include/singular/page/492",
+    "include/singular/page/493",
+    "include/singular/page/495",
+    "include/singular/page/497",
+    "include/singular/page/499",
+    "include/singular/page/514",
+    "include/singular/page/515",
+    "include/singular/page/516",
+    "include/singular/page/517",
+    "include/singular/page/518",
+    "include/singular/page/519",
+    "include/singular/page/520",
+    "include/singular/page/521",
+    "include/singular/page/522",
+    "include/singular/page/523",
+    "include/singular/page/524",
+    "include/singular/page/525",
+    "include/singular/page/526",
+    "include/singular/page/527",
+    "include/singular/page/528",
+    "include/singular/page/529",
+    "include/singular/page/530",
+    "include/singular/page/531",
+    "include/singular/page/532",
+    "include/singular/page/533",
+    "include/singular/page/534",
+    "include/singular/page/535",
+    "include/singular/page/536",
+    "include/singular/page/537",
+    "include/singular/page/538",
+    "include/singular/page/539",
+    "include/singular/page/540",
+    "include/singular/page/541",
+    "include/singular/page/542",
+    "include/singular/page/543",
+    "include/singular/page/545",
+    "include/singular/page/546",
+    "include/singular/page/547",
+    "include/singular/page/548",
+    "include/singular/page/549",
+    "include/singular/page/550",
+    "include/singular/page/551",
+    "include/singular/page/553",
+    "include/singular/page/554",
+    "include/singular/page/555",
+    "include/singular/page/558",
+    "include/singular/page/559",
+    "include/singular/page/560",
+    "include/singular/page/561",
+    "include/singular/page/562",
+    "include/singular/page/563",
+    "include/singular/page/564",
+    "include/singular/page/566",
+    "include/singular/page/567",
+    "include/singular/page/568",
+    "include/singular/page/569",
+    "include/singular/page/570",
+    "include/singular/page/571",
+    "include/singular/page/572",
+    "include/singular/page/573",
+    "include/singular/page/574",
+    "include/singular/page/575",
+    "include/singular/page/576",
+    "include/singular/page/577",
+    "include/singular/page/1007",
+    "include/singular/page/1132"
+  ]
+}

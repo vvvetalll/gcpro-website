@@ -1,5 +1,9 @@
 # GCPRO workflows
 
+**Current E76,2026-10-21:** Projects now links to real structural Page1132 `/portfolio/`, with native All Projects / Before & After dropdown. Existing13 project records/URLs untouched. Standard-grid five-item Header and utility Partner Programs retained.93 staging Pages:88 Published/5 Draft;321 migration rows. No new E76 CSS/JS/classes/plugins/dependencies. [Exact storage, checks and limitations](audits/2026-10-21-projects-navigation.md).
+
+**Current E75 (includes pending E74 sync), 2026-10-21:** Staging structural publication:92 Pages,87 Published/5 Draft;84 newly published approved targets including Resources1007,51 city Pages and Partner982–986. Native shared Single Page1008 supplies79 structural placeholders. Final service-first Header113:five main sections (Residential/Commercial/Service Areas/Projects/About), utility Partner Programs with four children/Careers/Contact Us; Blog and Our Team await real staging destinations. Standard1200px grid/logo sizes retained, native toggle below1200, one complete mobile menu. No production/BEAF/Footer/Homepage-content/903 edits.321 canonical migration rows preserve prior source mappings/decisions. [Exact storage, tests, limitations and rollback](audits/2026-10-21-staging-structure-and-navigation.md) · [Actual hierarchy](SITEMAP.md).
+
 **E67 footer link follow-up:** All six corresponding service destinations remain Draft; do not add placeholders or publish pages to supply footer links. Exact candidate object IDs/statuses and native-link activation procedure are in the [responsive footer record](audits/2026-10-20-footer-responsive.md#service-navigation-and-preserved-destinations). Existing footer contact/social/Maps/#top URLs are unchanged.
 
 ## Phase 1 maintenance note — E57

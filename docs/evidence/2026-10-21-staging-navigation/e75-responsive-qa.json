@@ -1,0 +1,231 @@
+[
+  {
+    "ctaGap": null,
+    "gridWidth": 360,
+    "items": [],
+    "logoGap": null,
+    "logoWidth": 140,
+    "overflow": 0,
+    "toggle": true,
+    "utility": [],
+    "width": 360
+  },
+  {
+    "ctaGap": null,
+    "gridWidth": 393.3333435058594,
+    "items": [],
+    "logoGap": null,
+    "logoWidth": 140,
+    "overflow": 0,
+    "toggle": true,
+    "utility": [],
+    "width": 393
+  },
+  {
+    "ctaGap": null,
+    "gridWidth": 430,
+    "items": [],
+    "logoGap": null,
+    "logoWidth": 140,
+    "overflow": 0,
+    "toggle": true,
+    "utility": [],
+    "width": 430
+  },
+  {
+    "ctaGap": null,
+    "gridWidth": 752.6666870117188,
+    "items": [],
+    "logoGap": null,
+    "logoWidth": 200,
+    "overflow": 0,
+    "toggle": true,
+    "utility": [],
+    "width": 768
+  },
+  {
+    "ctaGap": null,
+    "gridWidth": 1008.6666870117188,
+    "items": [],
+    "logoGap": null,
+    "logoWidth": 200,
+    "overflow": 0,
+    "toggle": true,
+    "utility": [],
+    "width": 1024
+  },
+  {
+    "ctaGap": null,
+    "gridWidth": 1084.666748046875,
+    "items": [],
+    "logoGap": null,
+    "logoWidth": 200,
+    "overflow": 0,
+    "toggle": true,
+    "utility": [
+      "Partner Programs",
+      "Careers",
+      "Contact Us"
+    ],
+    "width": 1100
+  },
+  {
+    "ctaGap": null,
+    "gridWidth": 1184,
+    "items": [],
+    "logoGap": null,
+    "logoWidth": 200,
+    "overflow": 0,
+    "toggle": true,
+    "utility": [
+      "Partner Programs",
+      "Careers",
+      "Contact Us"
+    ],
+    "width": 1199
+  },
+  {
+    "ctaGap": 82.5208740234375,
+    "gridWidth": 1184.666748046875,
+    "items": [
+      {
+        "font": "16px",
+        "text": "Residential"
+      },
+      {
+        "font": "16px",
+        "text": "Commercial"
+      },
+      {
+        "font": "16px",
+        "text": "Service Areas"
+      },
+      {
+        "font": "16px",
+        "text": "Projects"
+      },
+      {
+        "font": "16px",
+        "text": "About"
+      }
+    ],
+    "logoGap": 77.25,
+    "logoWidth": 200,
+    "overflow": 0,
+    "toggle": false,
+    "utility": [
+      "Partner Programs",
+      "Careers",
+      "Contact Us"
+    ],
+    "width": 1200
+  },
+  {
+    "ctaGap": 86.5728759765625,
+    "gridWidth": 1200,
+    "items": [
+      {
+        "font": "16px",
+        "text": "Residential"
+      },
+      {
+        "font": "16px",
+        "text": "Commercial"
+      },
+      {
+        "font": "16px",
+        "text": "Service Areas"
+      },
+      {
+        "font": "16px",
+        "text": "Projects"
+      },
+      {
+        "font": "16px",
+        "text": "About"
+      }
+    ],
+    "logoGap": 78.90625762939453,
+    "logoWidth": 200,
+    "overflow": 0,
+    "toggle": false,
+    "utility": [
+      "Partner Programs",
+      "Careers",
+      "Contact Us"
+    ],
+    "width": 1280
+  },
+  {
+    "ctaGap": 86.09375,
+    "gridWidth": 1200,
+    "items": [
+      {
+        "font": "16px",
+        "text": "Residential"
+      },
+      {
+        "font": "16px",
+        "text": "Commercial"
+      },
+      {
+        "font": "16px",
+        "text": "Service Areas"
+      },
+      {
+        "font": "16px",
+        "text": "Projects"
+      },
+      {
+        "font": "16px",
+        "text": "About"
+      }
+    ],
+    "logoGap": 78.09375,
+    "logoWidth": 200,
+    "overflow": 0,
+    "toggle": false,
+    "utility": [
+      "Partner Programs",
+      "Careers",
+      "Contact Us"
+    ],
+    "width": 1440
+  },
+  {
+    "ctaGap": 86.09375,
+    "gridWidth": 1200,
+    "items": [
+      {
+        "font": "16px",
+        "text": "Residential"
+      },
+      {
+        "font": "16px",
+        "text": "Commercial"
+      },
+      {
+        "font": "16px",
+        "text": "Service Areas"
+      },
+      {
+        "font": "16px",
+        "text": "Projects"
+      },
+      {
+        "font": "16px",
+        "text": "About"
+      }
+    ],
+    "logoGap": 78.09378051757812,
+    "logoWidth": 200,
+    "overflow": 0,
+    "toggle": false,
+    "utility": [
+      "Partner Programs",
+      "Careers",
+      "Contact Us"
+    ],
+    "width": 1920
+  }
+]

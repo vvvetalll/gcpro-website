@@ -1,0 +1,936 @@
+{
+  "checked_at_utc": "2026-10-21T16:40:18.510493+00:00",
+  "environment": "https://vitaliiv1.sg-host.com",
+  "anonymous": true,
+  "results": [
+    {
+      "id": 1007,
+      "url": "https://vitaliiv1.sg-host.com/resources/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 982,
+      "url": "https://vitaliiv1.sg-host.com/partner-programs/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": false
+    },
+    {
+      "id": 499,
+      "url": "https://vitaliiv1.sg-host.com/commercial-services/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 498,
+      "url": "https://vitaliiv1.sg-host.com/testimonials/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 497,
+      "url": "https://vitaliiv1.sg-host.com/about-us/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 496,
+      "url": "https://vitaliiv1.sg-host.com/contact-us/",
+      "http": 403
+    },
+    {
+      "id": 495,
+      "url": "https://vitaliiv1.sg-host.com/service-area/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 493,
+      "url": "https://vitaliiv1.sg-host.com/before-and-after/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 490,
+      "url": "https://vitaliiv1.sg-host.com/moisture-mapping/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 491,
+      "url": "https://vitaliiv1.sg-host.com/dehumidification/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 492,
+      "url": "https://vitaliiv1.sg-host.com/service-request/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 489,
+      "url": "https://vitaliiv1.sg-host.com/odor-removal/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 488,
+      "url": "https://vitaliiv1.sg-host.com/board-up/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 487,
+      "url": "https://vitaliiv1.sg-host.com/water-extraction/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 486,
+      "url": "https://vitaliiv1.sg-host.com/apply/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 986,
+      "url": "https://vitaliiv1.sg-host.com/partner-programs/commercial-partnership-programs/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": false
+    },
+    {
+      "id": 985,
+      "url": "https://vitaliiv1.sg-host.com/partner-programs/condominium-hoa-program/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": false
+    },
+    {
+      "id": 984,
+      "url": "https://vitaliiv1.sg-host.com/partner-programs/insurance-agent-program/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": false
+    },
+    {
+      "id": 983,
+      "url": "https://vitaliiv1.sg-host.com/partner-programs/plumber-support-program/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": false
+    },
+    {
+      "id": 577,
+      "url": "https://vitaliiv1.sg-host.com/service-area/bensenville/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 576,
+      "url": "https://vitaliiv1.sg-host.com/service-area/chicago-ridge/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 574,
+      "url": "https://vitaliiv1.sg-host.com/service-area/channahon/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 573,
+      "url": "https://vitaliiv1.sg-host.com/service-area/chicago-heights/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 575,
+      "url": "https://vitaliiv1.sg-host.com/service-area/broadview/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 572,
+      "url": "https://vitaliiv1.sg-host.com/service-area/des-plaines/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 571,
+      "url": "https://vitaliiv1.sg-host.com/service-area/kenilworth/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 570,
+      "url": "https://vitaliiv1.sg-host.com/service-area/fox-lake/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 569,
+      "url": "https://vitaliiv1.sg-host.com/service-area/blue-island/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 568,
+      "url": "https://vitaliiv1.sg-host.com/service-area/brookfield/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 567,
+      "url": "https://vitaliiv1.sg-host.com/service-area/bellwood/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 566,
+      "url": "https://vitaliiv1.sg-host.com/service-area/winnetka/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 565,
+      "url": "https://vitaliiv1.sg-host.com/service-area/evanston/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 564,
+      "url": "https://vitaliiv1.sg-host.com/service-area/burbank/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 563,
+      "url": "https://vitaliiv1.sg-host.com/service-area/deerfield/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 562,
+      "url": "https://vitaliiv1.sg-host.com/service-area/niles/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 561,
+      "url": "https://vitaliiv1.sg-host.com/service-area/bartlett/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 560,
+      "url": "https://vitaliiv1.sg-host.com/service-area/alsip/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 559,
+      "url": "https://vitaliiv1.sg-host.com/service-area/arlington-heights/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 558,
+      "url": "https://vitaliiv1.sg-host.com/service-area/schaumburg/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 557,
+      "url": "https://vitaliiv1.sg-host.com/service-area/bolingbrook/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 556,
+      "url": "https://vitaliiv1.sg-host.com/service-area/northbrook/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 555,
+      "url": "https://vitaliiv1.sg-host.com/service-area/wilmette/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 554,
+      "url": "https://vitaliiv1.sg-host.com/service-area/batavia/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 553,
+      "url": "https://vitaliiv1.sg-host.com/service-area/lake-forest/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 551,
+      "url": "https://vitaliiv1.sg-host.com/service-area/buffalo-grove/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 552,
+      "url": "https://vitaliiv1.sg-host.com/service-area/barrington/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 550,
+      "url": "https://vitaliiv1.sg-host.com/service-area/algonquin/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 549,
+      "url": "https://vitaliiv1.sg-host.com/service-area/berwyn/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 548,
+      "url": "https://vitaliiv1.sg-host.com/service-area/calumet-city/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 547,
+      "url": "https://vitaliiv1.sg-host.com/service-area/glencoe/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 546,
+      "url": "https://vitaliiv1.sg-host.com/service-area/villa-park/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 545,
+      "url": "https://vitaliiv1.sg-host.com/service-area/long-grove/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 544,
+      "url": "https://vitaliiv1.sg-host.com/service-area/cary/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 543,
+      "url": "https://vitaliiv1.sg-host.com/service-area/carol-stream/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 542,
+      "url": "https://vitaliiv1.sg-host.com/service-area/glen-ellyn/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 540,
+      "url": "https://vitaliiv1.sg-host.com/service-area/hinsdale/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 539,
+      "url": "https://vitaliiv1.sg-host.com/service-area/carpentersville/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 541,
+      "url": "https://vitaliiv1.sg-host.com/service-area/skokie/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 538,
+      "url": "https://vitaliiv1.sg-host.com/service-area/addison/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 537,
+      "url": "https://vitaliiv1.sg-host.com/service-area/aurora/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 536,
+      "url": "https://vitaliiv1.sg-host.com/service-area/oak-brook/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 535,
+      "url": "https://vitaliiv1.sg-host.com/service-area/antioch/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 534,
+      "url": "https://vitaliiv1.sg-host.com/about-us/careers/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 533,
+      "url": "https://vitaliiv1.sg-host.com/service-area/glenview/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 532,
+      "url": "https://vitaliiv1.sg-host.com/service-area/naperville/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 531,
+      "url": "https://vitaliiv1.sg-host.com/service-area/bridgeview/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 530,
+      "url": "https://vitaliiv1.sg-host.com/service-area/elmhurst/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 529,
+      "url": "https://vitaliiv1.sg-host.com/service-area/elk-grove-village/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 528,
+      "url": "https://vitaliiv1.sg-host.com/service-area/highland-park/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 527,
+      "url": "https://vitaliiv1.sg-host.com/service-area/downers-grove/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 526,
+      "url": "https://vitaliiv1.sg-host.com/service-area/lombard/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 525,
+      "url": "https://vitaliiv1.sg-host.com/commercial-services/personal-property-restoration/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 524,
+      "url": "https://vitaliiv1.sg-host.com/commercial-services/reconstruction/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 523,
+      "url": "https://vitaliiv1.sg-host.com/residential-services/storm-damage/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 522,
+      "url": "https://vitaliiv1.sg-host.com/commercial-services/general-contracting/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 521,
+      "url": "https://vitaliiv1.sg-host.com/residential-services/personal-property-restoration/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 520,
+      "url": "https://vitaliiv1.sg-host.com/commercial-services/fire-smoke/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 519,
+      "url": "https://vitaliiv1.sg-host.com/commercial-services/mold-removal/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 518,
+      "url": "https://vitaliiv1.sg-host.com/residential-services/reconstruction/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 517,
+      "url": "https://vitaliiv1.sg-host.com/residential-services/fire-smoke/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 516,
+      "url": "https://vitaliiv1.sg-host.com/residential-services/mold-removal/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 515,
+      "url": "https://vitaliiv1.sg-host.com/commercial-services/water-damage/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 514,
+      "url": "https://vitaliiv1.sg-host.com/residential-services/water-damage/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 484,
+      "url": "https://vitaliiv1.sg-host.com/residential-services/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": true
+    },
+    {
+      "id": 154,
+      "url": "https://vitaliiv1.sg-host.com/",
+      "http": 200,
+      "h1_count": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "x_robots_tag": null,
+      "template1008": false
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "mobile": {
+    "children": [
+      {
+        "h": 44,
+        "href": "https://vitaliiv1.sg-host.com/portfolio/",
+        "text": "All Projects"
+      },
+      {
+        "h": 44,
+        "href": "https://vitaliiv1.sg-host.com/before-and-after/",
+        "text": "Before & After"
+      }
+    ],
+    "overflow": 0,
+    "projects": [
+      {
+        "expanded": "true",
+        "href": "https://vitaliiv1.sg-host.com/portfolio/"
+      }
+    ],
+    "width": 393
+  },
+  "desktop": {
+    "keyboardSpaceOpens": true,
+    "children": [
+      [
+        "All Projects",
+        "/portfolio/"
+      ],
+      [
+        "Before & After",
+        "/before-and-after/"
+      ]
+    ],
+    "topDestination": "/portfolio/",
+    "followedAllProjects": true
+  },
+  "pageResponsive": [
+    {
+      "h1": [
+        "All Projects"
+      ],
+      "overflow": 0,
+      "robots": "noindex, nofollow",
+      "template1008": true,
+      "width": 360
+    },
+    {
+      "h1": [
+        "All Projects"
+      ],
+      "overflow": 0,
+      "robots": "noindex, nofollow",
+      "template1008": true,
+      "width": 393
+    },
+    {
+      "h1": [
+        "All Projects"
+      ],
+      "overflow": 0,
+      "robots": "noindex, nofollow",
+      "template1008": true,
+      "width": 430
+    },
+    {
+      "h1": [
+        "All Projects"
+      ],
+      "overflow": 0,
+      "robots": "noindex, nofollow",
+      "template1008": true,
+      "width": 768
+    },
+    {
+      "h1": [
+        "All Projects"
+      ],
+      "overflow": 0,
+      "robots": "noindex, nofollow",
+      "template1008": true,
+      "width": 1024
+    },
+    {
+      "h1": [
+        "All Projects"
+      ],
+      "overflow": 0,
+      "robots": "noindex, nofollow",
+      "template1008": true,
+      "width": 1280
+    },
+    {
+      "h1": [
+        "All Projects"
+      ],
+      "overflow": 0,
+      "robots": "noindex, nofollow",
+      "template1008": true,
+      "width": 1440
+    },
+    {
+      "h1": [
+        "All Projects"
+      ],
+      "overflow": 0,
+      "robots": "noindex, nofollow",
+      "template1008": true,
+      "width": 1920
+    }
+  ],
+  "device": "Chrome viewport/touch simulation, not physical Android"
+}

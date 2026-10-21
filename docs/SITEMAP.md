@@ -1,104 +1,123 @@
 # Complete GCPRO hierarchical sitemap
 
-Generated review view,2026-10-21 America/Chicago, from [the canonical migration register](SEO_URL_INVENTORY.csv) and authenticated production admin observations. **320 register records;91 actual staging Pages;86 mapped business/Partner Pages (85 Draft/1 Published) plus5 staging-only fixtures/experiments.** Counts are objects/URL records, not finished designs. Do not edit mappings here; edit the canonical CSV and regenerate this view.
+Current E76, 2026-10-21. **321 migration-register records; 93 actual staging Pages: 88 Published / 5 Draft.** Business/Partner Pages: 86 Published / 2 Draft; five unrelated fixtures: 2 already Published / 3 Draft, unchanged. Publication is for staging structure review, not finished content or production launch. Source-only tables below retain E73 production observations; no new production inspection or mutation was performed in E74/E75.
 
-Legend: **ACTUAL** = saved staging object; **SOURCE ONLY** = production object without own staging import; **INVENTORY ONLY** = route/proposal/operational record. Intended Draft URLs are not public destinations. No redirect, removal or publication approval is implied.
+[Canonical migration register](SEO_URL_INVENTORY.csv) · [Staging Pages](https://vitaliiv1.sg-host.com/wp-admin/edit.php?post_type=page&orderby=title&order=asc) · [Primary menu5](https://vitaliiv1.sg-host.com/wp-admin/nav-menus.php?action=edit&menu=5) · [Utility menu15](https://vitaliiv1.sg-host.com/wp-admin/nav-menus.php?action=edit&menu=15)
+
+## Current Header hierarchy
+
+Primary: Residential → Commercial → Service Areas → Projects → About. Desktop utility: Partner Programs (four existing children), Careers, **Blog pending migration**, Contact Us. Mobile/tablet: one native hamburger menu containing the five primary sections plus Partner Programs, Careers and Contact Us. About contains About GCPRO and Testimonials; **Our Team has no staging destination and stays pending**. Apply is available from Careers. These navigation choices do not change Page parents or URLs.
+
+| Section | Actual staging destination | Placement |
+|---|---|---|
+| Residential | [Residential Services](https://vitaliiv1.sg-host.com/residential-services/) | Primary |
+| Commercial | [Commercial Services](https://vitaliiv1.sg-host.com/commercial-services/) | Primary |
+| Service Areas | [Service Area](https://vitaliiv1.sg-host.com/service-area/) | Primary |
+| Projects | [All Projects](https://vitaliiv1.sg-host.com/portfolio/) | Primary and All Projects child; Before & After second child |
+| About | [About Us](https://vitaliiv1.sg-host.com/about-us/) | Primary |
+| Partner Programs | [Partner Programs](https://vitaliiv1.sg-host.com/partner-programs/) | Utility desktop; hamburger mobile |
+| Resources | [Resources](https://vitaliiv1.sg-host.com/resources/) | Retained page; removed from Header; not a Blog substitute |
+
+Staging Reading → Discourage search engines checked before publication; anonymous pages emit noindex,nofollow. This is not access protection. E74 anonymous HTTP checks:84/85 business URLs return200 with one H1 and noindex; `/contact-us/` returns nginx403 to that client. New E76 `/portfolio/` also returns403 to the external anonymous client, while the connected admin browser opens its page. No security bypass/change was attempted.
 
 ## Actual staging Page hierarchy
 
-[Open staging Pages](https://vitaliiv1.sg-host.com/wp-admin/edit.php?post_type=page&orderby=title&order=asc) · [Prepared Partner navigation](https://vitaliiv1.sg-host.com/wp-admin/nav-menus.php?action=edit&menu=13)
+ACTUAL means a saved WordPress object; Published routes link to the frontend, Drafts link to admin only. Unrelated fixtures/experiments and legal Drafts remain outside navigation. Native shared structural template1008 supplies one H1 and a development notice to80 Pages; Partner Pages982–986 retain their own Atomic shells.
 
-- **ACTUAL [About Us](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=497&action=edit)** — ID497, **draft**, `/about-us/`
-  - **ACTUAL [Careers](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=534&action=edit)** — ID534, **draft**, `/about-us/careers/`
-- **ACTUAL [Apply](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=486&action=edit)** — ID486, **draft**, `/apply/`
-- **ACTUAL [Before And After](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=493&action=edit)** — ID493, **draft**, `/before-and-after/`
-- **ACTUAL [Board Up](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=488&action=edit)** — ID488, **draft**, `/board-up/`
-- **ACTUAL [Commercial Services](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=499&action=edit)** — ID499, **draft**, `/commercial-services/`
-  - **ACTUAL [Fire &amp; Smoke](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=520&action=edit)** — ID520, **draft**, `/commercial-services/fire-smoke/`
-  - **ACTUAL [General Contracting](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=522&action=edit)** — ID522, **draft**, `/commercial-services/general-contracting/`
-  - **ACTUAL [Mold Removal](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=519&action=edit)** — ID519, **draft**, `/commercial-services/mold-removal/`
-  - **ACTUAL [Personal Property Restoration](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=525&action=edit)** — ID525, **draft**, `/commercial-services/personal-property-restoration/`
-  - **ACTUAL [Reconstruction](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=524&action=edit)** — ID524, **draft**, `/commercial-services/reconstruction/`
-  - **ACTUAL [Water Damage](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=515&action=edit)** — ID515, **draft**, `/commercial-services/water-damage/`
-- **ACTUAL [Contact Us](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=496&action=edit)** — ID496, **draft**, `/contact-us/`
-- **ACTUAL [Copyright](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=494&action=edit)** — ID494, **draft**, `/copyright/`
-- **ACTUAL [Dehumidification](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=491&action=edit)** — ID491, **draft**, `/dehumidification/`
-- **ACTUAL [Elementor #7](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=7&action=edit)** — ID7, **draft**, `//` — staging-only fixture/experiment
-- **ACTUAL [GCPRO Homepage — Phase 1 Atomic Wireframe](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=154&action=edit)** — ID154, **publish**, `/`
-- **ACTUAL [GCPRO — Coming Soon](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=12&action=edit)** — ID12, **publish**, `/gcpro-%d0%bd%d0%b5%d0%b7%d0%b0%d0%b1%d0%b0%d1%80%d0%be%d0%bc/` — staging-only fixture/experiment
-- **ACTUAL [Hero Concept B — Restoration Transformation](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=970&action=edit)** — ID970, **draft**, `//` — staging-only fixture/experiment
-- **ACTUAL [Moisture mapping](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=490&action=edit)** — ID490, **draft**, `/moisture-mapping/`
-- **ACTUAL [Odor Removal](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=489&action=edit)** — ID489, **draft**, `/odor-removal/`
-- **ACTUAL [Partner Programs](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=982&action=edit)** — ID982, **draft**, `/partner-programs/`
-  - **ACTUAL [Commercial Partnership Programs](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=986&action=edit)** — ID986, **draft**, `/partner-programs/commercial-partnership-programs/`
-  - **ACTUAL [Condominium / HOA Program](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=985&action=edit)** — ID985, **draft**, `/partner-programs/condominium-hoa-program/`
-  - **ACTUAL [Insurance Agent Program](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=984&action=edit)** — ID984, **draft**, `/partner-programs/insurance-agent-program/`
-  - **ACTUAL [Plumber Support Program](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=983&action=edit)** — ID983, **draft**, `/partner-programs/plumber-support-program/`
-- **ACTUAL [Privacy Policy](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=3&action=edit)** — ID3, **draft**, `/privacy-policy/`
-- **ACTUAL [Residential Services](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=484&action=edit)** — ID484, **draft**, `/residential-services/`
-  - **ACTUAL [Fire &amp; Smoke](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=517&action=edit)** — ID517, **draft**, `/residential-services/fire-smoke/`
-  - **ACTUAL [Mold Removal](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=516&action=edit)** — ID516, **draft**, `/residential-services/mold-removal/`
-  - **ACTUAL [Personal Property Restoration](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=521&action=edit)** — ID521, **draft**, `/residential-services/personal-property-restoration/`
-  - **ACTUAL [Reconstruction](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=518&action=edit)** — ID518, **draft**, `/residential-services/reconstruction/`
-  - **ACTUAL [Storm Damage](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=523&action=edit)** — ID523, **draft**, `/residential-services/storm-damage/`
-  - **ACTUAL [Water Damage](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=514&action=edit)** — ID514, **draft**, `/residential-services/water-damage/`
-- **ACTUAL [ROBYLO — Atomic Foundation Validation (Temporary Draft)](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=50&action=edit)** — ID50, **draft**, `//` — staging-only fixture/experiment
-- **ACTUAL [Sample Page](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=2&action=edit)** — ID2, **publish**, `/sample-page/` — staging-only fixture/experiment
-- **ACTUAL [Service Area](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=495&action=edit)** — ID495, **draft**, `/service-area/`
-  - **ACTUAL [Algonquin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=550&action=edit)** — ID550, **draft**, `/service-area/algonquin/`
-  - **ACTUAL [Alsip](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=560&action=edit)** — ID560, **draft**, `/service-area/alsip/`
-  - **ACTUAL [Antioch](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=535&action=edit)** — ID535, **draft**, `/service-area/antioch/`
-  - **ACTUAL [Arlington Heights](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=559&action=edit)** — ID559, **draft**, `/service-area/arlington-heights/`
-  - **ACTUAL [Aurora](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=537&action=edit)** — ID537, **draft**, `/service-area/aurora/`
-  - **ACTUAL [Bartlett](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=561&action=edit)** — ID561, **draft**, `/service-area/bartlett/`
-  - **ACTUAL [Batavia](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=554&action=edit)** — ID554, **draft**, `/service-area/batavia/`
-  - **ACTUAL [Bellwood](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=567&action=edit)** — ID567, **draft**, `/service-area/bellwood/`
-  - **ACTUAL [Bensenville](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=577&action=edit)** — ID577, **draft**, `/service-area/bensenville/`
-  - **ACTUAL [Berwyn](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=549&action=edit)** — ID549, **draft**, `/service-area/berwyn/`
-  - **ACTUAL [Blue Island](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=569&action=edit)** — ID569, **draft**, `/service-area/blue-island/`
-  - **ACTUAL [Bolingbrook](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=557&action=edit)** — ID557, **draft**, `/service-area/bolingbrook/`
-  - **ACTUAL [Bridgeview](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=531&action=edit)** — ID531, **draft**, `/service-area/bridgeview/`
-  - **ACTUAL [Broadview](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=575&action=edit)** — ID575, **draft**, `/service-area/broadview/`
-  - **ACTUAL [Brookfield](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=568&action=edit)** — ID568, **draft**, `/service-area/brookfield/`
-  - **ACTUAL [Buffalo Grove](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=551&action=edit)** — ID551, **draft**, `/service-area/buffalo-grove/`
-  - **ACTUAL [Burbank](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=564&action=edit)** — ID564, **draft**, `/service-area/burbank/`
-  - **ACTUAL [Calumet City](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=548&action=edit)** — ID548, **draft**, `/service-area/calumet-city/`
-  - **ACTUAL [Carol Stream](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=543&action=edit)** — ID543, **draft**, `/service-area/carol-stream/`
-  - **ACTUAL [Carpentersville](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=539&action=edit)** — ID539, **draft**, `/service-area/carpentersville/`
-  - **ACTUAL [Cary](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=544&action=edit)** — ID544, **draft**, `/service-area/cary/`
-  - **ACTUAL [Channahon](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=574&action=edit)** — ID574, **draft**, `/service-area/channahon/`
-  - **ACTUAL [Chicago Heights](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=573&action=edit)** — ID573, **draft**, `/service-area/chicago-heights/`
-  - **ACTUAL [Chicago Ridge](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=576&action=edit)** — ID576, **draft**, `/service-area/chicago-ridge/`
-  - **ACTUAL [Deerfield](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=563&action=edit)** — ID563, **draft**, `/service-area/deerfield/`
-  - **ACTUAL [Des Plaines](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=572&action=edit)** — ID572, **draft**, `/service-area/des-plaines/`
-  - **ACTUAL [Downers Grove](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=527&action=edit)** — ID527, **draft**, `/service-area/downers-grove/`
-  - **ACTUAL [Elk Groove Village](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=529&action=edit)** — ID529, **draft**, `/service-area/elk-grove-village/`
-  - **ACTUAL [Expert Restoration Services in Addison](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=538&action=edit)** — ID538, **draft**, `/service-area/addison/`
-  - **ACTUAL [Expert Restoration Services in Barrington](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=552&action=edit)** — ID552, **draft**, `/service-area/barrington/`
-  - **ACTUAL [Expert Restoration Services in Elmhurst](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=530&action=edit)** — ID530, **draft**, `/service-area/elmhurst/`
-  - **ACTUAL [Expert Restoration Services in Evanston](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=565&action=edit)** — ID565, **draft**, `/service-area/evanston/`
-  - **ACTUAL [Expert Restoration Services in Glen Ellyn](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=542&action=edit)** — ID542, **draft**, `/service-area/glen-ellyn/`
-  - **ACTUAL [Expert Restoration Services in Glencoe](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=547&action=edit)** — ID547, **draft**, `/service-area/glencoe/`
-  - **ACTUAL [Expert Restoration Services in Glenview](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=533&action=edit)** — ID533, **draft**, `/service-area/glenview/`
-  - **ACTUAL [Expert Restoration Services in Kenilworth, IL](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=571&action=edit)** — ID571, **draft**, `/service-area/kenilworth/`
-  - **ACTUAL [Expert Restoration Services in Lake Forest](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=553&action=edit)** — ID553, **draft**, `/service-area/lake-forest/`
-  - **ACTUAL [Expert Restoration Services in Lombard](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=526&action=edit)** — ID526, **draft**, `/service-area/lombard/`
-  - **ACTUAL [Expert Restoration Services in Long Grove, IL](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=545&action=edit)** — ID545, **draft**, `/service-area/long-grove/`
-  - **ACTUAL [Expert Restoration Services in Naperville](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=532&action=edit)** — ID532, **draft**, `/service-area/naperville/`
-  - **ACTUAL [Expert Restoration Services in Northbrook](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=556&action=edit)** — ID556, **draft**, `/service-area/northbrook/`
-  - **ACTUAL [Expert Restoration Services in Oak Brook](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=536&action=edit)** — ID536, **draft**, `/service-area/oak-brook/`
-  - **ACTUAL [Expert Restoration Services in Skokie](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=541&action=edit)** — ID541, **draft**, `/service-area/skokie/`
-  - **ACTUAL [Expert Restoration Services in Villa Park](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=546&action=edit)** — ID546, **draft**, `/service-area/villa-park/`
-  - **ACTUAL [Expert Restoration Services in Wilmette](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=555&action=edit)** — ID555, **draft**, `/service-area/wilmette/`
-  - **ACTUAL [Expert Restoration Services in Winnetka](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=566&action=edit)** — ID566, **draft**, `/service-area/winnetka/`
-  - **ACTUAL [Fox Lake](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=570&action=edit)** — ID570, **draft**, `/service-area/fox-lake/`
-  - **ACTUAL [Highland Park](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=528&action=edit)** — ID528, **draft**, `/service-area/highland-park/`
-  - **ACTUAL [Hinsdale](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=540&action=edit)** — ID540, **draft**, `/service-area/hinsdale/`
-  - **ACTUAL [Niles](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=562&action=edit)** — ID562, **draft**, `/service-area/niles/`
-  - **ACTUAL [Schaumburg](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=558&action=edit)** — ID558, **draft**, `/service-area/schaumburg/`
-- **ACTUAL [Service Request](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=492&action=edit)** — ID492, **draft**, `/service-request/`
-- **ACTUAL [Testimonials](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=498&action=edit)** — ID498, **draft**, `/testimonials/`
-- **ACTUAL [Water extraction](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=487&action=edit)** — ID487, **draft**, `/water-extraction/`
+- **ACTUAL [All Projects](https://vitaliiv1.sg-host.com/portfolio/)** — ID1132, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=1132&action=edit); E76 structural index only, no project records imported
+
+- **ACTUAL [About Us](https://vitaliiv1.sg-host.com/about-us/)** — ID497, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=497&action=edit)
+  - **ACTUAL [Careers](https://vitaliiv1.sg-host.com/about-us/careers/)** — ID534, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=534&action=edit)
+- **ACTUAL [Apply](https://vitaliiv1.sg-host.com/apply/)** — ID486, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=486&action=edit)
+- **ACTUAL [Before And After](https://vitaliiv1.sg-host.com/before-and-after/)** — ID493, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=493&action=edit)
+- **ACTUAL [Board Up](https://vitaliiv1.sg-host.com/board-up/)** — ID488, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=488&action=edit)
+- **ACTUAL [Commercial Services](https://vitaliiv1.sg-host.com/commercial-services/)** — ID499, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=499&action=edit)
+  - **ACTUAL [Fire & Smoke](https://vitaliiv1.sg-host.com/commercial-services/fire-smoke/)** — ID520, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=520&action=edit)
+  - **ACTUAL [General Contracting](https://vitaliiv1.sg-host.com/commercial-services/general-contracting/)** — ID522, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=522&action=edit)
+  - **ACTUAL [Mold Removal](https://vitaliiv1.sg-host.com/commercial-services/mold-removal/)** — ID519, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=519&action=edit)
+  - **ACTUAL [Personal Property Restoration](https://vitaliiv1.sg-host.com/commercial-services/personal-property-restoration/)** — ID525, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=525&action=edit)
+  - **ACTUAL [Reconstruction](https://vitaliiv1.sg-host.com/commercial-services/reconstruction/)** — ID524, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=524&action=edit)
+  - **ACTUAL [Water Damage](https://vitaliiv1.sg-host.com/commercial-services/water-damage/)** — ID515, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=515&action=edit)
+- **ACTUAL [Contact Us](https://vitaliiv1.sg-host.com/contact-us/)** — ID496, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=496&action=edit)
+- **ACTUAL [Copyright](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=494&action=edit)** — ID494, **draft**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=494&action=edit)
+- **ACTUAL [Dehumidification](https://vitaliiv1.sg-host.com/dehumidification/)** — ID491, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=491&action=edit)
+- **ACTUAL [Elementor #7](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=7&action=edit)** — ID7, **draft**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=7&action=edit) — unrelated existing fixture/experiment
+- **ACTUAL [GCPRO Homepage — Phase 1 Atomic Wireframe](https://vitaliiv1.sg-host.com/)** — ID154, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=154&action=edit)
+- **ACTUAL [GCPRO — Coming Soon](https://vitaliiv1.sg-host.com/gcpro-%d0%bd%d0%b5%d0%b7%d0%b0%d0%b1%d0%b0%d1%80%d0%be%d0%bc/)** — ID12, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=12&action=edit) — unrelated existing fixture/experiment
+- **ACTUAL [Hero Concept B — Restoration Transformation](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=970&action=edit)** — ID970, **draft**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=970&action=edit) — unrelated existing fixture/experiment
+- **ACTUAL [Moisture mapping](https://vitaliiv1.sg-host.com/moisture-mapping/)** — ID490, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=490&action=edit)
+- **ACTUAL [Odor Removal](https://vitaliiv1.sg-host.com/odor-removal/)** — ID489, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=489&action=edit)
+- **ACTUAL [Partner Programs](https://vitaliiv1.sg-host.com/partner-programs/)** — ID982, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=982&action=edit)
+  - **ACTUAL [Commercial Partnership Programs](https://vitaliiv1.sg-host.com/partner-programs/commercial-partnership-programs/)** — ID986, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=986&action=edit)
+  - **ACTUAL [Condominium / HOA Program](https://vitaliiv1.sg-host.com/partner-programs/condominium-hoa-program/)** — ID985, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=985&action=edit)
+  - **ACTUAL [Insurance Agent Program](https://vitaliiv1.sg-host.com/partner-programs/insurance-agent-program/)** — ID984, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=984&action=edit)
+  - **ACTUAL [Plumber Support Program](https://vitaliiv1.sg-host.com/partner-programs/plumber-support-program/)** — ID983, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=983&action=edit)
+- **ACTUAL [Privacy Policy](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=3&action=edit)** — ID3, **draft**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=3&action=edit)
+- **ACTUAL [Residential Services](https://vitaliiv1.sg-host.com/residential-services/)** — ID484, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=484&action=edit)
+  - **ACTUAL [Fire & Smoke](https://vitaliiv1.sg-host.com/residential-services/fire-smoke/)** — ID517, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=517&action=edit)
+  - **ACTUAL [Mold Removal](https://vitaliiv1.sg-host.com/residential-services/mold-removal/)** — ID516, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=516&action=edit)
+  - **ACTUAL [Personal Property Restoration](https://vitaliiv1.sg-host.com/residential-services/personal-property-restoration/)** — ID521, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=521&action=edit)
+  - **ACTUAL [Reconstruction](https://vitaliiv1.sg-host.com/residential-services/reconstruction/)** — ID518, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=518&action=edit)
+  - **ACTUAL [Storm Damage](https://vitaliiv1.sg-host.com/residential-services/storm-damage/)** — ID523, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=523&action=edit)
+  - **ACTUAL [Water Damage](https://vitaliiv1.sg-host.com/residential-services/water-damage/)** — ID514, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=514&action=edit)
+- **ACTUAL [Resources](https://vitaliiv1.sg-host.com/resources/)** — ID1007, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=1007&action=edit)
+- **ACTUAL [ROBYLO — Atomic Foundation Validation (Temporary Draft)](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=50&action=edit)** — ID50, **draft**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=50&action=edit) — unrelated existing fixture/experiment
+- **ACTUAL [Sample Page](https://vitaliiv1.sg-host.com/sample-page/)** — ID2, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=2&action=edit) — unrelated existing fixture/experiment
+- **ACTUAL [Service Area](https://vitaliiv1.sg-host.com/service-area/)** — ID495, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=495&action=edit)
+  - **ACTUAL [Algonquin](https://vitaliiv1.sg-host.com/service-area/algonquin/)** — ID550, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=550&action=edit)
+  - **ACTUAL [Alsip](https://vitaliiv1.sg-host.com/service-area/alsip/)** — ID560, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=560&action=edit)
+  - **ACTUAL [Antioch](https://vitaliiv1.sg-host.com/service-area/antioch/)** — ID535, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=535&action=edit)
+  - **ACTUAL [Arlington Heights](https://vitaliiv1.sg-host.com/service-area/arlington-heights/)** — ID559, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=559&action=edit)
+  - **ACTUAL [Aurora](https://vitaliiv1.sg-host.com/service-area/aurora/)** — ID537, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=537&action=edit)
+  - **ACTUAL [Bartlett](https://vitaliiv1.sg-host.com/service-area/bartlett/)** — ID561, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=561&action=edit)
+  - **ACTUAL [Batavia](https://vitaliiv1.sg-host.com/service-area/batavia/)** — ID554, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=554&action=edit)
+  - **ACTUAL [Bellwood](https://vitaliiv1.sg-host.com/service-area/bellwood/)** — ID567, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=567&action=edit)
+  - **ACTUAL [Bensenville](https://vitaliiv1.sg-host.com/service-area/bensenville/)** — ID577, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=577&action=edit)
+  - **ACTUAL [Berwyn](https://vitaliiv1.sg-host.com/service-area/berwyn/)** — ID549, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=549&action=edit)
+  - **ACTUAL [Blue Island](https://vitaliiv1.sg-host.com/service-area/blue-island/)** — ID569, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=569&action=edit)
+  - **ACTUAL [Bolingbrook](https://vitaliiv1.sg-host.com/service-area/bolingbrook/)** — ID557, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=557&action=edit)
+  - **ACTUAL [Bridgeview](https://vitaliiv1.sg-host.com/service-area/bridgeview/)** — ID531, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=531&action=edit)
+  - **ACTUAL [Broadview](https://vitaliiv1.sg-host.com/service-area/broadview/)** — ID575, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=575&action=edit)
+  - **ACTUAL [Brookfield](https://vitaliiv1.sg-host.com/service-area/brookfield/)** — ID568, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=568&action=edit)
+  - **ACTUAL [Buffalo Grove](https://vitaliiv1.sg-host.com/service-area/buffalo-grove/)** — ID551, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=551&action=edit)
+  - **ACTUAL [Burbank](https://vitaliiv1.sg-host.com/service-area/burbank/)** — ID564, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=564&action=edit)
+  - **ACTUAL [Calumet City](https://vitaliiv1.sg-host.com/service-area/calumet-city/)** — ID548, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=548&action=edit)
+  - **ACTUAL [Carol Stream](https://vitaliiv1.sg-host.com/service-area/carol-stream/)** — ID543, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=543&action=edit)
+  - **ACTUAL [Carpentersville](https://vitaliiv1.sg-host.com/service-area/carpentersville/)** — ID539, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=539&action=edit)
+  - **ACTUAL [Cary](https://vitaliiv1.sg-host.com/service-area/cary/)** — ID544, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=544&action=edit)
+  - **ACTUAL [Channahon](https://vitaliiv1.sg-host.com/service-area/channahon/)** — ID574, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=574&action=edit)
+  - **ACTUAL [Chicago Heights](https://vitaliiv1.sg-host.com/service-area/chicago-heights/)** — ID573, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=573&action=edit)
+  - **ACTUAL [Chicago Ridge](https://vitaliiv1.sg-host.com/service-area/chicago-ridge/)** — ID576, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=576&action=edit)
+  - **ACTUAL [Deerfield](https://vitaliiv1.sg-host.com/service-area/deerfield/)** — ID563, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=563&action=edit)
+  - **ACTUAL [Des Plaines](https://vitaliiv1.sg-host.com/service-area/des-plaines/)** — ID572, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=572&action=edit)
+  - **ACTUAL [Downers Grove](https://vitaliiv1.sg-host.com/service-area/downers-grove/)** — ID527, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=527&action=edit)
+  - **ACTUAL [Elk Groove Village](https://vitaliiv1.sg-host.com/service-area/elk-grove-village/)** — ID529, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=529&action=edit)
+  - **ACTUAL [Expert Restoration Services in Addison](https://vitaliiv1.sg-host.com/service-area/addison/)** — ID538, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=538&action=edit)
+  - **ACTUAL [Expert Restoration Services in Barrington](https://vitaliiv1.sg-host.com/service-area/barrington/)** — ID552, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=552&action=edit)
+  - **ACTUAL [Expert Restoration Services in Elmhurst](https://vitaliiv1.sg-host.com/service-area/elmhurst/)** — ID530, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=530&action=edit)
+  - **ACTUAL [Expert Restoration Services in Evanston](https://vitaliiv1.sg-host.com/service-area/evanston/)** — ID565, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=565&action=edit)
+  - **ACTUAL [Expert Restoration Services in Glen Ellyn](https://vitaliiv1.sg-host.com/service-area/glen-ellyn/)** — ID542, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=542&action=edit)
+  - **ACTUAL [Expert Restoration Services in Glencoe](https://vitaliiv1.sg-host.com/service-area/glencoe/)** — ID547, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=547&action=edit)
+  - **ACTUAL [Expert Restoration Services in Glenview](https://vitaliiv1.sg-host.com/service-area/glenview/)** — ID533, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=533&action=edit)
+  - **ACTUAL [Expert Restoration Services in Kenilworth, IL](https://vitaliiv1.sg-host.com/service-area/kenilworth/)** — ID571, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=571&action=edit)
+  - **ACTUAL [Expert Restoration Services in Lake Forest](https://vitaliiv1.sg-host.com/service-area/lake-forest/)** — ID553, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=553&action=edit)
+  - **ACTUAL [Expert Restoration Services in Lombard](https://vitaliiv1.sg-host.com/service-area/lombard/)** — ID526, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=526&action=edit)
+  - **ACTUAL [Expert Restoration Services in Long Grove, IL](https://vitaliiv1.sg-host.com/service-area/long-grove/)** — ID545, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=545&action=edit)
+  - **ACTUAL [Expert Restoration Services in Naperville](https://vitaliiv1.sg-host.com/service-area/naperville/)** — ID532, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=532&action=edit)
+  - **ACTUAL [Expert Restoration Services in Northbrook](https://vitaliiv1.sg-host.com/service-area/northbrook/)** — ID556, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=556&action=edit)
+  - **ACTUAL [Expert Restoration Services in Oak Brook](https://vitaliiv1.sg-host.com/service-area/oak-brook/)** — ID536, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=536&action=edit)
+  - **ACTUAL [Expert Restoration Services in Skokie](https://vitaliiv1.sg-host.com/service-area/skokie/)** — ID541, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=541&action=edit)
+  - **ACTUAL [Expert Restoration Services in Villa Park](https://vitaliiv1.sg-host.com/service-area/villa-park/)** — ID546, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=546&action=edit)
+  - **ACTUAL [Expert Restoration Services in Wilmette](https://vitaliiv1.sg-host.com/service-area/wilmette/)** — ID555, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=555&action=edit)
+  - **ACTUAL [Expert Restoration Services in Winnetka](https://vitaliiv1.sg-host.com/service-area/winnetka/)** — ID566, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=566&action=edit)
+  - **ACTUAL [Fox Lake](https://vitaliiv1.sg-host.com/service-area/fox-lake/)** — ID570, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=570&action=edit)
+  - **ACTUAL [Highland Park](https://vitaliiv1.sg-host.com/service-area/highland-park/)** — ID528, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=528&action=edit)
+  - **ACTUAL [Hinsdale](https://vitaliiv1.sg-host.com/service-area/hinsdale/)** — ID540, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=540&action=edit)
+  - **ACTUAL [Niles](https://vitaliiv1.sg-host.com/service-area/niles/)** — ID562, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=562&action=edit)
+  - **ACTUAL [Schaumburg](https://vitaliiv1.sg-host.com/service-area/schaumburg/)** — ID558, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=558&action=edit)
+- **ACTUAL [Service Request](https://vitaliiv1.sg-host.com/service-request/)** — ID492, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=492&action=edit)
+- **ACTUAL [Testimonials](https://vitaliiv1.sg-host.com/testimonials/)** — ID498, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=498&action=edit)
+- **ACTUAL [Water extraction](https://vitaliiv1.sg-host.com/water-extraction/)** — ID487, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=487&action=edit)
 
 ## Articles — native post source records
 

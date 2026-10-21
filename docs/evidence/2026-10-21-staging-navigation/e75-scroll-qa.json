@@ -1,0 +1,20 @@
+[
+  {
+    "bar": "elementor-element elementor-element-1ej1bgo e-con e-atomic-element e-flexbox-base e-default-aside gcpro-mobile-cta is-visible",
+    "header": "elementor-element elementor-element-4ef1aa21 e-con e-atomic-element e-div-block-base e-default-div gcpro-smart-header site-header e-10ec76-6148 is-floating is-hidden",
+    "state": "down",
+    "y": 950
+  },
+  {
+    "bar": "elementor-element elementor-element-1ej1bgo e-con e-atomic-element e-flexbox-base e-default-aside gcpro-mobile-cta is-visible",
+    "header": "elementor-element elementor-element-4ef1aa21 e-con e-atomic-element e-div-block-base e-default-div gcpro-smart-header site-header e-10ec76-6148 is-floating",
+    "state": "up",
+    "y": 700
+  },
+  {
+    "bar": "elementor-element elementor-element-1ej1bgo e-con e-atomic-element e-flexbox-base e-default-aside gcpro-mobile-cta",
+    "header": "elementor-element elementor-element-4ef1aa21 e-con e-atomic-element e-div-block-base e-default-div gcpro-smart-header site-header e-10ec76-6148 is-floating",
+    "state": "menu-open",
+    "y": 700
+  }
+]
