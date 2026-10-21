@@ -1,0 +1,712 @@
+{
+  "milestone": "E81",
+  "date": "2026-10-21",
+  "host": "https://vitaliiv1.sg-host.com",
+  "page": 493,
+  "published_comparisons": [
+    {
+      "id": 1165,
+      "title": "Kitchen Transformation",
+      "before": "ania9",
+      "after": "ania10",
+      "webp": true,
+      "ratio": "4:3"
+    },
+    {
+      "id": 1198,
+      "title": "Bathroom Restoration — Before & After",
+      "before": "bath2",
+      "after": "bath23",
+      "webp": true,
+      "ratio": "4:3"
+    },
+    {
+      "id": 1199,
+      "title": "Interior Restoration — Wonder Lake",
+      "before": "entrance-wonder-lake",
+      "after": "entrance-wonder-lake-2",
+      "webp": true
+    },
+    {
+      "id": 1200,
+      "title": "Fire Damage Restoration — Tinley Interior",
+      "before": "tinley-fire-1",
+      "after": "tinley-fire-2",
+      "webp": true
+    },
+    {
+      "id": 1201,
+      "title": "Kitchen Restoration — Wonder Lake",
+      "before": "kitchen-wander-lake-1",
+      "after": "kitchen-wander-lake-2",
+      "webp": true
+    },
+    {
+      "id": 1202,
+      "title": "Club Room Renovation — Window View",
+      "before": "jordan-bg-club1",
+      "after": "jordan-bg-club2",
+      "webp": true
+    },
+    {
+      "id": 1203,
+      "title": "Club Room Renovation — Door View",
+      "before": "jordan-bg-club3",
+      "after": "jordan-bg-club4",
+      "webp": true
+    },
+    {
+      "id": 1204,
+      "title": "Fireplace Room Restoration — Wonder Lake",
+      "before": "fireplace-wonder-lake-1",
+      "after": "fireplace-wonder-lake-2",
+      "webp": true
+    },
+    {
+      "id": 1205,
+      "title": "Fire Damage Restoration — Tinley Bedroom",
+      "before": "fire-damage-tinley-8",
+      "after": "fire-damage-tinley-8-8",
+      "webp": true
+    },
+    {
+      "id": 1206,
+      "title": "Fire Damage Restoration — Tinley Exterior",
+      "before": "fire-damage-tinley-2",
+      "after": "fire-damage-tinley-2-2",
+      "webp": true
+    },
+    {
+      "id": 1207,
+      "title": "Fire Damage Restoration — Tinley Shower Room",
+      "before": "fire-damage-tinley-3",
+      "after": "fire-damage-tinley-3-3",
+      "webp": true
+    },
+    {
+      "id": 1208,
+      "title": "Fire Damage Restoration — Tinley Bathroom",
+      "before": "fire-damage-tinley-4",
+      "after": "fire-damage-tinley-4-4",
+      "webp": true,
+      "ratio": "4:3"
+    },
+    {
+      "id": 1209,
+      "title": "Commercial Entrance Renovation",
+      "before": "entrance1",
+      "after": "entrance2",
+      "webp": true
+    },
+    {
+      "id": 1210,
+      "title": "Living Room Renovation — Fireplace View",
+      "before": "ania7",
+      "after": "ania8",
+      "webp": true,
+      "ratio": "4:3"
+    },
+    {
+      "id": 1245,
+      "title": "Kitchen Restoration — Project 19-0255",
+      "before": "19-0255-CNI-1",
+      "after": "19-0255-CNI-2",
+      "webp": true
+    }
+  ],
+  "removed_duplicate": {
+    "id": 1244,
+    "status": "draft",
+    "reason": "owner identified near-duplicate Ania living-room view"
+  },
+  "active_assets": [
+    {
+      "id": 1246,
+      "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/bath23-web-4x3-1.webp",
+      "alt": "Bathroom after restoration, with a marble-topped double vanity and toilet.",
+      "web_dimensions": [
+        824,
+        618
+      ],
+      "web_bytes": 42552,
+      "source_dimensions": [
+        827,
+        1104
+      ],
+      "source_bytes": 214593
+    },
+    {
+      "id": 1247,
+      "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/bath2-web-4x3-1.webp",
+      "alt": "Bathroom during restoration, with exposed lower wall framing and a toilet.",
+      "web_dimensions": [
+        824,
+        618
+      ],
+      "web_bytes": 30462,
+      "source_dimensions": [
+        827,
+        1104
+      ],
+      "source_bytes": 189777
+    },
+    {
+      "id": 1248,
+      "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/ania10-web-4x3-1.webp",
+      "alt": "Kitchen after renovation, with an island, pendant lighting and updated cabinetry.",
+      "web_dimensions": [
+        1200,
+        900
+      ],
+      "web_bytes": 114416,
+      "source_dimensions": [
+        3084,
+        1734
+      ],
+      "source_bytes": 1019472
+    },
+    {
+      "id": 1250,
+      "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/ania9-web-4x3-1.webp",
+      "alt": "Kitchen before renovation, with a brick wall and existing wood cabinetry.",
+      "web_dimensions": [
+        1200,
+        900
+      ],
+      "web_bytes": 108490,
+      "source_dimensions": [
+        3084,
+        1734
+      ],
+      "source_bytes": 1103685
+    },
+    {
+      "id": 1215,
+      "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/entrance-wonder-lake-2-web.webp",
+      "alt": "Wonder Lake interior after restoration, with finished walls, ceiling and flooring.",
+      "web_dimensions": [
+        1600,
+        1200
+      ],
+      "web_bytes": 142000,
+      "source_dimensions": [
+        1600,
+        1200
+      ],
+      "source_bytes": 185513
+    },
+    {
+      "id": 1216,
+      "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/entrance-wonder-lake-web.webp",
+      "alt": "Wonder Lake interior during restoration, with exposed framing and ceiling joists.",
+      "web_dimensions": [
+        1600,
+        1200
+      ],
+      "web_bytes": 176420,
+      "source_dimensions": [
+        1600,
+        1200
+      ],
+      "source_bytes": 203638
+    },
+    {
+      "id": 1217,
+      "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/tinley-fire-1-web.webp",
+      "alt": "Tinley interior before restoration, with extensive fire damage and exposed framing.",
+      "web_dimensions": [
+        1600,
+        1200
+      ],
+      "web_bytes": 338990,
+      "source_dimensions": [
+        1600,
+        1200
+      ],
+      "source_bytes": 326636
+    },
+    {
+      "id": 1218,
+      "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/tinley-fire-2-web.webp",
+      "alt": "Tinley interior after restoration, with finished walls, ceiling and kitchen.",
+      "web_dimensions": [
+        1600,
+        1200
+      ],
+      "web_bytes": 217842,
+      "source_dimensions": [
+        1600,
+        1200
+      ],
+      "source_bytes": 203430
+    },
+    {
+      "id": 1220,
+      "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/jordan-bg-club1-web.webp",
+      "alt": "Club room, window view before restoration.",
+      "web_dimensions": [
+        1600,
+        1200
+      ],
+      "web_bytes": 158344,
+      "source_dimensions": [
+        1600,
+        1200
+      ],
+      "source_bytes": 191297
+    },
+    {
+      "id": 1219,
+      "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/kitchen-wander-lake-2-web.webp",
+      "alt": "Wonder Lake kitchen after restoration, with white cabinetry and a farmhouse sink.",
+      "web_dimensions": [
+        1600,
+        1200
+      ],
+      "web_bytes": 180864,
+      "source_dimensions": [
+        1600,
+        1200
+      ],
+      "source_bytes": 182451
+    },
+    {
+      "id": 1221,
+      "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/kitchen-wander-lake-1-web.webp",
+      "alt": "Wonder Lake kitchen during restoration, with exposed framing and unfinished walls.",
+      "web_dimensions": [
+        1600,
+        1200
+      ],
+      "web_bytes": 193266,
+      "source_dimensions": [
+        1600,
+        1200
+      ],
+      "source_bytes": 226000
+    },
+    {
+      "id": 1222,
+      "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/jordan-bg-club2-web.webp",
+      "alt": "Club room, window view after restoration.",
+      "web_dimensions": [
+        1600,
+        1200
+      ],
+      "web_bytes": 131628,
+      "source_dimensions": [
+        1600,
+        1200
+      ],
+      "source_bytes": 160645
+    },
+    {
+      "id": 1223,
+      "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/jordan-bg-club4-web.webp",
+      "alt": "Club room, door view after restoration.",
+      "web_dimensions": [
+        1600,
+        1200
+      ],
+      "web_bytes": 99362,
+      "source_dimensions": [
+        1600,
+        1200
+      ],
+      "source_bytes": 133313
+    },
+    {
+      "id": 1224,
+      "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/jordan-bg-club3-web.webp",
+      "alt": "Club room, door view before restoration.",
+      "web_dimensions": [
+        1600,
+        1200
+      ],
+      "web_bytes": 150412,
+      "source_dimensions": [
+        1600,
+        1200
+      ],
+      "source_bytes": 178569
+    },
+    {
+      "id": 1225,
+      "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/fireplace-wonder-lake-1-web.webp",
+      "alt": "Wonder Lake fireplace room before restoration.",
+      "web_dimensions": [
+        1600,
+        1200
+      ],
+      "web_bytes": 161386,
+      "source_dimensions": [
+        1600,
+        1200
+      ],
+      "source_bytes": 189295
+    },
+    {
+      "id": 1226,
+      "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/fireplace-wonder-lake-2-web.webp",
+      "alt": "Wonder Lake fireplace room after restoration.",
+      "web_dimensions": [
+        1600,
+        1200
+      ],
+      "web_bytes": 165828,
+      "source_dimensions": [
+        1600,
+        1200
+      ],
+      "source_bytes": 193018
+    },
+    {
+      "id": 1227,
+      "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/fire-damage-tinley-8-web.webp",
+      "alt": "Tinley bedroom before restoration.",
+      "web_dimensions": [
+        1600,
+        1200
+      ],
+      "web_bytes": 338580,
+      "source_dimensions": [
+        1600,
+        1200
+      ],
+      "source_bytes": 313295
+    },
+    {
+      "id": 1228,
+      "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/fire-damage-tinley-8-8-web.webp",
+      "alt": "Tinley bedroom after restoration.",
+      "web_dimensions": [
+        1600,
+        1200
+      ],
+      "web_bytes": 70362,
+      "source_dimensions": [
+        1600,
+        1200
+      ],
+      "source_bytes": 113446
+    },
+    {
+      "id": 1229,
+      "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/fire-damage-tinley-2-web.webp",
+      "alt": "Tinley exterior before restoration.",
+      "web_dimensions": [
+        1600,
+        1200
+      ],
+      "web_bytes": 297330,
+      "source_dimensions": [
+        1600,
+        1200
+      ],
+      "source_bytes": 255309
+    },
+    {
+      "id": 1230,
+      "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/fire-damage-tinley-2-2-web.webp",
+      "alt": "Tinley exterior after restoration.",
+      "web_dimensions": [
+        1600,
+        1200
+      ],
+      "web_bytes": 440076,
+      "source_dimensions": [
+        1600,
+        1200
+      ],
+      "source_bytes": 396363
+    },
+    {
+      "id": 1231,
+      "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/fire-damage-tinley-3-web.webp",
+      "alt": "Tinley shower room before restoration.",
+      "web_dimensions": [
+        1600,
+        1200
+      ],
+      "web_bytes": 297920,
+      "source_dimensions": [
+        1600,
+        1200
+      ],
+      "source_bytes": 261686
+    },
+    {
+      "id": 1232,
+      "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/fire-damage-tinley-3-3-web.webp",
+      "alt": "Tinley shower room after restoration.",
+      "web_dimensions": [
+        1600,
+        1200
+      ],
+      "web_bytes": 171356,
+      "source_dimensions": [
+        1600,
+        1200
+      ],
+      "source_bytes": 238921
+    },
+    {
+      "id": 1249,
+      "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/fire-damage-tinley-4-web-4x3-1.webp",
+      "alt": "Tinley bathroom before restoration.",
+      "web_dimensions": [
+        1200,
+        900
+      ],
+      "web_bytes": 255862,
+      "source_dimensions": [
+        1600,
+        901
+      ],
+      "source_bytes": 314294
+    },
+    {
+      "id": 1251,
+      "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/fire-damage-tinley-4-4-web-4x3-1.webp",
+      "alt": "Tinley bathroom after restoration.",
+      "web_dimensions": [
+        1200,
+        900
+      ],
+      "web_bytes": 76588,
+      "source_dimensions": [
+        1600,
+        901
+      ],
+      "source_bytes": 141855
+    },
+    {
+      "id": 1235,
+      "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/entrance1-web.webp",
+      "alt": "Commercial entrance before restoration.",
+      "web_dimensions": [
+        1600,
+        1200
+      ],
+      "web_bytes": 104280,
+      "source_dimensions": [
+        1600,
+        1200
+      ],
+      "source_bytes": 313563
+    },
+    {
+      "id": 1252,
+      "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/ania7-web-4x3-1.webp",
+      "alt": "Living room with brick fireplace before renovation.",
+      "web_dimensions": [
+        1164,
+        873
+      ],
+      "web_bytes": 74764,
+      "source_dimensions": [
+        3385,
+        1851
+      ],
+      "source_bytes": 1066885
+    },
+    {
+      "id": 1253,
+      "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/ania8-web-4x3-1.webp",
+      "alt": "Living room with brick fireplace after renovation.",
+      "web_dimensions": [
+        1164,
+        873
+      ],
+      "web_bytes": 65092,
+      "source_dimensions": [
+        3385,
+        1851
+      ],
+      "source_bytes": 936757
+    },
+    {
+      "id": 1238,
+      "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/entrance2-web.webp",
+      "alt": "Commercial entrance after restoration.",
+      "web_dimensions": [
+        1600,
+        1200
+      ],
+      "web_bytes": 65452,
+      "source_dimensions": [
+        1600,
+        1200
+      ],
+      "source_bytes": 224549
+    },
+    {
+      "id": 1241,
+      "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/19-0255-cni-1-web.webp",
+      "alt": "Kitchen before renovation.",
+      "web_dimensions": [
+        1600,
+        1200
+      ],
+      "web_bytes": 121358,
+      "source_dimensions": [
+        1600,
+        1200
+      ],
+      "source_bytes": 160687
+    },
+    {
+      "id": 1242,
+      "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/19-0255-cni-2-web.webp",
+      "alt": "Kitchen after renovation.",
+      "web_dimensions": [
+        1600,
+        1200
+      ],
+      "web_bytes": 118944,
+      "source_dimensions": [
+        1600,
+        1200
+      ],
+      "source_bytes": 136067
+    },
+    {
+      "id": 1243,
+      "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/gcpro-residential-restoration-technician.webp",
+      "alt": "GCPRO technician cleaning debris from an interior with exposed wall framing during home restoration.",
+      "web_dimensions": [
+        1448,
+        1086
+      ],
+      "web_bytes": 255830,
+      "source_bytes": 2663452
+    }
+  ],
+  "active_asset_bytes": 5166056,
+  "responsive": [
+    {
+      "all4x3Frames": true,
+      "allImages4x3": true,
+      "allImagesHaveAlt": true,
+      "allImagesLoaded": true,
+      "allImagesWebP": true,
+      "h1": 1,
+      "scrollWidth": 345,
+      "sliders": 15,
+      "width": 360
+    },
+    {
+      "all4x3Frames": true,
+      "allImages4x3": true,
+      "allImagesHaveAlt": true,
+      "allImagesLoaded": true,
+      "allImagesWebP": true,
+      "h1": 1,
+      "scrollWidth": 378,
+      "sliders": 15,
+      "width": 393
+    },
+    {
+      "all4x3Frames": true,
+      "allImages4x3": true,
+      "allImagesHaveAlt": true,
+      "allImagesLoaded": true,
+      "allImagesWebP": true,
+      "h1": 1,
+      "scrollWidth": 415,
+      "sliders": 15,
+      "width": 430
+    },
+    {
+      "all4x3Frames": true,
+      "allImages4x3": true,
+      "allImagesHaveAlt": true,
+      "allImagesLoaded": true,
+      "allImagesWebP": true,
+      "h1": 1,
+      "scrollWidth": 753,
+      "sliders": 15,
+      "width": 768
+    },
+    {
+      "all4x3Frames": true,
+      "allImages4x3": true,
+      "allImagesHaveAlt": true,
+      "allImagesLoaded": true,
+      "allImagesWebP": true,
+      "h1": 1,
+      "scrollWidth": 1009,
+      "sliders": 15,
+      "width": 1024
+    },
+    {
+      "all4x3Frames": true,
+      "allImages4x3": true,
+      "allImagesHaveAlt": true,
+      "allImagesLoaded": true,
+      "allImagesWebP": true,
+      "h1": 1,
+      "scrollWidth": 1425,
+      "sliders": 15,
+      "width": 1440
+    }
+  ],
+  "drag_checks": [
+    {
+      "index": 1,
+      "moved": true
+    },
+    {
+      "index": 2,
+      "moved": true
+    },
+    {
+      "index": 3,
+      "moved": true
+    },
+    {
+      "index": 4,
+      "moved": true
+    },
+    {
+      "index": 5,
+      "moved": true
+    },
+    {
+      "index": 6,
+      "moved": true
+    },
+    {
+      "index": 7,
+      "moved": true
+    },
+    {
+      "index": 8,
+      "moved": true
+    },
+    {
+      "index": 9,
+      "moved": true
+    },
+    {
+      "index": 10,
+      "moved": true
+    },
+    {
+      "index": 11,
+      "moved": true
+    }
+  ],
+  "protected_document_bodies_unchanged": {
+    "154": true,
+    "113": true,
+    "114": true,
+    "1008": true
+  },
+  "no_original_media_deleted": true,
+  "new_custom_code": 0,
+  "new_classes": 0,
+  "new_library_components": 0,
+  "new_dependencies": 0,
+  "production_changes": false
+}

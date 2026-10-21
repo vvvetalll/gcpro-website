@@ -1,5 +1,33 @@
 # GCPRO design system
 
+## Photographic media — E81
+
+Optimize new/replaced photographic images to WebP with suitable dimensions and truthful alt/title/description. Comparison pairs use the owner-approved4:3 crop, matching dimensions and no stretching; retain original files. Avoid redundant near-identical comparison cards. This does not require rasterizing SVG logos/icons or rewriting historical media outside scope. [Gallery owners and verification](components/before-after.md#e81--owner-supplied-gallery-and-optimized-photographs-2026-10-21).
+
+## CTA button hierarchy — E82, 2026-10-21
+
+Select an existing Atomic Button by **both action purpose and page context**. Apply this rule to future Residential, Commercial, individual service, Service Areas, Projects and Partner Programs pages; it does not authorize a site-wide redesign.
+
+Before selecting a variant evaluate the section background/layout, immediately preceding and following sections, the number of similar buttons visible nearby, overall visual rhythm/hierarchy, and whether the action converts, supports conversion or navigates. Avoid excessive repetition and visually competing primary actions. If multiple variants seem equally suitable or a choice could disrupt established hierarchy, ask the owner before implementing.
+
+| Hierarchy / role | Existing variant | Typical use |
+| --- | --- | --- |
+| Primary conversion | Solid Orange53 / button-primary g-92745fa, #F05A29 | Call Now, Request Service, principal Hero and final emergency/conversion action |
+| Supporting conversion | Orange Outline100 / button-outline-orange g-563da68 | Contextual contact/consultation when appropriate among surrounding actions |
+| Supporting conversion, contextual alternative | Solid Blue56 / button-secondary g-e47e377, white text | Residential assessment CTA after six Orange Outline service cards: distinguish the section action from a seventh card action |
+| Navigation / exploration | Blue Outline59 / button-outline g-b5f3969 | View Projects, Explore Services, View All Service Areas, Learn More |
+
+Preserve destinations, sizing, typography, spacing, radius, native hover and keyboard focus. Reuse existing Button components/established variants; do not create a new component, duplicate Global Class or custom CSS for a variant choice. Verify contrast on actual light/dark backgrounds. Do not automatically replace approved dark-surface/white-outline compositions. Context may justify an existing alternative while preserving the action's logical role.
+
+**Current Residential correction:** Discuss Your Home Restoration uses existing Solid Blue styling with white text. All six service-card Orange Outline actions remain unchanged. Its native Internal URL still targets Request Service492. The temporary Orange Outline assessment treatment is superseded by this explicit owner refinement.
+
+**Exact implementation/necessary native exception:** existing Image + Text77 root62ef2b5 → Container5a2d7f63 → Layout239b4748 → Copy6bec24a (Heading12670ce8→71, CTA77a9e83d) and Image5222447. CTA is a native Atomic e-button using the existing button-secondary class, with the existing77 cta_text/cta_link Overrides. Shared Button53/56/59/100 definitions and shared Global Classes are unchanged. Existing56 cannot be placed unchanged here: its class globally hides buttons at≤1024px and forces nowrap. Therefore this one77 action has native local style e-536d7b45-aba6: display inline-flex at desktop/tablet/mobile and white-space normal. No custom CSS, new Global Class or new library Component; the native override keeps the existing variant visible and its long label wrapped. This is an instance-specific visibility correction, not a new visual button style.77's other styles and seven public Overrides remain. Residential484/26c8a5b5 is its only published Page consumer found; Draft Style Guide50 inherits the same section pattern.
+
+**Verification:**393/768/1440px authenticated frontend: solid navy rgb(26,50,125), white text, same /service-request/ URL, all six Orange Outline service actions, no horizontal overflow. Padding16px24px, Montserrat600/16px,8px radius; height52.53px desktop/71.73px naturally wrapped mobile/tablet. Keyboard focus retains navy outline and white halo. White/navy contrast is about11.7:1. Existing shared hover rules retained; no physical-device or screen-reader certification. Orange Outline elsewhere still uses #F05A29 on white (~3.39:1), below AA normal-text4.5:1; do not claim site-wide contrast compliance from this correction.
+
+Edit [Image + Text77](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=77&action=elementor). Recovery: return this native action to the previous existing Orange Outline class and remove its native display/wrapping override; retain label/link Overrides and the component. Clear Elementor Files & Data and SG Cache. E82 changes no BEAF records or production. Separately requested Homepage caption3a39c79b now reads Water Damage Restoration — Glenview, IL; no photo/slider change.
+
+
 **Current E78,2026-10-21:** Residential484 main content headings now follow01–07 using existing Section Heading71/styles and shared section content Overrides. Optional empty-default eyebrow added to existing71 and forwarded by77; Homepage visible headings unchanged. Homepage Residential card4c8810dc now binds to native InternalURL Page484; existing menu109 already references that Page. No new classes/Components/custom code/dependencies or URL changes. Seven-width heading tests and real card navigation pass. [Exact owners, checks and rollback](components/residential-services.md#e78--numbered-heading-consistency-and-native-residential-entry-link).
 
 **Current E77,2026-10-21:** Residential Services484 is a completed nine-section Atomic service hub. Existing Homepage designs promoted once into shared How We Work1152, Why1149 and Service Areas1140 and placed on both Pages; residential content uses Overrides. Existing CTA80/Code847 now share video/radius behavior;590 shares touch timeline animation. No new Global Classes/Variables/plugins/dependencies; three actual shared definitions,52 Page nodes/no new local Page CSS. Header/Footer/Core/BEAF unaffected.93 Pages88 Published/5 Draft;321 URL records preserved. Seven-width browser tests pass; anonymous403, editor loading and rendered meta-description remain explicit limits. [Exact owners, reuse, evidence and rollback](components/residential-services.md).

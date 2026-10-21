@@ -1,5 +1,7 @@
 # Additional Atomic library patterns
 
+**E82 current:** Image + Text77 CTA77a9e83d now uses the existing Solid Blue class on a native Atomic Button; root62ef2b5. The seven public Overrides and existing styles are preserved. Residential484 is the only published Page consumer; Draft Style Guide50 inherits the same pattern. Older77 locators below are historical. [CTA rules and verification](../DESIGN_SYSTEM.md#cta-button-hierarchy--e82-2026-10-21).
+
 E78: Image+Text77 forwards optional eyebrow to its existing nested Section Heading71 and reuses section-heading--accent on Copy. Existing image/action/heading Override keys retained; root now1a39a5fc. No new definition/class/code. [Owners and verification](residential-services.md#e78--numbered-heading-consistency-and-native-residential-entry-link).
 
 **E77 current:** First service hub uses established62/77/83, while actual Homepage Why/Process/Areas designs are promoted to1149/1152/1140 for shared reuse rather than visually different alternatives. [Current exact locations and checks](residential-services.md).

@@ -1,5 +1,9 @@
 # AIOSEO global configuration — E80, 2026-10-21
 
+## E81 image/gallery metadata
+
+Page493 native AIOSEO title: `Restoration Before & After Photos | GCPRO`; description: `Explore GCPRO before-and-after photos of home and commercial restoration, including interiors, kitchens, bathrooms and exterior repairs.` Canonical retains staging `/before-and-after/`; featured image1248 uses optimized4:3 WebP. Staging noindex preserved. All gallery image alt fields present; Media titles/descriptions supplied. Technician1243 carries a descriptive alt and Media title/description; no filename stuffing or new custom schema. Existing Residential authored metadata unchanged. [Assets and exact owners](components/before-after.md).
+
 Staging only. Existing AIOSEO Pro5.0.4 emitter; existing Lite5.0.3 also remains active. No plugin installed, replaced, deactivated or updated. Native supported options/post metadata APIs; no direct database edits or deployed custom code. [Search Appearance](https://vitaliiv1.sg-host.com/wp-admin/admin.php?page=aioseo-search-appearance#/global-settings) · [Social](https://vitaliiv1.sg-host.com/wp-admin/admin.php?page=aioseo-social-networks) · [Sitemaps](https://vitaliiv1.sg-host.com/wp-admin/admin.php?page=aioseo-sitemaps) · [Reading](https://vitaliiv1.sg-host.com/wp-admin/options-reading.php).
 
 ## Titles and defaults

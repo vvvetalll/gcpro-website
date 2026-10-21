@@ -1,5 +1,11 @@
 # Residential Services — E77, 2026-10-21
 
+## E81/E82 — image and contextual CTA
+
+Existing77 instance26c8a5b5 now uses technician WebP1243 (1448x1086,4:3) in the assessment section. Attachment alt: "GCPRO technician cleaning debris from an interior with exposed wall framing during home restoration." Descriptive title/description supplied; no visible caption added. Original724 retained for rollback.
+
+E82 now uses existing Solid Blue button-secondary styling on a native Atomic Button; the temporary Orange Outline treatment was superseded, preserving Discuss Your Home Restoration and Internal URL Page492. No new library Button/Global Class/custom CSS; one native visibility/wrapping override keeps the existing blue variant visible on mobile. [Canonical hierarchy, exact component owners, responsive evidence and contrast limitation](../DESIGN_SYSTEM.md#cta-button-hierarchy--e82-2026-10-21). Existing77 root now62ef2b5; shared53/100 definitions untouched. No Residential body change for the CTA; existing overrides continue to resolve. Image rollback: restore724 in this instance only.
+
 ## E79 — complete SEO content through existing Overrides
 
 Full Residential visible copy, H1, intros,8 H2/16 H3, six service cards, four process/Why items, six FAQs and CTA copy now optimized. Existing design/styles/classes/destinations retained;53 native nodes after separately requested Hero reuse of Glenview742, compact intro and balanced process copy. Plugin and original comparisons unchanged; no shared definition changed. Exact instances/keys/final text, AIOSEO fields, keyword evidence, QA and rollback: [complete content brief](../seo/2026-10-21-residential-services.md). [Global AIOSEO configuration](../SEO_AIOSEO.md).

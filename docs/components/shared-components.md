@@ -1,5 +1,9 @@
 # Shared Atomic component library
 
+## E82 — contextual CTA hierarchy
+
+[Canonical CTA rules, exact implementation and tests](../DESIGN_SYSTEM.md#cta-button-hierarchy--e82-2026-10-21). Primary53, supporting100 or contextual Solid Blue56 styling, navigation59. Residential assessment now uses the existing blue class on native Atomic Button inside77; its local native visibility/wrapping override is necessary because the existing class hides56 on mobile. All six card actions and shared button definitions remain unchanged. No new component/class/custom CSS.
+
 E78: existing Section Heading71 adds optional empty/hidden eyebrow Override; original public keys/defaults retained. Root now1c84f24b. Page-specific content numbering and existing accent classes are recorded in [Residential Services](residential-services.md#e78--numbered-heading-consistency-and-native-residential-entry-link). Homepage supplies its existing outer eyebrows and remains visually unchanged.
 
 **E58,2026-10-20:** New [Mobile Emergency CTA895](smart-navigation.md) composes the existing Outline White Button103 with one native label. Shared103 definition is unchanged.895 exposes label/call_text/call_link and is mounted once in the universal Header. Six new classes and one global Code903 are fully inventoried in that record; no new Variables/plugins/libraries.

@@ -1,0 +1,80 @@
+{
+  "milestone": "E82",
+  "date": "2026-10-21",
+  "host": "https://vitaliiv1.sg-host.com",
+  "page": 484,
+  "instance": "26c8a5b5",
+  "component": 77,
+  "nested_button_before": 53,
+  "nested_button_after": "native Atomic e-button;existing Solid Blue button-secondary g-e47e377",
+  "destination_page": 492,
+  "button_definitions_changed": false,
+  "new_classes": 0,
+  "new_components": 0,
+  "new_custom_code": 0,
+  "beaf_changes": false,
+  "production_changes": false,
+  "responsive": [
+    {
+      "bg": "rgb(26, 50, 125)",
+      "class": "button-secondary e-536d7b45-aba6 e-button-base e-default-a",
+      "color": "rgb(255, 255, 255)",
+      "font": "600 16px / 19.2px Montserrat",
+      "height": 71.72917175292969,
+      "href": "https://vitaliiv1.sg-host.com/service-request/",
+      "overflow": false,
+      "padding": "16px 24px",
+      "radius": "8px",
+      "serviceCardButtons": 6,
+      "viewport": 393,
+      "width": 338
+    },
+    {
+      "bg": "rgb(26, 50, 125)",
+      "class": "button-secondary e-536d7b45-aba6 e-button-base e-default-a",
+      "color": "rgb(255, 255, 255)",
+      "font": "600 16px / 19.2px Montserrat",
+      "height": 71.72917175292969,
+      "href": "https://vitaliiv1.sg-host.com/service-request/",
+      "overflow": false,
+      "padding": "16px 24px",
+      "radius": "8px",
+      "serviceCardButtons": 6,
+      "viewport": 768,
+      "width": 332.3333435058594
+    },
+    {
+      "bg": "rgb(26, 50, 125)",
+      "class": "button-secondary e-536d7b45-aba6 e-button-base e-default-a",
+      "color": "rgb(255, 255, 255)",
+      "font": "600 16px / 19.2px Montserrat",
+      "height": 52.53125,
+      "href": "https://vitaliiv1.sg-host.com/service-request/",
+      "overflow": false,
+      "padding": "16px 24px",
+      "radius": "8px",
+      "serviceCardButtons": 6,
+      "viewport": 1440,
+      "width": 355.0625
+    }
+  ],
+  "focus": "existing navy outline and white halo observed",
+  "contrast_limit": "Current blue/white about11.7:1;unchanged Orange Outline elsewhere about3.39:1 on white",
+  "internal_ids": {
+    "root": "62ef2b5",
+    "cta": "77a9e83d",
+    "image": "5222447"
+  },
+  "superseded_intermediate": 100,
+  "native_local_override": {
+    "id": "e-536d7b45-aba6",
+    "display": "inline-flex at desktop/tablet/mobile",
+    "white-space": "normal",
+    "reason": "Existing shared blue class hides at<=1024 and forces nowrap;shared definition retained"
+  },
+  "homepage_caption": {
+    "element": "3a39c79b",
+    "text": "Water Damage Restoration \u2014 Glenview, IL"
+  },
+  "decision_rule": "purpose AND visual context;ask owner if ambiguous"
+}

@@ -39,6 +39,12 @@ Avoid hidden CSS, JavaScript, HTML-widget workarounds, fragile selectors, direct
 
 Discover actual connector capabilities and schemas. Tool presence is not a successful staging test. Read fresh structure before changes and after saves; never reuse stale element trees after another write. Do not infer IDs from labels or copy IDs between installations.
 
+## Purpose-based CTA hierarchy
+
+For all future pages evaluate both action purpose and full-page visual context: section background/layout, preceding/following sections, nearby similar buttons, overall hierarchy and rhythm. Use existing53 Solid Orange for principal conversions,100 Orange Outline for supporting enquiries, contextual Solid Blue56 styling when repetition warrants it (as explicitly approved for Residential assessment), and59 Blue Outline for navigation. Ask the owner before implementing when variants seem equally suitable or hierarchy could be disrupted. Avoid competing primary actions in one content section. Preserve native destinations, component geometry, hover and keyboard focus. No new button components/classes/local CSS for a variant swap. Follow docs/DESIGN_SYSTEM.md; verify contrast on the actual surface and report inherited accessibility limits honestly. For a small approved style correction, apply the existing variant directly and perform a short targeted check; do not expand it into a redesign or unrelated audit.
+
+New or replaced photographic assets must be appropriately sized and optimized to WebP, with descriptive filenames and truthful alt/title/description. Use approved4:3 crops for comparison galleries; never stretch images or rasterize useful SVGs. Preserve source files and avoid duplicate views.
+
 ## Shared section consistency
 
 Reuse one established visual design per shared section type. Homepage How We Work1152, Why1149, Service Areas1140 and Final CTA80 are shared definitions; change content through supported Overrides, not duplicated structures or different styling. Preserve uppercase Hero H1 typography. Create a new Component only for a genuinely missing repeated design, not because page copy differs. See docs/components/residential-services.md.
