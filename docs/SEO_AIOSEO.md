@@ -1,18 +1,18 @@
-# AIOSEO global configuration â€” E80, 2026-10-21
+# AIOSEO global configuration — E80, 2026-10-21
 
-Staging only. Existing AIOSEO Pro5.0.4 emitter; existing Lite5.0.3 also remains active. No plugin installed, replaced, deactivated or updated. Native supported options/post metadata APIs; no direct database edits or deployed custom code. [Search Appearance](https://vitaliiv1.sg-host.com/wp-admin/admin.php?page=aioseo-search-appearance#/global-settings) Â· [Social](https://vitaliiv1.sg-host.com/wp-admin/admin.php?page=aioseo-social-networks) Â· [Sitemaps](https://vitaliiv1.sg-host.com/wp-admin/admin.php?page=aioseo-sitemaps) Â· [Reading](https://vitaliiv1.sg-host.com/wp-admin/options-reading.php).
+Staging only. Existing AIOSEO Pro5.0.4 emitter; existing Lite5.0.3 also remains active. No plugin installed, replaced, deactivated or updated. Native supported options/post metadata APIs; no direct database edits or deployed custom code. [Search Appearance](https://vitaliiv1.sg-host.com/wp-admin/admin.php?page=aioseo-search-appearance#/global-settings) · [Social](https://vitaliiv1.sg-host.com/wp-admin/admin.php?page=aioseo-social-networks) · [Sitemaps](https://vitaliiv1.sg-host.com/wp-admin/admin.php?page=aioseo-sitemaps) · [Reading](https://vitaliiv1.sg-host.com/wp-admin/options-reading.php).
 
 ## Titles and defaults
 
 | Native editing location | Exact saved value / behavior |
 |---|---|
-| Search Appearance â†’ Global Settings â†’ Title Separator; `searchAppearance.global.separator` | `|` |
-| Content Types â†’ Pages; dynamic `searchAppearance.postTypes.page.title` | `#post_title #separator_sa GCPRO` |
-| Content Types â†’ Posts; dynamic `searchAppearance.postTypes.post.title` | `#post_title #separator_sa GCPRO` |
+| Search Appearance → Global Settings → Title Separator; `searchAppearance.global.separator` | `|` |
+| Content Types → Pages; dynamic `searchAppearance.postTypes.page.title` | `#post_title #separator_sa GCPRO` |
+| Content Types → Posts; dynamic `searchAppearance.postTypes.post.title` | `#post_title #separator_sa GCPRO` |
 | Pages / Posts metaDescription | `#post_excerpt`; authored per-page descriptions take precedence. Pages previously used whole `#post_content`. Blank structural excerpts can yield no description; do not invent generic page-specific copy. |
-| Taxonomies â†’ Categories / Tags title | `#taxonomy_title #separator_sa GCPRO` |
+| Taxonomies → Categories / Tags title | `#taxonomy_title #separator_sa GCPRO` |
 | Category / Tag description | Existing `#taxonomy_description`, retained; empty-category noindex retained |
-| Archives â†’ Author / Date / Search titles | `#author_name #separator_sa GCPRO`; `#archive_date #separator_sa GCPRO`; `#search_term #separator_sa GCPRO` |
+| Archives → Author / Date / Search titles | `#author_name #separator_sa GCPRO`; `#archive_date #separator_sa GCPRO`; `#search_term #separator_sa GCPRO` |
 | Page schema default | Existing WebPage |
 | Post schema default | Existing Article / BlogPosting |
 | Taxonomy schema | Native archive CollectionPage generation |
@@ -25,21 +25,21 @@ Literal GCPRO avoids inheriting the longer WordPress `#site_title`. Page-specifi
 
 Only two Pages in the93-Page native inventory have authored SEO title/description values; other pages inherit defaults and are not claimed individually optimized.
 
-### Homepage â€” Page154
+### Homepage — Page154
 
 - Title: **Property Restoration in Chicago | GCPRO**
 - Description: GCPRO provides residential and commercial restoration in Chicago and Chicagoland. Explore water, fire, mold and storm damage services. Call 847-656-3322.
 - Canonical: `https://vitaliiv1.sg-host.com/`
 - Matching authored OG/Twitter title/description; OG website; `summary_large_image` using OG.
 
-### Residential Services â€” Page484
+### Residential Services — Page484
 
 - Title: **Residential Restoration Services in Chicago | GCPRO**
 - Description: Water, fire, mold or storm damage at home? GCPRO offers residential restoration services in Chicago and Chicagoland. Call 847-656-3322 to discuss your project.
 - Canonical: `https://vitaliiv1.sg-host.com/residential-services/`
 - Matching authored OG/Twitter title/description; OG website; `summary_large_image` using OG.
 
-Homepage authored fields remain stored on Page154; static Homepage wins over the global fallback. E80 also aligns global `siteTitle` and `metaDescription` to the approved Homepage values. Its custom OG image source is native `custom_image`, URL `https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/tinley-6-6.jpg`,1600Ã—1200, original after-photo Media725; no visible Hero or shortcode edit. Residential uses featured747 and native Service graph; [full copy and schema](seo/2026-10-21-residential-services.md). Canonicals remain staging-self, never production by assumption. Host/canonical migration needs explicit launch review.
+Homepage authored fields remain stored on Page154; static Homepage wins over the global fallback. E80 also aligns global `siteTitle` and `metaDescription` to the approved Homepage values. Its custom OG image source is native `custom_image`, URL `https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/tinley-6-6.jpg`,1600×1200, original after-photo Media725; no visible Hero or shortcode edit. Residential uses featured747 and native Service graph; [full copy and schema](seo/2026-10-21-residential-services.md). Canonicals remain staging-self, never production by assumption. Host/canonical migration needs explicit launch review.
 
 ## Website brand versus organization identity
 
@@ -49,17 +49,17 @@ Knowledge Graph `websiteName=GCPRO`, `websiteAlternateName=GCPRO Restoration`; e
 
 ## Social sharing
 
-Social Networks â†’ Social Profiles now uses the four actual existing Footer destinations: Facebook `https://www.facebook.com/GCPRORESTORATION/`, LinkedIn `https://www.linkedin.com/company/gcpro-restoration/`, Instagram `https://www.instagram.com/gcprorestoration/`, Yelp `https://www.yelp.com/biz/gcpro-restoration-lombard-2`. Other handles remain empty. Configured profiles and rendered sameAs are distinct: observed Organization emits Instagram/LinkedIn/Yelp, but not the configured Facebook URL; no custom schema workaround was introduced.
+Social Networks → Social Profiles now uses the four actual existing Footer destinations: Facebook `https://www.facebook.com/GCPRORESTORATION/`, LinkedIn `https://www.linkedin.com/company/gcpro-restoration/`, Instagram `https://www.instagram.com/gcprorestoration/`, Yelp `https://www.yelp.com/biz/gcpro-restoration-lombard-2`. Other handles remain empty. Configured profiles and rendered sameAs are distinct: observed Organization emits Instagram/LinkedIn/Yelp, but not the configured Facebook URL; no custom schema workaround was introduced.
 
-Facebook general enabled, siteName **GCPRO**, default post image source `featured`, fallback image Media747 JPEG1600Ã—1200; terms fallback same image. Replaces SVG-only social fallback without altering the Organization SVG logo. Twitter enabled, useOgData=true, summary_large_image, same featured/fallback image. Author attribution disabled globally for social cards rather than advertising fixture authors; Post OG type remains article, Pages and Categories/Tags now website. BEAF dynamic settings unchanged. No external sharing/debugger submission was made; actual rendered tags were verified.
+Facebook general enabled, siteName **GCPRO**, default post image source `featured`, fallback image Media747 JPEG1600×1200; terms fallback same image. Replaces SVG-only social fallback without altering the Organization SVG logo. Twitter enabled, useOgData=true, summary_large_image, same featured/fallback image. Author attribution disabled globally for social cards rather than advertising fixture authors; Post OG type remains article, Pages and Categories/Tags now website. BEAF dynamic settings unchanged. No external sharing/debugger submission was made; actual rendered tags were verified.
 
 ## Sitemap and indexing configuration
 
-**Staging Reading â†’ Discourage search engines from indexing this site remains checked**; actual Page484/Home154/Portfolio1132 HTML emits `noindex, nofollow, max-image-preview:large`. No indexing enabled, robots permissions weakened, redirects created, URL restructuring or migration decisions executed.
+**Staging Reading → Discourage search engines from indexing this site remains checked**; actual Page484/Home154/Portfolio1132 HTML emits `noindex, nofollow, max-image-preview:large`. No indexing enabled, robots permissions weakened, redirects created, URL restructuring or migration decisions executed.
 
 Initially AIOSEO XML/RSS, News/Video/HTML options were enabled by default; initial XML exposed a Page sitemap despite noindex. Final staging-only state: **XML=false, RSS=false, News=false, Video=false, HTML=false**, llms=false retained. Do not advertise unpublished placeholder structures to crawlers. Prepared General XML selection remains explicit post/page, taxonomies category/post_tag; RSS selection post only. This excludes attachments, utilities and unrelated plugin types; no content objects were removed or edited. Author/date sitemap switches stay false, additional pages false, no custom priority/frequency invented. Empty terms/private/draft content follow native exclusions.
 
-Anonymous after cache purge: Residential403; robots.txt200 with `/wp-admin/` disallow and no sitemap lines; sitemap.rss404. `/sitemap.xml` uses WordPress's existing provider fallback301â†’`/wp-sitemap.xml`, which404 while search engines are discouraged. This is core behavior after disabling generation, **not an authored redirect/migration rule**; no Redirection/AIOSEO redirect engine changes were made. Robots.txt does not itself block every frontend path; actual noindex and the observed access restriction remain the protection evidence, not a claim of robots `Disallow: /`.
+Anonymous after cache purge: Residential403; robots.txt200 with `/wp-admin/` disallow and no sitemap lines; sitemap.rss404. `/sitemap.xml` uses WordPress's existing provider fallback301→`/wp-sitemap.xml`, which404 while search engines are discouraged. This is core behavior after disabling generation, **not an authored redirect/migration rule**; no Redirection/AIOSEO redirect engine changes were made. Robots.txt does not itself block every frontend path; actual noindex and the observed access restriction remain the protection evidence, not a claim of robots `Disallow: /`.
 
 Production launch is a separate approval: validate real content/indexing/canonical hosts, registered project CPT/taxonomies, publication statuses and intended archive policy; then explicitly enable XML/RSS if appropriate. Never enable indexing merely to obtain a plugin score. Current settings are intentionally a staging configuration, not production deployment-ready certification.
 
@@ -76,13 +76,13 @@ Recovery: use private pre-E79 supported settings export to restore ONLY changed 
 Official reference: [AIOSEO sitemap content selection](https://aioseo.com/docs/choosing-which-content-to-include-in-your-xml-sitemap/), [indexing controls](https://aioseo.com/docs/showing-or-hiding-your-content-in-search-results/). Local behavior and supported option values were additionally verified against the installed version's native UI/schema and the owner's5.0.4 plugin archive, read only.
 
 
-## E80 â€” completed global setup and Trustindex cleanup
+## E80 — completed global setup and Trustindex cleanup
 
-[Sanitized settings and actual HTML evidence](evidence/2026-10-21-aioseo-global.json). No page/template body, shared Component, Header, Footer, BEAF or URL edit in this milestone. Native AIOSEO settings are the only SEO runtime owner. User disabled Rich Snippets in the separate staging Trustindex cloud widget; agent cleared **staging** Trustindex Advanced â†’ Widget cache â†’ Clear cache, then Purge SG Cache. No production/cloud widget configuration was changed by the agent.
+[Sanitized settings and actual HTML evidence](evidence/2026-10-21-aioseo-global.json). No page/template body, shared Component, Header, Footer, BEAF or URL edit in this milestone. Native AIOSEO settings are the only SEO runtime owner. User disabled Rich Snippets in the separate staging Trustindex cloud widget; agent cleared **staging** Trustindex Advanced → Widget cache → Clear cache, then Purge SG Cache. No production/cloud widget configuration was changed by the agent.
 
 ### Local Business: exact storage and source verification
 
-[Local SEO â†’ Locations](https://vitaliiv1.sg-host.com/wp-admin/admin.php?page=aioseo-local-seo#/locations), native `options.localBusiness`:
+[Local SEO → Locations](https://vitaliiv1.sg-host.com/wp-admin/admin.php?page=aioseo-local-seo#/locations), native `options.localBusiness`:
 
 | Path beneath localBusiness | Saved configuration |
 |---|---|
@@ -96,22 +96,22 @@ Official reference: [AIOSEO sitemap content selection](https://aioseo.com/docs/c
 | openingHours.show / alwaysOpen / timezone | false / false / America/Chicago |
 | maps.mapOptions.center | lat41.8423663; lng-88.0193112, actual official GBP place marker |
 
-Confirmed against [official production contact information](https://gcprochicago.com/contact-us/) and its [Google Business Profile destination](https://www.google.com/maps/place/GCPRO%2BRestoration/@41.8423663,-88.0193112,15z/data=!4m6!3m5!1s0x880fcd7522dd1503:0x63354c708d5cf6d6!8m2!3d41.8423663!4d-88.0193112!16s%2Fg%2F1tp0f843?entry=ttu), read only. GBP shows Open24hours all seven days; this does not verify physical office reception hours. Owner explicitly requires unspecified office hours unless confirmed. Native show=false suppresses stored default9â€“5 values; no openingHoursSpecification appears in rendered schema. Existing public24/7 emergency messaging stays separate. No legalName, VAT, prices, payment methods, qualifications, Google Place ID or additional offices invented.
+Confirmed against [official production contact information](https://gcprochicago.com/contact-us/) and its [Google Business Profile destination](https://www.google.com/maps/place/GCPRO%2BRestoration/@41.8423663,-88.0193112,15z/data=!4m6!3m5!1s0x880fcd7522dd1503:0x63354c708d5cf6d6!8m2!3d41.8423663!4d-88.0193112!16s%2Fg%2F1tp0f843?entry=ttu), read only. GBP shows Open24hours all seven days; this does not verify physical office reception hours. Owner explicitly requires unspecified office hours unless confirmed. Native show=false suppresses stored default9–5 values; no openingHoursSpecification appears in rendered schema. Existing public24/7 emergency messaging stays separate. No legalName, VAT, prices, payment methods, qualifications, Google Place ID or additional offices invented.
 
-Search Appearance â†’ Global Settings â†’ Knowledge Graph retains official organization identity, SVG logo and short Website name GCPRO. New `searchAppearance.global.schema.organizationDescription`: **Residential and commercial property restoration in Chicago and Chicagoland, with 24/7 emergency restoration services.** New global title fallback: `Property Restoration in Chicago #separator_sa GCPRO`; description matches the authored Homepage description above. This does not alter the approved per-page exceptions.
+Search Appearance → Global Settings → Knowledge Graph retains official organization identity, SVG logo and short Website name GCPRO. New `searchAppearance.global.schema.organizationDescription`: **Residential and commercial property restoration in Chicago and Chicagoland, with 24/7 emergency restoration services.** New global title fallback: `Property Restoration in Chicago #separator_sa GCPRO`; description matches the authored Homepage description above. This does not alter the approved per-page exceptions.
 
 ### Schema owners and actual limitations
 
 Homepage now emits native BreadcrumbList, HomeAndConstructionBusiness, Organization, WebPage and WebSite in **one** AIOSEO graph. Local establishment and brand Organization have distinct IDs and a native brand reference; they are not duplicate rating graphs. Residential retains its native Service provider reference and existing authored metadata. No self-serving Product/rating markup was added to AIOSEO.
 
-**Trustindex resolved:** Homepage154 â†’ existing shortcode widget02441ff â†’ `[trustindex data-widget-id=3c3f6b184e520136de76f94fefa]`, Widgets for Google Reviews14.2. After owner disabled staging Rich Snippets and native caches refreshed, authenticated browser and anonymous raw Homepage HTML both contain **no Product schema**. Ten reviews and loaded images remain; native Next carousel control clicked successfully. Prior E79/pre-refresh evidence remains dated history, not current output. Production widget untouched. There is no supported local shortcode rich-snippet flag; no CSS/JS/schema stripping hack or plugin-file edit was used.
+**Trustindex resolved:** Homepage154 → existing shortcode widget02441ff → `[trustindex data-widget-id=3c3f6b184e520136de76f94fefa]`, Widgets for Google Reviews14.2. After owner disabled staging Rich Snippets and native caches refreshed, authenticated browser and anonymous raw Homepage HTML both contain **no Product schema**. Ten reviews and loaded images remain; native Next carousel control clicked successfully. Prior E79/pre-refresh evidence remains dated history, not current output. Production widget untouched. There is no supported local shortcode rich-snippet flag; no CSS/JS/schema stripping hack or plugin-file edit was used.
 
 **Vendor limitation retained:** installed Local Business1.3.17 `app/Schema/Graphs/LocalBusiness.php` generates `logo` as `https://vitaliiv1.sg-host.com/#logo`, without a matching ImageObject. Organization's actual SVG/ImageObject remains valid, and LocalBusiness.image is an actual JPEG. This was verified in installed source read only; no plugin patch/filter/parallel schema engine. No claim of external rich-result validation. Maps has no API key: saved marker center is verified, but interactive map/GeoCoordinates are not emitted. Do not invent a Place ID, enable billing or treat this as completed Maps integration.
 
 ### Archive rules, breadcrumbs and remaining modules
 
-- Search Appearance â†’ Archives: Author.show=false and Date.show=false; search results noindex retained. Content Types â†’ Media attachment.show=false and short-brand title. Taxonomies â†’ category.show=false, post_tag.show=false while only empty Uncategorized exists. Their default descriptions remain native taxonomy descriptions; no mass per-record overwrites. BEAF dynamic settings unchanged.
-- [Breadcrumbs](https://vitaliiv1.sg-host.com/wp-admin/admin.php?page=aioseo-breadcrumbs): `breadcrumbs.categoryFullHierarchy=true`; existing Home link, current-item behavior and separator retained. Actual city BreadcrumbList preserves Home â†’ Service Area â†’ Lombard. No new visible breadcrumb widget or duplicated component.
+- Search Appearance → Archives: Author.show=false and Date.show=false; search results noindex retained. Content Types → Media attachment.show=false and short-brand title. Taxonomies → category.show=false, post_tag.show=false while only empty Uncategorized exists. Their default descriptions remain native taxonomy descriptions; no mass per-record overwrites. BEAF dynamic settings unchanged.
+- [Breadcrumbs](https://vitaliiv1.sg-host.com/wp-admin/admin.php?page=aioseo-breadcrumbs): `breadcrumbs.categoryFullHierarchy=true`; existing Home link, current-item behavior and separator retained. Actual city BreadcrumbList preserves Home → Service Area → Expert Restoration Services in Lombard. No new visible breadcrumb widget or duplicated component.
 - [Link Assistant](https://vitaliiv1.sg-host.com/wp-admin/admin.php?page=aioseo-link-assistant): activation gate; addon unavailable. Demo dashboard link counts are not a crawl result. No install, automated linking or replacement code.
 - [Redirects](https://vitaliiv1.sg-host.com/wp-admin/admin.php?page=aioseo-redirects#/redirects): UI All0/Enabled0/Disabled0. Existing PHP method,404 and redirect logging with one-week retention retained; no automatic404 recovery, relocation, canonical redirect, htaccess writing or rule added. No IP/log data exported to Git.
 - Webmaster verification fields are empty; no credentials/tokens guessed, no account connection or sitemap submission. Existing RSS after-content attribution (`The post #post_link first appeared on #site_link.`) retained; before-content empty.
