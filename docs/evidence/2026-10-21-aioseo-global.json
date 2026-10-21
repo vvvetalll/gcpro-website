@@ -1,0 +1,1087 @@
+{
+  "milestone": "E80",
+  "checked_at_utc": "2026-10-21T19:22:01.595235+00:00",
+  "environment": "staging only",
+  "native_settings_patch": {
+    "options": {
+      "localBusiness": {
+        "locations": {
+          "general": {
+            "multiple": false
+          },
+          "business": {
+            "name": "GCPRO Restoration",
+            "businessType": "HomeAndConstructionBusiness",
+            "image": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/glenview-house-2.jpg",
+            "areaServed": "Chicago and the surrounding Chicagoland area",
+            "urls": {
+              "website": "https://vitaliiv1.sg-host.com/",
+              "aboutPage": "https://vitaliiv1.sg-host.com/about-us/",
+              "contactPage": "https://vitaliiv1.sg-host.com/contact-us/"
+            },
+            "address": {
+              "streetLine1": "220 Eisenhower Lane North",
+              "streetLine2": "",
+              "zipCode": "60148",
+              "city": "Lombard",
+              "state": "IL",
+              "country": "US"
+            },
+            "contact": {
+              "email": "restore@gcprochicago.com",
+              "phone": "+18476563322",
+              "phoneFormatted": "(847) 656-3322"
+            }
+          }
+        },
+        "openingHours": {
+          "show": false,
+          "alwaysOpen": false,
+          "timezone": "America/Chicago"
+        },
+        "maps": {
+          "mapOptions": {
+            "center": {
+              "lat": 41.8423663,
+              "lng": -88.0193112
+            }
+          }
+        }
+      },
+      "searchAppearance": {
+        "global": {
+          "siteTitle": "Property Restoration in Chicago #separator_sa GCPRO",
+          "metaDescription": "GCPRO provides residential and commercial restoration in Chicago and Chicagoland. Explore water, fire, mold and storm damage services. Call 847-656-3322.",
+          "schema": {
+            "organizationDescription": "Residential and commercial property restoration in Chicago and Chicagoland, with 24/7 emergency restoration services."
+          }
+        },
+        "archives": {
+          "author": {
+            "show": false
+          },
+          "date": {
+            "show": false
+          }
+        }
+      }
+    },
+    "dynamicOptions": {
+      "searchAppearance": {
+        "postTypes": {
+          "attachment": {
+            "show": false,
+            "title": "#post_title #separator_sa GCPRO"
+          }
+        },
+        "taxonomies": {
+          "category": {
+            "show": false
+          },
+          "post_tag": {
+            "show": false
+          }
+        }
+      }
+    }
+  },
+  "additional_native_setting": {
+    "breadcrumbs.categoryFullHierarchy": true
+  },
+  "seven_page_head_checks_before_vendor_cache_refresh": [
+    {
+      "canonical": "https://vitaliiv1.sg-host.com/",
+      "counts": {
+        "aioseoScripts": 1,
+        "canonical": 1,
+        "description": 1,
+        "title": 1
+      },
+      "description": "GCPRO provides residential and commercial restoration in Chicago and Chicagoland. Explore water, fire, mold and storm damage services. Call 847-656-3322.",
+      "h1": [
+        "Property restoration in Chicago"
+      ],
+      "ogDescription": "GCPRO provides residential and commercial restoration in Chicago and Chicagoland. Explore water, fire, mold and storm damage services. Call 847-656-3322.",
+      "ogImage": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/tinley-6-6.jpg",
+      "ogSiteName": "GCPRO",
+      "ogTitle": "Property Restoration in Chicago | GCPRO",
+      "ogType": "website",
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "schemas": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://vitaliiv1.sg-host.com/#breadcrumblist",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@id": "https://vitaliiv1.sg-host.com/#listItem",
+                  "@type": "ListItem",
+                  "name": "Home",
+                  "position": 1
+                }
+              ]
+            },
+            {
+              "@id": "https://vitaliiv1.sg-host.com/#localbusiness",
+              "@type": "HomeAndConstructionBusiness",
+              "address": {
+                "@id": "https://vitaliiv1.sg-host.com/#postaladdress",
+                "@type": "PostalAddress",
+                "addressCountry": "US",
+                "addressLocality": "Lombard",
+                "addressRegion": "IL",
+                "postalCode": "60148",
+                "streetAddress": "220 Eisenhower Lane North"
+              },
+              "areaServed": "Chicago and the surrounding Chicagoland area",
+              "brand": {
+                "@id": "https://vitaliiv1.sg-host.com/#organization"
+              },
+              "email": "restore@gcprochicago.com",
+              "image": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/glenview-house-2.jpg",
+              "location": {
+                "@id": "https://vitaliiv1.sg-host.com/#postaladdress"
+              },
+              "logo": "https://vitaliiv1.sg-host.com/#logo",
+              "name": "GCPRO Restoration",
+              "telephone": "+18476563322",
+              "url": "https://vitaliiv1.sg-host.com/"
+            },
+            {
+              "@id": "https://vitaliiv1.sg-host.com/#organization",
+              "@type": "Organization",
+              "address": {
+                "@id": "https://vitaliiv1.sg-host.com/#postaladdress",
+                "@type": "PostalAddress",
+                "addressCountry": "US",
+                "addressLocality": "Lombard",
+                "addressRegion": "IL",
+                "postalCode": "60148",
+                "streetAddress": "220 Eisenhower Lane North"
+              },
+              "description": "Residential and commercial property restoration in Chicago and Chicagoland, with 24/7 emergency restoration services.",
+              "email": "restore@gcprochicago.com",
+              "image": {
+                "@id": "https://vitaliiv1.sg-host.com/#organizationLogo"
+              },
+              "logo": {
+                "@id": "https://vitaliiv1.sg-host.com/#organizationLogo",
+                "@type": "ImageObject",
+                "height": 562,
+                "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/08/GCPRO_BLACK.svg",
+                "width": 1436
+              },
+              "name": "GCPRO Restoration",
+              "sameAs": [
+                "https://www.instagram.com/gcprorestoration/",
+                "https://www.linkedin.com/company/gcpro-restoration/",
+                "https://www.yelp.com/biz/gcpro-restoration-lombard-2"
+              ],
+              "telephone": "+18476563322",
+              "url": "https://vitaliiv1.sg-host.com/"
+            },
+            {
+              "@id": "https://vitaliiv1.sg-host.com/#webpage",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://vitaliiv1.sg-host.com/#breadcrumblist"
+              },
+              "dateModified": "2026-10-21T18:39:07+00:00",
+              "datePublished": "2026-10-15T21:00:51+00:00",
+              "description": "GCPRO provides residential and commercial restoration in Chicago and Chicagoland. Explore water, fire, mold and storm damage services. Call 847-656-3322.",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://vitaliiv1.sg-host.com/#website"
+              },
+              "name": "Property Restoration in Chicago | GCPRO",
+              "url": "https://vitaliiv1.sg-host.com/"
+            },
+            {
+              "@id": "https://vitaliiv1.sg-host.com/#website",
+              "@type": "WebSite",
+              "alternateName": "GCPRO Restoration",
+              "description": "Residential and Commercial Property Restoration",
+              "inLanguage": "en-US",
+              "name": "GCPRO",
+              "publisher": {
+                "@id": "https://vitaliiv1.sg-host.com/#organization"
+              },
+              "url": "https://vitaliiv1.sg-host.com/"
+            }
+          ],
+          "source": "AIOSEO"
+        }
+      ],
+      "title": "Property Restoration in Chicago | GCPRO",
+      "twitterCard": "summary_large_image",
+      "url": "https://vitaliiv1.sg-host.com/"
+    },
+    {
+      "canonical": "https://vitaliiv1.sg-host.com/residential-services/",
+      "counts": {
+        "aioseoScripts": 1,
+        "canonical": 1,
+        "description": 1,
+        "title": 1
+      },
+      "description": "Water, fire, mold or storm damage at home? GCPRO offers residential restoration services in Chicago and Chicagoland. Call 847-656-3322 to discuss your project.",
+      "h1": [
+        "Residential Restoration Services in Chicago"
+      ],
+      "ogDescription": "Water, fire, mold or storm damage at home? GCPRO offers residential restoration services in Chicago and Chicagoland. Call 847-656-3322 to discuss your project.",
+      "ogImage": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/glenview-house-2.jpg",
+      "ogSiteName": "GCPRO",
+      "ogTitle": "Residential Restoration Services in Chicago | GCPRO",
+      "ogType": "website",
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "schemas": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://vitaliiv1.sg-host.com/residential-services/#breadcrumblist",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@id": "https://vitaliiv1.sg-host.com/#listItem",
+                  "@type": "ListItem",
+                  "item": "https://vitaliiv1.sg-host.com/",
+                  "name": "Home",
+                  "nextItem": {
+                    "@id": "https://vitaliiv1.sg-host.com/residential-services/#listItem",
+                    "@type": "ListItem",
+                    "name": "Residential Restoration Services in Chicago"
+                  },
+                  "position": 1
+                },
+                {
+                  "@id": "https://vitaliiv1.sg-host.com/residential-services/#listItem",
+                  "@type": "ListItem",
+                  "name": "Residential Restoration Services in Chicago",
+                  "position": 2,
+                  "previousItem": {
+                    "@id": "https://vitaliiv1.sg-host.com/#listItem",
+                    "@type": "ListItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@id": "https://vitaliiv1.sg-host.com/#organization",
+              "@type": "Organization",
+              "address": {
+                "@id": "https://vitaliiv1.sg-host.com/#postaladdress",
+                "@type": "PostalAddress",
+                "addressCountry": "US",
+                "addressLocality": "Lombard",
+                "addressRegion": "IL",
+                "postalCode": "60148",
+                "streetAddress": "220 Eisenhower Lane North"
+              },
+              "description": "Residential and commercial property restoration in Chicago and Chicagoland, with 24/7 emergency restoration services.",
+              "email": "restore@gcprochicago.com",
+              "image": {
+                "@id": "https://vitaliiv1.sg-host.com/residential-services/#organizationLogo"
+              },
+              "logo": {
+                "@id": "https://vitaliiv1.sg-host.com/residential-services/#organizationLogo",
+                "@type": "ImageObject",
+                "height": 562,
+                "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/08/GCPRO_BLACK.svg",
+                "width": 1436
+              },
+              "name": "GCPRO Restoration",
+              "sameAs": [
+                "https://www.instagram.com/gcprorestoration/",
+                "https://www.linkedin.com/company/gcpro-restoration/",
+                "https://www.yelp.com/biz/gcpro-restoration-lombard-2"
+              ],
+              "telephone": "+18476563322",
+              "url": "https://vitaliiv1.sg-host.com/"
+            },
+            {
+              "@id": "https://vitaliiv1.sg-host.com/residential-services/#residential-restoration-service",
+              "@type": "Service",
+              "description": "Residential water, fire, mold and storm damage restoration, personal property restoration and home reconstruction in Chicago and Chicagoland.",
+              "image": {
+                "@type": "ImageObject",
+                "caption": "Living room after restoration, with a finished ceiling, large windows and seating.",
+                "height": 1200,
+                "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/glenview-house-2.jpg",
+                "width": 1600
+              },
+              "name": "Residential Restoration Services in Chicago",
+              "provider": {
+                "@id": "https://vitaliiv1.sg-host.com/#organization",
+                "@type": "Organization"
+              },
+              "serviceType": "Residential property restoration"
+            },
+            {
+              "@id": "https://vitaliiv1.sg-host.com/residential-services/#webpage",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://vitaliiv1.sg-host.com/residential-services/#breadcrumblist"
+              },
+              "dateModified": "2026-10-21T18:51:26+00:00",
+              "datePublished": "2026-10-21T15:53:01+00:00",
+              "description": "Water, fire, mold or storm damage at home? GCPRO offers residential restoration services in Chicago and Chicagoland. Call 847-656-3322 to discuss your project.",
+              "image": {
+                "@id": "https://vitaliiv1.sg-host.com/residential-services/#mainImage",
+                "@type": "ImageObject",
+                "caption": "Living room after restoration, with a finished ceiling, large windows and seating.",
+                "height": 1200,
+                "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/glenview-house-2.jpg",
+                "width": 1600
+              },
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://vitaliiv1.sg-host.com/#website"
+              },
+              "name": "Residential Restoration Services in Chicago | GCPRO",
+              "primaryImageOfPage": {
+                "@id": "https://vitaliiv1.sg-host.com/residential-services/#mainImage"
+              },
+              "url": "https://vitaliiv1.sg-host.com/residential-services/"
+            },
+            {
+              "@id": "https://vitaliiv1.sg-host.com/#website",
+              "@type": "WebSite",
+              "alternateName": "GCPRO Restoration",
+              "description": "Residential and Commercial Property Restoration",
+              "inLanguage": "en-US",
+              "name": "GCPRO",
+              "publisher": {
+                "@id": "https://vitaliiv1.sg-host.com/#organization"
+              },
+              "url": "https://vitaliiv1.sg-host.com/"
+            }
+          ],
+          "source": "AIOSEO"
+        }
+      ],
+      "title": "Residential Restoration Services in Chicago | GCPRO",
+      "twitterCard": "summary_large_image",
+      "url": "https://vitaliiv1.sg-host.com/residential-services/"
+    },
+    {
+      "canonical": "https://vitaliiv1.sg-host.com/commercial-services/",
+      "counts": {
+        "aioseoScripts": 1,
+        "canonical": 1,
+        "description": 0,
+        "title": 1
+      },
+      "description": null,
+      "h1": [
+        "Commercial Services"
+      ],
+      "ogDescription": null,
+      "ogImage": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/glenview-house-2.jpg",
+      "ogSiteName": "GCPRO",
+      "ogTitle": "Commercial Services | GCPRO",
+      "ogType": "website",
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "schemas": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://vitaliiv1.sg-host.com/commercial-services/#breadcrumblist",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@id": "https://vitaliiv1.sg-host.com/#listItem",
+                  "@type": "ListItem",
+                  "item": "https://vitaliiv1.sg-host.com/",
+                  "name": "Home",
+                  "nextItem": {
+                    "@id": "https://vitaliiv1.sg-host.com/commercial-services/#listItem",
+                    "@type": "ListItem",
+                    "name": "Commercial Services"
+                  },
+                  "position": 1
+                },
+                {
+                  "@id": "https://vitaliiv1.sg-host.com/commercial-services/#listItem",
+                  "@type": "ListItem",
+                  "name": "Commercial Services",
+                  "position": 2,
+                  "previousItem": {
+                    "@id": "https://vitaliiv1.sg-host.com/#listItem",
+                    "@type": "ListItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@id": "https://vitaliiv1.sg-host.com/#organization",
+              "@type": "Organization",
+              "address": {
+                "@id": "https://vitaliiv1.sg-host.com/#postaladdress",
+                "@type": "PostalAddress",
+                "addressCountry": "US",
+                "addressLocality": "Lombard",
+                "addressRegion": "IL",
+                "postalCode": "60148",
+                "streetAddress": "220 Eisenhower Lane North"
+              },
+              "description": "Residential and commercial property restoration in Chicago and Chicagoland, with 24/7 emergency restoration services.",
+              "email": "restore@gcprochicago.com",
+              "image": {
+                "@id": "https://vitaliiv1.sg-host.com/commercial-services/#organizationLogo"
+              },
+              "logo": {
+                "@id": "https://vitaliiv1.sg-host.com/commercial-services/#organizationLogo",
+                "@type": "ImageObject",
+                "height": 562,
+                "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/08/GCPRO_BLACK.svg",
+                "width": 1436
+              },
+              "name": "GCPRO Restoration",
+              "sameAs": [
+                "https://www.instagram.com/gcprorestoration/",
+                "https://www.linkedin.com/company/gcpro-restoration/",
+                "https://www.yelp.com/biz/gcpro-restoration-lombard-2"
+              ],
+              "telephone": "+18476563322",
+              "url": "https://vitaliiv1.sg-host.com/"
+            },
+            {
+              "@id": "https://vitaliiv1.sg-host.com/commercial-services/#webpage",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://vitaliiv1.sg-host.com/commercial-services/#breadcrumblist"
+              },
+              "dateModified": "2026-10-21T15:55:07+00:00",
+              "datePublished": "2026-10-21T15:55:07+00:00",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://vitaliiv1.sg-host.com/#website"
+              },
+              "name": "Commercial Services | GCPRO",
+              "url": "https://vitaliiv1.sg-host.com/commercial-services/"
+            },
+            {
+              "@id": "https://vitaliiv1.sg-host.com/#website",
+              "@type": "WebSite",
+              "alternateName": "GCPRO Restoration",
+              "description": "Residential and Commercial Property Restoration",
+              "inLanguage": "en-US",
+              "name": "GCPRO",
+              "publisher": {
+                "@id": "https://vitaliiv1.sg-host.com/#organization"
+              },
+              "url": "https://vitaliiv1.sg-host.com/"
+            }
+          ],
+          "source": "AIOSEO"
+        }
+      ],
+      "title": "Commercial Services | GCPRO",
+      "twitterCard": "summary_large_image",
+      "url": "https://vitaliiv1.sg-host.com/commercial-services/"
+    },
+    {
+      "canonical": "https://vitaliiv1.sg-host.com/service-area/",
+      "counts": {
+        "aioseoScripts": 1,
+        "canonical": 1,
+        "description": 0,
+        "title": 1
+      },
+      "description": null,
+      "h1": [
+        "Service Area"
+      ],
+      "ogDescription": null,
+      "ogImage": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/glenview-house-2.jpg",
+      "ogSiteName": "GCPRO",
+      "ogTitle": "Service Area | GCPRO",
+      "ogType": "website",
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "schemas": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://vitaliiv1.sg-host.com/service-area/#breadcrumblist",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@id": "https://vitaliiv1.sg-host.com/#listItem",
+                  "@type": "ListItem",
+                  "item": "https://vitaliiv1.sg-host.com/",
+                  "name": "Home",
+                  "nextItem": {
+                    "@id": "https://vitaliiv1.sg-host.com/service-area/#listItem",
+                    "@type": "ListItem",
+                    "name": "Service Area"
+                  },
+                  "position": 1
+                },
+                {
+                  "@id": "https://vitaliiv1.sg-host.com/service-area/#listItem",
+                  "@type": "ListItem",
+                  "name": "Service Area",
+                  "position": 2,
+                  "previousItem": {
+                    "@id": "https://vitaliiv1.sg-host.com/#listItem",
+                    "@type": "ListItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@id": "https://vitaliiv1.sg-host.com/#organization",
+              "@type": "Organization",
+              "address": {
+                "@id": "https://vitaliiv1.sg-host.com/#postaladdress",
+                "@type": "PostalAddress",
+                "addressCountry": "US",
+                "addressLocality": "Lombard",
+                "addressRegion": "IL",
+                "postalCode": "60148",
+                "streetAddress": "220 Eisenhower Lane North"
+              },
+              "description": "Residential and commercial property restoration in Chicago and Chicagoland, with 24/7 emergency restoration services.",
+              "email": "restore@gcprochicago.com",
+              "image": {
+                "@id": "https://vitaliiv1.sg-host.com/service-area/#organizationLogo"
+              },
+              "logo": {
+                "@id": "https://vitaliiv1.sg-host.com/service-area/#organizationLogo",
+                "@type": "ImageObject",
+                "height": 562,
+                "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/08/GCPRO_BLACK.svg",
+                "width": 1436
+              },
+              "name": "GCPRO Restoration",
+              "sameAs": [
+                "https://www.instagram.com/gcprorestoration/",
+                "https://www.linkedin.com/company/gcpro-restoration/",
+                "https://www.yelp.com/biz/gcpro-restoration-lombard-2"
+              ],
+              "telephone": "+18476563322",
+              "url": "https://vitaliiv1.sg-host.com/"
+            },
+            {
+              "@id": "https://vitaliiv1.sg-host.com/service-area/#webpage",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://vitaliiv1.sg-host.com/service-area/#breadcrumblist"
+              },
+              "dateModified": "2026-10-21T15:55:05+00:00",
+              "datePublished": "2026-10-21T15:55:05+00:00",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://vitaliiv1.sg-host.com/#website"
+              },
+              "name": "Service Area | GCPRO",
+              "url": "https://vitaliiv1.sg-host.com/service-area/"
+            },
+            {
+              "@id": "https://vitaliiv1.sg-host.com/#website",
+              "@type": "WebSite",
+              "alternateName": "GCPRO Restoration",
+              "description": "Residential and Commercial Property Restoration",
+              "inLanguage": "en-US",
+              "name": "GCPRO",
+              "publisher": {
+                "@id": "https://vitaliiv1.sg-host.com/#organization"
+              },
+              "url": "https://vitaliiv1.sg-host.com/"
+            }
+          ],
+          "source": "AIOSEO"
+        }
+      ],
+      "title": "Service Area | GCPRO",
+      "twitterCard": "summary_large_image",
+      "url": "https://vitaliiv1.sg-host.com/service-area/"
+    },
+    {
+      "canonical": "https://vitaliiv1.sg-host.com/service-area/lombard/",
+      "counts": {
+        "aioseoScripts": 1,
+        "canonical": 1,
+        "description": 0,
+        "title": 1
+      },
+      "description": null,
+      "h1": [
+        "Expert Restoration Services in Lombard"
+      ],
+      "ogDescription": null,
+      "ogImage": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/glenview-house-2.jpg",
+      "ogSiteName": "GCPRO",
+      "ogTitle": "Expert Restoration Services in Lombard | GCPRO",
+      "ogType": "website",
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "schemas": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://vitaliiv1.sg-host.com/service-area/lombard/#breadcrumblist",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@id": "https://vitaliiv1.sg-host.com/#listItem",
+                  "@type": "ListItem",
+                  "item": "https://vitaliiv1.sg-host.com/",
+                  "name": "Home",
+                  "nextItem": {
+                    "@id": "https://vitaliiv1.sg-host.com/service-area/#listItem",
+                    "@type": "ListItem",
+                    "name": "Service Area"
+                  },
+                  "position": 1
+                },
+                {
+                  "@id": "https://vitaliiv1.sg-host.com/service-area/#listItem",
+                  "@type": "ListItem",
+                  "item": "https://vitaliiv1.sg-host.com/service-area/",
+                  "name": "Service Area",
+                  "nextItem": {
+                    "@id": "https://vitaliiv1.sg-host.com/service-area/lombard/#listItem",
+                    "@type": "ListItem",
+                    "name": "Expert Restoration Services in Lombard"
+                  },
+                  "position": 2,
+                  "previousItem": {
+                    "@id": "https://vitaliiv1.sg-host.com/#listItem",
+                    "@type": "ListItem",
+                    "name": "Home"
+                  }
+                },
+                {
+                  "@id": "https://vitaliiv1.sg-host.com/service-area/lombard/#listItem",
+                  "@type": "ListItem",
+                  "name": "Expert Restoration Services in Lombard",
+                  "position": 3,
+                  "previousItem": {
+                    "@id": "https://vitaliiv1.sg-host.com/service-area/#listItem",
+                    "@type": "ListItem",
+                    "name": "Service Area"
+                  }
+                }
+              ]
+            },
+            {
+              "@id": "https://vitaliiv1.sg-host.com/#organization",
+              "@type": "Organization",
+              "address": {
+                "@id": "https://vitaliiv1.sg-host.com/#postaladdress",
+                "@type": "PostalAddress",
+                "addressCountry": "US",
+                "addressLocality": "Lombard",
+                "addressRegion": "IL",
+                "postalCode": "60148",
+                "streetAddress": "220 Eisenhower Lane North"
+              },
+              "description": "Residential and commercial property restoration in Chicago and Chicagoland, with 24/7 emergency restoration services.",
+              "email": "restore@gcprochicago.com",
+              "image": {
+                "@id": "https://vitaliiv1.sg-host.com/service-area/lombard/#organizationLogo"
+              },
+              "logo": {
+                "@id": "https://vitaliiv1.sg-host.com/service-area/lombard/#organizationLogo",
+                "@type": "ImageObject",
+                "height": 562,
+                "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/08/GCPRO_BLACK.svg",
+                "width": 1436
+              },
+              "name": "GCPRO Restoration",
+              "sameAs": [
+                "https://www.instagram.com/gcprorestoration/",
+                "https://www.linkedin.com/company/gcpro-restoration/",
+                "https://www.yelp.com/biz/gcpro-restoration-lombard-2"
+              ],
+              "telephone": "+18476563322",
+              "url": "https://vitaliiv1.sg-host.com/"
+            },
+            {
+              "@id": "https://vitaliiv1.sg-host.com/service-area/lombard/#webpage",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://vitaliiv1.sg-host.com/service-area/lombard/#breadcrumblist"
+              },
+              "dateModified": "2026-10-21T15:54:29+00:00",
+              "datePublished": "2026-10-21T15:54:29+00:00",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://vitaliiv1.sg-host.com/#website"
+              },
+              "name": "Expert Restoration Services in Lombard | GCPRO",
+              "url": "https://vitaliiv1.sg-host.com/service-area/lombard/"
+            },
+            {
+              "@id": "https://vitaliiv1.sg-host.com/#website",
+              "@type": "WebSite",
+              "alternateName": "GCPRO Restoration",
+              "description": "Residential and Commercial Property Restoration",
+              "inLanguage": "en-US",
+              "name": "GCPRO",
+              "publisher": {
+                "@id": "https://vitaliiv1.sg-host.com/#organization"
+              },
+              "url": "https://vitaliiv1.sg-host.com/"
+            }
+          ],
+          "source": "AIOSEO"
+        }
+      ],
+      "title": "Expert Restoration Services in Lombard | GCPRO",
+      "twitterCard": "summary_large_image",
+      "url": "https://vitaliiv1.sg-host.com/service-area/lombard/"
+    },
+    {
+      "canonical": "https://vitaliiv1.sg-host.com/portfolio/",
+      "counts": {
+        "aioseoScripts": 1,
+        "canonical": 1,
+        "description": 0,
+        "title": 1
+      },
+      "description": null,
+      "h1": [
+        "All Projects"
+      ],
+      "ogDescription": null,
+      "ogImage": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/glenview-house-2.jpg",
+      "ogSiteName": "GCPRO",
+      "ogTitle": "All Projects | GCPRO",
+      "ogType": "website",
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "schemas": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://vitaliiv1.sg-host.com/portfolio/#breadcrumblist",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@id": "https://vitaliiv1.sg-host.com/#listItem",
+                  "@type": "ListItem",
+                  "item": "https://vitaliiv1.sg-host.com/",
+                  "name": "Home",
+                  "nextItem": {
+                    "@id": "https://vitaliiv1.sg-host.com/portfolio/#listItem",
+                    "@type": "ListItem",
+                    "name": "All Projects"
+                  },
+                  "position": 1
+                },
+                {
+                  "@id": "https://vitaliiv1.sg-host.com/portfolio/#listItem",
+                  "@type": "ListItem",
+                  "name": "All Projects",
+                  "position": 2,
+                  "previousItem": {
+                    "@id": "https://vitaliiv1.sg-host.com/#listItem",
+                    "@type": "ListItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@id": "https://vitaliiv1.sg-host.com/#organization",
+              "@type": "Organization",
+              "address": {
+                "@id": "https://vitaliiv1.sg-host.com/#postaladdress",
+                "@type": "PostalAddress",
+                "addressCountry": "US",
+                "addressLocality": "Lombard",
+                "addressRegion": "IL",
+                "postalCode": "60148",
+                "streetAddress": "220 Eisenhower Lane North"
+              },
+              "description": "Residential and commercial property restoration in Chicago and Chicagoland, with 24/7 emergency restoration services.",
+              "email": "restore@gcprochicago.com",
+              "image": {
+                "@id": "https://vitaliiv1.sg-host.com/portfolio/#organizationLogo"
+              },
+              "logo": {
+                "@id": "https://vitaliiv1.sg-host.com/portfolio/#organizationLogo",
+                "@type": "ImageObject",
+                "height": 562,
+                "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/08/GCPRO_BLACK.svg",
+                "width": 1436
+              },
+              "name": "GCPRO Restoration",
+              "sameAs": [
+                "https://www.instagram.com/gcprorestoration/",
+                "https://www.linkedin.com/company/gcpro-restoration/",
+                "https://www.yelp.com/biz/gcpro-restoration-lombard-2"
+              ],
+              "telephone": "+18476563322",
+              "url": "https://vitaliiv1.sg-host.com/"
+            },
+            {
+              "@id": "https://vitaliiv1.sg-host.com/portfolio/#webpage",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://vitaliiv1.sg-host.com/portfolio/#breadcrumblist"
+              },
+              "dateModified": "2026-10-21T16:56:54+00:00",
+              "datePublished": "2026-10-21T16:54:52+00:00",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://vitaliiv1.sg-host.com/#website"
+              },
+              "name": "All Projects | GCPRO",
+              "url": "https://vitaliiv1.sg-host.com/portfolio/"
+            },
+            {
+              "@id": "https://vitaliiv1.sg-host.com/#website",
+              "@type": "WebSite",
+              "alternateName": "GCPRO Restoration",
+              "description": "Residential and Commercial Property Restoration",
+              "inLanguage": "en-US",
+              "name": "GCPRO",
+              "publisher": {
+                "@id": "https://vitaliiv1.sg-host.com/#organization"
+              },
+              "url": "https://vitaliiv1.sg-host.com/"
+            }
+          ],
+          "source": "AIOSEO"
+        }
+      ],
+      "title": "All Projects | GCPRO",
+      "twitterCard": "summary_large_image",
+      "url": "https://vitaliiv1.sg-host.com/portfolio/"
+    },
+    {
+      "canonical": "https://vitaliiv1.sg-host.com/partner-programs/",
+      "counts": {
+        "aioseoScripts": 1,
+        "canonical": 1,
+        "description": 1,
+        "title": 1
+      },
+      "description": "Partner Programs",
+      "h1": [
+        "Partner Programs"
+      ],
+      "ogDescription": "Partner Programs",
+      "ogImage": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/glenview-house-2.jpg",
+      "ogSiteName": "GCPRO",
+      "ogTitle": "Partner Programs | GCPRO",
+      "ogType": "website",
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "schemas": [
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@id": "https://vitaliiv1.sg-host.com/partner-programs/#breadcrumblist",
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@id": "https://vitaliiv1.sg-host.com/#listItem",
+                  "@type": "ListItem",
+                  "item": "https://vitaliiv1.sg-host.com/",
+                  "name": "Home",
+                  "nextItem": {
+                    "@id": "https://vitaliiv1.sg-host.com/partner-programs/#listItem",
+                    "@type": "ListItem",
+                    "name": "Partner Programs"
+                  },
+                  "position": 1
+                },
+                {
+                  "@id": "https://vitaliiv1.sg-host.com/partner-programs/#listItem",
+                  "@type": "ListItem",
+                  "name": "Partner Programs",
+                  "position": 2,
+                  "previousItem": {
+                    "@id": "https://vitaliiv1.sg-host.com/#listItem",
+                    "@type": "ListItem",
+                    "name": "Home"
+                  }
+                }
+              ]
+            },
+            {
+              "@id": "https://vitaliiv1.sg-host.com/#organization",
+              "@type": "Organization",
+              "address": {
+                "@id": "https://vitaliiv1.sg-host.com/#postaladdress",
+                "@type": "PostalAddress",
+                "addressCountry": "US",
+                "addressLocality": "Lombard",
+                "addressRegion": "IL",
+                "postalCode": "60148",
+                "streetAddress": "220 Eisenhower Lane North"
+              },
+              "description": "Residential and commercial property restoration in Chicago and Chicagoland, with 24/7 emergency restoration services.",
+              "email": "restore@gcprochicago.com",
+              "image": {
+                "@id": "https://vitaliiv1.sg-host.com/partner-programs/#organizationLogo"
+              },
+              "logo": {
+                "@id": "https://vitaliiv1.sg-host.com/partner-programs/#organizationLogo",
+                "@type": "ImageObject",
+                "height": 562,
+                "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/08/GCPRO_BLACK.svg",
+                "width": 1436
+              },
+              "name": "GCPRO Restoration",
+              "sameAs": [
+                "https://www.instagram.com/gcprorestoration/",
+                "https://www.linkedin.com/company/gcpro-restoration/",
+                "https://www.yelp.com/biz/gcpro-restoration-lombard-2"
+              ],
+              "telephone": "+18476563322",
+              "url": "https://vitaliiv1.sg-host.com/"
+            },
+            {
+              "@id": "https://vitaliiv1.sg-host.com/partner-programs/#webpage",
+              "@type": "WebPage",
+              "breadcrumb": {
+                "@id": "https://vitaliiv1.sg-host.com/partner-programs/#breadcrumblist"
+              },
+              "dateModified": "2026-10-21T15:55:07+00:00",
+              "datePublished": "2026-10-21T15:55:07+00:00",
+              "description": "Partner Programs",
+              "inLanguage": "en-US",
+              "isPartOf": {
+                "@id": "https://vitaliiv1.sg-host.com/#website"
+              },
+              "name": "Partner Programs | GCPRO",
+              "url": "https://vitaliiv1.sg-host.com/partner-programs/"
+            },
+            {
+              "@id": "https://vitaliiv1.sg-host.com/#website",
+              "@type": "WebSite",
+              "alternateName": "GCPRO Restoration",
+              "description": "Residential and Commercial Property Restoration",
+              "inLanguage": "en-US",
+              "name": "GCPRO",
+              "publisher": {
+                "@id": "https://vitaliiv1.sg-host.com/#organization"
+              },
+              "url": "https://vitaliiv1.sg-host.com/"
+            }
+          ],
+          "source": "AIOSEO"
+        }
+      ],
+      "title": "Partner Programs | GCPRO",
+      "twitterCard": "summary_large_image",
+      "url": "https://vitaliiv1.sg-host.com/partner-programs/"
+    }
+  ],
+  "trustindex_final_after_owner_cloud_change_and_native_cache_clear": {
+    "aioseoScripts": 1,
+    "carouselNextClicked": true,
+    "checkedAt": "2026-10-21T19:19:50.928Z",
+    "imagesLoaded": 75,
+    "reviews": 10,
+    "schemaTypes": [
+      "BreadcrumbList",
+      "HomeAndConstructionBusiness",
+      "Organization",
+      "WebPage",
+      "WebSite"
+    ],
+    "url": "https://vitaliiv1.sg-host.com/"
+  },
+  "anonymous_home_final": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "text/html; charset=UTF-8",
+      "X-Proxy-Cache": "HIT"
+    },
+    "title": "Property Restoration in Chicago | GCPRO",
+    "meta": [
+      {
+        "name": "description",
+        "value": "GCPRO provides residential and commercial restoration in Chicago and Chicagoland. Explore water, fire, mold and storm damage services. Call 847-656-3322."
+      },
+      {
+        "name": "robots",
+        "value": "noindex, nofollow, max-image-preview:large"
+      },
+      {
+        "name": "canonical",
+        "value": "https://vitaliiv1.sg-host.com/"
+      },
+      {
+        "name": "og:site_name",
+        "value": "GCPRO"
+      },
+      {
+        "name": "og:title",
+        "value": "Property Restoration in Chicago | GCPRO"
+      }
+    ],
+    "schema_types": [
+      "BreadcrumbList",
+      "HomeAndConstructionBusiness",
+      "Organization",
+      "WebPage",
+      "WebSite"
+    ]
+  },
+  "reading_discourage_indexing_checked": true,
+  "protected_elementor_bodies_and_page_settings_unchanged": [
+    154,
+    484,
+    113,
+    114
+  ],
+  "authored_page_seo_exceptions_unchanged": [
+    154,
+    484
+  ],
+  "page_inventory": {
+    "total": 93,
+    "published": 88,
+    "draft": 5
+  },
+  "migration_records": 321,
+  "modules": {
+    "local_seo": "Owner activated existing addon1.3.17; configured native single location",
+    "link_assistant": "Activation gate; not installed/activated; demo counts excluded",
+    "image_seo": "Addon absent; no automatic alt or filename mutation",
+    "redirects": "Native integrated manager; zero rules; existing one-week404/redirect logs unchanged",
+    "webmaster": "No verified tokens configured; none invented",
+    "rss": "Existing post/site attribution retained",
+    "analysis": "Existing TruSEO/headline/SEO analysis settings retained; no broad audit or score certification"
+  },
+  "limitations": [
+    "LocalBusiness.logo native1.3.17 references /#logo without matching ImageObject; Organization logo is valid; no plugin patch",
+    "No Maps API key; verified map center saved but GeoCoordinates not emitted",
+    "GBP lists24h business availability; physical office reception hours unconfirmed and not emitted",
+    "Anonymous Residential403; other representative metadata verified authenticated",
+    "No real public article, populated taxonomy or Portfolio CPT to test",
+    "Structural placeholder metadata is not finished copy optimization",
+    "Facebook configured in native profiles but absent from observed Organization.sameAs; no fabricated output claim"
+  ],
+  "responsive_smoke_checks": [
+    {
+      "width": 393,
+      "document_scroll_width": 393,
+      "reviews": 10,
+      "Product_schema": false,
+      "method": "Chrome simulated viewport"
+    },
+    {
+      "width": 1440,
+      "document_scroll_width": 1425,
+      "h1_count": 1,
+      "reviews": 10,
+      "method": "Chrome simulated viewport"
+    }
+  ]
+}
