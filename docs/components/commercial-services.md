@@ -1,0 +1,66 @@
+# Commercial Services hub — E84
+
+Implemented2026-10-21 on existing [staging Page499](https://vitaliiv1.sg-host.com/commercial-services/), not production. [SEO research and complete final copy](../seo/2026-10-21-commercial-services.md) · [Sanitized QA evidence](../evidence/2026-10-21-commercial-services.json).
+
+## Purpose, owner and safe reuse
+
+Broad commercial service-selection and enquiry hub for property/facility managers and business owners. Native Page499 `_elementor_data` owns the body; supported content/image/link Overrides own the commercial copy. Elementor Full Width (`elementor_header_footer`) and hide_title=yes provide the existing Header113/Footer114 without the structural placeholder Single1008. Single1008 conditions and definition are unchanged. Page499 title/excerpt/featured_media and native `aioseo_meta_data` own authored SEO. Shared AIOSEO organization/configuration remains the global owner.
+
+The approved Residential484 composition was reused only as a visual foundation: all page text, FAQs, service scopes and project photos are commercial-specific. Existing component references remain attached; no shared definition was rebuilt/detached. Fresh element/local-style IDs avoid identity collisions. Existing Global Classes/Variables remain the design owners. To edit, open Page499 in Elementor, select the named instance and change its supported Overrides; edit shared definitions only in a separate authorized task.
+
+## Exact native locators
+
+| Element / instance | Native type or shared Component | Role |
+| --- | --- | --- |
+| 951cba43 | Component286 | Commercial Emergency Mark |
+| afff8f76 | Component53 | Hero Call Now |
+| 6feec700 | Component103 | Hero Request Service |
+| 92598886 | Component71 | Commercial Services Heading |
+| 08061908 | Component62 | Commercial Water Damage Restoration Card |
+| 6b3576ff | Component62 | Commercial Fire & Smoke Damage Restoration Card |
+| d9949af5 | Component62 | Commercial Mold Remediation Card |
+| 0159b3bb | Component62 | Commercial Reconstruction Card |
+| c290c54d | Component62 | General Contracting Card |
+| d7701a35 | Component62 | Commercial Personal Property Restoration Card |
+| 192f0d30 | Component77 | 03 Commercial Restoration Solutions |
+| d6ce13c0 | Component1152 | Commercial Shared How We Work |
+| 94c4cddb | Component1149 | Commercial Shared Why Choose GCPRO |
+| 028a276e | Component71 | Commercial Results Heading |
+| c16e5fe2 | Component59 | Commercial Before & After Gallery Link |
+| 70bf6706 | Component1140 | Commercial Shared Service Areas |
+| 2304eb1f | Component71 | Commercial FAQ Heading |
+| 97c50691 | Component83 | Commercial FAQ Group 1 |
+| 6b4c6974 | Component83 | Commercial FAQ Group 2 |
+| 692a2dce | Component83 | Commercial FAQ Group 3 |
+| ca0c81da | Component80 | 09 Commercial Emergency CTA |
+| 9b859891 | Native page node | Commercial Services Page |
+| 7b3ebc13 | Native page node | Commercial H1 |
+| 6eee2685 | Native page node | Commercial Hero Introduction |
+| c2df9e55 | Native page node | Commercial Before / After [bafg id="1209"] |
+| 4314c391 | Native page node | Hero Photo Caption |
+| 7d44db9e | Native page node | BA Card - Club Room Renovation (Window View) |
+| 1b2c42da | Native page node | Commercial Before / After [bafg id="1202"] |
+| 8451c722 | Native page node | Club Room Result Title |
+| c772f0c9 | Native page node | Club Room Result Description |
+| 329f8bfa | Native page node | BA Card - Commercial Entrance Renovation |
+| db41e0ef | Native page node | Commercial Before / After [bafg id="1209"] |
+| 7cbd5010 | Native page node | Commercial Entrance Result Title |
+| 5c88e365 | Native page node | Commercial Entrance Result Description |
+
+The parent is the Page499 root; its nine section children are Hero, Services, Property Needs77, Process1152, Why1149, Results, Service Areas1140, FAQ and Final80. Service grid holds six62 instances with SVG596/597/607/599/207/601 and native Page515/520/519/524/522/525 links. Hero mark286/Call53/Request103 and Final80 retain telephone/Request492. Results59 links native493; Areas retains12 existing native city objects, directory495 and availability492. FAQ is three83 instances, two questions each, native details/summary and no FAQ schema emitter.
+
+## Styles, code and dependencies
+
+No new Global Class, Global Variable, Atomic Component, media upload, CSS, JavaScript, PHP, Custom Code entry, plugin or external dependency. Existing approved native local style values were reused under17 unique local IDs (listed in evidence); every local Custom CSS field is empty. Existing container/grid/heading/card/button classes and spacing/color/font Variables continue to own the design. BA cards use ba-card `g-c02ab3c`, caption `g-c65c717`, title `g-4523dc2`; this increases their page consumers by two, not their definitions. Existing77 includes its established native Solid Blue CTA behavior. No new button classes/variants.
+
+Existing owners: Kit6 BEAF presentation; BEAF Pro records1202/1209 and shortcode vendor assets; Code903 Smart Header/mobileCTA; Code590 process interaction; Code847 Final CTA background; Header113/Footer114; AIOSEO Pro global graph configuration. Their sources, conditions, labels, records and settings are untouched. Media1220/1222/1235/1238 already provide real4:3 WebP commercial photography and alt text. Do not remove these assets or modify their shared metadata for this page alone.
+
+## Responsive behavior, interactions and QA
+
+Verified360/393/430/768/1024/1280/1440px: no overflow;1H1/8H2/16H3 in body; service and BA grids stack through existing breakpoints; all three comparisons initialize and remain4:3; BA titles20px; Solid Blue consultation wraps on mobile and remains visible. Header/Footer, native mobile menu and903 hide-down/show-up/call panel behavior verified. FAQ Enter/Space; desktop results drag/fullscreen Enter+close; mobileHero drag pass. Native saved structure/content/link overrides read back identically. All21 unique internal destinations plus target return anonymous200. Forms/calls are not submitted.
+
+Complexity audit:55 page nodes (same as source), three native FAQ instances rather than duplicate accordion implementations, attached reusable sections, no HTML/code widget, no copied stylesheets or new global resource. Native wrapper/local-style repetition preserves the approved composition; no extra design layer was introduced. Source/shared bodies and page settings match pre-task hashes. Existing small orange text contrast and BEAF divider/close keyboard semantics remain shared/vendor limitations. Child service destinations have structural content pending their own builds. Elementor MCP reads the complete55-node native structure, but the integrated editor UI remains at LOADING with its Can't Edit/Safe Mode suggestion and AIOSEO N/A; no Safe Mode/security/plugin change was attempted. Therefore live visual editing and a TruSEO score remain unverified, despite successful native readback and actual rendered frontend checks.
+
+## Recovery
+
+Private pre-task `work/e84-before-499.json` records the existing blank body, default template, featured image and page-specific SEO. Restore only Page499's `_elementor_data`, page settings, template, title/excerpt/featured_media and authored AIOSEO fields from that snapshot through native WordPress controls/API, then clear Elementor Files & Data and staging SG cache. Do not roll back shared definitions, Header/Footer, other Pages, BEAF or global AIOSEO. Page499 is still the same published object/path; do not trash/recreate it. Scoped snapshots are available, but no full-site restore drill was performed. Post-task source hashes in evidence allow comparison without committing private exports.

@@ -1,5 +1,7 @@
 # Before / After
 
+**E84 consumer addition only:** Commercial499 places existing1209 in itsHero and existing1202/1209 in two Variant A result cards. Two additional shared ba-card/caption/title consumers; exact captions match Gallery493. No BEAF record/asset/configuration/CSS or existing Home/Residential/gallery edit. [Commercial locators](commercial-services.md).
+
 ## E83 — approved A card design, 2026-10-21
 
 The owner selected A (clean frame): photo-first4:3 comparison, thin border, white caption area, consistent title/description. Applied to all20 current BA cards: Homepage154(3), Residential484(2), Before & After493(15). Hero comparisons are not cards and remain unchanged. This is the single approved card presentation for future GCPRO placements.

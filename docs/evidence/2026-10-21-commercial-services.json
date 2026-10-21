@@ -1,0 +1,1808 @@
+{
+  "milestone": "E84",
+  "date": "2026-10-21",
+  "scope": "Staging Page499 only; production read-only research",
+  "url": "https://vitaliiv1.sg-host.com/commercial-services/",
+  "native_page": {
+    "id": 499,
+    "template": "elementor_header_footer",
+    "status": "publish",
+    "hide_title": "yes",
+    "nodes": 55,
+    "shared_component_instances": 21,
+    "local_native_style_ids": [
+      "e-7ab8339b-e0d6",
+      "e-1cd9dd26-4fa3",
+      "e-80a06b22-a71d",
+      "e-c192ccd2-ad41",
+      "e-eff1636e-3e0a",
+      "e-f999bb0f-7d71",
+      "e-0f79c488-2d29",
+      "e-67f38821-9f71",
+      "e-2356c08a-35e4",
+      "e-97686fc3-e2ea",
+      "e-bac6029f-e3b7",
+      "e-de177d0e-f50b",
+      "e-2a95251b-5fc9",
+      "e-3c5e9d45-b910",
+      "e-44d73c0c-9b86",
+      "e-017c04e5-96eb",
+      "e-181432c2-2932"
+    ],
+    "local_custom_css_fields_nonempty": 0
+  },
+  "google": {
+    "query": "commercial restoration services Chicago",
+    "date": "2026-10-21",
+    "localization": "Personalized Google results; Chicago query; footer Lombard, Illinois",
+    "ahrefs_toolbar": {
+      "KD": 40,
+      "volume": 30,
+      "global_volume": 30,
+      "traffic_potential": 300,
+      "clicks": 0,
+      "cpc": "N/A",
+      "dataset_date": "not exposed",
+      "market": "US",
+      "engine": "Google",
+      "overview_link": "https://app.ahrefs.com/keywords-explorer/google/us/overview?keyword=commercial%20restoration%20services%20Chicago"
+    },
+    "observed_results": [
+      "ATI Restoration",
+      "Restoration Systems",
+      "Midway Building Services",
+      "SERVPRO",
+      "Restore Construction",
+      "Paul Davis",
+      "BELFOR"
+    ],
+    "interpretation": "Local transactional/commercial services with some structural-building restoration overlap; no universal ranking claim"
+  },
+  "head": {
+    "title": "Commercial Restoration Services in Chicago | GCPRO",
+    "canonical": "https://vitaliiv1.sg-host.com/commercial-services/",
+    "description": "Commercial restoration services in Chicago for property managers and business owners. Discuss cleanup, repairs and reconstruction with GCPRO. Call 847-656-3322.",
+    "robots": "noindex, nofollow, max-image-preview:large",
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://vitaliiv1.sg-host.com/commercial-services/#breadcrumblist",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@id": "https://vitaliiv1.sg-host.com/#listItem",
+                "@type": "ListItem",
+                "item": "https://vitaliiv1.sg-host.com/",
+                "name": "Home",
+                "nextItem": {
+                  "@id": "https://vitaliiv1.sg-host.com/commercial-services/#listItem",
+                  "@type": "ListItem",
+                  "name": "Commercial Restoration Services in Chicago"
+                },
+                "position": 1
+              },
+              {
+                "@id": "https://vitaliiv1.sg-host.com/commercial-services/#listItem",
+                "@type": "ListItem",
+                "name": "Commercial Restoration Services in Chicago",
+                "position": 2,
+                "previousItem": {
+                  "@id": "https://vitaliiv1.sg-host.com/#listItem",
+                  "@type": "ListItem",
+                  "name": "Home"
+                }
+              }
+            ]
+          },
+          {
+            "@id": "https://vitaliiv1.sg-host.com/#organization",
+            "@type": "Organization",
+            "address": {
+              "@id": "https://vitaliiv1.sg-host.com/#postaladdress",
+              "@type": "PostalAddress",
+              "addressCountry": "US",
+              "addressLocality": "Lombard",
+              "addressRegion": "IL",
+              "postalCode": "60148",
+              "streetAddress": "220 Eisenhower Lane North"
+            },
+            "description": "Residential and commercial property restoration in Chicago and Chicagoland, with 24/7 emergency restoration services.",
+            "email": "restore@gcprochicago.com",
+            "image": {
+              "@id": "https://vitaliiv1.sg-host.com/commercial-services/#organizationLogo"
+            },
+            "logo": {
+              "@id": "https://vitaliiv1.sg-host.com/commercial-services/#organizationLogo",
+              "@type": "ImageObject",
+              "height": 562,
+              "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/08/GCPRO_BLACK.svg",
+              "width": 1436
+            },
+            "name": "GCPRO Restoration",
+            "sameAs": [
+              "https://www.instagram.com/gcprorestoration/",
+              "https://www.linkedin.com/company/gcpro-restoration/",
+              "https://www.yelp.com/biz/gcpro-restoration-lombard-2"
+            ],
+            "telephone": "+18476563322",
+            "url": "https://vitaliiv1.sg-host.com/"
+          },
+          {
+            "@id": "https://vitaliiv1.sg-host.com/commercial-services/#commercial-restoration-service",
+            "@type": "Service",
+            "description": "Commercial damage assessment, water, fire and mold restoration, contents restoration, repairs and reconstruction in Chicago and Chicagoland.",
+            "image": {
+              "@type": "ImageObject",
+              "caption": "Club room, window view after restoration.",
+              "height": 1200,
+              "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/jordan-bg-club2-web.webp",
+              "width": 1600
+            },
+            "name": "Commercial Restoration Services in Chicago",
+            "provider": {
+              "@id": "https://vitaliiv1.sg-host.com/#organization",
+              "@type": "Organization"
+            },
+            "serviceType": "Commercial property restoration"
+          },
+          {
+            "@id": "https://vitaliiv1.sg-host.com/commercial-services/#webpage",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://vitaliiv1.sg-host.com/commercial-services/#breadcrumblist"
+            },
+            "dateModified": "2026-10-21T21:33:07+00:00",
+            "datePublished": "2026-10-21T15:55:07+00:00",
+            "description": "Commercial restoration services in Chicago for property managers and business owners. Discuss cleanup, repairs and reconstruction with GCPRO. Call 847-656-3322.",
+            "image": {
+              "@id": "https://vitaliiv1.sg-host.com/commercial-services/#mainImage",
+              "@type": "ImageObject",
+              "caption": "Club room, window view after restoration.",
+              "height": 1200,
+              "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/jordan-bg-club2-web.webp",
+              "width": 1600
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://vitaliiv1.sg-host.com/#website"
+            },
+            "name": "Commercial Restoration Services in Chicago | GCPRO",
+            "primaryImageOfPage": {
+              "@id": "https://vitaliiv1.sg-host.com/commercial-services/#mainImage"
+            },
+            "url": "https://vitaliiv1.sg-host.com/commercial-services/"
+          },
+          {
+            "@id": "https://vitaliiv1.sg-host.com/#website",
+            "@type": "WebSite",
+            "alternateName": "GCPRO Restoration",
+            "description": "Residential and Commercial Property Restoration",
+            "inLanguage": "en-US",
+            "name": "GCPRO",
+            "publisher": {
+              "@id": "https://vitaliiv1.sg-host.com/#organization"
+            },
+            "url": "https://vitaliiv1.sg-host.com/"
+          }
+        ]
+      }
+    ],
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Commercial Restoration Services in Chicago"
+      },
+      {
+        "tag": "H2",
+        "text": "Find the Right Service for Your Property"
+      },
+      {
+        "tag": "H3",
+        "text": "Commercial Water Damage Restoration"
+      },
+      {
+        "tag": "H3",
+        "text": "Commercial Fire & Smoke Damage Restoration"
+      },
+      {
+        "tag": "H3",
+        "text": "Commercial Mold Remediation"
+      },
+      {
+        "tag": "H3",
+        "text": "Commercial Reconstruction"
+      },
+      {
+        "tag": "H3",
+        "text": "General Contracting"
+      },
+      {
+        "tag": "H3",
+        "text": "Commercial Personal Property Restoration"
+      },
+      {
+        "tag": "H2",
+        "text": "A Restoration Plan Built Around Your Property"
+      },
+      {
+        "tag": "H2",
+        "text": "How Commercial Restoration Moves Forward"
+      },
+      {
+        "tag": "H3",
+        "text": "Describe the Property"
+      },
+      {
+        "tag": "H3",
+        "text": "Assess the Affected Areas"
+      },
+      {
+        "tag": "H3",
+        "text": "Coordinate the Work"
+      },
+      {
+        "tag": "H3",
+        "text": "Review Completed Areas"
+      },
+      {
+        "tag": "H2",
+        "text": "Support for Commercial Property Decisions"
+      },
+      {
+        "tag": "H3",
+        "text": "Building and Contents Services"
+      },
+      {
+        "tag": "H3",
+        "text": "Cleanup Through Reconstruction"
+      },
+      {
+        "tag": "H3",
+        "text": "An Assessment-Led Scope"
+      },
+      {
+        "tag": "H3",
+        "text": "A Practical Project Conversation"
+      },
+      {
+        "tag": "H2",
+        "text": "See Real Commercial Space Transformations"
+      },
+      {
+        "tag": "H3",
+        "text": "Club Room Renovation (Window View)"
+      },
+      {
+        "tag": "H3",
+        "text": "Commercial Entrance Renovation"
+      },
+      {
+        "tag": "H2",
+        "text": "Commercial Restoration Across Chicagoland"
+      },
+      {
+        "tag": "H2",
+        "text": "Commercial Restoration Questions"
+      },
+      {
+        "tag": "H2",
+        "text": "Let's Discuss Your Commercial Property"
+      }
+    ]
+  },
+  "links": [
+    {
+      "href": "tel:+18476563322",
+      "text": "Call 847-656-3322"
+    },
+    {
+      "href": "https://vitaliiv1.sg-host.com/service-request/",
+      "text": "Request Service"
+    },
+    {
+      "href": "https://vitaliiv1.sg-host.com/commercial-services/water-damage/",
+      "text": "Explore Water Damage Services"
+    },
+    {
+      "href": "https://vitaliiv1.sg-host.com/commercial-services/fire-smoke/",
+      "text": "Explore Fire & Smoke Services"
+    },
+    {
+      "href": "https://vitaliiv1.sg-host.com/commercial-services/mold-removal/",
+      "text": "Explore Mold Remediation"
+    },
+    {
+      "href": "https://vitaliiv1.sg-host.com/commercial-services/reconstruction/",
+      "text": "Explore Reconstruction"
+    },
+    {
+      "href": "https://vitaliiv1.sg-host.com/commercial-services/general-contracting/",
+      "text": "Explore General Contracting"
+    },
+    {
+      "href": "https://vitaliiv1.sg-host.com/commercial-services/personal-property-restoration/",
+      "text": "Explore Contents Restoration"
+    },
+    {
+      "href": "https://vitaliiv1.sg-host.com/service-request/",
+      "text": "Discuss Your Commercial Property"
+    },
+    {
+      "href": "https://vitaliiv1.sg-host.com/before-and-after/",
+      "text": "View More Before & After Projects"
+    },
+    {
+      "href": "https://vitaliiv1.sg-host.com/service-area/lombard/",
+      "text": "Lombard"
+    },
+    {
+      "href": "https://vitaliiv1.sg-host.com/service-area/arlington-heights/",
+      "text": "Arlington Heights"
+    },
+    {
+      "href": "https://vitaliiv1.sg-host.com/service-area/elmhurst/",
+      "text": "Elmhurst"
+    },
+    {
+      "href": "https://vitaliiv1.sg-host.com/service-area/naperville/",
+      "text": "Naperville"
+    },
+    {
+      "href": "https://vitaliiv1.sg-host.com/service-area/northbrook/",
+      "text": "Northbrook"
+    },
+    {
+      "href": "https://vitaliiv1.sg-host.com/service-area/downers-grove/",
+      "text": "Downers Grove"
+    },
+    {
+      "href": "https://vitaliiv1.sg-host.com/service-area/oak-brook/",
+      "text": "Oak Brook"
+    },
+    {
+      "href": "https://vitaliiv1.sg-host.com/service-area/glenview/",
+      "text": "Glenview"
+    },
+    {
+      "href": "https://vitaliiv1.sg-host.com/service-area/highland-park/",
+      "text": "Highland Park"
+    },
+    {
+      "href": "https://vitaliiv1.sg-host.com/service-area/schaumburg/",
+      "text": "Schaumburg"
+    },
+    {
+      "href": "https://vitaliiv1.sg-host.com/service-area/evanston/",
+      "text": "Evanston"
+    },
+    {
+      "href": "https://vitaliiv1.sg-host.com/service-area/elk-grove-village/",
+      "text": "Elk Grove Village"
+    },
+    {
+      "href": "https://vitaliiv1.sg-host.com/service-area/",
+      "text": "View All Service Areas"
+    },
+    {
+      "href": "https://vitaliiv1.sg-host.com/service-request/",
+      "text": "Discuss Your Property Location"
+    },
+    {
+      "href": "tel:+18476563322",
+      "text": "Call 847-656-3322"
+    },
+    {
+      "href": "https://vitaliiv1.sg-host.com/service-request/",
+      "text": "Request Service"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Commercial Entrance Renovation before restoration.",
+      "height": 1200,
+      "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/entrance1-web.webp",
+      "width": 1600
+    },
+    {
+      "alt": "Commercial Entrance Renovation after restoration.",
+      "height": 1200,
+      "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/entrance2-web.webp",
+      "width": 1600
+    },
+    {
+      "alt": "Club room, window view after restoration.",
+      "height": 1080,
+      "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/jordan-bg-club2-web.webp",
+      "width": 1440
+    },
+    {
+      "alt": "Club Room Renovation — Window View before restoration.",
+      "height": 1200,
+      "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/jordan-bg-club1-web.webp",
+      "width": 1600
+    },
+    {
+      "alt": "Club Room Renovation — Window View after restoration.",
+      "height": 1200,
+      "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/jordan-bg-club2-web.webp",
+      "width": 1600
+    },
+    {
+      "alt": "Commercial Entrance Renovation before restoration.",
+      "height": 1200,
+      "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/entrance1-web.webp",
+      "width": 1600
+    },
+    {
+      "alt": "Commercial Entrance Renovation after restoration.",
+      "height": 1200,
+      "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/entrance2-web.webp",
+      "width": 1600
+    }
+  ],
+  "responsive": [
+    {
+      "cards": [
+        {
+          "font": "20px",
+          "title": "Club Room Renovation (Window View)",
+          "width": 304.66668701171875
+        },
+        {
+          "font": "20px",
+          "title": "Commercial Entrance Renovation",
+          "width": 304.66668701171875
+        }
+      ],
+      "ctas": [
+        {
+          "bg": "rgb(240, 90, 41)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "tel:+18476563322",
+          "sw": 203,
+          "text": "Call 847-656-3322",
+          "w": 204.3229217529297
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/service-request/",
+          "sw": 202,
+          "text": "Request Service",
+          "w": 203.73959350585935
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/water-damage/",
+          "sw": 254,
+          "text": "Explore Water Damage Services",
+          "w": 255.33334350585935
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/fire-smoke/",
+          "sw": 245,
+          "text": "Explore Fire & Smoke Services",
+          "w": 246.05209350585935
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/mold-removal/",
+          "sw": 219,
+          "text": "Explore Mold Remediation",
+          "w": 220.6979217529297
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/reconstruction/",
+          "sw": 197,
+          "text": "Explore Reconstruction",
+          "w": 198.58334350585935
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/general-contracting/",
+          "sw": 231,
+          "text": "Explore General Contracting",
+          "w": 232.77084350585935
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/personal-property-restoration/",
+          "sw": 239,
+          "text": "Explore Contents Restoration",
+          "w": 240.2291717529297
+        },
+        {
+          "bg": "rgb(26, 50, 125)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/service-request/",
+          "sw": 303,
+          "text": "Discuss Your Commercial Property",
+          "w": 304.66668701171875
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(26, 50, 125)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/before-and-after/",
+          "sw": 303,
+          "text": "View More Before & After Projects",
+          "w": 304.66668701171875
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/service-request/",
+          "sw": 303,
+          "text": "Discuss Your Property Location",
+          "w": 304.66668701171875
+        },
+        {
+          "bg": "rgb(240, 90, 41)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "tel:+18476563322",
+          "sw": 203,
+          "text": "Call 847-656-3322",
+          "w": 204.3229217529297
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/service-request/",
+          "sw": 202,
+          "text": "Request Service",
+          "w": 203.73959350585935
+        }
+      ],
+      "docWidth": 345,
+      "footer": true,
+      "h1": 1,
+      "h2": 8,
+      "h3": 16,
+      "header": true,
+      "overflow": [],
+      "scrollWidth": 345,
+      "sliders": [
+        {
+          "h": 228.5,
+          "handle": true,
+          "w": 304.66668701171875
+        },
+        {
+          "h": 227.5,
+          "handle": true,
+          "w": 303.3333435058594
+        },
+        {
+          "h": 227.5,
+          "handle": true,
+          "w": 303.3333435058594
+        }
+      ],
+      "width": 360
+    },
+    {
+      "cards": [
+        {
+          "font": "20px",
+          "title": "Club Room Renovation (Window View)",
+          "width": 338
+        },
+        {
+          "font": "20px",
+          "title": "Commercial Entrance Renovation",
+          "width": 338
+        }
+      ],
+      "ctas": [
+        {
+          "bg": "rgb(240, 90, 41)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "tel:+18476563322",
+          "sw": 203,
+          "text": "Call 847-656-3322",
+          "w": 204.3229217529297
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/service-request/",
+          "sw": 202,
+          "text": "Request Service",
+          "w": 203.73959350585935
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/water-damage/",
+          "sw": 259,
+          "text": "Explore Water Damage Services",
+          "w": 260.78125
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/fire-smoke/",
+          "sw": 245,
+          "text": "Explore Fire & Smoke Services",
+          "w": 246.05209350585935
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/mold-removal/",
+          "sw": 219,
+          "text": "Explore Mold Remediation",
+          "w": 220.6979217529297
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/reconstruction/",
+          "sw": 197,
+          "text": "Explore Reconstruction",
+          "w": 198.58334350585935
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/general-contracting/",
+          "sw": 231,
+          "text": "Explore General Contracting",
+          "w": 232.77084350585935
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/personal-property-restoration/",
+          "sw": 239,
+          "text": "Explore Contents Restoration",
+          "w": 240.2291717529297
+        },
+        {
+          "bg": "rgb(26, 50, 125)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/service-request/",
+          "sw": 337,
+          "text": "Discuss Your Commercial Property",
+          "w": 338
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(26, 50, 125)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/before-and-after/",
+          "sw": 337,
+          "text": "View More Before & After Projects",
+          "w": 338
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/service-request/",
+          "sw": 337,
+          "text": "Discuss Your Property Location",
+          "w": 338
+        },
+        {
+          "bg": "rgb(240, 90, 41)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "tel:+18476563322",
+          "sw": 203,
+          "text": "Call 847-656-3322",
+          "w": 204.3229217529297
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/service-request/",
+          "sw": 202,
+          "text": "Request Service",
+          "w": 203.73959350585935
+        }
+      ],
+      "docWidth": 378,
+      "footer": true,
+      "h1": 1,
+      "h2": 8,
+      "h3": 16,
+      "header": true,
+      "overflow": [],
+      "scrollWidth": 378,
+      "sliders": [
+        {
+          "h": 253.5,
+          "handle": true,
+          "w": 338
+        },
+        {
+          "h": 252.5,
+          "handle": true,
+          "w": 336.66668701171875
+        },
+        {
+          "h": 252.5,
+          "handle": true,
+          "w": 336.66668701171875
+        }
+      ],
+      "width": 393
+    },
+    {
+      "cards": [
+        {
+          "font": "20px",
+          "title": "Club Room Renovation (Window View)",
+          "width": 374.6666870117187
+        },
+        {
+          "font": "20px",
+          "title": "Commercial Entrance Renovation",
+          "width": 374.6666870117187
+        }
+      ],
+      "ctas": [
+        {
+          "bg": "rgb(240, 90, 41)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "tel:+18476563322",
+          "sw": 203,
+          "text": "Call 847-656-3322",
+          "w": 204.3229217529297
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/service-request/",
+          "sw": 202,
+          "text": "Request Service",
+          "w": 203.73959350585935
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/water-damage/",
+          "sw": 259,
+          "text": "Explore Water Damage Services",
+          "w": 260.78125
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/fire-smoke/",
+          "sw": 245,
+          "text": "Explore Fire & Smoke Services",
+          "w": 246.05209350585935
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/mold-removal/",
+          "sw": 219,
+          "text": "Explore Mold Remediation",
+          "w": 220.6979217529297
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/reconstruction/",
+          "sw": 197,
+          "text": "Explore Reconstruction",
+          "w": 198.58334350585935
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/general-contracting/",
+          "sw": 231,
+          "text": "Explore General Contracting",
+          "w": 232.77084350585935
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/personal-property-restoration/",
+          "sw": 239,
+          "text": "Explore Contents Restoration",
+          "w": 240.2291717529297
+        },
+        {
+          "bg": "rgb(26, 50, 125)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/service-request/",
+          "sw": 373,
+          "text": "Discuss Your Commercial Property",
+          "w": 374.6666870117187
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(26, 50, 125)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/before-and-after/",
+          "sw": 373,
+          "text": "View More Before & After Projects",
+          "w": 374.6666870117187
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/service-request/",
+          "sw": 373,
+          "text": "Discuss Your Property Location",
+          "w": 374.6666870117187
+        },
+        {
+          "bg": "rgb(240, 90, 41)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "tel:+18476563322",
+          "sw": 203,
+          "text": "Call 847-656-3322",
+          "w": 204.3229217529297
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/service-request/",
+          "sw": 202,
+          "text": "Request Service",
+          "w": 203.73959350585935
+        }
+      ],
+      "docWidth": 415,
+      "footer": true,
+      "h1": 1,
+      "h2": 8,
+      "h3": 16,
+      "header": true,
+      "overflow": [],
+      "scrollWidth": 415,
+      "sliders": [
+        {
+          "h": 281,
+          "handle": true,
+          "w": 374.6666870117187
+        },
+        {
+          "h": 280,
+          "handle": true,
+          "w": 373.3333435058594
+        },
+        {
+          "h": 280,
+          "handle": true,
+          "w": 373.3333435058594
+        }
+      ],
+      "width": 430
+    },
+    {
+      "cards": [
+        {
+          "font": "20px",
+          "title": "Club Room Renovation (Window View)",
+          "width": 332.3333435058594
+        },
+        {
+          "font": "20px",
+          "title": "Commercial Entrance Renovation",
+          "width": 332.3333435058594
+        }
+      ],
+      "ctas": [
+        {
+          "bg": "rgb(240, 90, 41)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "tel:+18476563322",
+          "sw": 203,
+          "text": "Call 847-656-3322",
+          "w": 204.3229217529297
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/service-request/",
+          "sw": 202,
+          "text": "Request Service",
+          "w": 203.73959350585935
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/water-damage/",
+          "sw": 259,
+          "text": "Explore Water Damage Services",
+          "w": 260.78125
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/fire-smoke/",
+          "sw": 245,
+          "text": "Explore Fire & Smoke Services",
+          "w": 246.05209350585935
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/mold-removal/",
+          "sw": 219,
+          "text": "Explore Mold Remediation",
+          "w": 220.6979217529297
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/reconstruction/",
+          "sw": 197,
+          "text": "Explore Reconstruction",
+          "w": 198.58334350585935
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/general-contracting/",
+          "sw": 231,
+          "text": "Explore General Contracting",
+          "w": 232.77084350585935
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/personal-property-restoration/",
+          "sw": 239,
+          "text": "Explore Contents Restoration",
+          "w": 240.2291717529297
+        },
+        {
+          "bg": "rgb(26, 50, 125)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/service-request/",
+          "sw": 331,
+          "text": "Discuss Your Commercial Property",
+          "w": 332.3333435058594
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(26, 50, 125)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/before-and-after/",
+          "sw": 387,
+          "text": "View More Before & After Projects",
+          "w": 388.78125
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/service-request/",
+          "sw": 359,
+          "text": "Discuss Your Property Location",
+          "w": 360.1458435058594
+        },
+        {
+          "bg": "rgb(240, 90, 41)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "tel:+18476563322",
+          "sw": 203,
+          "text": "Call 847-656-3322",
+          "w": 204.3229217529297
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/service-request/",
+          "sw": 202,
+          "text": "Request Service",
+          "w": 203.73959350585935
+        }
+      ],
+      "docWidth": 753,
+      "footer": true,
+      "h1": 1,
+      "h2": 8,
+      "h3": 16,
+      "header": true,
+      "overflow": [],
+      "scrollWidth": 753,
+      "sliders": [
+        {
+          "h": 249.25,
+          "handle": true,
+          "w": 332.3333435058594
+        },
+        {
+          "h": 248.25,
+          "handle": true,
+          "w": 331
+        },
+        {
+          "h": 248.25,
+          "handle": true,
+          "w": 331
+        }
+      ],
+      "width": 768
+    },
+    {
+      "cards": [
+        {
+          "font": "20px",
+          "title": "Club Room Renovation (Window View)",
+          "width": 460.3333435058594
+        },
+        {
+          "font": "20px",
+          "title": "Commercial Entrance Renovation",
+          "width": 460.3333435058594
+        }
+      ],
+      "ctas": [
+        {
+          "bg": "rgb(240, 90, 41)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "tel:+18476563322",
+          "sw": 203,
+          "text": "Call 847-656-3322",
+          "w": 204.3229217529297
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/service-request/",
+          "sw": 202,
+          "text": "Request Service",
+          "w": 203.73959350585935
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/water-damage/",
+          "sw": 259,
+          "text": "Explore Water Damage Services",
+          "w": 260.78125
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/fire-smoke/",
+          "sw": 245,
+          "text": "Explore Fire & Smoke Services",
+          "w": 246.05209350585935
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/mold-removal/",
+          "sw": 219,
+          "text": "Explore Mold Remediation",
+          "w": 220.6979217529297
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/reconstruction/",
+          "sw": 197,
+          "text": "Explore Reconstruction",
+          "w": 198.58334350585935
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/general-contracting/",
+          "sw": 231,
+          "text": "Explore General Contracting",
+          "w": 232.77084350585935
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/personal-property-restoration/",
+          "sw": 239,
+          "text": "Explore Contents Restoration",
+          "w": 240.2291717529297
+        },
+        {
+          "bg": "rgb(26, 50, 125)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/service-request/",
+          "sw": 388,
+          "text": "Discuss Your Commercial Property",
+          "w": 389.0104370117187
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(26, 50, 125)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/before-and-after/",
+          "sw": 387,
+          "text": "View More Before & After Projects",
+          "w": 388.78125
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/service-request/",
+          "sw": 359,
+          "text": "Discuss Your Property Location",
+          "w": 360.1458435058594
+        },
+        {
+          "bg": "rgb(240, 90, 41)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "tel:+18476563322",
+          "sw": 203,
+          "text": "Call 847-656-3322",
+          "w": 204.3229217529297
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/service-request/",
+          "sw": 202,
+          "text": "Request Service",
+          "w": 203.73959350585935
+        }
+      ],
+      "docWidth": 1009,
+      "footer": true,
+      "h1": 1,
+      "h2": 8,
+      "h3": 16,
+      "header": true,
+      "overflow": [],
+      "scrollWidth": 1009,
+      "sliders": [
+        {
+          "h": 345.25,
+          "handle": true,
+          "w": 460.3333435058594
+        },
+        {
+          "h": 344.25,
+          "handle": true,
+          "w": 459
+        },
+        {
+          "h": 344.25,
+          "handle": true,
+          "w": 459
+        }
+      ],
+      "width": 1024
+    },
+    {
+      "cards": [
+        {
+          "font": "20px",
+          "title": "Club Room Renovation (Window View)",
+          "width": 556
+        },
+        {
+          "font": "20px",
+          "title": "Commercial Entrance Renovation",
+          "width": 556
+        }
+      ],
+      "ctas": [
+        {
+          "bg": "rgb(240, 90, 41)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "tel:+18476563322",
+          "sw": 203,
+          "text": "Call 847-656-3322",
+          "w": 204.3229217529297
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/service-request/",
+          "sw": 202,
+          "text": "Request Service",
+          "w": 203.73959350585935
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/water-damage/",
+          "sw": 259,
+          "text": "Explore Water Damage Services",
+          "w": 260.78125
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/fire-smoke/",
+          "sw": 245,
+          "text": "Explore Fire & Smoke Services",
+          "w": 246.05209350585935
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/mold-removal/",
+          "sw": 219,
+          "text": "Explore Mold Remediation",
+          "w": 220.6979217529297
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/reconstruction/",
+          "sw": 197,
+          "text": "Explore Reconstruction",
+          "w": 198.58334350585935
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/general-contracting/",
+          "sw": 231,
+          "text": "Explore General Contracting",
+          "w": 232.77084350585935
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/personal-property-restoration/",
+          "sw": 239,
+          "text": "Explore Contents Restoration",
+          "w": 240.2291717529297
+        },
+        {
+          "bg": "rgb(26, 50, 125)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/service-request/",
+          "sw": 388,
+          "text": "Discuss Your Commercial Property",
+          "w": 389.0104370117187
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(26, 50, 125)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/before-and-after/",
+          "sw": 387,
+          "text": "View More Before & After Projects",
+          "w": 388.78125
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/service-request/",
+          "sw": 359,
+          "text": "Discuss Your Property Location",
+          "w": 360.1458435058594
+        },
+        {
+          "bg": "rgb(240, 90, 41)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "tel:+18476563322",
+          "sw": 203,
+          "text": "Call 847-656-3322",
+          "w": 204.3229217529297
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/service-request/",
+          "sw": 202,
+          "text": "Request Service",
+          "w": 203.73959350585935
+        }
+      ],
+      "docWidth": 1265,
+      "footer": true,
+      "h1": 1,
+      "h2": 8,
+      "h3": 16,
+      "header": true,
+      "overflow": [],
+      "scrollWidth": 1265,
+      "sliders": [
+        {
+          "h": 417,
+          "handle": true,
+          "w": 556
+        },
+        {
+          "h": 416,
+          "handle": true,
+          "w": 554.6666870117188
+        },
+        {
+          "h": 416,
+          "handle": true,
+          "w": 554.6666870117188
+        }
+      ],
+      "width": 1280
+    },
+    {
+      "cards": [
+        {
+          "font": "20px",
+          "title": "Club Room Renovation (Window View)",
+          "width": 556
+        },
+        {
+          "font": "20px",
+          "title": "Commercial Entrance Renovation",
+          "width": 556
+        }
+      ],
+      "ctas": [
+        {
+          "bg": "rgb(240, 90, 41)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "tel:+18476563322",
+          "sw": 203,
+          "text": "Call 847-656-3322",
+          "w": 204.3229217529297
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/service-request/",
+          "sw": 202,
+          "text": "Request Service",
+          "w": 203.73959350585935
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/water-damage/",
+          "sw": 259,
+          "text": "Explore Water Damage Services",
+          "w": 260.78125
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/fire-smoke/",
+          "sw": 245,
+          "text": "Explore Fire & Smoke Services",
+          "w": 246.05209350585935
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/mold-removal/",
+          "sw": 219,
+          "text": "Explore Mold Remediation",
+          "w": 220.6979217529297
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/reconstruction/",
+          "sw": 197,
+          "text": "Explore Reconstruction",
+          "w": 198.58334350585935
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/general-contracting/",
+          "sw": 231,
+          "text": "Explore General Contracting",
+          "w": 232.77084350585935
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/commercial-services/personal-property-restoration/",
+          "sw": 239,
+          "text": "Explore Contents Restoration",
+          "w": 240.2291717529297
+        },
+        {
+          "bg": "rgb(26, 50, 125)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/service-request/",
+          "sw": 388,
+          "text": "Discuss Your Commercial Property",
+          "w": 389.0104370117187
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(26, 50, 125)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/before-and-after/",
+          "sw": 387,
+          "text": "View More Before & After Projects",
+          "w": 388.78125
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(240, 90, 41)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/service-request/",
+          "sw": 359,
+          "text": "Discuss Your Property Location",
+          "w": 360.1458435058594
+        },
+        {
+          "bg": "rgb(240, 90, 41)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "tel:+18476563322",
+          "sw": 203,
+          "text": "Call 847-656-3322",
+          "w": 204.3229217529297
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "display": "flex",
+          "href": "https://vitaliiv1.sg-host.com/service-request/",
+          "sw": 202,
+          "text": "Request Service",
+          "w": 203.73959350585935
+        }
+      ],
+      "docWidth": 1425,
+      "footer": true,
+      "h1": 1,
+      "h2": 8,
+      "h3": 16,
+      "header": true,
+      "overflow": [],
+      "scrollWidth": 1425,
+      "sliders": [
+        {
+          "h": 417,
+          "handle": true,
+          "w": 556
+        },
+        {
+          "h": 416,
+          "handle": true,
+          "w": 554.6666870117188
+        },
+        {
+          "h": 416,
+          "handle": true,
+          "w": 554.6666870117188
+        }
+      ],
+      "width": 1440
+    }
+  ],
+  "interactions": {
+    "nav": [
+      {
+        "header": "elementor-element elementor-element-4ef1aa21 e-con e-atomic-element e-div-block-base e-default-div gcpro-smart-header site-header e-10ec76-6148 is-floating is-hidden",
+        "inert": false,
+        "panel": "elementor-element elementor-element-1ej1bgo e-con e-atomic-element e-flexbox-base e-default-aside gcpro-mobile-cta is-visible",
+        "panelDisplay": "flex",
+        "y": 12212.6669921875
+      },
+      {
+        "header": "elementor-element elementor-element-4ef1aa21 e-con e-atomic-element e-div-block-base e-default-div gcpro-smart-header site-header e-10ec76-6148 is-floating",
+        "inert": false,
+        "panel": "elementor-element elementor-element-1ej1bgo e-con e-atomic-element e-flexbox-base e-default-aside gcpro-mobile-cta is-visible",
+        "panelDisplay": "flex",
+        "y": 11212.6669921875
+      },
+      {
+        "header": "elementor-element elementor-element-4ef1aa21 e-con e-atomic-element e-div-block-base e-default-div gcpro-smart-header site-header e-10ec76-6148 is-floating",
+        "inert": true,
+        "panel": "elementor-element elementor-element-1ej1bgo e-con e-atomic-element e-flexbox-base e-default-aside gcpro-mobile-cta",
+        "panelDisplay": "none",
+        "y": 0
+      }
+    ],
+    "menuExpandCollapse": true,
+    "faqEnterSpace": true,
+    "desktopResultsDrag": true,
+    "desktopResultsFullscreenEnter": true,
+    "mobileHeroDrag": true
+  },
+  "verification": {
+    "target": 499,
+    "url": "https://vitaliiv1.sg-host.com/commercial-services/",
+    "protected": [
+      {
+        "id": 154,
+        "body_and_page_settings_unchanged": true,
+        "body_sha256": "a9e78f43c15543fc376ccc12882e852c959943755adc55e73b6fcabdb28575fc"
+      },
+      {
+        "id": 484,
+        "body_and_page_settings_unchanged": true,
+        "body_sha256": "33277035b9b463ecc5aebe980dcd7c58e058fc808dc9584619b2204d666e8e97"
+      },
+      {
+        "id": 493,
+        "body_and_page_settings_unchanged": true,
+        "body_sha256": "51482e92b8725ae0c34bc1d85397e945dfd72f9aca85378dd240305e0c3d9dc7"
+      },
+      {
+        "id": 113,
+        "body_and_page_settings_unchanged": true,
+        "body_sha256": "b079cee1ed50fd60832dc103be64bea99dbf389f66f1b31315bd42419e92e110"
+      },
+      {
+        "id": 114,
+        "body_and_page_settings_unchanged": true,
+        "body_sha256": "9e7a641879fd274074851a5beaf4b6171eb2f9c00e6bf081084b6e673b540a9f"
+      },
+      {
+        "id": 1008,
+        "body_and_page_settings_unchanged": true,
+        "body_sha256": "b46185db85d2755b833164600734ca765f52a725acff77e0acf782fb328fb134"
+      }
+    ],
+    "routes": [
+      {
+        "url": "https://vitaliiv1.sg-host.com/before-and-after/",
+        "status": 200,
+        "final_url": "https://vitaliiv1.sg-host.com/before-and-after/",
+        "has_h1": true
+      },
+      {
+        "url": "https://vitaliiv1.sg-host.com/commercial-services/",
+        "status": 200,
+        "final_url": "https://vitaliiv1.sg-host.com/commercial-services/",
+        "has_h1": true,
+        "title": "Commercial Restoration Services in Chicago | GCPRO",
+        "robots": "noindex, nofollow, max-image-preview:large",
+        "description": "Commercial restoration services in Chicago for property managers and business owners. Discuss cleanup, repairs and reconstruction with GCPRO. Call 847-656-3322.",
+        "body_has_commercial_intro": true
+      },
+      {
+        "url": "https://vitaliiv1.sg-host.com/commercial-services/fire-smoke/",
+        "status": 200,
+        "final_url": "https://vitaliiv1.sg-host.com/commercial-services/fire-smoke/",
+        "has_h1": true
+      },
+      {
+        "url": "https://vitaliiv1.sg-host.com/commercial-services/general-contracting/",
+        "status": 200,
+        "final_url": "https://vitaliiv1.sg-host.com/commercial-services/general-contracting/",
+        "has_h1": true
+      },
+      {
+        "url": "https://vitaliiv1.sg-host.com/commercial-services/mold-removal/",
+        "status": 200,
+        "final_url": "https://vitaliiv1.sg-host.com/commercial-services/mold-removal/",
+        "has_h1": true
+      },
+      {
+        "url": "https://vitaliiv1.sg-host.com/commercial-services/personal-property-restoration/",
+        "status": 200,
+        "final_url": "https://vitaliiv1.sg-host.com/commercial-services/personal-property-restoration/",
+        "has_h1": true
+      },
+      {
+        "url": "https://vitaliiv1.sg-host.com/commercial-services/reconstruction/",
+        "status": 200,
+        "final_url": "https://vitaliiv1.sg-host.com/commercial-services/reconstruction/",
+        "has_h1": true
+      },
+      {
+        "url": "https://vitaliiv1.sg-host.com/commercial-services/water-damage/",
+        "status": 200,
+        "final_url": "https://vitaliiv1.sg-host.com/commercial-services/water-damage/",
+        "has_h1": true
+      },
+      {
+        "url": "https://vitaliiv1.sg-host.com/service-area/",
+        "status": 200,
+        "final_url": "https://vitaliiv1.sg-host.com/service-area/",
+        "has_h1": true
+      },
+      {
+        "url": "https://vitaliiv1.sg-host.com/service-area/arlington-heights/",
+        "status": 200,
+        "final_url": "https://vitaliiv1.sg-host.com/service-area/arlington-heights/",
+        "has_h1": true
+      },
+      {
+        "url": "https://vitaliiv1.sg-host.com/service-area/downers-grove/",
+        "status": 200,
+        "final_url": "https://vitaliiv1.sg-host.com/service-area/downers-grove/",
+        "has_h1": true
+      },
+      {
+        "url": "https://vitaliiv1.sg-host.com/service-area/elk-grove-village/",
+        "status": 200,
+        "final_url": "https://vitaliiv1.sg-host.com/service-area/elk-grove-village/",
+        "has_h1": true
+      },
+      {
+        "url": "https://vitaliiv1.sg-host.com/service-area/elmhurst/",
+        "status": 200,
+        "final_url": "https://vitaliiv1.sg-host.com/service-area/elmhurst/",
+        "has_h1": true
+      },
+      {
+        "url": "https://vitaliiv1.sg-host.com/service-area/evanston/",
+        "status": 200,
+        "final_url": "https://vitaliiv1.sg-host.com/service-area/evanston/",
+        "has_h1": true
+      },
+      {
+        "url": "https://vitaliiv1.sg-host.com/service-area/glenview/",
+        "status": 200,
+        "final_url": "https://vitaliiv1.sg-host.com/service-area/glenview/",
+        "has_h1": true
+      },
+      {
+        "url": "https://vitaliiv1.sg-host.com/service-area/highland-park/",
+        "status": 200,
+        "final_url": "https://vitaliiv1.sg-host.com/service-area/highland-park/",
+        "has_h1": true
+      },
+      {
+        "url": "https://vitaliiv1.sg-host.com/service-area/lombard/",
+        "status": 200,
+        "final_url": "https://vitaliiv1.sg-host.com/service-area/lombard/",
+        "has_h1": true
+      },
+      {
+        "url": "https://vitaliiv1.sg-host.com/service-area/naperville/",
+        "status": 200,
+        "final_url": "https://vitaliiv1.sg-host.com/service-area/naperville/",
+        "has_h1": true
+      },
+      {
+        "url": "https://vitaliiv1.sg-host.com/service-area/northbrook/",
+        "status": 200,
+        "final_url": "https://vitaliiv1.sg-host.com/service-area/northbrook/",
+        "has_h1": true
+      },
+      {
+        "url": "https://vitaliiv1.sg-host.com/service-area/oak-brook/",
+        "status": 200,
+        "final_url": "https://vitaliiv1.sg-host.com/service-area/oak-brook/",
+        "has_h1": true
+      },
+      {
+        "url": "https://vitaliiv1.sg-host.com/service-area/schaumburg/",
+        "status": 200,
+        "final_url": "https://vitaliiv1.sg-host.com/service-area/schaumburg/",
+        "has_h1": true
+      },
+      {
+        "url": "https://vitaliiv1.sg-host.com/service-request/",
+        "status": 200,
+        "final_url": "https://vitaliiv1.sg-host.com/service-request/",
+        "has_h1": true
+      }
+    ],
+    "child_paths_status_unchanged": true,
+    "schema_types": [
+      "BreadcrumbList",
+      "Organization",
+      "Service",
+      "WebPage",
+      "WebSite"
+    ],
+    "service_provider": {
+      "@id": "https://vitaliiv1.sg-host.com/#organization",
+      "@type": "Organization"
+    },
+    "schema_single_service": true,
+    "schema_single_organization": true,
+    "no_extra_product_faq_or_localbusiness": true,
+    "new_assets": 0,
+    "new_classes": 0,
+    "new_components": 0,
+    "new_custom_code": 0,
+    "native_root_count": 1
+  },
+  "inventory_delta": {
+    "Global Classes": 0,
+    "Global Variables": 0,
+    "Atomic Components": 0,
+    "media_uploads": 0,
+    "CSS_JS_PHP": 0,
+    "plugins": 0,
+    "dependencies": 0
+  },
+  "limitations": [
+    "No authenticated fresh GSC account export; workbook export2026-10-15 used.",
+    "Ahrefs exact-query toolbar estimate; dataset freshness not exposed.",
+    "Integrated Elementor UI remains at LOADING/blank preview with Safe Mode suggestion; AIOSEO N/A; visual editing and TruSEO score not verified.",
+    "Existing orange normal-size text contrast is below4.5:1; shared variants preserved.",
+    "BEAF divider/close keyboard semantics are existing vendor limitations; no integration change.",
+    "Commercial renovation photos have no verified location or loss cause.",
+    "Child service pages are published structural destinations, not completed child SEO copy."
+  ],
+  "editor": {
+    "native_MCP_structure": "55 nodes successfully read",
+    "UI": "LOADING; Cant Edit/Safe Mode suggestion; preview blank; AIOSEO N/A",
+    "visual_editing_verified": false,
+    "settings_changed_to_troubleshoot": false
+  }
+}

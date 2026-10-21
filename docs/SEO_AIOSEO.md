@@ -1,5 +1,7 @@
 # AIOSEO global configuration — E80, 2026-10-21
 
+**E84:** [Commercial499](seo/2026-10-21-commercial-services.md) now has authored50-character title,160-character description, focus phrase, self-canonical, native Service graph and featured WebP social metadata. Browser/anonymous head verified; staging noindex/nofollow and global Organization preserved. No new global SEO changes.
+
 ## E81 image/gallery metadata
 
 Page493 native AIOSEO title: `Restoration Before & After Photos | GCPRO`; description: `Explore GCPRO before-and-after photos of home and commercial restoration, including interiors, kitchens, bathrooms and exterior repairs.` Canonical retains staging `/before-and-after/`; featured image1248 uses optimized4:3 WebP. Staging noindex preserved. All gallery image alt fields present; Media titles/descriptions supplied. Technician1243 carries a descriptive alt and Media title/description; no filename stuffing or new custom schema. Existing Residential authored metadata unchanged. [Assets and exact owners](components/before-after.md).

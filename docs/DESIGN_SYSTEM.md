@@ -1,5 +1,7 @@
 # GCPRO design system
 
+**E84 application:** [Commercial499](components/commercial-services.md) reuses the existing service cards, numbered headings, shared sections and BA Variant A. Six Orange Outline cards are followed by Solid Blue77 consultation; exploration remains Blue Outline, Hero/final Call uses Solid Orange with White Outline Request on navy. Purpose plus adjacent context is applied without new styles or variants.
+
 **E83,2026-10-21:** Approved A now styles all20 BA cards identically across Homepage154, Residential484 and Gallery493. Three native shared Global Classes own the frame/caption/title;20px titles,24px padding,10px radius,4:3 photos. Captions unified: known City, IL in title, outcome-only description; reused projects share copy. No custom code/Variables/library Components/plugins/media added; vendor records/Hero/links/authored SEO/production untouched.18 responsive cases and three representative drag/fullscreen placements pass; anonymous HTML200 on all three. [Exact owners, caption copy, evidence and rollback](components/before-after.md#e83--approved-a-card-design-2026-10-21).
 
 ## Photographic media — E81

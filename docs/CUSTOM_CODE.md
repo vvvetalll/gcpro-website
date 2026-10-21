@@ -1,5 +1,7 @@
 # Custom code and dependency register
 
+**E84:** Commercial499 adds no CSS/JS/PHP/Custom Code/plugin/dependency. Existing shared native controls and17 regenerated page-local style IDs reuse the approved composition; all local Custom CSS fields empty.903/590/847, Kit6 and BEAF remain their sole existing owners. [Exact owner record](components/commercial-services.md).
+
 **E83:** Three new Global Classes ba-card g-c02ab3c, ba-card__caption g-c65c717, ba-card__title g-4523dc2 store only native controls; all Custom CSS fields null. No CSS/JS/PHP/Custom Code entry/source mirror or dependency added. Existing Kit6 owns BEAF presentation; plugin files/records and Hero exceptions unchanged. [Owners and rollback](components/before-after.md#e83--approved-a-card-design-2026-10-21).
 
 **E81/E82,2026-10-21:** No new CSS/JS/PHP, Custom Code entries, plugins or dependencies. E82 uses the existing blue button-secondary class on native Button77a9e83d inside77; local native display/wrapping controls counter the existing class mobile-hiding/nowrap behavior. No custom CSS added; existing empty-image CSS retained. Gallery493 uses native Atomic layout and existing BEAF plugin/Kit6 presentation. No source mirror is newly enqueued. [CTA standard](DESIGN_SYSTEM.md#cta-button-hierarchy--e82-2026-10-21).
