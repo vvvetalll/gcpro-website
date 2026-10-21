@@ -1,5 +1,7 @@
 # Complete GCPRO hierarchical sitemap
 
+E79,2026-10-21: hierarchy/publication/URLs unchanged (93 Pages88 Published/5 Draft,321 records). Residential484 visible copy + SEO now implemented; Homepage SEO head and global title defaults configured. [SEO settings and staging sitemap guard](SEO_AIOSEO.md); this human-readable hierarchy remains reviewable while crawler sitemap generation is disabled on staging.
+
 Current E76, 2026-10-21. **321 migration-register records; 93 actual staging Pages: 88 Published / 5 Draft.** Business/Partner Pages: 86 Published / 2 Draft; five unrelated fixtures: 2 already Published / 3 Draft, unchanged. Publication is for staging structure review, not finished content or production launch. Source-only tables below retain E73 production observations; no new production inspection or mutation was performed in E74/E75.
 
 [Canonical migration register](SEO_URL_INVENTORY.csv) · [Staging Pages](https://vitaliiv1.sg-host.com/wp-admin/edit.php?post_type=page&orderby=title&order=asc) · [Primary menu5](https://vitaliiv1.sg-host.com/wp-admin/nav-menus.php?action=edit&menu=5) · [Utility menu15](https://vitaliiv1.sg-host.com/wp-admin/nav-menus.php?action=edit&menu=15)

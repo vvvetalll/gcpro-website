@@ -1,5 +1,7 @@
 # Custom code and dependency register
 
+E79: **No Custom Code/CSS/JS/PHP additions or changes.** Residential content uses native existing Overrides, AIOSEO metadata/options use the installed plugin. One native Service graph, no custom JSON-LD emitter;903/590/847 and BEAF plugin/shared styling untouched; separately requested Hero reuses existing742 through native shortcode, native frame radius/clipping/zero padding, no custom rule. [Exact SEO storage, dependencies, limitations and recovery](SEO_AIOSEO.md). No new classes, Components, Variables, plugins or dependencies.
+
 E78: no Custom Code/CSS/JS/PHP source change. Residential numbered headings reuse existing section-eyebrow/hide-empty/section-heading--accent;71 adds native optional content only. [Current owners](components/residential-services.md#e78--numbered-heading-consistency-and-native-residential-entry-link).
 
 **E77 current shared owners:** Existing847 now Entire site, semantic `.cta-panel` iteration; source mirror updated once, not enqueued. Existing590 source unchanged, Entire-site condition for shared Timeline. Component80 native panel radius replaces Homepage local CSS. No new code entry/file/dependency;903 and BEAF unchanged. [Current storage, reuse and rollback](components/residential-services.md). Earlier154-only references below describe historical conditions.

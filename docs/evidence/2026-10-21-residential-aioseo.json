@@ -1,0 +1,966 @@
+{
+  "milestone": "E79",
+  "environment": "staging",
+  "checked_at_utc": "2026-10-21T18:44:11+00:00",
+  "residential": {
+    "counts": {
+      "canonical": 1,
+      "description": 1,
+      "titles": 1
+    },
+    "eyebrows": [
+      "01 / RESIDENTIAL SERVICES",
+      "02 / RESTORATION SOLUTIONS",
+      "03 / OUR PROCESS",
+      "04 / WHY GCPRO",
+      "05 / REAL RESULTS",
+      "06 / LOCAL COVERAGE",
+      "07 / HOMEOWNER QUESTIONS"
+    ],
+    "faq": [
+      "What do residential restoration services include?",
+      "Can one project include cleanup and reconstruction?",
+      "How do I get started with GCPRO?",
+      "Can damaged belongings be restored?",
+      "Do you provide residential restoration throughout Chicagoland?",
+      "Where can I see examples of your work?"
+    ],
+    "head": {
+      "canonical": "https://vitaliiv1.sg-host.com/residential-services/",
+      "description": "Water, fire, mold or storm damage at home? GCPRO offers residential restoration services in Chicago and Chicagoland. Call 847-656-3322 to discuss your project.",
+      "ogImage": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/glenview-house-2.jpg",
+      "ogSiteName": "GCPRO",
+      "ogTitle": "Residential Restoration Services in Chicago | GCPRO",
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "twitterCard": "summary_large_image"
+    },
+    "headings": [
+      {
+        "tag": "H1",
+        "text": "Residential Restoration Services in Chicago"
+      },
+      {
+        "tag": "H2",
+        "text": "Restoration Services for Your Home"
+      },
+      {
+        "tag": "H3",
+        "text": "Water Damage Restoration"
+      },
+      {
+        "tag": "H3",
+        "text": "Fire & Smoke Damage Restoration"
+      },
+      {
+        "tag": "H3",
+        "text": "Mold Removal & Remediation"
+      },
+      {
+        "tag": "H3",
+        "text": "Storm Damage Restoration"
+      },
+      {
+        "tag": "H3",
+        "text": "Home Reconstruction"
+      },
+      {
+        "tag": "H3",
+        "text": "Personal Property Restoration"
+      },
+      {
+        "tag": "H2",
+        "text": "From Damage Assessment to a Restored Home"
+      },
+      {
+        "tag": "H2",
+        "text": "How Home Restoration Works"
+      },
+      {
+        "tag": "H3",
+        "text": "Discuss Your Needs"
+      },
+      {
+        "tag": "H3",
+        "text": "Assess the Damage"
+      },
+      {
+        "tag": "H3",
+        "text": "Restore Your Home"
+      },
+      {
+        "tag": "H3",
+        "text": "Review the Work"
+      },
+      {
+        "tag": "H2",
+        "text": "Why Homeowners Choose GCPRO"
+      },
+      {
+        "tag": "H3",
+        "text": "Services for Your Home"
+      },
+      {
+        "tag": "H3",
+        "text": "Cleanup Through Reconstruction"
+      },
+      {
+        "tag": "H3",
+        "text": "Coordinated Project Work"
+      },
+      {
+        "tag": "H3",
+        "text": "Clear Project Updates"
+      },
+      {
+        "tag": "H2",
+        "text": "See Real Home Restoration Projects"
+      },
+      {
+        "tag": "H3",
+        "text": "Fire Damage Restoration — Tinley Park, IL"
+      },
+      {
+        "tag": "H3",
+        "text": "Water Damage Restoration — Glenview, IL"
+      },
+      {
+        "tag": "H2",
+        "text": "Serving Chicago and Surrounding Communities"
+      },
+      {
+        "tag": "H2",
+        "text": "Residential Restoration Questions"
+      },
+      {
+        "tag": "H2",
+        "text": "Let's Talk About Restoring Your Home"
+      }
+    ],
+    "images": [
+      {
+        "alt": "Living room before restoration, with an opening in the ceiling and exposed joists.",
+        "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/glenview-house-1.jpg"
+      },
+      {
+        "alt": "Living room after restoration, with a finished ceiling, large windows and seating.",
+        "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/glenview-house-2.jpg"
+      },
+      {
+        "alt": "Interior before restoration, with exposed framing and damaged wall finishes.",
+        "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/tinley-6-1024x768.jpg"
+      },
+      {
+        "alt": "Interior before restoration, with exposed framing and damaged wall finishes.",
+        "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/tinley-6.jpg"
+      },
+      {
+        "alt": "Interior after restoration, with finished walls, doors and flooring.",
+        "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/tinley-6-6.jpg"
+      },
+      {
+        "alt": "Living room before restoration, with an opening in the ceiling and exposed joists.",
+        "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/glenview-house-1.jpg"
+      },
+      {
+        "alt": "Living room after restoration, with a finished ceiling, large windows and seating.",
+        "src": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/glenview-house-2.jpg"
+      }
+    ],
+    "links": [
+      {
+        "href": "tel:+18476563322",
+        "text": "Call 847-656-3322"
+      },
+      {
+        "href": "https://vitaliiv1.sg-host.com/service-request/",
+        "text": "Request Service"
+      },
+      {
+        "href": "https://vitaliiv1.sg-host.com/residential-services/water-damage/",
+        "text": "Water damage restoration"
+      },
+      {
+        "href": "https://vitaliiv1.sg-host.com/residential-services/fire-smoke/",
+        "text": "Fire and smoke restoration"
+      },
+      {
+        "href": "https://vitaliiv1.sg-host.com/residential-services/mold-removal/",
+        "text": "Mold removal and remediation"
+      },
+      {
+        "href": "https://vitaliiv1.sg-host.com/residential-services/storm-damage/",
+        "text": "Storm damage restoration"
+      },
+      {
+        "href": "https://vitaliiv1.sg-host.com/residential-services/reconstruction/",
+        "text": "Home reconstruction services"
+      },
+      {
+        "href": "https://vitaliiv1.sg-host.com/residential-services/personal-property-restoration/",
+        "text": "Personal property restoration"
+      },
+      {
+        "href": "https://vitaliiv1.sg-host.com/service-request/",
+        "text": "Discuss Your Home Restoration"
+      },
+      {
+        "href": "https://vitaliiv1.sg-host.com/portfolio/",
+        "text": "View All Restoration Projects"
+      },
+      {
+        "href": "https://vitaliiv1.sg-host.com/service-area/lombard/",
+        "text": "Lombard"
+      },
+      {
+        "href": "https://vitaliiv1.sg-host.com/service-area/arlington-heights/",
+        "text": "Arlington Heights"
+      },
+      {
+        "href": "https://vitaliiv1.sg-host.com/service-area/elmhurst/",
+        "text": "Elmhurst"
+      },
+      {
+        "href": "https://vitaliiv1.sg-host.com/service-area/naperville/",
+        "text": "Naperville"
+      },
+      {
+        "href": "https://vitaliiv1.sg-host.com/service-area/northbrook/",
+        "text": "Northbrook"
+      },
+      {
+        "href": "https://vitaliiv1.sg-host.com/service-area/downers-grove/",
+        "text": "Downers Grove"
+      },
+      {
+        "href": "https://vitaliiv1.sg-host.com/service-area/oak-brook/",
+        "text": "Oak Brook"
+      },
+      {
+        "href": "https://vitaliiv1.sg-host.com/service-area/glenview/",
+        "text": "Glenview"
+      },
+      {
+        "href": "https://vitaliiv1.sg-host.com/service-area/highland-park/",
+        "text": "Highland Park"
+      },
+      {
+        "href": "https://vitaliiv1.sg-host.com/service-area/schaumburg/",
+        "text": "Schaumburg"
+      },
+      {
+        "href": "https://vitaliiv1.sg-host.com/service-area/evanston/",
+        "text": "Evanston"
+      },
+      {
+        "href": "https://vitaliiv1.sg-host.com/service-area/elk-grove-village/",
+        "text": "Elk Grove Village"
+      },
+      {
+        "href": "https://vitaliiv1.sg-host.com/service-area/",
+        "text": "View All Service Areas"
+      },
+      {
+        "href": "https://vitaliiv1.sg-host.com/service-request/",
+        "text": "Ask About Your Location"
+      },
+      {
+        "href": "tel:+18476563322",
+        "text": "Call 847-656-3322"
+      },
+      {
+        "href": "https://vitaliiv1.sg-host.com/service-request/",
+        "text": "Request Service"
+      }
+    ],
+    "schemas": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@id": "https://vitaliiv1.sg-host.com/residential-services/#breadcrumblist",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@id": "https://vitaliiv1.sg-host.com/#listItem",
+                "@type": "ListItem",
+                "item": "https://vitaliiv1.sg-host.com/",
+                "name": "Home",
+                "nextItem": {
+                  "@id": "https://vitaliiv1.sg-host.com/residential-services/#listItem",
+                  "@type": "ListItem",
+                  "name": "Residential Restoration Services in Chicago"
+                },
+                "position": 1
+              },
+              {
+                "@id": "https://vitaliiv1.sg-host.com/residential-services/#listItem",
+                "@type": "ListItem",
+                "name": "Residential Restoration Services in Chicago",
+                "position": 2,
+                "previousItem": {
+                  "@id": "https://vitaliiv1.sg-host.com/#listItem",
+                  "@type": "ListItem",
+                  "name": "Home"
+                }
+              }
+            ]
+          },
+          {
+            "@id": "https://vitaliiv1.sg-host.com/#organization",
+            "@type": "Organization",
+            "description": "Residential and Commercial Property Restoration",
+            "email": "restore@gcprochicago.com",
+            "image": {
+              "@id": "https://vitaliiv1.sg-host.com/residential-services/#organizationLogo"
+            },
+            "logo": {
+              "@id": "https://vitaliiv1.sg-host.com/residential-services/#organizationLogo",
+              "@type": "ImageObject",
+              "height": 562,
+              "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/08/GCPRO_BLACK.svg",
+              "width": 1436
+            },
+            "name": "GCPRO Restoration",
+            "sameAs": [
+              "https://www.instagram.com/gcprorestoration/",
+              "https://www.linkedin.com/company/gcpro-restoration/",
+              "https://www.yelp.com/biz/gcpro-restoration-lombard-2"
+            ],
+            "telephone": "+18476563322",
+            "url": "https://vitaliiv1.sg-host.com/"
+          },
+          {
+            "@id": "https://vitaliiv1.sg-host.com/residential-services/#residential-restoration-service",
+            "@type": "Service",
+            "description": "Residential water, fire, mold and storm damage restoration, personal property restoration and home reconstruction in Chicago and Chicagoland.",
+            "image": {
+              "@type": "ImageObject",
+              "caption": "Living room after restoration, with a finished ceiling, large windows and seating.",
+              "height": 1200,
+              "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/glenview-house-2.jpg",
+              "width": 1600
+            },
+            "name": "Residential Restoration Services in Chicago",
+            "provider": {
+              "@id": "https://vitaliiv1.sg-host.com/#organization",
+              "@type": "Organization"
+            },
+            "serviceType": "Residential property restoration"
+          },
+          {
+            "@id": "https://vitaliiv1.sg-host.com/residential-services/#webpage",
+            "@type": "WebPage",
+            "breadcrumb": {
+              "@id": "https://vitaliiv1.sg-host.com/residential-services/#breadcrumblist"
+            },
+            "dateModified": "2026-10-21T18:35:16+00:00",
+            "datePublished": "2026-10-21T15:53:01+00:00",
+            "description": "Water, fire, mold or storm damage at home? GCPRO offers residential restoration services in Chicago and Chicagoland. Call 847-656-3322 to discuss your project.",
+            "image": {
+              "@id": "https://vitaliiv1.sg-host.com/residential-services/#mainImage",
+              "@type": "ImageObject",
+              "caption": "Living room after restoration, with a finished ceiling, large windows and seating.",
+              "height": 1200,
+              "url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/glenview-house-2.jpg",
+              "width": 1600
+            },
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://vitaliiv1.sg-host.com/#website"
+            },
+            "name": "Residential Restoration Services in Chicago | GCPRO",
+            "primaryImageOfPage": {
+              "@id": "https://vitaliiv1.sg-host.com/residential-services/#mainImage"
+            },
+            "url": "https://vitaliiv1.sg-host.com/residential-services/"
+          },
+          {
+            "@id": "https://vitaliiv1.sg-host.com/#website",
+            "@type": "WebSite",
+            "alternateName": "GCPRO Restoration",
+            "description": "Residential and Commercial Property Restoration",
+            "inLanguage": "en-US",
+            "name": "GCPRO",
+            "publisher": {
+              "@id": "https://vitaliiv1.sg-host.com/#organization"
+            },
+            "url": "https://vitaliiv1.sg-host.com/"
+          }
+        ]
+      }
+    ],
+    "title": "Residential Restoration Services in Chicago | GCPRO",
+    "url": "https://vitaliiv1.sg-host.com/residential-services/",
+    "intro": "Water, fire, mold or storm damage? GCPRO restores homes across Chicago and Chicagoland."
+  },
+  "responsive": [
+    {
+      "clientWidth": 360,
+      "comparisons": 3,
+      "overflowingText": [],
+      "scrollWidth": 360,
+      "width": 360
+    },
+    {
+      "clientWidth": 393,
+      "comparisons": 3,
+      "overflowingText": [],
+      "scrollWidth": 393,
+      "width": 393
+    },
+    {
+      "clientWidth": 430,
+      "comparisons": 3,
+      "overflowingText": [],
+      "scrollWidth": 430,
+      "width": 430
+    },
+    {
+      "clientWidth": 753,
+      "comparisons": 3,
+      "overflowingText": [],
+      "scrollWidth": 753,
+      "width": 768
+    },
+    {
+      "clientWidth": 1009,
+      "comparisons": 3,
+      "overflowingText": [],
+      "scrollWidth": 1009,
+      "width": 1024
+    },
+    {
+      "clientWidth": 1265,
+      "comparisons": 3,
+      "overflowingText": [],
+      "scrollWidth": 1265,
+      "width": 1280
+    },
+    {
+      "clientWidth": 1425,
+      "comparisons": 3,
+      "overflowingText": [],
+      "scrollWidth": 1425,
+      "width": 1440
+    }
+  ],
+  "internal_destinations": [
+    {
+      "url": "https://vitaliiv1.sg-host.com/portfolio/",
+      "id": 1132,
+      "status": "publish"
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/residential-services/fire-smoke/",
+      "id": 517,
+      "status": "publish"
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/residential-services/mold-removal/",
+      "id": 516,
+      "status": "publish"
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/residential-services/personal-property-restoration/",
+      "id": 521,
+      "status": "publish"
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/residential-services/reconstruction/",
+      "id": 518,
+      "status": "publish"
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/residential-services/storm-damage/",
+      "id": 523,
+      "status": "publish"
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/residential-services/water-damage/",
+      "id": 514,
+      "status": "publish"
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/service-area/",
+      "id": 495,
+      "status": "publish"
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/service-area/arlington-heights/",
+      "id": 559,
+      "status": "publish"
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/service-area/downers-grove/",
+      "id": 527,
+      "status": "publish"
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/service-area/elk-grove-village/",
+      "id": 529,
+      "status": "publish"
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/service-area/elmhurst/",
+      "id": 530,
+      "status": "publish"
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/service-area/evanston/",
+      "id": 565,
+      "status": "publish"
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/service-area/glenview/",
+      "id": 533,
+      "status": "publish"
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/service-area/highland-park/",
+      "id": 528,
+      "status": "publish"
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/service-area/lombard/",
+      "id": 526,
+      "status": "publish"
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/service-area/naperville/",
+      "id": 532,
+      "status": "publish"
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/service-area/northbrook/",
+      "id": 556,
+      "status": "publish"
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/service-area/oak-brook/",
+      "id": 536,
+      "status": "publish"
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/service-area/schaumburg/",
+      "id": 558,
+      "status": "publish"
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/service-request/",
+      "id": 492,
+      "status": "publish"
+    }
+  ],
+  "global_settings_changes": [
+    {
+      "setting": "options.searchAppearance.archives.author.title",
+      "before": "#author_name #separator_sa #site_title",
+      "after": "#author_name #separator_sa GCPRO"
+    },
+    {
+      "setting": "options.searchAppearance.archives.date.title",
+      "before": "#archive_date #separator_sa #site_title",
+      "after": "#archive_date #separator_sa GCPRO"
+    },
+    {
+      "setting": "options.searchAppearance.archives.search.title",
+      "before": "#search_term #separator_sa #site_title",
+      "after": "#search_term #separator_sa GCPRO"
+    },
+    {
+      "setting": "options.searchAppearance.global.schema.email",
+      "before": null,
+      "after": "restore@gcprochicago.com"
+    },
+    {
+      "setting": "options.searchAppearance.global.schema.phone",
+      "before": null,
+      "after": "+18476563322"
+    },
+    {
+      "setting": "options.searchAppearance.global.schema.websiteAlternateName",
+      "before": null,
+      "after": "GCPRO Restoration"
+    },
+    {
+      "setting": "options.searchAppearance.global.schema.websiteName",
+      "before": "#site_title",
+      "after": "GCPRO"
+    },
+    {
+      "setting": "options.searchAppearance.global.separator",
+      "before": "-",
+      "after": "|"
+    },
+    {
+      "setting": "options.sitemap.general.enable",
+      "before": true,
+      "after": false
+    },
+    {
+      "setting": "options.sitemap.general.postTypes.all",
+      "before": true,
+      "after": false
+    },
+    {
+      "setting": "options.sitemap.general.postTypes.included",
+      "before": [
+        "post",
+        "page",
+        "attachment",
+        "product"
+      ],
+      "after": [
+        "post",
+        "page"
+      ]
+    },
+    {
+      "setting": "options.sitemap.general.taxonomies.all",
+      "before": true,
+      "after": false
+    },
+    {
+      "setting": "options.sitemap.general.taxonomies.included",
+      "before": [
+        "category",
+        "post_tag",
+        "product_cat",
+        "product_tag"
+      ],
+      "after": [
+        "category",
+        "post_tag"
+      ]
+    },
+    {
+      "setting": "options.sitemap.html.enable",
+      "before": true,
+      "after": false
+    },
+    {
+      "setting": "options.sitemap.news.enable",
+      "before": true,
+      "after": false
+    },
+    {
+      "setting": "options.sitemap.rss.enable",
+      "before": true,
+      "after": false
+    },
+    {
+      "setting": "options.sitemap.rss.postTypes.all",
+      "before": true,
+      "after": false
+    },
+    {
+      "setting": "options.sitemap.rss.postTypes.included",
+      "before": [
+        "post",
+        "page",
+        "product"
+      ],
+      "after": [
+        "post"
+      ]
+    },
+    {
+      "setting": "options.sitemap.video.enable",
+      "before": true,
+      "after": false
+    },
+    {
+      "setting": "options.social.facebook.general.defaultImagePosts",
+      "before": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/08/GCPRO_BLACK.svg",
+      "after": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/glenview-house-2.jpg"
+    },
+    {
+      "setting": "options.social.facebook.general.defaultImagePostsHeight",
+      "before": "",
+      "after": 1200
+    },
+    {
+      "setting": "options.social.facebook.general.defaultImagePostsWidth",
+      "before": "",
+      "after": 1600
+    },
+    {
+      "setting": "options.social.facebook.general.defaultImageSourcePosts",
+      "before": "default",
+      "after": "featured"
+    },
+    {
+      "setting": "options.social.facebook.general.defaultImageTerms",
+      "before": "",
+      "after": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/glenview-house-2.jpg"
+    },
+    {
+      "setting": "options.social.facebook.general.defaultImageTermsHeight",
+      "before": "",
+      "after": 1200
+    },
+    {
+      "setting": "options.social.facebook.general.defaultImageTermsWidth",
+      "before": "",
+      "after": 1600
+    },
+    {
+      "setting": "options.social.facebook.general.showAuthor",
+      "before": true,
+      "after": false
+    },
+    {
+      "setting": "options.social.facebook.general.siteName",
+      "before": "#site_title #separator_sa #tagline",
+      "after": "GCPRO"
+    },
+    {
+      "setting": "options.social.profiles.urls.facebookPageUrl",
+      "before": null,
+      "after": "https://www.facebook.com/GCPRORESTORATION/"
+    },
+    {
+      "setting": "options.social.profiles.urls.instagramUrl",
+      "before": null,
+      "after": "https://www.instagram.com/gcprorestoration/"
+    },
+    {
+      "setting": "options.social.profiles.urls.linkedinUrl",
+      "before": null,
+      "after": "https://www.linkedin.com/company/gcpro-restoration/"
+    },
+    {
+      "setting": "options.social.profiles.urls.yelpPageUrl",
+      "before": null,
+      "after": "https://www.yelp.com/biz/gcpro-restoration-lombard-2"
+    },
+    {
+      "setting": "options.social.twitter.general.defaultImagePosts",
+      "before": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/08/GCPRO_BLACK.svg",
+      "after": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/glenview-house-2.jpg"
+    },
+    {
+      "setting": "options.social.twitter.general.defaultImageSourcePosts",
+      "before": "default",
+      "after": "featured"
+    },
+    {
+      "setting": "options.social.twitter.general.defaultImageTerms",
+      "before": "",
+      "after": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/glenview-house-2.jpg"
+    },
+    {
+      "setting": "options.social.twitter.general.showAuthor",
+      "before": true,
+      "after": false
+    },
+    {
+      "setting": "options.social.twitter.general.useOgData",
+      "before": false,
+      "after": true
+    },
+    {
+      "setting": "dynamicOptions.searchAppearance.postTypes.page.metaDescription",
+      "before": "#post_content",
+      "after": "#post_excerpt"
+    },
+    {
+      "setting": "dynamicOptions.searchAppearance.postTypes.page.title",
+      "before": "#post_title #separator_sa #site_title",
+      "after": "#post_title #separator_sa GCPRO"
+    },
+    {
+      "setting": "dynamicOptions.searchAppearance.postTypes.post.title",
+      "before": "#post_title #separator_sa #site_title",
+      "after": "#post_title #separator_sa GCPRO"
+    },
+    {
+      "setting": "dynamicOptions.searchAppearance.taxonomies.category.title",
+      "before": "#taxonomy_title #separator_sa #site_title",
+      "after": "#taxonomy_title #separator_sa GCPRO"
+    },
+    {
+      "setting": "dynamicOptions.searchAppearance.taxonomies.post_tag.title",
+      "before": "#taxonomy_title #separator_sa #site_title",
+      "after": "#taxonomy_title #separator_sa GCPRO"
+    },
+    {
+      "setting": "dynamicOptions.social.facebook.general.postTypes.page.objectType",
+      "before": "article",
+      "after": "website"
+    },
+    {
+      "setting": "dynamicOptions.social.facebook.general.taxonomies.category.objectType",
+      "before": "article",
+      "after": "website"
+    },
+    {
+      "setting": "dynamicOptions.social.facebook.general.taxonomies.post_tag.objectType",
+      "before": "article",
+      "after": "website"
+    }
+  ],
+  "homepage_final_metadata": {
+    "title": "Property Restoration in Chicago | GCPRO",
+    "description": "GCPRO provides residential and commercial restoration in Chicago and Chicagoland. Explore water, fire, mold and storm damage services. Call 847-656-3322.",
+    "canonical_url": "https://vitaliiv1.sg-host.com/",
+    "og_title": "Property Restoration in Chicago | GCPRO",
+    "og_description": "GCPRO provides residential and commercial restoration in Chicago and Chicagoland. Explore water, fire, mold and storm damage services. Call 847-656-3322.",
+    "og_object_type": "website",
+    "og_image_type": "custom_image",
+    "og_image_custom_url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/tinley-6-6.jpg",
+    "og_image_custom_fields": null,
+    "twitter_use_og": true,
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Property Restoration in Chicago | GCPRO",
+    "twitter_description": "GCPRO provides residential and commercial restoration in Chicago and Chicagoland. Explore water, fire, mold and storm damage services. Call 847-656-3322.",
+    "og_custom_image_width": 1600,
+    "og_custom_image_height": 1200
+  },
+  "page_seo_exceptions": [
+    {
+      "id": 484,
+      "status": "publish",
+      "url": "https://vitaliiv1.sg-host.com/residential-services/",
+      "title": "Residential Restoration Services in Chicago | GCPRO",
+      "description": "Water, fire, mold or storm damage at home? GCPRO offers residential restoration services in Chicago and Chicagoland. Call 847-656-3322 to discuss your project."
+    },
+    {
+      "id": 154,
+      "status": "publish",
+      "url": "https://vitaliiv1.sg-host.com/",
+      "title": "Property Restoration in Chicago | GCPRO",
+      "description": "GCPRO provides residential and commercial restoration in Chicago and Chicagoland. Explore water, fire, mold and storm damage services. Call 847-656-3322."
+    }
+  ],
+  "native_schema": {
+    "blockGraphs": [],
+    "customGraphs": [],
+    "default": {
+      "data": {
+        "Article": [],
+        "Course": [],
+        "Dataset": [],
+        "FAQPage": [],
+        "Movie": [],
+        "Person": [],
+        "Product": [],
+        "ProductReview": [],
+        "Car": [],
+        "Recipe": [],
+        "Service": [],
+        "SoftwareApplication": [],
+        "WebPage": []
+      },
+      "graphName": "WebPage",
+      "isEnabled": true
+    },
+    "graphs": [
+      {
+        "id": "#residential-restoration-service",
+        "graphName": "Service",
+        "properties": {
+          "name": "Residential Restoration Services in Chicago",
+          "description": "Residential water, fire, mold and storm damage restoration, personal property restoration and home reconstruction in Chicago and Chicagoland.",
+          "serviceType": "Residential property restoration",
+          "image": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/glenview-house-2.jpg",
+          "provider": []
+        }
+      }
+    ]
+  },
+  "protected_native_documents_unchanged": [
+    154,
+    113,
+    114
+  ],
+  "native_page_nodes": 53,
+  "reading_noindex_checkbox": true,
+  "anonymous": {
+    "residential": 403,
+    "robots": 200,
+    "sitemap_xml": {
+      "status": 301,
+      "location": "https://vitaliiv1.sg-host.com/wp-sitemap.xml",
+      "cause": "existing WordPress provider fallback; no authored redirect rule"
+    },
+    "wp_sitemap_xml": 404,
+    "sitemap_rss": 404
+  },
+  "limitations": [
+    "Local SEO addon absent/unactivated; no LocalBusiness certification",
+    "Elementor editor loading blocks integrated TruSEO content score",
+    "No public migrated Posts/Portfolio CPT or nonempty taxonomy available",
+    "No physical-device/incognito/Google SERP or rich-results-fetch certification"
+  ],
+  "hero_reuse": {
+    "page_id": 484,
+    "frame_id": "1ebe662e",
+    "frame_local_style": "e-307475c6-d852",
+    "shortcode_widget_id": "c7b53cfa",
+    "shortcode": "[bafg id=\"742\"]",
+    "source_widget_unchanged": "9bb91a0b",
+    "caption_id": "567882a1",
+    "caption": "Drag the divider to see this Glenview living room before and after restoration.",
+    "native_nodes": 53
+  },
+  "hero_interaction_qa": {
+    "mobileTouchHeroHandle": "260px",
+    "mobileOriginalHandle": "176.667px",
+    "verticalTouchScroll": {
+      "heroHandle": "260px",
+      "scrollY": 3336
+    },
+    "desktopHeroBefore": "409.132px",
+    "desktopAfter": [
+      "275.667px",
+      "278px"
+    ]
+  },
+  "process_desktop_qa": [
+    {
+      "descriptionHeight": 102.375,
+      "headingHeight": 31.197917938232425,
+      "title": "Discuss Your Needs"
+    },
+    {
+      "descriptionHeight": 102.375,
+      "headingHeight": 31.197917938232425,
+      "title": "Assess the Damage"
+    },
+    {
+      "descriptionHeight": 102.375,
+      "headingHeight": 31.197917938232425,
+      "title": "Restore Your Home"
+    },
+    {
+      "descriptionHeight": 102.375,
+      "headingHeight": 31.197917938232425,
+      "title": "Review the Work"
+    }
+  ],
+  "tablet_final": {
+    "clientWidth": 753,
+    "process": [
+      {
+        "headingHeight": 28.59375,
+        "text": "Discuss Your Needs"
+      },
+      {
+        "headingHeight": 28.59375,
+        "text": "Assess the Damage"
+      },
+      {
+        "headingHeight": 28.59375,
+        "text": "Restore Your Home"
+      },
+      {
+        "headingHeight": 28.59375,
+        "text": "Review the Work"
+      }
+    ],
+    "scrollWidth": 753,
+    "textOverflow": [],
+    "width": 768
+  }
+}

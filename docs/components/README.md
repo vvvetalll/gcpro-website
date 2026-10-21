@@ -1,5 +1,7 @@
 # Component maintenance index
 
+E79: [Residential SEO content](../seo/2026-10-21-residential-services.md) uses existing instance content Overrides only; shared definitions/design/links unchanged. [AIOSEO global storage](../SEO_AIOSEO.md) is native plugin configuration, not another Atomic component.
+
 E57: [approved Phase1 changes, exact storage and QA](../audits/2026-10-20-phase1-cleanup.md) supersede the relevant E56 debt notes. BEAF is an untouched third-party integration exception; six Core SVGs are unchanged after conflict checks.
 
 Current inspection: **2026-10-20, staging only**. This directory owns component-level implementation and editing instructions. IDs below are installation locators, not recommended CSS selectors. Re-read staging before editing.
