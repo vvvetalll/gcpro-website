@@ -1,5 +1,7 @@
 # GCPRO SEO URL architecture and Draft skeleton
 
+**Current E73,2026-10-21:** Authenticated production admin read-only inventory completed for visible content lists:90 Pages(88 Published/2 Draft),30 Posts,13 Portfolio,34 BEAF and61 Elementor objects;22 relevant terms. Newly found Draft Pages15553/11856 have no saved slug or proven public history. Combined XML omits4 published Pages and all13 projects. Reading Settings directly confirm front40/posts2187(Blog). Canonical register now320 rows, preserving prior212 URL/mapping/action records. Staging adds Partner Programs982 with four Draft children983–986, minimal native Atomic headings and prepared unassigned menu13; existing Header/Homepage/Footer/BEAF untouched. [Complete navigable sitemap](SITEMAP.md) · [Audit, counts, limits and exact owners](audits/2026-10-21-production-admin-and-partners.md).
+
 ## Preservation baseline and future migration map — E72
 
 Owner clarification,2026-10-21: **preserve every existing URL now; current paths are not a final long-term architecture decision.** Future optimization may update, merge, redirect or remove only after separately approved evidence-based decisions. Historical audit recommendations never authorize execution. No redirects/deletions/removals/slug or URL changes/publications were performed.

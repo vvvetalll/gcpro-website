@@ -1,4 +1,6 @@
 # gcpro-website
+
+[Complete hierarchical sitemap and actual staging editors](docs/SITEMAP.md) · [Canonical URL migration register](docs/SEO_URL_INVENTORY.csv) · [Partner Programs Drafts and prepared navigation](docs/components/partner-programs.md)
 # GCPRO Website
 
 Documentation and development records for the GCPRO Restoration website.

@@ -1,0 +1,569 @@
+{
+  "checked_at_utc": "2026-10-21T15:05:43.646Z",
+  "production_access": "Existing authenticated Chrome WordPress admin; UI navigation and read-only DOM extraction, no editor or production mutation",
+  "production_counts": {
+    "page": {
+      "publish": 88,
+      "draft": 2
+    },
+    "post": {
+      "publish": 30
+    },
+    "portfolio": {
+      "publish": 13
+    },
+    "bafg": {
+      "publish": 33,
+      "draft": 1
+    },
+    "elementor_library": {
+      "publish": 57,
+      "draft": 4
+    }
+  },
+  "production_grid_records": 0,
+  "new_source_objects": [
+    15553,
+    11856,
+    18061,
+    17892,
+    17882,
+    13663,
+    12730,
+    12656,
+    12569,
+    12503,
+    12496,
+    12486,
+    11840,
+    11834,
+    11540,
+    11529,
+    11526,
+    11519,
+    11515,
+    11464,
+    11048,
+    10948,
+    10838,
+    10769,
+    10766,
+    10661,
+    10537,
+    10468,
+    10380,
+    10374,
+    10353,
+    9862,
+    8152,
+    8132,
+    21903,
+    21468,
+    21426,
+    21217,
+    21215,
+    21168,
+    20674,
+    20001,
+    19958,
+    18952,
+    18922,
+    18921,
+    17614,
+    17444,
+    17425,
+    17270,
+    16219,
+    16215,
+    16214,
+    15029,
+    14551,
+    13438,
+    13430,
+    13344,
+    11576,
+    11568,
+    10874,
+    10749,
+    10595,
+    10556,
+    10070,
+    9612,
+    9540,
+    9426,
+    9413,
+    9253,
+    8412,
+    8415,
+    8121,
+    7996,
+    7652,
+    7495,
+    6858,
+    5972,
+    5897,
+    5872,
+    3365,
+    3213,
+    3076,
+    2318,
+    2280,
+    1670,
+    1372,
+    1358,
+    1303,
+    1195,
+    1086,
+    1075,
+    1044,
+    1022
+  ],
+  "new_taxonomy_terms": [
+    [
+      "project-type",
+      71
+    ],
+    [
+      "project-type",
+      73
+    ],
+    [
+      "project-type",
+      70
+    ],
+    [
+      "project-type",
+      72
+    ],
+    [
+      "bafg_gallery",
+      81
+    ],
+    [
+      "bafg_gallery",
+      82
+    ],
+    [
+      "bafg_gallery",
+      84
+    ],
+    [
+      "bafg_gallery",
+      80
+    ],
+    [
+      "bafg_gallery",
+      83
+    ]
+  ],
+  "source_objects_observed": 228,
+  "taxonomy_terms_observed": 22,
+  "xml_sitemaps": [
+    {
+      "url": "https://gcprochicago.com/post-sitemap.xml",
+      "urls": [
+        "https://gcprochicago.com/blog/",
+        "https://gcprochicago.com/understanding-water-damage-restoration-in-villa-park-a-must-read-guide/",
+        "https://gcprochicago.com/black-mold-vs-regular-mold-understanding-the-difference/",
+        "https://gcprochicago.com/when-and-why-you-need-emergency-board-up-services/",
+        "https://gcprochicago.com/top-5-reasons-you-need-emergency-board-up-services-in-chicago/",
+        "https://gcprochicago.com/how-board-up-services-save-chicago-businesses-after-a-disaster/",
+        "https://gcprochicago.com/what-to-do-if-you-notice-water-damage-in-your-home/",
+        "https://gcprochicago.com/signs-of-hidden-water-damage-in-your-home/",
+        "https://gcprochicago.com/understanding-and-addressing-ceiling-water-damage-a-comprehensive-guide/",
+        "https://gcprochicago.com/navigating-fire-and-smoke-restoration-in-glencoe-with-gcpro-restoration/",
+        "https://gcprochicago.com/water-damage-restoration-in-glencoe-expert-insights-from-gcpro/",
+        "https://gcprochicago.com/comprehensive-guide-to-commercial-water-damage-restoration-in-chicago/",
+        "https://gcprochicago.com/fire-and-smoke-damage-restoration-in-lombard-a-comprehensive-guide-by-gcpro/",
+        "https://gcprochicago.com/financial-fury-the-astonishing-cost-of-water-damage/",
+        "https://gcprochicago.com/safeguarding-your-sanctuary-essential-tips-to-fireproof-your-home/",
+        "https://gcprochicago.com/breathe-easy-preventing-mold-in-your-home/",
+        "https://gcprochicago.com/reviving-treasures-a-guide-to-personal-property-restoration/",
+        "https://gcprochicago.com/comprehensive-rebuild-full-service-reconstruction-explained/",
+        "https://gcprochicago.com/water-damage-floor-repair-a-homeowners-guide-to-restoration/",
+        "https://gcprochicago.com/flooded-basement-a-step-by-step-guide-to-water-damage-control/",
+        "https://gcprochicago.com/comprehensive-smoke-cleanup-strategies-for-effective-restoration/",
+        "https://gcprochicago.com/the-complete-guide-to-sewage-cleanup-safety-steps-and-services/",
+        "https://gcprochicago.com/why-professional-sewage-cleanup-is-essential-for-health-and-safety/",
+        "https://gcprochicago.com/water-damage-restoration-101-what-you-need-to-know/",
+        "https://gcprochicago.com/choosing-the-right-water-damage-restoration-service-a-buyers-guide/",
+        "https://gcprochicago.com/bouncing-back-from-fire-and-smoke-damage-in-glenview-a-quick-guide/",
+        "https://gcprochicago.com/understanding-mold-remediation-in-lombard-il-a-residents-guide/",
+        "https://gcprochicago.com/mold-remediation-in-glenview-a-comprehensive-guide/",
+        "https://gcprochicago.com/water-damage-and-restoration-services-in-glenview-a-comprehensive-guide/",
+        "https://gcprochicago.com/navigating-water-damage-in-lombard-il-a-thorough-guide/",
+        "https://gcprochicago.com/water-damage-restoration-in-winnetka-expert-insights-from-gcpro/"
+      ]
+    },
+    {
+      "url": "https://gcprochicago.com/page-sitemap.xml",
+      "urls": [
+        "https://gcprochicago.com/",
+        "https://gcprochicago.com/apply/",
+        "https://gcprochicago.com/service-area/lombard/",
+        "https://gcprochicago.com/service-area/addison/",
+        "https://gcprochicago.com/about-us/careers/",
+        "https://gcprochicago.com/residential-services/mold-removal/",
+        "https://gcprochicago.com/residential-services/fire-smoke/",
+        "https://gcprochicago.com/residential-services/water-damage/",
+        "https://gcprochicago.com/service-area/aurora/",
+        "https://gcprochicago.com/about-us/",
+        "https://gcprochicago.com/commercial-services/personal-property-restoration/",
+        "https://gcprochicago.com/commercial-services/general-contracting/",
+        "https://gcprochicago.com/commercial-services/mold-removal/",
+        "https://gcprochicago.com/commercial-services/fire-smoke/",
+        "https://gcprochicago.com/commercial-services/water-damage/",
+        "https://gcprochicago.com/commercial-services/",
+        "https://gcprochicago.com/residential-services/reconstruction/",
+        "https://gcprochicago.com/residential-services/personal-property-restoration/",
+        "https://gcprochicago.com/residential-services/storm-damage/",
+        "https://gcprochicago.com/residential-services/",
+        "https://gcprochicago.com/service-area/",
+        "https://gcprochicago.com/service-area/chicago-ridge/",
+        "https://gcprochicago.com/service-area/chicago-heights/",
+        "https://gcprochicago.com/service-area/channahon/",
+        "https://gcprochicago.com/service-area/cary/",
+        "https://gcprochicago.com/service-area/carpentersville/",
+        "https://gcprochicago.com/service-area/calumet-city/",
+        "https://gcprochicago.com/service-area/burbank/",
+        "https://gcprochicago.com/service-area/buffalo-grove/",
+        "https://gcprochicago.com/service-area/brookfield/",
+        "https://gcprochicago.com/service-area/broadview/",
+        "https://gcprochicago.com/service-area/bridgeview/",
+        "https://gcprochicago.com/service-area/bolingbrook/",
+        "https://gcprochicago.com/service-area/blue-island/",
+        "https://gcprochicago.com/service-area/berwyn/",
+        "https://gcprochicago.com/service-area/bensenville/",
+        "https://gcprochicago.com/service-area/bellwood/",
+        "https://gcprochicago.com/service-area/batavia/",
+        "https://gcprochicago.com/service-area/bartlett/",
+        "https://gcprochicago.com/service-area/barrington/",
+        "https://gcprochicago.com/service-area/arlington-heights/",
+        "https://gcprochicago.com/service-area/antioch/",
+        "https://gcprochicago.com/service-area/alsip/",
+        "https://gcprochicago.com/service-area/algonquin/",
+        "https://gcprochicago.com/service-area/carol-stream/",
+        "https://gcprochicago.com/service-area/service-area-bridgeview/",
+        "https://gcprochicago.com/water-extraction/",
+        "https://gcprochicago.com/board-up/",
+        "https://gcprochicago.com/odor-removal/",
+        "https://gcprochicago.com/moisture-mapping/",
+        "https://gcprochicago.com/contact-us/",
+        "https://gcprochicago.com/service-request/",
+        "https://gcprochicago.com/testimonials/",
+        "https://gcprochicago.com/commercial-services/reconstruction/",
+        "https://gcprochicago.com/dehumidification/",
+        "https://gcprochicago.com/privacy-policy/",
+        "https://gcprochicago.com/service-area/naperville/",
+        "https://gcprochicago.com/service-area/elk-grove-village/",
+        "https://gcprochicago.com/service-area/winnetka/",
+        "https://gcprochicago.com/service-area/wilmette/",
+        "https://gcprochicago.com/service-area/villa-park/",
+        "https://gcprochicago.com/service-area/skokie/",
+        "https://gcprochicago.com/service-area/schaumburg/",
+        "https://gcprochicago.com/service-area/oak-brook/",
+        "https://gcprochicago.com/service-area/northbrook/",
+        "https://gcprochicago.com/service-area/niles/",
+        "https://gcprochicago.com/service-area/long-grove/",
+        "https://gcprochicago.com/service-area/lake-forest/",
+        "https://gcprochicago.com/service-area/kenilworth/",
+        "https://gcprochicago.com/service-area/hinsdale/",
+        "https://gcprochicago.com/service-area/highland-park/",
+        "https://gcprochicago.com/service-area/glenview/",
+        "https://gcprochicago.com/service-area/glencoe/",
+        "https://gcprochicago.com/service-area/glen-ellyn/",
+        "https://gcprochicago.com/service-area/evanston/",
+        "https://gcprochicago.com/service-area/elmhurst/",
+        "https://gcprochicago.com/service-area/downers-grove/",
+        "https://gcprochicago.com/service-area/deerfield/",
+        "https://gcprochicago.com/service-area/fox-lake/",
+        "https://gcprochicago.com/service-area/des-plaines/",
+        "https://gcprochicago.com/before-and-after/",
+        "https://gcprochicago.com/portfolio/",
+        "https://gcprochicago.com/copyright/"
+      ]
+    }
+  ],
+  "published_business_sources_absent_xml": [
+    {
+      "id": 2406,
+      "type": "page",
+      "title": "Corporate signatures",
+      "view_url": "https://gcprochicago.com/corporate-signatures2/"
+    },
+    {
+      "id": 8136,
+      "type": "page",
+      "title": "test2",
+      "view_url": "https://gcprochicago.com/test2/"
+    },
+    {
+      "id": 456,
+      "type": "page",
+      "title": "Thank you",
+      "view_url": "https://gcprochicago.com/thank-you/"
+    },
+    {
+      "id": 15438,
+      "type": "page",
+      "title": "Welcome to GCPRO Restoration",
+      "view_url": "https://gcprochicago.com/connect/"
+    },
+    {
+      "id": 22663,
+      "type": "portfolio",
+      "title": "Home Remodeling in Oak Brook",
+      "view_url": "https://gcprochicago.com/portfolio/home-remodeling-oakbrook/"
+    },
+    {
+      "id": 14989,
+      "type": "portfolio",
+      "title": "Water Damage Restoration in Western Spring",
+      "view_url": "https://gcprochicago.com/portfolio/water-damage-restoration-in-western-spring/"
+    },
+    {
+      "id": 12428,
+      "type": "portfolio",
+      "title": "From Ashes to Excellence: Tinley Park Home Restoration",
+      "view_url": "https://gcprochicago.com/portfolio/from-ashes-to-excellence-tinley-park-home-restoration/"
+    },
+    {
+      "id": 11471,
+      "type": "portfolio",
+      "title": "Restoring Elegance: Water Damage Reconstruction of a Wonder Lake Residence",
+      "view_url": "https://gcprochicago.com/portfolio/restoring-elegance-water-damage-reconstruction-of-a-wonder-lake-residence/"
+    },
+    {
+      "id": 11388,
+      "type": "portfolio",
+      "title": "Transforming the Boys and Girls Club in Chicago",
+      "view_url": "https://gcprochicago.com/portfolio/reconstruction-in-boys-and-girls-clubs-of-chicago/"
+    },
+    {
+      "id": 11351,
+      "type": "portfolio",
+      "title": "Frozen Facade: Complete Exterior and Window Renovation in Chicago",
+      "view_url": "https://gcprochicago.com/portfolio/frozen-facade-complete-exterior-and-window-renovation-in-chicago/"
+    },
+    {
+      "id": 11268,
+      "type": "portfolio",
+      "title": "Transforming Spaces: Glenview Home Reconstruction",
+      "view_url": "https://gcprochicago.com/portfolio/transforming-spaces-glenview-home-reconstruction/"
+    },
+    {
+      "id": 11008,
+      "type": "portfolio",
+      "title": "Fire Damage Restoration on West School Street in Chicago",
+      "view_url": "https://gcprochicago.com/portfolio/fire-damage-restoration-on-w-school-street-in-chicago/"
+    },
+    {
+      "id": 10625,
+      "type": "portfolio",
+      "title": "Reconstruction After Water Damage on Montana Street, Chicago",
+      "view_url": "https://gcprochicago.com/portfolio/reconstruction-after-water-damage-on-montana-street-chicago/"
+    },
+    {
+      "id": 9882,
+      "type": "portfolio",
+      "title": "Transforming spaces into modern and elegant interiors in St. Charles",
+      "view_url": "https://gcprochicago.com/portfolio/transforming-spaces-into-modern-and-elegant-interiors-in-st-charles/"
+    },
+    {
+      "id": 8300,
+      "type": "portfolio",
+      "title": "Helen Berkun - Bathroom Reveal",
+      "view_url": "https://gcprochicago.com/portfolio/helen-berkun-bathroom-reveal/"
+    },
+    {
+      "id": 8236,
+      "type": "portfolio",
+      "title": "Green Oaks Apartments in Palos Hills",
+      "view_url": "https://gcprochicago.com/portfolio/green-oaks-apartments-in-palos-hills/"
+    },
+    {
+      "id": 8186,
+      "type": "portfolio",
+      "title": "Helen Berkun - The Entire Facade Of The House",
+      "view_url": "https://gcprochicago.com/portfolio/helen-berkun-the-entire-facade-of-the-house/"
+    }
+  ],
+  "unpublished": [
+    {
+      "id": 15553,
+      "type": "page",
+      "title": "Elementor #15553",
+      "slug": "",
+      "parent": "0",
+      "status": "draft"
+    },
+    {
+      "id": 11856,
+      "type": "page",
+      "title": "Barlett",
+      "slug": "",
+      "parent": "122",
+      "status": "draft"
+    },
+    {
+      "id": 8152,
+      "type": "bafg",
+      "title": "Kitchen1",
+      "slug": "kitchen1",
+      "parent": "",
+      "status": "draft"
+    },
+    {
+      "id": 21215,
+      "type": "elementor_library",
+      "title": "Elementor Footer #21215",
+      "slug": "",
+      "parent": "",
+      "status": "draft"
+    },
+    {
+      "id": 18921,
+      "type": "elementor_library",
+      "title": "Insurance",
+      "slug": "",
+      "parent": "",
+      "status": "draft"
+    },
+    {
+      "id": 16219,
+      "type": "elementor_library",
+      "title": "Advantages",
+      "slug": "",
+      "parent": "",
+      "status": "draft"
+    },
+    {
+      "id": 16214,
+      "type": "elementor_library",
+      "title": "Advantages",
+      "slug": "",
+      "parent": "",
+      "status": "draft"
+    }
+  ],
+  "inventory_before": 212,
+  "inventory_after": 320,
+  "staging_pages_after": 91,
+  "staging_status_counts": {
+    "draft": 88,
+    "publish": 3
+  },
+  "partner_pages": [
+    {
+      "id": 982,
+      "slug": "partner-programs",
+      "parent": 0,
+      "status": "draft",
+      "link": "https://vitaliiv1.sg-host.com/?page_id=982",
+      "title": "Partner Programs"
+    },
+    {
+      "id": 983,
+      "slug": "plumber-support-program",
+      "parent": 982,
+      "status": "draft",
+      "link": "https://vitaliiv1.sg-host.com/?page_id=983",
+      "title": "Plumber Support Program"
+    },
+    {
+      "id": 984,
+      "slug": "insurance-agent-program",
+      "parent": 982,
+      "status": "draft",
+      "link": "https://vitaliiv1.sg-host.com/?page_id=984",
+      "title": "Insurance Agent Program"
+    },
+    {
+      "id": 985,
+      "slug": "condominium-hoa-program",
+      "parent": 982,
+      "status": "draft",
+      "link": "https://vitaliiv1.sg-host.com/?page_id=985",
+      "title": "Condominium / HOA Program"
+    },
+    {
+      "id": 986,
+      "slug": "commercial-partnership-programs",
+      "parent": 982,
+      "status": "draft",
+      "link": "https://vitaliiv1.sg-host.com/?page_id=986",
+      "title": "Commercial Partnership Programs"
+    }
+  ],
+  "prepared_navigation": {
+    "menu_id": 13,
+    "locations": [],
+    "items": [
+      {
+        "id": 987,
+        "object": "page",
+        "object_id": 982,
+        "type": "post_type",
+        "status": "publish",
+        "parent": 0,
+        "menus": 13
+      },
+      {
+        "id": 988,
+        "object": "page",
+        "object_id": 983,
+        "type": "post_type",
+        "status": "publish",
+        "parent": 987,
+        "menus": 13
+      },
+      {
+        "id": 989,
+        "object": "page",
+        "object_id": 984,
+        "type": "post_type",
+        "status": "publish",
+        "parent": 987,
+        "menus": 13
+      },
+      {
+        "id": 990,
+        "object": "page",
+        "object_id": 985,
+        "type": "post_type",
+        "status": "publish",
+        "parent": 987,
+        "menus": 13
+      },
+      {
+        "id": 991,
+        "object": "page",
+        "object_id": 986,
+        "type": "post_type",
+        "status": "publish",
+        "parent": 987,
+        "menus": 13
+      }
+    ]
+  },
+  "preserved": [
+    "All86 preexisting staging Page native fields unchanged",
+    "Homepage154/Header113/Footer114 saved element trees exactly unchanged",
+    "Primary menu5 remains assigned menu-1; menu13 unassigned",
+    "Existing212 source/mapping/action cells protected; dated observations/history appended"
+  ],
+  "limits": [
+    "No permanently deleted/revision/database history",
+    "No new full SEO crawl/anonymous HTTP or live Search Console export",
+    "Elementor category term admin redirected; taxonomy term completeness not certified for that internal taxonomy",
+    "No current Header Partner link until content/publication/activation approval",
+    "Full program copy/design and formal Condo/HOA/commercial program brand names remain unapproved"
+  ],
+  "production_reading_settings_read_only": {
+    "discourageIndexing": false,
+    "frontMode": "page",
+    "frontPage": "40",
+    "postsPage": "2187"
+  },
+  "production_blog_model": "Native posts index confirmed:page_for_posts2187; prior E13 candidate status superseded, no routing changes"
+}
