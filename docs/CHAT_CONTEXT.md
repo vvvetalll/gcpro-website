@@ -180,6 +180,21 @@ Add consistent **click-to-call conversion/event tracking** for every relevant `t
 
 Future task: document implementation plan, data-layer/event naming, verification in GA4 DebugView/GTM Preview and Google Ads where applicable, and privacy compliance. **Do not install tracking plugins, edit site code, or publish tags without separate approval.**
 
+## B2B partner programs and Commercial service-page strategy — owner clarification (2026-10-21)
+
+**Owner strategic clarification:** GC PRO has an existing marketing kit and partner-program strategy aimed at property managers, plumbers, insurance agents, condominium/HOA stakeholders and other referral/relationship audiences. Commercial service pages, particularly **Commercial Water Damage**, must be designed to support these **real business and partner journeys**, not evaluated exclusively by exact-match SEO volume. Audience differentiation has a meaningful UX, sales and referral component even when generic search queries receive more volume.
+
+**Connected project evidence:** `docs/components/partner-programs.md` records drafted website Page982 Partner Programs and child Page983 Plumber Support, Page984 Insurance Agent (ASP), Page985 Condominium/HOA, Page986 Commercial Partnership Programs. It identifies marketing-source names PSP (Plumber Support Program), ASP (Agency Support Program), ERP (Emergency Response Program) and PGP (Property Guardian Program); the latter names/benefits and exact scope require confirmation. These partner pages were documented as unfinished Draft skeletons with unassigned menu13, not publicly implemented complete programs.
+
+**Architecture and content implications:**
+- Separate the **service promise** from the **partnership-program details**: a Commercial Water Damage page should substantively address business interruption, stakeholder communication, facilities access, tenant coordination, assessment/restoration workflow, and *relevant* referral/partner entry points where supported; dedicated Partner Programs pages explain program requirements, benefits, steps and referral workflows after owner approval.
+- Map internal links between Commercial service pages, partner hub and relevant program pages when approved and published. Treat marketing-kit or outreach traffic, referral conversions and direct B2B inquiries as separate strategic value alongside search rankings. Do not mistake low-volume exact-match keywords for proof of low commercial value.
+- Do not force every partner audience or program into every Commercial page; choose based on task relevance and verified actual services. Plumber referrals may apply to both Residential and Commercial water situations, while commercial property-manager/HOA workflows need business/managed-property specifics. Avoid implying formal agreements, referral payments, exclusivity, insurance guarantees or response SLAs without owner verification.
+- Preserve intuitive Residential/Commercial navigation; do not override independently researched SEO cluster ownership without a documented, approved resolution. Commercial Water may warrant distinct content/CTA because of B2B task and conversion needs even when the broad water query is owned by an audience-neutral page.
+- Future page briefs should explicitly cover **organic keyword intent + B2B target audience + referral/marketing-kit traffic + primary conversion(s) + contextual partner links**. Include this in the proposed page/URL review.
+
+**Status:** Approved strategic requirement to consider partner/B2B journeys; specific layout, CTAs, program claims, links and target URLs remain **DRAFT — AWAITING USER APPROVAL**. No website or partner-program publication/change authorized by this note.
+
 ## Next steps
 
 1. Confirm Work's new SEO research files and assess their provenance, completeness, and cross-page intent overlap.
