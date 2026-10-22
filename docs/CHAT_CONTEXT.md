@@ -213,3 +213,6 @@ This file is an index and decision record, **not** an instruction to ignore new 
 ## 2026-10-22 — Homepage Trust Logos activation
 
 Owner requested the same logos on Homepage154. Existing Why Component1149 instance60cdf058 now has only six media Overrides: empty Image and existing attachments1294/1295/1296/1297/1303. Shared definition,classes,hover,label and SEO metadata unchanged. No new classes,Variables,Components,code,assets,plugins or dependencies. Cache cleared; frontend confirms five image URLs/alt labels and supporting p label. Browser DOM checks:360px one row after benefit04;1440px3+2 in original left column;no horizontal overflow. Rollback:clear the six instance media Overrides to restore previous default None.
+
+
+2026-10-22 — Owner-approved Trust Logos separator: existing trust-logos g-c8bf649 now has a1px solid white16% top border and14px top padding. It spans only the media column; browser1440px confirms40px separation from right benefits,360px retains one logo row/no overflow. Existing native block-start border width/padding controls and class-owned border-top style/color exception; no new class,element,Component,Variable,JS,plugin or dependency. Hover unchanged. Applies to Home154,Residential484,Commercial499 through existing1149. Owner accepted; do not redesign further. Rollback:remove only the added top border and14px padding.

@@ -144,3 +144,6 @@ E57 implements the minimal semantic scope/menu selectors and verified redundant 
 
 
 2026-10-22 Trust Logos: [current shared1149 media,classes,label,mobile order,hover,verification limits and rollback](components/why-gcpro.md). This record supersedes earlier Why media descriptions.
+
+
+2026-10-22 — Owner-approved Trust Logos separator: existing trust-logos g-c8bf649 now has a1px solid white16% top border and14px top padding. It spans only the media column; browser1440px confirms40px separation from right benefits,360px retains one logo row/no overflow. Existing native block-start border width/padding controls and class-owned border-top style/color exception; no new class,element,Component,Variable,JS,plugin or dependency. Hover unchanged. Applies to Home154,Residential484,Commercial499 through existing1149. Owner accepted; do not redesign further. Rollback:remove only the added top border and14px padding.
