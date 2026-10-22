@@ -41,3 +41,5 @@ Every meaningful component change must update its record: purpose; page/template
 2026-10-22 Trust Logos: [current shared1149 media,classes,label,mobile order,hover,verification limits and rollback](why-gcpro.md). This record supersedes earlier Why media descriptions.
 
 - [GCPRO — Shared Hero](shared-hero.md) — complete native Atomic Hero1318 on Home, Residential, Commercial and Water; native Image and eight independent Overrides. Includes Water editor initialization and historical BEAF limitations.
+
+- [Service Damage Types](service-damage-types.md) — reusable full-section1345; first Water514 instance, awaiting owner approval.
