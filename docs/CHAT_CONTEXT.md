@@ -170,6 +170,16 @@ Illustrative navigation preference: Residential → Water, Fire/Smoke, Mold, Sto
 
 **Next review before any change:** Prepare a side-by-side NAVIGATION MAP versus SEO KEYWORD/URL OWNERSHIP MAP, with concrete destinations and example customer journeys. Identify menu entries that share a destination, change audience context, or point to an unapproved URL. Owner must approve UX architecture, link destinations and SEO mapping together. Existing menu, pages and URLs remain unchanged until then.
 
+## Call-button conversion tracking — future analytics idea (2026-10-21)
+
+**Status: owner-requested backlog idea; NOT authorized for implementation yet.**
+
+Add consistent **click-to-call conversion/event tracking** for every relevant `tel:` CTA across the site: Header, mobile menu/sticky call actions, Homepage, Residential and Commercial pages, individual services, Footer and emergency CTAs. Evaluate existing GA4 / Google Tag Manager / Google Ads setup before creating new tags; prefer one maintainable site-wide event with useful parameters such as page path, button location/context and phone destination. Avoid duplicate event fires and verify tracking on desktop and mobile.
+
+**Measurement distinction:** A click on a Call button is a **call intent / click-to-call event, not proof a phone call connected or qualified as a lead**. If supported, investigate RingCentral call logs/integration or approved Google Ads call-conversion mechanisms to measure real answered/qualified calls separately and improve attribution. Decide which events should be reported as GA4 key events / Google Ads conversions only after reviewing actual business goals, consent/privacy implications, and deduplication.
+
+Future task: document implementation plan, data-layer/event naming, verification in GA4 DebugView/GTM Preview and Google Ads where applicable, and privacy compliance. **Do not install tracking plugins, edit site code, or publish tags without separate approval.**
+
 ## Next steps
 
 1. Confirm Work's new SEO research files and assess their provenance, completeness, and cross-page intent overlap.
