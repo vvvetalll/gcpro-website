@@ -42,4 +42,4 @@ Every meaningful component change must update its record: purpose; page/template
 
 - [GCPRO — Shared Hero](shared-hero.md) — complete native Atomic Hero1318 on Home, Residential, Commercial and Water; native Image and eight independent Overrides. Includes Water editor initialization and historical BEAF limitations.
 
-- [Service Damage Types](service-damage-types.md) — reusable full-section1345; first Water514 instance, awaiting owner approval.
+- [Service Damage Types](service-damage-types.md) — reusable full-section1345; first Water514 instance, approved; centered desktop3+2 and mobile single column.
