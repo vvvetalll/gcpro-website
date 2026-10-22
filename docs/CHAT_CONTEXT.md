@@ -62,6 +62,22 @@ Work should: (1) research Chicago-area market demand and real Google SERPs using
 
 Legacy local/city pages require independent evidence before being adopted into the new architecture. All page ownership, structure, and URL changes remain **DRAFT — AWAITING USER APPROVAL**. No website, URL, redirect, or navigation changes are authorized by this planning decision.
 
+## Design / trust backlog — proposed, not approved for implementation (2026-10-21)
+
+### Credentials, certifications and association logos
+
+Owner supplied visual references featuring accreditation/certification/industry-association marks (including examples resembling IICRC, IAQA, BBB, RIA, and other restoration-sector marks). Investigate a clean, brand-consistent **trust / credentials strip** for the Homepage, but assess whether Homepage, About, Footer, or a combination provides the best hierarchy. Also consider a small BBB A+ accreditation/rating badge in the Footer, potentially linking to a genuine company verification profile.
+
+**Do not assume any reference logo represents an actual current GC PRO credential or affiliation.** Verify official company membership/certification, current standing, legal permissions and approved brand assets before publication. BBB accreditation and A+ rating are distinct claims; confirm both separately. Do not recreate, recolor, distort, or misrepresent protected seals; obtain permitted versions and use accessible alt text.
+
+### Company awards over multiple years
+
+Owner states GC PRO has received awards over several years. Collect a verified inventory (award name, issuing organization, year, recipient/company entity, evidence/source, and usable official logo or image). Propose an elegant **Awards & Recognition** presentation. Assess placement on Homepage or About and whether compact trust snippets elsewhere help conversion without repeating content or overcrowding. Avoid invented award names/years and unverified superlatives.
+
+### UX decision gate
+
+Propose placement, hierarchy, visual treatment, mobile behavior, links, performance/accessibility considerations, and content verification before making any changes. Prefer one cohesive trust section over several competing badge clusters. This is a **future design idea only**: no authorization to edit Homepage, Footer, or other website pages at this time.
+
 ## Next steps
 
 1. Confirm Work's new SEO research files and assess their provenance, completeness, and cross-page intent overlap.
