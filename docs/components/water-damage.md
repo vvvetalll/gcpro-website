@@ -1,6 +1,8 @@
 # Water Damage Restoration — completed service page
 
-**Latest,2026-10-22 — premium FAQ and media assessment:** Existing1354 is now the shared two-column/full-section FAQ standard on Water514, Residential484 and Commercial499, with each page's six original questions/answers retained independently. The owner explicitly expanded FAQ rollout after the initial Water-only instruction. Water project imagery/title/city/descriptions are temporary design examples, not final owner-approved case evidence. Interactive project replacement is blocked by the currently exposed MCP Shortcode support; shared Hero/PHP remain untouched. Current details are below.
+**Current,2026-10-22 — interactive BEAF delivered:** The owner subsequently authorized native browser-based Elementor editing. Water's fourth section is now a page-owned manual BEAF grid with genuine shared Heading71 and Gallery Button59; native Shortcodes58d7ae3/5a4ccc6 render existing742 as two independent temporary examples. This supersedes the earlier MCP-only blocker below. Nine other approved sections retain their visible content/design; Hero and PHP were not revisited. [Exact current implementation](#manual-interactive-beaf-section--2026-10-22).
+
+**Latest,2026-10-22 — premium FAQ and media assessment:** Existing1354 is now the shared two-column/full-section FAQ standard on Water514, Residential484 and Commercial499, with each page's six original questions/answers retained independently. The owner explicitly expanded FAQ rollout after the initial Water-only instruction. Water project imagery/title/city/descriptions are temporary design examples, not final owner-approved case evidence. The initial MCP-only interactive project blocker is resolved by the later authorized native-editor implementation below; shared Hero/PHP remain untouched. Current details are below.
 
 2026-10-22, staging only. Existing WordPress **Water Damage**, ID514, parent Residential484, unchanged slug `water-damage` and route `/residential-services/water-damage/`. H1 remains **Water Damage Restoration in Chicago & Chicagoland**. Only Water and four new component definitions were written. No Fire/Mold/other service build, SEO research, URL/redirect/canonical/indexing/global design/plugin change.
 
@@ -8,14 +10,14 @@
 
 ## Exact section order and owners
 
-Page main50eb9797 contains exactly ten leaf `e-component` instances, without copied page-owned section trees.
+Page main50eb9797 contains ten sections: nine genuine full-section Component instances and the explicitly approved page-owned manual BEAF section. The latter uses shared Heading71 and Button59 around the variable-count native slider grid.
 
 | Section | Page instance | Shared definition | Implementation |
 |---|---|---|---|
 |1 Hero|29f36982|1318 GCPRO — Shared Hero|Approved definition, page content, image and CTAs unchanged |
 |2 Types|5777c79b|1345 GCPRO — Service Damage Types|Approved five cards, desktop3+2/mobile one column unchanged |
 |3 Process|13056416|1152 GCPRO / How We Work Section|Independent15 Overrides: assessment/moisture detection, extraction, drying/monitoring, restoration handoff |
-|4 Real project|4ea14734|1360 GCPRO — Project Comparison|Native before/after images746/747, existing ba-card frame/caption/title pattern, native Gallery493 |
+|4 Real project|2ddea39a|Approved page-owned slider grid; shared71 +59|Two native Shortcodes58d7ae3/5a4ccc6 with temporary742, existing ba-card and native Gallery493 |
 |5 Complete recovery|749f974d|1356 GCPRO — Complete Service Recovery|Four task cards with contextual native links |
 |6 Why GCPRO|43194cd8|1149 GCPRO / Why Choose Section|Existing approved design/default benefits and existing Home trust-media Overrides; only page eyebrow differs |
 |7 First steps|3241802|1351 GCPRO — Property Recovery Guidance|Five practical safety-conscious items |
@@ -117,3 +119,50 @@ The current instruction limits Browser to focused verification, and the earlier 
 ### Assessment only: PHP Hero media resolver
 
 See [the scoped Hero assessment](shared-hero.md#php-media-resolver-assessment--2026-10-22). Page/configuration selection is conceptually possible; end-to-end Atomic HTML rendering is not demonstrated and is currently blocked. No PHP, theme, plugin, Hero, Home/Residential/Commercial Hero or image write occurred. No speculative prototype was created. A resolver returning BEAF HTML through the same sanitized Paragraph field would repeat the known failure and is explicitly rejected. No deployable implementation or successful slider initialization inside1318 is claimed.
+
+## Manual interactive BEAF section — 2026-10-22
+
+**Completed on existing Water514 only**, after explicit permission to use the browser-based Elementor editor for legacy Shortcode placement. No new component definition, BEAF record, attachment, page, Global Class, Variable, plugin, PHP, JavaScript or custom CSS. No Hero investigation, other page write or other section redesign.
+
+### Current native owners
+
+| Owner | Element / component | Purpose |
+|---|---|---|
+| Section |2ddea39a, fourth child of main50eb9797|Page-owned approved exception, existing section + section--light |
+| Container |2e2c092|Existing container/stack/section-heading--accent,48px space-xl gap |
+| Shared heading |65596d5a →71|Native eyebrow/H2/description Overrides; original eyebrow/H2 preserved |
+| Manual grid |12dac0fd|Variable-count native responsive grid; no empty slots |
+| Comparison cards |3847afa6 /e88aa9d|Existing ba-card Global Class,100% width capped at50rem; two independent grid children |
+| Media containers |482157ff /4f0a672|Page-owned, zero padding, independently editable |
+| **Native Shortcode Widgets** |**58d7ae3 /5a4ccc6**, legacy shortcode.default|Two independent plain fields, both currently **[bafg id="742"]** |
+| Gallery row/button |71c068f5 /a62525c →59|Compact left-aligned existing shared button; native Internal URL → Content **Before And After**493 |
+
+Shared presentation remains genuine reusable Atomic Heading71 and Button59 with native content Overrides. The page-owned outer wrappers/grid reuse existing shared classes and Variables, instead of a copied standalone design system. This is the expressly approved shared-header + manual-slider-grid + shared-CTA architecture; it is **not** claimed to be one full-section Atomic Component. Static1360 remains an existing unused definition, without being modified, duplicated or deleted; its Water instance4ea14734 has been removed.
+
+The heading intro now accurately describes the actual interaction: “Explore this before-and-after example using the slider. View more comparisons in the project gallery.” No city caption, project outcome/title or repair description is inserted below this working example.742, its imagery and any earlier Glenview title/description remain **temporary demonstration data pending final owner selection**, not final approved case evidence. Original records, images, gallery493, all other BEAF placements and plugin/settings remain untouched.
+
+### Manual operation and flexible count
+
+Open Water Damage in Elementor → **04 Project Transformations — Manual BEAF** → Project Container → **Manual BEAF Grid** → **Comparison Card — duplicate to add** → **BEAF Shortcode — edit per page** → **Shortcode**. Edit its normal Shortcode field and Apply. The comparisons are not component media Overrides or dynamic Paragraphs. The second card is e88aa9d and its independently editable widget is5a4ccc6. Both currently use742 intentionally as temporary layout examples; this is not represented as two distinct projects. The owner can change either field independently once final comparisons are selected.
+
+For a second, fourth, eighth or other number of comparisons, duplicate/add a Comparison Card **inside the same grid**, edit each child Shortcode independently to the desired existing record, and reorder/delete cards through Structure. Never duplicate the entire section or edit71/59 defaults for one page. There are no numbered fixed slots or count limit. Optional captions can be added as native page-owned content inside each card using existing ba-card__caption/ba-card__title classes; omit the caption wrapper when not needed. A gallery CTA is optional by retaining/removing the page's Gallery Action row; its shared59 definition stays intact.
+
+Desktop grid uses native repeat(auto-fit,minmax(28rem,1fr)) tracks,24px gap and auto rows. A single card is centered and capped at800px; two or more cards occupy two columns where the content width allows, creating further rows naturally. Tablet/mobile switch to one minmax(0,1fr) column; mobile gap16px. No fixed media height, empty tracks/placeholders, duplicated styled section definition or custom layout CSS. Two demonstration comparison instances are saved/tested following the owner's minimum-two instruction; the grid's native auto-fit architecture supports further owner-added cards without rebuilding the section. No claim of testing eight populated comparisons is made. With two cards the desktop grid computes556px +556px tracks separated by24px; tablet/mobile stack naturally.
+
+### Implementation safety and verification
+
+The first proposed sequence was rejected by automatic review because it would have published an empty new media container before deleting the original section. That rejected sequence did not run. The replacement was instead staged while the original published section stayed intact, the **original native Elementor Shortcode Widget** was inserted and configured in the browser editor, and Save Draft/Preview Changes provided a full frontend test. Native editor AJAX insertion initially showed the two raw images without a divider; full preview loaded the normal BEAF vendor runtime and initialized one handle. No custom initialization code or escaping bypass was added.
+
+Initial one-card draft drag checks: desktop divider399px →596.5px and matching image clip; mobile168px →229px and matching clip. After the owner's minimum-two request, a native Elementor Structure → Comparison Card → Duplicate action created the second independently editable card. Final desktop independence test moves the second divider277px →394.5px while the first stays277px; final mobile test moves the second168px →229px while the first stays168px. Both widgets retain separate native IDs/shortcode fields and one initialized handle each. The first desktop browser command acknowledgment stalled, but immediate DOM readback confirmed the completed native movement; no simulated JavaScript event or programmatic style edit was used. Mobile drag required multiple movement points to pass the vendor's normal movement-start threshold. These are mouse-driven browser viewport checks, not physical touch-device certification.
+
+Only after the saved replacement contained the actual tested native shortcode was it published, moved into position4, and the old static instance removed. Final WordPress data has exactly ten sections in the original order, one H1, nine H2s, two independent Shortcode Widgets currently using742, and no old static instance. Eight other section trees compare equal after HTML entity normalization. FAQ's15 current Overrides/content also compare equal; native editor saving pruned only its two obsolete Commercial-button override records left from the earlier removal. That is serialization cleanup, with no FAQ content, definition or rendered layout change. Existing page title/slug/parent/template/status/page settings and authored SEO title/description/canonical/robots fields match the pre-task snapshot.
+
+| Final frontend viewport | Slider width × height | Initialized handles | Horizontal overflow |
+|---|---|---|---|
+|1440|2 ×554 ×415.5, side by side|2 total,1 each|none|
+|768|2 ×687 ×515.25, stacked|2 total,1 each|none|
+|393|2 ×336 ×252, stacked|2 total,1 each|none|
+
+All are4:3, the two existing images load in each instance, rounded card styling is retained, and no main empty/# anchor appears. One actual click on **View Before & After Projects** opens the existing /before-and-after/ gallery. Native Elementor Files & Data and SG cache refreshes preceded final live checks. Responsive viewport overrides were reset. No form submitted or call initiated. Authenticated browser checks are not anonymous/incognito or screen-reader certification; existing vendor divider/fullscreen keyboard limitations remain outside this scope.
+
+For future pages, reuse71/59 and the existing section/card classes with a page-owned grid and native Shortcode Widgets. Change a page's shortcode/count/order in that page, without touching shared Hero/section definitions or BEAF records. Rollback, if explicitly requested, restores only Water's original1360 instance in this position and removes only2ddea39a; all later page work must be preserved. Reverting Git documentation alone does not revert WordPress.
