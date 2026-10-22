@@ -78,6 +78,23 @@ Owner states GC PRO has received awards over several years. Collect a verified i
 
 Propose placement, hierarchy, visual treatment, mobile behavior, links, performance/accessibility considerations, and content verification before making any changes. Prefer one cohesive trust section over several competing badge clusters. This is a **future design idea only**: no authorization to edit Homepage, Footer, or other website pages at this time.
 
+## Mandatory form requirement — RingCentral SMS consent (owner-confirmed, 2026-10-21)
+
+**Status: Required functionality to preserve and design for; implementation details subject to RingCentral/legal verification.**
+
+The owner reports that the contact form in the **legacy site footer** contains a distinct SMS opt-in checkbox and accompanying SMS disclosure, and that this was a condition for RingCentral to enable SMS messaging. The owner provided a screenshot showing the name/email/phone/comments form, a separate checkbox, links to Privacy Policy, and disclosure indicating that SMS messages may be received, message/data rates may apply, and users may opt out by replying STOP. This is a known business/compliance requirement, **not an optional stylistic detail**.
+
+**Rules for future website design, audits and implementation:**
+- Inventory every site form and lead-capture flow, including footer/contact, emergency/service request, and any popups or third-party embedded forms. For any flow that collects a phone number **and will request consent for SMS communications**, plan an explicit, clearly labeled, **unchecked by default** SMS opt-in (not bundled with privacy acceptance or general submit consent).
+- Place approved SMS program disclosure and working links to Privacy Policy and any required Terms near the opt-in. Preserve adequate readability and keyboard/mobile accessibility.
+- Record the affirmative consent reliably if submissions will trigger SMS, subject to privacy/security requirements. Do **not** send marketing texts based solely on a phone number or unchecked consent. Separate transactional and marketing purposes when provider requirements or applicable rules warrant it.
+- Do not mechanically add a checkbox to unrelated forms that cannot lead to SMS; evaluate each flow, its intended communication channel and RingCentral's exact current approval requirements.
+- **Before deploying or rewriting** any SMS-enabled form, verify exact approved language, opt-in/opt-out/help instructions, frequency disclosure, links, carrier/registration requirements and consent logging with the RingCentral account's approved campaign/requirements and, if necessary, legal counsel. The screenshot is historical evidence, not independently verified current legal compliance.
+- Do not remove the existing legacy checkbox or replace consent language without an approved equivalent; the redesign must preserve operational eligibility for RingCentral SMS.
+- No WordPress, Elementor, footer or form changes are authorized by this note alone.
+
+**Action item:** In the next form/footer UX planning pass, audit all current and proposed forms for SMS consent and document shared reusable form requirements; obtain owner approval before any implementation.
+
 ## Next steps
 
 1. Confirm Work's new SEO research files and assess their provenance, completeness, and cross-page intent overlap.
