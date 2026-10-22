@@ -1,5 +1,7 @@
 # How We Work
 
+**2026-10-22 — native heading alignment:** Component582 H3s39735454/6a28b840/7ee454a0/7f4076aa now reserve two existing1.3em line boxes with native Atomic `min-height:2.6em` on desktop. Tablet/mobile reset to0px for natural wrapping. No copy, numbering, circles, connectors, interactions, shared classes, typography or existing animation code changed. See [Water final refinements](water-damage.md#final-ui-refinements--2026-10-22).
+
 **E77 current:** Complete original section now shared1152 (nested582 retained), Homepage6d0939b9/Residential5412e337. Code590 source unchanged, Entire-site native condition enables identical touch sequence. Source4681b8f5 is historical. [Current exact locations and checks](residential-services.md).
 
 **Current E62,2026-10-20:** Code903's implicit competing-phone rule, not Process styling, caused Call Now to disappear during section entry: the preceding Emergency Support call button was still on screen. That rule is removed globally. Full entry/inside/exit sweeps in both directions at360/393/430 now retain the panel;768/1440 keep it hidden. E61's section-center check missed this transition. Component582/590/native section settings remain unchanged in E62. [Evidence and rollback](../audits/2026-10-20-process-cta-transition.md).
