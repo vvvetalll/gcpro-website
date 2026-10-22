@@ -1,5 +1,7 @@
 # AIOSEO global configuration — E80, 2026-10-21
 
+**2026-10-22 — Water514:** Native registered `aioseo_meta_data` fields now contain title **Water Damage Restoration Chicago | GCPRO** and description **Water damage restoration in Chicago and Chicagoland. Explore extraction, drying, recovery steps and real GCPRO work. Call or request service.** Actual frontend title/description verified. Existing canonical resolves to `/residential-services/water-damage/`; staging `noindex, nofollow, max-image-preview:large` retained. Only these two authored fields were written; no robots, canonical, indexing, schema or global-option change. [Completed page and limits](components/water-damage.md).
+
 **Semantic targeting note,2026-10-21 — DRAFT — AWAITING USER APPROVAL:** Current settings recorded here remain implementation history. Future approved page SEO/content work must use the [central semantic map and briefs](seo/SEO_STRATEGY.md); no AIOSEO setting was changed by this research task.
 
 

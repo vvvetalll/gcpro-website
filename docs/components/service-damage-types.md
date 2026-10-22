@@ -1,5 +1,7 @@
 # GCPRO — Service Damage Types
 
+**2026-10-22 continuation:** Water’s remaining sections have now been completed under a separate explicit instruction. This approved component and its Water Overrides are unchanged. Earlier section-only stop boundaries below are historical. See the [completed Water page record](water-damage.md).
+
 2026-10-22, staging only. **Section2 approved by owner; requested final desktop3+2 adjustment implemented.** Implements only Section2 of the Water landing page. No sections3–10, metadata rollout, new URLs, redirects or SEO research.
 
 ## Purpose and native ownership

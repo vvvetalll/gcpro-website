@@ -1,5 +1,7 @@
 # GCPRO — Shared Hero
 
+**2026-10-22 continuation:** Water’s remaining sections have now been completed under a separate explicit instruction. This approved component and its Water Overrides are unchanged. Earlier section-only stop boundaries below are historical. See the [completed Water page record](water-damage.md).
+
 Implemented on staging,2026-10-22. This record supersedes the earlier blocked BEAF-in-Hero attempt retained below. The owner explicitly authorized standardizing all four Heroes to the Residential/Commercial layout, using native Atomic Image and adding only the documented Water H1 plus a factual introduction. No other Water sections, SEO research, production edits or bulk service rollout.
 
 ## Definition and instances

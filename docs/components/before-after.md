@@ -1,5 +1,7 @@
 # Before / After
 
+**2026-10-22 — Water consumer:** New full-section Project Comparison1360 uses native Atomic Images746/747 in the existing ba-card/caption/title design, with independent image/caption/link Overrides. Existing742 BEAF data and all galleries are untouched. Legacy Shortcode cannot be placed inside an Atomic Component; Water therefore presents static before/after photographs and a native link to approved Gallery493 for interactive comparisons. [Exact implementation and limitations](water-damage.md).
+
 **E84 consumer addition only:** Commercial499 places existing1209 in itsHero and existing1202/1209 in two Variant A result cards. Two additional shared ba-card/caption/title consumers; exact captions match Gallery493. No BEAF record/asset/configuration/CSS or existing Home/Residential/gallery edit. [Commercial locators](commercial-services.md).
 
 ## E83 — approved A card design, 2026-10-21
