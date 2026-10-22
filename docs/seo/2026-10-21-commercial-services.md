@@ -1,5 +1,8 @@
 # Commercial Services SEO content brief — E84, 2026-10-21
 
+**Later semantic-planning reference:** This implementation record is preserved. The new [master strategy](SEO_STRATEGY.md) and [page briefs](PAGE_SEO_BRIEFS.md) are **DRAFT — AWAITING USER APPROVAL**. After approval they govern future targeting; this note does not change existing implemented copy or settings.
+
+
 Implemented on [staging Page499](https://vitaliiv1.sg-host.com/commercial-services/). This is a completed hub, not a production deployment. [Component owners and rollback](../components/commercial-services.md) · [Sanitized evidence](../evidence/2026-10-21-commercial-services.json).
 
 ## Audience, intent and content decisions

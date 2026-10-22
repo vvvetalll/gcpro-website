@@ -1,5 +1,8 @@
 # AIOSEO global configuration — E80, 2026-10-21
 
+**Semantic targeting note,2026-10-21 — DRAFT — AWAITING USER APPROVAL:** Current settings recorded here remain implementation history. Future approved page SEO/content work must use the [central semantic map and briefs](seo/SEO_STRATEGY.md); no AIOSEO setting was changed by this research task.
+
+
 **E84:** [Commercial499](seo/2026-10-21-commercial-services.md) now has authored50-character title,160-character description, focus phrase, self-canonical, native Service graph and featured WebP social metadata. Browser/anonymous head verified; staging noindex/nofollow and global Organization preserved. No new global SEO changes.
 
 ## E81 image/gallery metadata

@@ -1,5 +1,8 @@
 # Complete GCPRO hierarchical sitemap
 
+**Keyword ownership,2026-10-21 — DRAFT — AWAITING USER APPROVAL:** Consult the [semantic strategy](seo/SEO_STRATEGY.md) and [master map](seo/MASTER_KEYWORD_MAP.csv) for proposed content targets. Existing hierarchy and publication states below are unchanged. City preservation is not a new operational coverage confirmation.
+
+
 **E84:** Existing Commercial Services499 `/commercial-services/` now has a completed native hub body and authored SEO. Its six existing child paths/statuses remain unchanged; children still require their own content build. No sitemap hierarchy or migration-map changes.
 
 **E81:** Existing493 `/before-and-after/` now has15 completed native gallery cards; it is no longer a structural placeholder. Existing route, parent and publication unchanged.93 Pages (88 Published/5 Draft) and321 URL rows retained. New BEAF records are gallery content, not new SEO landing routes;13 existing portfolio records remain unchanged.

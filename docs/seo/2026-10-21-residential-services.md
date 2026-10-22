@@ -1,5 +1,8 @@
 # Residential Services SEO content brief and implementation — E79
 
+**Later semantic-planning reference:** This implementation record is preserved. The new [master strategy](SEO_STRATEGY.md) and [page briefs](PAGE_SEO_BRIEFS.md) are **DRAFT — AWAITING USER APPROVAL**. After approval they govern future targeting; this note does not change existing implemented copy or settings.
+
+
 2026-10-21, staging only. Actual Page484, production source Page8; `/residential-services/` unchanged. [Preview](https://vitaliiv1.sg-host.com/residential-services/) · [WordPress / AIOSEO](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=484&action=edit).
 
 ## Intent, evidence and keyword choice

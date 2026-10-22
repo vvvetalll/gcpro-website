@@ -1,0 +1,260 @@
+{
+  "observed_date": "2026-10-21",
+  "source": "Read-only public competitor page titles, H1s and selected navigation URLs; sampled rather than full crawl",
+  "data": [
+    {
+      "key": "romexterra",
+      "url": "https://www.romexterra.com/",
+      "title": "#1 Chicago Water Damage & Fire Restoration Company",
+      "h1": [
+        "Chicago Water\nDamage & Fire\nDamage Restoration\nCompany"
+      ],
+      "service_navigation_urls": [
+        "https://www.romexterra.com/water-damage-restoration/",
+        "https://www.romexterra.com/water-damage-restoration/water-damage-cleanup/",
+        "https://www.romexterra.com/water-damage-restoration/water-mitigation/",
+        "https://www.romexterra.com/water-damage-restoration/water-extraction/",
+        "https://www.romexterra.com/water-damage-restoration/flood-damage-restoration/",
+        "https://www.romexterra.com/water-damage-restoration/sewage-cleanup/",
+        "https://www.romexterra.com/water-damage-restoration/structural-drying/",
+        "https://www.romexterra.com/water-damage-restoration/burst-pipe-cleanup/",
+        "https://www.romexterra.com/water-damage-restoration/basement-flooding/",
+        "https://www.romexterra.com/fire-damage-restoration/",
+        "https://www.romexterra.com/fire-damage-restoration/fire-damage-cleanup/",
+        "https://www.romexterra.com/fire-damage-restoration/smoke-damage-restoration/",
+        "https://www.romexterra.com/fire-damage-restoration/smoke-odor-removal/",
+        "https://www.romexterra.com/fire-damage-restoration/soot-damage-cleanup/",
+        "https://www.romexterra.com/fire-damage-restoration/board-up-services/",
+        "https://www.romexterra.com/fire-damage-restoration/emergency-roof-tarping/"
+      ]
+    },
+    {
+      "key": "ati",
+      "url": "https://atirestoration.com/regional-offices/chicago-il/",
+      "title": "Water & Fire Damage Restoration, Mold Remediation in Chicago",
+      "h1": [
+        "ATI Restoration - Chicago, IL"
+      ],
+      "service_navigation_urls": [
+        "https://atirestoration.com/regional-offices/chicago-il/#",
+        "https://atirestoration.com/commercial/",
+        "https://atirestoration.com/national-response/",
+        "https://atirestoration.com/commercial/industries/commercial-industrial/",
+        "https://atirestoration.com/commercial/industries/education/",
+        "https://atirestoration.com/commercial/industries/federal-government/",
+        "https://atirestoration.com/commercial/industries/healthcare/",
+        "https://atirestoration.com/commercial/industries/hospitality/",
+        "https://atirestoration.com/commercial/industries/multifamily/",
+        "https://atirestoration.com/commercial/industries/retail/",
+        "https://atirestoration.com/commercial/industries/states-and-municipalities/",
+        "https://atirestoration.com/commercial/industries/insurance/",
+        "https://atirestoration.com/commercial/industries/",
+        "https://atirestoration.com/commercial/fire-smoke-damage/",
+        "https://atirestoration.com/commercial/fire-smoke-damage/soot-odor-removal/",
+        "https://atirestoration.com/commercial/fire-smoke-damage/water-extraction/"
+      ]
+    },
+    {
+      "key": "servpro",
+      "url": "https://www.servpro.com/locations/il/chicago-restoration",
+      "title": "Chicago Restoration and Cleaning Services | SERVPRO",
+      "h1": [
+        "Chicago's #1 Choice in Cleanup and Restoration"
+      ],
+      "service_navigation_urls": [
+        "https://www.servpro.com/services/water-damage",
+        "https://www.servpro.com/services/fire-damage",
+        "https://www.servpro.com/services/mold-remediation",
+        "https://www.servpro.com/services/storm-services",
+        "https://www.servpro.com/services/construction",
+        "https://www.servpro.com/services/cleaning-services/specialized-cleaning/biohazard-cleaning",
+        "https://www.servpro.com/services/cleaning-services/general-cleaning",
+        "https://www.servpro.com/services/cleaning-services/specialized-cleaning",
+        "https://www.servpro.com/services/commercial-services/services",
+        "https://www.servpro.com/services/commercial-services/large-loss",
+        "https://www.servpro.com/services/commercial-services/emergency-ready-plan",
+        "https://www.servpro.com/services/commercial-services/industry-specialization",
+        "https://www.servpro.com/services/commercial-services/services/water-damage",
+        "https://www.servpro.com/services/commercial-services/services/fire-damage",
+        "https://www.servpro.com/services/commercial-services/services/mold-remediation",
+        "https://www.servpro.com/services/commercial-services/services/storm"
+      ]
+    },
+    {
+      "key": "restore",
+      "url": "https://restoreconstruction.com/",
+      "title": "Water & Fire Damage Restoration Services in Chicago, IL",
+      "h1": [
+        "Water & Fire Damage Restoration in Chicago, IL"
+      ],
+      "service_navigation_urls": [
+        "https://restoreconstruction.com/services/",
+        "https://restoreconstruction.com/services/restoration/water/",
+        "https://restoreconstruction.com/services/restoration/fire-smoke/",
+        "https://restoreconstruction.com/services/board-up/",
+        "https://restoreconstruction.com/services/restoration/contents/",
+        "https://restoreconstruction.com/services/restoration/storm/",
+        "https://restoreconstruction.com/services/biohazard-trauma/",
+        "https://restoreconstruction.com/services/environmental/",
+        "https://restoreconstruction.com/services/reconstruction/",
+        "https://restoreconstruction.com/services/claim-management/",
+        "https://restoreconstruction.com/#",
+        "https://restoreconstruction.com/location/illinois/melrose-park-disaster-restoration-company/",
+        "https://restoreconstruction.com/resources/",
+        "https://restoreconstruction.com/blog/",
+        "https://restoreconstruction.com/resources/glossary/",
+        "https://restoreconstruction.com/resources/faq/"
+      ]
+    },
+    {
+      "key": "cwf",
+      "url": "https://chicagowaterandfire.com/",
+      "title": "Chicago Water & Fire Restoration - 24/7 Emergency Restoration",
+      "h1": [
+        "Chicago Water & Fire Restoration®\n— Trusted 24/7 Emergency Response"
+      ],
+      "service_navigation_urls": [
+        "https://chicagowaterandfire.com/#content",
+        "https://chicagowaterandfire.com/contact/#contact-form",
+        "https://chicagowaterandfire.com/services/water-damage/",
+        "https://chicagowaterandfire.com/services/water-damage/reconstruction-services/",
+        "https://chicagowaterandfire.com/services/water-damage/hardwood-floor-drying/",
+        "https://chicagowaterandfire.com/services/mold-remediation/",
+        "https://chicagowaterandfire.com/services/ceiling-water-damage-repair/",
+        "https://chicagowaterandfire.com/services/water-damage/carpet-drying/",
+        "https://chicagowaterandfire.com/services/water-damage/wall-cabinet-drying/",
+        "https://chicagowaterandfire.com/services/water-damage/sewage-damage/",
+        "https://chicagowaterandfire.com/services/water-damage/basement-sewage-cleanup-chicago/",
+        "https://chicagowaterandfire.com/services/content-storage/",
+        "https://chicagowaterandfire.com/services/commercial-services/",
+        "https://chicagowaterandfire.com/our-technology/",
+        "https://chicagowaterandfire.com/services/fire-damage/",
+        "https://chicagowaterandfire.com/services/water-damage/storm-damage/"
+      ]
+    },
+    {
+      "key": "paul",
+      "url": "https://nwchicago.pauldavis.com/",
+      "title": "Home & Commercial Restoration | Paul Davis",
+      "h1": [
+        "Property Restoration Experts In NW Chicago, IL"
+      ],
+      "service_navigation_urls": [
+        "https://nwchicago.pauldavis.com/residential/",
+        "https://nwchicago.pauldavis.com/residential/water-damage/",
+        "https://nwchicago.pauldavis.com/residential/fire-damage/",
+        "https://nwchicago.pauldavis.com/residential/storm-damage/",
+        "https://nwchicago.pauldavis.com/residential/mold-damage/",
+        "https://nwchicago.pauldavis.com/commercial/",
+        "https://nwchicago.pauldavis.com/commercial/water-damage/",
+        "https://nwchicago.pauldavis.com/commercial/storm-damage/",
+        "https://nwchicago.pauldavis.com/commercial/fire-damage/",
+        "https://nwchicago.pauldavis.com/commercial/mold-damage/",
+        "https://nwchicago.pauldavis.com/commercial/large-loss/",
+        "https://nwchicago.pauldavis.com/commercial/first-priority/",
+        "https://nwchicago.pauldavis.com/commercial/industrial/",
+        "https://nwchicago.pauldavis.com/residential",
+        "https://nwchicago.pauldavis.com/contact/",
+        "https://nwchicago.pauldavis.com/#tab-1"
+      ]
+    },
+    {
+      "key": "blusky",
+      "url": "https://www.goblusky.com/locations/chicago-il/",
+      "title": "Premier Damage Restoration Services in Chicago, IL | BluSky",
+      "h1": [
+        "BluSky Restoration Services"
+      ],
+      "service_navigation_urls": [
+        "https://www.goblusky.com/locations/chicago-il/#equally_ai___ol3EP",
+        "https://www.goblusky.com/locations/chicago-il/#equally_ai___aqrbJ",
+        "https://blusky.highradius.com/RRDMSProject/signin.do",
+        "https://www.goblusky.com/locations/",
+        "https://www.goblusky.com/services/commercial-services/",
+        "https://www.goblusky.com/services/commercial-services/emergency-response/",
+        "https://www.goblusky.com/services/commercial-services/water-damage/",
+        "https://www.goblusky.com/services/commercial-services/fire-damage/",
+        "https://www.goblusky.com/services/commercial-services/mold-remediation/",
+        "https://www.goblusky.com/services/commercial-services/storm-damage-recovery/",
+        "https://www.goblusky.com/services/commercial-services/sewage-cleanup/",
+        "https://www.goblusky.com/services/commercial-roofing-services/",
+        "https://www.goblusky.com/services/commercial-services/environmental-services-disinfection/",
+        "https://www.goblusky.com/services/commercial-services/emergency-board-ups-tarping-shoring-bracing/",
+        "https://www.goblusky.com/services/commercial-services/vehicle-vs-building-damage/",
+        "https://www.goblusky.com/services/commercial-services/contents-cleaning/"
+      ]
+    },
+    {
+      "key": "servicemaster",
+      "url": "https://servicemasterrestore.com/servicemaster-dsi-chicago",
+      "title": "24/7 Home & Commercial Disaster Restoration in Chicago, IL",
+      "h1": [
+        "DISASTER RESTORATION SERVICES IN CHICAGO, IL"
+      ],
+      "service_navigation_urls": [
+        "https://servicemasterrestore.com/servicemaster-dsi-chicago#main-content",
+        "https://servicemasterrestore.com/servicemaster-dsi-chicago",
+        "https://servicemasterrestore.com/servicemaster-dsi-chicago/reviews",
+        "https://servicemasterrestore.com/locations/search",
+        "https://servicemasterrestore.com/servicemaster-dsi-payment-options",
+        "https://servicemasterrestore.com/locations",
+        "https://franchise.servicemasterrestore.com/",
+        "https://servicemasterrestore.com/",
+        "https://servicemasterrestore.com/servicemaster-dsi-chicago#",
+        "https://servicemasterrestore.com/servicemaster-dsi-chicago/services/commercial-0",
+        "https://servicemasterrestore.com/servicemaster-dsi-chicago/services/commercial/water-damage",
+        "https://servicemasterrestore.com/servicemaster-dsi-chicago/services/commercial/fire-smoke-damage",
+        "https://servicemasterrestore.com/servicemaster-dsi-chicago/services/commercial/mold",
+        "https://servicemasterrestore.com/servicemaster-dsi-chicago/services/commercial/stormdisaster-damage",
+        "https://servicemasterrestore.com/commercial/odor-damage",
+        "https://www.servicemasterclean.com/"
+      ]
+    },
+    {
+      "key": "midway",
+      "url": "https://midwayrestoration.com/",
+      "title": "Chicagoland Restoration Specialist - Midway Restoration",
+      "h1": [
+        ""
+      ],
+      "service_navigation_urls": [
+        "https://midwayrestoration.com/residential-restoration/",
+        "https://midwayrestoration.com/residential-water-damage/",
+        "https://midwayrestoration.com/residential-fire-smoke-damage/",
+        "https://midwayrestoration.com/residential-mold-damage/",
+        "https://midwayrestoration.com/residential-reconstruction/",
+        "https://midwayrestoration.com/residential-biohazard/",
+        "https://midwayrestoration.com/residential-content-restoration/",
+        "https://midwayrestoration.com/residential-books-and-documents-recovery/",
+        "https://midwayrestoration.com/restoration-and-reconstruction-consulting/",
+        "https://midwayrestoration.com/commercial-restoration/"
+      ]
+    },
+    {
+      "key": "belfor",
+      "url": "https://www.belfor.com/us/en/belfor-chicago-northbrook/",
+      "title": "Northbrook, Illinois Office | BELFOR USA",
+      "h1": [
+        "BELFOR CHICAGO NORTHBROOK"
+      ],
+      "service_navigation_urls": [
+        "https://www.belfor.com/us/en/locations/",
+        "https://www.belfor.com/us/en/residential-services/emergency-response/",
+        "https://www.belfor.com/us/en/residential-services/water-damage-and-cleanup-repair-services/",
+        "https://www.belfor.com/us/en/residential-services/fire-damage-restoration/",
+        "https://www.belfor.com/us/en/residential-services/mold-damage-services/",
+        "https://www.belfor.com/us/en/residential-services/storm-cleanup-and-recovery/",
+        "https://www.belfor.com/us/en/residential-services/water-removal/",
+        "https://www.belfor.com/us/en/residential-services/smoke-damage-soot-removal-services/",
+        "https://www.belfor.com/us/en/residential-services/mold-removal-and-remediation/",
+        "https://www.belfor.com/us/en/residential-services/flood-damage-cleanup/",
+        "https://www.belfor.com/us/en/services/contents-restoration-services/",
+        "https://www.belfor.com/us/en/services/document-restoration-services/",
+        "https://www.belfor.com/us/en/services/environmental-services/",
+        "https://www.belfor.com/us/en/services/environmental-services/asbestos-lead-paint-abatement/",
+        "https://www.belfor.com/us/en/services/environmental-services/biohazard-cleaning-services/",
+        "https://www.belfor.com/us/en/services/shrink-wrap-services/"
+      ]
+    }
+  ]
+}

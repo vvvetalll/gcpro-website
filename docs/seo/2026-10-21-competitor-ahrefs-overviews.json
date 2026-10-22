@@ -1,0 +1,118 @@
+{
+  "observed_date": "2026-10-21",
+  "source": "Ahrefs Site Explorer US; Average volume; Changes Last month; DR root-domain strength; target scopes explicit",
+  "scope_correction": "Final SERVPRO/BluSky/BELFOR path targets use observed canonical www host. Earlier non-www prefix zero probes are superseded and not used. BELFOR canonical-host zero remains observed; its Top Pages comparison marks a Lost row.",
+  "gcpro_baseline": {
+    "target": "gcprochicago.com/",
+    "mode": "subdomains",
+    "country": "us",
+    "volume_type": "average",
+    "dr": "6",
+    "referring_domains": "1K",
+    "organic_keywords": "2",
+    "organic_traffic": "20",
+    "organic_traffic_change_last_month": "−19"
+  },
+  "data": [
+    {
+      "key": "romexterra",
+      "url": "https://app.ahrefs.com/site-explorer/overview?country=us&mode=subdomains&target=romexterra.com%2F&volume_type=average",
+      "data": {
+        "countrySelected": true,
+        "followedLinks": "Referring domains\nFollowed\n468\n34.2%\nNot followed\n900\n65.8%\nBacklinks\nFollowed\n2,167\n58.0%\nNot followed\n1,568\n42.0%\n•\nNofollow\n1,568\n42.0%\n•\nUGC\n2\n<0.1%\n•\nSponsored\n0\n0%\n",
+        "metricBlock": "Backlink profile\nDR\n17\nUR\n0\nAR\n11,090,096\n217,459\nBacklinks\n3.7K\n+697\nAll time\n5.3K\nRef. domains\n1.4K\n+482\nAll time\n1.7K\nSearch\nOrganic keywords\n90\n−25\nTop 3\n7\n+4\nOrganic traffic\n660\n−134\nValue\n$6K\n−914\nPaid keywords\n0\nAds\n0\nPaid traffic\n0\nCost\nN/A\n",
+        "organicPages": "Organic pages by traffic\n24"
+      }
+    },
+    {
+      "key": "ati",
+      "url": "https://app.ahrefs.com/site-explorer/overview?country=us&mode=prefix&target=atirestoration.com%2Fregional-offices%2Fchicago-il%2F&volume_type=average",
+      "data": {
+        "countrySelected": true,
+        "followedLinks": "Referring domains\nFollowed\n8\n30.8%\nNot followed\n18\n69.2%\nBacklinks\nFollowed\n191\n66.1%\nNot followed\n98\n33.9%\n•\nNofollow\n98\n33.9%\n•\nUGC\n0\n0%\n•\nSponsored\n0\n0%\n",
+        "metricBlock": "Backlink profile\nDR\n59\n+1\nUR\n8\n−1\nAR\n317,597\n12,373\nBacklinks\n289\n+29\nAll time\n445\nRef. domains\n26\n+6\nAll time\n72\nSearch\nOrganic keywords\n17\n−9\nTop 3\n0\n−1\nOrganic traffic\n124\n−13\nValue\n$1.8K\n+115\nPaid keywords\n0\nAds\n0\nPaid traffic\n0\nCost\nN/A\n",
+        "organicPages": "Organic pages by traffic\n6"
+      }
+    },
+    {
+      "key": "servpro",
+      "url": "https://app.ahrefs.com/site-explorer/overview?country=us&mode=prefix&target=www.servpro.com%2Flocations%2Fil%2Fchicago-restoration&volume_type=average",
+      "data": {
+        "countrySelected": true,
+        "followedLinks": "Referring domains\nFollowed\n1\n50.0%\nNot followed\n1\n50.0%\nBacklinks\nFollowed\n1\n50.0%\nNot followed\n1\n50.0%\n•\nNofollow\n1\n50.0%\n•\nUGC\n0\n0%\n•\nSponsored\n0\n0%\n",
+        "metricBlock": "Backlink profile\nDR\n76\nUR\n4.5\nAR\n32,740\n297\nBacklinks\n2\nAll time\n17\nRef. domains\n2\nAll time\n13\nSearch\nOrganic keywords\n22\n+2\nTop 3\n8\n−2\nOrganic traffic\n227\n−39\nValue\n$1.1K\n−535\nPaid keywords\n0\nAds\n0\nPaid traffic\n0\nCost\nN/A",
+        "organicPages": "Organic pages by traffic\n1"
+      }
+    },
+    {
+      "key": "restore",
+      "url": "https://app.ahrefs.com/site-explorer/overview?country=us&mode=subdomains&target=restoreconstruction.com%2F&volume_type=average",
+      "data": {
+        "countrySelected": true,
+        "followedLinks": "Referring domains\nFollowed\n403\n37.8%\nNot followed\n664\n62.2%\nBacklinks\nFollowed\n11,527\n91.7%\nNot followed\n1,037\n8.3%\n•\nNofollow\n1,037\n8.3%\n•\nUGC\n6\n<0.1%\n•\nSponsored\n0\n0%\n",
+        "metricBlock": "Backlink profile\nDR\n11\n+2\nUR\n6\n−1\nAR\n16,742,589\n2,057,656\nBacklinks\n12.6K\n−72.8K\nAll time\n592K\nRef. domains\n1.1K\n+171\nAll time\n2.5K\nSearch\nOrganic keywords\n65\n−29\nTop 3\n12\n−8\nOrganic traffic\n574\n−4\nValue\n$5.2K\n+546\nPaid keywords\n0\nAds\n0\nPaid traffic\n0\nCost\nN/A\n",
+        "organicPages": "Organic pages by traffic\n15"
+      }
+    },
+    {
+      "key": "cwf",
+      "url": "https://app.ahrefs.com/site-explorer/overview?country=us&mode=subdomains&target=chicagowaterandfire.com%2F&volume_type=average",
+      "data": {
+        "countrySelected": true,
+        "followedLinks": "Referring domains\nFollowed\n1,648\n66.7%\nNot followed\n822\n33.3%\nBacklinks\nFollowed\n7,400\n46.8%\nNot followed\n8,423\n53.2%\n•\nNofollow\n8,423\n53.2%\n•\nUGC\n0\n0%\n•\nSponsored\n1\n<0.1%\n",
+        "metricBlock": "Backlink profile\nDR\n17\nUR\n7\nAR\n11,116,975\n604,415\nBacklinks\n15.8K\n+3.6K\nAll time\n33.4K\nRef. domains\n2.5K\n+469\nAll time\n3.6K\nSearch\nOrganic keywords\n110\n−18\nTop 3\n44\n−6\nOrganic traffic\n1.1K\n−912\nValue\n$5.6K\n−1.4K\nPaid keywords\n1\n+1\nAds\n3\n+3\nPaid traffic\n1\n+1\nCost\n$3\n",
+        "organicPages": "Organic pages by traffic\n37"
+      }
+    },
+    {
+      "key": "paul",
+      "url": "https://app.ahrefs.com/site-explorer/overview?country=us&mode=subdomains&target=nwchicago.pauldavis.com%2F&volume_type=average",
+      "data": {
+        "countrySelected": true,
+        "followedLinks": "Referring domains\nFollowed\n30\n60.0%\nNot followed\n20\n40.0%\nBacklinks\nFollowed\n38\n19.6%\nNot followed\n156\n80.4%\n•\nNofollow\n156\n80.4%\n•\nUGC\n0\n0%\n•\nSponsored\n0\n0%\n",
+        "metricBlock": "Backlink profile\nDR\n69\nUR\n4.5\nAR\n133,705\n10,509\nBacklinks\n194\n+53\nAll time\n201\nRef. domains\n50\n+12\nAll time\n54\nSearch\nOrganic keywords\n9\n+3\nTop 3\n0\nOrganic traffic\n23\n+19\nValue\n$122\nPaid keywords\n0\nAds\n0\nPaid traffic\n0\nCost\nN/A",
+        "organicPages": "Organic pages by traffic\n7"
+      }
+    },
+    {
+      "key": "blusky",
+      "url": "https://app.ahrefs.com/site-explorer/overview?country=us&mode=prefix&target=www.goblusky.com%2Flocations%2Fchicago-il%2F&volume_type=average",
+      "data": {
+        "countrySelected": true,
+        "followedLinks": "Referring domains\nFollowed\n4\n22.2%\nNot followed\n14\n77.8%\nBacklinks\nFollowed\n5\n6.5%\nNot followed\n72\n93.5%\n•\nNofollow\n72\n93.5%\n•\nUGC\n0\n0%\n•\nSponsored\n0\n0%\n",
+        "metricBlock": "Backlink profile\nDR\n53\nUR\n4.5\nAR\n528,161\n10,975\nBacklinks\n77\n+13\nAll time\n856\nRef. domains\n18\nAll time\n37\nSearch\nOrganic keywords\n12\n−2\nTop 3\n4\n+1\nOrganic traffic\n41\n−5\nValue\n$188\n−8\nPaid keywords\n0\nAds\n0\nPaid traffic\n0\nCost\nN/A",
+        "organicPages": "Organic pages by traffic\n1"
+      }
+    },
+    {
+      "key": "servicemaster",
+      "url": "https://app.ahrefs.com/site-explorer/overview?country=us&mode=prefix&target=servicemasterrestore.com%2Fservicemaster-dsi-chicago%2F&volume_type=average",
+      "data": {
+        "countrySelected": true,
+        "followedLinks": "Referring domains\nFollowed\n2\n66.7%\nNot followed\n1\n33.3%\nBacklinks\nFollowed\n134\n99.3%\nNot followed\n1\n0.7%\n•\nNofollow\n1\n0.7%\n•\nUGC\n0\n0%\n•\nSponsored\n0\n0%\n",
+        "metricBlock": "Backlink profile\nDR\n72\nUR\n0\nAR\n73,399\n2,949\nBacklinks\n135\n+135\nAll time\n135\nRef. domains\n3\n+3\nAll time\n3\nSearch\nOrganic keywords\n38\n+1\nTop 3\n3\n+1\nOrganic traffic\n123\n+8\nValue\n$558\n+88\nPaid keywords\n0\nAds\n0\nPaid traffic\n0\nCost\nN/A",
+        "organicPages": "Organic pages by traffic\n22"
+      }
+    },
+    {
+      "key": "midway",
+      "url": "https://app.ahrefs.com/site-explorer/overview?country=us&mode=subdomains&target=midwayrestoration.com%2F&volume_type=average",
+      "data": {
+        "countrySelected": true,
+        "followedLinks": "Referring domains\nFollowed\n340\n35.2%\nNot followed\n625\n64.8%\nBacklinks\nFollowed\n415\n36.0%\nNot followed\n738\n64.0%\n•\nNofollow\n738\n64.0%\n•\nUGC\n0\n0%\n•\nSponsored\n0\n0%\n",
+        "metricBlock": "Backlink profile\nDR\n4.7\nUR\n10\n−1\nAR\n31,229,779\n1,108,801\nBacklinks\n1.2K\n+301\nAll time\n2.1K\nRef. domains\n965\n+300\nAll time\n1.3K\nSearch\nOrganic keywords\n2\nTop 3\n0\nOrganic traffic\n1\n−1\nValue\n$1\n−3\nPaid keywords\n0\nAds\n0\nPaid traffic\n0\nCost\nN/A",
+        "organicPages": "Organic pages by traffic\n1"
+      }
+    },
+    {
+      "key": "belfor",
+      "url": "https://app.ahrefs.com/site-explorer/overview?country=us&mode=prefix&target=www.belfor.com%2Fus%2Fen%2Fbelfor-chicago-northbrook%2F&volume_type=average",
+      "data": {
+        "countrySelected": true,
+        "followedLinks": "Referring domains\nFollowed\n3\n50.0%\nNot followed\n3\n50.0%\nBacklinks\nFollowed\n7\n21.2%\nNot followed\n26\n78.8%\n•\nNofollow\n26\n78.8%\n•\nUGC\n0\n0%\n•\nSponsored\n0\n0%\n",
+        "metricBlock": "Backlink profile\nDR\n72\nUR\n4.5\nAR\n79,615\n1,947\nBacklinks\n33\n+5\nAll time\n39\nRef. domains\n6\n+1\nAll time\n11\nSearch\nOrganic keywords\n0\nTop 3\n0\nOrganic traffic\n0\nValue\nN/A\nPaid keywords\n0\nAds\n0\nPaid traffic\n0\nCost\nN/A",
+        "organicPages": "Organic pages by traffic\n0"
+      }
+    }
+  ]
+}

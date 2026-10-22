@@ -1,0 +1,576 @@
+{
+  "observed_date": "2026-10-21",
+  "purpose": "Independent validation of residential-versus-generic intent and local market opportunities; separate from original 20-query competitor comparison cohort",
+  "url_note": "Some Google results exposed opaque /goto links. Their visible titles/brand/display paths supply qualitative page-type evidence; opaque hrefs are not canonical competitor URLs.",
+  "residential": [
+    {
+      "key": "rwater",
+      "url": "https://www.google.com/search?q=residential+water+damage+restoration+chicago",
+      "results": [
+        {
+          "title": "Top 10 Best Water Damage Restoration in Chicago, Illinois\n\nYelp\nhttps://www.yelp.com › Home Services",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Chicago Restoration and Cleaning Services\n\nServpro\nhttps://www.servpro.com › Locations › Illinois",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Chicago Water & Fire Restoration - 24/7 Emergency Restoration\n\nChicago Water & Fire Restoration\nhttps://chicagowaterandfire.com",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Water & Fire Damage Restoration Services in Chicago, IL\n\nRestore Construction\nhttps://restoreconstruction.com",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Chicago, IL Office\n\nATI Restoration\nhttps://atirestoration.com › Regional Offices",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "#1 Chicago Water Damage & Fire Restoration Company\n\nRomexterra Restoration\nhttps://www.romexterra.com",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "CHICAGO WATER & FIRE RESTORATION\n\nYelp\nhttps://www.yelp.com › ... › Damage Restoration",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Premier Damage Restoration Services in Chicago, IL | BluSky\n\ngoblusky.com\nhttps://www.goblusky.com › Locations › Illinois",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        }
+      ],
+      "footer": "Footer Links\n60026, Glenview, IL - From your IP address\n - Update location\nHelp\nSend feedback\nPrivacy\nTerms"
+    },
+    {
+      "key": "rfire",
+      "url": "https://www.google.com/search?q=residential+fire+damage+restoration+chicago",
+      "results": [
+        {
+          "title": "Top 10 Best Fire Damage Restoration in Chicago, Illinois\n\nYelp\nhttps://www.yelp.com › Home Services",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Fire Damage Restoration Services\n\nServpro\nhttps://www.servpro.com › locations › fire-damage",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Water & Fire Damage Restoration Services in Chicago, IL\n\nRestore Construction\nhttps://restoreconstruction.com",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Chicago Fire Damage Restoration & Smoke Remediation\n\nATI Restoration\nhttps://atirestoration.com › ... › Chicago, IL",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Chicago Water & Fire Restoration - 24/7 Emergency Restoration\n\nChicago Water & Fire Restoration\nhttps://chicagowaterandfire.com",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Fire and Smoke Damage Restoration Chicago\n\nservicemasteroflincolnpark.com\nhttps://servicemasteroflincolnpark.com › fire-and-smok...",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Fire damage restoration Chicago, IL\n\nBig Shoulders Restoration\nhttps://www.bigshouldersrestoration.com › services › fire...",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Fire Restoration Company | Chicago & Lincolnwood's #1 Choice\n\nChicago Fire Repair\nhttps://www.chicagofirerepair.com",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Fire Damage Restoration in Chicago, IL\n\nRomexterra Restoration\nhttps://www.romexterra.com › fire-damage-restoration",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        }
+      ],
+      "footer": "Footer Links\n60026, Glenview, IL - From your IP address\n - Update location\nHelp\nSend feedback\nPrivacy\nTerms"
+    },
+    {
+      "key": "rmold",
+      "url": "https://www.google.com/search?q=residential+mold+remediation+chicago",
+      "results": [
+        {
+          "title": "Mold Removal and Remediation Services\n\nServpro\nhttps://www.servpro.com › locations › mold-remediation",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "TOP 10 BEST Mold Remediation in Chicago, IL\n\nYelp\nhttps://www.yelp.com › Home Services",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Mold Removal Recommendations : r/AskChicago\n\nReddit · r/AskChicago\n10+ comments · 2 years ago",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Mold Pro Chicago: Certified Mold Remediation - Chicago IL\n\nMold Pro Chicago\nhttps://www.moldprochicago.com",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Mold Damage Restoration in NW Chicago, IL\n\nPaul Davis Restoration\nhttps://nwchicago.pauldavis.com › residential › mold-da...",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Mold Remediation in Chicago, IL\n\nRomexterra Restoration\nhttps://www.romexterra.com › mold-remediation",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Residential Mold Removal Chicago - Bluestone Environmental\n\nbluestonemidwest.com\nhttps://bluestonemidwest.com › residential-mold-removal",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Mold Inspection & Testing Chicago Illinois\n\nMI&T | Mold Inspection & Testing\nhttps://moldinspectionandtest.com › chicago-il",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Responsible Mold Remediation in Chicago\n\nGreen Home Solutions\nhttps://www.greenhomesolutions.com › chicago-il",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        }
+      ],
+      "footer": "Footer Links\n60026, Glenview, IL - From your IP address\n - Update location\nHelp\nSend feedback\nPrivacy\nTerms"
+    }
+  ],
+  "cities": [
+    {
+      "city": "glenview",
+      "url": "https://www.google.com/search?q=water%20damage%20restoration%20glenview",
+      "results": [
+        {
+          "title": "TOP 10 BEST Water Damage Restoration in Glenview, IL\n\nYelp\nhttps://www.yelp.com › Home Services",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Water Damage Restoration in Glenview, IL\n\nRoto-Rooter\nhttps://www.rotorooter.com › ... › Illinois › Glenview",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "SERVPRO of Glenview\n\nServpro\nhttps://www.servpro.com › locations › servpro-of-glenv...",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Professional Water Damage Restoration in Glenview, IL\n\nrainbowrestores.com\nhttps://rainbowrestores.com › ... › Illinois › Glenview",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Water & Flood Damage Restoration Glenview, IL\n\nServiceMaster Restore\nhttps://servicemasterrestore.com › why-us › blog › april",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Restoration Services in Glenview, IL\n\nRomexterra Restoration\nhttps://www.romexterra.com › service-areas › illinois",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Water Damage Restoration Service in Glenview, IL\n\nRestoration 1\nhttps://restoration1.com › Chicago North Shore",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Glenview, IL Water Damage & Fire Damage Restoration, Mold ...\n\ncallusfirst.com\nhttps://www.callusfirst.com › glenview-il",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Glenview Illinois Water Damage Restoration Service\n\nBella Custom Cleaning\nhttps://bella-cleaning.com › cleaning-services › glenvie...",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        }
+      ],
+      "footer": "Footer Links\n60026, Glenview, IL - From your IP address\n - Update location\nHelp\nSend feedback\nPrivacy\nTerms"
+    },
+    {
+      "city": "downers grove",
+      "url": "https://www.google.com/search?q=water%20damage%20restoration%20downers%20grove",
+      "results": [
+        {
+          "title": "TOP 10 BEST Water Damage Restoration in Downers ...\n\nYelp\nhttps://www.yelp.com › Home Services",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Water Damage Restoration in Downers Grove, IL | 24/7 ...\n\nPaul Davis Restoration\nhttps://dupage-county.pauldavis.com › water-damage-cle...",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "SERVPRO of Downers Grove / Oak Brook\n\nServpro\nhttps://www.servpro.com › locations › servpro-of-down...",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "EcoClean Restoration in Downers Grove, IL\n\necoclean.com\nhttps://ecoclean.com › Service areas",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Fire and Water Damage Restoration near Downers Grove, IL\n\nBetter Business Bureau\nhttps://www.bbb.org › downers-grove › category › fire...",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Downers Grove Restoration: Water Damage Restoration in ...\n\nrestorationdownersgrove.com\nhttps://restorationdownersgrove.com",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "24/7 Residential Water Damage Restoration | Downers ...\n\nServiceMaster Restore\nhttps://servicemasterrestore.com › services › water-damage",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Downers Grove — ECL Restoration\n\nECL Restoration Solutions\nhttps://www.eclrestoration.com › water-damage-restorat...",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Downers Flood Damage Restoration\n\nAll Dry Services\nhttps://myalldry.com › Home › Service Areas › Downers",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        }
+      ],
+      "footer": "Footer Links\n60026, Glenview, IL - From your IP address\n - Update location\nHelp\nSend feedback\nPrivacy\nTerms"
+    },
+    {
+      "city": "naperville",
+      "url": "https://www.google.com/search?q=water%20damage%20restoration%20naperville",
+      "results": [
+        {
+          "title": "TOP 10 BEST Water Damage Restoration in Naperville, IL\n\nYelp\nhttps://www.yelp.com › Home Services",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Water Damage Restoration Repair near Naperville, IL\n\nServpro\nhttps://www.servpro.com › SERVPRO of Naperville",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Water Damage Restoration in Naperville, IL\n\nRomexterra Restoration\nhttps://www.romexterra.com › service-areas › illinois",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Water Damage Restoration in Naperville, IL | 24/7 | EcoClean\n\necoclean.com\nhttps://ecoclean.com › Service areas",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Chicago Water Damage Restoration\n\nATI Restoration\nhttps://atirestoration.com › ... › Chicago, IL",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Water Damage Contractor Naperville IL\n\nParkside Restoration\nhttps://parksiderestoration.com › water-damage-contract...",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Water Damage Restoration in Naperville, IL\n\nPuroClean\nhttps://www.puroclean.com › blog › 💧-water-damage-re...",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Category: Fire and Water Damage Restoration\n\nBetter Business Bureau\nhttps://www.bbb.org › naperville › category › accredited",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Water Damage Restoration in Naperville, IL\n\nRoto-Rooter\nhttps://www.rotorooter.com › ... › Illinois › Naperville",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        }
+      ],
+      "footer": "Footer Links\n60026, Glenview, IL - From your IP address\n - Update location\nHelp\nSend feedback\nPrivacy\nTerms"
+    },
+    {
+      "city": "highland park",
+      "url": "https://www.google.com/search?q=water%20damage%20restoration%20highland%20park",
+      "results": [
+        {
+          "title": "Best Water Damage Restoration near Highland Park, IL\n\nYelp\nhttps://m.yelp.com › Home Services",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Restoration and Cleaning Services near Highland Park, IL\n\nServpro\nhttps://www.servpro.com › locations › servpro-of-highl...",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Water Damage Restoration Service in Highland Park, IL\n\nRestoration 1\nhttps://restoration1.com › Chicago North Shore",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Water Damage Restoration & Floor Restoration in Highland ...\n\nafcservicesinc.com\nhttps://afcservicesinc.com › highland-park-il",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Water Damage Restoration in Highland Park, IL\n\nRomexterra Restoration\nhttps://www.romexterra.com › service-areas › illinois",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Adams Water Damage Restoration, Highland Park, 60035\n\nhighlandparkwaterdamage.com\nhttps://highlandparkwaterdamage.com",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "482 results for Water Damage Restoration near Highland ...\n\nBetter Business Bureau\nhttps://www.bbb.org › category › accredited",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Water & Fire | Highland Park - Disaster Restoration\n\nservicemaster-crp.com\nhttps://www.servicemaster-crp.com › highland-park",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Highland Park - Official Website of Procare Restoration\n\nprocare-restoration.com\nhttps://www.procare-restoration.com › highland-park",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        }
+      ],
+      "footer": "Footer Links\n60026, Glenview, IL - From your IP address\n - Update location\nHelp\nSend feedback\nPrivacy\nTerms"
+    },
+    {
+      "city": "schaumburg",
+      "url": "https://www.google.com/search?q=water%20damage%20restoration%20schaumburg",
+      "results": [
+        {
+          "title": "THE BEST 10 DAMAGE RESTORATION ...\n\nYelp\nhttps://www.yelp.com › ... › Damage Restoration",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Water Damage Restoration in Schaumburg, IL\n\nRoto-Rooter\nhttps://www.rotorooter.com › ... › Illinois › Schaumburg",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Water Damage Restoration Repair near Schaumburg, IL\n\nServpro\nhttps://www.servpro.com › locations › services › water-...",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Mold Removal | Foundation Repair | Water and Flood Repair ...\n\nFamily First Restoration\nhttps://familyfirstrestoration.com",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Water & Flood Damage Restoration Schaumburg, IL\n\nServiceMaster Restore\nhttps://servicemasterrestore.com › blog › december › wat...",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Paul Davis Emergency Services of Schaumburg IL: Property ...\n\nPaul Davis Restoration\nhttps://schaumburg-evanston.pauldavis.com",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Water Damage Restoration near Schaumburg, IL\n\nBetter Business Bureau\nhttps://www.bbb.org › schaumburg › category › water-...",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "TOP 10 BEST Water Restoration in Schaumburg, IL\n\nYelp\nhttps://www.yelp.com › Home Services",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Flood Damage Restoration Near Schaumburg, IL\n\nServpro\nhttps://www.servpro.com › services › storm-damage › f...",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        }
+      ],
+      "footer": "Footer Links\n60026, Glenview, IL - From your IP address\n - Update location\nHelp\nSend feedback\nPrivacy\nTerms"
+    },
+    {
+      "city": "carol stream",
+      "url": "https://www.google.com/search?q=water%20damage%20restoration%20carol%20stream",
+      "results": [
+        {
+          "title": "Best Water Damage Restoration near Carol Stream, IL\n\nYelp\nhttps://m.yelp.com › Home Services",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Water Damage Restoration Services\n\nwaterdamagecarolstream.com\nhttps://waterdamagecarolstream.com › restoration-services",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Cleaning and Restoration Experts Carol Stream IL\n\nAmerican Cleaning & Restoration South\nhttps://www.americancleaningsouth.com › cleaning-and...",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Property Restoration Experts in Carol Stream, IL\n\nPuroClean\nhttps://www.puroclean.com › carol-stream-il-puroclean-p...",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Best Water Damage Repair near Carol Stream, IL 60188\n\nYelp\nhttps://www.yelp.com › ... › Water Damage Repair",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Water Damage Cleanup Services in Carol Stream\n\nFacebook\nhttps://www.facebook.com › fb-answers › water-damag...",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Water Damage Restoration Repair near Buffalo Grove, IL\n\nServpro\nhttps://www.servpro.com › locations › services › water-...",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "FloodRescue Water Damage Restoration, Carol Stream, 60188\n\ndamagerestorationcarolstream.com\nhttps://damagerestorationcarolstream.com",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Expert Water Damage Repair Services In Carol Stream\n\nThe Clean Genius\nhttps://thecleangenius.com › water-damage-repair-service...",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        }
+      ],
+      "footer": "Footer Links\n60026, Glenview, IL - From your IP address\n - Update location\nHelp\nSend feedback\nPrivacy\nTerms"
+    },
+    {
+      "city": "northbrook",
+      "url": "https://www.google.com/search?q=water%20damage%20restoration%20northbrook",
+      "results": [
+        {
+          "title": "THE BEST 10 DAMAGE RESTORATION NEAR ...\n\nYelp\nhttps://www.yelp.com › ... › Damage Restoration",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Degabli Restoration & Construction\n\nDegabli Restoration & Construction\nhttp://www.degablirestoration.com",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Fire, Storm, & Water Damage Restoration in Northbrook, IL\n\nmcmahonservices.com\nhttps://www.mcmahonservices.com › fire-storm-water-d...",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Northbrook, Illinois Office | BELFOR USA\n\nBELFOR Property Restoration\nhttps://www.belfor.com › belfor-chicago-northbrook",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "SERVPRO of Northbrook / Wheeling / Glencoe\n\nServpro\nhttps://www.servpro.com › locations › servpro-of-north...",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Water Damage Restoration in Northbrook\n\nThe Clean Genius\nhttps://thecleangenius.com › water-damage-restoration-in...",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Signature Water & Fire Restoration | Northbrook, IL\n\nThumbtack\nhttps://www.thumbtack.com › water-damage › service",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Cleaning and Restoration Experts Northbrook IL\n\nAmerican Cleaning & Restoration South\nhttps://www.americancleaningsouth.com › cleaning-and...",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Professional Water Damage Restoration in Northbrook, IL\n\nrainbowrestores.com\nhttps://rainbowrestores.com › ... › Illinois › Northbrook",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        }
+      ],
+      "footer": "Footer Links\n60026, Glenview, IL - From your IP address\n - Update location\nHelp\nSend feedback\nPrivacy\nTerms"
+    },
+    {
+      "city": "elmhurst",
+      "url": "https://www.google.com/search?q=water%20damage%20restoration%20elmhurst",
+      "results": [
+        {
+          "title": "Best Water Damage Restoration near Elmhurst, IL 60126\n\nYelp\nhttps://www.yelp.com › ... › Water Damage Restoration",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Water Damage Restoration Repair near Elmhurst, IL\n\nServpro\nhttps://www.servpro.com › SERVPRO of Elmhurst",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Chicago Water & Fire Restoration - 24/7 Emergency Restoration\n\nChicago Water & Fire Restoration\nhttps://chicagowaterandfire.com",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Chicago Water & Fire Restoration | Elmhurst IL\n\nFacebook · Chicago Water & Fire Restoration\n1.1K+ followers",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Emergency Water Damage Restoration Services in Elmhurst, IL\n\nrestopros.co\nhttps://www.restopros.co › il-chicagoland-west › elmhurs...",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Damage Restoration Elmhurst\n\nevergreenrestores.com\nhttps://evergreenrestores.com › Service Areas",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "CHICAGO WATER & FIRE RESTORATION\n\nYelp\nhttps://www.yelp.com › ... › Damage Restoration",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Cleaning and Restoration Experts Elmhurst IL\n\nAmerican Cleaning & Restoration South\nhttps://www.americancleaningsouth.com › cleaning-and...",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        },
+        {
+          "title": "Expert Water Damage Repair Services In Elmhurst\n\nThe Clean Genius\nhttps://thecleangenius.com › water-damage-repair-service...",
+          "url": null,
+          "href_status": "Opaque Google redirect; canonical destination not resolved; visible title retained as page-type evidence"
+        }
+      ],
+      "footer": "Footer Links\n60026, Glenview, IL - From your IP address\n - Update location\nHelp\nSend feedback\nPrivacy\nTerms"
+    }
+  ]
+}

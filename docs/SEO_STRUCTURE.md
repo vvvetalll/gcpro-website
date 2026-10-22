@@ -1,5 +1,8 @@
 # GCPRO SEO URL architecture and Draft skeleton
 
+**Semantic planning,2026-10-21 — DRAFT — AWAITING USER APPROVAL:** [docs/seo strategy](seo/SEO_STRATEGY.md) centralizes proposed keyword ownership and page briefs. It does not supersede this exact-URL preservation/migration contract or authorize redirects, path changes or navigation edits. Existing URL inventory remains the single canonical register.
+
+
 **E84:** Commercial499 now owns broad “commercial restoration services in Chicago” intent. Six specialty child URLs remain unchanged, linked through native objects; their specialist keywords belong to the child briefs. [Research, observed metrics versus recommendations and final copy](seo/2026-10-21-commercial-services.md).
 
 **Current E80,2026-10-21:** Global AIOSEO setup completed on staging using native settings; owner-activated Local Business1.3.17 now emits verified single Lombard establishment. Short-brand title defaults retained, thin archives/media/terms noindex, breadcrumb hierarchy enabled. Office reception hours unspecified;24/7 emergency availability separate. Owner disabled staging Trustindex Rich Snippets; cache refreshed and Product absent from browser/raw anonymous HTML, reviews remain functional. Seven representative heads checked; bodies154/484/Header113/Footer114 and authored exceptions unchanged.93 Pages88 Published/5 Draft;321 URL histories retained. No new runtime code/classes/Components/Variables/plugins/dependencies; production unchanged. [Exact settings, limits and recovery](SEO_AIOSEO.md) · [Sanitized evidence](evidence/2026-10-21-aioseo-global.json).

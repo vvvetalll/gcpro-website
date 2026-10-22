@@ -34,7 +34,7 @@
 - Save SEO deliverables in the **existing** `docs/seo/` directory, cross-referencing established SEO documents elsewhere in `docs/`.
 - Label unapproved proposals **DRAFT — AWAITING USER APPROVAL**, commit research documentation only, and verify remote commit.
 
-**Status:** Research delegated to Work; master semantic map and page ownership **not yet reviewed or approved** by the owner.
+**Status:** Work research documentation prepared on 2026-10-21; see [SEO strategy](seo/SEO_STRATEGY.md), [market-first architecture](seo/MARKET_ARCHITECTURE.md), [master map](seo/MASTER_KEYWORD_MAP.csv), [page briefs](seo/PAGE_SEO_BRIEFS.md) and [ten-competitor analysis](seo/COMPETITOR_ANALYSIS.md). The map contains 89 records and 32 allocated clusters, including nine conditional local targets. Generic service roles are proposed as audience-neutral; legacy assignments remain diagnostic. **DRAFT — AWAITING USER APPROVAL**: page ownership and exact implementation URLs are not yet reviewed or approved by the owner. No website changes.
 
 **Existing documents checked:** `docs/seo/2026-10-21-residential-services.md` and `docs/seo/2026-10-21-commercial-services.md` contain page-specific briefs/implemented SEO choices; they are not a verified site-wide keyword ownership map. Both note limitations in query-to-URL attribution and/or source coverage. New research should reconcile their conclusions, not silently discard them.
 

@@ -1,0 +1,36 @@
+{
+  "observed_date": "2026-10-21",
+  "period": "2026-07-20/2026-10-19",
+  "query": "commercial water damage restoration chicago",
+  "url": "https://search.google.com/search-console/performance/search-analytics?resource_id=https%3A%2F%2Fgcprochicago.com%2F&metrics=CLICKS%2CIMPRESSIONS%2CCTR%2CPOSITION&breakdown=page&query=!commercial%20water%20damage%20restoration%20chicago",
+  "rows": [
+    [
+      "Top pages",
+      "Clicks",
+      "Impressions",
+      "CTR",
+      "Position"
+    ],
+    [
+      "https://gcprochicago.com/commercial-services/water-damage/",
+      "0",
+      "42",
+      "0%",
+      "45.6"
+    ],
+    [
+      "https://gcprochicago.com/comprehensive-guide-to-commercial-water-damage-restoration-in-chicago/",
+      "0",
+      "2",
+      "0%",
+      "55.0"
+    ],
+    [
+      "https://gcprochicago.com/residential-services/water-damage/",
+      "0",
+      "1",
+      "0%",
+      "74.0"
+    ]
+  ]
+}
