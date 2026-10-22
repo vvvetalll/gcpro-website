@@ -106,6 +106,31 @@ The owner reports that the contact form in the **legacy site footer** contains a
 - Do not copy generic or competitor legal language blindly or assert legal sufficiency without appropriate review. Request owner/legal approval of final policy text and provider-specific SMS wording.
 - During page and footer implementation planning, include the policy in navigation/footer UX and the release checklist. No WordPress changes authorized by this documentation entry alone.
 
+## US launch readiness and accessibility — backlog (2026-10-21)
+
+**Owner request:** Account for US market requirements and assess **Ally by Elementor** (WordPress accessibility plugin, sometimes listed as "Web Accessibility by Elementor") for the redesigned site. Keep this in the pre-launch audit and implementation planning backlog; do not install or modify the site without explicit approval.
+
+### Accessibility (high priority)
+
+- Treat usable access for people with disabilities as a core design and QA requirement, not just a floating icon. Use **WCAG 2.2 AA as an internal target** where practical, noting DOJ guidance for private public accommodations under ADA Title III does not prescribe a single detailed WCAG version as a blanket legal requirement; verify applicability with competent counsel as necessary.
+- Research Elementor Ally compatibility with current WordPress/Elementor Atomic V4 setup, costs and scan limits, performance, UX and conflicts with installed code/plugins. Its usability widget, scanner and accessibility statement generator can be helpful **supplements**, not proof of ADA/WCAG compliance.
+- Conduct both automated and manual checks: keyboard-only navigation, focus/focus visibility, menu/dialog access, screen reader names/labels, form errors and required fields, checkbox controls, alt text, meaningful headings, contrast, 200%+ zoom/reflow, reduced motion, video captions, third-party embeds and mobile usability.
+- Consider a clear **Accessibility Statement** and usable contact channel for reporting barriers. Avoid false claims of complete compliance absent testing.
+
+**References:** https://www.ada.gov/resources/web-guidance/ ; https://elementor.com/products/ally-web-accessibility/ ; https://elementor.com/help/install-and-activate-web-accessibility/
+
+### Other US website launch checks
+
+- Dedicated public **Privacy Policy**, site-wide footer link and links beside relevant lead forms (already mandatory in this file); match wording to actual analytics/cookies, data processing, retention, contact channels, and vendors.
+- **RingCentral SMS opt-in**: preserve provider-approved consent and disclosures in relevant flows, with appropriate consent records; review campaign requirements (already mandatory above).
+- Evaluate need for **Terms & Conditions**, particularly where linked SMS program terms are required; do not assume boilerplate is sufficient.
+- Review real analytics/cookies/tracking and privacy obligations for the company's actual service area, audiences, and data practices before selecting a cookie consent mechanism; avoid implying every US website needs the same consent banner.
+- Forms and security: valid delivery, useful error states, anti-spam, HTTPS, least-privilege access, secure handling of customer-submitted information, backups and updates.
+- Validate factual trust claims and permissions for BBB accreditation/rating, certificates, association logos, testimonials, awards, insurance/licensing claims, promises and review display. Do not publish unverified badges or guarantees.
+- Check functional footer contacts, phone tap-to-call, navigation, policy links, third-party integrations, redirects, indexability and performance as part of launch QA.
+
+**Status:** Planned review / recommendations only; exact legal obligations and approved policy text require company-specific verification. No plugin installation, page change, or production action authorized here.
+
 ## Next steps
 
 1. Confirm Work's new SEO research files and assess their provenance, completeness, and cross-page intent overlap.
