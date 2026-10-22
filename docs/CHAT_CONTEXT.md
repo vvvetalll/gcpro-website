@@ -208,3 +208,8 @@ This file is an index and decision record, **not** an instruction to ignore new 
 
 
 2026-10-22 Trust Logos: [current shared1149 media,classes,label,mobile order,hover,verification limits and rollback](components/why-gcpro.md). This record supersedes earlier Why media descriptions.
+
+
+## 2026-10-22 — Homepage Trust Logos activation
+
+Owner requested the same logos on Homepage154. Existing Why Component1149 instance60cdf058 now has only six media Overrides: empty Image and existing attachments1294/1295/1296/1297/1303. Shared definition,classes,hover,label and SEO metadata unchanged. No new classes,Variables,Components,code,assets,plugins or dependencies. Cache cleared; frontend confirms five image URLs/alt labels and supporting p label. Browser DOM checks:360px one row after benefit04;1440px3+2 in original left column;no horizontal overflow. Rollback:clear the six instance media Overrides to restore previous default None.

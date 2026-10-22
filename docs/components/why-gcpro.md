@@ -33,3 +33,8 @@ Source representation and sanitized class/QA evidence: [source](../evidence/2026
 ## Rollback
 
 Restore Component1149 revision before Trust Logos and restore484/499 Image Overrides from private task backups,then explicitly publish1149,clear Elementor Files & Data and purge staging cache. For only hover rollback,remove native hover/transition on trust-logo; do not delete shared classes/media. For future RA vector,replace only trust_ra image on both instances. No credentials/backups are committed.
+
+
+## 2026-10-22 — Homepage Trust Logos activation
+
+Owner requested the same logos on Homepage154. Existing Why Component1149 instance60cdf058 now has only six media Overrides: empty Image and existing attachments1294/1295/1296/1297/1303. Shared definition,classes,hover,label and SEO metadata unchanged. No new classes,Variables,Components,code,assets,plugins or dependencies. Cache cleared; frontend confirms five image URLs/alt labels and supporting p label. Browser DOM checks:360px one row after benefit04;1440px3+2 in original left column;no horizontal overflow. Rollback:clear the six instance media Overrides to restore previous default None.

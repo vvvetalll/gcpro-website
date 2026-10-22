@@ -496,3 +496,8 @@ For a future entry, include: date; environment; actual change and affected IDs/f
 
 
 **2026-10-22 — Why Trust Logos:** Existing Component1149 extended with native five-logo Overrides and one supporting p label; Residential484/Commercial499 use logos,Home154 body unchanged. Desktop3+2 left aligned,mobile five small logos after benefits01–04; native68%→100%/-2px hover retained. Three classes,no new Component/Variable/JS/plugin. Four real SVGs plus owner-approved temporary RA PNG. See [exact owners,QA limits and rollback](docs/components/why-gcpro.md).
+
+
+## 2026-10-22 — Homepage Trust Logos activation
+
+Owner requested the same logos on Homepage154. Existing Why Component1149 instance60cdf058 now has only six media Overrides: empty Image and existing attachments1294/1295/1296/1297/1303. Shared definition,classes,hover,label and SEO metadata unchanged. No new classes,Variables,Components,code,assets,plugins or dependencies. Cache cleared; frontend confirms five image URLs/alt labels and supporting p label. Browser DOM checks:360px one row after benefit04;1440px3+2 in original left column;no horizontal overflow. Rollback:clear the six instance media Overrides to restore previous default None.
