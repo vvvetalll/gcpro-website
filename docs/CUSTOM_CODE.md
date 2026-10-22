@@ -1,5 +1,7 @@
 # Custom code and dependency register
 
+**2026-10-22 — Shared Why certifications layout:** Existing Component1149 now places the same five original logos in a full-width area below the unchanged introduction/four-benefit composition. Existing label is left aligned, without decorative lines. Owner subsequently requested subtle outlined frames and hover: white12% border,8px radius,68%→100% opacity and translateY(-2px),180ms transition with reduced-motion guard; no moving strip. Desktop/tablet five-across; mobile centered 3+2. Reuses existing trust-logos/trust-logo/trust-logo__image classes and Variables; no new nodes, classes, Components, Variables, scripts, media, plugins or dependencies. Applies to Home154, Residential484 and Commercial499. See [current owners, verification and rollback](components/why-gcpro.md).
+
 **E84:** Commercial499 adds no CSS/JS/PHP/Custom Code/plugin/dependency. Existing shared native controls and17 regenerated page-local style IDs reuse the approved composition; all local Custom CSS fields empty.903/590/847, Kit6 and BEAF remain their sole existing owners. [Exact owner record](components/commercial-services.md).
 
 **E83:** Three new Global Classes ba-card g-c02ab3c, ba-card__caption g-c65c717, ba-card__title g-4523dc2 store only native controls; all Custom CSS fields null. No CSS/JS/PHP/Custom Code entry/source mirror or dependency added. Existing Kit6 owns BEAF presentation; plugin files/records and Hero exceptions unchanged. [Owners and rollback](components/before-after.md#e83--approved-a-card-design-2026-10-21).

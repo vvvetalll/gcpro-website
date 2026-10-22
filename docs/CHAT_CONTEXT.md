@@ -1,5 +1,7 @@
 # GC PRO — Chat Strategic Context
 
+**2026-10-22 — Shared Why certifications layout:** Existing Component1149 now places the same five original logos in a full-width area below the unchanged introduction/four-benefit composition. Existing label is left aligned, without decorative lines. Owner subsequently requested subtle outlined frames and hover: white12% border,8px radius,68%→100% opacity and translateY(-2px),180ms transition with reduced-motion guard; no moving strip. Desktop/tablet five-across; mobile centered 3+2. Reuses existing trust-logos/trust-logo/trust-logo__image classes and Variables; no new nodes, classes, Components, Variables, scripts, media, plugins or dependencies. Applies to Home154, Residential484 and Commercial499. See [current owners, verification and rollback](components/why-gcpro.md).
+
 **Purpose:** Persistent, concise strategic memory for the planning ChatGPT ("Чат") working with the site owner. The implementation agent ("Ворк") continues to maintain technical milestone and implementation records in the existing project documentation.
 
 ## Mandatory reading on every new GC PRO conversation

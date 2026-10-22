@@ -1,43 +1,34 @@
-# Why GCPRO — reusable Trust Logos media (2026-10-22)
+# Why GCPRO — shared section and certifications
 
-Existing shared Atomic Component1149 remains the only definition. Consumers: Residential484 instance225936ef, Commercial499 instance94c4cddb and Home154 instance60cdf058. Only484/499 media Overrides changed; all other page body data and page settings compare equal after excluding these media fields. Home body is exactly unchanged. Production, Header/Footer and BEAF were not edited.
+## Current layout — 2026-10-22
 
-## Editing and media modes
+Owner-approved refinement supersedes the earlier left-column logo placement, centered label and separator. After initially requesting borderless logos, the owner explicitly clarified that thin frames and hover must be added; the final design retains those in the full-width row. Existing Atomic Component **1149** is the single owner. Consumers remain Homepage154/60cdf058, Residential484/225936ef and Commercial499/94c4cddb. No page body, content Override, link, other section or production configuration was changed.
 
-Edit Component1149 → Why introduction column → Trust logos media. Edit per-page media using existing Image and five new native image Overrides: trust_iicrc, trust_iaqa, trust_bbb, trust_ria, trust_ra. Image mode: fill Image, clear five logos. Trust mode: clear Image, fill five logos. None: clear all six. This approved field convention is not a dropdown. Existing text and four benefit Overrides retain their keys. Empty-logo hiding removes the entire group, including its label.
+The main composition retains the left introduction and right 2×2 benefits grid. Existing copy, heading levels, typography, colors, icons and internal dividers are preserved. On tablet the introduction stacks above the two-column benefits; mobile benefits stack in one column with the existing horizontal dividers.
 
-One native p element inside the group reads INDUSTRY CERTIFICATIONS & AFFILIATIONS. Native local typography: existing font-body and color-surface-alternate tokens,11px,500 weight,1px tracking,uppercase,70% opacity,no decoration. It is not an SEO heading. The label is a full-width flex item; no duplicate mobile label/group.
+Existing group42ba4b31 moved from introduction6f83def0 to editorial container2b11da70, after benefits175b958f, spanning both grid columns. It forms a full-width, transparent continuation of the same navy section. Label48db000c remains a paragraph reading INDUSTRY CERTIFICATIONS & AFFILIATIONS, now left aligned, without flanking lines or a top separator. Its original11px typography/tokens remain.
 
-## Owners and layout
+## Native owners and media
 
-Three new reusable Global Classes, edited in Elementor Global Classes:
+- Existing local styles: editorial container2b11da70 retains desktop columns/gap and uses a single-column grid on tablet/mobile; introduction6f83def0 keeps normal flex flow instead of mobile display:contents; benefits175b958f no longer needs mobile ordering/margin to place logos; label48db000c owns alignment.
+- Existing **trust-logos g-c8bf649**: full-width flex-wrap layout, centered evenly distributed logo frames,32px gaps/32px top margin desktop,24px gaps/margin mobile; group grid-column1/-1. Existing empty-media hiding condition retained. No border, card surface or side lines.
+- Existing **trust-logo g-da9c4af**: transparent frames with1px white12% border,8px radius and8px padding,104px desktop/80px mobile, equal flexible desktop allocation; mobile wraps centered3+2. Native opacity68%→100% and translateY(-2px) on hover,180ms transition. Existing box-sizing/reduced-motion exceptions retained. Reduced motion disables movement/transition.
+- Existing **trust-logo__image g-a5e0eea**: contain original proportions within140×86px maximum desktop and112×64px mobile. No redrawing, filter or new asset.
 
-- trust-logos g-c8bf649: media layout, left aligned desktop3+2, mobile five logos in one row. Gap12px desktop;6px mobile with12px between label and row. Empty group Custom CSS: `&:not(:has(img[src]:not([src=""]))) { display:none; }`.
-- trust-logo g-da9c4af: transparent frames,white12% border,8px radius,108px height desktop/64px mobile. Native opacity68%,180ms opacity/transform transition; native hover100% and translateY(-2px),no shadow. Scoped Custom CSS owns box-sizing:border-box and reduced-motion disabling of transition/transform. Touch-hover suppression was removed at owner request. Do not add it back.
-- trust-logo__image g-a5e0eea: contain original proportions;86px height desktop/50px mobile. No artwork changes.
+All45 original node IDs and content settings were preserved. No new Global Class, Variable, Atomic Component, Custom Code entry, JavaScript, PHP, theme stylesheet, plugin, dependency or media upload. The same five native media Overrides remain: trust_iicrc1294, trust_iaqa1295, trust_bbb1296, trust_ria1297, trust_ra1303. Optional Image11b161f2 remains available and empty on the three consumers.
 
-On mobile only, existing introduction wrapper uses native display:contents, editorial container flex column/gap24px, benefits order1 with8px top margin, trust group order2 with8px top margin. This preserves the single component and DOM group while placing logos visually after all four benefits. Desktop/tablet retain the existing columns/order. Informational logos add no keyboard tab stops. DOM reading order retains introduction/media before benefits; none are interactive.
+Image mode: populate Image and clear the five logos. Trust mode: clear Image and populate the five logos. None: clear all six. This is the established native field convention, not a newly added dropdown. Image/None switching was not retested end to end in this refinement.
 
-No new Component,Variable,JS,PHP,theme stylesheet,Custom Code entry,plugin or dependency.11 media nodes plus one p were added inside existing1149. All CSS exceptions have the above single class owners; native layout/text remain editable. No page-ID selectors.
+## Verification
 
-## Assets
+Connected Chrome Commercial499 checks at exact1440/768/393/360 CSSpx: five images loaded, certifications below benefits, no horizontal document overflow, zero group border, transparent outlined frames. Initial borderless checks were superseded by the owner's explicit frame/hover correction; final frame/hover verification is recorded below. Logos form one row at1440/768 and two centered rows at393/360. Benefits retain two columns at1440/768 and one mobile column. Home154 and Residential484 checked at1440/360: five logos below main composition, no horizontal overflow. Final left-alignment checked after the owner's clarification. Staging SiteGround cache purged through its native toolbar.
 
-Media1294 IICRC-white.svg,1295 IAQA-white.svg,1296 BBB-white.svg,1297 RIA.svg: supplied static vectors,transparent,original paths/viewBoxes retained,checked for scripts/remote references and rendered for QA. Media1303 gcpro-ra-white.png: transparent400×290,7512bytes,exact raster conversion from supplied WebP without tracing; owner will supply true vector. Descriptive Media Library titles/alt/descriptions saved. Failed SVG-wrapper trial1298 is private,unplaced and explicitly marked unused; sanitizer removed its embedded raster. Do not reuse it or claim it is a vector logo. Owner-provided marks do not independently establish current accreditation.
+Fresh MCP readback confirmed the same45 component node IDs and identical content settings. Page154/484/499 bodies compare exactly with their pre-task snapshots. No form submissions, phone calls, physical-device or screen-reader certification. No full visual-editor interaction or full-site restore test claimed. Public raw requests previously returned403 on service hubs; connected authenticated browser QA is not independent anonymous certification.
 
-## Verification and limits
+## Recovery and prior evidence
 
-Before final label/mobile-order refinements,both pages passed360,393,430,768,1024,1440px DOM row/overflow checks with all five images loaded. Final Commercial DOM checks at360,392,768,1440 CSSpx: p label11px,left aligned,no overflow,mobile one logo row after benefit04,tablet/desktop3+2 before benefits. Nominal393 rendered392 due browser zoom; do not label this an exact393 retest. Hover browser computed style was68%/none →100%/translateY(-2px),using forced pseudo-state. Native reduced-motion guard saved. Final screenshots failed with blank IAB capture after Chrome disconnected; earlier screenshots predate these refinements. Image/None switching remains unverified end to end; preserved native image configuration and hidden-group condition are saved-state evidence only. No physical-device test or new SEO claim.
+Restore the pre-refinement Component1149 snapshot plus the prior variants of the three existing trust classes together; explicitly publish1149, refresh Elementor assets as needed and purge staging cache. Restoring only one side can leave the old card layout with the new placement. Keep existing page media Overrides and unrelated current work. The prior class/component implementation and original asset evidence remain in [trust source](../evidence/2026-10-22-why-trust-source.json), [trust QA](../evidence/2026-10-22-why-trust.json) and [superseded separator](../evidence/2026-10-22-trust-separator.json). Private pre-task saved component backup retained outside Git.
 
-Source representation and sanitized class/QA evidence: [source](../evidence/2026-10-22-why-trust-source.json),[evidence](../evidence/2026-10-22-why-trust.json). Source is a reviewed implementation record,not an automatically deployed duplicate.
+Original assets1294–1297 are supplied static SVGs;1303 is the existing temporary transparent RA PNG. Unused failed trial1298 remains unplaced. Owner-supplied logos do not independently verify current accreditation; replacing the RA raster with a supplied true vector remains separate work.
 
-## Rollback
-
-Restore Component1149 revision before Trust Logos and restore484/499 Image Overrides from private task backups,then explicitly publish1149,clear Elementor Files & Data and purge staging cache. For only hover rollback,remove native hover/transition on trust-logo; do not delete shared classes/media. For future RA vector,replace only trust_ra image on both instances. No credentials/backups are committed.
-
-
-## 2026-10-22 — Homepage Trust Logos activation
-
-Owner requested the same logos on Homepage154. Existing Why Component1149 instance60cdf058 now has only six media Overrides: empty Image and existing attachments1294/1295/1296/1297/1303. Shared definition,classes,hover,label and SEO metadata unchanged. No new classes,Variables,Components,code,assets,plugins or dependencies. Cache cleared; frontend confirms five image URLs/alt labels and supporting p label. Browser DOM checks:360px one row after benefit04;1440px3+2 in original left column;no horizontal overflow. Rollback:clear the six instance media Overrides to restore previous default None.
-
-
-2026-10-22 — Owner-approved Trust Logos separator: existing trust-logos g-c8bf649 now has a1px solid white16% top border and14px top padding. It spans only the media column; browser1440px confirms40px separation from right benefits,360px retains one logo row/no overflow. Existing native block-start border width/padding controls and class-owned border-top style/color exception; no new class,element,Component,Variable,JS,plugin or dependency. Hover unchanged. Applies to Home154,Residential484,Commercial499 through existing1149. Owner accepted; do not redesign further. Rollback:remove only the added top border and14px padding.
+Final owner clarification verified: certifications label computed text-align:left; all frames1px rgba(255,255,255,0.12),8px radius. Real pointer hover verified opacity0.68→1 and matrix translationY -2px with0.18s opacity/transform transitions. No marquee or automatic animation. Final1440/768/393/360 checks retain loaded images, no horizontal overflow and certifications below benefits. Small row-coordinate differences during hover reflect the intended2px movement, not another layout row.
