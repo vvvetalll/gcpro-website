@@ -53,6 +53,15 @@
 - Which supporting services warrant standalone pages or navigation prominence.
 - Any resulting content, heading, URL, or navigation changes.
 
+
+### Approved semantic research principle — 2026-10-21
+
+**Independent market and search-intent research takes precedence over the legacy site's existing SEO targeting.** Treat old page keywords, URLs, legacy city targeting, and historical GSC performance as diagnostic evidence, not as approved or inherently correct assignments.
+
+Work should: (1) research Chicago-area market demand and real Google SERPs using Ahrefs, Google Ads Keyword Planner, and other available sources; (2) group keywords by actual search intent and business value *before* choosing target pages; (3) compare the needs for audience-neutral service pages versus distinct Residential and Commercial pages, without automatically assigning generic terms to Residential; (4) allocate one primary landing page per distinct query-intent cluster; and (5) only then compare proposed page ownership with legacy URLs, previous keyword maps, and GSC findings to diagnose gaps and plan possible migration.
+
+Legacy local/city pages require independent evidence before being adopted into the new architecture. All page ownership, structure, and URL changes remain **DRAFT — AWAITING USER APPROVAL**. No website, URL, redirect, or navigation changes are authorized by this planning decision.
+
 ## Next steps
 
 1. Confirm Work's new SEO research files and assess their provenance, completeness, and cross-page intent overlap.
