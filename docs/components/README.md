@@ -36,3 +36,6 @@ Current inspection: **2026-10-20, staging only**. This directory owns component-
 [Custom-code register](../CUSTOM_CODE.md) owns exact active storage paths, snippets, class-owned exceptions and dependencies. [Architecture audit](../audits/2026-10-20-architecture-and-mobile.md) owns findings, evidence, changes and deferred proposals. [Elementor map](../ELEMENTOR_MAP.md) remains the overall locator map; [design system](../DESIGN_SYSTEM.md) owns tokens/conventions. Historical milestone reports are dated evidence, not alternative current component instructions.
 
 Every meaningful component change must update its record: purpose; page/template/element locators; parent/children; classes/tokens; CSS/JS owners; Custom Code IDs; plugin/shortcode dependencies; desktop/tablet/mobile behavior; interactions; limitations; safe modification/reuse. Use “none” or “not verified” explicitly where appropriate. Do not copy entire page trees or project history into each record.
+
+
+2026-10-22 Trust Logos: [current shared1149 media,classes,label,mobile order,hover,verification limits and rollback](why-gcpro.md). This record supersedes earlier Why media descriptions.

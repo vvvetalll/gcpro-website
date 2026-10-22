@@ -141,3 +141,6 @@ Homepage dependencies: Elementor/Pro native rendering/Components/Theme Builder; 
 Required locators include native object/dynamic links, Theme Builder display conditions, Component references and BEAF record IDs. Elementor-generated wrappers/selectors are normal rendering outputs. E57 removed authored numeric dependencies from custom847/radius/header code. BEAF page/grid/plugin selectors remain intentional third-party isolation exceptions and are outside Phase1.
 
 E57 implements the minimal semantic scope/menu selectors and verified redundant declaration cleanup. Native video composition/shared radius migration remains separately scoped; no BEAF refactor is proposed under Phase1. Preserve generated IDs/native object relationships and review consumers before any future structural change.
+
+
+2026-10-22 Trust Logos: [current shared1149 media,classes,label,mobile order,hover,verification limits and rollback](components/why-gcpro.md). This record supersedes earlier Why media descriptions.

@@ -205,3 +205,6 @@ Future task: document implementation plan, data-layer/event naming, verification
 ## Notes for future Chat sessions
 
 This file is an index and decision record, **not** an instruction to ignore new user requests or independently act on GitHub without task authorization. Review live GitHub state on each new session; if an entry is outdated, correct it with a dated update after verification.
+
+
+2026-10-22 Trust Logos: [current shared1149 media,classes,label,mobile order,hover,verification limits and rollback](components/why-gcpro.md). This record supersedes earlier Why media descriptions.

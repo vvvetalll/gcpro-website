@@ -1,0 +1,545 @@
+{
+  "date": "2026-10-22",
+  "environment": "staging",
+  "component": 1149,
+  "pages": [
+    484,
+    499
+  ],
+  "integrity": {
+    "154": {
+      "body_equal_excluding_why_media": true,
+      "page_settings_equal": true,
+      "body_exact_unchanged": true
+    },
+    "484": {
+      "body_equal_excluding_why_media": true,
+      "page_settings_equal": true
+    },
+    "499": {
+      "body_equal_excluding_why_media": true,
+      "page_settings_equal": true
+    }
+  },
+  "classes": {
+    "g-c8bf649": {
+      "id": "g-c8bf649",
+      "label": "trust-logos",
+      "type": "class",
+      "variants": [
+        {
+          "meta": {
+            "breakpoint": "tablet",
+            "state": null
+          },
+          "props": {
+            "max-width": {
+              "$$type": "size",
+              "value": {
+                "size": 560,
+                "unit": "px"
+              }
+            },
+            "margin": {
+              "$$type": "size",
+              "value": {
+                "size": 0,
+                "unit": "px"
+              }
+            }
+          },
+          "custom_css": null
+        },
+        {
+          "meta": {
+            "breakpoint": "desktop",
+            "state": null
+          },
+          "props": {
+            "width": {
+              "$$type": "size",
+              "value": {
+                "size": 100,
+                "unit": "%"
+              }
+            },
+            "min-width": {
+              "$$type": "size",
+              "value": {
+                "size": 0,
+                "unit": "px"
+              }
+            },
+            "padding": {
+              "$$type": "size",
+              "value": {
+                "size": 0,
+                "unit": "px"
+              }
+            },
+            "display": {
+              "$$type": "string",
+              "value": "flex"
+            },
+            "gap": {
+              "$$type": "size",
+              "value": {
+                "size": 12,
+                "unit": "px"
+              }
+            },
+            "flex-wrap": {
+              "$$type": "string",
+              "value": "wrap"
+            },
+            "justify-content": {
+              "$$type": "string",
+              "value": "flex-start"
+            },
+            "align-items": {
+              "$$type": "string",
+              "value": "stretch"
+            },
+            "margin": {
+              "$$type": "dimensions",
+              "value": {
+                "block-start": {
+                  "$$type": "size",
+                  "value": {
+                    "size": null,
+                    "unit": "auto"
+                  }
+                },
+                "block-end": {
+                  "$$type": "global-size-variable",
+                  "value": "e-gv-a0a0c34"
+                }
+              }
+            }
+          },
+          "custom_css": {
+            "raw": "Jjpub3QoOmhhcyhpbWdbc3JjXTpub3QoW3NyYz0iIl0pKSkgeyBkaXNwbGF5OiBub25lOyB9"
+          }
+        },
+        {
+          "meta": {
+            "breakpoint": "mobile",
+            "state": null
+          },
+          "props": {
+            "gap": {
+              "$$type": "size",
+              "value": {
+                "size": 6,
+                "unit": "px"
+              }
+            },
+            "flex-wrap": {
+              "$$type": "string",
+              "value": "wrap"
+            },
+            "margin": {
+              "$$type": "dimensions",
+              "value": {
+                "block-start": {
+                  "$$type": "global-size-variable",
+                  "value": "e-gv-ae8c2d2"
+                }
+              }
+            },
+            "order": {
+              "$$type": "number",
+              "value": 2
+            }
+          },
+          "custom_css": {
+            "raw": "cm93LWdhcDogMTJweDs="
+          }
+        }
+      ]
+    },
+    "g-da9c4af": {
+      "id": "g-da9c4af",
+      "label": "trust-logo",
+      "type": "class",
+      "variants": [
+        {
+          "meta": {
+            "breakpoint": "mobile",
+            "state": null
+          },
+          "props": {
+            "height": {
+              "$$type": "size",
+              "value": {
+                "size": 64,
+                "unit": "px"
+              }
+            },
+            "padding": {
+              "$$type": "size",
+              "value": {
+                "size": 6,
+                "unit": "px"
+              }
+            },
+            "flex": {
+              "$$type": "flex",
+              "value": {
+                "flexGrow": {
+                  "$$type": "number",
+                  "value": 0
+                },
+                "flexShrink": {
+                  "$$type": "number",
+                  "value": 0
+                },
+                "flexBasis": {
+                  "$$type": "size",
+                  "value": {
+                    "size": "calc((100% - 24px) / 5)",
+                    "unit": "custom"
+                  }
+                }
+              }
+            }
+          },
+          "custom_css": null
+        },
+        {
+          "meta": {
+            "breakpoint": "desktop",
+            "state": null
+          },
+          "props": {
+            "height": {
+              "$$type": "size",
+              "value": {
+                "size": 108,
+                "unit": "px"
+              }
+            },
+            "min-width": {
+              "$$type": "size",
+              "value": {
+                "size": 0,
+                "unit": "px"
+              }
+            },
+            "padding": {
+              "$$type": "size",
+              "value": {
+                "size": 10,
+                "unit": "px"
+              }
+            },
+            "border-radius": {
+              "$$type": "size",
+              "value": {
+                "size": 8,
+                "unit": "px"
+              }
+            },
+            "border-width": {
+              "$$type": "size",
+              "value": {
+                "size": 1,
+                "unit": "px"
+              }
+            },
+            "border-color": {
+              "$$type": "color",
+              "value": "rgba(255,255,255,0.12)"
+            },
+            "border-style": {
+              "$$type": "string",
+              "value": "solid"
+            },
+            "background": {
+              "$$type": "background",
+              "value": {
+                "color": {
+                  "$$type": "color",
+                  "value": "transparent"
+                }
+              }
+            },
+            "opacity": {
+              "$$type": "size",
+              "value": {
+                "size": 68,
+                "unit": "%"
+              }
+            },
+            "transition": {
+              "$$type": "transition",
+              "value": [
+                {
+                  "$$type": "selection-size",
+                  "value": {
+                    "selection": {
+                      "$$type": "key-value",
+                      "value": {
+                        "key": {
+                          "$$type": "string",
+                          "value": "opacity"
+                        },
+                        "value": {
+                          "$$type": "string",
+                          "value": "opacity"
+                        }
+                      }
+                    },
+                    "size": {
+                      "$$type": "size",
+                      "value": {
+                        "size": 180,
+                        "unit": "ms"
+                      }
+                    }
+                  }
+                },
+                {
+                  "$$type": "selection-size",
+                  "value": {
+                    "selection": {
+                      "$$type": "key-value",
+                      "value": {
+                        "key": {
+                          "$$type": "string",
+                          "value": "transform"
+                        },
+                        "value": {
+                          "$$type": "string",
+                          "value": "transform"
+                        }
+                      }
+                    },
+                    "size": {
+                      "$$type": "size",
+                      "value": {
+                        "size": 180,
+                        "unit": "ms"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            "display": {
+              "$$type": "string",
+              "value": "flex"
+            },
+            "flex": {
+              "$$type": "flex",
+              "value": {
+                "flexGrow": {
+                  "$$type": "number",
+                  "value": 0
+                },
+                "flexShrink": {
+                  "$$type": "number",
+                  "value": 0
+                },
+                "flexBasis": {
+                  "$$type": "size",
+                  "value": {
+                    "size": "calc((100% - 24px) / 3)",
+                    "unit": "custom"
+                  }
+                }
+              }
+            },
+            "justify-content": {
+              "$$type": "string",
+              "value": "center"
+            },
+            "align-items": {
+              "$$type": "string",
+              "value": "center"
+            }
+          },
+          "custom_css": {
+            "raw": "Ym94LXNpemluZzogYm9yZGVyLWJveDsKQG1lZGlhIChwcmVmZXJzLXJlZHVjZWQtbW90aW9uOiByZWR1Y2UpIHsgJi50cnVzdC1sb2dvLCAmLnRydXN0LWxvZ286aG92ZXIgeyB0cmFuc2l0aW9uOiBub25lOyB0cmFuc2Zvcm06IG5vbmU7IH0gfQ=="
+          }
+        },
+        {
+          "meta": {
+            "breakpoint": "desktop",
+            "state": "hover"
+          },
+          "props": {
+            "opacity": {
+              "$$type": "size",
+              "value": {
+                "size": 100,
+                "unit": "%"
+              }
+            },
+            "transform": {
+              "$$type": "transform",
+              "value": {
+                "transform-functions": {
+                  "$$type": "transform-functions",
+                  "value": [
+                    {
+                      "$$type": "transform-move",
+                      "value": {
+                        "x": {
+                          "$$type": "size",
+                          "value": {
+                            "size": 0,
+                            "unit": "px"
+                          }
+                        },
+                        "y": {
+                          "$$type": "size",
+                          "value": {
+                            "size": -2,
+                            "unit": "px"
+                          }
+                        },
+                        "z": {
+                          "$$type": "size",
+                          "value": {
+                            "size": 0,
+                            "unit": "px"
+                          }
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "custom_css": null
+        }
+      ]
+    },
+    "g-a5e0eea": {
+      "id": "g-a5e0eea",
+      "label": "trust-logo__image",
+      "type": "class",
+      "variants": [
+        {
+          "meta": {
+            "breakpoint": "desktop",
+            "state": null
+          },
+          "props": {
+            "width": {
+              "$$type": "size",
+              "value": {
+                "size": 100,
+                "unit": "%"
+              }
+            },
+            "height": {
+              "$$type": "size",
+              "value": {
+                "size": 86,
+                "unit": "px"
+              }
+            },
+            "max-width": {
+              "$$type": "size",
+              "value": {
+                "size": 148,
+                "unit": "px"
+              }
+            },
+            "object-fit": {
+              "$$type": "string",
+              "value": "contain"
+            },
+            "display": {
+              "$$type": "string",
+              "value": "block"
+            }
+          },
+          "custom_css": null
+        },
+        {
+          "meta": {
+            "breakpoint": "mobile",
+            "state": null
+          },
+          "props": {
+            "height": {
+              "$$type": "size",
+              "value": {
+                "size": 50,
+                "unit": "px"
+              }
+            }
+          },
+          "custom_css": null
+        }
+      ]
+    }
+  },
+  "final_label_mobile_order_dom_checks": [
+    {
+      "belowBenefits": true,
+      "gridX": 20,
+      "labelFont": "11px",
+      "labelTag": "P",
+      "labelX": 20,
+      "logoCount": 5,
+      "logoRows": 1,
+      "overflow": false,
+      "width": 360
+    },
+    {
+      "belowBenefits": true,
+      "gridX": 20,
+      "labelFont": "11px",
+      "labelTag": "P",
+      "labelX": 20,
+      "logoCount": 5,
+      "logoRows": 1,
+      "overflow": false,
+      "width": 392
+    },
+    {
+      "belowBenefits": false,
+      "gridX": 32,
+      "labelFont": "11px",
+      "labelTag": "P",
+      "labelX": 32,
+      "logoCount": 5,
+      "logoRows": 2,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "belowBenefits": false,
+      "gridX": 141.7777862548828,
+      "labelFont": "11px",
+      "labelTag": "P",
+      "labelX": 141.7777862548828,
+      "logoCount": 5,
+      "logoRows": 2,
+      "overflow": false,
+      "width": 1440
+    }
+  ],
+  "hover_computed": {
+    "normal": {
+      "opacity": 0.68,
+      "transform": "none"
+    },
+    "hover": {
+      "opacity": 1,
+      "translateY_px": -2
+    },
+    "method": "Actual staging styles with browser CSS.forcePseudoState; removed after check"
+  },
+  "limitations": [
+    "Final screenshots returned blank in IAB after Chrome connection stopped responding. Earlier screenshots predate label/reordering and are not final proof.",
+    "Final nominal393px test rendered392 CSSpx due browser zoom; earlier393px row passed before label/reordering.",
+    "Image/None end-to-end switching not completed; existing Image node/overrides and empty-logo hiding preserved.",
+    "RA remains owner-approved PNG pending supplied vector."
+  ]
+}

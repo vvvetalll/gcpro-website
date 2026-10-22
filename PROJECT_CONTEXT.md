@@ -588,3 +588,6 @@ The public staging URL could not be retrieved by the web reader in this task. Re
 5. Update all affected documentation, commit, push and verify the remote branch before handing off completion. Report the canonical commit URL. If access is missing, explicitly keep documentation synchronization pending.
 
 The containing Git commit is the documentation milestone reference. Use Git history and the verified remote head for its SHA; do not substitute a guessed commit URL.
+
+
+**2026-10-22 — Why Trust Logos:** Existing Component1149 extended with native five-logo Overrides and one supporting p label; Residential484/Commercial499 use logos,Home154 body unchanged. Desktop3+2 left aligned,mobile five small logos after benefits01–04; native68%→100%/-2px hover retained. Three classes,no new Component/Variable/JS/plugin. Four real SVGs plus owner-approved temporary RA PNG. See [exact owners,QA limits and rollback](docs/components/why-gcpro.md).

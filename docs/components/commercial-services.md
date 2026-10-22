@@ -66,3 +66,6 @@ Complexity audit:55 page nodes (same as source), three native FAQ instances rath
 ## Recovery
 
 Private pre-task `work/e84-before-499.json` records the existing blank body, default template, featured image and page-specific SEO. Restore only Page499's `_elementor_data`, page settings, template, title/excerpt/featured_media and authored AIOSEO fields from that snapshot through native WordPress controls/API, then clear Elementor Files & Data and staging SG cache. Do not roll back shared definitions, Header/Footer, other Pages, BEAF or global AIOSEO. Page499 is still the same published object/path; do not trash/recreate it. Scoped snapshots are available, but no full-site restore drill was performed. Post-task source hashes in evidence allow comparison without committing private exports.
+
+
+2026-10-22 Trust Logos: [current shared1149 media,classes,label,mobile order,hover,verification limits and rollback](why-gcpro.md). This record supersedes earlier Why media descriptions.

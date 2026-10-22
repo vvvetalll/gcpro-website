@@ -103,3 +103,6 @@ Real Media724/747 and BEAF723/742 are approved existing project evidence. No inv
 Future Commercial/service/location pages should place existing shared1152/1149/1140/80 and adjust supported content Overrides. Use62/77/83 where suitable, preserving native styles. Keep unique Hero content independent; don't copy Global Classes or scripts. Page count/content differences do not justify a second visual design. BEAF remains third-party content integration.
 
 Rollback: restore private pre-E77 Page484 body/title/excerpt/template/featured media/settings and its one1008 include condition; restore only the three source Homepage sections and removed radius rule from private pre-E77 backup if reverting shared adoption. Restore Component80's prior empty local panel style, Code847 source/title/Page154 condition and590 Page154 condition. Save native conditions and clear Elementor files/data + relevant staging cache. Remove/archive new definitions only after removing both consumers; do not delete media, plugins, city/service Pages or alter Header/Footer. Component80/590/847 affect shared consumers, so rollback these together. No production changes or redirects.
+
+
+2026-10-22 Trust Logos: [current shared1149 media,classes,label,mobile order,hover,verification limits and rollback](why-gcpro.md). This record supersedes earlier Why media descriptions.

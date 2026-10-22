@@ -536,3 +536,6 @@ E4 reports white text on orange `#F05A29` around 3.39:1 and leaves the treatment
 | Header/footer assignment | Separate Theme Builder document and display conditions |
 
 Actual controls and persistence must be verified on the installed Elementor version. No hidden CSS/JS or new styling was added by documentation initialization.
+
+
+2026-10-22 Trust Logos: [current shared1149 media,classes,label,mobile order,hover,verification limits and rollback](components/why-gcpro.md). This record supersedes earlier Why media descriptions.

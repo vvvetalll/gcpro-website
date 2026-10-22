@@ -493,3 +493,6 @@ Verified [commit 61624508705fe9d7947d145e3cc9ef973421fb3d](https://github.com/vv
 E4 reports Homepage V2 delivery on 2026-10-16 and E5 describes an earlier component foundation. The integration entry above adds E6/E7 corroboration and the detailed milestone record. It does not replay implementation or runtime tests. The website changes were made in WordPress, not deployed from this documentation repository; do not assign them a fabricated implementation Git commit or production deployment date.
 
 For a future entry, include: date; environment; actual change and affected IDs/files; source/commit or evidence reference; checks and outcomes; custom-code exceptions; unresolved work. Keep future plans in PROJECT_CONTEXT.
+
+
+**2026-10-22 — Why Trust Logos:** Existing Component1149 extended with native five-logo Overrides and one supporting p label; Residential484/Commercial499 use logos,Home154 body unchanged. Desktop3+2 left aligned,mobile five small logos after benefits01–04; native68%→100%/-2px hover retained. Three classes,no new Component/Variable/JS/plugin. Four real SVGs plus owner-approved temporary RA PNG. See [exact owners,QA limits and rollback](docs/components/why-gcpro.md).

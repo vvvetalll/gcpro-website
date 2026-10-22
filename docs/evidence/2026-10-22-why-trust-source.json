@@ -1,0 +1,433 @@
+{
+  "action": "update",
+  "component_id": 1149,
+  "xml_structure": "<e-div-block configuration-id=\"04 Why Choose GCPRO\"><e-div-block configuration-id=\"Why editorial container\"><e-div-block configuration-id=\"Why introduction column\"><e-paragraph configuration-id=\"Why eyebrow\"></e-paragraph><e-heading configuration-id=\"Why editorial H2\"></e-heading><e-divider configuration-id=\"Why orange accent\"></e-divider><e-paragraph configuration-id=\"Why introduction\"></e-paragraph><e-image configuration-id=\"Why optional image\"></e-image><e-flexbox configuration-id=\"Trust logos media\"><e-paragraph configuration-id=\"Trust logos supporting label\"/><e-div-block configuration-id=\"IICRC logo frame\"><e-image configuration-id=\"IICRC logo\"/></e-div-block><e-div-block configuration-id=\"IAQA logo frame\"><e-image configuration-id=\"IAQA logo\"/></e-div-block><e-div-block configuration-id=\"BBB logo frame\"><e-image configuration-id=\"BBB logo\"/></e-div-block><e-div-block configuration-id=\"RIA logo frame\"><e-image configuration-id=\"RIA logo\"/></e-div-block><e-div-block configuration-id=\"RA logo frame\"><e-image configuration-id=\"RA logo\"/></e-div-block></e-flexbox></e-div-block><e-div-block configuration-id=\"Why benefits grid\"><e-div-block configuration-id=\"Benefit 1\"><e-paragraph configuration-id=\"Benefit 1 number\"></e-paragraph><e-div-block configuration-id=\"Benefit 1 content\"><e-svg configuration-id=\"Benefit 1 icon\"></e-svg><e-heading configuration-id=\"Benefit 1 heading\"></e-heading><e-paragraph configuration-id=\"Benefit 1 description\"></e-paragraph></e-div-block></e-div-block><e-div-block configuration-id=\"Benefit 2\"><e-paragraph configuration-id=\"Benefit 2 number\"></e-paragraph><e-div-block configuration-id=\"Benefit 2 content\"><e-svg configuration-id=\"Benefit 2 icon\"></e-svg><e-heading configuration-id=\"Benefit 2 heading\"></e-heading><e-paragraph configuration-id=\"Benefit 2 description\"></e-paragraph></e-div-block></e-div-block><e-div-block configuration-id=\"Benefit 3\"><e-paragraph configuration-id=\"Benefit 3 number\"></e-paragraph><e-div-block configuration-id=\"Benefit 3 content\"><e-svg configuration-id=\"Benefit 3 icon\"></e-svg><e-heading configuration-id=\"Benefit 3 heading\"></e-heading><e-paragraph configuration-id=\"Benefit 3 description\"></e-paragraph></e-div-block></e-div-block><e-div-block configuration-id=\"Benefit 4\"><e-paragraph configuration-id=\"Benefit 4 number\"></e-paragraph><e-div-block configuration-id=\"Benefit 4 content\"><e-svg configuration-id=\"Benefit 4 icon\"></e-svg><e-heading configuration-id=\"Benefit 4 heading\"></e-heading><e-paragraph configuration-id=\"Benefit 4 description\"></e-paragraph></e-div-block></e-div-block></e-div-block></e-div-block></e-div-block>",
+  "element_config": {
+    "04 Why Choose GCPRO": {
+      "tag": "section"
+    },
+    "Why editorial container": {
+      "tag": "div"
+    },
+    "Why introduction column": {
+      "tag": "div"
+    },
+    "Why eyebrow": {
+      "paragraph": "05 / WHY GCPRO",
+      "tag": "p"
+    },
+    "Why editorial H2": {
+      "tag": "h2",
+      "title": "WHY CHOOSE GCPRO"
+    },
+    "Why orange accent": {},
+    "Why introduction": {
+      "paragraph": "Restoration services for homes, businesses, and properties across the Chicago area.",
+      "tag": "p"
+    },
+    "Why optional image": {
+      "image": {
+        "src": {
+          "url": "",
+          "alt": ""
+        },
+        "size": "full"
+      }
+    },
+    "IICRC logo": {
+      "image": {
+        "src": {
+          "url": "",
+          "alt": ""
+        },
+        "size": "full"
+      }
+    },
+    "IAQA logo": {
+      "image": {
+        "src": {
+          "url": "",
+          "alt": ""
+        },
+        "size": "full"
+      }
+    },
+    "BBB logo": {
+      "image": {
+        "src": {
+          "url": "",
+          "alt": ""
+        },
+        "size": "full"
+      }
+    },
+    "RIA logo": {
+      "image": {
+        "src": {
+          "url": "",
+          "alt": ""
+        },
+        "size": "full"
+      }
+    },
+    "RA logo": {
+      "image": {
+        "src": {
+          "url": "",
+          "alt": ""
+        },
+        "size": "full"
+      }
+    },
+    "Why benefits grid": {
+      "tag": "div"
+    },
+    "Benefit 1": {
+      "tag": "div"
+    },
+    "Benefit 1 number": {
+      "paragraph": "01",
+      "tag": "p"
+    },
+    "Benefit 1 content": {
+      "tag": "div"
+    },
+    "Benefit 1 icon": {
+      "svg": {
+        "id": 205,
+        "url": null
+      }
+    },
+    "Benefit 1 heading": {
+      "tag": "h3",
+      "title": "Residential &amp; Commercial"
+    },
+    "Benefit 1 description": {
+      "paragraph": "Restoration services for homes, businesses, and commercial properties.",
+      "tag": "p"
+    },
+    "Benefit 2": {
+      "tag": "div"
+    },
+    "Benefit 2 number": {
+      "paragraph": "02",
+      "tag": "p"
+    },
+    "Benefit 2 content": {
+      "tag": "div"
+    },
+    "Benefit 2 icon": {
+      "svg": {
+        "id": 206,
+        "url": null
+      }
+    },
+    "Benefit 2 heading": {
+      "tag": "h3",
+      "title": "Comprehensive Restoration"
+    },
+    "Benefit 2 description": {
+      "paragraph": "Water, fire, mold, storm damage, and reconstruction services.",
+      "tag": "p"
+    },
+    "Benefit 3": {
+      "tag": "div"
+    },
+    "Benefit 3 number": {
+      "paragraph": "03",
+      "tag": "p"
+    },
+    "Benefit 3 content": {
+      "tag": "div"
+    },
+    "Benefit 3 icon": {
+      "svg": {
+        "id": 210,
+        "url": null
+      }
+    },
+    "Benefit 3 heading": {
+      "tag": "h3",
+      "title": "Coordinated Process"
+    },
+    "Benefit 3 description": {
+      "paragraph": "From assessment to completion, we coordinate the restoration process.",
+      "tag": "p"
+    },
+    "Benefit 4": {
+      "tag": "div"
+    },
+    "Benefit 4 number": {
+      "paragraph": "04",
+      "tag": "p"
+    },
+    "Benefit 4 content": {
+      "tag": "div"
+    },
+    "Benefit 4 icon": {
+      "svg": {
+        "id": 211,
+        "url": null
+      }
+    },
+    "Benefit 4 heading": {
+      "tag": "h3",
+      "title": "Clear Communication"
+    },
+    "Benefit 4 description": {
+      "paragraph": "Project information and updates throughout the restoration process.",
+      "tag": "p"
+    },
+    "Trust logos supporting label": {
+      "paragraph": "INDUSTRY CERTIFICATIONS & AFFILIATIONS",
+      "tag": "p"
+    }
+  },
+  "style": {
+    "Why editorial container": "display: grid; gap: 40px; grid-template-columns: minmax(0,0.54fr) minmax(0,1fr); align-items: start;\n@media(--tablet) { grid-template-columns: minmax(0,1fr); }\n@media(--mobile) { gap: var(--space-lg); }\n@media(--mobile) { display: flex; flex-direction: column; gap: var(--space-md); }",
+    "Why introduction column": "max-width: 420px; display: flex; flex-direction: column; align-content: start; align-self: stretch;\n@media(--tablet) { max-width: 640px; }\n@media(--mobile) { display: contents; }",
+    "Why eyebrow": "color: var(--color-white);",
+    "Why editorial H2": "color: var(--color-white);",
+    "Why orange accent": "width: 40px; height: 3px; margin-block-start: -8px; background-color: var(--color-accent);",
+    "Why introduction": "opacity: 85%;",
+    "Why optional image": "width: 100%; height: auto; max-width: 460px; object-fit: contain; margin-block-start: auto; margin-block-end: var(--space-md); margin-inline-start: 0px; margin-inline-end: 0px; flex: 0 0 auto; &:not([src]):not(:has(img)), &[src=\"\"] { display: none; }\n@media(--tablet) { max-width: 460px; margin: 0px; }",
+    "Why benefits grid": "display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); align-items: stretch;\n@media(--mobile) { grid-template-columns: minmax(0,1fr); }\n@media(--mobile) { order: 1; margin-block-start: var(--space-xs); }",
+    "Benefit 1": "border-block-end-width: 1px; border-inline-end-width: 1px; border-bottom-style: solid; border-bottom-color: rgba(255,255,255,0.22); border-right-style: solid; border-right-color: rgba(255,255,255,0.22);\n@media(--mobile) { border-block-end-width: 1px; border-inline-end-width: 0px; border-bottom-style: solid; border-bottom-color: rgba(255,255,255,0.22); }",
+    "Benefit 1 icon": "width: 40px; height: 40px; color: var(--color-accent);",
+    "Benefit 1 description": "opacity: 85%;",
+    "Benefit 2": "border-block-end-width: 1px; border-bottom-style: solid; border-bottom-color: rgba(255,255,255,0.22);\n@media(--mobile) { border-block-end-width: 1px; border-inline-end-width: 0px; border-bottom-style: solid; border-bottom-color: rgba(255,255,255,0.22); }",
+    "Benefit 2 icon": "width: 40px; height: 40px; color: var(--color-accent);",
+    "Benefit 2 description": "opacity: 85%;",
+    "Benefit 3": "border-inline-end-width: 1px; border-right-style: solid; border-right-color: rgba(255,255,255,0.22);\n@media(--mobile) { border-block-end-width: 1px; border-inline-end-width: 0px; border-bottom-style: solid; border-bottom-color: rgba(255,255,255,0.22); }",
+    "Benefit 3 icon": "width: 40px; height: 40px; color: var(--color-accent);",
+    "Benefit 3 description": "opacity: 85%;",
+    "Benefit 4": "@media(--mobile) { border-block-end-width: 0px; border-inline-end-width: 0px; }",
+    "Benefit 4 icon": "width: 40px; height: 40px; color: var(--color-accent);",
+    "Benefit 4 description": "opacity: 85%;",
+    "Trust logos supporting label": "flex: 0 0 100%; font-family: var(--font-body); font-size: 11px; font-weight: 500; line-height: 1.5; letter-spacing: 1px; text-transform: uppercase; text-align: left; color: var(--color-surface-alternate); opacity: 0.7; margin: 0; padding: 0; cursor: default;"
+  },
+  "classes": {
+    "04 Why Choose GCPRO": [
+      "section",
+      "section--dark"
+    ],
+    "Why editorial container": [
+      "container"
+    ],
+    "Why introduction column": [
+      "layout-reset",
+      "stack"
+    ],
+    "Why eyebrow": [
+      "section-eyebrow"
+    ],
+    "Why editorial H2": [],
+    "Why orange accent": [],
+    "Why introduction": [],
+    "Why optional image": [],
+    "Trust logos media": [
+      "trust-logos"
+    ],
+    "IICRC logo frame": [
+      "trust-logo"
+    ],
+    "IICRC logo": [
+      "trust-logo__image"
+    ],
+    "IAQA logo frame": [
+      "trust-logo"
+    ],
+    "IAQA logo": [
+      "trust-logo__image"
+    ],
+    "BBB logo frame": [
+      "trust-logo"
+    ],
+    "BBB logo": [
+      "trust-logo__image"
+    ],
+    "RIA logo frame": [
+      "trust-logo"
+    ],
+    "RIA logo": [
+      "trust-logo__image"
+    ],
+    "RA logo frame": [
+      "trust-logo"
+    ],
+    "RA logo": [
+      "trust-logo__image"
+    ],
+    "Why benefits grid": [
+      "layout-reset"
+    ],
+    "Benefit 1": [
+      "why-benefit"
+    ],
+    "Benefit 1 number": [
+      "why-benefit-number"
+    ],
+    "Benefit 1 content": [
+      "layout-reset",
+      "stack",
+      "stack--compact"
+    ],
+    "Benefit 1 icon": [],
+    "Benefit 1 heading": [
+      "why-benefit-title"
+    ],
+    "Benefit 1 description": [],
+    "Benefit 2": [
+      "why-benefit"
+    ],
+    "Benefit 2 number": [
+      "why-benefit-number"
+    ],
+    "Benefit 2 content": [
+      "layout-reset",
+      "stack",
+      "stack--compact"
+    ],
+    "Benefit 2 icon": [],
+    "Benefit 2 heading": [
+      "why-benefit-title"
+    ],
+    "Benefit 2 description": [],
+    "Benefit 3": [
+      "why-benefit"
+    ],
+    "Benefit 3 number": [
+      "why-benefit-number"
+    ],
+    "Benefit 3 content": [
+      "layout-reset",
+      "stack",
+      "stack--compact"
+    ],
+    "Benefit 3 icon": [],
+    "Benefit 3 heading": [
+      "why-benefit-title"
+    ],
+    "Benefit 3 description": [],
+    "Benefit 4": [
+      "why-benefit"
+    ],
+    "Benefit 4 number": [
+      "why-benefit-number"
+    ],
+    "Benefit 4 content": [
+      "layout-reset",
+      "stack",
+      "stack--compact"
+    ],
+    "Benefit 4 icon": [],
+    "Benefit 4 heading": [
+      "why-benefit-title"
+    ],
+    "Benefit 4 description": []
+  },
+  "overridable_props": {
+    "ebd1102": {
+      "target": "Why eyebrow",
+      "prop_key": "paragraph",
+      "label": "Why eyebrow",
+      "group": "Content"
+    },
+    "62a085d4": {
+      "target": "Why editorial H2",
+      "prop_key": "title",
+      "label": "Why editorial H2",
+      "group": "Content"
+    },
+    "31a44bf8": {
+      "target": "Why introduction",
+      "prop_key": "paragraph",
+      "label": "Why introduction",
+      "group": "Content"
+    },
+    "image": {
+      "target": "Why optional image",
+      "prop_key": "image",
+      "label": "Optional image",
+      "group": "Media"
+    },
+    "trust_iicrc": {
+      "target": "IICRC logo",
+      "prop_key": "image",
+      "label": "IICRC Logo",
+      "group": "Trust Logos — clear Image to use"
+    },
+    "trust_iaqa": {
+      "target": "IAQA logo",
+      "prop_key": "image",
+      "label": "IAQA Logo",
+      "group": "Trust Logos — clear Image to use"
+    },
+    "trust_bbb": {
+      "target": "BBB logo",
+      "prop_key": "image",
+      "label": "BBB Logo",
+      "group": "Trust Logos — clear Image to use"
+    },
+    "trust_ria": {
+      "target": "RIA logo",
+      "prop_key": "image",
+      "label": "RIA Logo",
+      "group": "Trust Logos — clear Image to use"
+    },
+    "trust_ra": {
+      "target": "RA logo",
+      "prop_key": "image",
+      "label": "RA Logo",
+      "group": "Trust Logos — clear Image to use"
+    },
+    "11debea0": {
+      "target": "Benefit 1 heading",
+      "prop_key": "title",
+      "label": "Benefit 1 heading",
+      "group": "Content"
+    },
+    "46074ea9": {
+      "target": "Benefit 1 description",
+      "prop_key": "paragraph",
+      "label": "Benefit 1 description",
+      "group": "Content"
+    },
+    "74658ef6": {
+      "target": "Benefit 2 heading",
+      "prop_key": "title",
+      "label": "Benefit 2 heading",
+      "group": "Content"
+    },
+    "2195b550": {
+      "target": "Benefit 2 description",
+      "prop_key": "paragraph",
+      "label": "Benefit 2 description",
+      "group": "Content"
+    },
+    "133bbae9": {
+      "target": "Benefit 3 heading",
+      "prop_key": "title",
+      "label": "Benefit 3 heading",
+      "group": "Content"
+    },
+    "44c64cc8": {
+      "target": "Benefit 3 description",
+      "prop_key": "paragraph",
+      "label": "Benefit 3 description",
+      "group": "Content"
+    },
+    "49c6ac5f": {
+      "target": "Benefit 4 heading",
+      "prop_key": "title",
+      "label": "Benefit 4 heading",
+      "group": "Content"
+    },
+    "65cfbe6e": {
+      "target": "Benefit 4 description",
+      "prop_key": "paragraph",
+      "label": "Benefit 4 description",
+      "group": "Content"
+    }
+  }
+}
