@@ -131,6 +131,29 @@ The owner reports that the contact form in the **legacy site footer** contains a
 
 **Status:** Planned review / recommendations only; exact legal obligations and approved policy text require company-specific verification. No plugin installation, page change, or production action authorized here.
 
+## Competitor footer reference — Paul Davis (owner screenshot, 2026-10-21)
+
+**Status: design and US-readiness research reference only, NOT approval to copy or implement.** Owner supplied a screenshot of a Paul Davis Restoration website footer; the following observations reflect only visible screenshot content, not a verified site-function audit.
+
+**Visible elements in screenshot:**
+- Black high-contrast footer with prominent gold/white brand logo at top, generous spacing, four information groups: **Services** (Residential Restoration, Commercial Restoration, Assign A Claim); **About** (Why Paul Davis, Careers); **Social Media** (several social platform icons); **Emergency Help** (prominent telephone), plus **Location** (street address).
+- Lower divider and copyright/legal links: **Disclaimer**, **Privacy Policy**, **Terms of Use**, and a franchise-specific independence statement. Additional **GSA Contract Holder** badge and **Do Not Sell My Personal Information** link appear below; these are not claims or badges to reproduce for GC PRO without eligibility.
+- Expandable-looking **Service Area** row with a plus icon; appearance alone does not establish exact interaction, accessibility, coverage or SEO implementation.
+- Bottom **cookie notice** mentioning essential cookies, third-party analytics and targeted advertising, with Privacy Policy and Terms links, and dismiss control; screenshot alone cannot confirm consent choices, script blocking or legal adequacy.
+- Floating customer-help/chat widget at bottom right; verify value, vendor, cost, privacy, interference with mobile actions and accessibility before considering.
+
+**GC PRO design decisions for later UX review:**
+1. Develop a well-spaced, scannable branded footer with semantic navigation groups (actual Residential/Commercial service hubs, About, relevant links), a prominent **24/7/emergency contact** path without unverified response-time promises, verified company location and working click-to-call/directions, and only real social accounts.
+2. Keep **Privacy Policy** mandatory; review **Terms & Conditions/Use**, SMS program terms, disclaimer and any state-specific privacy opt-out rights against actual business practices; do not copy competitor legal text or franchise-specific language.
+3. Review a concise service-area listing or accessible accordion with verified served places and meaningful links (avoid keyword-stuffed city link farms); evaluate location/navigation on mobile.
+4. Consider approved BBB/accreditation, certifications and awards in restrained trust presentation, cross-referencing the trust backlog above; do not copy third-party badges without verification/license.
+5. Audit cookies and tracking first; if needed, implement functional consent/preferences rather than an ornamental dismiss-only banner. Research applicable law for actual visitor/data scope; the competitor's banner is not a legal template.
+6. Evaluate whether a chatbot is necessary given RingCentral/contact forms and existing communication channels; avoid duplicate floating widgets covering footer links or accessibility controls.
+7. Accessibility: keyboard nav, focus order, semantic footer landmarks, contrast, mobile layouts, legible legal text, cookie-control operability, non-overlapping fixed widgets, proper button/accordion semantics.
+8. Preserve the documented **RingCentral SMS checkbox/disclosure** requirements for any footer or other SMS-intended phone collection forms; do not automatically replicate the old contact form without considering conversion layout and consent needs.
+
+**Next-stage action:** Work should inventory the current GCPRO footer, current/legacy legal links and contact forms before proposing footer designs. Compare options to the reference, verify all claims and legal needs, prepare a concise UX proposal and seek owner approval. **No live/staging edits or plugin installs authorized.**
+
 ## Next steps
 
 1. Confirm Work's new SEO research files and assess their provenance, completeness, and cross-page intent overlap.
