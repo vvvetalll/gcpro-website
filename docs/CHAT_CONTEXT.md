@@ -162,6 +162,14 @@ Check the present footer before making changes; avoid unnecessary new sections, 
 
 **Next-stage action:** Work should inventory the current GCPRO footer, current/legacy legal links and contact forms before proposing footer designs. Compare options to the reference, verify all claims and legal needs, prepare a concise UX proposal and seek owner approval. **No live/staging edits or plugin installs authorized.**
 
+## Owner priority — intuitive navigation must not be sacrificed for SEO (2026-10-21)
+
+**Approved design principle:** Preserve a coherent, easy-to-understand customer-first information architecture. Distinguish **visible navigation/menu taxonomy** (Residential and Commercial service selection) from **SEO target page ownership and URL strategy** (audience-neutral versus audience-specific landing pages). These can be different layers. Do not let search volume or keyword clustering alone force an illogical menu, flatten the audience choices, or add misleading duplicates.
+
+Illustrative navigation preference: Residential → Water, Fire/Smoke, Mold, Storm, Reconstruction, Personal Property; Commercial → Water, Fire/Smoke, Mold, Reconstruction, General Contracting, Personal Property, consistent with verified actual offerings. Menu labels need not duplicate final target URL structures. Multiple menu entries may sometimes link to a shared, useful neutral specialist page, but only if that destination clearly serves the selected audience and does not mislead. Distinct Commercial specialist pages may remain when audience/task and content are materially different. Avoid creating separate pages solely to make a menu symmetrical, but avoid artificial asymmetry or confusing clicks for users.
+
+**Next review before any change:** Prepare a side-by-side NAVIGATION MAP versus SEO KEYWORD/URL OWNERSHIP MAP, with concrete destinations and example customer journeys. Identify menu entries that share a destination, change audience context, or point to an unapproved URL. Owner must approve UX architecture, link destinations and SEO mapping together. Existing menu, pages and URLs remain unchanged until then.
+
 ## Next steps
 
 1. Confirm Work's new SEO research files and assess their provenance, completeness, and cross-page intent overlap.
