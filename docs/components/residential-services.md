@@ -1,5 +1,7 @@
 # Residential Services — E77, 2026-10-21
 
+**Current,2026-10-22:** The page-owned Hero described below has been replaced by a complete instance of [GCPRO — Shared Hero1318](shared-hero.md), using a native Image and independent content/link Overrides. Earlier Hero element IDs, slider instructions and layout descriptions below are historical. Other page sections and BEAF galleries are preserved.
+
 **E83:** Results cards25d5b401/14e979f now use the shared [approved A design](before-after.md#e83--approved-a-card-design-2026-10-21), matching Home/gallery. Two caption divs group the original headings/paragraphs;723/742 captions now identical to Home with City, IL in titles only. Hero, service-card buttons and Solid Blue assessment CTA remain unchanged.
 
 ## E81/E82 — image and contextual CTA

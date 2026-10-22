@@ -1,5 +1,7 @@
 # Current main Hero — approved split layout with BEAF
 
+**Current,2026-10-22:** The page-owned Hero described below has been replaced by a complete instance of [GCPRO — Shared Hero1318](shared-hero.md), using a native Image and independent content/link Overrides. Earlier Hero element IDs, slider instructions and layout descriptions below are historical. Other page sections and BEAF galleries are preserved.
+
 E70–E71, 2026-10-20. Implemented/published only on https://vitaliiv1.sg-host.com. Owner first approved Concept B as main, requested removal of old background code, then explicitly requested the first existing BEAF comparison in the CURRENT main Hero. No duplicate Hero or new experiment created by E71. Production untouched.
 
 ## Exact Elementor storage

@@ -40,4 +40,4 @@ Every meaningful component change must update its record: purpose; page/template
 
 2026-10-22 Trust Logos: [current shared1149 media,classes,label,mobile order,hover,verification limits and rollback](why-gcpro.md). This record supersedes earlier Why media descriptions.
 
-- [Shared Hero native-media blocker and restored state](shared-hero.md) — migration not completed; unused prototypes must not be placed.
+- [GCPRO — Shared Hero](shared-hero.md) — complete native Atomic Hero1318 on Home, Residential, Commercial and Water; native Image and eight independent Overrides. Includes Water editor initialization and historical BEAF limitations.
