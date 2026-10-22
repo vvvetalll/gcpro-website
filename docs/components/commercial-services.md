@@ -1,5 +1,7 @@
 # Commercial Services hub — E84
 
+**Current FAQ,2026-10-22:** Entire FAQ is now one native instance23108d4b of1354 **GCPRO — Service Questions**, the shared premium two-column FAQ. Old page-owned2d0e4796 and its three83 groups are replaced. Existing eyebrow/H2/introduction and six commercial Q&A remain independent through15 Overrides; no Water wording was copied into this page. Non-FAQ trees compare unchanged after entity normalization.1440/393px rendered checks confirm six items, correct responsive layout and no overflow. [Current architecture and checks](water-damage.md#premium-faq-rollout-and-beaf-assessment--2026-10-22).
+
 **Current,2026-10-22:** The page-owned Hero described below has been replaced by a complete instance of [GCPRO — Shared Hero1318](shared-hero.md), using a native Image and independent content/link Overrides. Earlier Hero element IDs, slider instructions and layout descriptions below are historical. Other page sections and BEAF galleries are preserved.
 
 **2026-10-21 (America/Chicago) — Global H1 and lead-text sizing:** Owner requested smaller H1 and subtitle text across staging, especially mobile. Existing `font-size-h1` Variable e-gv-7040e3b now uses `clamp(1.75rem, 1.25rem + 1.5vw, 2.25rem)` (28–36px); existing `font-size-lead` e-gv-e397804 uses `clamp(0.9375rem, 0.875rem + 0.2vw, 1rem)` (15–16px). Native global owners retained; temporary Commercial499 local font-size/line-height overrides removed, original white local color retained. No new classes, components or custom code; no new Variables/plugins/dependencies. Authenticated frontend checks at exact360/1440px on Home154, Residential484 and Commercial499 confirm28/36px H1,15/16px lead and no horizontal document overflow. Other inherited consumers receive the shared token changes; no exhaustive all-page/local-override audit or production validation claimed. Heading tags, uppercase, wording and links preserved. Rollback: restore prior H1 `clamp(2.5rem, 1.75rem + 3vw, 3rem)` and lead `clamp(1.125rem, 1rem + 0.5vw, 1.25rem)` in the same Variables. The earlier Why-image documentation synchronization remains separately pending after the owner stopped that workflow.
@@ -32,10 +34,7 @@ The approved Residential484 composition was reused only as a visual foundation: 
 | 028a276e | Component71 | Commercial Results Heading |
 | c16e5fe2 | Component59 | Commercial Before & After Gallery Link |
 | 70bf6706 | Component1140 | Commercial Shared Service Areas |
-| 2304eb1f | Component71 | Commercial FAQ Heading |
-| 97c50691 | Component83 | Commercial FAQ Group 1 |
-| 6b4c6974 | Component83 | Commercial FAQ Group 2 |
-| 692a2dce | Component83 | Commercial FAQ Group 3 |
+| 23108d4b | Component1354 | Whole premium Commercial FAQ,15 independent Overrides |
 | ca0c81da | Component80 | 09 Commercial Emergency CTA |
 | 9b859891 | Native page node | Commercial Services Page |
 | 7b3ebc13 | Native page node | Commercial H1 |
@@ -51,7 +50,7 @@ The approved Residential484 composition was reused only as a visual foundation: 
 | 7cbd5010 | Native page node | Commercial Entrance Result Title |
 | 5c88e365 | Native page node | Commercial Entrance Result Description |
 
-The parent is the Page499 root; its nine section children are Hero, Services, Property Needs77, Process1152, Why1149, Results, Service Areas1140, FAQ and Final80. Service grid holds six62 instances with SVG596/597/607/599/207/601 and native Page515/520/519/524/522/525 links. Hero mark286/Call53/Request103 and Final80 retain telephone/Request492. Results59 links native493; Areas retains12 existing native city objects, directory495 and availability492. FAQ is three83 instances, two questions each, native details/summary and no FAQ schema emitter.
+The parent is the Page499 root; its nine section children are Hero, Services, Property Needs77, Process1152, Why1149, Results, Service Areas1140, FAQ and Final80. Service grid holds six62 instances with SVG596/597/607/599/207/601 and native Page515/520/519/524/522/525 links. Hero mark286/Call53/Request103 and Final80 retain telephone/Request492. Results59 links native493; Areas retains12 existing native city objects, directory495 and availability492. FAQ is one full-section1354 instance with six native details/summary items,15 independent content Overrides and no FAQ schema emitter.
 
 ## Styles, code and dependencies
 

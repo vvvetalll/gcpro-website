@@ -1,5 +1,7 @@
 # Residential Services — E77, 2026-10-21
 
+**Current FAQ,2026-10-22:** Entire FAQ is now one native instance6d2785b6 of1354 **GCPRO — Service Questions**, the shared premium two-column FAQ. Previous page-owned564749dd and its three83 groups are replaced. Existing eyebrow/H2/introduction and all six residential Q&A are preserved through15 independent Overrides. Non-FAQ content/media/links compare unchanged after entity normalization.1440/393px rendered checks: six native details, correct responsive columns, no overflow. Shared83 and every other section definition remain untouched. [Current architecture and verification](water-damage.md#premium-faq-rollout-and-beaf-assessment--2026-10-22). Older FAQ locators/descriptions below are historical.
+
 **Current,2026-10-22:** The page-owned Hero described below has been replaced by a complete instance of [GCPRO — Shared Hero1318](shared-hero.md), using a native Image and independent content/link Overrides. Earlier Hero element IDs, slider instructions and layout descriptions below are historical. Other page sections and BEAF galleries are preserved.
 
 **E83:** Results cards25d5b401/14e979f now use the shared [approved A design](before-after.md#e83--approved-a-card-design-2026-10-21), matching Home/gallery. Two caption divs group the original headings/paragraphs;723/742 captions now identical to Home with City, IL in titles only. Hero, service-card buttons and Solid Blue assessment CTA remain unchanged.
@@ -26,7 +28,7 @@ Full Residential visible copy, H1, intros,8 H2/16 H3, six service cards, four pr
 | 04 / WHY GCPRO | Page484 shared1149 instance225936ef, existing ebd1102 eyebrow Override |
 | 05 / REAL RESULTS | Page484 Section Heading71 instance5cd7bb8a |
 | 06 / LOCAL COVERAGE | Page484 shared1140 instance5ced3ca1, existing eyebrow Override |
-| 07 / HOMEOWNER QUESTIONS | Page484 Section Heading71 instance44dce85e |
+| 07 / HOMEOWNER QUESTIONS | Page484 whole FAQ6d2785b6 →1354, forwarded heading Overrides |
 
 Hero retains its single uppercase H1. Final conversion CTA80 retains the approved shared Homepage format and animation; it is separate from the numbered content sequence. All H2/H3 titles, descriptions, images, links, service/project/FAQ content and layouts are preserved.
 
@@ -61,7 +63,7 @@ Page484 → main **b1c1ff0**, 52 saved native nodes, nine sections. Elementor Fu
 | Why homeowners choose GCPRO | instance225936ef → **1149** | Source-copy of Homepage5b2c6d3c; same navy editorial split/four benefits/dividers/icons; residential headings/copy overridden |
 | Real restoration results | 264c58b4; two native Shortcodes | Original `[bafg id="723"]` and `[bafg id="742"]`; same vendor comparison presentation and approved descriptions; View All Projects→1132 |
 | Service Areas | instance5ced3ca1 → **1140** | Original Homepage7d8c17ad design:12 city rows, native3/2/1 grid, shared arrow/divider/focus classes; residential intro overrides |
-| FAQ | 564749dd; three existing FAQ Group83 instances | Six native details/summary questions; supported copy overrides; schema remains off |
+| FAQ |6d2785b6 →1354 | Whole shared premium section; six native details/summary questions,15 Overrides; schema remains off |
 | Final emergency CTA | 728c4896 → existing **80** | Residential copy, call phone and native Request492; same shared video/background/radius/responsive behavior |
 
 Homepage now references **6d0939b9→1152**, **60cdf058→1149**, **10feca9e→1140** in the original section positions. All other Homepage child subtrees are byte-for-byte unchanged, including Hero, Core B, BEAF results, emergency support and testimonials. Header113/Footer114 trees and page settings are byte-for-byte unchanged.
