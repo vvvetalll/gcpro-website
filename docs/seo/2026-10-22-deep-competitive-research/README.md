@@ -34,3 +34,9 @@ Home 154 should retain broad Chicago property-restoration positioning and concis
 * GCPRO’s US estimate is only 20, dominated by the brand query. A Bridgeport keyword is attributed to a Bridgeview URL: investigate geographic intent before repeating city templates.
 
 These are Ahrefs estimates or localized observations, not revenue forecasts. Details and source report URLs are retained in the CSVs. The 30-day plan is an implementation proposal, not authorization to execute it.
+
+## Completion and readable source data
+
+The four previously missing deliverables are now present. `KEYWORD_INTENT_GCPRO_MATRIX.csv` contains917 source-linked interpretation rows (599 Organic Keywords +188 Content Gap +130 SERP); rows deliberately preserve repeated keywords and different measurement bases. Do not sum their volumes. Blank proposed URLs mean no new route is assigned. HOLD/deferred rows are excluded from implementation, not silently discarded. KD remains a reported snapshot; no current-rank normalization was invented.
+
+All original CSVs and five evidence JSON files have been restored as individual files. [AHREFS_SCOPE_METRICS.csv](AHREFS_SCOPE_METRICS.csv) contains12 target scopes. [SAVE_STATUS.md](SAVE_STATUS.md) records archive validation and completion boundaries. Original archive and earlier documents are preserved. The recommendation resolves the earlier draft in favor of improving existing routes; it does not approve implementation.

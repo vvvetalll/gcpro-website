@@ -1,0 +1,12 @@
+{
+  "serp_queries": 13,
+  "top10_rows": 130,
+  "public_fetch_attempts": 284,
+  "http_200_attempts": 239,
+  "unique_page_records": 212,
+  "ahrefs_keyword_rows": 599,
+  "ahrefs_top_page_rows": 163,
+  "content_gap_rows": 188,
+  "observed_architecture_edges": 17212,
+  "limitations": "Not a full site crawl; no independent certification, review authenticity, equipment ownership or lead-volume verification. Lost/comparison ranks preserved; no universal Chicago ranks."
+}
