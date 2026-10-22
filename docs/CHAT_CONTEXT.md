@@ -152,6 +152,14 @@ The owner reports that the contact form in the **legacy site footer** contains a
 7. Accessibility: keyboard nav, focus order, semantic footer landmarks, contrast, mobile layouts, legible legal text, cookie-control operability, non-overlapping fixed widgets, proper button/accordion semantics.
 8. Preserve the documented **RingCentral SMS checkbox/disclosure** requirements for any footer or other SMS-intended phone collection forms; do not automatically replicate the old contact form without considering conversion layout and consent needs.
 
+### Owner clarification — keep current footer design (2026-10-21)
+
+**Approved direction:** The existing GC PRO footer layout/design is satisfactory and should be **preserved**. The Paul Davis screenshot is **not** authorization for a footer redesign or reorganization. For a later explicitly approved implementation pass, only add or refine the relevant **micro-links, legal/privacy details, consent notices, and small functional touches** while respecting the established footer layout, component ownership and responsive behavior.
+
+Candidate micro-links, subject to verification: Privacy Policy (mandatory), suitable Terms/SMS terms, any applicable accessibility statement, relevant disclaimer, legally applicable privacy-choice link, existing verified service-area/navigation links and trust badge verification destination. Assess cookie controls based on actual tracking, and ensure SMS forms retain RingCentral-compliant disclosure/opt-in. Do not add competitor-specific badges, franchise notices, GSA claims or irrelevant links.
+
+Check the present footer before making changes; avoid unnecessary new sections, components, CSS or plugins. No website edit is authorized by this note alone.
+
 **Next-stage action:** Work should inventory the current GCPRO footer, current/legacy legal links and contact forms before proposing footer designs. Compare options to the reference, verify all claims and legal needs, prepare a concise UX proposal and seek owner approval. **No live/staging edits or plugin installs authorized.**
 
 ## Next steps
