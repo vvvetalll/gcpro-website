@@ -95,6 +95,17 @@ The owner reports that the contact form in the **legacy site footer** contains a
 
 **Action item:** In the next form/footer UX planning pass, audit all current and proposed forms for SMS consent and document shared reusable form requirements; obtain owner approval before any implementation.
 
+## Mandatory Privacy Policy page — owner requirement (2026-10-21)
+
+**Status: REQUIRED for the redesigned GC PRO website; not yet authorized for implementation.**
+
+- The new website must include a dedicated, publicly accessible **Privacy Policy** page with a stable URL and a clearly visible link in the global Footer.
+- Every applicable contact, Request Service, emergency, quote, and other personal-data collection form must have a working, appropriately placed Privacy Policy link. SMS-related forms must additionally comply with the RingCentral SMS opt-in requirements documented above; a Privacy Policy link alone does not establish SMS consent.
+- Review and update policy content for the *actual* site data collection, contact forms, analytics/cookies, service providers, retention and rights practices; include SMS/RingCentral disclosures as applicable, and any relevant Terms links required by the messaging program.
+- Check existing legacy legal pages/URLs and migration/redirect considerations so the policy remains accessible during launch. Test desktop/mobile links and forms.
+- Do not copy generic or competitor legal language blindly or assert legal sufficiency without appropriate review. Request owner/legal approval of final policy text and provider-specific SMS wording.
+- During page and footer implementation planning, include the policy in navigation/footer UX and the release checklist. No WordPress changes authorized by this documentation entry alone.
+
 ## Next steps
 
 1. Confirm Work's new SEO research files and assess their provenance, completeness, and cross-page intent overlap.
