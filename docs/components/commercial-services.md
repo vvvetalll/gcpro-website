@@ -69,3 +69,6 @@ Private pre-task `work/e84-before-499.json` records the existing blank body, def
 
 
 2026-10-22 Trust Logos: [current shared1149 media,classes,label,mobile order,hover,verification limits and rollback](why-gcpro.md). This record supersedes earlier Why media descriptions.
+
+
+2026-10-22 — Homepage Commercial audience card link fixed: Page154 anchor2066a26 now uses native Elementor Dynamic Tags → Internal URL → Post → Page499 instead of #. Existing Residential4c8810dc → Page484 already uses the same native object binding and remains unchanged. Entire Commercial card links to published /commercial-services/; real browser click reached its expected Commercial H1. Only the destination setting changed; no menu,layout,SEO,classes,Variables,Components,code,assets or dependencies changed. No responsive geometry changed. Rollback:restore only2066a26 destination from private task backup; prior# was an unresolved placeholder,not a working link.
