@@ -2,7 +2,7 @@
 /**
  * Plugin Name: GCPRO Atomic Masked Image
  * Description: Independently editable photo and SVG mask for Elementor Atomic.
- * Version: 0.2.1
+ * Version: 0.3.0
  * Requires Plugins: elementor
  */
 if ( ! defined( 'ABSPATH' ) ) { exit; }

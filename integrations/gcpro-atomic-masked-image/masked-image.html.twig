@@ -1,16 +1,13 @@
 {% import 'elementor/macros' as m %}
 <div class="{{ settings.classes | join(' ') }}" data-interaction-id="{{ interaction_id }}" style="position:relative;isolation:isolate;width:100%;aspect-ratio:4/3;min-width:0;">
- {% if settings.mask_mode == 'svg' and settings.background_svg.src is not empty %}
- <img src="{{ settings.background_svg.src | e('full_url') }}" alt="" aria-hidden="true" style="position:absolute;inset:-5%;width:110%;max-width:none;height:110%;object-fit:contain;pointer-events:none;z-index:0;" />
+ {% if settings.mask_mode == 'svg' and settings.mask.src is not empty %}
+ <img src="{{ settings.mask.src | e('full_url') }}" alt="" aria-hidden="true" style="position:absolute;inset:-5%;width:110%;max-width:none;height:110%;object-fit:contain;pointer-events:none;z-index:0;" />
  {% endif %}
  <img
  {%- for attr, value in settings.photo -%}
   {%- if attr == 'src' %} src="{{ value | e('full_url') }}"
   {%- else %} {{ attr | e('html_attr') }}="{{ value }}"{% endif -%}
  {%- endfor %}
- style="position:relative;z-index:2;display:block;width:100%;height:100%;object-fit:{{ settings.fit | default('cover') }};object-position:{{ settings.focal_x | default(50) }}% {{ settings.focal_y | default(50) }}%;{% if settings.mask_mode == 'svg' and settings.mask.src is not empty %}mask-image:url('{{ settings.mask.src | e('full_url') }}');-webkit-mask-image:url('{{ settings.mask.src | e('full_url') }}');mask-size:contain;-webkit-mask-size:contain;mask-position:center;-webkit-mask-position:center;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-mode:alpha;{% endif %}"
+ style="position:relative;z-index:2;display:block;width:100%;height:100%;object-fit:{{ settings.fit | default('cover') }};object-position:{{ settings.focal_x | default(50) }}% {{ settings.focal_y | default(50) }}%;{% if settings.mask_mode == 'svg' and settings.mask.src is not empty %}mask-image:url('{{ settings.mask.src | e('full_url') }}#photo-mask');-webkit-mask-image:url('{{ settings.mask.src | e('full_url') }}#photo-mask');mask-size:contain;-webkit-mask-size:contain;mask-position:center;-webkit-mask-position:center;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat;mask-mode:alpha;{% endif %}"
  />
- {% if settings.mask_mode == 'svg' and settings.accent_svg.src is not empty %}
- <img src="{{ settings.accent_svg.src | e('full_url') }}" alt="" aria-hidden="true" style="position:absolute;inset:-5%;width:110%;max-width:none;height:110%;object-fit:contain;pointer-events:none;z-index:1;" />
- {% endif %}
 </div>
