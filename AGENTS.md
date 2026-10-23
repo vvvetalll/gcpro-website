@@ -39,6 +39,10 @@ Avoid hidden CSS, JavaScript, HTML-widget workarounds, fragile selectors, direct
 
 Discover actual connector capabilities and schemas. Tool presence is not a successful staging test. Read fresh structure before changes and after saves; never reuse stale element trees after another write. Do not infer IDs from labels or copy IDs between installations.
 
+## Permanent CTA card presentation — owner instruction, 2026-10-23
+
+Until the owner explicitly requests otherwise, create and refine GCPRO CTA sections as **inset cards**, using the approved Home mid-page Emergency Restoration Support CTA as the visual reference. Preserve visible side gutters and rounded corners on mobile; do not let the colored/video panel become an edge-to-edge strip. Reuse existing native containers, classes, Variables and supported shared Components. Keep purpose-appropriate height and content: a final CTA may remain larger than a compact mid-page CTA. Preserve CTA text, native destinations, responsive stacking, readable overlay and motion fallback. This rule does not authorize an automatic site-wide rollout to existing pages.
+
 ## Purpose-based CTA hierarchy
 
 For all future pages evaluate both action purpose and full-page visual context: section background/layout, preceding/following sections, nearby similar buttons, overall hierarchy and rhythm. Use existing53 Solid Orange for principal conversions,100 Orange Outline for supporting enquiries, contextual Solid Blue56 styling when repetition warrants it (as explicitly approved for Residential assessment), and59 Blue Outline for navigation. Ask the owner before implementing when variants seem equally suitable or hierarchy could be disrupted. Avoid competing primary actions in one content section. Preserve native destinations, component geometry, hover and keyboard focus. No new button components/classes/local CSS for a variant swap. Follow docs/DESIGN_SYSTEM.md; verify contrast on the actual surface and report inherited accessibility limits honestly. For a small approved style correction, apply the existing variant directly and perform a short targeted check; do not expand it into a redesign or unrelated audit.
