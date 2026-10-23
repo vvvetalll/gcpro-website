@@ -1,5 +1,15 @@
 # Before / After
 
+**2026-10-23 — five owner-supplied photo pairs added:** Gallery493 retains all15 existing cards and appends five new native BEAF records with the established ba-card/caption/title classes. Ten optimized WebP photos, each4:3 (kitchen/bathroom/roof/exterior1200x900; attic800x600), semantic filenames and Media Library title/caption/description/alt plus BEAF alt fields. Photo order explicitly follows observed before/after conditions. Existing sliders/assets/plugin files and other galleries unchanged. Native WP editor created the slider records; existing page tree appended through WP REST because legacy Shortcode creation is not supported by Atomic MCP, followed by a native grid save for render-cache invalidation. No new CSS/classes/components/plugins.
+
+- BEAF1591 — Kitchen Reconstruction — Oak Park, IL; before/after media 1579/1581.
+- BEAF1595 — Bathroom Reconstruction — Oak Brook, IL; before/after media 1582/1583.
+- BEAF1596 — Attic Mold Removal — Lombard, IL; before/after media 1584/1585.
+- BEAF1597 — Exterior Masonry Repair; before/after media 1586/1587.
+- BEAF1600 — Exterior Fire Damage Restoration — Tinley Park, IL; before/after media 1588/1589.
+
+Oak Park and Oak Brook supplied by the owner. Lombard is an owner-requested label and is not independently verified. Masonry city remains omitted rather than fabricated. Tinley Park uses the owner-supplied location; fire damage is visible in the before photograph. No certification, timing or safety outcome claims added. Native frontend preview confirmed20 cards and both correct, loaded WebP images on all five additions. No exhaustive slider/fullscreen/device tests; owner final visual acceptance. Previous Gallery493 body snapshot retained privately as work/new-ba-gallery-before-final.json. Recovery: remove only the five appended cards; new native BEAF records/media can be retained for reuse.
+
 **2026-10-23 — caption consistency:** Commercial499 already matches Residential484's approved two-column native BA-card/caption presentation; fresh saved and responsive browser comparison confirmed it without rebuilding. Water514 now adds the same existing native caption/title classes under current1198/742, with verified Gallery/Residential copy and no invented bathroom location. Home/gallery/plugin records/assets/shared classes unchanged. [Exact added nodes, source copy, verification and recovery](water-damage.md#2026-10-23--approved-project-captions).
 
 
