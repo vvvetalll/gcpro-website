@@ -1,5 +1,7 @@
 # Final CTA and video experiment
 
+**2026-10-22 — compact Home consumer:** Home Emergency Restoration Support section6cde656f now uses native panel1c4978f9 with the existing cta-panel semantic hook, reusing847's actual846 video/masking/opacity/motion fallback. Its219px desktop card is shorter than the original267.578px final panel; original80, its Home instance, styles and847 code remain unchanged. Native outer-frame clipping preserves rounded mobile corners without altering the existing final-CTA media rules. [Current layout, owners, preservation checks and existing Request # limitation](emergency-response.md). This is reuse of the existing staging mechanism, not a newly installed video renderer.
+
 **E77 current:** CTA80 is shared unchanged design/content Overrides. Native panel5ec4592 now owns8px radius, obsolete Homepage local rule removed. Existing847 is Entire site, semantic .cta-panel initialization, same original video/mobile/reduced-motion behavior; no duplicated script. Earlier Homepage-only experiment notes below are historical. [Current exact locations and checks](residential-services.md).
 
 Native Component80 supplies reusable copy/actions. **A separate live Custom Code experiment847 modifies its rendered instance.** Absence of a saved video widget does not mean absence of a runtime video.
