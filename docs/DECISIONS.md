@@ -1,5 +1,8 @@
 # GCPRO decisions
 
+**Accepted owner iconography decision,2026-10-23:** Standardize future GCPRO icon selection on **Flaticon Uicons Regular Rounded (fi-rr)**, minimal geometric outline with one clear idea and32–48px readability. Comments is the selected fourth Why icon. New icon selections/downloads still require their own approval; do not force an incorrect Mold substitute or mix families. Owner reports the four Why assets already applied; this session is research/documentation only. [Authoritative rule](DESIGN_SYSTEM.md#approved-icon-family--flaticon-uicons-regular-rounded) · [registry/status](ICONOGRAPHY.md).
+
+
 Decisions below are adopted on 2026-10-16 for this documentation system, based on the user's initialization requirements and the inspected shared source. They do not establish historical implementation dates. Append a superseding decision when a material choice changes.
 
 | ID | Status | Decision and reason | Consequence / review trigger |

@@ -1,5 +1,8 @@
 # Component maintenance index
 
+**Iconography standard,2026-10-23:** Future component/page icons use approved Flaticon Uicons Regular Rounded. Read [the registry and approval workflow](../ICONOGRAPHY.md); the fourth Why selection is Comments, not Comment-check.
+
+
 E84: [Commercial Services](commercial-services.md) now reuses the approved nine-section composition with commercial-specific Overrides and native AIOSEO; shared definitions and other pages untouched.
 
 E83: [BA card A](before-after.md#e83--approved-a-card-design-2026-10-21) is the shared20-card presentation across Home/Residential/gallery, with three native classes and unified captions; no new library Component or code.

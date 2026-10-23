@@ -1,5 +1,8 @@
 # Why GCPRO — shared section and certifications
 
+**2026-10-23 — owner-selected icon direction:** The owner approved **Flaticon Uicons Regular Rounded** and reported applying **House-building / Shield-check / Diagram-project / Comments**. Comments supersedes Comment-check. This research/documentation session made no component/page/media edits and did not independently re-inventory the new SVG attachment IDs; historical IDs below must not be assumed current. Future changes must follow [ICONOGRAPHY](../ICONOGRAPHY.md) and the [approved style rule](../DESIGN_SYSTEM.md#approved-icon-family--flaticon-uicons-regular-rounded), retaining native per-instance Overrides and verifying real SVG paint before rollout.
+
+
 ## Benefit icon editing — 2026-10-23 UTC
 
 Component **1149, GCPRO / Why Choose Section**, remains the single shared owner. Its four benefit icons are native Atomic **e-svg** elements, rendered as inline SVG from WordPress media attachments; they are not text glyphs or Atomic Images. Current consumers include Home154/60cdf058, Residential484/225936ef, Commercial499/94c4cddb and Water514/43194cd8.

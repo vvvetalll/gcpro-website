@@ -1,5 +1,21 @@
 # GCPRO design system
 
+## Approved icon family — Flaticon Uicons Regular Rounded
+
+**Accepted owner direction,2026-10-23:** Use **Flaticon Uicons — Regular Rounded** for future GCPRO website icon research and selection, across shared components, service pages, process/trust and audience/partner sections. Native style identifier **fi-rr**; author/publisher **Flaticon / Uicons**. [Browse this exact style](https://www.flaticon.com/icon-fonts-most-downloaded?weight=regular&corner=rounded&type=uicon).
+
+- Minimal geometric outline, one immediately recognizable idea per icon; few internal lines, consistent apparent line weight/proportions and rounded corners.
+- Target32–48px (normally40–48px); verify actual readability at32px and on both navy and white backgrounds. Reuse existing GCPRO orange/navy/white tokens and native SVG color controls; do not introduce a parallel palette.
+- Select the **Regular + Rounded** variant every time. Do not mix Bold, Solid, Thin, Straight, other authors or decorative packs without a separately approved exception. A similar name or same author does not prove a style match.
+- Reject decorative scenes, gradients, shadows, cartoon/fill illustrations, multiple badges and tiny architectural detail. Some expanded SVG paths legitimately use fill to draw an outline: inspect the rendered silhouette instead of blanket `fill:none` or assuming that every SVG uses strokes.
+- Prefer individual recolorable SVG files after owner approval; this decision does not authorize downloading assets, installing an icon font/CDN/npm package, altering existing icons or adding dependencies. Preserve native visual editability and existing component Overrides.
+- Before each selection, open the actual icon page, verify `fi-rr`, the exact shape, SVG availability and applicable license. Use the owner's authenticated Premium account; do not restrict research to free-only items, but do not mislabel a free Uicon as Premium-only.
+- Preview and obtain approval for new selections before download or implementation. An unresolved concept remains a documented gap; do not silently substitute a different family or a scientifically incorrect symbol.
+- Verify exported SVG paint/currentColor in this installed Atomic renderer before rollout. Existing native e-svg normalization has historical compatibility limitations; do not assume the original outline will survive. Reuse existing documented controls, not a new blanket CSS rule.
+
+The four Why selections, remaining candidates, license notes and status are maintained in [ICONOGRAPHY.md](ICONOGRAPHY.md). This is the authoritative style rule; candidate lists do not imply installation.
+
+
 ## Permanent CTA card presentation — owner instruction, 2026-10-23
 
 Until the owner explicitly requests otherwise, create and refine GCPRO CTA sections as **inset cards**, using the approved Home mid-page Emergency Restoration Support CTA as the visual reference. Preserve visible side gutters and rounded corners on mobile; do not let the colored/video panel become an edge-to-edge strip. Reuse existing native containers, classes, Variables and supported shared Components. Keep purpose-appropriate height and content: a final CTA may remain larger than a compact mid-page CTA. Preserve CTA text, native destinations, responsive stacking, readable overlay and motion fallback. The owner explicitly authorized the shared CTA rollout on2026-10-23. Existing Final CTA80 now supplies this card presentation to all its consumers; reuse it on future pages. Mobile section gutters20px, exterior vertical space24px, native outer radius8px/overflow hidden and stacked full-width actions. Desktop composition stays purpose-appropriate. See [implemented owners and verification](components/final-cta.md#2026-10-23--shared-card-rollout).
