@@ -89,28 +89,22 @@ After **every implementation milestone**, check links in affected pages/template
 
 Follow [the verified Atomic linking method, limitations, link register and migration checklist](docs/WORKFLOWS.md#native-internal-linking-and-url-integrity). Re-read current installed schemas/controls before relying on a supported field. Do not claim an end-to-end dynamic Component test or migrated-site verification unless it was actually performed.
 
-## Responsibilities and milestone completion
+## Permanent execution and efficiency rules — owner instruction, 2026-10-23
 
-Codex owns repository documentation, Git, verification, and any separately authorized integration code. ChatGPT Work owns authorized staging Elementor configuration. These roles do not grant access or authorize changes.
+These rules supersede earlier blanket requirements for extensive milestone documentation, a commit after every minor edit, six-heading reports, or exhaustive visual QA. Preserve necessary security, staging-only boundaries, scoped backups and proportional verification.
 
-**Every completed GCPRO website development milestone MUST include updating the relevant documentation in this repository, committing it, pushing it, and verifying the remote branch before calling the milestone complete.** This includes page/component changes, global style changes, navigation, templates, integrations, or significant fixes. Update PROJECT_CONTEXT and CHANGELOG plus every affected reference document; follow the [milestone matrix and handoff](docs/WORKFLOWS.md).
+- Execute explicitly authorized simple edits directly: approved icon replacements, text, spacing and colors require no lengthy plan, design reopening or repeated confirmation.
+- Reuse verified session knowledge and established project decisions. Read only relevant documentation when necessary; do not reread the repository or repeat completed investigations.
+- Prefer supported, reliable Elementor MCP operations over visual-editor navigation. Use the shortest reliable workflow and batch independent operations. Avoid redundant reads, navigation and screenshots.
+- Verify only changed elements and immediate dependencies. Small changes need a focused technical/render check and relevant responsive appearance; shared changes need affected-instance checks; deeper audits belong to genuinely architectural changes. The owner performs final visual acceptance.
+- Keep native Atomic V4 architecture. Do not introduce unnecessary CSS/JS, components, Global Classes, plugins, abstractions or duplicate media. Do not turn minor visual edits into architecture work.
+- If a straightforward edit becomes blocked or unexpectedly complicated, explain promptly. Do not repeat a failed method. Try one reasonable alternative, then report the blocker. If manual Elementor editing is faster, give the owner exact steps immediately. Never silently spend20–30minutes struggling with a minor task.
+- Keep progress and final responses concise and practical: what changed, what was verified, actual unfinished work/problems, and a commit link when applicable. No mandatory six-heading report for trivial work.
+- Preserve important decisions and meaningful implementation changes in GitHub. Batch minor documentation updates when appropriate; no extensive documentation or multiple commits for each small adjustment. For an authorized push use main unless otherwise specified; never force-push or bypass protections. Verify the remote commit before claiming a successful push.
+- Implement approved icons/designs/styles without researching alternatives again. Reopen selection only when implementation is technically impossible or clearly broken.
+- Stop checks/work immediately when requested. Report actual completion and remaining limits honestly; do not claim unperformed verification.
 
-The user's standing instruction authorizes this documentation synchronization for subsequent GCPRO development milestones. Use main unless the task names another branch or repository protections require a pull request. Never bypass protections or force-push. These responsibilities do not prevent the current authorized agent from doing Git/docs directly when access is verified. If repository write access is unavailable, provide the exact limitation and a documentation patch/handoff; keep synchronization pending until the commit and remote update are verified. Tool availability, reported permissions, a local commit, or chat-only notes do not satisfy this requirement.
-
-## Mandatory implementation reporting standard
-
-This is a permanent requirement for every AI agent working on GCPRO, effective 2026-10-16. Apply it automatically after every meaningful implementation task/milestone, including minor fixes. The final user-facing report MUST use these six headings, in this order:
-
-1. **Implementation Summary** — what changed: pages, sections, Components, WordPress/Elementor IDs, and resulting design or functional behavior.
-2. **Technical Changes** — native controls, existing Global Classes/Variables, Atomic Components and supported Overrides reused; Component structure changes; every custom CSS, JavaScript or PHP change. List every new Global Class, Global Variable, Atomic Component, custom code file, plugin and external dependency individually. For each addition give its name/ID or exact path, purpose, why existing functionality was insufficient, whether it is reusable, and where it can be edited. A link may provide detailed controls/evidence, but must not replace this inventory in the report. When applicable, explicitly state **"No new classes, components or custom code"**; separately identify new Variables/dependencies or state none.
-3. **Complexity Audit** — before completion, check for duplicate/redundant Global Classes, unnecessary Components, excessive DOM nesting, hidden styling, unnecessary custom code and added dependencies. Remove unjustified complexity introduced by this task within its authorized scope, reverify affected behavior, and report what was simplified or why retained additions are necessary. Do not silently clean up unrelated shared resources.
-4. **Verification** — actual desktop/mobile widths and results, functional tests, Elementor visual editability, responsive issues and relevant accessibility/performance findings. Clearly distinguish verified results, assumptions and untested cases; never imply checks were run because tools exist.
-5. **GitHub** — documentation files updated, canonical commit URL, target branch, push confirmation and remote commit verification. Report failures and synchronization still pending accurately.
-6. **Outstanding Items** — incomplete/unverified work, limitations, remaining issues, dependencies or approvals; explicitly say none when applicable.
-
-Keep all six headings even for a minor change; one concise sentence per heading can suffice. Scale detail to the task, but never omit newly added technical elements or custom code. For documentation-only tasks, state that website/editor/runtime checks are not applicable and report document/Git verification instead; this standard never authorizes a WordPress change or unnecessary test.
-
-Follow the [implementation report template and completion gate](docs/WORKFLOWS.md#mandatory-final-implementation-report). A milestone is not complete until its complexity review, evidence-backed report, relevant documentation, commit, push and remote verification are handled (or the exact blocker is explicitly reported).
+**Permanent priority: execute efficiently, preserve quality, minimize unnecessary work. Optimize simple tasks for minutes.**
 
 ## Evidence and verification
 
@@ -118,9 +112,9 @@ Separate verified repository facts, verified staging reads, reported historical 
 
 For authorized implementation, capture a recoverable backup first, read back saved values, check the real editor and frontend, responsive layout, keyboard operation, shared-component effects, and independent overrides as applicable. Documentation-only work needs diff, content, path/link, and remote-commit verification; do not invent runtime tests.
 
-After meaningful Elementor, Custom Code, CSS or JavaScript changes, assess whether SiteGround cache invalidation is required and purge the relevant staging cache when necessary. Test the actual anonymous frontend in an incognito session after clearing cache. Before diagnosing a frontend failure, compare authenticated and anonymous HTML/assets for stale cached versions. Never claim a feature works for all visitors from an authenticated Elementor preview alone. Distinguish desktop mobile emulation from physical-device testing and identify owner-reported device results as such. Follow the existing [anonymous delivery procedure](docs/WORKFLOWS.md#anonymous-delivery-verification--e18).
+After meaningful Elementor, Custom Code, CSS or JavaScript changes, assess whether SiteGround cache invalidation is required and purge the relevant staging cache when necessary. Keep the check proportional and limited to affected output. When a change affects public delivery or stale output is suspected, check the relevant anonymous frontend; clear staging cache only when needed. Before diagnosing a frontend failure, compare authenticated and anonymous HTML/assets for stale cached versions. Never claim a feature works for all visitors from an authenticated Elementor preview alone. Distinguish desktop mobile emulation from physical-device testing and identify owner-reported device results as such. Follow the existing [anonymous delivery procedure](docs/WORKFLOWS.md#anonymous-delivery-verification--e18).
 
-Finish using the mandatory six-section report above. Include scoped recovery/rollback information when material. A local commit alone is not a successful push.
+Use the concise reporting rule above. Include scoped recovery/rollback information only when material. A local commit alone is not a successful push.
 
 ## URL preservation baseline and migration history — 2026-10-21
 
