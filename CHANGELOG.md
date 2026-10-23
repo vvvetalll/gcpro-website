@@ -1,5 +1,7 @@
 # GCPRO changelog
 
+**2026-10-23 — mobile Hero image repair:** Corrected absent responsive scale reset in shared1318/Water1453. Mobile photo and decoration now fit the centered media column,32px below CTAs; desktop enlargement preserved. Water/Home mobile browser emulation confirms no overlap or horizontal overflow. No asset, plugin, content or gradient changes. [Details](docs/components/atomic-masked-image.md).
+
 **2026-10-23 — Hero background trial:** Added two restrained native radial gradients to shared1318 and Water1453, preserving the existing blue base, images, masks, text and layout. Water desktop render checked; owner visual approval pending. No new code dependency or asset. [Details](docs/components/shared-hero.md).
 
 **2026-10-23 — shared navigation refinement:** Styled existing primary/utility Header113 widgets separately, with subtle hover, active/focus states and soft white dropdowns. Improved native mobile panel rows/submenus and removed navy gap under Header. No changed links, hierarchy, content, JS, assets or dependencies. Desktop/mobile emulation and guest stylesheet delivery checked; owner visual acceptance pending. [Owners and recovery](docs/components/header-menu-refinement.md).
