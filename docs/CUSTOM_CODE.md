@@ -1,5 +1,7 @@
 # Custom code and dependency register
 
+**2026-10-23 — editable mask correction:** Atomic Masked Image0.4.1 now accepts ordinary SVG silhouettes directly, with separate optional Decoration and explicit None/SVG selector. Shared1318/Water1453 migrated; Water514 Decoration=None verified and photo retained. [Controls and rollback](docs/components/atomic-masked-image.md).
+
 **2026-10-23 — Atomic waves0.2.0:** Existing integrations/gcpro-atomic-masked-image owns optional Background/Accent image props and Twig positioning. Transparent SVG1471/1472 own wave geometry/alpha transitions. Only Water Hero1453 uses them; no new JS, classes, Variables or dependencies. [Owners and rollback](components/atomic-masked-image.md).
 
 **2026-10-23 — authorized Atomic mask extension:** Source owner `integrations/gcpro-atomic-masked-image/`, installed staging plugin GCPRO Atomic Masked Image0.1.0. Two PHP files and Twig template own scoped inline media geometry/mask declarations. No JS, dependency, theme/core/third-party modification or global styling. Active only in Water514 Hero1453. [Controls, limitations and rollback](components/atomic-masked-image.md).

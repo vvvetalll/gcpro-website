@@ -1,5 +1,7 @@
 # GCPRO changelog
 
+**2026-10-23 — editable mask correction:** Atomic Masked Image0.4.1 now accepts ordinary SVG silhouettes directly, with separate optional Decoration and explicit None/SVG selector. Shared1318/Water1453 migrated; Water514 Decoration=None verified and photo retained. [Controls and rollback](docs/components/atomic-masked-image.md).
+
 **2026-10-23 — shared masked Hero:** Owner authorized component-wide presentation. Shared1318 now uses editable Photo/SVG/None/Fit/X/Y, preserving original `image` override and page content/photos. Home154, Residential484 and Commercial499 inherit it; Water514 remains1453. No page writes, new assets or plugin changes. Home render verified; owner visual acceptance pending. [Component and rollback](docs/components/shared-hero.md).
 
 **2026-10-23 — Water Hero wave refinement:** Updated own Atomic Masked Image plugin to0.2.0. Added independent Background SVG1471 (three translucent blue/navy waves) and Accent SVG1472 (subtle orange); owner-selected Photo1465 and Main Mask1455 retained. Only isolated1453 media frame changes; Page514 data unchanged,1318/other pages untouched. Native four-field editor and393/768/1440 render checked; owner visual approval pending. See [component record](docs/components/atomic-masked-image.md).

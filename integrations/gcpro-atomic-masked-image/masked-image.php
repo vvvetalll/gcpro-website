@@ -17,7 +17,7 @@ if ( ! defined( 'ABSPATH' ) ) { exit; }
 class Masked_Image extends Atomic_Widget_Base {
 	use Has_Template;
 	public static $widget_description = 'Photo with an independently replaceable SVG alpha mask.';
-	protected $version = '0.3';
+	protected $version = '0.4.1';
 	public static function get_element_type(): string { return 'gcpro-masked-image'; }
 	public function get_title() { return 'GCPRO Masked Image'; }
 	public function get_icon() { return 'eicon-image'; }
@@ -28,6 +28,8 @@ class Masked_Image extends Atomic_Widget_Base {
 			'classes' => Classes_Prop_Type::make()->default( [] ),
 			'photo' => Image_Prop_Type::make()->default_size( 'full' ),
 			'mask' => Image_Prop_Type::make()->default_size( 'full' ),
+			'decoration' => Image_Prop_Type::make()->default_size( 'full' ),
+			'decoration_mode' => String_Prop_Type::make()->enum( [ 'none', 'svg' ] )->default( 'none' ),
 			'mask_mode' => String_Prop_Type::make()->enum( [ 'none', 'svg' ] )->default( 'none' ),
 			'fit' => String_Prop_Type::make()->enum( [ 'cover', 'contain' ] )->default( 'cover' ),
 			'focal_x' => Number_Prop_Type::make()->default( 50 ),
@@ -37,7 +39,12 @@ class Masked_Image extends Atomic_Widget_Base {
 	protected function define_atomic_controls(): array {
 		return [ Section::make()->set_label( 'Masked Image' )->set_id( 'content' )->set_items( [
 			Image_Control::bind_to( 'photo' )->set_label( 'Photo' ),
-			Image_Control::bind_to( 'mask' )->set_label( 'Hero SVG (mask and frame)' ),
+			Image_Control::bind_to( 'mask' )->set_label( 'SVG Mask' ),
+			Select_Control::bind_to( 'decoration_mode' )->set_label( 'Decoration' )->set_options( [
+				[ 'value' => 'none', 'label' => 'None' ],
+				[ 'value' => 'svg', 'label' => 'SVG Decoration' ],
+			] ),
+			Image_Control::bind_to( 'decoration' )->set_label( 'Decoration SVG (optional)' ),
 			Select_Control::bind_to( 'mask_mode' )->set_label( 'Mask' )->set_options( [
 				[ 'value' => 'none', 'label' => 'None — rectangular image' ],
 				[ 'value' => 'svg', 'label' => 'SVG Mask' ],
