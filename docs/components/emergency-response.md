@@ -1,5 +1,7 @@
 # Compact Emergency Restoration Support CTA
 
+**2026-10-23:** The original compact Home card is unchanged. Existing shared Final CTA80 now matches its mobile inset frame/gutters/stacked actions across its consumers, under the owner's explicit expanded scope. [Implementation and recovery](final-cta.md#2026-10-23--shared-card-rollout).
+
 Implemented2026-10-22 on **Home154 only**, replacing the former full-width navy strip while retaining its heading, description and both action labels/destinations. The existing page-owned section remains page-owned; genuine shared Atomic Heading71 and Buttons53/103 remain attached instances. No new shared definition, media, Global Class, Variable, custom CSS/JS/PHP, plugin or dependency.
 
 ## Current owners

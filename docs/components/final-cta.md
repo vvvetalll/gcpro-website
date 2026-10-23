@@ -1,8 +1,26 @@
 # Final CTA and video experiment
 
-**2026-10-23 — approved mobile card correction, NOT IMPLEMENTED:** The owner supplied a mobile screenshot of Home's compact Emergency Restoration Support card and requested the bottom Home CTA use the same inset-card presentation on mobile: visible side gutters, rounded card corners and surrounding breathing space, preserving its own copy, buttons and final-CTA role. This is also the default for future CTA sections until explicitly changed by the owner; see [permanent design rule](../DESIGN_SYSTEM.md#permanent-cta-card-presentation--owner-instruction-2026-10-23). Immediate target is Home154 final instance37feb023 →80; recorded locators below are historical and require a fresh native read before editing. No mass change of other consumers is authorized.
+## 2026-10-23 — Shared card rollout
 
-The current Work environment was reset and `/root/mcp-config.json` is absent. No WordPress, Elementor, class, video-code or browser changes were made in this task; no current frontend/editor/responsive verification is claimed. Restore the authorized MCP connection before implementing. Never reconstruct credentials from chat history or silently change editing channels. The repository change records the owner's rule and the still-pending implementation, not completion of the mobile fix.
+Owner explicitly requested this CTA presentation everywhere, superseding the earlier Home-only pending scope below. Implemented on the existing shared Component80; no new component or wrapper. Existing Home compact card remains page-owned and unchanged.
+
+| Native owner | Current change |
+|---|---|
+|Section324d9854, local e-28c5a874-46d0|Mobile padding-block24px (`space-md`), padding-inline20px|
+|Container79c33bf7, local e-79b18c32-8f52|8px radius (`space-xs`) and overflow hidden at all breakpoints|
+|Actions460a04b7, local e-47c9dd0d-e5e3|Mobile width100%, column, stretch|
+
+Current consumers: Home154, Residential484, Commercial499, Residential Water514 and retained Page50. All keep independent existing six Overrides. Nine saved nodes before/after; all content, tags, interactions and nested button references compare preserved. No new classes, Variables, Components, custom CSS/JS/PHP, assets or dependencies. Existing847 still controls inner mobile padding32px20px, video masks/opacity/motion/data guards and inner square corners; the native rounded outer frame clips it. This is the same approved containment method already used by the compact Home card. Do not add a second CSS/video owner to force the inner panel radius.
+
+Native manage-elements changes to a component need the component publish lifecycle before becoming live. Readback after explicit publish confirms all three local styles. No full-tree rebuild or instance detachment was used.
+
+**Actual browser QA:** logged-out Chrome Home/Residential/Commercial/Water at393px and1440px; Home additionally360px and768px. Zero horizontal document overflow. At393px shared card starts20px from the left,338px width (15px browser scrollbar), frame8px/hidden and actions298px wide/stacked. Both Home CTA frames match. At1440px final panel remains1136px wide; desktop layout/content retained. Home screenshot after scrolling confirms lazy video remains visible. Browser viewport reset. Fresh public frontend delivered the change without a cache purge. Editor login was not available, so no interactive editor-session QA is claimed; controls are native and saved readback verified. Physical-device, full keyboard/focus/motion/video lifecycle and performance were not re-certified by this geometry-only change.
+
+**Links:** existing call telephone URIs preserved. Home compact/final Request Service remain pre-existing `#`; no navigation fix was substituted during this visual task. Current routes on other consumers retained.
+
+**Recovery:** with owner authorization remove only the three added local style variants above (root mobile padding, container radius/overflow, actions mobile sizing), then explicitly publish Component80. Preserve the panel's pre-existing local radius e-69831b6e-42d0 and all content/Overrides/code. Private before/after snapshots stay outside Git. Refresh affected staging caches only if stale output is observed.
+
+### Historical context (superseded mobile geometry)
 
 **2026-10-22 — compact Home consumer:** Home Emergency Restoration Support section6cde656f now uses native panel1c4978f9 with the existing cta-panel semantic hook, reusing847's actual846 video/masking/opacity/motion fallback. Its219px desktop card is shorter than the original267.578px final panel; original80, its Home instance, styles and847 code remain unchanged. Native outer-frame clipping preserves rounded mobile corners without altering the existing final-CTA media rules. [Current layout, owners, preservation checks and existing Request # limitation](emergency-response.md). This is reuse of the existing staging mechanism, not a newly installed video renderer.
 
