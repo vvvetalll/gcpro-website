@@ -1,5 +1,7 @@
 # GCPRO changelog
 
+**2026-10-23 — service inventory completion:** Built16 existing service objects, preserving Published status and URLs; unique native AIOSEO titles/descriptions, service-specific text/FAQs, shared Hero/process/CTAs and contextual native links. Reused Water BEAF card treatment with two matching/explicitly approved related pairs on five pages. Revised1345 to one shared six-card fi-rr presentation across17 services; desktop/tablet/mobile3/2/1 columns. No new component/class/plugin/media or custom code. Request form, operational detail and unmatched project-evidence gaps remain explicit. [Full record](docs/components/service-page-rollout-2026-10-23.md).
+
 **2026-10-23 — Water mid-page CTA:** Added one instance of existing CTA80 between process and projects on Page514, with requested new copy and existing call/Request destinations. Uses same design as final CTA per owner clarification. Original page sections preserved; no global change or custom code. [Location and rollback](docs/components/final-cta.md).
 
 **2026-10-23 — mobile Hero image repair:** Corrected absent responsive scale reset in shared1318/Water1453. Mobile photo and decoration now fit the centered media column,32px below CTAs; desktop enlargement preserved. Water/Home mobile browser emulation confirms no overlap or horizontal overflow. No asset, plugin, content or gradient changes. [Details](docs/components/atomic-masked-image.md).

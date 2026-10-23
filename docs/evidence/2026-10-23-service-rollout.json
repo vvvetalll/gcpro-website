@@ -1,0 +1,506 @@
+{
+  "pages": [
+    {
+      "id": 517,
+      "url": "https://vitaliiv1.sg-host.com/residential-services/fire-smoke/",
+      "preview": "https://vitaliiv1.sg-host.com/residential-services/fire-smoke/?preview_id=517&preview=true",
+      "status": "publish",
+      "role": "primary",
+      "root": "1287ed07",
+      "components": [
+        1318,
+        1345,
+        1152,
+        80,
+        71,
+        59,
+        1356,
+        1149,
+        1354,
+        80
+      ],
+      "sliders": [
+        "[bafg id=\"1200\"]",
+        "[bafg id=\"1600\"]"
+      ],
+      "internal_target_ids": [
+        488,
+        489,
+        493,
+        495,
+        518,
+        521
+      ],
+      "title": "Fire & Smoke Damage Restoration Chicago | GCPRO",
+      "seo_protected_fields_preserved": true,
+      "native_default_graph_label": ""
+    },
+    {
+      "id": 516,
+      "url": "https://vitaliiv1.sg-host.com/residential-services/mold-removal/",
+      "preview": "https://vitaliiv1.sg-host.com/residential-services/mold-removal/?preview_id=516&preview=true",
+      "status": "publish",
+      "role": "primary",
+      "root": "533346e7",
+      "components": [
+        1318,
+        1345,
+        1152,
+        80,
+        71,
+        59,
+        1356,
+        1149,
+        1354,
+        80
+      ],
+      "sliders": [
+        "[bafg id=\"1596\"]",
+        "[bafg id=\"742\"]"
+      ],
+      "internal_target_ids": [
+        490,
+        493,
+        495,
+        514,
+        518,
+        519
+      ],
+      "title": "Mold Remediation & Removal Chicago | GCPRO",
+      "seo_protected_fields_preserved": true,
+      "native_default_graph_label": ""
+    },
+    {
+      "id": 518,
+      "url": "https://vitaliiv1.sg-host.com/residential-services/reconstruction/",
+      "preview": "https://vitaliiv1.sg-host.com/residential-services/reconstruction/?preview_id=518&preview=true",
+      "status": "publish",
+      "role": "primary",
+      "root": "3bd3f716",
+      "components": [
+        1318,
+        1345,
+        1152,
+        80,
+        71,
+        59,
+        1356,
+        1149,
+        1354,
+        80
+      ],
+      "sliders": [
+        "[bafg id=\"1591\"]",
+        "[bafg id=\"1595\"]"
+      ],
+      "internal_target_ids": [
+        493,
+        495,
+        514,
+        516,
+        517,
+        524
+      ],
+      "title": "Property Reconstruction & Repairs Chicago | GCPRO",
+      "seo_protected_fields_preserved": true,
+      "native_default_graph_label": ""
+    },
+    {
+      "id": 523,
+      "url": "https://vitaliiv1.sg-host.com/residential-services/storm-damage/",
+      "preview": "https://vitaliiv1.sg-host.com/residential-services/storm-damage/?preview_id=523&preview=true",
+      "status": "publish",
+      "role": "primary",
+      "root": "54e35827",
+      "components": [
+        1318,
+        1345,
+        1152,
+        80,
+        1356,
+        1149,
+        1354,
+        80
+      ],
+      "sliders": [],
+      "internal_target_ids": [
+        488,
+        495,
+        514,
+        518,
+        521
+      ],
+      "title": "Storm Damage Restoration Chicago | GCPRO",
+      "seo_protected_fields_preserved": true,
+      "native_default_graph_label": "WebPage"
+    },
+    {
+      "id": 521,
+      "url": "https://vitaliiv1.sg-host.com/residential-services/personal-property-restoration/",
+      "preview": "https://vitaliiv1.sg-host.com/residential-services/personal-property-restoration/?preview_id=521&preview=true",
+      "status": "publish",
+      "role": "primary-limited",
+      "root": "3fe77e61",
+      "components": [
+        1318,
+        1345,
+        1152,
+        80,
+        1356,
+        1149,
+        1354,
+        80
+      ],
+      "sliders": [],
+      "internal_target_ids": [
+        495,
+        514,
+        517,
+        518,
+        525
+      ],
+      "title": "Personal Property Restoration Chicago | GCPRO",
+      "seo_protected_fields_preserved": true,
+      "native_default_graph_label": ""
+    },
+    {
+      "id": 515,
+      "url": "https://vitaliiv1.sg-host.com/commercial-services/water-damage/",
+      "preview": "https://vitaliiv1.sg-host.com/commercial-services/water-damage/?preview_id=515&preview=true",
+      "status": "publish",
+      "role": "commercial-conditional",
+      "root": "7d626f28",
+      "components": [
+        1318,
+        1345,
+        1152,
+        80,
+        1356,
+        1149,
+        1354,
+        80
+      ],
+      "sliders": [],
+      "internal_target_ids": [
+        487,
+        491,
+        495,
+        514,
+        525
+      ],
+      "title": "Commercial Water Damage Recovery Chicago | GCPRO",
+      "seo_protected_fields_preserved": true,
+      "native_default_graph_label": ""
+    },
+    {
+      "id": 519,
+      "url": "https://vitaliiv1.sg-host.com/commercial-services/mold-removal/",
+      "preview": "https://vitaliiv1.sg-host.com/commercial-services/mold-removal/?preview_id=519&preview=true",
+      "status": "publish",
+      "role": "commercial-conditional",
+      "root": "786f84e5",
+      "components": [
+        1318,
+        1345,
+        1152,
+        80,
+        1356,
+        1149,
+        1354,
+        80
+      ],
+      "sliders": [],
+      "internal_target_ids": [
+        490,
+        495,
+        515,
+        516,
+        524
+      ],
+      "title": "Commercial Mold Remediation Chicago | GCPRO",
+      "seo_protected_fields_preserved": true,
+      "native_default_graph_label": ""
+    },
+    {
+      "id": 520,
+      "url": "https://vitaliiv1.sg-host.com/commercial-services/fire-smoke/",
+      "preview": "https://vitaliiv1.sg-host.com/commercial-services/fire-smoke/?preview_id=520&preview=true",
+      "status": "publish",
+      "role": "commercial-support",
+      "root": "763bbf17",
+      "components": [
+        1318,
+        1345,
+        1152,
+        80,
+        1356,
+        1149,
+        1354,
+        80
+      ],
+      "sliders": [],
+      "internal_target_ids": [
+        488,
+        495,
+        517,
+        524,
+        525
+      ],
+      "title": "Business Fire & Smoke Recovery Chicago | GCPRO",
+      "seo_protected_fields_preserved": true,
+      "native_default_graph_label": ""
+    },
+    {
+      "id": 524,
+      "url": "https://vitaliiv1.sg-host.com/commercial-services/reconstruction/",
+      "preview": "https://vitaliiv1.sg-host.com/commercial-services/reconstruction/?preview_id=524&preview=true",
+      "status": "publish",
+      "role": "commercial-support",
+      "root": "5c83cba5",
+      "components": [
+        1318,
+        1345,
+        1152,
+        80,
+        71,
+        59,
+        1356,
+        1149,
+        1354,
+        80
+      ],
+      "sliders": [
+        "[bafg id=\"1209\"]",
+        "[bafg id=\"1202\"]"
+      ],
+      "internal_target_ids": [
+        493,
+        495,
+        515,
+        518,
+        520,
+        522
+      ],
+      "title": "Commercial Property Reconstruction Chicago | GCPRO",
+      "seo_protected_fields_preserved": true,
+      "native_default_graph_label": ""
+    },
+    {
+      "id": 525,
+      "url": "https://vitaliiv1.sg-host.com/commercial-services/personal-property-restoration/",
+      "preview": "https://vitaliiv1.sg-host.com/commercial-services/personal-property-restoration/?preview_id=525&preview=true",
+      "status": "publish",
+      "role": "commercial-support",
+      "root": "720e185d",
+      "components": [
+        1318,
+        1345,
+        1152,
+        80,
+        1356,
+        1149,
+        1354,
+        80
+      ],
+      "sliders": [],
+      "internal_target_ids": [
+        495,
+        515,
+        520,
+        521,
+        524
+      ],
+      "title": "Business Contents Restoration Chicago | GCPRO",
+      "seo_protected_fields_preserved": true,
+      "native_default_graph_label": ""
+    },
+    {
+      "id": 522,
+      "url": "https://vitaliiv1.sg-host.com/commercial-services/general-contracting/",
+      "preview": "https://vitaliiv1.sg-host.com/commercial-services/general-contracting/?preview_id=522&preview=true",
+      "status": "publish",
+      "role": "distinct-commercial",
+      "root": "5bd23f1d",
+      "components": [
+        1318,
+        1345,
+        1152,
+        80,
+        71,
+        59,
+        1356,
+        1149,
+        1354,
+        80
+      ],
+      "sliders": [
+        "[bafg id=\"1209\"]",
+        "[bafg id=\"1202\"]"
+      ],
+      "internal_target_ids": [
+        493,
+        495,
+        499,
+        518,
+        524
+      ],
+      "title": "Commercial General Contracting Chicago | GCPRO",
+      "seo_protected_fields_preserved": true,
+      "native_default_graph_label": ""
+    },
+    {
+      "id": 487,
+      "url": "https://vitaliiv1.sg-host.com/water-extraction/",
+      "preview": "https://vitaliiv1.sg-host.com/water-extraction/?preview_id=487&preview=true",
+      "status": "publish",
+      "role": "support",
+      "root": "8afd894",
+      "components": [
+        1318,
+        1345,
+        1152,
+        80,
+        1356,
+        1354,
+        80
+      ],
+      "sliders": [],
+      "internal_target_ids": [
+        490,
+        491,
+        495,
+        514,
+        515
+      ],
+      "title": "Water Extraction Chicago | GCPRO",
+      "seo_protected_fields_preserved": true,
+      "native_default_graph_label": ""
+    },
+    {
+      "id": 488,
+      "url": "https://vitaliiv1.sg-host.com/board-up/",
+      "preview": "https://vitaliiv1.sg-host.com/board-up/?preview_id=488&preview=true",
+      "status": "publish",
+      "role": "support",
+      "root": "4fa7cce9",
+      "components": [
+        1318,
+        1345,
+        1152,
+        80,
+        1356,
+        1354,
+        80
+      ],
+      "sliders": [],
+      "internal_target_ids": [
+        495,
+        517,
+        518,
+        522,
+        523
+      ],
+      "title": "Board-Up Service Chicago | GCPRO",
+      "seo_protected_fields_preserved": true,
+      "native_default_graph_label": ""
+    },
+    {
+      "id": 489,
+      "url": "https://vitaliiv1.sg-host.com/odor-removal/",
+      "preview": "https://vitaliiv1.sg-host.com/odor-removal/?preview_id=489&preview=true",
+      "status": "publish",
+      "role": "support",
+      "root": "7014a6b4",
+      "components": [
+        1318,
+        1345,
+        1152,
+        80,
+        1356,
+        1354,
+        80
+      ],
+      "sliders": [],
+      "internal_target_ids": [
+        495,
+        514,
+        516,
+        517,
+        521
+      ],
+      "title": "Property Odor Removal Chicago | GCPRO",
+      "seo_protected_fields_preserved": true,
+      "native_default_graph_label": ""
+    },
+    {
+      "id": 490,
+      "url": "https://vitaliiv1.sg-host.com/moisture-mapping/",
+      "preview": "https://vitaliiv1.sg-host.com/moisture-mapping/?preview_id=490&preview=true",
+      "status": "publish",
+      "role": "support",
+      "root": "3dd9dbea",
+      "components": [
+        1318,
+        1345,
+        1152,
+        80,
+        1356,
+        1354,
+        80
+      ],
+      "sliders": [],
+      "internal_target_ids": [
+        487,
+        491,
+        495,
+        514,
+        516
+      ],
+      "title": "Moisture Mapping Chicago | GCPRO",
+      "seo_protected_fields_preserved": true,
+      "native_default_graph_label": ""
+    },
+    {
+      "id": 491,
+      "url": "https://vitaliiv1.sg-host.com/dehumidification/",
+      "preview": "https://vitaliiv1.sg-host.com/dehumidification/?preview_id=491&preview=true",
+      "status": "publish",
+      "role": "support",
+      "root": "3c7be1f",
+      "components": [
+        1318,
+        1345,
+        1152,
+        80,
+        1356,
+        1354,
+        80
+      ],
+      "sliders": [],
+      "internal_target_ids": [
+        487,
+        490,
+        495,
+        514,
+        518
+      ],
+      "title": "Dehumidification After Water Damage Chicago | GCPRO",
+      "seo_protected_fields_preserved": true,
+      "native_default_graph_label": ""
+    }
+  ],
+  "water_non_scope_sections_preserved": true,
+  "guest_http": "403 from unauthenticated HTTP client; not bypassed",
+  "request_service": {
+    "id": 492,
+    "form_present": false,
+    "new_page_action": "Telephone primary; secondary Service Areas495"
+  },
+  "scope_definition": 1345,
+  "scope_layout": {
+    "desktop": "3 columns / 2 rows at1440",
+    "tablet": "2 columns at768",
+    "mobile": "1 column,6 cards/icons,17 pages at394"
+  },
+  "physical_device_tested": false
+}

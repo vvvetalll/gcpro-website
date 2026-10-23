@@ -49,3 +49,12 @@ Private pre-change514 backup and sanitized native input/output checkpoints remai
 ## Approved3+2 layout adjustment —2026-10-22
 
 Only native layout properties on Types Grid3361ff5d and five Card nodes776ef1a0/20cf0bab/2a382dac/6c333626/419ef18a changed. One targeted read and one six-operation native update, followed by native publication. Content, H2/H3 hierarchy,13 Overrides, card colors/borders/type/padding and all page instances are untouched. No new Component, Global Class, Variable, CSS, JavaScript or script dependency. At1440px all five cards are362.66–362.67px wide; the first three share one row and the last two share a centered second row (centering error<0.01px), with no document overflow. At393px the original one-column layout is retained: five338px cards,24px padding,8px radius, no card/document overflow. Browser viewport overrides were reset. Earlier two-column desktop observations above are historical.
+# Current six-card scope pattern — 2026-10-23
+
+Owner superseded the earlier five-card3+2 arrangement below. Existing Component1345 now has one shared native six-card design:3 desktop columns,2 tablet columns,1 mobile column. All17 service pages use six distinct service-specific aspects through21 Overrides (heading/intro/eyebrow plus six title/description/icon groups). Six meaningful items are used rather than invented damage types.
+
+Existing section/container/stack/grid-2/card classes, spacing/color/font Variables and Heading71 retained. Replaced numeric markers with32px approved fi-rr SVGs in56px pale-blue badges; navy H3s, muted body text, white cards,8px corners and a subtle native shadow. Existing1438–1443 service assets and approved1425 House-building/1435 Comments reused; no new asset/font/library or custom CSS/JS. Native card padding32 desktop/24 mobile,24px grid gap; no old offset/spanning fifth card.
+
+Water's six items are pipes, basement flooding, appliance leaks, ceiling leaks, stormwater and affected belongings. Other page copy remains specific to the confirmed service; testing exclusions, access and scope decisions are described honestly rather than as extra capabilities. Hero and unrelated Water sections compare preserved. [Full rollout, ownership, checks and recovery](service-page-rollout-2026-10-23.md).
+
+Verified1440px3×2 and768px two-column geometry; all17 pages at approximately394px have six cards/icons in one column and no horizontal overflow. Owner visual approval pending. Historical five-card implementation below is superseded.

@@ -50,3 +50,6 @@ Every meaningful component change must update its record: purpose; page/template
 - [Service Damage Types](service-damage-types.md) — reusable full-section1345; first Water514 instance, approved; centered desktop3+2 and mobile single column.
 
 - [Water Damage Restoration — completed service page](water-damage.md) — ten full-section Atomic instances, new native comparison/recovery/guidance/FAQ sections, metadata and verified limitations.
+# Service-page rollout update — 2026-10-23
+
+[Sixteen service builds and shared six-card scope](service-page-rollout-2026-10-23.md): existing objects/statuses preserved; primary ownership follows the approved October22 package, Commercial operational gaps remain explicit.

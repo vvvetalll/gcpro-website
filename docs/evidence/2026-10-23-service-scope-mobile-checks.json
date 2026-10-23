@@ -1,0 +1,274 @@
+[
+  {
+    "columns": 1,
+    "count": 6,
+    "headings": [
+      "Burst and Leaking Pipes",
+      "Basement Flooding",
+      "Appliance Leaks",
+      "Ceiling Leaks",
+      "Stormwater Intrusion",
+      "Water-Affected Belongings"
+    ],
+    "icons": 6,
+    "overflow": false,
+    "url": "/residential-services/water-damage/",
+    "width": 394
+  },
+  {
+    "columns": 1,
+    "count": 6,
+    "headings": [
+      "Fire-Damaged Building Areas",
+      "Smoke and Soot Residue",
+      "Lingering Odors",
+      "Water After Firefighting",
+      "Furniture and Personal Belongings",
+      "Access After the Fire"
+    ],
+    "icons": 6,
+    "overflow": false,
+    "url": "/residential-services/fire-smoke/",
+    "width": 394
+  },
+  {
+    "columns": 1,
+    "count": 6,
+    "headings": [
+      "Visible Growth or Staining",
+      "Attic and Roof-Sheathing Concerns",
+      "Water-Damaged Materials",
+      "Occupied Rooms and Access",
+      "Testing Is Not Included",
+      "Moisture-Source Repairs"
+    ],
+    "icons": 6,
+    "overflow": false,
+    "url": "/residential-services/mold-removal/",
+    "width": 394
+  },
+  {
+    "columns": 1,
+    "count": 6,
+    "headings": [
+      "Damaged Interior Areas",
+      "Kitchens",
+      "Bathrooms",
+      "Exterior Building Repairs",
+      "Scope and Finish Decisions",
+      "Earlier Restoration Work"
+    ],
+    "icons": 6,
+    "overflow": false,
+    "url": "/residential-services/reconstruction/",
+    "width": 394
+  },
+  {
+    "columns": 1,
+    "count": 6,
+    "headings": [
+      "Water Intrusion",
+      "Damaged Exterior Areas",
+      "Affected Interior Finishes",
+      "Furniture and Belongings",
+      "Repair Handoffs",
+      "Temporary Opening Protection"
+    ],
+    "icons": 6,
+    "overflow": false,
+    "url": "/residential-services/storm-damage/",
+    "width": 394
+  },
+  {
+    "columns": 1,
+    "count": 6,
+    "headings": [
+      "Furniture",
+      "Packing Damaged Belongings",
+      "Smoke-Affected Items",
+      "Water-Affected Items",
+      "Item-Specific Decisions",
+      "Priority Belongings"
+    ],
+    "icons": 6,
+    "overflow": false,
+    "url": "/residential-services/personal-property-restoration/",
+    "width": 394
+  },
+  {
+    "columns": 1,
+    "count": 6,
+    "headings": [
+      "Property Contact and Authority",
+      "Affected Units and Common Areas",
+      "Access and Operating Hours",
+      "Building Versus Business Contents",
+      "Records and Decisions",
+      "Repair Handoff"
+    ],
+    "icons": 6,
+    "overflow": false,
+    "url": "/commercial-services/water-damage/",
+    "width": 394
+  },
+  {
+    "columns": 1,
+    "count": 6,
+    "headings": [
+      "Affected Premises",
+      "Moisture History",
+      "Who Can Agree to Work",
+      "Occupied Areas and Access",
+      "Testing Is Separate",
+      "Building-Material Repairs"
+    ],
+    "icons": 6,
+    "overflow": false,
+    "url": "/commercial-services/mold-removal/",
+    "width": 394
+  },
+  {
+    "columns": 1,
+    "count": 6,
+    "headings": [
+      "Authorized Decisions",
+      "Affected Operating Areas",
+      "Access After the Fire",
+      "Business-Owned Belongings",
+      "Reopening Questions",
+      "Property Records"
+    ],
+    "icons": 6,
+    "overflow": false,
+    "url": "/commercial-services/fire-smoke/",
+    "width": 394
+  },
+  {
+    "columns": 1,
+    "count": 6,
+    "headings": [
+      "Repair Areas",
+      "Shared and Tenant Spaces",
+      "Finish Decisions",
+      "Access Constraints",
+      "Work Boundaries",
+      "Earlier Damage Work"
+    ],
+    "icons": 6,
+    "overflow": false,
+    "url": "/commercial-services/reconstruction/",
+    "width": 394
+  },
+  {
+    "columns": 1,
+    "count": 6,
+    "headings": [
+      "Business Furniture",
+      "Packing",
+      "Item Restoration",
+      "Item Responsibilities",
+      "Separate Arrangements",
+      "Priority Business Items"
+    ],
+    "icons": 6,
+    "overflow": false,
+    "url": "/commercial-services/personal-property-restoration/",
+    "width": 394
+  },
+  {
+    "columns": 1,
+    "count": 6,
+    "headings": [
+      "Project Areas",
+      "Existing Conditions",
+      "Intended Use",
+      "Decision Responsibilities",
+      "Scope Limits",
+      "Changes to the Agreed Work"
+    ],
+    "icons": 6,
+    "overflow": false,
+    "url": "/commercial-services/general-contracting/",
+    "width": 394
+  },
+  {
+    "columns": 1,
+    "count": 6,
+    "headings": [
+      "Visible Standing Water",
+      "The Water Source",
+      "Access to Affected Areas",
+      "Wet Materials",
+      "Drying and Repairs",
+      "Belongings in Wet Areas"
+    ],
+    "icons": 6,
+    "overflow": false,
+    "url": "/water-extraction/",
+    "width": 394
+  },
+  {
+    "columns": 1,
+    "count": 6,
+    "headings": [
+      "Window Openings",
+      "Door Openings",
+      "After Fire Damage",
+      "After Weather Damage",
+      "Permanent Repairs",
+      "Entrances Still Needed"
+    ],
+    "icons": 6,
+    "overflow": false,
+    "url": "/board-up/",
+    "width": 394
+  },
+  {
+    "columns": 1,
+    "count": 6,
+    "headings": [
+      "Smoke-Related Odors",
+      "Water-Damage History",
+      "Affected Surfaces",
+      "Belongings",
+      "Treatment Limits",
+      "Previous Odor Work"
+    ],
+    "icons": 6,
+    "overflow": false,
+    "url": "/odor-removal/",
+    "width": 394
+  },
+  {
+    "columns": 1,
+    "count": 6,
+    "headings": [
+      "Known Wet Areas",
+      "Moisture History",
+      "Accessible Building Materials",
+      "Drying Questions",
+      "Assessment Limits",
+      "Repair Planning"
+    ],
+    "icons": 6,
+    "overflow": false,
+    "url": "/moisture-mapping/",
+    "width": 394
+  },
+  {
+    "columns": 1,
+    "count": 6,
+    "headings": [
+      "Wet Building Areas",
+      "Earlier Water Removal",
+      "Material Condition",
+      "Access During Work",
+      "Review Before Repairs",
+      "Affected Belongings"
+    ],
+    "icons": 6,
+    "overflow": false,
+    "url": "/dehumidification/",
+    "width": 394
+  }
+]

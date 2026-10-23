@@ -1,5 +1,7 @@
 # GCPRO project context
 
+**2026-10-23 — service rollout and six-card scope:** Owner approved October22 ownership on existing staging routes. Built16 previously empty Published services using existing components; no Draft promotion or URL change. Native1345 now gives all17 services six specific icon cards (3/2/1 columns); Water's other sections preserved. Five appropriate BEAF sections use two pairs; contents packing/restoration confirmed, mold testing excluded. Request492 has no form, so new secondary CTAs use495. [Pages, checks, facts, gaps and recovery](docs/components/service-page-rollout-2026-10-23.md).
+
 **2026-10-23 — mobile Hero repair:** Explicit native tablet/mobile media scale1 and mobile32px grid row-gap in1318/1453 correct CTA overlap and centering. Desktop1.25 retained; Water/Home mobile emulation checked. [Details](docs/components/atomic-masked-image.md).
 
 **2026-10-23 — Hero background trial:** Shared1318 and Water1453 now have subtle central light/dark blue radial gradients over the unchanged #1A327D base. No content or geometry changes. Water desktop render checked; owner visual approval pending. [Values and rollback](docs/components/shared-hero.md).
