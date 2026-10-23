@@ -129,3 +129,8 @@ Preserve existing URLs while building staging; the preservation baseline is not 
 ## Central semantic SEO ownership
 
 Use [docs/seo/SEO_STRATEGY.md](docs/seo/SEO_STRATEGY.md), [MASTER_KEYWORD_MAP.csv](docs/seo/MASTER_KEYWORD_MAP.csv) and [PAGE_SEO_BRIEFS.md](docs/seo/PAGE_SEO_BRIEFS.md) for future commercially important page work. The 2026-10-21 strategy is **DRAFT — AWAITING USER APPROVAL**; do not implement its recommendations before approval. Once approved, do not independently choose competing targets during individual page builds. Keep one primary landing page per intent cluster and synchronize affected briefs when ownership changes. docs/seo/ is canonical for semantic research; docs/SEO_URL_INVENTORY.csv remains canonical for exact URLs and migration history. No semantic recommendation authorizes a URL, navigation or website change.
+
+## Owner visual acceptance — 2026-10-23
+
+The owner performs final visual acceptance. For routine visual changes, perform only the minimum technical check needed to catch a broken render or functionality. Do not run repeated screenshots, exhaustive viewport/page matrices, or prolonged visual QA unless explicitly requested. Stop verification immediately when the owner asks; report remaining checks honestly. This supersedes broader default visual-QA expectations for routine refinements. Preserve required backups and keep scope unchanged.
+

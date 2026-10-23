@@ -561,3 +561,7 @@ Actual controls and persistence must be verified on the installed Elementor vers
 
 
 2026-10-22 Trust Logos: [current shared1149 media,classes,label,mobile order,hover,verification limits and rollback](components/why-gcpro.md). This record supersedes earlier Why media descriptions.
+
+## 2026-10-23 — icon implementation and acceptance
+
+Permanent decorative/service icon family: Flaticon Uicons Regular Rounded (fi-rr), simple single-color orange outlines. Six approved service assets1438–1443 are reused across Home and matching Residential/Commercial cards; [exact mapping, native owners and rollback](ICONOGRAPHY.md#approved-core-rollout--2026-10-23). Do not force fill:none onto expanded SVG outline paths. Do not substitute for General Contracting or other unapproved concepts. No new icon font/CDN/dependency. Owner performs final visual acceptance; use only minimal technical sanity checks for routine visual changes unless explicitly asked for broader QA, and stop immediately on request.

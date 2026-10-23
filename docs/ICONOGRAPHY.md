@@ -54,3 +54,29 @@ Compared Uicons Regular Rounded, Regular Straight and Thin Rounded as consistent
 4. Obtain approval for that selection and download/implementation scope.
 5. Use native SVG controls and existing per-instance Overrides; test paint, size, color, keyboard/semantic treatment and all affected consumers as applicable.
 6. Record verified attachment IDs, owners and results after implementation; preserve owner-reported vs independently verified status.
+
+## Approved Core rollout — 2026-10-23
+
+Owner approved and authorized original SVG downloads and staging replacement, including **Disease** for Mold. It is a generic microorganism/disease metaphor, not a literal fungal spore. This implemented record supersedes the earlier proposed status for these six concepts.
+
+| Role | Exact Flaticon source | Media ID |
+|---|---|---|
+|Water Damage|[Raindrops](https://www.flaticon.com/free-icon-font/raindrops_5068885)|1438|
+|Fire & Smoke|[Flame](https://www.flaticon.com/free-icon-font/flame_3916980)|1439|
+|Mold Remediation|[Disease](https://www.flaticon.com/free-icon-font/disease_9856315)|1440|
+|Reconstruction|[Wrench Simple](https://www.flaticon.com/free-icon-font/wrench-simple_8778079)|1441|
+|Storm Damage|[Thunderstorm](https://www.flaticon.com/free-icon-font/thunderstorm_6854083)|1442|
+|Personal Property|[Box Open](https://www.flaticon.com/free-icon-font/box-open_9238295)|1443|
+
+All six are Flaticon/Uicons fi-rr, original SVG paths, single-color outline artwork. Downloaded from the verified detail-page original SVG media through the authenticated Premium browser. Original files and individual license PDFs retained privately in work/icon-rollout-1023/originals, outside this repository. Uploaded through the existing Elementor-aware WordPress media handler and sanitizer; no upload/security settings changed. Filenames gcpro-fi-rr-{slug}.svg. Do not upload copies per page.
+
+Targets: Home154 Core section3fd180bb SVGs5071b7ac/2de7976c/7971ab6/16d7e4c2/1acc89e6/55d70b59. Native32px dimensions and color-accent (#F05A29). Residential484 service-card instances170443ba/3ed0e60b/dedb673/740bef0f/44127e7c/16d63af0. Commercial499 instances08061908/6b3576ff/d9949af5/0159b3bb/d7701a35. Existing Service Card62 SVG4a4396ac defaults to1438 and retains icon/title/description/cta_text/cta_link exposures. Its56px badge remains; native12px inset provides32px artwork. No content/link/layout edits intended.
+
+Legacy icon-svg has a fill:none descendant rule incompatible with expanded Uicons paths. Removed that class only from the six Home SVGs and Service Card62 SVG; retained service-card__icon and added local native paint/sizing. Shared icon-svg, Why1149 and other Global Classes unchanged. No new classes, Variables, Components, custom code, fonts/CDNs, plugins or dependencies. Six unique media uploads only.
+
+**Pending approval:** Commercial General Contracting instance c290c54d retains207; do not assume the Reconstruction approval covers that distinct concept. Feature Card65 retains203; no approved equivalent selected for its generic feature role. Other proposed registry concepts remain unapproved. Certification/brand/social marks, BEAF controls, navigation arrows and functional FAQ arrows excluded. Existing individual service pages and reusable components were included in saved-configuration inventory; no blanket all-page visual sign-off claimed.
+
+**Verification/stop:** Home actual Chrome1440/768/393: six32px orange SVGs, no overflow, desktop/tablet40px track/24px gap and existing mobile32px/16px preserved; row-arrow hover responds. Owner explicitly stopped further verification. Residential/Commercial/individual-page final visual verification and full final preservation diff remain unverified. Owner owns final visual acceptance; routine future work gets only a minimal technical sanity check unless more QA is requested.
+
+**Rollback:** Private all-posts-before.json and components-before.json under work/icon-rollout-1023 retain exact settings. Home prior IDs596/597/607/599/600/601, class icon-svg, no local icon styles. Restore hub icon Overrides from snapshots. Service Card62 previously defaulted192, classes service-card__icon + icon-svg, no local style. Restore its original SVG/classes/local style and all five exposed properties together; publish the component and affected pages through native lifecycle. Keep new media for recovery until unused references are established; no deletions authorized. No production changes.
+
