@@ -1,0 +1,512 @@
+{
+  "items": {
+    "487": [
+      [
+        "Standing Water",
+        "Visible water on the floor is a direct extraction need after a leak or flooding."
+      ],
+      [
+        "Basement Water",
+        "Water can collect in lower-level rooms and affect finishes and belongings close to the floor."
+      ],
+      [
+        "Water Across Rooms",
+        "A single leak can spread through doorways into adjoining spaces, enlarging the affected area."
+      ],
+      [
+        "Water Beneath Finishes",
+        "Wet flooring and nearby materials can remain affected beyond the visible standing water."
+      ],
+      [
+        "Extraction Before Drying",
+        "Removing standing water is one part of recovery; affected building materials may still need drying."
+      ],
+      [
+        "Belongings in Wet Areas",
+        "Furniture and personal items exposed to water may need separate packing and restoration."
+      ]
+    ],
+    "488": [
+      [
+        "Broken Windows",
+        "Damaged glazing can leave an opening exposed while permanent window repairs are arranged."
+      ],
+      [
+        "Damaged Doors",
+        "A damaged exterior door can leave the building needing temporary protection."
+      ],
+      [
+        "Fire-Damaged Openings",
+        "Fire can damage windows, doors and surrounding areas before reconstruction begins."
+      ],
+      [
+        "Storm-Damaged Openings",
+        "Wind or storm damage can leave openings exposed to further weather."
+      ],
+      [
+        "Openings Awaiting Repairs",
+        "Board-up can provide temporary protection while damaged windows or doors await permanent repair."
+      ],
+      [
+        "Multiple Exposed Areas",
+        "A property loss can affect more than one opening, including areas on different sides of a building."
+      ]
+    ],
+    "489": [
+      [
+        "Smoke Odors",
+        "Smoke can leave lingering odors in rooms and materials beyond the original fire area."
+      ],
+      [
+        "Odors After Water Damage",
+        "An area with a history of leaks or flooding may have odor concerns alongside moisture damage."
+      ],
+      [
+        "Affected Wall Finishes",
+        "Odors can remain associated with damaged wall and ceiling finishes after a property loss."
+      ],
+      [
+        "Odors in Belongings",
+        "Furniture and personal items may need contents restoration when odors remain in the items themselves."
+      ],
+      [
+        "Odors Across Rooms",
+        "An odor concern can extend into adjoining spaces rather than staying in one visibly damaged room."
+      ],
+      [
+        "Odors After Cleanup",
+        "Persistent smells after visible cleanup are a reason to review the source and affected materials."
+      ]
+    ],
+    "490": [
+      [
+        "Visible Wet Areas",
+        "Areas with obvious water damage provide a starting point for reviewing moisture in the property."
+      ],
+      [
+        "Beyond the Water Stain",
+        "Moisture concerns may extend past a visible stain into adjoining building materials."
+      ],
+      [
+        "Affected Walls",
+        "Wall finishes near a leak can need moisture assessment even where the surface looks less affected."
+      ],
+      [
+        "Ceilings Below Leaks",
+        "Water from above can affect ceiling materials and nearby areas beneath the original source."
+      ],
+      [
+        "Flooring After Water Damage",
+        "Wet floor finishes and adjoining materials can raise questions about the extent of moisture."
+      ],
+      [
+        "Drying Progress",
+        "Moisture assessment helps inform the next steps for drying and repair planning."
+      ]
+    ],
+    "491": [
+      [
+        "Wet Building Materials",
+        "Walls, ceilings and other materials can remain damp after a leak or flooding."
+      ],
+      [
+        "After Water Extraction",
+        "Removing standing water does not complete the drying of affected building materials."
+      ],
+      [
+        "Damp Enclosed Rooms",
+        "Rooms affected by water can need drying support even when there is no visible puddle."
+      ],
+      [
+        "Moisture Across Rooms",
+        "Water can affect adjoining spaces, leaving drying needs beyond the first visibly damaged area."
+      ],
+      [
+        "Before Finish Repairs",
+        "Drying affected areas is part of preparing the property for the next repair steps."
+      ],
+      [
+        "Remaining Dampness",
+        "Materials that still appear or feel damp after initial cleanup may need further drying attention."
+      ]
+    ],
+    "514": [
+      [
+        "Burst and Leaking Pipes",
+        "A broken pipe or slow supply-line leak can soak walls, floors and adjoining rooms."
+      ],
+      [
+        "Basement Flooding",
+        "Standing water can affect lower-level finishes and belongings, including materials beneath the visible surface."
+      ],
+      [
+        "Appliance Leaks",
+        "Leaks at appliance connections can spread beneath cabinets and flooring beyond the visible puddle."
+      ],
+      [
+        "Ceiling Leaks",
+        "Stains and damaged ceiling finishes can result from plumbing, an upstairs room or a roof leak."
+      ],
+      [
+        "Stormwater Intrusion",
+        "Rain entering through damaged openings can affect interior finishes and the building materials behind them."
+      ],
+      [
+        "Water-Affected Belongings",
+        "Furniture and personal items may need packing and restoration alongside the building's water cleanup."
+      ]
+    ],
+    "515": [
+      [
+        "Water Across Rooms",
+        "A leak can affect several rooms or units, extending beyond the first area where water is noticed."
+      ],
+      [
+        "Wet Common Areas",
+        "Water in corridors and shared rooms can affect finishes used by tenants, employees and visitors."
+      ],
+      [
+        "Ceiling Leaks",
+        "Water from an upper floor or plumbing can damage ceilings and the spaces below them."
+      ],
+      [
+        "Damaged Flooring",
+        "Standing water and leaks can affect floor finishes and materials beneath the visible surface."
+      ],
+      [
+        "Business Belongings",
+        "Affected furniture and other belongings may need packing and restoration alongside building cleanup."
+      ],
+      [
+        "Repairs After Water Damage",
+        "Walls, ceilings and other finishes may need reconstruction after extraction and drying."
+      ]
+    ],
+    "516": [
+      [
+        "Visible Mold Growth",
+        "Growth or staining on interior surfaces is a reason to discuss mold removal and the affected materials."
+      ],
+      [
+        "Attic Sheathing",
+        "Mold can affect roof sheathing and framing in an attic, as shown in GCPRO's project gallery."
+      ],
+      [
+        "Water-Damaged Walls",
+        "Damp drywall and nearby finishes can develop mold concerns after a leak or water intrusion."
+      ],
+      [
+        "Damp Ceilings",
+        "Ceiling stains and visible growth may follow water from plumbing, an upstairs room or a roof leak."
+      ],
+      [
+        "Recurring Moisture",
+        "Growth that returns after cleaning can point to an unresolved moisture source affecting the same area."
+      ],
+      [
+        "Repairs After Removal",
+        "Materials affected by mold or opened during restoration may need repair once removal work is complete."
+      ]
+    ],
+    "517": [
+      [
+        "Burned Materials",
+        "Fire can damage wall finishes, ceilings and exposed framing, leaving areas that need cleanup and repairs."
+      ],
+      [
+        "Smoke and Soot",
+        "Smoke residue can reach rooms beyond the fire, affecting walls, ceilings and other surfaces."
+      ],
+      [
+        "Lingering Smoke Odors",
+        "Odors may remain in affected rooms and materials after visible debris has been removed."
+      ],
+      [
+        "Firefighting Water",
+        "Water used to extinguish a fire can leave wet flooring, walls and ceilings needing water restoration."
+      ],
+      [
+        "Damaged Belongings",
+        "Furniture and personal items affected by smoke, soot or water may need packing and restoration."
+      ],
+      [
+        "Interior Repairs",
+        "Damaged finishes and opened-up rooms may need reconstruction after the initial restoration work."
+      ]
+    ],
+    "518": [
+      [
+        "Damaged Interiors",
+        "Walls, ceilings and flooring may need reconstruction after a property loss or restoration work."
+      ],
+      [
+        "Kitchen Reconstruction",
+        "GCPRO's kitchen projects show renewed cabinets, counters and finishes within an existing home."
+      ],
+      [
+        "Bathroom Reconstruction",
+        "Bathroom projects can bring damaged or outdated spaces back together with coordinated interior finishes."
+      ],
+      [
+        "Exterior Repairs",
+        "Damaged exterior building elements may need repairs to complete the property's recovery."
+      ],
+      [
+        "Opened Walls and Ceilings",
+        "Areas opened during cleanup can need new finishes so the room can be put back into use."
+      ],
+      [
+        "Connected Living Spaces",
+        "Reconstruction can address adjoining rooms affected by the same loss, helping the interior come back together."
+      ]
+    ],
+    "519": [
+      [
+        "Visible Interior Growth",
+        "Growth on walls or other surfaces can affect tenant rooms, workplaces and shared areas."
+      ],
+      [
+        "Damp Wall Materials",
+        "Leaks can leave wall finishes and nearby materials damp, creating areas of concern for mold removal."
+      ],
+      [
+        "Affected Ceilings",
+        "Ceiling stains and visible growth can follow plumbing leaks or water entering from above."
+      ],
+      [
+        "Shared Property Areas",
+        "Mold concerns in corridors and common rooms can involve surfaces used by more than one occupant."
+      ],
+      [
+        "Recurring Leak Damage",
+        "Repeated water intrusion can affect the same building area and contribute to recurring growth."
+      ],
+      [
+        "Material Repairs",
+        "Finishes affected by mold or opened during restoration may need repairs after removal work."
+      ]
+    ],
+    "520": [
+      [
+        "Fire-Damaged Rooms",
+        "Burned finishes and exposed building materials can affect offices, tenant spaces and shared rooms."
+      ],
+      [
+        "Smoke Beyond the Fire",
+        "Smoke and soot may reach adjacent spaces, leaving residue beyond the original fire area."
+      ],
+      [
+        "Persistent Odors",
+        "Smoke odors can remain in building materials and occupied rooms after visible debris is cleared."
+      ],
+      [
+        "Water From Firefighting",
+        "Wet walls, ceilings and flooring can add water restoration needs to the fire damage."
+      ],
+      [
+        "Business Contents",
+        "Furniture and other belongings exposed to smoke, soot or water may need packing and restoration."
+      ],
+      [
+        "Building Repairs",
+        "Damaged interiors may need reconstruction to complete the recovery after cleanup."
+      ]
+    ],
+    "521": [
+      [
+        "Furniture Restoration",
+        "Furniture affected by water, smoke or other property damage can be reviewed for restoration."
+      ],
+      [
+        "Packing Damaged Items",
+        "GCPRO packs affected belongings as part of contents restoration, keeping item care distinct from building repairs."
+      ],
+      [
+        "Smoke-Affected Belongings",
+        "Smoke and soot can affect personal items beyond the room where a fire started."
+      ],
+      [
+        "Water-Affected Items",
+        "Leaks and flooding can reach belongings on floors, in cabinets and in adjoining rooms."
+      ],
+      [
+        "Contents Odors",
+        "Lingering odors in belongings can remain a concern even after the surrounding room has been cleaned."
+      ],
+      [
+        "Items Near Repair Areas",
+        "Belongings around damaged walls, ceilings or floors may need packing while the property is restored."
+      ]
+    ],
+    "522": [
+      [
+        "Interior Building Repairs",
+        "Existing commercial interiors may need repairs to damaged walls, ceilings and other finishes."
+      ],
+      [
+        "Shared Room Improvements",
+        "Common rooms can need coordinated interior work, as shown in GCPRO's clubroom project."
+      ],
+      [
+        "Entrance Improvements",
+        "GCPRO's entrance project illustrates building work at a property's arrival and access area."
+      ],
+      [
+        "Existing Space Updates",
+        "Rooms with worn or damaged finishes can need updates within the existing building."
+      ],
+      [
+        "Post-Loss Reconstruction",
+        "Restoration after fire or water damage can lead to a wider set of building repair needs."
+      ],
+      [
+        "Connected Repair Areas",
+        "Adjacent rooms and building areas can have related repairs that need to be considered together."
+      ]
+    ],
+    "523": [
+      [
+        "Rainwater Intrusion",
+        "Rain entering the building can leave wet walls, ceilings and floors beyond the visible opening."
+      ],
+      [
+        "Damaged Exterior Areas",
+        "Storm damage to exterior building elements can leave the property needing repairs."
+      ],
+      [
+        "Ceiling and Wall Damage",
+        "Water stains, damaged finishes and exposed materials can remain after the weather has passed."
+      ],
+      [
+        "Wet Flooring",
+        "Water can spread across flooring and reach materials beneath the surface."
+      ],
+      [
+        "Affected Belongings",
+        "Furniture and personal items exposed to stormwater may need packing and restoration."
+      ],
+      [
+        "Exposed Openings",
+        "Damaged windows or doors can leave openings that need temporary protection before permanent repairs."
+      ]
+    ],
+    "524": [
+      [
+        "Interior Finish Repairs",
+        "Damaged wall, ceiling and floor finishes may need reconstruction following a property loss."
+      ],
+      [
+        "Common Room Updates",
+        "GCPRO's project gallery includes work on a shared clubroom and its interior finishes."
+      ],
+      [
+        "Entrance Repairs",
+        "Building entrances can need repair or reconstruction, as shown in GCPRO's entrance project."
+      ],
+      [
+        "Tenant Space Repairs",
+        "Affected rooms within an occupied property may need building repairs alongside common areas."
+      ],
+      [
+        "Opened Building Areas",
+        "Walls and ceilings opened during restoration can need finishing to bring the space back together."
+      ],
+      [
+        "Rebuilding After Damage",
+        "Fire, water or other property damage may leave connected repair needs beyond the initial cleanup."
+      ]
+    ],
+    "525": [
+      [
+        "Business Furniture",
+        "Furniture affected by a property loss can be reviewed for contents restoration."
+      ],
+      [
+        "Packing Affected Items",
+        "GCPRO packs damaged belongings as part of its contents restoration service."
+      ],
+      [
+        "Water-Affected Contents",
+        "Leaks and flooding can reach items in work areas, common rooms and tenant spaces."
+      ],
+      [
+        "Smoke and Soot Exposure",
+        "Smoke residue can affect belongings beyond the room where a fire started."
+      ],
+      [
+        "Lingering Contents Odors",
+        "Odor concerns in affected items may remain after the building itself has been cleaned."
+      ],
+      [
+        "Contents Around Repairs",
+        "Belongings near damaged walls, ceilings or floors may need packing during property restoration."
+      ]
+    ]
+  },
+  "sectionHeadings": {
+    "487": [
+      "Where Water Extraction Helps",
+      "Standing water can spread through rooms and leave surrounding materials wet. Extraction is the first part of addressing that water."
+    ],
+    "488": [
+      "Temporary Protection for Openings",
+      "Damaged windows and doors can leave a property exposed before permanent repairs begin."
+    ],
+    "489": [
+      "Odor Concerns After Damage",
+      "Smoke, water damage and affected belongings can leave persistent odors in different parts of a property."
+    ],
+    "490": [
+      "Understanding Affected Moisture Areas",
+      "Moisture assessment helps review where water has reached and informs drying and repair decisions."
+    ],
+    "491": [
+      "Drying Water-Affected Areas",
+      "Building materials can remain damp after standing water is removed. Drying supports the next stage of property recovery."
+    ],
+    "515": [
+      "Commercial Water Damage",
+      "Water can affect tenant spaces, common areas, building finishes and business belongings in the same loss."
+    ],
+    "516": [
+      "Mold-Affected Areas",
+      "Mold concerns often follow damp conditions or a previous leak. The affected surfaces and materials help define the removal and repair needs."
+    ],
+    "517": [
+      "Fire and Smoke Damage",
+      "Fire can affect the building, its contents and adjoining rooms through heat, smoke and firefighting water."
+    ],
+    "518": [
+      "Reconstruction and Repair Needs",
+      "Bring damaged spaces back together with building repairs suited to the affected rooms and materials."
+    ],
+    "519": [
+      "Mold in Commercial Properties",
+      "Leaks and persistent dampness can affect workplaces, tenant rooms and shared building areas."
+    ],
+    "520": [
+      "Commercial Fire and Smoke Damage",
+      "A business property can face burned materials, smoke residue, wet interiors and damaged contents after a fire."
+    ],
+    "521": [
+      "Belongings That Need Restoration",
+      "GCPRO packs and restores belongings affected by property damage, with attention to each item's condition."
+    ],
+    "522": [
+      "Commercial Building Work",
+      "Existing buildings can need interior repairs, shared-space improvements and reconstruction after property damage."
+    ],
+    "523": [
+      "Storm Damage Around Your Property",
+      "Storm damage can involve exposed openings, wet interiors and affected belongings. These areas help identify the restoration and repair needs."
+    ],
+    "524": [
+      "Commercial Reconstruction Needs",
+      "Building repairs can bring damaged interiors, shared spaces and entrances back together after restoration."
+    ],
+    "525": [
+      "Commercial Contents Restoration",
+      "GCPRO packs and restores damaged belongings, including furniture and other contents affected by a business property loss."
+    ]
+  }
+}

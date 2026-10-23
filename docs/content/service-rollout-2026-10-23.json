@@ -8,32 +8,32 @@
     "title": "Fire & Smoke Damage Restoration Chicago | GCPRO",
     "description": "Discuss fire and smoke damage with GCPRO. Explore assessment, cleanup considerations, contents and repair handoffs, and genuine restoration work.",
     "intro": "Fire damage can involve burned materials, smoke residue, odors and water left from firefighting. Talk to GCPRO about the affected areas and a practical path toward recovery.",
-    "scopeTitle": "Understanding Fire and Smoke Damage",
-    "scopeIntro": "A fire can affect more than the room where it started. The restoration scope depends on the materials, access and condition of each affected area.",
+    "scopeTitle": "Fire and Smoke Damage",
+    "scopeIntro": "Fire can affect the building, its contents and adjoining rooms through heat, smoke and firefighting water.",
     "scope": [
       [
-        "Fire-Damaged Building Areas",
-        "Burned finishes and exposed building materials need a clear assessment before a cleanup or repair scope is agreed."
+        "Burned Materials",
+        "Fire can damage wall finishes, ceilings and exposed framing, leaving areas that need cleanup and repairs."
       ],
       [
-        "Smoke and Soot Residue",
-        "Describe visible residue and the rooms it reached. Different surfaces may need different restoration decisions."
+        "Smoke and Soot",
+        "Smoke residue can reach rooms beyond the fire, affecting walls, ceilings and other surfaces."
       ],
       [
-        "Lingering Odors",
-        "Odor concerns belong in the assessment alongside visible damage. No single treatment can be promised before the source and materials are understood."
+        "Lingering Smoke Odors",
+        "Odors may remain in affected rooms and materials after visible debris has been removed."
       ],
       [
-        "Water After Firefighting",
-        "Wet ceilings, walls and flooring may need a separate water-recovery plan as part of the wider loss."
+        "Firefighting Water",
+        "Water used to extinguish a fire can leave wet flooring, walls and ceilings needing water restoration."
       ],
       [
-        "Furniture and Personal Belongings",
-        "Identify affected items for discussion. Their condition determines whether restoration is appropriate; not every item can be recovered."
+        "Damaged Belongings",
+        "Furniture and personal items affected by smoke, soot or water may need packing and restoration."
       ],
       [
-        "Access After the Fire",
-        "Confirm that entry has been authorized and explain any restrictions before planning restoration work."
+        "Interior Repairs",
+        "Damaged finishes and opened-up rooms may need reconstruction after the initial restoration work."
       ]
     ],
     "process": [
@@ -102,14 +102,6 @@
         "There is no reliable standard timeline before the property is assessed. Access, damage extent, material decisions and the agreed repair scope affect the sequence."
       ]
     ],
-    "scopeIcons": [
-      1439,
-      1439,
-      1435,
-      1438,
-      1443,
-      1425
-    ],
     "proofSliders": [
       1200,
       1600
@@ -124,32 +116,32 @@
     "title": "Mold Remediation & Removal Chicago | GCPRO",
     "description": "Explore GCPRO mold remediation, moisture-related concerns and attic project photos. GCPRO does not perform mold testing. Call to discuss your property.",
     "intro": "Visible mold or recurring moisture deserves a clear discussion of the affected materials and the work needed. GCPRO provides mold remediation; mold testing is not a GCPRO service.",
-    "scopeTitle": "Mold Concerns and Remediation Scope",
-    "scopeIntro": "Describe what is visible, where moisture has occurred and which materials are affected. Testing and remediation are separate activities.",
+    "scopeTitle": "Mold-Affected Areas",
+    "scopeIntro": "Mold concerns often follow damp conditions or a previous leak. The affected surfaces and materials help define the removal and repair needs.",
     "scope": [
       [
-        "Visible Growth or Staining",
-        "Point out the affected surfaces and rooms. A photograph alone cannot establish the full extent or cause."
+        "Visible Mold Growth",
+        "Growth or staining on interior surfaces is a reason to discuss mold removal and the affected materials."
       ],
       [
-        "Attic and Roof-Sheathing Concerns",
-        "The existing gallery includes attic mold-removal photographs. Your attic still needs its own assessment and scope."
+        "Attic Sheathing",
+        "Mold can affect roof sheathing and framing in an attic, as shown in GCPRO's project gallery."
       ],
       [
-        "Water-Damaged Materials",
-        "Leaks and water damage can be relevant to recurring moisture. Discuss the moisture source alongside the affected finishes or framing."
+        "Water-Damaged Walls",
+        "Damp drywall and nearby finishes can develop mold concerns after a leak or water intrusion."
       ],
       [
-        "Occupied Rooms and Access",
-        "Explain which areas are in use and any access restrictions. The working area and proposed work should be clear before it begins."
+        "Damp Ceilings",
+        "Ceiling stains and visible growth may follow water from plumbing, an upstairs room or a roof leak."
       ],
       [
-        "Testing Is Not Included",
-        "GCPRO does not perform mold testing or post-remediation testing. If testing is required, arrange it separately; it must not be assumed to be part of GCPRO's work."
+        "Recurring Moisture",
+        "Growth that returns after cleaning can point to an unresolved moisture source affecting the same area."
       ],
       [
-        "Moisture-Source Repairs",
-        "Clarify who will address a leak or other moisture source alongside the remediation scope."
+        "Repairs After Removal",
+        "Materials affected by mold or opened during restoration may need repair once removal work is complete."
       ]
     ],
     "process": [
@@ -218,14 +210,6 @@
         "No such guarantee is made here. Future moisture conditions and repairs outside the remediation scope can affect the property."
       ]
     ],
-    "scopeIcons": [
-      1440,
-      1425,
-      1438,
-      1425,
-      1435,
-      1441
-    ],
     "proofSliders": [
       1596,
       742
@@ -240,32 +224,32 @@
     "title": "Property Reconstruction & Repairs Chicago | GCPRO",
     "description": "Explore GCPRO property reconstruction after damage, repair planning and verified kitchen and bathroom project photos. Call to discuss your property's scope.",
     "intro": "After damage-related work, the property may still need building repairs and finished spaces. Talk to GCPRO about reconstruction needs, priorities and the scope for your home.",
-    "scopeTitle": "Planning the Rebuild",
-    "scopeIntro": "Reconstruction is the building-repair stage of recovery. Its scope should reflect the actual condition and the work already completed.",
+    "scopeTitle": "Reconstruction and Repair Needs",
+    "scopeIntro": "Bring damaged spaces back together with building repairs suited to the affected rooms and materials.",
     "scope": [
       [
-        "Damaged Interior Areas",
-        "Identify walls, ceilings, flooring and other finishes that remain affected after the initial restoration work."
+        "Damaged Interiors",
+        "Walls, ceilings and flooring may need reconstruction after a property loss or restoration work."
       ],
       [
-        "Kitchens",
-        "Existing project photographs include a reconstructed kitchen. Discuss your room's condition, layout and finish decisions separately."
+        "Kitchen Reconstruction",
+        "GCPRO's kitchen projects show renewed cabinets, counters and finishes within an existing home."
       ],
       [
-        "Bathrooms",
-        "Bathroom project photographs show completed finishes and fixtures. They do not establish what a different project will include."
+        "Bathroom Reconstruction",
+        "Bathroom projects can bring damaged or outdated spaces back together with coordinated interior finishes."
       ],
       [
-        "Exterior Building Repairs",
-        "Discuss damaged exterior areas as part of a defined repair scope rather than assuming a complete exterior replacement."
+        "Exterior Repairs",
+        "Damaged exterior building elements may need repairs to complete the property's recovery."
       ],
       [
-        "Scope and Finish Decisions",
-        "Clarify the rooms, materials and items included before work begins. Changes to the agreed scope need a separate discussion."
+        "Opened Walls and Ceilings",
+        "Areas opened during cleanup can need new finishes so the room can be put back into use."
       ],
       [
-        "Earlier Restoration Work",
-        "Explain what cleanup or remediation has already happened so the remaining building work can be defined."
+        "Connected Living Spaces",
+        "Reconstruction can address adjoining rooms affected by the same loss, helping the interior come back together."
       ]
     ],
     "process": [
@@ -334,14 +318,6 @@
         "A reliable schedule depends on the scope, access, decisions and materials. Confirm the proposed schedule for your project."
       ]
     ],
-    "scopeIcons": [
-      1441,
-      1425,
-      1425,
-      1441,
-      1435,
-      1441
-    ],
     "proofSliders": [
       1591,
       1595
@@ -356,32 +332,32 @@
     "title": "Storm Damage Restoration Chicago | GCPRO",
     "description": "Discuss storm-related property damage with GCPRO. Explore water intrusion, damaged building areas, assessment and repair planning in Chicagoland.",
     "intro": "After a storm, water intrusion and damaged building areas can create several recovery tasks. Describe what happened to GCPRO so the affected areas and next steps can be discussed.",
-    "scopeTitle": "Sorting Out Storm-Related Damage",
-    "scopeIntro": "The useful starting point is the property's condition, not a standard storm package. Do not assume every weather event requires the same repairs.",
+    "scopeTitle": "Storm Damage Around Your Property",
+    "scopeIntro": "Storm damage can involve exposed openings, wet interiors and affected belongings. These areas help identify the restoration and repair needs.",
     "scope": [
       [
-        "Water Intrusion",
-        "Identify where water entered and which rooms or finishes became wet."
+        "Rainwater Intrusion",
+        "Rain entering the building can leave wet walls, ceilings and floors beyond the visible opening."
       ],
       [
         "Damaged Exterior Areas",
-        "Describe visible damage to the building envelope or openings. The appropriate repair scope depends on the condition."
+        "Storm damage to exterior building elements can leave the property needing repairs."
       ],
       [
-        "Affected Interior Finishes",
-        "Ceilings, walls and floors may need attention even where the outside damage appears limited."
+        "Ceiling and Wall Damage",
+        "Water stains, damaged finishes and exposed materials can remain after the weather has passed."
       ],
       [
-        "Furniture and Belongings",
-        "List items affected by water or debris separately from the building repairs."
+        "Wet Flooring",
+        "Water can spread across flooring and reach materials beneath the surface."
       ],
       [
-        "Repair Handoffs",
-        "Clarify which temporary protection, water-recovery and rebuilding tasks are needed. No roofing-only or structural-engineering service is promised here."
+        "Affected Belongings",
+        "Furniture and personal items exposed to stormwater may need packing and restoration."
       ],
       [
-        "Temporary Opening Protection",
-        "Discuss whether damaged openings need temporary protection before permanent repairs are planned."
+        "Exposed Openings",
+        "Damaged windows or doors can leave openings that need temporary protection before permanent repairs."
       ]
     ],
     "process": [
@@ -450,14 +426,6 @@
         "No coverage or payment guarantee is made. Your insurer's decisions are separate from the agreed restoration scope."
       ]
     ],
-    "scopeIcons": [
-      1438,
-      1442,
-      1425,
-      1443,
-      1441,
-      1425
-    ],
     "proofSliders": []
   },
   {
@@ -469,32 +437,32 @@
     "title": "Personal Property Restoration Chicago | GCPRO",
     "description": "Talk to GCPRO about furniture and personal belongings affected by property damage. Explore item assessment and recovery considerations without recovery guarantees.",
     "intro": "GCPRO provides contents restoration, including packing and restoring damaged belongings. Discuss affected furniture and personal property separately from the building repairs.",
-    "scopeTitle": "Start With the Affected Items",
-    "scopeIntro": "The available options depend on the individual item and its condition. This page does not promise that every belonging can be restored.",
+    "scopeTitle": "Belongings That Need Restoration",
+    "scopeIntro": "GCPRO packs and restores belongings affected by property damage, with attention to each item's condition.",
     "scope": [
       [
-        "Furniture",
-        "Describe the material, visible damage and where the item was located during the loss."
+        "Furniture Restoration",
+        "Furniture affected by water, smoke or other property damage can be reviewed for restoration."
       ],
       [
-        "Packing Damaged Belongings",
-        "GCPRO packs damaged belongings as part of contents restoration. Discuss the items and handling scope before work begins."
+        "Packing Damaged Items",
+        "GCPRO packs affected belongings as part of contents restoration, keeping item care distinct from building repairs."
       ],
       [
-        "Smoke-Affected Items",
-        "Explain residue or odor concerns and the item's exposure to the fire."
+        "Smoke-Affected Belongings",
+        "Smoke and soot can affect personal items beyond the room where a fire started."
       ],
       [
         "Water-Affected Items",
-        "Explain how and when the item became wet and any visible changes."
+        "Leaks and flooding can reach belongings on floors, in cabinets and in adjoining rooms."
       ],
       [
-        "Item-Specific Decisions",
-        "Confirm what is included for each item. Storage and return logistics need a separate discussion and are not promised here."
+        "Contents Odors",
+        "Lingering odors in belongings can remain a concern even after the surrounding room has been cleaned."
       ],
       [
-        "Priority Belongings",
-        "Identify important or sentimental items early, without assuming that condition or recoverability will allow restoration."
+        "Items Near Repair Areas",
+        "Belongings around damaged walls, ceilings or floors may need packing while the property is restored."
       ]
     ],
     "process": [
@@ -563,14 +531,6 @@
         "Discuss the condition and available options before decisions are made. Do not assume every damaged item can be recovered."
       ]
     ],
-    "scopeIcons": [
-      1443,
-      1443,
-      1439,
-      1438,
-      1441,
-      1435
-    ],
     "proofSliders": []
   },
   {
@@ -582,32 +542,32 @@
     "title": "Commercial Water Damage Recovery Chicago | GCPRO",
     "description": "Discuss water damage at business premises with GCPRO. Prepare property contacts, affected-area information and access questions for a clear recovery scope.",
     "intro": "Water damage at a business affects the building and the people using it. Prepare a clear account of the affected premises, contact responsibilities and operating constraints for your conversation with GCPRO.",
-    "scopeTitle": "Information a Business Water Loss Needs",
-    "scopeIntro": "Use this page to prepare a business-specific discussion. The actual access arrangements, reporting and schedule must be agreed for your property.",
+    "scopeTitle": "Commercial Water Damage",
+    "scopeIntro": "Water can affect tenant spaces, common areas, building finishes and business belongings in the same loss.",
     "scope": [
       [
-        "Property Contact and Authority",
-        "Identify who can discuss the premises, authorize work and communicate decisions. A tenant's responsibilities may differ from the owner's."
+        "Water Across Rooms",
+        "A leak can affect several rooms or units, extending beyond the first area where water is noticed."
       ],
       [
-        "Affected Units and Common Areas",
-        "List occupied rooms, shared corridors and other affected building areas without assuming they require the same work."
+        "Wet Common Areas",
+        "Water in corridors and shared rooms can affect finishes used by tenants, employees and visitors."
       ],
       [
-        "Access and Operating Hours",
-        "Explain access restrictions and business hours. No after-hours or uninterrupted-operation arrangement is promised."
+        "Ceiling Leaks",
+        "Water from an upper floor or plumbing can damage ceilings and the spaces below them."
       ],
       [
-        "Building Versus Business Contents",
-        "Separate wet building materials from furniture and other business-owned belongings."
+        "Damaged Flooring",
+        "Standing water and leaks can affect floor finishes and materials beneath the visible surface."
       ],
       [
-        "Records and Decisions",
-        "Prepare the time of discovery, affected-area notes and available photos. Confirm any reporting requirements directly rather than assuming a particular documentation package."
+        "Business Belongings",
+        "Affected furniture and other belongings may need packing and restoration alongside building cleanup."
       ],
       [
-        "Repair Handoff",
-        "Identify building repairs that may follow water recovery and keep their responsibilities clear."
+        "Repairs After Water Damage",
+        "Walls, ceilings and other finishes may need reconstruction after extraction and drying."
       ]
     ],
     "process": [
@@ -676,14 +636,6 @@
         "No. The main Water Damage page explains the general recovery process. This page focuses on business-premises questions and decision-making."
       ]
     ],
-    "scopeIcons": [
-      1435,
-      1425,
-      1425,
-      1443,
-      1435,
-      1441
-    ],
     "proofSliders": []
   },
   {
@@ -695,32 +647,32 @@
     "title": "Commercial Mold Remediation Chicago | GCPRO",
     "description": "Discuss mold remediation at business premises with GCPRO. Clarify affected areas, property responsibilities and access. GCPRO does not perform mold testing.",
     "intro": "Mold concerns in business premises need a defined work area and a clear property contact. GCPRO provides remediation, not mold testing; discuss the actual premises and proposed scope before making operating plans.",
-    "scopeTitle": "Commercial Mold: Questions to Resolve",
-    "scopeIntro": "Business needs can differ between occupied rooms, tenant spaces and common areas. Specific containment, access and verification arrangements are not assumed.",
+    "scopeTitle": "Mold in Commercial Properties",
+    "scopeIntro": "Leaks and persistent dampness can affect workplaces, tenant rooms and shared building areas.",
     "scope": [
       [
-        "Affected Premises",
-        "Identify the rooms, tenant spaces or common areas where the concern is visible."
+        "Visible Interior Growth",
+        "Growth on walls or other surfaces can affect tenant rooms, workplaces and shared areas."
       ],
       [
-        "Moisture History",
-        "Share known leaks or earlier water damage so moisture-source questions can be considered alongside remediation."
+        "Damp Wall Materials",
+        "Leaks can leave wall finishes and nearby materials damp, creating areas of concern for mold removal."
       ],
       [
-        "Who Can Agree to Work",
-        "Identify the owner or authorized property contact and who else needs to be informed."
+        "Affected Ceilings",
+        "Ceiling stains and visible growth can follow plumbing leaks or water entering from above."
       ],
       [
-        "Occupied Areas and Access",
-        "Explain how the premises are used. Discuss work-area restrictions directly; no continued-occupancy or containment program is promised here."
+        "Shared Property Areas",
+        "Mold concerns in corridors and common rooms can involve surfaces used by more than one occupant."
       ],
       [
-        "Testing Is Separate",
-        "GCPRO does not perform mold testing or post-remediation testing. No testing arrangement is included or implied."
+        "Recurring Leak Damage",
+        "Repeated water intrusion can affect the same building area and contribute to recurring growth."
       ],
       [
-        "Building-Material Repairs",
-        "Discuss finishes or materials that may need separate repair after the agreed remediation work."
+        "Material Repairs",
+        "Finishes affected by mold or opened during restoration may need repairs after removal work."
       ]
     ],
     "process": [
@@ -789,14 +741,6 @@
         "The main page explains general remediation. This page helps business-property contacts organize premises, authority and access questions without promising a separate testing service."
       ]
     ],
-    "scopeIcons": [
-      1425,
-      1438,
-      1435,
-      1425,
-      1435,
-      1441
-    ],
     "proofSliders": []
   },
   {
@@ -808,32 +752,32 @@
     "title": "Business Fire & Smoke Recovery Chicago | GCPRO",
     "description": "Prepare for a business fire-loss discussion with GCPRO: affected premises, authorized contacts, building repairs and damaged belongings. No operating-time guarantees.",
     "intro": "For a business fire loss, the condition of the building is only part of the discussion. Identify the property contact, affected operating areas and damaged belongings before agreeing on the restoration scope.",
-    "scopeTitle": "A Business-Focused Fire Recovery Brief",
-    "scopeIntro": "This page supports the main fire-restoration information. It does not promise specialist industry programs, uninterrupted operations or a standard reopening schedule.",
+    "scopeTitle": "Commercial Fire and Smoke Damage",
+    "scopeIntro": "A business property can face burned materials, smoke residue, wet interiors and damaged contents after a fire.",
     "scope": [
       [
-        "Authorized Decisions",
-        "Identify the person who can agree to the building scope and communicate decisions."
+        "Fire-Damaged Rooms",
+        "Burned finishes and exposed building materials can affect offices, tenant spaces and shared rooms."
       ],
       [
-        "Affected Operating Areas",
-        "List workspaces, shared access routes and other affected premises separately."
+        "Smoke Beyond the Fire",
+        "Smoke and soot may reach adjacent spaces, leaving residue beyond the original fire area."
       ],
       [
-        "Access After the Fire",
-        "Describe any restrictions already in place. Restoration is not firefighting or an authorization to enter unsafe premises."
+        "Persistent Odors",
+        "Smoke odors can remain in building materials and occupied rooms after visible debris is cleared."
       ],
       [
-        "Business-Owned Belongings",
-        "Separate furniture and damaged items from walls, ceilings and other building repairs."
+        "Water From Firefighting",
+        "Wet walls, ceilings and flooring can add water restoration needs to the fire damage."
       ],
       [
-        "Reopening Questions",
-        "Explain what the business needs to use again and discuss dependencies. A reopening date or business-continuity service is not guaranteed."
+        "Business Contents",
+        "Furniture and other belongings exposed to smoke, soot or water may need packing and restoration."
       ],
       [
-        "Property Records",
-        "Prepare available damage photographs and affected-area notes for the restoration discussion."
+        "Building Repairs",
+        "Damaged interiors may need reconstruction to complete the recovery after cleanup."
       ]
     ],
     "process": [
@@ -902,14 +846,6 @@
         "No. This page does not present household projects as proof of commercial operating or coordination procedures."
       ]
     ],
-    "scopeIcons": [
-      1435,
-      1425,
-      1425,
-      1443,
-      1435,
-      1435
-    ],
     "proofSliders": []
   },
   {
@@ -921,32 +857,32 @@
     "title": "Commercial Property Reconstruction Chicago | GCPRO",
     "description": "Discuss commercial property repairs with GCPRO. Define building areas, decision responsibilities, finishes and access needs before agreeing on the reconstruction scope.",
     "intro": "Commercial reconstruction starts with a defined building scope and clear decisions about access and finishes. Talk to GCPRO about the property areas that need repair and the requirements the proposed work must address.",
-    "scopeTitle": "Defining a Commercial Repair Scope",
-    "scopeIntro": "Use the actual premises and work requirements to guide the conversation. This page does not promise a specialist sector program or uninterrupted occupancy.",
+    "scopeTitle": "Commercial Reconstruction Needs",
+    "scopeIntro": "Building repairs can bring damaged interiors, shared spaces and entrances back together after restoration.",
     "scope": [
       [
-        "Repair Areas",
-        "Identify rooms, circulation spaces and damaged finishes that belong in the building work."
+        "Interior Finish Repairs",
+        "Damaged wall, ceiling and floor finishes may need reconstruction following a property loss."
       ],
       [
-        "Shared and Tenant Spaces",
-        "Clarify which areas the property contact is responsible for and which decisions need another party."
+        "Common Room Updates",
+        "GCPRO's project gallery includes work on a shared clubroom and its interior finishes."
       ],
       [
-        "Finish Decisions",
-        "Describe the intended use and finish requirements before assuming materials are included."
+        "Entrance Repairs",
+        "Building entrances can need repair or reconstruction, as shown in GCPRO's entrance project."
       ],
       [
-        "Access Constraints",
-        "Explain operating hours, occupied spaces and site restrictions so the proposed scope can be discussed."
+        "Tenant Space Repairs",
+        "Affected rooms within an occupied property may need building repairs alongside common areas."
       ],
       [
-        "Work Boundaries",
-        "Separate reconstruction from earlier damage cleanup and any work that needs a different agreement."
+        "Opened Building Areas",
+        "Walls and ceilings opened during restoration can need finishing to bring the space back together."
       ],
       [
-        "Earlier Damage Work",
-        "Explain what cleanup or remediation preceded the rebuild so remaining building needs are clear."
+        "Rebuilding After Damage",
+        "Fire, water or other property damage may leave connected repair needs beyond the initial cleanup."
       ]
     ],
     "process": [
@@ -1015,14 +951,6 @@
         "They show the building changes visible in those projects. They do not establish a standard schedule, cost or operating procedure for a different premises."
       ]
     ],
-    "scopeIcons": [
-      1441,
-      1425,
-      1441,
-      1425,
-      1435,
-      1441
-    ],
     "proofSliders": [
       1209,
       1202
@@ -1037,32 +965,32 @@
     "title": "Business Contents Restoration Chicago | GCPRO",
     "description": "GCPRO packs and restores damaged belongings. Discuss business-owned furniture, item responsibilities and the proposed contents scope; storage is not assumed.",
     "intro": "GCPRO provides contents restoration, including packing and restoring damaged belongings. For business premises, clarify which items are affected and who can make decisions about them.",
-    "scopeTitle": "Separate Business Contents From Building Work",
-    "scopeIntro": "Business-owned items, tenant belongings and the building itself may have different decision-makers. Define the actual contents scope before work begins.",
+    "scopeTitle": "Commercial Contents Restoration",
+    "scopeIntro": "GCPRO packs and restores damaged belongings, including furniture and other contents affected by a business property loss.",
     "scope": [
       [
         "Business Furniture",
-        "Describe the furniture, its condition and where it was located during the loss."
+        "Furniture affected by a property loss can be reviewed for contents restoration."
       ],
       [
-        "Packing",
-        "Packing damaged belongings is a confirmed service. Discuss the items and proposed handling before work is agreed."
+        "Packing Affected Items",
+        "GCPRO packs damaged belongings as part of its contents restoration service."
       ],
       [
-        "Item Restoration",
-        "Restoration depends on the individual item's condition. No blanket recovery guarantee is made."
+        "Water-Affected Contents",
+        "Leaks and flooding can reach items in work areas, common rooms and tenant spaces."
       ],
       [
-        "Item Responsibilities",
-        "Clarify which belongings belong to the business, a tenant or another party and who can authorize decisions."
+        "Smoke and Soot Exposure",
+        "Smoke residue can affect belongings beyond the room where a fire started."
       ],
       [
-        "Separate Arrangements",
-        "Storage and contents-return logistics are not confirmed by this page. Clarify any additional arrangements directly."
+        "Lingering Contents Odors",
+        "Odor concerns in affected items may remain after the building itself has been cleaned."
       ],
       [
-        "Priority Business Items",
-        "Identify the belongings most important to the business without assuming a recovery outcome or completion date."
+        "Contents Around Repairs",
+        "Belongings near damaged walls, ceilings or floors may need packing during property restoration."
       ]
     ],
     "process": [
@@ -1131,14 +1059,6 @@
         "A list of items, damage descriptions, available photographs and the appropriate decision-maker will help define the conversation."
       ]
     ],
-    "scopeIcons": [
-      1443,
-      1443,
-      1441,
-      1435,
-      1435,
-      1443
-    ],
     "proofSliders": []
   },
   {
@@ -1150,32 +1070,32 @@
     "title": "Commercial General Contracting Chicago | GCPRO",
     "description": "Talk to GCPRO about commercial building work. Define project areas, finish requirements, responsibilities and scope before making scheduling assumptions.",
     "intro": "Discuss your commercial building project with GCPRO, starting with the work required and the premises involved. A clear scope helps separate building needs, finish choices and decisions that need authorization.",
-    "scopeTitle": "A Clear Brief for Your Commercial Project",
-    "scopeIntro": "General contracting should be discussed around the actual property and proposed work, not a standard list of assumed capabilities.",
+    "scopeTitle": "Commercial Building Work",
+    "scopeIntro": "Existing buildings can need interior repairs, shared-space improvements and reconstruction after property damage.",
     "scope": [
       [
-        "Project Areas",
-        "Identify the entrance, shared rooms or other building spaces to be considered."
+        "Interior Building Repairs",
+        "Existing commercial interiors may need repairs to damaged walls, ceilings and other finishes."
       ],
       [
-        "Existing Conditions",
-        "Describe visible conditions and any earlier damage-related work that affects the project."
+        "Shared Room Improvements",
+        "Common rooms can need coordinated interior work, as shown in GCPRO's clubroom project."
       ],
       [
-        "Intended Use",
-        "Explain how the space is used and the requirements that matter to the business."
+        "Entrance Improvements",
+        "GCPRO's entrance project illustrates building work at a property's arrival and access area."
       ],
       [
-        "Decision Responsibilities",
-        "Identify who can approve the scope, materials and changes."
+        "Existing Space Updates",
+        "Rooms with worn or damaged finishes can need updates within the existing building."
       ],
       [
-        "Scope Limits",
-        "Discuss any specialized, engineering or sector-specific requirement separately. Such services are not automatically included."
+        "Post-Loss Reconstruction",
+        "Restoration after fire or water damage can lead to a wider set of building repair needs."
       ],
       [
-        "Changes to the Agreed Work",
-        "Clarify how proposed changes to materials or work areas will be discussed before they are added."
+        "Connected Repair Areas",
+        "Adjacent rooms and building areas can have related repairs that need to be considered together."
       ]
     ],
     "process": [
@@ -1244,14 +1164,6 @@
         "No. They show work in those examples. Your work must be defined for the actual premises and agreed scope."
       ]
     ],
-    "scopeIcons": [
-      1425,
-      1441,
-      1425,
-      1435,
-      1435,
-      1441
-    ],
     "proofSliders": [
       1209,
       1202
@@ -1267,32 +1179,32 @@
     "title": "Water Extraction Chicago | GCPRO",
     "description": "Discuss standing water and extraction needs with GCPRO. Understand how water removal connects with moisture assessment, drying and the wider recovery scope.",
     "intro": "Standing water is one part of a water-damage problem. Talk to GCPRO about where water is present and how extraction fits into the property's wider recovery needs.",
-    "scopeTitle": "Water Removal and What Comes Next",
-    "scopeIntro": "Extraction concerns water that can be removed. It does not by itself establish that building materials are dry or that repairs are complete.",
+    "scopeTitle": "Where Water Extraction Helps",
+    "scopeIntro": "Standing water can spread through rooms and leave surrounding materials wet. Extraction is the first part of addressing that water.",
     "scope": [
       [
-        "Visible Standing Water",
-        "Describe its location and the affected rooms or lower areas."
+        "Standing Water",
+        "Visible water on the floor is a direct extraction need after a leak or flooding."
       ],
       [
-        "The Water Source",
-        "Explain what is known about the source and whether water is still entering."
+        "Basement Water",
+        "Water can collect in lower-level rooms and affect finishes and belongings close to the floor."
       ],
       [
-        "Access to Affected Areas",
-        "Identify restricted or inaccessible spaces before assuming work can begin."
+        "Water Across Rooms",
+        "A single leak can spread through doorways into adjoining spaces, enlarging the affected area."
       ],
       [
-        "Wet Materials",
-        "Walls, flooring and other materials may need assessment beyond removing visible water."
+        "Water Beneath Finishes",
+        "Wet flooring and nearby materials can remain affected beyond the visible standing water."
       ],
       [
-        "Drying and Repairs",
-        "Discuss moisture review, drying and building repairs as connected but separate tasks."
+        "Extraction Before Drying",
+        "Removing standing water is one part of recovery; affected building materials may still need drying."
       ],
       [
         "Belongings in Wet Areas",
-        "Identify affected furniture and personal items separately from standing water and building materials."
+        "Furniture and personal items exposed to water may need separate packing and restoration."
       ]
     ],
     "process": [
@@ -1361,14 +1273,6 @@
         "The main Water Damage Restoration page explains the broader process and connected services."
       ]
     ],
-    "scopeIcons": [
-      1438,
-      1438,
-      1425,
-      1438,
-      1441,
-      1443
-    ],
     "proofSliders": []
   },
   {
@@ -1381,32 +1285,32 @@
     "title": "Board-Up Service Chicago | GCPRO",
     "description": "Discuss damaged openings and board-up needs with GCPRO. Clarify access, temporary protection and the next repair steps for your property.",
     "intro": "Damaged doors, windows or other openings may need temporary protection before the final repairs are planned. Describe the condition and access needs to GCPRO.",
-    "scopeTitle": "Damaged Openings and Temporary Protection",
-    "scopeIntro": "Board-up is a temporary step. It should not be confused with completed building repairs or a guarantee of security or weatherproofing.",
+    "scopeTitle": "Temporary Protection for Openings",
+    "scopeIntro": "Damaged windows and doors can leave a property exposed before permanent repairs begin.",
     "scope": [
       [
-        "Window Openings",
-        "Identify damaged or open window areas and the affected part of the property."
+        "Broken Windows",
+        "Damaged glazing can leave an opening exposed while permanent window repairs are arranged."
       ],
       [
-        "Door Openings",
-        "Describe the door or entrance condition and any access restrictions."
+        "Damaged Doors",
+        "A damaged exterior door can leave the building needing temporary protection."
       ],
       [
-        "After Fire Damage",
-        "Discuss damaged openings alongside the wider fire-restoration scope."
+        "Fire-Damaged Openings",
+        "Fire can damage windows, doors and surrounding areas before reconstruction begins."
       ],
       [
-        "After Weather Damage",
-        "Explain visible storm-related damage and whether water is entering."
+        "Storm-Damaged Openings",
+        "Wind or storm damage can leave openings exposed to further weather."
       ],
       [
-        "Permanent Repairs",
-        "Confirm what temporary work is proposed and what separate repairs will still be needed."
+        "Openings Awaiting Repairs",
+        "Board-up can provide temporary protection while damaged windows or doors await permanent repair."
       ],
       [
-        "Entrances Still Needed",
-        "Explain which doors or access routes people need to use while temporary protection is considered."
+        "Multiple Exposed Areas",
+        "A property loss can affect more than one opening, including areas on different sides of a building."
       ]
     ],
     "process": [
@@ -1475,14 +1379,6 @@
         "Discuss the remaining building repairs and reconstruction needs so the temporary measure is not mistaken for completed recovery."
       ]
     ],
-    "scopeIcons": [
-      1425,
-      1425,
-      1439,
-      1442,
-      1441,
-      1425
-    ],
     "proofSliders": []
   },
   {
@@ -1495,32 +1391,32 @@
     "title": "Property Odor Removal Chicago | GCPRO",
     "description": "Discuss persistent property odors with GCPRO. Explain the source, affected materials and damage history so odor concerns can be reviewed within the restoration scope.",
     "intro": "Persistent odors after property damage need to be considered with their source and the affected materials. Describe the odor concern to GCPRO as part of a clear restoration discussion.",
-    "scopeTitle": "Understanding the Odor Concern",
-    "scopeIntro": "An odor description is a starting point, not a diagnosis or a promise that a single treatment will solve the problem.",
+    "scopeTitle": "Odor Concerns After Damage",
+    "scopeIntro": "Smoke, water damage and affected belongings can leave persistent odors in different parts of a property.",
     "scope": [
       [
-        "Smoke-Related Odors",
-        "Explain the fire history, affected rooms and any residue concerns."
+        "Smoke Odors",
+        "Smoke can leave lingering odors in rooms and materials beyond the original fire area."
       ],
       [
-        "Water-Damage History",
-        "Describe when materials became wet and whether the water problem has been addressed."
+        "Odors After Water Damage",
+        "An area with a history of leaks or flooding may have odor concerns alongside moisture damage."
       ],
       [
-        "Affected Surfaces",
-        "Identify where the odor is most noticeable and which finishes or materials are involved."
+        "Affected Wall Finishes",
+        "Odors can remain associated with damaged wall and ceiling finishes after a property loss."
       ],
       [
-        "Belongings",
-        "Discuss furniture and personal items separately from the building surfaces."
+        "Odors in Belongings",
+        "Furniture and personal items may need contents restoration when odors remain in the items themselves."
       ],
       [
-        "Treatment Limits",
-        "No particular chemical, equipment, health result or permanent odor-free guarantee is promised."
+        "Odors Across Rooms",
+        "An odor concern can extend into adjoining spaces rather than staying in one visibly damaged room."
       ],
       [
-        "Previous Odor Work",
-        "Describe earlier cleaning or treatment attempts so the property's history is part of the assessment."
+        "Odors After Cleanup",
+        "Persistent smells after visible cleanup are a reason to review the source and affected materials."
       ]
     ],
     "process": [
@@ -1589,14 +1485,6 @@
         "No. GCPRO does not perform mold testing or post-remediation testing."
       ]
     ],
-    "scopeIcons": [
-      1439,
-      1438,
-      1425,
-      1443,
-      1435,
-      1435
-    ],
     "proofSliders": []
   },
   {
@@ -1609,32 +1497,32 @@
     "title": "Moisture Mapping Chicago | GCPRO",
     "description": "Explore moisture mapping as a supporting water-recovery task. Discuss affected areas and moisture history with GCPRO; this is not mold testing.",
     "intro": "Visible water does not tell the whole story of an affected property. Discuss moisture-related assessment with GCPRO so the recovery conversation includes the materials and areas that may need review.",
-    "scopeTitle": "Moisture Information Within Water Recovery",
-    "scopeIntro": "Moisture mapping supports the water-restoration discussion. It is not a separate generic restoration service or a mold-testing offer.",
+    "scopeTitle": "Understanding Affected Moisture Areas",
+    "scopeIntro": "Moisture assessment helps review where water has reached and informs drying and repair decisions.",
     "scope": [
       [
-        "Known Wet Areas",
-        "Identify the rooms and materials affected by the water event."
+        "Visible Wet Areas",
+        "Areas with obvious water damage provide a starting point for reviewing moisture in the property."
       ],
       [
-        "Moisture History",
-        "Share when the issue was noticed and any earlier leak or damage history."
+        "Beyond the Water Stain",
+        "Moisture concerns may extend past a visible stain into adjoining building materials."
       ],
       [
-        "Accessible Building Materials",
-        "Discuss which areas can be reviewed and which are concealed or inaccessible."
+        "Affected Walls",
+        "Wall finishes near a leak can need moisture assessment even where the surface looks less affected."
       ],
       [
-        "Drying Questions",
-        "Use the assessment discussion to clarify what further drying or material work may be needed."
+        "Ceilings Below Leaks",
+        "Water from above can affect ceiling materials and nearby areas beneath the original source."
       ],
       [
-        "Assessment Limits",
-        "No particular device, laboratory analysis or testing report is promised. GCPRO does not perform mold testing."
+        "Flooring After Water Damage",
+        "Wet floor finishes and adjoining materials can raise questions about the extent of moisture."
       ],
       [
-        "Repair Planning",
-        "Discuss moisture-related information before decisions about replacement finishes or building repairs."
+        "Drying Progress",
+        "Moisture assessment helps inform the next steps for drying and repair planning."
       ]
     ],
     "process": [
@@ -1703,14 +1591,6 @@
         "The main Water Damage Restoration page connects assessment, water removal, drying and repair decisions."
       ]
     ],
-    "scopeIcons": [
-      1438,
-      1435,
-      1425,
-      1438,
-      1435,
-      1441
-    ],
     "proofSliders": []
   },
   {
@@ -1723,32 +1603,32 @@
     "title": "Dehumidification After Water Damage Chicago | GCPRO",
     "description": "Discuss drying and dehumidification needs with GCPRO after water damage. Understand how wet materials, moisture review and repair decisions fit together.",
     "intro": "After visible water is removed, the affected property may still need drying-related work. Talk to GCPRO about wet materials and the next steps within the water-restoration scope.",
-    "scopeTitle": "Drying Is Part of the Recovery Plan",
-    "scopeIntro": "Dehumidification is a supporting task within water recovery. No fixed drying duration or equipment package is assumed.",
+    "scopeTitle": "Drying Water-Affected Areas",
+    "scopeIntro": "Building materials can remain damp after standing water is removed. Drying supports the next stage of property recovery.",
     "scope": [
       [
-        "Wet Building Areas",
-        "Describe the rooms, flooring, walls or other materials that became wet."
+        "Wet Building Materials",
+        "Walls, ceilings and other materials can remain damp after a leak or flooding."
       ],
       [
-        "Earlier Water Removal",
-        "Explain whether standing water has already been removed and what work has happened."
+        "After Water Extraction",
+        "Removing standing water does not complete the drying of affected building materials."
       ],
       [
-        "Material Condition",
-        "Different affected materials can lead to different drying or repair decisions."
+        "Damp Enclosed Rooms",
+        "Rooms affected by water can need drying support even when there is no visible puddle."
       ],
       [
-        "Access During Work",
-        "Discuss occupied rooms and access needs without assuming every area can remain in use."
+        "Moisture Across Rooms",
+        "Water can affect adjoining spaces, leaving drying needs beyond the first visibly damaged area."
       ],
       [
-        "Review Before Repairs",
-        "Clarify remaining moisture-related questions before assuming the property is ready for finishes."
+        "Before Finish Repairs",
+        "Drying affected areas is part of preparing the property for the next repair steps."
       ],
       [
-        "Affected Belongings",
-        "List wet furniture or personal items separately so contents-restoration needs are not overlooked."
+        "Remaining Dampness",
+        "Materials that still appear or feel damp after initial cleanup may need further drying attention."
       ]
     ],
     "process": [
@@ -1816,14 +1696,6 @@
         "Does dehumidification replace mold remediation?",
         "No. Visible mold concerns need a separate remediation discussion. GCPRO does not perform mold testing."
       ]
-    ],
-    "scopeIcons": [
-      1438,
-      1438,
-      1425,
-      1425,
-      1441,
-      1443
     ],
     "proofSliders": []
   }

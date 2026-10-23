@@ -52,3 +52,8 @@ Shared1345 was checked at1440px (3×2),768px (two columns), and approximately394
 AIOSEO title/description are unique per new page and were read back. Canonical/robots/schema type and graph configuration are unchanged. Some native saves materialized the existing default graph label from empty to WebPage; no new schema graph or emitter was authored.
 
 Private scoped snapshots remain in workspace work/service-rollout-pages-before.json, service-*-before-projects.json and service-scope-six-before.json, outside Git. Restore only the relevant page body/settings/authored SEO fields when authorized, preserving newer owner changes; do not import a whole database. Reverting1345 affects all17 consumers and must include matching old metadata/Overrides. Final visual acceptance belongs to the owner.
+
+
+### Text-only scope refinement
+
+The owner superseded icon/number cards with six text-only cards in shared1345. Current styling, customer-facing copy, verification and rollback are recorded in [Service Damage Types](service-damage-types.md). Previous icon-card descriptions are historical.

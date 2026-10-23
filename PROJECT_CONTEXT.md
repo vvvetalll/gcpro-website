@@ -1,5 +1,8 @@
 # GCPRO project context
 
+**2026-10-23 — text-only service scope:** Refined shared1345 across17 service pages: six heading/description cards, no icons/numbers/badges, light surface, white cards, native border/shadow hover and3/2/1 responsive grid. Replaced administrative/disclaimer copy with specific customer needs; confirmed packing/restoration retained, testing exclusions remain in existingFAQs. Other page elements preserved. Owner visual approval pending. [Record](docs/components/service-damage-types.md).
+
+
 **2026-10-23 — service rollout and six-card scope:** Owner approved October22 ownership on existing staging routes. Built16 previously empty Published services using existing components; no Draft promotion or URL change. Native1345 now gives all17 services six specific icon cards (3/2/1 columns); Water's other sections preserved. Five appropriate BEAF sections use two pairs; contents packing/restoration confirmed, mold testing excluded. Request492 has no form, so new secondary CTAs use495. [Pages, checks, facts, gaps and recovery](docs/components/service-page-rollout-2026-10-23.md).
 
 **2026-10-23 — mobile Hero repair:** Explicit native tablet/mobile media scale1 and mobile32px grid row-gap in1318/1453 correct CTA overlap and centering. Desktop1.25 retained; Water/Home mobile emulation checked. [Details](docs/components/atomic-masked-image.md).

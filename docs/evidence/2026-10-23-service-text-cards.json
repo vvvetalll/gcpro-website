@@ -1,0 +1,127 @@
+{
+  "component": 1345,
+  "pages": [
+    {
+      "id": 487,
+      "url": "https://vitaliiv1.sg-host.com/water-extraction/",
+      "sixItemsVerified": true,
+      "unrelatedElementsUnchanged": true
+    },
+    {
+      "id": 488,
+      "url": "https://vitaliiv1.sg-host.com/board-up/",
+      "sixItemsVerified": true,
+      "unrelatedElementsUnchanged": true
+    },
+    {
+      "id": 489,
+      "url": "https://vitaliiv1.sg-host.com/odor-removal/",
+      "sixItemsVerified": true,
+      "unrelatedElementsUnchanged": true
+    },
+    {
+      "id": 490,
+      "url": "https://vitaliiv1.sg-host.com/moisture-mapping/",
+      "sixItemsVerified": true,
+      "unrelatedElementsUnchanged": true
+    },
+    {
+      "id": 491,
+      "url": "https://vitaliiv1.sg-host.com/dehumidification/",
+      "sixItemsVerified": true,
+      "unrelatedElementsUnchanged": true
+    },
+    {
+      "id": 514,
+      "url": "https://vitaliiv1.sg-host.com/residential-services/water-damage/",
+      "sixItemsVerified": true,
+      "unrelatedElementsUnchanged": true
+    },
+    {
+      "id": 515,
+      "url": "https://vitaliiv1.sg-host.com/commercial-services/water-damage/",
+      "sixItemsVerified": true,
+      "unrelatedElementsUnchanged": true
+    },
+    {
+      "id": 516,
+      "url": "https://vitaliiv1.sg-host.com/residential-services/mold-removal/",
+      "sixItemsVerified": true,
+      "unrelatedElementsUnchanged": true
+    },
+    {
+      "id": 517,
+      "url": "https://vitaliiv1.sg-host.com/residential-services/fire-smoke/",
+      "sixItemsVerified": true,
+      "unrelatedElementsUnchanged": true
+    },
+    {
+      "id": 518,
+      "url": "https://vitaliiv1.sg-host.com/residential-services/reconstruction/",
+      "sixItemsVerified": true,
+      "unrelatedElementsUnchanged": true
+    },
+    {
+      "id": 519,
+      "url": "https://vitaliiv1.sg-host.com/commercial-services/mold-removal/",
+      "sixItemsVerified": true,
+      "unrelatedElementsUnchanged": true
+    },
+    {
+      "id": 520,
+      "url": "https://vitaliiv1.sg-host.com/commercial-services/fire-smoke/",
+      "sixItemsVerified": true,
+      "unrelatedElementsUnchanged": true
+    },
+    {
+      "id": 521,
+      "url": "https://vitaliiv1.sg-host.com/residential-services/personal-property-restoration/",
+      "sixItemsVerified": true,
+      "unrelatedElementsUnchanged": true
+    },
+    {
+      "id": 522,
+      "url": "https://vitaliiv1.sg-host.com/commercial-services/general-contracting/",
+      "sixItemsVerified": true,
+      "unrelatedElementsUnchanged": true
+    },
+    {
+      "id": 523,
+      "url": "https://vitaliiv1.sg-host.com/residential-services/storm-damage/",
+      "sixItemsVerified": true,
+      "unrelatedElementsUnchanged": true
+    },
+    {
+      "id": 524,
+      "url": "https://vitaliiv1.sg-host.com/commercial-services/reconstruction/",
+      "sixItemsVerified": true,
+      "unrelatedElementsUnchanged": true
+    },
+    {
+      "id": 525,
+      "url": "https://vitaliiv1.sg-host.com/commercial-services/personal-property-restoration/",
+      "sixItemsVerified": true,
+      "unrelatedElementsUnchanged": true
+    }
+  ],
+  "renderChecks": {
+    "desktop": 1440,
+    "tablet": 768,
+    "mobile": 394,
+    "columns": [
+      3,
+      2,
+      1
+    ],
+    "scopeSvgCount": 0,
+    "mobileTextClipped": false,
+    "horizontalOverflow": false
+  },
+  "acceptance": "Owner visual approval pending",
+  "concurrentOwnerEditPreserved": {
+    "page": 517,
+    "field": "Hero photo",
+    "before": 1589,
+    "after": 1217
+  }
+}

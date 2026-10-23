@@ -1,5 +1,8 @@
 # GCPRO changelog
 
+**2026-10-23 — text-only service scope:** Refined shared1345 across17 service pages: six heading/description cards, no icons/numbers/badges, light surface, white cards, native border/shadow hover and3/2/1 responsive grid. Replaced administrative/disclaimer copy with specific customer needs; confirmed packing/restoration retained, testing exclusions remain in existingFAQs. Other page elements preserved. Owner visual approval pending. [Record](docs/components/service-damage-types.md).
+
+
 **2026-10-23 — service inventory completion:** Built16 existing service objects, preserving Published status and URLs; unique native AIOSEO titles/descriptions, service-specific text/FAQs, shared Hero/process/CTAs and contextual native links. Reused Water BEAF card treatment with two matching/explicitly approved related pairs on five pages. Revised1345 to one shared six-card fi-rr presentation across17 services; desktop/tablet/mobile3/2/1 columns. No new component/class/plugin/media or custom code. Request form, operational detail and unmatched project-evidence gaps remain explicit. [Full record](docs/components/service-page-rollout-2026-10-23.md).
 
 **2026-10-23 — Water mid-page CTA:** Added one instance of existing CTA80 between process and projects on Page514, with requested new copy and existing call/Request destinations. Uses same design as final CTA per owner clarification. Original page sections preserved; no global change or custom code. [Location and rollback](docs/components/final-cta.md).

@@ -1,5 +1,20 @@
 # GCPRO — Service Damage Types
 
+## Current presentation — 2026-10-23
+
+Owner instruction supersedes all numbered/icon and five-card records below. Shared Atomic Component **1345** now contains six text-only articles: semantic H3 plus paragraph, with no icons, numbers, badge containers or replacement decorations. The section uses existing surface/white/navy/muted/border Variables, 32px desktop and 24px mobile card padding, 16px text gap and the existing 8px radius. A restrained shadow and fine border change on hover; no movement, links or pointer cursor. Native grid: 3 columns desktop, 2 tablet, 1 mobile with automatic rows and natural text height.
+
+All 17 service instances retain independently editable heading/description overrides. Page-specific copy and section introductions now explain concrete damage, affected materials or confirmed services. GCPRO packs/restores belongings; storage and return logistics are not claimed. Existing Mold FAQs already state that GCPRO does not perform testing, so FAQ/Process edits were unnecessary. Heroes, numbered Process, CTA, proof galleries, SEO and other sections remain unchanged.
+
+No new component, class, dependency, asset upload, custom CSS/JS/PHP or media deletion. Removed six SVG elements and six badge wrappers from the shared tree; existing icon media and icons elsewhere remain. Component now has 22 nodes and 15 text override controls. Native styles live only on Component1345; reuse section/container/stack/grid-2/card classes and Heading71.
+
+Verification: representative actual browser rendering at 1440/768/394 CSS pixels, 3/2/1 columns, six text cards, no SVGs, no mobile text clipping or horizontal overflow. All17 saved page-specific copies and unrelated element trees compared against private pre-change backups. Page517 had a concurrent Hero photo change (1589 to1217), preserved without modification by this task; all other unrelated elements matched exactly. Owner visual approval remains pending; this is browser emulation, not physical-device testing.
+
+Rollback: restore the private pre-change Component1345 update payload and each page's pre-change scope overrides only. Do not restore whole-page backups over subsequent owner edits. Private files remain outside Git. Public copy/evidence: `docs/content/service-scope-text-cards-2026-10-23.json` and `docs/evidence/2026-10-23-service-text-cards.json`.
+
+## Historical implementation records
+
+
 **2026-10-22 continuation:** Water’s remaining sections have now been completed under a separate explicit instruction. This approved component and its Water Overrides are unchanged. Earlier section-only stop boundaries below are historical. See the [completed Water page record](water-damage.md).
 
 2026-10-22, staging only. **Section2 approved by owner; requested final desktop3+2 adjustment implemented.** Implements only Section2 of the Water landing page. No sections3–10, metadata rollout, new URLs, redirects or SEO research.
