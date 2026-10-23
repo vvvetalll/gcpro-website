@@ -1,5 +1,8 @@
 # GCPRO design system
 
+**2026-10-23 — shared interaction transitions:** Added native200ms transitions to22 existing button/card/link classes; existing menu160ms transitions preserved. Commercial computed CTA/card/menu timing verified. No new effects, layouts or custom code. [Owners and checks](docs/components/interaction-transitions.md).
+
+
 ## Approved icon family — Flaticon Uicons Regular Rounded
 
 **Accepted owner direction,2026-10-23:** Use **Flaticon Uicons — Regular Rounded** for future GCPRO website icon research and selection, across shared components, service pages, process/trust and audience/partner sections. Native style identifier **fi-rr**; author/publisher **Flaticon / Uicons**. [Browse this exact style](https://www.flaticon.com/icon-fonts-most-downloaded?weight=regular&corner=rounded&type=uicon).

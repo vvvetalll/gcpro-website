@@ -1,5 +1,8 @@
 # GCPRO changelog
 
+**2026-10-23 — shared interaction transitions:** Added native200ms transitions to22 existing button/card/link classes; existing menu160ms transitions preserved. Commercial computed CTA/card/menu timing verified. No new effects, layouts or custom code. [Owners and checks](docs/components/interaction-transitions.md).
+
+
 **2026-10-23 — text-only service scope:** Refined shared1345 across17 service pages: six heading/description cards, no icons/numbers/badges, light surface, white cards, native border/shadow hover and3/2/1 responsive grid. Replaced administrative/disclaimer copy with specific customer needs; confirmed packing/restoration retained, testing exclusions remain in existingFAQs. Other page elements preserved. Owner visual approval pending. [Record](docs/components/service-damage-types.md).
 
 
