@@ -49,3 +49,8 @@ Owner requested shorter text: native intro is now “Enter your city or ZIP code
 Popup-document CSS now raises only #elementor-popup-modal-1801 above the existing smart Header's10000 stacking layer. The modal/backdrop covers navigation too. Card/message maximum height is calc(100dvh -48px); excess content scrolls inside the message region, preserving the native margin and16px radius. No Header/903/other popup CSS changed. Existing popup-polish source mirror updated, not separately enqueued.
 
 Actual394x640 browser render afterZIP entry: card left27.57px, top81.53px, bottom558.47px, height476.94px; no horizontal overflow. Computed popup z-index2147483647; elementFromPoint in the Header area resolves to Popup1801's overlay. Owner remains final visual reviewer.
+
+
+### Quiet result and label refinement
+
+Owner removed the repeated visible input label: native Label23516055 now has display:none while its for/id association remains; the actual browser still resolves the textbox by its accessible name City or ZIP code. Result text is14px/400 muted #5B6575 on existing pale surface #EFF6FF,8px radius,12×16px padding, applied only when nonempty through existing popup-scoped CSS. Native label layout and existing matching/validation unchanged. Rendered styles and named input/Enter checked.
