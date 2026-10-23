@@ -1,5 +1,8 @@
 # GCPRO changelog
 
+**2026-10-23 — compact popup and overlay:** Shortened availability copy,16px spacing, viewport-bounded card and popup layer above sticky Header.394×640 result/overlay/overflow checked. [Record](docs/components/service-availability-popup.md).
+
+
 **2026-10-23 — popup finish:** Native rounded card, external mobile gutters and300ms fade;44px close control, true prevent_scroll setting and viewport-preserving close. Opening focuses the dialog rather than input. Mobile gutter/focus/position checked. [Owners and recovery](docs/components/service-availability-popup.md).
 
 

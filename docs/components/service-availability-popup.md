@@ -40,3 +40,12 @@ Native Popup settings now own16px outer radius, restrained shadow, fadeIn/fadeOu
 The native a11y-navigation focus owner is disabled to avoid competing restoration; existing local handler retains dialog ARIA, Tab containment, Escape via Elementor and focus return. Native hide/unlock work still caused a measured page-position shift, so the handler preserves the trigger-time viewport and restores it immediately and after the300ms native close lifecycle (340ms completion check), using instant scrolling and preventScroll focus. No new scroll library or document-wide persistent style. Actual mobile open/close: scroll10698.667 before and after; focus returned to trigger.
 
 Opening/reopening focuses the dialog container, **never the text input**, so it does not request the mobile software keyboard. Input receives focus only on user interaction or correction of an explicitly submitted invalid value. Actual browser reports active DIV, not INPUT. Physical phone keyboard behavior was not device-tested. Coverage, destinations, local validation, form layout and unrelated sections unchanged. Private pre-polish snapshot remains outside Git. Rollback only this popup's settings and focus-handler changes; preserve current coverage records. Owner final visual approval remains pending.
+
+
+## Compact result and header overlay — 2026-10-23
+
+Owner requested shorter text: native intro is now “Enter your city or ZIP code.”; provisional response “GCPRO serves Chicagoland. Call to confirm your address.”; note “Geographic coverage only.” Native panel gap reduced to16px. No automatic ZIP confirmation or new coverage decision.
+
+Popup-document CSS now raises only #elementor-popup-modal-1801 above the existing smart Header's10000 stacking layer. The modal/backdrop covers navigation too. Card/message maximum height is calc(100dvh -48px); excess content scrolls inside the message region, preserving the native margin and16px radius. No Header/903/other popup CSS changed. Existing popup-polish source mirror updated, not separately enqueued.
+
+Actual394x640 browser render afterZIP entry: card left27.57px, top81.53px, bottom558.47px, height476.94px; no horizontal overflow. Computed popup z-index2147483647; elementFromPoint in the Header area resolves to Popup1801's overlay. Owner remains final visual reviewer.

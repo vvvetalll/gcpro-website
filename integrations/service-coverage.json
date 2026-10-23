@@ -1,7 +1,7 @@
 {
   "approved": false,
   "source": "Owner-provided provisional coverage scope, 2026-10-23. Exact boundaries and address exceptions remain pending review.",
-  "provisionalMessage": "GCPRO serves Chicago and surrounding Chicagoland communities. Call us to confirm service at your address.",
+  "provisionalMessage": "GCPRO serves Chicagoland. Call to confirm your address.",
   "allowedStatuses": [
     "confirmed",
     "proposed",
