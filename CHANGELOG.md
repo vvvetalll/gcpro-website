@@ -1,5 +1,7 @@
 # GCPRO changelog
 
+**2026-10-23 — Hero background trial:** Added two restrained native radial gradients to shared1318 and Water1453, preserving the existing blue base, images, masks, text and layout. Water desktop render checked; owner visual approval pending. No new code dependency or asset. [Details](docs/components/shared-hero.md).
+
 **2026-10-23 — shared navigation refinement:** Styled existing primary/utility Header113 widgets separately, with subtle hover, active/focus states and soft white dropdowns. Improved native mobile panel rows/submenus and removed navy gap under Header. No changed links, hierarchy, content, JS, assets or dependencies. Desktop/mobile emulation and guest stylesheet delivery checked; owner visual acceptance pending. [Owners and recovery](docs/components/header-menu-refinement.md).
 
 **2026-10-23 — five new Before/After pairs:** Added kitchen Oak Park, bathroom Oak Brook, attic mold removal (owner-requested Lombard label), masonry repair (city unconfirmed) and exterior fire restoration Tinley Park to Gallery493. Ten4:3 WebP images with descriptive metadata; existing15 cards preserved. All ten images loaded in frontend preview. Home Hero separately confirmed1.25 scale inherited from1318; staging cache cleared. [Registry and recovery](docs/components/before-after.md).

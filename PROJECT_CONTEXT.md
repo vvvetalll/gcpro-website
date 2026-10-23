@@ -1,5 +1,7 @@
 # GCPRO project context
 
+**2026-10-23 — Hero background trial:** Shared1318 and Water1453 now have subtle central light/dark blue radial gradients over the unchanged #1A327D base. No content or geometry changes. Water desktop render checked; owner visual approval pending. [Values and rollback](docs/components/shared-hero.md).
+
 **2026-10-23 — navigation:** Shared Header113 has separate white-on-navy utility and navy-on-white main styles. Mobile panel has larger rows, nested submenu styling and no navy gap below Header. Links/structure/903 preserved; desktop and mobile emulation checked, owner visual acceptance pending. [Details](docs/components/header-menu-refinement.md).
 
 **2026-10-23 — editable mask correction:** Atomic Masked Image0.4.1 now accepts ordinary SVG silhouettes directly, with separate optional Decoration and explicit None/SVG selector. Shared1318/Water1453 migrated; Water514 Decoration=None verified and photo retained. [Controls and rollback](docs/components/atomic-masked-image.md).

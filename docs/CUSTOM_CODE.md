@@ -1,5 +1,7 @@
 # Custom code and dependency register
 
+**2026-10-23 — Hero background:** Native Atomic local background-image on1318/root2ddab7e and1453/root5de65e14 owns the two subtle radial gradients. Existing dark-section base token unchanged; no extra stylesheet/JS/widget. [Values and rollback](components/shared-hero.md).
+
 **2026-10-23 — navigation:** Header113 → Nav Menu7983af36 and4ebecbc6 → Advanced Custom CSS own main/mobile and utility styles respectively. Explicit widget-scoped selectors; no new JS/dependency. integrations/header-primary-menu.css and header-utility-menu.css are reference snapshots, not separate enqueues. [Storage, mobile gap correction and rollback](components/header-menu-refinement.md).
 
 **2026-10-23 — shared visual enlargement:** Owner superseded editable-scale controls with direct visual scaling everywhere. Existing media elements489ada85 in Shared Hero1318 and5a4c9954 in Water Hero1453 now use native local transform scale1.25, origin left center; tablet/mobile reset to none. Photo and optional decoration scale together; layout footprint remains4:3. Shared1318 outer section clips horizontal viewport overflow; media frame remains overflow-visible. No Hero rebuild, new controls, PHP/CSS plugin deployment or content/photo change remains. Earlier0.5 control attempt was rolled back to0.4.1. Commercial-only ineffective descendant rule removed. Commercial browser confirmed matrix1.25, loaded image and no page overflow; owner accepts final visuals. Reset media transform to none to roll back.
