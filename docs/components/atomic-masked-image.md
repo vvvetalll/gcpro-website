@@ -1,5 +1,7 @@
 # Atomic Masked Image — staging prototype
 
+**2026-10-23 correction — NOT visually approved:** Owner rejected the overlay treatment. Plugin0.2.1 now orders Blue0 → Orange1 → Photo2; decoration cannot tint or obscure the photograph. Water514 instance uses Background1479 (two continuous coordinated blue contours) and Accent1480 (one outer orange ribbon). Photo1465, Main Mask1455, focal controls/None, copy and layout retained. One targeted frontend check confirmed loaded layers and stacking. Await owner approval; no rollout. Prior rejected asset selections1471/1475 remain available for rollback, not approved designs.
+
 **2026-10-23 orange refinement:** Owner requested a stronger right-side orange ribbon from the supplied reference. Page514 instance Accent SVG now selects1475 (`gcpro-hero-orange-wave-v2.svg`), two coordinated translucent ribbon paths with warmer upper highlights and a fading lower sweep. Other media, content and component definition1453 unchanged in this follow-up. Restore instance Accent1472 for the subtler treatment.
 
 ## 2026-10-23 refinement — translucent SVG waves (current)

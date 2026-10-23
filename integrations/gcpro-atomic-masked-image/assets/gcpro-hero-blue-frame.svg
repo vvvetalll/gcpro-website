@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+ <title>GCPRO continuous blue framing contours</title>
+ <defs>
+  <linearGradient id="blue" x1="80" y1="170" x2="650" y2="550" gradientUnits="userSpaceOnUse"><stop stop-color="#436DAF" stop-opacity=".42"/><stop offset=".55" stop-color="#31599E" stop-opacity=".25"/><stop offset="1" stop-color="#234581" stop-opacity=".1"/></linearGradient>
+  <linearGradient id="soft" x1="150" y1="70" x2="610" y2="570" gradientUnits="userSpaceOnUse"><stop stop-color="#7897C9" stop-opacity=".16"/><stop offset=".6" stop-color="#5276B3" stop-opacity=".23"/><stop offset="1" stop-color="#4569A6" stop-opacity=".09"/></linearGradient>
+ </defs>
+ <path fill="url(#blue)" d="M77 190C138 124 207 85 297 39C379 0 491 6 588 37C684 68 751 135 775 223C798 310 775 400 706 454C643 504 573 480 502 475C430 469 383 507 313 544C226 589 123 580 63 526C0 468 11 377 36 309C48 270 58 226 77 190Z"/>
+ <path fill="url(#soft)" d="M112 206C164 139 231 101 313 61C391 23 494 26 583 54C675 83 738 147 764 230C789 320 768 404 703 458C645 506 580 482 513 474C443 465 401 500 333 537C250 583 149 586 88 538C18 483 22 394 47 328C64 281 85 245 112 206Z"/>
+</svg>

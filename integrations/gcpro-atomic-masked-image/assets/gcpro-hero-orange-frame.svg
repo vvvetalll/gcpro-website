@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+ <title>GCPRO outer orange framing ribbon</title>
+ <defs><linearGradient id="orange" x1="659" y1="64" x2="699" y2="535" gradientUnits="userSpaceOnUse"><stop stop-color="#FFAA70" stop-opacity=".8"/><stop offset=".32" stop-color="#F4793D" stop-opacity=".76"/><stop offset=".68" stop-color="#F05A29" stop-opacity=".62"/><stop offset="1" stop-color="#F05A29" stop-opacity=".08"/></linearGradient></defs>
+ <path fill="url(#orange)" d="M560 45C644 55 695 102 725 165C754 226 791 286 795 352C799 424 764 482 700 512C645 538 586 536 536 521C599 517 653 494 685 453C724 403 731 345 709 288C688 231 654 185 625 135C605 98 586 64 560 45Z"/>
+</svg>
