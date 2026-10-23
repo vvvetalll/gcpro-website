@@ -1,5 +1,8 @@
 # Service Areas
 
+**2026-10-23 — service availability popup:** Native Popup1801, shared1140 trigger; owner-authorized local form code. Submit stays open, accessible close/focus/reset and mobile checked. Owner supplied provisional Chicagoland scope; no ZIP/neighborhood exclusions are approved. Exact confirmation remains disabled; valid input shows the owner’s call-to-confirm message. Field/button layout is native Atomic,48px high,12px gap, inline desktop/tablet and stacked mobile. No invented coverage or Request492 form claim. [Editing, gap and recovery](service-availability-popup.md).
+
+
 **E77 current:** Shared Component1140 now owns the unchanged Homepage design, with Homepage10feca9e and Residential5ced3ca1 consumers.12 city links and both actions are native real Page references. Former inactive availability action becomes Outline Orange100→492. Source7d8c17ad is historical. [Current exact locations and checks](residential-services.md).
 
 Twelve community links and a directory action, followed by the separate [unfinished ZIP prototype](zip-search.md).

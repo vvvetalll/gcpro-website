@@ -1,0 +1,33 @@
+# Service availability popup — 2026-10-23
+
+## Current delivery and coverage gap
+
+Native Elementor Pro Popup **1801 — GCPRO — Check Service Availability**, opened by the existing button in shared Service Areas Component1140 / instance4e418401 / Outline Orange100. Trigger appearance, URLs and page content are preserved. The trigger action alone changes from Request492 to native Popup Open1801. Popup has no automatic triggers. [Edit popup](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=1801&action=elementor).
+
+**Owner-provided provisional scope (2026-10-23):** Chicago and surrounding Chicagoland communities. Cook, DuPage, Lake (Illinois), Will, Kane and McHenry counties are candidate boundaries pending review, not confirmation for every address. Northwest Indiana and Wisconsin remain unconfirmed. Owner confirms that no neighborhood or ZIP exclusion list has yet been approved. No demographic inference, blanket South/West Side exclusion, radius or city-page inventory is used.
+
+Exact city/ZIP/address confirmation remains disabled. All valid input now displays the owner's exact neutral message: “GCPRO serves Chicago and surrounding Chicagoland communities. Call us to confirm service at your address.” with verified `tel:+18476563322`. The single editable review table distinguishes `confirmed`, `proposed`, `requires_call`, future `excluded` and `partial` statuses. Its13 city rows are review candidates/call-required entries, not automatic confirmations; six Illinois counties are proposed; two neighboring regions require a call. No ZIP or exclusion has been invented. Request492 remains empty and is omitted.
+
+## Native owner and authorized exception
+
+Elementor owns modal creation/loading, overlay, close button and Escape. Native Atomic Panel31e30fea owns responsive32px/24px padding, white surface,8px radius and Inter body typography. H2 340918b7 and paragraph362b1f70 remain native. Native Form51db3f70 → Row45e6d7a9 → Field397d339a → Label23516055/Input468d958, alongside Submit2e121b1a. Native Call Now60ce072e uses existing button-primary. Desktop/tablet row:12px gap, bottom aligned, input flex-grow1/basis0/min-width0, button natural width/no shrink, both48px high. Native mobile breakpoint stacks full-width input/button. No custom field/button layout CSS remains.
+
+One HTML widget7a5e1801 now contains only live validation/result slots, notice, JSON registry and the authorized local script/result-slot CSS. Owner explicitly allowed custom code inside the native popup after the native geographic-matching limitation was reported. No plugin, PHP, framework, global Custom Code entry or external API. Existing Elementor jQuery popup events are reused, with a staging-host guard.
+
+Native Form actions-after-submit and submission metadata are explicitly empty; the custom handler intercepts submit in document capture phase with preventDefault/stopImmediatePropagation, so native sending does not run. Validation, matching and result updates remain local; there is no lookup endpoint, storage or analytics call. Native inputs retain label/id association; custom handler supplies max length, aria-describedby, inline role=alert validation and role=status result announcements. It handles Enter, keeps modal open, resets on reopen, supplements Tab containment and returns focus after native close.
+
+## Single editing location
+
+Live authority: **Popup1801 → Local Coverage Form and Single Coverage Registry → HTML → application/json block**. Repository `integrations/service-coverage.json` is its source mirror, not another active list. JS/CSS mirrors: `integrations/service-availability.js` and `.css`, compiled into that same widget rather than separately enqueued. Edit/sync the registry in one place, publish native popup and check the new render. Do not duplicate lists/logic in triggers.
+
+Registry schema: `approved` gates exact positive matching; `provisionalMessage` contains the owner's current wording; `locations` is the single review table. Each record has `kind` (city/zip/county/region/area), `location`, `status`, `verified`; optional `city`, `aliases`, `state` and `ambiguous`. Only approved, verified exact city/ZIP entries can confirm coverage. Verified exact exclusions take precedence; proposed/unverified/ambiguous entries remain uncertain. A city with subarea exclusions cannot get blanket confirmation. Partial cities request ZIP only if reviewed ZIP entries can actually resolve coverage. County/region boundaries never imply ZIP/address coverage. Do not add operational exclusion reasons to public JSON; keep any future reasons in internal records with neutral public wording.
+
+## Actual verification
+
+Water514 native trigger opens popup; shared1140 action is not a per-page copy. Actual browser: empty input,1234,123456 and markup rejected inline; mixed-case/whitespace city, five-digit ZIP and unknown city return the owner's provisional message with Call Now. Enter and button submission keep popup open and page unchanged. Close/reopen resets input/results; Escape closes; explicit focus return to trigger passes; Tab from final Call Now wraps to accessible close control. At394CSSpx input/button stack at full width,48px high with12px gap and no horizontal overflow. Desktop input/button share the same top/bottom at48px height with measured12px gap. Native dialog wrapper gets role=dialog and accessible name. Telephone href checked without placing call. No lead transmission test is needed because there is no submission endpoint.
+
+Initial submit regression: binding to a popup's temporary DOM did not survive Elementor's cached/cloned content. Fixed with one guarded delegated submit listener; native cache regenerated after writes. Native popup did not reliably restore trigger focus, so a popup-hide listener returns it on the next animation frame. Checks above are after fixes. Physical devices, guest delivery and all-page matrices not claimed. Nine synthetic matcher fixtures check exact confirmed/excluded, partial, ambiguous ZIP, subarea exclusion precedence and disabled-gate behavior. Fixtures are not real coverage data and are not deployed. Real covered/excluded/partial/verified-ZIP outcomes await reviewed data; none are claimed as live verified results.
+
+## Recovery and preservation
+
+Private pre-change1140 MCP snapshot and popup shell/page492 snapshots remain outside Git. Restore only1140's availability link to its prior native Request492 value and unpublish Popup1801 to remove the feature. Preserve subsequent owner content. No Service Request body, SEO, page URLs, Hero, other sections, media or production changes. Popup1801 is the only new document; no popup component duplication.

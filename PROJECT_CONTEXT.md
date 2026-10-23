@@ -1,5 +1,8 @@
 # GCPRO project context
 
+**2026-10-23 — service availability popup:** Native Popup1801, shared1140 trigger; owner-authorized local form code. Submit stays open, accessible close/focus/reset and mobile checked. Owner supplied provisional Chicagoland scope; no ZIP/neighborhood exclusions are approved. Exact confirmation remains disabled; valid input shows the owner’s call-to-confirm message. Field/button layout is native Atomic,48px high,12px gap, inline desktop/tablet and stacked mobile. No invented coverage or Request492 form claim. [Editing, gap and recovery](docs/components/service-availability-popup.md).
+
+
 **2026-10-23 — text-only service scope:** Refined shared1345 across17 service pages: six heading/description cards, no icons/numbers/badges, light surface, white cards, native border/shadow hover and3/2/1 responsive grid. Replaced administrative/disclaimer copy with specific customer needs; confirmed packing/restoration retained, testing exclusions remain in existingFAQs. Other page elements preserved. Owner visual approval pending. [Record](docs/components/service-damage-types.md).
 
 

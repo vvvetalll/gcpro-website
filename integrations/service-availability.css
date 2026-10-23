@@ -1,0 +1,7 @@
+/* Only dynamic result/validation slots; field/button layout is native Atomic. */
+.elementor-popup-modal [hidden], [data-gcpro-availability] [data-result]:empty, [data-gcpro-availability] [data-error]:empty { display:none !important; }
+[data-gcpro-availability] p { margin:0; line-height:1.6; }
+[data-gcpro-availability] [data-error] { color:#b42318; margin-bottom:12px; }
+[data-gcpro-availability] [data-result] { color:var(--color-primary,#1A327D);font-weight:600; }
+[data-gcpro-availability] [data-call] { margin-top:16px; }
+[data-gcpro-availability] .coverage-note { margin-top:16px;font-size:14px;color:var(--color-text-muted,#5B6575); }

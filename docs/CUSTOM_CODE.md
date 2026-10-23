@@ -1,5 +1,8 @@
 # Custom code and dependency register
 
+**2026-10-23 — service availability popup:** Native Popup1801, shared1140 trigger; owner-authorized local form code. Submit stays open, accessible close/focus/reset and mobile checked. Owner supplied provisional Chicagoland scope; no ZIP/neighborhood exclusions are approved. Exact confirmation remains disabled; valid input shows the owner’s call-to-confirm message. Field/button layout is native Atomic,48px high,12px gap, inline desktop/tablet and stacked mobile. No invented coverage or Request492 form claim. [Editing, gap and recovery](components/service-availability-popup.md).
+
+
 **2026-10-23 — Hero background:** Native Atomic local background-image on1318/root2ddab7e and1453/root5de65e14 owns the two subtle radial gradients. Existing dark-section base token unchanged; no extra stylesheet/JS/widget. [Values and rollback](components/shared-hero.md).
 
 **2026-10-23 — navigation:** Header113 → Nav Menu7983af36 and4ebecbc6 → Advanced Custom CSS own main/mobile and utility styles respectively. Explicit widget-scoped selectors; no new JS/dependency. integrations/header-primary-menu.css and header-utility-menu.css are reference snapshots, not separate enqueues. [Storage, mobile gap correction and rollback](components/header-menu-refinement.md).

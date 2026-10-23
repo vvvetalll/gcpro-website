@@ -1,5 +1,8 @@
 # ZIP / service availability prototype
 
+**2026-10-23 — service availability popup:** Native Popup1801, shared1140 trigger; owner-authorized local form code. Submit stays open, accessible close/focus/reset and mobile checked. Owner supplied provisional Chicagoland scope; no ZIP/neighborhood exclusions are approved. Exact confirmation remains disabled; valid input shows the owner’s call-to-confirm message. Field/button layout is native Atomic,48px high,12px gap, inline desktop/tablet and stacked mobile. No invented coverage or Request492 form claim. [Editing, gap and recovery](service-availability-popup.md).
+
+
 **Status: unfinished, not a working ZIP search.** Do not infer a backend from the visible button.
 
 ## Actual saved location and structure

@@ -1,0 +1,146 @@
+{
+  "approved": false,
+  "source": "Owner-provided provisional coverage scope, 2026-10-23. Exact boundaries and address exceptions remain pending review.",
+  "provisionalMessage": "GCPRO serves Chicago and surrounding Chicagoland communities. Call us to confirm service at your address.",
+  "allowedStatuses": [
+    "confirmed",
+    "proposed",
+    "requires_call",
+    "excluded",
+    "partial"
+  ],
+  "locations": [
+    {
+      "kind": "city",
+      "location": "Chicago",
+      "status": "requires_call",
+      "verified": false
+    },
+    {
+      "kind": "city",
+      "location": "Lombard",
+      "status": "proposed",
+      "verified": false
+    },
+    {
+      "kind": "city",
+      "location": "Arlington Heights",
+      "status": "proposed",
+      "verified": false
+    },
+    {
+      "kind": "city",
+      "location": "Elmhurst",
+      "status": "proposed",
+      "verified": false
+    },
+    {
+      "kind": "city",
+      "location": "Naperville",
+      "status": "proposed",
+      "verified": false
+    },
+    {
+      "kind": "city",
+      "location": "Northbrook",
+      "status": "proposed",
+      "verified": false
+    },
+    {
+      "kind": "city",
+      "location": "Downers Grove",
+      "status": "proposed",
+      "verified": false
+    },
+    {
+      "kind": "city",
+      "location": "Oak Brook",
+      "status": "proposed",
+      "verified": false
+    },
+    {
+      "kind": "city",
+      "location": "Glenview",
+      "status": "proposed",
+      "verified": false
+    },
+    {
+      "kind": "city",
+      "location": "Highland Park",
+      "status": "proposed",
+      "verified": false
+    },
+    {
+      "kind": "city",
+      "location": "Schaumburg",
+      "status": "proposed",
+      "verified": false
+    },
+    {
+      "kind": "city",
+      "location": "Evanston",
+      "status": "proposed",
+      "verified": false
+    },
+    {
+      "kind": "city",
+      "location": "Elk Grove Village",
+      "status": "proposed",
+      "verified": false
+    },
+    {
+      "kind": "county",
+      "location": "Cook",
+      "state": "Illinois",
+      "status": "proposed",
+      "verified": false
+    },
+    {
+      "kind": "county",
+      "location": "DuPage",
+      "state": "Illinois",
+      "status": "proposed",
+      "verified": false
+    },
+    {
+      "kind": "county",
+      "location": "Lake",
+      "state": "Illinois",
+      "status": "proposed",
+      "verified": false
+    },
+    {
+      "kind": "county",
+      "location": "Will",
+      "state": "Illinois",
+      "status": "proposed",
+      "verified": false
+    },
+    {
+      "kind": "county",
+      "location": "Kane",
+      "state": "Illinois",
+      "status": "proposed",
+      "verified": false
+    },
+    {
+      "kind": "county",
+      "location": "McHenry",
+      "state": "Illinois",
+      "status": "proposed",
+      "verified": false
+    },
+    {
+      "kind": "region",
+      "location": "Northwest Indiana",
+      "status": "requires_call",
+      "verified": false
+    },
+    {
+      "kind": "region",
+      "location": "Wisconsin",
+      "status": "requires_call",
+      "verified": false
+    }
+  ]
+}
