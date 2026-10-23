@@ -1,5 +1,23 @@
 # Water Damage Restoration — completed service page
 
+## 2026-10-23 — Approved project captions
+
+Owner explicitly requested the Homepage/Residential BA caption presentation on Water. Existing native Shortcode Widgets58d7ae3/5a4ccc6 remain intact and independently editable. Fresh saved fields show1198 (Bathroom) and742 (Glenview); older notes claiming both742 are superseded by this current read.
+
+| Existing card | Added native caption/title/description | Verified copy source |
+|---|---|---|
+|3847afa6 → BEAF1198|7142b84a /4cbad841 /16c6a8a6|Gallery493: **Bathroom Restoration** — Exposed lower wall framing restored to a finished vanity and tile floor. No confirmed location; omitted.|
+|e88aa9d → BEAF742|487bb28a /6781a6d /1281ba57|Residential484/Home: **Water Damage Restoration — Glenview, IL** — Ceiling damage repaired and a living space restored.|
+
+Reuse existing `ba-card__caption` and `ba-card__title`; semantic H3 title/P description below each slider. Existing `ba-card` owns white background, border/radius. Computed caption24px padding/10px gap, title Montserrat600/20px/27px match Residential and Commercial at tested widths. No new styling, Global Class/Variable/Component, custom CSS/JS/PHP, media or dependency. Added exactly six native nodes; removing those two caption roots from the after snapshot produces the identical original Water tree. Page settings unchanged. Home/gallery/BEAF source records untouched. No shortcode edit, slider recreation, component detachment or shared-class mutation.
+
+Both captions were appended via native Atomic composition, then explicitly published with the document lifecycle. Existing native empty-caption option is superseded for these two approved cards. Future cards should include the same native title/description presentation with verified project copy; do not fabricate a location to fill a format.
+
+**Verification:** logged-out Chrome Water/Residential/Commercial at1440,768,393px; no horizontal overflow. Water retains its existing two columns desktop, one column tablet/mobile; hubs retain their existing two columns at768 and one on mobile. No breakpoint/layout change. Two Water dividers dragged independently: handle x400.33→456 and980.33→1028 at1440; original controls remain. Commercial first divider400.33→453; first fullscreen opened and closed. Other fullscreen combinations, physical touch, complete vendor keyboard accessibility and editor-login session not re-tested. Existing vendor limitations are not fixed by captions. Water guest HTML initially stale: native Elementor regeneration requested and SiteGround purge returned200; subsequent guest reload renders both captions. No cache setting/security policy changed. Native title/paragraph editability verified by saved structure/schema; browser editor requires login.
+
+**Recovery:** remove only caption roots7142b84a/487bb28a with explicit owner authorization and publish Page514; preserve all earlier/later sections and both original Shortcode Widgets. Private before/after snapshots remain outside Git. Reverting repository docs alone does not revert staging.
+
+
 **Current,2026-10-22 — interactive BEAF delivered:** The owner subsequently authorized native browser-based Elementor editing. Water's fourth section is now a page-owned manual BEAF grid with genuine shared Heading71 and Gallery Button59; native Shortcodes58d7ae3/5a4ccc6 render existing742 as two independent temporary examples. This supersedes the earlier MCP-only blocker below. Nine other approved sections retain their visible content/design; Hero and PHP were not revisited. [Exact current implementation](#manual-interactive-beaf-section--2026-10-22).
 
 **Latest,2026-10-22 — premium FAQ and media assessment:** Existing1354 is now the shared two-column/full-section FAQ standard on Water514, Residential484 and Commercial499, with each page's six original questions/answers retained independently. The owner explicitly expanded FAQ rollout after the initial Water-only instruction. Water project imagery/title/city/descriptions are temporary design examples, not final owner-approved case evidence. The initial MCP-only interactive project blocker is resolved by the later authorized native-editor implementation below; shared Hero/PHP remain untouched. Current details are below.
