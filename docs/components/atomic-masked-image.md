@@ -1,5 +1,7 @@
 # Atomic Masked Image — staging prototype
 
+**2026-10-23 orange refinement:** Owner requested a stronger right-side orange ribbon from the supplied reference. Page514 instance Accent SVG now selects1475 (`gcpro-hero-orange-wave-v2.svg`), two coordinated translucent ribbon paths with warmer upper highlights and a fading lower sweep. Other media, content and component definition1453 unchanged in this follow-up. Restore instance Accent1472 for the subtler treatment.
+
 ## 2026-10-23 refinement — translucent SVG waves (current)
 
 Version0.2.0 adds two optional native Image media controls, **Background SVG** and **Accent SVG**, exposed alongside **Photo** and **Main SVG Mask** in Page514 Hero media. Current owner-selected photograph1465 is preserved (supersedes historical1242 below); original mask1455, crop and focal settings are unchanged. Background1471 contains three coordinated translucent blue/navy wave paths with subtle alpha tonal transitions; Accent1472 contains one restrained orange wave. Both SVGs have transparent canvases, no embedded photograph, stroke, animation or rectangular background. Each remains independently replaceable through the Media Library. Decorations are inaccessible/pointer-transparent img layers; the separate main photo still receives the alpha mask.

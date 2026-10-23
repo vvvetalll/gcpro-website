@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+ <title>GCPRO translucent orange ribbon</title>
+ <defs>
+  <linearGradient id="outer" x1="628" y1="75" x2="652" y2="577" gradientUnits="userSpaceOnUse"><stop stop-color="#F79352" stop-opacity=".2"/><stop offset=".35" stop-color="#F05A29" stop-opacity=".44"/><stop offset=".66" stop-color="#F05A29" stop-opacity=".3"/><stop offset="1" stop-color="#F05A29" stop-opacity="0"/></linearGradient>
+  <linearGradient id="ribbon" x1="617" y1="58" x2="627" y2="552" gradientUnits="userSpaceOnUse"><stop stop-color="#FFAD70" stop-opacity=".72"/><stop offset=".35" stop-color="#F87838" stop-opacity=".68"/><stop offset=".67" stop-color="#F05A29" stop-opacity=".5"/><stop offset="1" stop-color="#F05A29" stop-opacity="0"/></linearGradient>
+ </defs>
+ <path fill="url(#outer)" d="M570 51C647 67 685 126 716 184C750 247 789 294 794 357C801 432 754 493 686 524C606 561 517 545 438 530C529 530 608 514 661 470C718 424 731 367 708 307C683 241 645 190 621 134C605 97 588 67 570 51Z"/>
+ <path fill="url(#ribbon)" d="M568 51C630 62 661 105 687 155C717 213 756 272 760 331C765 395 731 440 674 466C629 487 580 493 525 488C599 472 648 442 670 394C698 333 675 280 650 226C625 171 603 94 568 51Z"/>
+</svg>
