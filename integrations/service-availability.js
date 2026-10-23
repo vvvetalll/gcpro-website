@@ -4,10 +4,11 @@
   if (location.hostname !== 'vitaliiv1.sg-host.com') return;
   if (window.gcproAvailabilityReady) return;
   window.gcproAvailabilityReady = true;
+  let pagePosition = { x: window.scrollX, y: window.scrollY };
   let trigger = [...document.querySelectorAll('a')].find(a => a.textContent.trim().toLowerCase() === 'check service availability');
   document.addEventListener('click', event => {
     const a = event.target.closest('a');
-    if (a && a.textContent.trim().toLowerCase() === 'check service availability') trigger = a;
+    if (a && a.textContent.trim().toLowerCase() === 'check service availability') { trigger = a; pagePosition = { x: window.scrollX, y: window.scrollY }; }
   }, true);
   const rootNow = () => document.querySelector('.elementor-popup-modal [data-elementor-id="1801"]');
   const normalize = value => value.trim().replace(/\s+/g, ' ').toLowerCase();
@@ -33,11 +34,12 @@
     const error = root.querySelector('[data-error]'), result = root.querySelector('[data-result]'), call = root.querySelector('a[href="tel:+18476563322"]');
     form.noValidate = true; input.maxLength = 80; input.setAttribute('aria-describedby', 'gcpro-coverage-error');
     form.reset(); error.textContent = ''; result.textContent = ''; call.hidden = true;
-    input.removeAttribute('aria-invalid'); input.focus();
+    input.removeAttribute('aria-invalid');
     const modal = root.closest('.elementor-popup-modal');
     if (modal) {
       modal.setAttribute('role', 'dialog');
       modal.setAttribute('aria-label', 'Check Service Availability');
+      modal.focus({ preventScroll: true });
       const close = modal.querySelector('.dialog-close-button');
       if (close) close.setAttribute('aria-label', 'Close service availability');
     }
@@ -53,7 +55,7 @@
     error.textContent = ''; result.textContent = ''; call.hidden = true;
     if (!valid) {
       error.textContent = 'Enter a city name or a five-digit US ZIP code.';
-      input.setAttribute('aria-invalid', 'true'); input.focus(); return;
+      input.setAttribute('aria-invalid', 'true'); input.focus({ preventScroll: true }); return;
     }
     input.removeAttribute('aria-invalid');
     const match = lookup(value, config);
@@ -78,7 +80,15 @@
   });
   if (window.jQuery) window.jQuery(document).on('elementor/popup/show.gcproAvailability', (event, id) => { if (+id === 1801) reset(); });
   if (window.jQuery) window.jQuery(document).on('elementor/popup/hide.gcproAvailability', (event, id) => {
-    if (+id === 1801) requestAnimationFrame(() => { if (trigger?.isConnected) trigger.focus({ preventScroll: true }); });
+    if (+id === 1801) {
+      const restore = () => {
+        if (trigger?.isConnected) trigger.focus({ preventScroll: true });
+        window.scrollTo({ left: pagePosition.x, top: pagePosition.y, behavior: 'instant' });
+      };
+      requestAnimationFrame(restore);
+      // Elementor finishes its native fade-out/focus work after 300ms.
+      setTimeout(restore, 340);
+    }
   });
   reset();
 })();

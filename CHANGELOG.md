@@ -1,5 +1,8 @@
 # GCPRO changelog
 
+**2026-10-23 — popup finish:** Native rounded card, external mobile gutters and300ms fade;44px close control, true prevent_scroll setting and viewport-preserving close. Opening focuses the dialog rather than input. Mobile gutter/focus/position checked. [Owners and recovery](docs/components/service-availability-popup.md).
+
+
 **2026-10-23 — service availability popup:** Native Popup1801, shared1140 trigger; owner-authorized local form code. Submit stays open, accessible close/focus/reset and mobile checked. Owner supplied provisional Chicagoland scope; no ZIP/neighborhood exclusions are approved. Exact confirmation remains disabled; valid input shows the owner’s call-to-confirm message. Field/button layout is native Atomic,48px high,12px gap, inline desktop/tablet and stacked mobile. No invented coverage or Request492 form claim. [Editing, gap and recovery](docs/components/service-availability-popup.md).
 
 

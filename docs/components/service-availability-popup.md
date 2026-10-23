@@ -31,3 +31,12 @@ Initial submit regression: binding to a popup's temporary DOM did not survive El
 ## Recovery and preservation
 
 Private pre-change1140 MCP snapshot and popup shell/page492 snapshots remain outside Git. Restore only1140's availability link to its prior native Request492 value and unpublish Popup1801 to remove the feature. Preserve subsequent owner content. No Service Request body, SEO, page URLs, Hero, other sections, media or production changes. Popup1801 is the only new document; no popup component duplication.
+
+
+## Popup finish and viewport behavior — 2026-10-23
+
+Native Popup settings now own16px outer radius, restrained shadow, fadeIn/fadeOut300ms,24px margins,560px desktop width and86vw mobile width. Actual394px mobile render has about28px side gutters. Native `prevent_scroll=yes` is the real Disable Page Scrolling control; the earlier guessed `disable_page_scrolling` key was ineffective and is removed. Native close placement/colors are retained. Minimal popup-document Custom CSS provides the44px circular close target with20px SVG, hover/focus treatment and reduced-motion guard; native close controls cannot independently size the glyph and hit area. Source mirror: integrations/service-availability-popup-polish.css, not another enqueue.
+
+The native a11y-navigation focus owner is disabled to avoid competing restoration; existing local handler retains dialog ARIA, Tab containment, Escape via Elementor and focus return. Native hide/unlock work still caused a measured page-position shift, so the handler preserves the trigger-time viewport and restores it immediately and after the300ms native close lifecycle (340ms completion check), using instant scrolling and preventScroll focus. No new scroll library or document-wide persistent style. Actual mobile open/close: scroll10698.667 before and after; focus returned to trigger.
+
+Opening/reopening focuses the dialog container, **never the text input**, so it does not request the mobile software keyboard. Input receives focus only on user interaction or correction of an explicitly submitted invalid value. Actual browser reports active DIV, not INPUT. Physical phone keyboard behavior was not device-tested. Coverage, destinations, local validation, form layout and unrelated sections unchanged. Private pre-polish snapshot remains outside Git. Rollback only this popup's settings and focus-handler changes; preserve current coverage records. Owner final visual approval remains pending.
