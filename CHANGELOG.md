@@ -1,5 +1,7 @@
 # GCPRO changelog
 
+**2026-10-23 — Water mid-page CTA:** Added one instance of existing CTA80 between process and projects on Page514, with requested new copy and existing call/Request destinations. Uses same design as final CTA per owner clarification. Original page sections preserved; no global change or custom code. [Location and rollback](docs/components/final-cta.md).
+
 **2026-10-23 — mobile Hero image repair:** Corrected absent responsive scale reset in shared1318/Water1453. Mobile photo and decoration now fit the centered media column,32px below CTAs; desktop enlargement preserved. Water/Home mobile browser emulation confirms no overlap or horizontal overflow. No asset, plugin, content or gradient changes. [Details](docs/components/atomic-masked-image.md).
 
 **2026-10-23 — Hero background trial:** Added two restrained native radial gradients to shared1318 and Water1453, preserving the existing blue base, images, masks, text and layout. Water desktop render checked; owner visual approval pending. No new code dependency or asset. [Details](docs/components/shared-hero.md).

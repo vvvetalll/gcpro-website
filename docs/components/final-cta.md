@@ -1,5 +1,7 @@
 # Final CTA and video experiment
 
+**2026-10-23 — Water mid-page CTA:** Page514 adds instance6ac76cde of existing Component80 immediately after process13056416 and before projects2ddea39a. Owner clarified that it must use exactly the lower CTA design, superseding the initial compact custom layout. Only title/description Overrides differ: “DEALING WITH WATER DAMAGE?” and “Talk to GCPRO about the damage and the next steps for your property.” Existing telephone tel:+18476563322 and native Internal URL Service Request492 retained. Component80 and original final instance5d8662e unchanged. No new shared definition, styles, classes, code, asset or dependency. Desktop and approximately394px mobile emulation confirm readable content, preserved destinations and no horizontal overflow; mobile inset20px and rounded card retained. Visual acceptance pending. Remove only6ac76cde to roll back; private pre-change Page514 snapshot work/water-mid-cta-before.json stays outside Git.
+
 ## 2026-10-23 — Shared card rollout
 
 Owner explicitly requested this CTA presentation everywhere, superseding the earlier Home-only pending scope below. Implemented on the existing shared Component80; no new component or wrapper. Existing Home compact card remains page-owned and unchanged.
