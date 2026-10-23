@@ -114,7 +114,7 @@ Fresh editor resource reads cover Homepage/header context; props not returned mu
 | section-heading--accent | Direct stack H2 pseudo-line40×3px,space-sm gap; requires that documented structure |
 | hero--panorama | Desktop media-specific layered background size/position and no-repeat |
 | core-b-row | Parent-state arrow translation/focus outline/color and reduced motion |
-| why-benefit | SVG fill:none |
+| why-benefit | Former SVG fill:none exception removed2026-10-23; native grid remains. Filled SVG uploads now paint; Atomic root currentColor fill can produce silhouettes for outline sources. See [icon controls](components/why-gcpro.md). |
 | why-benefit-number | nowrap number protection |
 
 These existing exceptions are not blanket approval for new code. Some basic fallback declarations may now be expressible natively, but mechanically replacing whole variants risks destroying native properties or changing cascade order. The approved E57 cleanup is limited to the exact ten classes/variants in its audit; other native migration proposals remain separate scope.

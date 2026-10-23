@@ -1,5 +1,39 @@
 # Why GCPRO — shared section and certifications
 
+## Benefit icon editing — 2026-10-23 UTC
+
+Component **1149, GCPRO / Why Choose Section**, remains the single shared owner. Its four benefit icons are native Atomic **e-svg** elements, rendered as inline SVG from WordPress media attachments; they are not text glyphs or Atomic Images. Current consumers include Home154/60cdf058, Residential484/225936ef, Commercial499/94c4cddb and Water514/43194cd8.
+
+**Confirmed cause:** the existing Global Class **why-benefit / g-9bf65cb** contained `& svg { fill: none; }`. The uploaded property1397 and office1399 assets have filled paths without strokes. The inherited rule removed their only paint: rendered paths computed both fill:none and stroke:none. The existing shield/checklist/message assets use strokes and therefore remained visible. The files themselves contained valid vector geometry. Typography → Text Color intentionally supplies the native SVG's currentColor; it is not the asset selector.
+
+Removed that existing descendant rule by retaining the class's native desktop grid, padding24px, gap16px,56px number track and align-items:start. Existing mobile variant and every component-local style remain intact. No new CSS, JS, PHP, asset, Variable, class, plugin or component definition. The unrelated icon-svg class and service icons were not changed.
+
+### Native per-page selection
+
+All four SVG fields are now exposed through supported native Component properties:
+
+| Benefit | Existing element | Native Override key | Preserved default attachment |
+|---|---|---|---|
+|1|14eba757|prop-1792719457799-sbydh70|1397 property (1)|
+|2|3acb5a30|prop-1792719460379-4twr4eg|206 shield|
+|3|676c0b1c|prop-1792719463290-7ztj8s7|210 checklist|
+|4|1e34cbcf|prop-1792719466312-9j3p4yk|211 message|
+
+Open the desired page in Elementor → Structure → **Shared Why Choose GCPRO** → **Content → Benefit 1–4 icon → Upload → Media Library**. Select an existing SVG and click **Select**, then **Publish**. Upload opens the native Media dialog and can also import a reviewed SVG. **Select SVG** also opens the native selection dialog. Use the page instance for an independent replacement; use **Edit GCPRO / Why Choose Section** only when deliberately changing defaults for all inheriting instances. Never detach. No source editing is needed.
+
+Native e-svg is an SVG control, not a general PNG/JPEG picker. This installation normalizes SVG root fill to currentColor: after removing the old blanket fill:none rule, the existing stroke-based defaults display as filled silhouettes. Their original source files are untouched. This change fixes invisible filled uploads but does **not** establish exact preservation of every third-party SVG's authored outline/multicolor treatment. An Atomic Image with an appropriately colored source is the supported alternative if exact authored paint is required; it was not substituted or claimed tested here. No additional CSS exception was introduced to conceal this limitation.
+
+### Verification and preservation
+
+- Replaced Home benefit1 through the visual Media Library with existing office1399, published, reloaded the editor and frontend: selection persisted, viewBox0 0 24 24,40×40px, painted orange rgb(240,90,41). Restored property1397 through the same visual controls; Home retains an explicit identical-to-default icon Override.
+- Shared default remained1397, and Residential/Commercial/Water page bodies compare unchanged. Home changed only existing Why instance60cdf058 settings. Its unrelated sections were preserved.
+- Component readback: same45 IDs and every style; only the four SVG fields changed to native overridable properties, with the same original attachment defaults. The pre-existing17 content/media properties remain.
+- Rendered Home, Residential, Commercial and Water at1440,768 and393 CSSpx: four40×40 SVG icons with orange paint; benefits remain two columns desktop/tablet and single column mobile; no horizontal document overflow. Desktop Home and mobile Water visually checked. Browser viewport overrides reset. No physical-device or screen-reader certification.
+- Native Elementor and staging SiteGround caches refreshed. Anonymous ordinary Home HTTP GET returned200. Responsive browser checks used the authenticated connected Chrome session; a separate incognito rendering test was unavailable and is not claimed.
+- Direct component permalink editing loaded an incorrect preview; editing the existing shared component in context through Home worked. One MCP component-property update failed validation (`paragraph: invalid_value`); properties were added and saved through native Elementor instead, with focused readback confirming no unrelated component changes.
+
+For recovery, use the private pre-change component/class snapshots, restoring only the affected SVG property definitions and the prior class variant with owner authorization. Reverting documentation does not revert staging. Restoring the old blanket fill:none rule also restores its incompatibility with filled SVG uploads.
+
 ## Current layout — 2026-10-22
 
 Owner-approved refinement supersedes the earlier left-column logo placement, centered label and separator. After initially requesting borderless logos, the owner explicitly clarified that thin frames and hover must be added; the final design retains those in the full-width row. Existing Atomic Component **1149** is the single owner. Consumers remain Homepage154/60cdf058, Residential484/225936ef and Commercial499/94c4cddb. No page body, content Override, link, other section or production configuration was changed.
