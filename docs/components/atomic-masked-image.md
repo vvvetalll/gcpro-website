@@ -1,5 +1,14 @@
 # Atomic Masked Image — staging prototype
 
+## 2026-10-23 refinement — translucent SVG waves (current)
+
+Version0.2.0 adds two optional native Image media controls, **Background SVG** and **Accent SVG**, exposed alongside **Photo** and **Main SVG Mask** in Page514 Hero media. Current owner-selected photograph1465 is preserved (supersedes historical1242 below); original mask1455, crop and focal settings are unchanged. Background1471 contains three coordinated translucent blue/navy wave paths with subtle alpha tonal transitions; Accent1472 contains one restrained orange wave. Both SVGs have transparent canvases, no embedded photograph, stroke, animation or rectangular background. Each remains independently replaceable through the Media Library. Decorations are inaccessible/pointer-transparent img layers; the separate main photo still receives the alpha mask.
+
+Only isolated Component1453 media frame69fba362 changes overflow to visible/radius0 so curved layers can extend5% around the existing photo. The media Twig uses position/isolation/z-index and110% decorative layers; no JS, dependencies or global styles. Empty decoration fields preserve the original photo-only presentation. Mask None also hides decorations. Photo/Mask/Fit/X/Y and original Hero layout/text/CTAs are retained; shared1318 and other pages untouched. Page514 saved content and overrides compare byte-equal before/after this refinement.
+
+Verified native editor shows four separate media selectors. Frontend loads photo plus two SVG layers with mask on the photograph itself; actual widths393/768/1440 have no horizontal overflow. Desktop/mobile previews supplied; owner visual acceptance pending. No exhaustive site audit. Rollback: clear the two optional decoration fields, or set Mask None; restore pre-wave frame overflow:hidden/radius:space-xs for the exact prior frame. Source rollback is Git commit8e6405c; private pre-change snapshots remain under work/masked-hero/waves-*. No raw backups committed.
+
+
 Implemented 2026-10-23; owner visual approval pending. Scope: Water Damage Page514 only.
 
 ## Location and editing

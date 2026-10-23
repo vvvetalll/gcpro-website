@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+ <title>GCPRO translucent flowing blue waves</title>
+ <defs>
+  <linearGradient id="deep" x1="65" y1="480" x2="700" y2="90" gradientUnits="userSpaceOnUse"><stop stop-color="#10295D" stop-opacity=".08"/><stop offset=".5" stop-color="#10295D" stop-opacity=".58"/><stop offset="1" stop-color="#274F9B" stop-opacity=".18"/></linearGradient>
+  <linearGradient id="blue" x1="90" y1="520" x2="640" y2="35" gradientUnits="userSpaceOnUse"><stop stop-color="#4778BD" stop-opacity=".12"/><stop offset=".52" stop-color="#4778BD" stop-opacity=".32"/><stop offset="1" stop-color="#4778BD" stop-opacity=".07"/></linearGradient>
+  <linearGradient id="soft" x1="125" y1="545" x2="755" y2="170" gradientUnits="userSpaceOnUse"><stop stop-color="#7191C6" stop-opacity=".04"/><stop offset=".5" stop-color="#7191C6" stop-opacity=".22"/><stop offset="1" stop-color="#315FA8" stop-opacity=".09"/></linearGradient>
+ </defs>
+ <path fill="url(#deep)" d="M28 359C36 263 141 204 249 126C355 48 461 12 572 47C682 82 752 172 779 264C802 344 771 440 691 480C614 518 556 478 476 484C389 491 323 571 219 578C116 585 18 521 28 419C30 398 26 380 28 359Z"/>
+ <path fill="url(#blue)" d="M18 397C12 301 77 227 165 175C259 119 300 37 398 21C490 6 582 51 644 109C557 61 483 63 421 98C351 138 310 206 230 259C156 308 110 350 111 412C112 475 175 514 246 507C333 498 374 458 447 453C530 447 603 490 678 457C719 440 753 409 772 365C752 461 678 530 583 532C495 534 452 500 383 532C303 569 214 600 133 568C61 540 23 481 18 397Z"/>
+ <path fill="url(#soft)" d="M72 449C68 371 133 320 207 276C291 227 337 160 413 118C494 73 572 74 644 109C706 139 753 197 773 267C744 212 694 181 636 174C563 166 512 201 454 246C389 297 328 318 262 353C195 389 168 432 193 476C219 522 282 533 345 513C420 488 466 461 535 477C604 494 649 511 700 475C663 528 607 547 545 539C470 528 428 516 365 548C293 584 205 579 144 542C98 514 75 485 72 449Z"/>
+</svg>

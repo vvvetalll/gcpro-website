@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+ <title>GCPRO restrained translucent orange wave</title>
+ <defs><linearGradient id="accent" x1="649" y1="91" x2="701" y2="530" gradientUnits="userSpaceOnUse"><stop stop-color="#F05A29" stop-opacity=".04"/><stop offset=".38" stop-color="#F05A29" stop-opacity=".38"/><stop offset=".7" stop-color="#F05A29" stop-opacity=".25"/><stop offset="1" stop-color="#F05A29" stop-opacity="0"/></linearGradient></defs>
+ <path fill="url(#accent)" d="M601 70C679 110 746 177 775 257C808 348 779 427 716 476C674 509 633 521 586 522C642 503 689 468 710 419C740 350 720 278 687 216C662 169 629 116 601 70Z"/>
+</svg>

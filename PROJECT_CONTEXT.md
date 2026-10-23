@@ -1,5 +1,7 @@
 # GCPRO project context
 
+**2026-10-23 refinement:** Water Hero1453 now has separately editable Photo, Main SVG Mask, Background SVG and Accent SVG. Preserved owner-selected photo1465 and mask1455; added transparent SVG1471/1472. Only Water staging prototype; owner visual approval pending. [Details](docs/components/atomic-masked-image.md).
+
 **2026-10-23 update:** Water514 now uses isolated masked Hero prototype1453 instead of1318. Photo1242 retained, replaceable SVG mask1455; shared1318 and other pages unchanged. Native per-instance controls; no custom JS. Owner visual approval pending. See [Atomic Masked Image](docs/components/atomic-masked-image.md).
 
 **2026-10-23 — permanent efficiency policy:** Owner requires direct, focused execution, reuse of session knowledge, minimal tool calls, proportional checks and concise reports. One reasonable alternative after a failed method, then promptly report the blocker/manual steps. Batch minor documentation; no exhaustive QA, six-heading report or per-edit commit requirement. This supersedes conflicting older process guidance. See AGENTS.md permanent execution rules.
