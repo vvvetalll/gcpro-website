@@ -1,5 +1,7 @@
 # Custom code and dependency register
 
+**2026-10-23 — shared visual enlargement:** Owner superseded editable-scale controls with direct visual scaling everywhere. Existing media elements489ada85 in Shared Hero1318 and5a4c9954 in Water Hero1453 now use native local transform scale1.25, origin left center; tablet/mobile reset to none. Photo and optional decoration scale together; layout footprint remains4:3. Shared1318 outer section clips horizontal viewport overflow; media frame remains overflow-visible. No Hero rebuild, new controls, PHP/CSS plugin deployment or content/photo change remains. Earlier0.5 control attempt was rolled back to0.4.1. Commercial-only ineffective descendant rule removed. Commercial browser confirmed matrix1.25, loaded image and no page overflow; owner accepts final visuals. Reset media transform to none to roll back.
+
 **2026-10-23 — editable mask correction:** Atomic Masked Image0.4.1 now accepts ordinary SVG silhouettes directly, with separate optional Decoration and explicit None/SVG selector. Shared1318/Water1453 migrated; Water514 Decoration=None verified and photo retained. [Controls and rollback](docs/components/atomic-masked-image.md).
 
 **2026-10-23 — Atomic waves0.2.0:** Existing integrations/gcpro-atomic-masked-image owns optional Background/Accent image props and Twig positioning. Transparent SVG1471/1472 own wave geometry/alpha transitions. Only Water Hero1453 uses them; no new JS, classes, Variables or dependencies. [Owners and rollback](components/atomic-masked-image.md).
