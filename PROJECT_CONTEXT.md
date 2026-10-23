@@ -1,5 +1,7 @@
 # GCPRO project context
 
+**2026-10-23 — shared masked Hero:** Owner authorized component-wide presentation. Shared1318 now uses editable Photo/SVG/None/Fit/X/Y, preserving original `image` override and page content/photos. Home154, Residential484 and Commercial499 inherit it; Water514 remains1453. No page writes, new assets or plugin changes. Home render verified; owner visual acceptance pending. [Component and rollback](docs/components/shared-hero.md).
+
 **2026-10-23 refinement:** Water Hero1453 now has separately editable Photo, Main SVG Mask, Background SVG and Accent SVG. Preserved owner-selected photo1465 and mask1455; added transparent SVG1471/1472. Only Water staging prototype; owner visual approval pending. [Details](docs/components/atomic-masked-image.md).
 
 **2026-10-23 update:** Water514 now uses isolated masked Hero prototype1453 instead of1318. Photo1242 retained, replaceable SVG mask1455; shared1318 and other pages unchanged. Native per-instance controls; no custom JS. Owner visual approval pending. See [Atomic Masked Image](docs/components/atomic-masked-image.md).
