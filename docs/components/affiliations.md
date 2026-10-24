@@ -1,12 +1,12 @@
-# Staging affiliations — 2026-10-24
+# Staging affiliations — shared component, 2026-10-24
 
 Water Damage514: https://vitaliiv1.sg-host.com/residential-services/water-damage/
 
-Owner-directed trial only. The larger blue section is **between Reviews and FAQ**, with no rollout to other pages. Footer114 is intentionally shared across staging. No production edits.
+Approved shared rollout: all17 service pages use **Component1886 — GCPRO / Professional Credentials & Affiliations**, immediately **Reviews → dark-blue affiliations → FAQ**. The navy strip intentionally separates the two light-blue sections. Footer114 remains unchanged; no production edits.
 
 ## Native layout and ownership
 
-- Page514 root72095bb2, heading Professional Credentials & Affiliations; navy `color-primary` (#1A327D), white text, approved white artwork, thin frames, native hover/focus. Grid5 columns desktop/tablet,2+2+centered1 mobile. RIA artwork reduced to120×55px (constrained proportionally on tablet). No CSS filters or asset alterations.
+- Shared Component1886, native root60e6d354 (frontend IDs are regenerated per instance), heading Professional Credentials & Affiliations; navy `color-primary` (#1A327D), white text, approved white artwork, thin frames, native hover/focus. Grid5 columns desktop/tablet,2+2+centered1 mobile. RIA artwork reduced to120×55px (constrained proportionally on tablet). No CSS filters or asset alterations.
 - Why instance43194cd8: only trust_iicrc/trust_iaqa/trust_bbb/trust_ria/trust_ra image Overrides cleared. Shared1149 untouched. No extra Why logos render on514.
 - Footer114 root6c46aed9 directly below existing cities5fe71200 within5245645d. Compact left alignment. Header69799971 uses heading-label, white, single line:16px desktop/tablet,11px mobile. Container500px/max100%; logo grid5cdd54d1 is360px/max100%, five columns on desktop and mobile,8px gaps. Frames44px high,4px padding. Bottom padding24px. IICRC23×32,IAQA24×32,BBB19×32,RIA52×24,RA44×32px; contain preserves proportions. No fixed heights hide text.
 - Ten frame triggers use native opacity.85→1 and border-white22%→50%,180ms transitions; focus equivalent. No shadows, carousel, recoloring or decorative icons.
@@ -28,7 +28,7 @@ Heading says **Credentials & Affiliations**, not certifications for every mark. 
 
 Owner information still needed: current IICRC renewal certificate, current IAQA membership/profile and current RA member listing. Existing published artwork was retained as instructed; tooltip copy explicitly discloses the limits.
 
-## Checks performed
+## Trial checks performed before shared rollout
 
 - Scoped private pre-edit WordPress snapshots of514 and114, plus snippet snapshots retained outside Git; no raw authenticated exports or credentials committed.
 - Fresh saved readback: publication states/URLs preserved. Removing only the new root and restoring the five permitted Why image Overrides yields **exact equality** to both pre-task Elementor trees. Existing Footer copyright `text-wrap:balance` was restored after the native connector dropped its serialization. No new element contains custom CSS. [Saved checks](../evidence/2026-10-24-affiliations-saved-checks.json).
@@ -37,7 +37,7 @@ Owner information still needed: current IICRC renewal certificate, current IAQA 
 - Source code syntax check passed; exact deployed Custom Code1881 source readback verified. Popovers stay in Footer DOM to retain native document-scoped styles; fixed positioning works because its ancestors do not establish transformed containing blocks.
 - No forms submitted, customers contacted or site SEO/content/review settings changed. No independent anonymous/cache-HIT or physical-device certification claimed.
 
-## Screenshots
+## Historical trial screenshots
 
 Final native browser captures, cropped only to the relevant visible regions (no artwork modification):
 
@@ -49,4 +49,51 @@ Final native browser captures, cropped only to the relevant visible regions (no 
 
 ## Rollback / maintenance
 
-Copy stays native and editable in Footer114's five Affiliation tooltip groups. Layout stays native in514/114. Change behavior only in the central source and1881 together. Disable1881 to remove behavior; hidden boxes do not become visible. Full scoped rollback restores514/114 pre-task snapshots, disables1881, then removes only the two new semantic classes after checking consumers. Do not replace shared1149 or other pages. Refresh generated Elementor styles/cache after restoration. Owner visual acceptance remains pending; do not extend the large trial.
+Copy stays native and editable in Footer114's five Affiliation tooltip groups. Large-block layout now lives only in Component1886; compact row and tooltip copy stay in Footer114. Change behavior only in the central source and1881 together. Disable1881 to remove behavior; hidden boxes do not become visible. Shared-rollout rollback restores the17 pre-rollout page snapshots, including the original standalone trial on514 and the prior Why image Overrides. Leave Footer114, tooltip copy,1881 and both hook classes unchanged. Remove/archive1886 only after confirming zero consumers. Refresh Elementor Files & Data and staging cache. No full-site restore test was performed.
+
+
+
+## Approved shared rollout — current editing location
+
+Edit the larger block once in [Component1886](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=1886&action=elementor), not independently on pages. Native source-copy creation from514 preserved all14 nodes’ content, native CSS/breakpoint/state values, image proportions and global behavior classes exactly (excluding regenerated identifiers). Component UID: `component-ad5dca93-d460-4097-9127-fa1ac1e399c2`. No per-page content Overrides or new design variants. Each page has one native e-component reference, instance363ead93 (element IDs are scoped to each document). Original standalone72095bb2 was removed from514.
+
+The five tooltip text groups and profile links remain **exactly** as approved in Footer114. Existing central behavior1881 and its source are unchanged; it discovers semantic trigger classes, so the component needs no new scripts. The compact Footer tree/meta and shared Why1149 definition were read back equal to their pre-rollout baselines. Membership verification is explicitly outside this rollout; no wording was strengthened.
+
+Twelve primary/Commercial pages have Why1149 instances: only the five trust-image Overrides were cleared. Five supporting pages487–491 have no Why1149 instance or corresponding logos, so none was added or removed there. All17 retain their existing Published state, exact URLs, page settings, service content, Heroes, CTAs, FAQ data, review shortcodes/widget mappings and authored SEO settings.
+
+### Page coverage
+
+| Page | Staging URL | Why instance cleared | Reviews / FAQ locators |
+|---|---|---|---|
+| 487 | https://vitaliiv1.sg-host.com/water-extraction/ | Not present | 10a34543 / d6ef007 |
+| 488 | https://vitaliiv1.sg-host.com/board-up/ | Not present | 10a34543 / 7fd6207f |
+| 489 | https://vitaliiv1.sg-host.com/odor-removal/ | Not present | 10a34543 / 4de7b6b7 |
+| 490 | https://vitaliiv1.sg-host.com/moisture-mapping/ | Not present | 10a34543 / 817f2cb |
+| 491 | https://vitaliiv1.sg-host.com/dehumidification/ | Not present | 10a34543 / 403e2833 |
+| 514 | https://vitaliiv1.sg-host.com/residential-services/water-damage/ | 43194cd8 | 10a34543 / 38d09d71 |
+| 515 | https://vitaliiv1.sg-host.com/commercial-services/water-damage/ | 250e98ea | 10a34543 / 208c7687 |
+| 516 | https://vitaliiv1.sg-host.com/residential-services/mold-removal/ | 4325e31f | 10a34543 / 6fe7367a |
+| 517 | https://vitaliiv1.sg-host.com/residential-services/fire-smoke/ | 3bce386 | 10a34543 / 1efdba75 |
+| 518 | https://vitaliiv1.sg-host.com/residential-services/reconstruction/ | 11924603 | 10a34543 / 4752c32f |
+| 519 | https://vitaliiv1.sg-host.com/commercial-services/mold-removal/ | 490141ee | 10a34543 / 428b40a8 |
+| 520 | https://vitaliiv1.sg-host.com/commercial-services/fire-smoke/ | 339e9064 | 10a34543 / 1f1ae670 |
+| 521 | https://vitaliiv1.sg-host.com/residential-services/personal-property-restoration/ | 42671675 | 10a34543 / 5948338a |
+| 522 | https://vitaliiv1.sg-host.com/commercial-services/general-contracting/ | c15304f | 10a34543 / 18ea6097 |
+| 523 | https://vitaliiv1.sg-host.com/residential-services/storm-damage/ | 2931d6c9 | 10a34543 / 41d95dbb |
+| 524 | https://vitaliiv1.sg-host.com/commercial-services/reconstruction/ | 76d33b83 | 10a34543 / 1985efaa |
+| 525 | https://vitaliiv1.sg-host.com/commercial-services/personal-property-restoration/ | 7bc6a0a0 | 10a34543 / 5b2daaba |
+
+### Save method, recovery and delivery
+
+Private scoped pre-edit page, Footer, shared-Why, source/component and Custom Code snapshots retained outside Git. Native MCP created1886 by copying the approved source and generated its native instance. The connector’s read/staged-autosave mismatch made follow-up insertion unreliable; existing authenticated standard WordPress REST updated only `_elementor_data` with the native component reference and five authorized image Overrides. No custom HTML, theme code, plugin, database access or alternate layout was introduced.514’s pending native autosave was reconciled and published; all final saved trees were independently read back. Protected trees match before/after after excluding only the authorized component insertion/replacement and five logo Overrides. Original review subtrees and metadata/SEO were checked, not reconstructed.
+
+Some old rendered HTML persisted after SiteGround purge. Used existing **Elementor → Tools → Clear Files & Data**, followed by staging SiteGround purge; unchanged native settings then rendered correctly. No cache/security settings changed.
+
+### Final rollout verification
+
+- Actual frontend: **17/17 pages at each of1440×1000,768×1024,390×844**. Each has one large block immediately after Reviews/before native FAQ, navy #1A327D between two #EFF6FF sections, five loaded logos, five initialized main popover triggers and ten total approved marks including Footer. No horizontal overflow. Logo-center row grouping verifies5 desktop/tablet and2+2+1 mobile. Component1886 matches the approved source’s exact native content/style/state/breakpoint signature. [51 rendered checks](../evidence/2026-10-24-affiliations-rollout-browser.json), [17 saved-state checks](../evidence/2026-10-24-affiliations-rollout-saved.json).
+- Existing behavior on the shared instance: mouse hover opens; moving into the popup keeps it open. Keyboard Tab focuses the next logo and opens its popup, Tab reaches the certificate link, Escape dismisses and restores focus. All five mobile-width popovers were opened/toggled and stayed inside the viewport; outside click dismissed. This is resized-browser click/tap-equivalent testing, not a physical touch-device or screen-reader certification.
+- Component1886 opened in the native Elementor editor with its correct shared title. Content/layout is edited there; no temporary editor content/style edits were made.
+- Footer114 meta/tree, current tooltip text/links, central1881 meta/source and shared Why1149 native definition are equal to the pre-rollout snapshots. No scripts were added or duplicated. No review text, widget filters, service content, images, Hero, CTA, URLs, publication states or SEO values were changed.
+- Anonymous raw HTTP requests to all17 ordinary routes returned **HTTP403 Forbidden** from this environment. Authenticated connected-browser rendering was verified; independent incognito/cache-HIT delivery remains unverified. No publishing or rendering blockers remain in the tested session.
+- Current shared-block screenshots: [desktop](../evidence/2026-10-24-affiliations-rollout-desktop.jpg), [mobile](../evidence/2026-10-24-affiliations-rollout-mobile.jpg). Screenshots were cropped to the block only, with no customer reviews/admin details committed.

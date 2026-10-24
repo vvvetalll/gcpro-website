@@ -559,3 +559,8 @@ Header CTA `cd66895` remains Request Service/#; Emergency Call/Request actions a
 ## Updating the map
 
 Record environment, read date, source operation, exact type/title/ID and status. Keep numeric document/component IDs distinct from hexadecimal element IDs and global class IDs. Re-read element structure after mutations because replacements can assign new IDs. Update renamed/deleted entries and move superseded claims into reported history with an explanation.
+
+
+## 2026-10-24 — Shared affiliations rollout
+
+Component1886, UID component-ad5dca93-d460-4097-9127-fa1ac1e399c2, Published, native root60e6d354. Seventeen native page instances (363ead93 scoped per document) replace the standalone514 trial and appear immediately between Reviews and FAQ. [Coverage, editing location, dependencies and evidence](components/affiliations.md). Footer114 and shared Why1149 unchanged; only12 service-page Why instances clear their five trust images; supporting487–491 have none.

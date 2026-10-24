@@ -53,3 +53,5 @@ Every meaningful component change must update its record: purpose; page/template
 # Service-page rollout update — 2026-10-23
 
 [Sixteen service builds and shared six-card scope](service-page-rollout-2026-10-23.md): existing objects/statuses preserved; primary ownership follows the approved October22 package, Commercial operational gaps remain explicit.
+
+- [Shared credentials and affiliations](affiliations.md) — Component1886 across all17 staging service pages; Reviews → navy block → FAQ, native layout, existing central popovers and exact copy.

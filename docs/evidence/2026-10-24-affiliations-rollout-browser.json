@@ -1,0 +1,5696 @@
+{
+  "pages": [
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 966.765625,
+            "height": 100,
+            "left": 303.6875,
+            "right": 375.6875,
+            "top": 866.765625,
+            "width": 72,
+            "x": 303.6875,
+            "y": 866.765625
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 966.765625,
+            "height": 100,
+            "left": 489.09375,
+            "right": 563.09375,
+            "top": 866.765625,
+            "width": 74,
+            "x": 489.09375,
+            "y": 866.765625
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 966.765625,
+            "height": 100,
+            "left": 682.484375,
+            "right": 742.484375,
+            "top": 866.765625,
+            "width": 60,
+            "x": 682.484375,
+            "y": 866.765625
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 944.265625,
+            "height": 55,
+            "left": 838.890625,
+            "right": 958.890625,
+            "top": 889.265625,
+            "width": 120,
+            "x": 838.890625,
+            "y": 889.265625
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 963.765625,
+            "height": 94,
+            "left": 1025.09375,
+            "right": 1145.484375,
+            "top": 869.765625,
+            "width": 120.390625,
+            "x": 1025.09375,
+            "y": 869.765625
+          }
+        }
+      ],
+      "nextHeading": "Water Damage Restoration FAQ",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1034.765625,
+        "height": 303,
+        "left": 0,
+        "right": 1425,
+        "top": 731.765625,
+        "width": 1425,
+        "x": 0,
+        "y": 731.765625
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1000,
+        "w": 1440
+      },
+      "id": 514,
+      "mode": "desktop",
+      "rowCounts": [
+        5
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 966.890625,
+            "height": 100,
+            "left": 303.6875,
+            "right": 375.6875,
+            "top": 866.890625,
+            "width": 72,
+            "x": 303.6875,
+            "y": 866.890625
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 966.890625,
+            "height": 100,
+            "left": 489.09375,
+            "right": 563.09375,
+            "top": 866.890625,
+            "width": 74,
+            "x": 489.09375,
+            "y": 866.890625
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 966.890625,
+            "height": 100,
+            "left": 682.484375,
+            "right": 742.484375,
+            "top": 866.890625,
+            "width": 60,
+            "x": 682.484375,
+            "y": 866.890625
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 944.390625,
+            "height": 55,
+            "left": 838.890625,
+            "right": 958.890625,
+            "top": 889.390625,
+            "width": 120,
+            "x": 838.890625,
+            "y": 889.390625
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 963.890625,
+            "height": 94,
+            "left": 1025.09375,
+            "right": 1145.484375,
+            "top": 869.890625,
+            "width": 120.390625,
+            "x": 1025.09375,
+            "y": 869.890625
+          }
+        }
+      ],
+      "nextHeading": "Questions About Fire and Smoke Recovery",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1034.890625,
+        "height": 303,
+        "left": 0,
+        "right": 1425,
+        "top": 731.890625,
+        "width": 1425,
+        "x": 0,
+        "y": 731.890625
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1000,
+        "w": 1440
+      },
+      "id": 517,
+      "mode": "desktop",
+      "rowCounts": [
+        5
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 967.265625,
+            "height": 100,
+            "left": 303.6875,
+            "right": 375.6875,
+            "top": 867.265625,
+            "width": 72,
+            "x": 303.6875,
+            "y": 867.265625
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 967.265625,
+            "height": 100,
+            "left": 489.09375,
+            "right": 563.09375,
+            "top": 867.265625,
+            "width": 74,
+            "x": 489.09375,
+            "y": 867.265625
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 967.265625,
+            "height": 100,
+            "left": 682.484375,
+            "right": 742.484375,
+            "top": 867.265625,
+            "width": 60,
+            "x": 682.484375,
+            "y": 867.265625
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 944.765625,
+            "height": 55,
+            "left": 838.890625,
+            "right": 958.890625,
+            "top": 889.765625,
+            "width": 120,
+            "x": 838.890625,
+            "y": 889.765625
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 964.265625,
+            "height": 94,
+            "left": 1025.09375,
+            "right": 1145.484375,
+            "top": 870.265625,
+            "width": 120.390625,
+            "x": 1025.09375,
+            "y": 870.265625
+          }
+        }
+      ],
+      "nextHeading": "Questions About Mold Remediation",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1035.265625,
+        "height": 303,
+        "left": 0,
+        "right": 1425,
+        "top": 732.265625,
+        "width": 1425,
+        "x": 0,
+        "y": 732.265625
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1000,
+        "w": 1440
+      },
+      "id": 516,
+      "mode": "desktop",
+      "rowCounts": [
+        5
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 967.40625,
+            "height": 100,
+            "left": 303.6875,
+            "right": 375.6875,
+            "top": 867.40625,
+            "width": 72,
+            "x": 303.6875,
+            "y": 867.40625
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 967.40625,
+            "height": 100,
+            "left": 489.09375,
+            "right": 563.09375,
+            "top": 867.40625,
+            "width": 74,
+            "x": 489.09375,
+            "y": 867.40625
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 967.40625,
+            "height": 100,
+            "left": 682.484375,
+            "right": 742.484375,
+            "top": 867.40625,
+            "width": 60,
+            "x": 682.484375,
+            "y": 867.40625
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 944.90625,
+            "height": 55,
+            "left": 838.890625,
+            "right": 958.890625,
+            "top": 889.90625,
+            "width": 120,
+            "x": 838.890625,
+            "y": 889.90625
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 964.40625,
+            "height": 94,
+            "left": 1025.09375,
+            "right": 1145.484375,
+            "top": 870.40625,
+            "width": 120.390625,
+            "x": 1025.09375,
+            "y": 870.40625
+          }
+        }
+      ],
+      "nextHeading": "Questions About Personal Property",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1035.40625,
+        "height": 303,
+        "left": 0,
+        "right": 1425,
+        "top": 732.40625,
+        "width": 1425,
+        "x": 0,
+        "y": 732.40625
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1000,
+        "w": 1440
+      },
+      "id": 521,
+      "mode": "desktop",
+      "rowCounts": [
+        5
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 966.8125,
+            "height": 100,
+            "left": 303.6875,
+            "right": 375.6875,
+            "top": 866.8125,
+            "width": 72,
+            "x": 303.6875,
+            "y": 866.8125
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 966.8125,
+            "height": 100,
+            "left": 489.09375,
+            "right": 563.09375,
+            "top": 866.8125,
+            "width": 74,
+            "x": 489.09375,
+            "y": 866.8125
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 966.8125,
+            "height": 100,
+            "left": 682.484375,
+            "right": 742.484375,
+            "top": 866.8125,
+            "width": 60,
+            "x": 682.484375,
+            "y": 866.8125
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 944.3125,
+            "height": 55,
+            "left": 838.890625,
+            "right": 958.890625,
+            "top": 889.3125,
+            "width": 120,
+            "x": 838.890625,
+            "y": 889.3125
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 963.8125,
+            "height": 94,
+            "left": 1025.09375,
+            "right": 1145.484375,
+            "top": 869.8125,
+            "width": 120.390625,
+            "x": 1025.09375,
+            "y": 869.8125
+          }
+        }
+      ],
+      "nextHeading": "Questions About Mold Remediation",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1034.8125,
+        "height": 303,
+        "left": 0,
+        "right": 1425,
+        "top": 731.8125,
+        "width": 1425,
+        "x": 0,
+        "y": 731.8125
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1000,
+        "w": 1440
+      },
+      "id": 519,
+      "mode": "desktop",
+      "rowCounts": [
+        5
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 684.890625,
+            "height": 100,
+            "left": 303.6875,
+            "right": 375.6875,
+            "top": 584.890625,
+            "width": 72,
+            "x": 303.6875,
+            "y": 584.890625
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 684.890625,
+            "height": 100,
+            "left": 489.09375,
+            "right": 563.09375,
+            "top": 584.890625,
+            "width": 74,
+            "x": 489.09375,
+            "y": 584.890625
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 684.890625,
+            "height": 100,
+            "left": 682.484375,
+            "right": 742.484375,
+            "top": 584.890625,
+            "width": 60,
+            "x": 682.484375,
+            "y": 584.890625
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 662.390625,
+            "height": 55,
+            "left": 838.890625,
+            "right": 958.890625,
+            "top": 607.390625,
+            "width": 120,
+            "x": 838.890625,
+            "y": 607.390625
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 681.890625,
+            "height": 94,
+            "left": 1025.09375,
+            "right": 1145.484375,
+            "top": 587.890625,
+            "width": 120.390625,
+            "x": 1025.09375,
+            "y": 587.890625
+          }
+        }
+      ],
+      "nextHeading": "Questions About Reconstruction",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 752.890625,
+        "height": 303,
+        "left": 0,
+        "right": 1425,
+        "top": 449.890625,
+        "width": 1425,
+        "x": 0,
+        "y": 449.890625
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1000,
+        "w": 1440
+      },
+      "id": 518,
+      "mode": "desktop",
+      "rowCounts": [
+        5
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 966.84375,
+            "height": 100,
+            "left": 303.6875,
+            "right": 375.6875,
+            "top": 866.84375,
+            "width": 72,
+            "x": 303.6875,
+            "y": 866.84375
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 966.84375,
+            "height": 100,
+            "left": 489.09375,
+            "right": 563.09375,
+            "top": 866.84375,
+            "width": 74,
+            "x": 489.09375,
+            "y": 866.84375
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 966.84375,
+            "height": 100,
+            "left": 682.484375,
+            "right": 742.484375,
+            "top": 866.84375,
+            "width": 60,
+            "x": 682.484375,
+            "y": 866.84375
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 944.34375,
+            "height": 55,
+            "left": 838.890625,
+            "right": 958.890625,
+            "top": 889.34375,
+            "width": 120,
+            "x": 838.890625,
+            "y": 889.34375
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 963.84375,
+            "height": 94,
+            "left": 1025.09375,
+            "right": 1145.484375,
+            "top": 869.84375,
+            "width": 120.390625,
+            "x": 1025.09375,
+            "y": 869.84375
+          }
+        }
+      ],
+      "nextHeading": "Questions About Storm Damage",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1034.84375,
+        "height": 303,
+        "left": 0,
+        "right": 1425,
+        "top": 731.84375,
+        "width": 1425,
+        "x": 0,
+        "y": 731.84375
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1000,
+        "w": 1440
+      },
+      "id": 523,
+      "mode": "desktop",
+      "rowCounts": [
+        5
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 967.4375,
+            "height": 100,
+            "left": 303.6875,
+            "right": 375.6875,
+            "top": 867.4375,
+            "width": 72,
+            "x": 303.6875,
+            "y": 867.4375
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 967.4375,
+            "height": 100,
+            "left": 489.09375,
+            "right": 563.09375,
+            "top": 867.4375,
+            "width": 74,
+            "x": 489.09375,
+            "y": 867.4375
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 967.4375,
+            "height": 100,
+            "left": 682.484375,
+            "right": 742.484375,
+            "top": 867.4375,
+            "width": 60,
+            "x": 682.484375,
+            "y": 867.4375
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 944.9375,
+            "height": 55,
+            "left": 838.890625,
+            "right": 958.890625,
+            "top": 889.9375,
+            "width": 120,
+            "x": 838.890625,
+            "y": 889.9375
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 964.4375,
+            "height": 94,
+            "left": 1025.09375,
+            "right": 1145.484375,
+            "top": 870.4375,
+            "width": 120.390625,
+            "x": 1025.09375,
+            "y": 870.4375
+          }
+        }
+      ],
+      "nextHeading": "Questions About Business Water Damage",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1035.4375,
+        "height": 303,
+        "left": 0,
+        "right": 1425,
+        "top": 732.4375,
+        "width": 1425,
+        "x": 0,
+        "y": 732.4375
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1000,
+        "w": 1440
+      },
+      "id": 515,
+      "mode": "desktop",
+      "rowCounts": [
+        5
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 966.84375,
+            "height": 100,
+            "left": 303.6875,
+            "right": 375.6875,
+            "top": 866.84375,
+            "width": 72,
+            "x": 303.6875,
+            "y": 866.84375
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 966.84375,
+            "height": 100,
+            "left": 489.09375,
+            "right": 563.09375,
+            "top": 866.84375,
+            "width": 74,
+            "x": 489.09375,
+            "y": 866.84375
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 966.84375,
+            "height": 100,
+            "left": 682.484375,
+            "right": 742.484375,
+            "top": 866.84375,
+            "width": 60,
+            "x": 682.484375,
+            "y": 866.84375
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 944.34375,
+            "height": 55,
+            "left": 838.890625,
+            "right": 958.890625,
+            "top": 889.34375,
+            "width": 120,
+            "x": 838.890625,
+            "y": 889.34375
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 963.84375,
+            "height": 94,
+            "left": 1025.09375,
+            "right": 1145.484375,
+            "top": 869.84375,
+            "width": 120.390625,
+            "x": 1025.09375,
+            "y": 869.84375
+          }
+        }
+      ],
+      "nextHeading": "Questions About Fire and Smoke Recovery",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1034.84375,
+        "height": 303,
+        "left": 0,
+        "right": 1425,
+        "top": 731.84375,
+        "width": 1425,
+        "x": 0,
+        "y": 731.84375
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1000,
+        "w": 1440
+      },
+      "id": 520,
+      "mode": "desktop",
+      "rowCounts": [
+        5
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 966.703125,
+            "height": 100,
+            "left": 303.6875,
+            "right": 375.6875,
+            "top": 866.703125,
+            "width": 72,
+            "x": 303.6875,
+            "y": 866.703125
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 966.703125,
+            "height": 100,
+            "left": 489.09375,
+            "right": 563.09375,
+            "top": 866.703125,
+            "width": 74,
+            "x": 489.09375,
+            "y": 866.703125
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 966.703125,
+            "height": 100,
+            "left": 682.484375,
+            "right": 742.484375,
+            "top": 866.703125,
+            "width": 60,
+            "x": 682.484375,
+            "y": 866.703125
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 944.203125,
+            "height": 55,
+            "left": 838.890625,
+            "right": 958.890625,
+            "top": 889.203125,
+            "width": 120,
+            "x": 838.890625,
+            "y": 889.203125
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 963.703125,
+            "height": 94,
+            "left": 1025.09375,
+            "right": 1145.484375,
+            "top": 869.703125,
+            "width": 120.390625,
+            "x": 1025.09375,
+            "y": 869.703125
+          }
+        }
+      ],
+      "nextHeading": "Questions About Reconstruction",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1034.703125,
+        "height": 303,
+        "left": 0,
+        "right": 1425,
+        "top": 731.703125,
+        "width": 1425,
+        "x": 0,
+        "y": 731.703125
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1000,
+        "w": 1440
+      },
+      "id": 524,
+      "mode": "desktop",
+      "rowCounts": [
+        5
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 966.84375,
+            "height": 100,
+            "left": 303.6875,
+            "right": 375.6875,
+            "top": 866.84375,
+            "width": 72,
+            "x": 303.6875,
+            "y": 866.84375
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 966.84375,
+            "height": 100,
+            "left": 489.09375,
+            "right": 563.09375,
+            "top": 866.84375,
+            "width": 74,
+            "x": 489.09375,
+            "y": 866.84375
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 966.84375,
+            "height": 100,
+            "left": 682.484375,
+            "right": 742.484375,
+            "top": 866.84375,
+            "width": 60,
+            "x": 682.484375,
+            "y": 866.84375
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 944.34375,
+            "height": 55,
+            "left": 838.890625,
+            "right": 958.890625,
+            "top": 889.34375,
+            "width": 120,
+            "x": 838.890625,
+            "y": 889.34375
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 963.84375,
+            "height": 94,
+            "left": 1025.09375,
+            "right": 1145.484375,
+            "top": 869.84375,
+            "width": 120.390625,
+            "x": 1025.09375,
+            "y": 869.84375
+          }
+        }
+      ],
+      "nextHeading": "Questions About Personal Property",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1034.84375,
+        "height": 303,
+        "left": 0,
+        "right": 1425,
+        "top": 731.84375,
+        "width": 1425,
+        "x": 0,
+        "y": 731.84375
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1000,
+        "w": 1440
+      },
+      "id": 525,
+      "mode": "desktop",
+      "rowCounts": [
+        5
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 966.6875,
+            "height": 100,
+            "left": 303.6875,
+            "right": 375.6875,
+            "top": 866.6875,
+            "width": 72,
+            "x": 303.6875,
+            "y": 866.6875
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 966.6875,
+            "height": 100,
+            "left": 489.09375,
+            "right": 563.09375,
+            "top": 866.6875,
+            "width": 74,
+            "x": 489.09375,
+            "y": 866.6875
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 966.6875,
+            "height": 100,
+            "left": 682.484375,
+            "right": 742.484375,
+            "top": 866.6875,
+            "width": 60,
+            "x": 682.484375,
+            "y": 866.6875
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 944.1875,
+            "height": 55,
+            "left": 838.890625,
+            "right": 958.890625,
+            "top": 889.1875,
+            "width": 120,
+            "x": 838.890625,
+            "y": 889.1875
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 963.6875,
+            "height": 94,
+            "left": 1025.09375,
+            "right": 1145.484375,
+            "top": 869.6875,
+            "width": 120.390625,
+            "x": 1025.09375,
+            "y": 869.6875
+          }
+        }
+      ],
+      "nextHeading": "Questions About Water Extraction",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1034.6875,
+        "height": 303,
+        "left": 0,
+        "right": 1425,
+        "top": 731.6875,
+        "width": 1425,
+        "x": 0,
+        "y": 731.6875
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1000,
+        "w": 1440
+      },
+      "id": 487,
+      "mode": "desktop",
+      "rowCounts": [
+        5
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 966.796875,
+            "height": 100,
+            "left": 303.6875,
+            "right": 375.6875,
+            "top": 866.796875,
+            "width": 72,
+            "x": 303.6875,
+            "y": 866.796875
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 966.796875,
+            "height": 100,
+            "left": 489.09375,
+            "right": 563.09375,
+            "top": 866.796875,
+            "width": 74,
+            "x": 489.09375,
+            "y": 866.796875
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 966.796875,
+            "height": 100,
+            "left": 682.484375,
+            "right": 742.484375,
+            "top": 866.796875,
+            "width": 60,
+            "x": 682.484375,
+            "y": 866.796875
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 944.296875,
+            "height": 55,
+            "left": 838.890625,
+            "right": 958.890625,
+            "top": 889.296875,
+            "width": 120,
+            "x": 838.890625,
+            "y": 889.296875
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 963.796875,
+            "height": 94,
+            "left": 1025.09375,
+            "right": 1145.484375,
+            "top": 869.796875,
+            "width": 120.390625,
+            "x": 1025.09375,
+            "y": 869.796875
+          }
+        }
+      ],
+      "nextHeading": "Questions About Board-Up",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1034.796875,
+        "height": 303,
+        "left": 0,
+        "right": 1425,
+        "top": 731.796875,
+        "width": 1425,
+        "x": 0,
+        "y": 731.796875
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1000,
+        "w": 1440
+      },
+      "id": 488,
+      "mode": "desktop",
+      "rowCounts": [
+        5
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 966.65625,
+            "height": 100,
+            "left": 303.6875,
+            "right": 375.6875,
+            "top": 866.65625,
+            "width": 72,
+            "x": 303.6875,
+            "y": 866.65625
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 966.65625,
+            "height": 100,
+            "left": 489.09375,
+            "right": 563.09375,
+            "top": 866.65625,
+            "width": 74,
+            "x": 489.09375,
+            "y": 866.65625
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 966.65625,
+            "height": 100,
+            "left": 682.484375,
+            "right": 742.484375,
+            "top": 866.65625,
+            "width": 60,
+            "x": 682.484375,
+            "y": 866.65625
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 944.15625,
+            "height": 55,
+            "left": 838.890625,
+            "right": 958.890625,
+            "top": 889.15625,
+            "width": 120,
+            "x": 838.890625,
+            "y": 889.15625
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 963.65625,
+            "height": 94,
+            "left": 1025.09375,
+            "right": 1145.484375,
+            "top": 869.65625,
+            "width": 120.390625,
+            "x": 1025.09375,
+            "y": 869.65625
+          }
+        }
+      ],
+      "nextHeading": "Questions About Odor Removal",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1034.65625,
+        "height": 303,
+        "left": 0,
+        "right": 1425,
+        "top": 731.65625,
+        "width": 1425,
+        "x": 0,
+        "y": 731.65625
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1000,
+        "w": 1440
+      },
+      "id": 489,
+      "mode": "desktop",
+      "rowCounts": [
+        5
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 967.0625,
+            "height": 100,
+            "left": 303.6875,
+            "right": 375.6875,
+            "top": 867.0625,
+            "width": 72,
+            "x": 303.6875,
+            "y": 867.0625
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 967.0625,
+            "height": 100,
+            "left": 489.09375,
+            "right": 563.09375,
+            "top": 867.0625,
+            "width": 74,
+            "x": 489.09375,
+            "y": 867.0625
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 967.0625,
+            "height": 100,
+            "left": 682.484375,
+            "right": 742.484375,
+            "top": 867.0625,
+            "width": 60,
+            "x": 682.484375,
+            "y": 867.0625
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 944.5625,
+            "height": 55,
+            "left": 838.890625,
+            "right": 958.890625,
+            "top": 889.5625,
+            "width": 120,
+            "x": 838.890625,
+            "y": 889.5625
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 964.0625,
+            "height": 94,
+            "left": 1025.09375,
+            "right": 1145.484375,
+            "top": 870.0625,
+            "width": 120.390625,
+            "x": 1025.09375,
+            "y": 870.0625
+          }
+        }
+      ],
+      "nextHeading": "Questions About Moisture Mapping",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1035.0625,
+        "height": 303,
+        "left": 0,
+        "right": 1425,
+        "top": 732.0625,
+        "width": 1425,
+        "x": 0,
+        "y": 732.0625
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1000,
+        "w": 1440
+      },
+      "id": 490,
+      "mode": "desktop",
+      "rowCounts": [
+        5
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 967.46875,
+            "height": 100,
+            "left": 303.6875,
+            "right": 375.6875,
+            "top": 867.46875,
+            "width": 72,
+            "x": 303.6875,
+            "y": 867.46875
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 967.46875,
+            "height": 100,
+            "left": 489.09375,
+            "right": 563.09375,
+            "top": 867.46875,
+            "width": 74,
+            "x": 489.09375,
+            "y": 867.46875
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 967.46875,
+            "height": 100,
+            "left": 682.484375,
+            "right": 742.484375,
+            "top": 867.46875,
+            "width": 60,
+            "x": 682.484375,
+            "y": 867.46875
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 944.96875,
+            "height": 55,
+            "left": 838.890625,
+            "right": 958.890625,
+            "top": 889.96875,
+            "width": 120,
+            "x": 838.890625,
+            "y": 889.96875
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 964.46875,
+            "height": 94,
+            "left": 1025.09375,
+            "right": 1145.484375,
+            "top": 870.46875,
+            "width": 120.390625,
+            "x": 1025.09375,
+            "y": 870.46875
+          }
+        }
+      ],
+      "nextHeading": "Questions About Dehumidification",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1035.46875,
+        "height": 303,
+        "left": 0,
+        "right": 1425,
+        "top": 732.46875,
+        "width": 1425,
+        "x": 0,
+        "y": 732.46875
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1000,
+        "w": 1440
+      },
+      "id": 491,
+      "mode": "desktop",
+      "rowCounts": [
+        5
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1037.625,
+            "height": 100,
+            "left": 52.09375,
+            "right": 124.09375,
+            "top": 937.625,
+            "width": 72,
+            "x": 52.09375,
+            "y": 937.625
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1037.625,
+            "height": 100,
+            "left": 195.28125,
+            "right": 269.28125,
+            "top": 937.625,
+            "width": 74,
+            "x": 195.28125,
+            "y": 937.625
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1037.625,
+            "height": 100,
+            "left": 346.484375,
+            "right": 406.484375,
+            "top": 937.625,
+            "width": 60,
+            "x": 346.484375,
+            "y": 937.625
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1015.125,
+            "height": 55,
+            "left": 481.59375,
+            "right": 559.796875,
+            "top": 960.125,
+            "width": 78.203125,
+            "x": 481.59375,
+            "y": 960.125
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1034.625,
+            "height": 94,
+            "left": 625.796875,
+            "right": 703.984375,
+            "top": 940.625,
+            "width": 78.1875,
+            "x": 625.796875,
+            "y": 940.625
+          }
+        }
+      ],
+      "nextHeading": "Water Damage Restoration FAQ",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1105.625,
+        "height": 303,
+        "left": 0,
+        "right": 753,
+        "top": 802.625,
+        "width": 753,
+        "x": 0,
+        "y": 802.625
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1024,
+        "w": 768
+      },
+      "id": 514,
+      "mode": "tablet",
+      "rowCounts": [
+        5
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 863.875,
+            "height": 100,
+            "left": 52.09375,
+            "right": 124.09375,
+            "top": 763.875,
+            "width": 72,
+            "x": 52.09375,
+            "y": 763.875
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 863.875,
+            "height": 100,
+            "left": 195.28125,
+            "right": 269.28125,
+            "top": 763.875,
+            "width": 74,
+            "x": 195.28125,
+            "y": 763.875
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 863.875,
+            "height": 100,
+            "left": 346.484375,
+            "right": 406.484375,
+            "top": 763.875,
+            "width": 60,
+            "x": 346.484375,
+            "y": 763.875
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 841.375,
+            "height": 55,
+            "left": 481.59375,
+            "right": 559.796875,
+            "top": 786.375,
+            "width": 78.203125,
+            "x": 481.59375,
+            "y": 786.375
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 860.875,
+            "height": 94,
+            "left": 625.796875,
+            "right": 703.984375,
+            "top": 766.875,
+            "width": 78.1875,
+            "x": 625.796875,
+            "y": 766.875
+          }
+        }
+      ],
+      "nextHeading": "Questions About Fire and Smoke Recovery",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 931.875,
+        "height": 303,
+        "left": 0,
+        "right": 753,
+        "top": 628.875,
+        "width": 753,
+        "x": 0,
+        "y": 628.875
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1024,
+        "w": 768
+      },
+      "id": 517,
+      "mode": "tablet",
+      "rowCounts": [
+        5
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1011.9375,
+            "height": 100,
+            "left": 52.09375,
+            "right": 124.09375,
+            "top": 911.9375,
+            "width": 72,
+            "x": 52.09375,
+            "y": 911.9375
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1011.9375,
+            "height": 100,
+            "left": 195.28125,
+            "right": 269.28125,
+            "top": 911.9375,
+            "width": 74,
+            "x": 195.28125,
+            "y": 911.9375
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1011.9375,
+            "height": 100,
+            "left": 346.484375,
+            "right": 406.484375,
+            "top": 911.9375,
+            "width": 60,
+            "x": 346.484375,
+            "y": 911.9375
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 989.4375,
+            "height": 55,
+            "left": 481.59375,
+            "right": 559.796875,
+            "top": 934.4375,
+            "width": 78.203125,
+            "x": 481.59375,
+            "y": 934.4375
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1008.9375,
+            "height": 94,
+            "left": 625.796875,
+            "right": 703.984375,
+            "top": 914.9375,
+            "width": 78.1875,
+            "x": 625.796875,
+            "y": 914.9375
+          }
+        }
+      ],
+      "nextHeading": "Questions About Mold Remediation",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1079.9375,
+        "height": 303,
+        "left": 0,
+        "right": 753,
+        "top": 776.9375,
+        "width": 753,
+        "x": 0,
+        "y": 776.9375
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1024,
+        "w": 768
+      },
+      "id": 516,
+      "mode": "tablet",
+      "rowCounts": [
+        5
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 986.1875,
+            "height": 100,
+            "left": 52.09375,
+            "right": 124.09375,
+            "top": 886.1875,
+            "width": 72,
+            "x": 52.09375,
+            "y": 886.1875
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 986.1875,
+            "height": 100,
+            "left": 195.28125,
+            "right": 269.28125,
+            "top": 886.1875,
+            "width": 74,
+            "x": 195.28125,
+            "y": 886.1875
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 986.1875,
+            "height": 100,
+            "left": 346.484375,
+            "right": 406.484375,
+            "top": 886.1875,
+            "width": 60,
+            "x": 346.484375,
+            "y": 886.1875
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 963.6875,
+            "height": 55,
+            "left": 481.59375,
+            "right": 559.796875,
+            "top": 908.6875,
+            "width": 78.203125,
+            "x": 481.59375,
+            "y": 908.6875
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 983.1875,
+            "height": 94,
+            "left": 625.796875,
+            "right": 703.984375,
+            "top": 889.1875,
+            "width": 78.1875,
+            "x": 625.796875,
+            "y": 889.1875
+          }
+        }
+      ],
+      "nextHeading": "Questions About Reconstruction",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1054.1875,
+        "height": 303,
+        "left": 0,
+        "right": 753,
+        "top": 751.1875,
+        "width": 753,
+        "x": 0,
+        "y": 751.1875
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1024,
+        "w": 768
+      },
+      "id": 518,
+      "mode": "tablet",
+      "rowCounts": [
+        5
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1011.6875,
+            "height": 100,
+            "left": 52.09375,
+            "right": 124.09375,
+            "top": 911.6875,
+            "width": 72,
+            "x": 52.09375,
+            "y": 911.6875
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1011.6875,
+            "height": 100,
+            "left": 195.28125,
+            "right": 269.28125,
+            "top": 911.6875,
+            "width": 74,
+            "x": 195.28125,
+            "y": 911.6875
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1011.6875,
+            "height": 100,
+            "left": 346.484375,
+            "right": 406.484375,
+            "top": 911.6875,
+            "width": 60,
+            "x": 346.484375,
+            "y": 911.6875
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 989.1875,
+            "height": 55,
+            "left": 481.59375,
+            "right": 559.796875,
+            "top": 934.1875,
+            "width": 78.203125,
+            "x": 481.59375,
+            "y": 934.1875
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1008.6875,
+            "height": 94,
+            "left": 625.796875,
+            "right": 703.984375,
+            "top": 914.6875,
+            "width": 78.1875,
+            "x": 625.796875,
+            "y": 914.6875
+          }
+        }
+      ],
+      "nextHeading": "Questions About Personal Property",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1079.6875,
+        "height": 303,
+        "left": 0,
+        "right": 753,
+        "top": 776.6875,
+        "width": 753,
+        "x": 0,
+        "y": 776.6875
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1024,
+        "w": 768
+      },
+      "id": 521,
+      "mode": "tablet",
+      "rowCounts": [
+        5
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1011.84375,
+            "height": 100,
+            "left": 52.09375,
+            "right": 124.09375,
+            "top": 911.84375,
+            "width": 72,
+            "x": 52.09375,
+            "y": 911.84375
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1011.84375,
+            "height": 100,
+            "left": 195.28125,
+            "right": 269.28125,
+            "top": 911.84375,
+            "width": 74,
+            "x": 195.28125,
+            "y": 911.84375
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1011.84375,
+            "height": 100,
+            "left": 346.484375,
+            "right": 406.484375,
+            "top": 911.84375,
+            "width": 60,
+            "x": 346.484375,
+            "y": 911.84375
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 989.34375,
+            "height": 55,
+            "left": 481.59375,
+            "right": 559.796875,
+            "top": 934.34375,
+            "width": 78.203125,
+            "x": 481.59375,
+            "y": 934.34375
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1008.84375,
+            "height": 94,
+            "left": 625.796875,
+            "right": 703.984375,
+            "top": 914.84375,
+            "width": 78.1875,
+            "x": 625.796875,
+            "y": 914.84375
+          }
+        }
+      ],
+      "nextHeading": "Questions About Storm Damage",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1079.84375,
+        "height": 303,
+        "left": 0,
+        "right": 753,
+        "top": 776.84375,
+        "width": 753,
+        "x": 0,
+        "y": 776.84375
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1024,
+        "w": 768
+      },
+      "id": 523,
+      "mode": "tablet",
+      "rowCounts": [
+        5
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 987.03125,
+            "height": 100,
+            "left": 52.09375,
+            "right": 124.09375,
+            "top": 887.03125,
+            "width": 72,
+            "x": 52.09375,
+            "y": 887.03125
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 987.03125,
+            "height": 100,
+            "left": 195.28125,
+            "right": 269.28125,
+            "top": 887.03125,
+            "width": 74,
+            "x": 195.28125,
+            "y": 887.03125
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 987.03125,
+            "height": 100,
+            "left": 346.484375,
+            "right": 406.484375,
+            "top": 887.03125,
+            "width": 60,
+            "x": 346.484375,
+            "y": 887.03125
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 964.53125,
+            "height": 55,
+            "left": 481.59375,
+            "right": 559.796875,
+            "top": 909.53125,
+            "width": 78.203125,
+            "x": 481.59375,
+            "y": 909.53125
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 984.03125,
+            "height": 94,
+            "left": 625.796875,
+            "right": 703.984375,
+            "top": 890.03125,
+            "width": 78.1875,
+            "x": 625.796875,
+            "y": 890.03125
+          }
+        }
+      ],
+      "nextHeading": "Questions About General Contracting",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1055.03125,
+        "height": 303,
+        "left": 0,
+        "right": 753,
+        "top": 752.03125,
+        "width": 753,
+        "x": 0,
+        "y": 752.03125
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1024,
+        "w": 768
+      },
+      "id": 522,
+      "mode": "tablet",
+      "rowCounts": [
+        5
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 987.1875,
+            "height": 100,
+            "left": 52.09375,
+            "right": 124.09375,
+            "top": 887.1875,
+            "width": 72,
+            "x": 52.09375,
+            "y": 887.1875
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 987.1875,
+            "height": 100,
+            "left": 195.28125,
+            "right": 269.28125,
+            "top": 887.1875,
+            "width": 74,
+            "x": 195.28125,
+            "y": 887.1875
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 987.1875,
+            "height": 100,
+            "left": 346.484375,
+            "right": 406.484375,
+            "top": 887.1875,
+            "width": 60,
+            "x": 346.484375,
+            "y": 887.1875
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 964.6875,
+            "height": 55,
+            "left": 481.59375,
+            "right": 559.796875,
+            "top": 909.6875,
+            "width": 78.203125,
+            "x": 481.59375,
+            "y": 909.6875
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 984.1875,
+            "height": 94,
+            "left": 625.796875,
+            "right": 703.984375,
+            "top": 890.1875,
+            "width": 78.1875,
+            "x": 625.796875,
+            "y": 890.1875
+          }
+        }
+      ],
+      "nextHeading": "Questions About Business Water Damage",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1055.1875,
+        "height": 303,
+        "left": 0,
+        "right": 753,
+        "top": 752.1875,
+        "width": 753,
+        "x": 0,
+        "y": 752.1875
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1024,
+        "w": 768
+      },
+      "id": 515,
+      "mode": "tablet",
+      "rowCounts": [
+        5
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1035.4375,
+            "height": 100,
+            "left": 52.09375,
+            "right": 124.09375,
+            "top": 935.4375,
+            "width": 72,
+            "x": 52.09375,
+            "y": 935.4375
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1035.4375,
+            "height": 100,
+            "left": 195.28125,
+            "right": 269.28125,
+            "top": 935.4375,
+            "width": 74,
+            "x": 195.28125,
+            "y": 935.4375
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1035.4375,
+            "height": 100,
+            "left": 346.484375,
+            "right": 406.484375,
+            "top": 935.4375,
+            "width": 60,
+            "x": 346.484375,
+            "y": 935.4375
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1012.9375,
+            "height": 55,
+            "left": 481.59375,
+            "right": 559.796875,
+            "top": 957.9375,
+            "width": 78.203125,
+            "x": 481.59375,
+            "y": 957.9375
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1032.4375,
+            "height": 94,
+            "left": 625.796875,
+            "right": 703.984375,
+            "top": 938.4375,
+            "width": 78.1875,
+            "x": 625.796875,
+            "y": 938.4375
+          }
+        }
+      ],
+      "nextHeading": "Questions About Fire and Smoke Recovery",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1103.4375,
+        "height": 303,
+        "left": 0,
+        "right": 753,
+        "top": 800.4375,
+        "width": 753,
+        "x": 0,
+        "y": 800.4375
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1024,
+        "w": 768
+      },
+      "id": 520,
+      "mode": "tablet",
+      "rowCounts": [
+        5
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 933.34375,
+            "height": 100,
+            "left": 52.09375,
+            "right": 124.09375,
+            "top": 833.34375,
+            "width": 72,
+            "x": 52.09375,
+            "y": 833.34375
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 933.34375,
+            "height": 100,
+            "left": 195.28125,
+            "right": 269.28125,
+            "top": 833.34375,
+            "width": 74,
+            "x": 195.28125,
+            "y": 833.34375
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 933.34375,
+            "height": 100,
+            "left": 346.484375,
+            "right": 406.484375,
+            "top": 833.34375,
+            "width": 60,
+            "x": 346.484375,
+            "y": 833.34375
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 910.84375,
+            "height": 55,
+            "left": 481.59375,
+            "right": 559.796875,
+            "top": 855.84375,
+            "width": 78.203125,
+            "x": 481.59375,
+            "y": 855.84375
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 930.34375,
+            "height": 94,
+            "left": 625.796875,
+            "right": 703.984375,
+            "top": 836.34375,
+            "width": 78.1875,
+            "x": 625.796875,
+            "y": 836.34375
+          }
+        }
+      ],
+      "nextHeading": "Questions About Mold Remediation",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1001.34375,
+        "height": 303,
+        "left": 0,
+        "right": 753,
+        "top": 698.34375,
+        "width": 753,
+        "x": 0,
+        "y": 698.34375
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1024,
+        "w": 768
+      },
+      "id": 519,
+      "mode": "tablet",
+      "rowCounts": [
+        5
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 933.421875,
+            "height": 100,
+            "left": 52.09375,
+            "right": 124.09375,
+            "top": 833.421875,
+            "width": 72,
+            "x": 52.09375,
+            "y": 833.421875
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 933.421875,
+            "height": 100,
+            "left": 195.28125,
+            "right": 269.28125,
+            "top": 833.421875,
+            "width": 74,
+            "x": 195.28125,
+            "y": 833.421875
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 933.421875,
+            "height": 100,
+            "left": 346.484375,
+            "right": 406.484375,
+            "top": 833.421875,
+            "width": 60,
+            "x": 346.484375,
+            "y": 833.421875
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 910.921875,
+            "height": 55,
+            "left": 481.59375,
+            "right": 559.796875,
+            "top": 855.921875,
+            "width": 78.203125,
+            "x": 481.59375,
+            "y": 855.921875
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 930.421875,
+            "height": 94,
+            "left": 625.796875,
+            "right": 703.984375,
+            "top": 836.421875,
+            "width": 78.1875,
+            "x": 625.796875,
+            "y": 836.421875
+          }
+        }
+      ],
+      "nextHeading": "Questions About Reconstruction",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1001.421875,
+        "height": 303,
+        "left": 0,
+        "right": 753,
+        "top": 698.421875,
+        "width": 753,
+        "x": 0,
+        "y": 698.421875
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1024,
+        "w": 768
+      },
+      "id": 524,
+      "mode": "tablet",
+      "rowCounts": [
+        5
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1011.84375,
+            "height": 100,
+            "left": 52.09375,
+            "right": 124.09375,
+            "top": 911.84375,
+            "width": 72,
+            "x": 52.09375,
+            "y": 911.84375
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1011.84375,
+            "height": 100,
+            "left": 195.28125,
+            "right": 269.28125,
+            "top": 911.84375,
+            "width": 74,
+            "x": 195.28125,
+            "y": 911.84375
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1011.84375,
+            "height": 100,
+            "left": 346.484375,
+            "right": 406.484375,
+            "top": 911.84375,
+            "width": 60,
+            "x": 346.484375,
+            "y": 911.84375
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 989.34375,
+            "height": 55,
+            "left": 481.59375,
+            "right": 559.796875,
+            "top": 934.34375,
+            "width": 78.203125,
+            "x": 481.59375,
+            "y": 934.34375
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1008.84375,
+            "height": 94,
+            "left": 625.796875,
+            "right": 703.984375,
+            "top": 914.84375,
+            "width": 78.1875,
+            "x": 625.796875,
+            "y": 914.84375
+          }
+        }
+      ],
+      "nextHeading": "Questions About Personal Property",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1079.84375,
+        "height": 303,
+        "left": 0,
+        "right": 753,
+        "top": 776.84375,
+        "width": 753,
+        "x": 0,
+        "y": 776.84375
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1024,
+        "w": 768
+      },
+      "id": 525,
+      "mode": "tablet",
+      "rowCounts": [
+        5
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1009.609375,
+            "height": 100,
+            "left": 52.09375,
+            "right": 124.09375,
+            "top": 909.609375,
+            "width": 72,
+            "x": 52.09375,
+            "y": 909.609375
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1009.609375,
+            "height": 100,
+            "left": 195.28125,
+            "right": 269.28125,
+            "top": 909.609375,
+            "width": 74,
+            "x": 195.28125,
+            "y": 909.609375
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1009.609375,
+            "height": 100,
+            "left": 346.484375,
+            "right": 406.484375,
+            "top": 909.609375,
+            "width": 60,
+            "x": 346.484375,
+            "y": 909.609375
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 987.109375,
+            "height": 55,
+            "left": 481.59375,
+            "right": 559.796875,
+            "top": 932.109375,
+            "width": 78.203125,
+            "x": 481.59375,
+            "y": 932.109375
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1006.609375,
+            "height": 94,
+            "left": 625.796875,
+            "right": 703.984375,
+            "top": 912.609375,
+            "width": 78.1875,
+            "x": 625.796875,
+            "y": 912.609375
+          }
+        }
+      ],
+      "nextHeading": "Questions About Water Extraction",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1077.609375,
+        "height": 303,
+        "left": 0,
+        "right": 753,
+        "top": 774.609375,
+        "width": 753,
+        "x": 0,
+        "y": 774.609375
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1024,
+        "w": 768
+      },
+      "id": 487,
+      "mode": "tablet",
+      "rowCounts": [
+        5
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 874.515625,
+            "height": 100,
+            "left": 52.09375,
+            "right": 124.09375,
+            "top": 774.515625,
+            "width": 72,
+            "x": 52.09375,
+            "y": 774.515625
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 874.515625,
+            "height": 100,
+            "left": 195.28125,
+            "right": 269.28125,
+            "top": 774.515625,
+            "width": 74,
+            "x": 195.28125,
+            "y": 774.515625
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 874.515625,
+            "height": 100,
+            "left": 346.484375,
+            "right": 406.484375,
+            "top": 774.515625,
+            "width": 60,
+            "x": 346.484375,
+            "y": 774.515625
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 852.015625,
+            "height": 55,
+            "left": 481.59375,
+            "right": 559.796875,
+            "top": 797.015625,
+            "width": 78.203125,
+            "x": 481.59375,
+            "y": 797.015625
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 871.515625,
+            "height": 94,
+            "left": 625.796875,
+            "right": 703.984375,
+            "top": 777.515625,
+            "width": 78.1875,
+            "x": 625.796875,
+            "y": 777.515625
+          }
+        }
+      ],
+      "nextHeading": "Questions About Board-Up",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 942.515625,
+        "height": 303,
+        "left": 0,
+        "right": 753,
+        "top": 639.515625,
+        "width": 753,
+        "x": 0,
+        "y": 639.515625
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1024,
+        "w": 768
+      },
+      "id": 488,
+      "mode": "tablet",
+      "rowCounts": [
+        5
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1037.59375,
+            "height": 100,
+            "left": 52.09375,
+            "right": 124.09375,
+            "top": 937.59375,
+            "width": 72,
+            "x": 52.09375,
+            "y": 937.59375
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1037.59375,
+            "height": 100,
+            "left": 195.28125,
+            "right": 269.28125,
+            "top": 937.59375,
+            "width": 74,
+            "x": 195.28125,
+            "y": 937.59375
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1037.59375,
+            "height": 100,
+            "left": 346.484375,
+            "right": 406.484375,
+            "top": 937.59375,
+            "width": 60,
+            "x": 346.484375,
+            "y": 937.59375
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1015.09375,
+            "height": 55,
+            "left": 481.59375,
+            "right": 559.796875,
+            "top": 960.09375,
+            "width": 78.203125,
+            "x": 481.59375,
+            "y": 960.09375
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1034.59375,
+            "height": 94,
+            "left": 625.796875,
+            "right": 703.984375,
+            "top": 940.59375,
+            "width": 78.1875,
+            "x": 625.796875,
+            "y": 940.59375
+          }
+        }
+      ],
+      "nextHeading": "Questions About Odor Removal",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1105.59375,
+        "height": 303,
+        "left": 0,
+        "right": 753,
+        "top": 802.59375,
+        "width": 753,
+        "x": 0,
+        "y": 802.59375
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1024,
+        "w": 768
+      },
+      "id": 489,
+      "mode": "tablet",
+      "rowCounts": [
+        5
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 986.5,
+            "height": 100,
+            "left": 52.09375,
+            "right": 124.09375,
+            "top": 886.5,
+            "width": 72,
+            "x": 52.09375,
+            "y": 886.5
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 986.5,
+            "height": 100,
+            "left": 195.28125,
+            "right": 269.28125,
+            "top": 886.5,
+            "width": 74,
+            "x": 195.28125,
+            "y": 886.5
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 986.5,
+            "height": 100,
+            "left": 346.484375,
+            "right": 406.484375,
+            "top": 886.5,
+            "width": 60,
+            "x": 346.484375,
+            "y": 886.5
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 964,
+            "height": 55,
+            "left": 481.59375,
+            "right": 559.796875,
+            "top": 909,
+            "width": 78.203125,
+            "x": 481.59375,
+            "y": 909
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 983.5,
+            "height": 94,
+            "left": 625.796875,
+            "right": 703.984375,
+            "top": 889.5,
+            "width": 78.1875,
+            "x": 625.796875,
+            "y": 889.5
+          }
+        }
+      ],
+      "nextHeading": "Questions About Moisture Mapping",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1054.5,
+        "height": 303,
+        "left": 0,
+        "right": 753,
+        "top": 751.5,
+        "width": 753,
+        "x": 0,
+        "y": 751.5
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1024,
+        "w": 768
+      },
+      "id": 490,
+      "mode": "tablet",
+      "rowCounts": [
+        5
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1037.5,
+            "height": 100,
+            "left": 52.09375,
+            "right": 124.09375,
+            "top": 937.5,
+            "width": 72,
+            "x": 52.09375,
+            "y": 937.5
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1037.5,
+            "height": 100,
+            "left": 195.28125,
+            "right": 269.28125,
+            "top": 937.5,
+            "width": 74,
+            "x": 195.28125,
+            "y": 937.5
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1037.5,
+            "height": 100,
+            "left": 346.484375,
+            "right": 406.484375,
+            "top": 937.5,
+            "width": 60,
+            "x": 346.484375,
+            "y": 937.5
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1015,
+            "height": 55,
+            "left": 481.59375,
+            "right": 559.796875,
+            "top": 960,
+            "width": 78.203125,
+            "x": 481.59375,
+            "y": 960
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1034.5,
+            "height": 94,
+            "left": 625.796875,
+            "right": 703.984375,
+            "top": 940.5,
+            "width": 78.1875,
+            "x": 625.796875,
+            "y": 940.5
+          }
+        }
+      ],
+      "nextHeading": "Questions About Dehumidification",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1105.5,
+        "height": 303,
+        "left": 0,
+        "right": 753,
+        "top": 802.5,
+        "width": 753,
+        "x": 0,
+        "y": 802.5
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1024,
+        "w": 768
+      },
+      "id": 491,
+      "mode": "tablet",
+      "rowCounts": [
+        5
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 986.90625,
+            "height": 100,
+            "left": 71.75,
+            "right": 143.75,
+            "top": 886.90625,
+            "width": 72,
+            "x": 71.75,
+            "y": 886.90625
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 986.90625,
+            "height": 100,
+            "left": 230.25,
+            "right": 304.25,
+            "top": 886.90625,
+            "width": 74,
+            "x": 230.25,
+            "y": 886.90625
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1142.90625,
+            "height": 100,
+            "left": 77.75,
+            "right": 137.75,
+            "top": 1042.90625,
+            "width": 60,
+            "x": 77.75,
+            "y": 1042.90625
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1120.40625,
+            "height": 55,
+            "left": 208.5,
+            "right": 326,
+            "top": 1065.40625,
+            "width": 117.5,
+            "x": 208.5,
+            "y": 1065.40625
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1295.90625,
+            "height": 94,
+            "left": 122.5,
+            "right": 252.5,
+            "top": 1201.90625,
+            "width": 130,
+            "x": 122.5,
+            "y": 1201.90625
+          }
+        }
+      ],
+      "nextHeading": "Water Damage Restoration FAQ",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1342.90625,
+        "height": 622,
+        "left": 0,
+        "right": 375,
+        "top": 720.90625,
+        "width": 375,
+        "x": 0,
+        "y": 720.90625
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 844,
+        "w": 390
+      },
+      "id": 514,
+      "mode": "mobile",
+      "rowCounts": [
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 745.78125,
+            "height": 100,
+            "left": 71.75,
+            "right": 143.75,
+            "top": 645.78125,
+            "width": 72,
+            "x": 71.75,
+            "y": 645.78125
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 745.78125,
+            "height": 100,
+            "left": 230.25,
+            "right": 304.25,
+            "top": 645.78125,
+            "width": 74,
+            "x": 230.25,
+            "y": 645.78125
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 901.78125,
+            "height": 100,
+            "left": 77.75,
+            "right": 137.75,
+            "top": 801.78125,
+            "width": 60,
+            "x": 77.75,
+            "y": 801.78125
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 879.28125,
+            "height": 55,
+            "left": 208.5,
+            "right": 326,
+            "top": 824.28125,
+            "width": 117.5,
+            "x": 208.5,
+            "y": 824.28125
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1054.78125,
+            "height": 94,
+            "left": 122.5,
+            "right": 252.5,
+            "top": 960.78125,
+            "width": 130,
+            "x": 122.5,
+            "y": 960.78125
+          }
+        }
+      ],
+      "nextHeading": "Questions About Fire and Smoke Recovery",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1101.78125,
+        "height": 622,
+        "left": 0,
+        "right": 375,
+        "top": 479.78125,
+        "width": 375,
+        "x": 0,
+        "y": 479.78125
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 844,
+        "w": 390
+      },
+      "id": 517,
+      "mode": "mobile",
+      "rowCounts": [
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 663.328125,
+            "height": 100,
+            "left": 71.75,
+            "right": 143.75,
+            "top": 563.328125,
+            "width": 72,
+            "x": 71.75,
+            "y": 563.328125
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 663.328125,
+            "height": 100,
+            "left": 230.25,
+            "right": 304.25,
+            "top": 563.328125,
+            "width": 74,
+            "x": 230.25,
+            "y": 563.328125
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 819.328125,
+            "height": 100,
+            "left": 77.75,
+            "right": 137.75,
+            "top": 719.328125,
+            "width": 60,
+            "x": 77.75,
+            "y": 719.328125
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 796.828125,
+            "height": 55,
+            "left": 208.5,
+            "right": 326,
+            "top": 741.828125,
+            "width": 117.5,
+            "x": 208.5,
+            "y": 741.828125
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 972.328125,
+            "height": 94,
+            "left": 122.5,
+            "right": 252.5,
+            "top": 878.328125,
+            "width": 130,
+            "x": 122.5,
+            "y": 878.328125
+          }
+        }
+      ],
+      "nextHeading": "Questions About Mold Remediation",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1019.328125,
+        "height": 622,
+        "left": 0,
+        "right": 375,
+        "top": 397.328125,
+        "width": 375,
+        "x": 0,
+        "y": 397.328125
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 844,
+        "w": 390
+      },
+      "id": 516,
+      "mode": "mobile",
+      "rowCounts": [
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 716.390625,
+            "height": 100,
+            "left": 71.75,
+            "right": 143.75,
+            "top": 616.390625,
+            "width": 72,
+            "x": 71.75,
+            "y": 616.390625
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 716.390625,
+            "height": 100,
+            "left": 230.25,
+            "right": 304.25,
+            "top": 616.390625,
+            "width": 74,
+            "x": 230.25,
+            "y": 616.390625
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 872.390625,
+            "height": 100,
+            "left": 77.75,
+            "right": 137.75,
+            "top": 772.390625,
+            "width": 60,
+            "x": 77.75,
+            "y": 772.390625
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 849.890625,
+            "height": 55,
+            "left": 208.5,
+            "right": 326,
+            "top": 794.890625,
+            "width": 117.5,
+            "x": 208.5,
+            "y": 794.890625
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1025.390625,
+            "height": 94,
+            "left": 122.5,
+            "right": 252.5,
+            "top": 931.390625,
+            "width": 130,
+            "x": 122.5,
+            "y": 931.390625
+          }
+        }
+      ],
+      "nextHeading": "Questions About Reconstruction",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1072.390625,
+        "height": 622,
+        "left": 0,
+        "right": 375,
+        "top": 450.390625,
+        "width": 375,
+        "x": 0,
+        "y": 450.390625
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 844,
+        "w": 390
+      },
+      "id": 518,
+      "mode": "mobile",
+      "rowCounts": [
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 798.734375,
+            "height": 100,
+            "left": 71.75,
+            "right": 143.75,
+            "top": 698.734375,
+            "width": 72,
+            "x": 71.75,
+            "y": 698.734375
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 798.734375,
+            "height": 100,
+            "left": 230.25,
+            "right": 304.25,
+            "top": 698.734375,
+            "width": 74,
+            "x": 230.25,
+            "y": 698.734375
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 954.734375,
+            "height": 100,
+            "left": 77.75,
+            "right": 137.75,
+            "top": 854.734375,
+            "width": 60,
+            "x": 77.75,
+            "y": 854.734375
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 932.234375,
+            "height": 55,
+            "left": 208.5,
+            "right": 326,
+            "top": 877.234375,
+            "width": 117.5,
+            "x": 208.5,
+            "y": 877.234375
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1107.734375,
+            "height": 94,
+            "left": 122.5,
+            "right": 252.5,
+            "top": 1013.734375,
+            "width": 130,
+            "x": 122.5,
+            "y": 1013.734375
+          }
+        }
+      ],
+      "nextHeading": "Questions About Personal Property",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1154.734375,
+        "height": 622,
+        "left": 0,
+        "right": 375,
+        "top": 532.734375,
+        "width": 375,
+        "x": 0,
+        "y": 532.734375
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 844,
+        "w": 390
+      },
+      "id": 521,
+      "mode": "mobile",
+      "rowCounts": [
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 851.40625,
+            "height": 100,
+            "left": 71.75,
+            "right": 143.75,
+            "top": 751.40625,
+            "width": 72,
+            "x": 71.75,
+            "y": 751.40625
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 851.40625,
+            "height": 100,
+            "left": 230.25,
+            "right": 304.25,
+            "top": 751.40625,
+            "width": 74,
+            "x": 230.25,
+            "y": 751.40625
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1007.40625,
+            "height": 100,
+            "left": 77.75,
+            "right": 137.75,
+            "top": 907.40625,
+            "width": 60,
+            "x": 77.75,
+            "y": 907.40625
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 984.90625,
+            "height": 55,
+            "left": 208.5,
+            "right": 326,
+            "top": 929.90625,
+            "width": 117.5,
+            "x": 208.5,
+            "y": 929.90625
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1160.40625,
+            "height": 94,
+            "left": 122.5,
+            "right": 252.5,
+            "top": 1066.40625,
+            "width": 130,
+            "x": 122.5,
+            "y": 1066.40625
+          }
+        }
+      ],
+      "nextHeading": "Questions About Storm Damage",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1207.40625,
+        "height": 622,
+        "left": 0,
+        "right": 375,
+        "top": 585.40625,
+        "width": 375,
+        "x": 0,
+        "y": 585.40625
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 844,
+        "w": 390
+      },
+      "id": 523,
+      "mode": "mobile",
+      "rowCounts": [
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 722.71875,
+            "height": 100,
+            "left": 71.75,
+            "right": 143.75,
+            "top": 622.71875,
+            "width": 72,
+            "x": 71.75,
+            "y": 622.71875
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 722.71875,
+            "height": 100,
+            "left": 230.25,
+            "right": 304.25,
+            "top": 622.71875,
+            "width": 74,
+            "x": 230.25,
+            "y": 622.71875
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 878.71875,
+            "height": 100,
+            "left": 77.75,
+            "right": 137.75,
+            "top": 778.71875,
+            "width": 60,
+            "x": 77.75,
+            "y": 778.71875
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 856.21875,
+            "height": 55,
+            "left": 208.5,
+            "right": 326,
+            "top": 801.21875,
+            "width": 117.5,
+            "x": 208.5,
+            "y": 801.21875
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1031.71875,
+            "height": 94,
+            "left": 122.5,
+            "right": 252.5,
+            "top": 937.71875,
+            "width": 130,
+            "x": 122.5,
+            "y": 937.71875
+          }
+        }
+      ],
+      "nextHeading": "Questions About General Contracting",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1078.71875,
+        "height": 622,
+        "left": 0,
+        "right": 375,
+        "top": 456.71875,
+        "width": 375,
+        "x": 0,
+        "y": 456.71875
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 844,
+        "w": 390
+      },
+      "id": 522,
+      "mode": "mobile",
+      "rowCounts": [
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 799.78125,
+            "height": 100,
+            "left": 71.75,
+            "right": 143.75,
+            "top": 699.78125,
+            "width": 72,
+            "x": 71.75,
+            "y": 699.78125
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 799.78125,
+            "height": 100,
+            "left": 230.25,
+            "right": 304.25,
+            "top": 699.78125,
+            "width": 74,
+            "x": 230.25,
+            "y": 699.78125
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 955.78125,
+            "height": 100,
+            "left": 77.75,
+            "right": 137.75,
+            "top": 855.78125,
+            "width": 60,
+            "x": 77.75,
+            "y": 855.78125
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 933.28125,
+            "height": 55,
+            "left": 208.5,
+            "right": 326,
+            "top": 878.28125,
+            "width": 117.5,
+            "x": 208.5,
+            "y": 878.28125
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1108.78125,
+            "height": 94,
+            "left": 122.5,
+            "right": 252.5,
+            "top": 1014.78125,
+            "width": 130,
+            "x": 122.5,
+            "y": 1014.78125
+          }
+        }
+      ],
+      "nextHeading": "Questions About Business Water Damage",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1155.78125,
+        "height": 622,
+        "left": 0,
+        "right": 375,
+        "top": 533.78125,
+        "width": 375,
+        "x": 0,
+        "y": 533.78125
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 844,
+        "w": 390
+      },
+      "id": 515,
+      "mode": "mobile",
+      "rowCounts": [
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 861.59375,
+            "height": 100,
+            "left": 71.75,
+            "right": 143.75,
+            "top": 761.59375,
+            "width": 72,
+            "x": 71.75,
+            "y": 761.59375
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 861.59375,
+            "height": 100,
+            "left": 230.25,
+            "right": 304.25,
+            "top": 761.59375,
+            "width": 74,
+            "x": 230.25,
+            "y": 761.59375
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1017.59375,
+            "height": 100,
+            "left": 77.75,
+            "right": 137.75,
+            "top": 917.59375,
+            "width": 60,
+            "x": 77.75,
+            "y": 917.59375
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 995.09375,
+            "height": 55,
+            "left": 208.5,
+            "right": 326,
+            "top": 940.09375,
+            "width": 117.5,
+            "x": 208.5,
+            "y": 940.09375
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1170.59375,
+            "height": 94,
+            "left": 122.5,
+            "right": 252.5,
+            "top": 1076.59375,
+            "width": 130,
+            "x": 122.5,
+            "y": 1076.59375
+          }
+        }
+      ],
+      "nextHeading": "Questions About Fire and Smoke Recovery",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1217.59375,
+        "height": 622,
+        "left": 0,
+        "right": 375,
+        "top": 595.59375,
+        "width": 375,
+        "x": 0,
+        "y": 595.59375
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 844,
+        "w": 390
+      },
+      "id": 520,
+      "mode": "mobile",
+      "rowCounts": [
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 741.734375,
+            "height": 100,
+            "left": 71.75,
+            "right": 143.75,
+            "top": 641.734375,
+            "width": 72,
+            "x": 71.75,
+            "y": 641.734375
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 741.734375,
+            "height": 100,
+            "left": 230.25,
+            "right": 304.25,
+            "top": 641.734375,
+            "width": 74,
+            "x": 230.25,
+            "y": 641.734375
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 897.734375,
+            "height": 100,
+            "left": 77.75,
+            "right": 137.75,
+            "top": 797.734375,
+            "width": 60,
+            "x": 77.75,
+            "y": 797.734375
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 875.234375,
+            "height": 55,
+            "left": 208.5,
+            "right": 326,
+            "top": 820.234375,
+            "width": 117.5,
+            "x": 208.5,
+            "y": 820.234375
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1050.734375,
+            "height": 94,
+            "left": 122.5,
+            "right": 252.5,
+            "top": 956.734375,
+            "width": 130,
+            "x": 122.5,
+            "y": 956.734375
+          }
+        }
+      ],
+      "nextHeading": "Questions About Mold Remediation",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1097.734375,
+        "height": 622,
+        "left": 0,
+        "right": 375,
+        "top": 475.734375,
+        "width": 375,
+        "x": 0,
+        "y": 475.734375
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 844,
+        "w": 390
+      },
+      "id": 519,
+      "mode": "mobile",
+      "rowCounts": [
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 741.203125,
+            "height": 100,
+            "left": 71.75,
+            "right": 143.75,
+            "top": 641.203125,
+            "width": 72,
+            "x": 71.75,
+            "y": 641.203125
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 741.203125,
+            "height": 100,
+            "left": 230.25,
+            "right": 304.25,
+            "top": 641.203125,
+            "width": 74,
+            "x": 230.25,
+            "y": 641.203125
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 897.203125,
+            "height": 100,
+            "left": 77.75,
+            "right": 137.75,
+            "top": 797.203125,
+            "width": 60,
+            "x": 77.75,
+            "y": 797.203125
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 874.703125,
+            "height": 55,
+            "left": 208.5,
+            "right": 326,
+            "top": 819.703125,
+            "width": 117.5,
+            "x": 208.5,
+            "y": 819.703125
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1050.203125,
+            "height": 94,
+            "left": 122.5,
+            "right": 252.5,
+            "top": 956.203125,
+            "width": 130,
+            "x": 122.5,
+            "y": 956.203125
+          }
+        }
+      ],
+      "nextHeading": "Questions About Reconstruction",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1097.203125,
+        "height": 622,
+        "left": 0,
+        "right": 375,
+        "top": 475.203125,
+        "width": 375,
+        "x": 0,
+        "y": 475.203125
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 844,
+        "w": 390
+      },
+      "id": 524,
+      "mode": "mobile",
+      "rowCounts": [
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 735.40625,
+            "height": 100,
+            "left": 71.75,
+            "right": 143.75,
+            "top": 635.40625,
+            "width": 72,
+            "x": 71.75,
+            "y": 635.40625
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 735.40625,
+            "height": 100,
+            "left": 230.25,
+            "right": 304.25,
+            "top": 635.40625,
+            "width": 74,
+            "x": 230.25,
+            "y": 635.40625
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 891.40625,
+            "height": 100,
+            "left": 77.75,
+            "right": 137.75,
+            "top": 791.40625,
+            "width": 60,
+            "x": 77.75,
+            "y": 791.40625
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 868.90625,
+            "height": 55,
+            "left": 208.5,
+            "right": 326,
+            "top": 813.90625,
+            "width": 117.5,
+            "x": 208.5,
+            "y": 813.90625
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1044.40625,
+            "height": 94,
+            "left": 122.5,
+            "right": 252.5,
+            "top": 950.40625,
+            "width": 130,
+            "x": 122.5,
+            "y": 950.40625
+          }
+        }
+      ],
+      "nextHeading": "Questions About Personal Property",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1091.40625,
+        "height": 622,
+        "left": 0,
+        "right": 375,
+        "top": 469.40625,
+        "width": 375,
+        "x": 0,
+        "y": 469.40625
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 844,
+        "w": 390
+      },
+      "id": 525,
+      "mode": "mobile",
+      "rowCounts": [
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 920.90625,
+            "height": 100,
+            "left": 71.75,
+            "right": 143.75,
+            "top": 820.90625,
+            "width": 72,
+            "x": 71.75,
+            "y": 820.90625
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 920.90625,
+            "height": 100,
+            "left": 230.25,
+            "right": 304.25,
+            "top": 820.90625,
+            "width": 74,
+            "x": 230.25,
+            "y": 820.90625
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1076.90625,
+            "height": 100,
+            "left": 77.75,
+            "right": 137.75,
+            "top": 976.90625,
+            "width": 60,
+            "x": 77.75,
+            "y": 976.90625
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1054.40625,
+            "height": 55,
+            "left": 208.5,
+            "right": 326,
+            "top": 999.40625,
+            "width": 117.5,
+            "x": 208.5,
+            "y": 999.40625
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1229.90625,
+            "height": 94,
+            "left": 122.5,
+            "right": 252.5,
+            "top": 1135.90625,
+            "width": 130,
+            "x": 122.5,
+            "y": 1135.90625
+          }
+        }
+      ],
+      "nextHeading": "Questions About Water Extraction",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1276.90625,
+        "height": 622,
+        "left": 0,
+        "right": 375,
+        "top": 654.90625,
+        "width": 375,
+        "x": 0,
+        "y": 654.90625
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 844,
+        "w": 390
+      },
+      "id": 487,
+      "mode": "mobile",
+      "rowCounts": [
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 823.0625,
+            "height": 100,
+            "left": 71.75,
+            "right": 143.75,
+            "top": 723.0625,
+            "width": 72,
+            "x": 71.75,
+            "y": 723.0625
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 823.0625,
+            "height": 100,
+            "left": 230.25,
+            "right": 304.25,
+            "top": 723.0625,
+            "width": 74,
+            "x": 230.25,
+            "y": 723.0625
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 979.0625,
+            "height": 100,
+            "left": 77.75,
+            "right": 137.75,
+            "top": 879.0625,
+            "width": 60,
+            "x": 77.75,
+            "y": 879.0625
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 956.5625,
+            "height": 55,
+            "left": 208.5,
+            "right": 326,
+            "top": 901.5625,
+            "width": 117.5,
+            "x": 208.5,
+            "y": 901.5625
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1132.0625,
+            "height": 94,
+            "left": 122.5,
+            "right": 252.5,
+            "top": 1038.0625,
+            "width": 130,
+            "x": 122.5,
+            "y": 1038.0625
+          }
+        }
+      ],
+      "nextHeading": "Questions About Board-Up",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1179.0625,
+        "height": 622,
+        "left": 0,
+        "right": 375,
+        "top": 557.0625,
+        "width": 375,
+        "x": 0,
+        "y": 557.0625
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 844,
+        "w": 390
+      },
+      "id": 488,
+      "mode": "mobile",
+      "rowCounts": [
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 898.21875,
+            "height": 100,
+            "left": 71.75,
+            "right": 143.75,
+            "top": 798.21875,
+            "width": 72,
+            "x": 71.75,
+            "y": 798.21875
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 898.21875,
+            "height": 100,
+            "left": 230.25,
+            "right": 304.25,
+            "top": 798.21875,
+            "width": 74,
+            "x": 230.25,
+            "y": 798.21875
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1054.21875,
+            "height": 100,
+            "left": 77.75,
+            "right": 137.75,
+            "top": 954.21875,
+            "width": 60,
+            "x": 77.75,
+            "y": 954.21875
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1031.71875,
+            "height": 55,
+            "left": 208.5,
+            "right": 326,
+            "top": 976.71875,
+            "width": 117.5,
+            "x": 208.5,
+            "y": 976.71875
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1207.21875,
+            "height": 94,
+            "left": 122.5,
+            "right": 252.5,
+            "top": 1113.21875,
+            "width": 130,
+            "x": 122.5,
+            "y": 1113.21875
+          }
+        }
+      ],
+      "nextHeading": "Questions About Odor Removal",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1254.21875,
+        "height": 622,
+        "left": 0,
+        "right": 375,
+        "top": 632.21875,
+        "width": 375,
+        "x": 0,
+        "y": 632.21875
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 844,
+        "w": 390
+      },
+      "id": 489,
+      "mode": "mobile",
+      "rowCounts": [
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 766.21875,
+            "height": 100,
+            "left": 71.75,
+            "right": 143.75,
+            "top": 666.21875,
+            "width": 72,
+            "x": 71.75,
+            "y": 666.21875
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 766.21875,
+            "height": 100,
+            "left": 230.25,
+            "right": 304.25,
+            "top": 666.21875,
+            "width": 74,
+            "x": 230.25,
+            "y": 666.21875
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 922.21875,
+            "height": 100,
+            "left": 77.75,
+            "right": 137.75,
+            "top": 822.21875,
+            "width": 60,
+            "x": 77.75,
+            "y": 822.21875
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 899.71875,
+            "height": 55,
+            "left": 208.5,
+            "right": 326,
+            "top": 844.71875,
+            "width": 117.5,
+            "x": 208.5,
+            "y": 844.71875
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1075.21875,
+            "height": 94,
+            "left": 122.5,
+            "right": 252.5,
+            "top": 981.21875,
+            "width": 130,
+            "x": 122.5,
+            "y": 981.21875
+          }
+        }
+      ],
+      "nextHeading": "Questions About Moisture Mapping",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1122.21875,
+        "height": 622,
+        "left": 0,
+        "right": 375,
+        "top": 500.21875,
+        "width": 375,
+        "x": 0,
+        "y": 500.21875
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 844,
+        "w": 390
+      },
+      "id": 490,
+      "mode": "mobile",
+      "rowCounts": [
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 947.234375,
+            "height": 100,
+            "left": 71.75,
+            "right": 143.75,
+            "top": 847.234375,
+            "width": 72,
+            "x": 71.75,
+            "y": 847.234375
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 947.234375,
+            "height": 100,
+            "left": 230.25,
+            "right": 304.25,
+            "top": 847.234375,
+            "width": 74,
+            "x": 230.25,
+            "y": 847.234375
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1103.234375,
+            "height": 100,
+            "left": 77.75,
+            "right": 137.75,
+            "top": 1003.234375,
+            "width": 60,
+            "x": 77.75,
+            "y": 1003.234375
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1080.734375,
+            "height": 55,
+            "left": 208.5,
+            "right": 326,
+            "top": 1025.734375,
+            "width": 117.5,
+            "x": 208.5,
+            "y": 1025.734375
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 1256.234375,
+            "height": 94,
+            "left": 122.5,
+            "right": 252.5,
+            "top": 1162.234375,
+            "width": 130,
+            "x": 122.5,
+            "y": 1162.234375
+          }
+        }
+      ],
+      "nextHeading": "Questions About Dehumidification",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1303.234375,
+        "height": 622,
+        "left": 0,
+        "right": 375,
+        "top": 681.234375,
+        "width": 375,
+        "x": 0,
+        "y": 681.234375
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 844,
+        "w": 390
+      },
+      "id": 491,
+      "mode": "mobile",
+      "rowCounts": [
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "adjacentBackgrounds": [
+        "rgb(239, 246, 255)",
+        "rgb(239, 246, 255)"
+      ],
+      "allTriggers": 10,
+      "background": "rgb(26, 50, 125)",
+      "count": 1,
+      "logos": [
+        {
+          "file": "IICRC-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 967.078125,
+            "height": 100,
+            "left": 303.6875,
+            "right": 375.6875,
+            "top": 867.078125,
+            "width": 72,
+            "x": 303.6875,
+            "y": 867.078125
+          }
+        },
+        {
+          "file": "IAQA-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 967.078125,
+            "height": 100,
+            "left": 489.09375,
+            "right": 563.09375,
+            "top": 867.078125,
+            "width": 74,
+            "x": 489.09375,
+            "y": 867.078125
+          }
+        },
+        {
+          "file": "BBB-white.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 967.078125,
+            "height": 100,
+            "left": 682.484375,
+            "right": 742.484375,
+            "top": 867.078125,
+            "width": 60,
+            "x": 682.484375,
+            "y": 867.078125
+          }
+        },
+        {
+          "file": "RIA.svg",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 944.578125,
+            "height": 55,
+            "left": 838.890625,
+            "right": 958.890625,
+            "top": 889.578125,
+            "width": 120,
+            "x": 838.890625,
+            "y": 889.578125
+          }
+        },
+        {
+          "file": "gcpro-ra-white.png",
+          "filter": "none",
+          "loaded": true,
+          "rect": {
+            "bottom": 964.078125,
+            "height": 94,
+            "left": 1025.09375,
+            "right": 1145.484375,
+            "top": 870.078125,
+            "width": 120.390625,
+            "x": 1025.09375,
+            "y": 870.078125
+          }
+        }
+      ],
+      "nextHeading": "Questions About General Contracting",
+      "ordered": true,
+      "overflow": false,
+      "rect": {
+        "bottom": 1035.078125,
+        "height": 303,
+        "left": 0,
+        "right": 1425,
+        "top": 732.078125,
+        "width": 1425,
+        "x": 0,
+        "y": 732.078125
+      },
+      "totalMarks": 10,
+      "triggers": 5,
+      "viewport": {
+        "h": 1000,
+        "w": 1440
+      },
+      "id": 522,
+      "mode": "desktop",
+      "rowCounts": [
+        5
+      ]
+    }
+  ],
+  "popovers": [
+    {
+      "label": "Institute of Inspection, Cleaning and Restoration Certification",
+      "text": "Institute of Inspection, Cleaning and Restoration Certification\n\nThe IICRC develops cleaning and restoration standards and certifies professionals and firms.\n\nGCPRO publishes a 2024 Certified Firm certificate. Current renewal status has not been independently verified.\n\nView the 2024 certificate",
+      "withinViewport": true,
+      "mode": "mobile",
+      "index": 0
+    },
+    {
+      "label": "Indoor Air Quality Association",
+      "text": "Indoor Air Quality Association\n\nIAQA provides education and resources for indoor air quality professionals.\n\nGCPRO reports IAQA membership in its company records. Current membership has not been independently verified.",
+      "withinViewport": true,
+      "mode": "mobile",
+      "index": 1
+    },
+    {
+      "label": "Better Business Bureau",
+      "text": "Better Business Bureau\n\nBBB provides business information, handles complaints and accredits businesses against its standards.\n\nGCPRO, LLC is listed as a BBB Accredited Business.\n\nView GCPRO\u2019s BBB profile",
+      "withinViewport": true,
+      "mode": "mobile",
+      "index": 2
+    },
+    {
+      "label": "Restoration Industry Association",
+      "text": "Restoration Industry Association\n\nRIA provides education, advocacy and professional resources for the restoration industry.\n\nGCPRO, LLC appears in RIA\u2019s member directory.\n\nView GCPRO\u2019s RIA profile",
+      "withinViewport": true,
+      "mode": "mobile",
+      "index": 3
+    },
+    {
+      "label": "Restoration Affiliates",
+      "text": "Restoration Affiliates\n\nRestoration Affiliates is a national network of independent restoration companies.\n\nRestoration Affiliates announced GCPRO as a network member. A current individual member profile has not been verified.",
+      "withinViewport": true,
+      "mode": "mobile",
+      "index": 4
+    }
+  ],
+  "interactions": {
+    "mouse_hover": true,
+    "pointer_into_popup": true,
+    "keyboard_focus_opens": true,
+    "tab_to_profile_link": true,
+    "escape_dismisses_and_restores_focus": true,
+    "mobile_width_all_five_in_bounds": true,
+    "outside_click_dismisses": true,
+    "physical_touch_device_tested": false,
+    "screen_reader_tested": false
+  }
+}
