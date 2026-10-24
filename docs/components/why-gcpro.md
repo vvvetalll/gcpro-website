@@ -69,3 +69,7 @@ Restore the pre-refinement Component1149 snapshot plus the prior variants of the
 Original assets1294–1297 are supplied static SVGs;1303 is the existing temporary transparent RA PNG. Unused failed trial1298 remains unplaced. Owner-supplied logos do not independently verify current accreditation; replacing the RA raster with a supplied true vector remains separate work.
 
 Final owner clarification verified: certifications label computed text-align:left; all frames1px rgba(255,255,255,0.12),8px radius. Real pointer hover verified opacity0.68→1 and matrix translationY -2px with0.18s opacity/transform transitions. No marquee or automatic animation. Final1440/768/393/360 checks retain loaded images, no horizontal overflow and certifications below benefits. Small row-coordinate differences during hover reflect the intended2px movement, not another layout row.
+
+## 2026-10-24 — Water Damage affiliation trial
+
+Page514 alone now has a native navy affiliation section between Reviews and FAQ. Instance43194cd8 clears only the five trust-image Overrides; shared1149 and other pages are unchanged. Owner review is required before extending the larger section. See [implementation, source verification, screenshots and rollback](affiliations.md).
