@@ -1,0 +1,223 @@
+{
+  "water": {
+    "ids": [
+      "C02",
+      "C01",
+      "C03"
+    ],
+    "counts": [
+      1234,
+      836,
+      1162
+    ],
+    "median": 1162
+  },
+  "fire": {
+    "ids": [
+      "C04",
+      "C05",
+      "C49"
+    ],
+    "counts": [
+      884,
+      1204,
+      685
+    ],
+    "median": 884
+  },
+  "mold": {
+    "ids": [
+      "C07",
+      "C08",
+      "C13"
+    ],
+    "counts": [
+      764,
+      700,
+      1122
+    ],
+    "median": 764
+  },
+  "reconstruction": {
+    "ids": [
+      "C16",
+      "C15",
+      "C20"
+    ],
+    "counts": [
+      826,
+      1002,
+      856
+    ],
+    "median": 856
+  },
+  "storm": {
+    "ids": [
+      "C10",
+      "C11",
+      "C12"
+    ],
+    "counts": [
+      640,
+      798,
+      702
+    ],
+    "median": 702
+  },
+  "contents": {
+    "ids": [
+      "C14",
+      "C17",
+      "C18"
+    ],
+    "counts": [
+      178,
+      679,
+      470
+    ],
+    "median": 470
+  },
+  "commercial-water": {
+    "ids": [
+      "C21",
+      "C22",
+      "C19"
+    ],
+    "counts": [
+      1287,
+      1239,
+      395
+    ],
+    "median": 1239
+  },
+  "commercial-mold": {
+    "ids": [
+      "C47",
+      "C09",
+      "C23"
+    ],
+    "counts": [
+      406,
+      414,
+      425
+    ],
+    "median": 414
+  },
+  "commercial-fire": {
+    "ids": [
+      "C24",
+      "C26",
+      "C46"
+    ],
+    "counts": [
+      419,
+      1809,
+      378
+    ],
+    "median": 419
+  },
+  "commercial-reconstruction": {
+    "ids": [
+      "C25",
+      "C27",
+      "C20"
+    ],
+    "counts": [
+      618,
+      681,
+      856
+    ],
+    "median": 681
+  },
+  "commercial-contents": {
+    "ids": [
+      "C45",
+      "C28",
+      "C42"
+    ],
+    "counts": [
+      1015,
+      759,
+      494
+    ],
+    "median": 759
+  },
+  "contracting": {
+    "ids": [
+      "C29",
+      "C30",
+      "C31"
+    ],
+    "counts": [
+      530,
+      1112,
+      119
+    ],
+    "median": 530
+  },
+  "extraction": {
+    "ids": [
+      "C32",
+      "C35",
+      "C44"
+    ],
+    "counts": [
+      575,
+      671,
+      953
+    ],
+    "median": 671
+  },
+  "board-up": {
+    "ids": [
+      "C33",
+      "C38",
+      "C36"
+    ],
+    "counts": [
+      391,
+      756,
+      553
+    ],
+    "median": 553
+  },
+  "odor": {
+    "ids": [
+      "C34",
+      "C39",
+      "C48"
+    ],
+    "counts": [
+      475,
+      1623,
+      292
+    ],
+    "median": 475
+  },
+  "mapping": {
+    "ids": [
+      "C41",
+      "C43",
+      "C40"
+    ],
+    "counts": [
+      265,
+      291,
+      482
+    ],
+    "median": 291
+  },
+  "drying": {
+    "ids": [
+      "C37",
+      "C35",
+      "C44"
+    ],
+    "counts": [
+      636,
+      671,
+      953
+    ],
+    "median": 671
+  }
+}

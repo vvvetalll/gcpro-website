@@ -1,0 +1,18 @@
+page_id,url,state,inspected_at,cluster,main_words,exact_shared_block_words,nonrepeated_block_words,faq_answers,faq_answer_words,H1,H2,H3,competitor_words,competitor_min,competitor_max,competitor_median,conclusion,priority
+514,https://vitaliiv1.sg-host.com/residential-services/water-damage/,publish,2026-10-24T11:57:54.121Z,water,1022,17,972,6,189,1,8,21,C02:1234; C01:836; C03:1162,836,1234,1162,needs targeted expansion,P1
+517,https://vitaliiv1.sg-host.com/residential-services/fire-smoke/,publish,2026-10-24T11:58:03.861Z,fire,662,123,501,6,145,1,9,14,C04:884; C05:1204; C49:685,685,1204,884,needs substantial revision,P1
+516,https://vitaliiv1.sg-host.com/residential-services/mold-removal/,publish,2026-10-24T11:58:05.605Z,mold,638,149,449,6,111,1,8,15,C07:764; C08:700; C13:1122,700,1122,764,needs substantial revision,P1
+518,https://vitaliiv1.sg-host.com/residential-services/reconstruction/,publish,2026-10-24T11:58:07.311Z,reconstruction,618,113,464,6,111,1,9,14,C16:826; C15:1002; C20:856,826,1002,856,needs targeted expansion,P2
+523,https://vitaliiv1.sg-host.com/residential-services/storm-damage/,publish,2026-10-24T11:58:09.011Z,storm,544,96,413,6,106,1,6,14,C10:640; C11:798; C12:702,640,798,702,needs targeted expansion,P2
+521,https://vitaliiv1.sg-host.com/residential-services/personal-property-restoration/,publish,2026-10-24T11:58:18.640Z,contents,550,110,405,6,113,1,6,14,C14:178; C17:679; C18:470,178,679,470,needs substantial revision,P2
+515,https://vitaliiv1.sg-host.com/commercial-services/water-damage/,publish,2026-10-24T11:58:20.631Z,commercial-water,584,96,451,6,124,1,6,14,C21:1287; C22:1239; C19:395,395,1287,1239,needs targeted expansion,P3
+519,https://vitaliiv1.sg-host.com/commercial-services/mold-removal/,publish,2026-10-24T11:58:22.865Z,commercial-mold,548,111,400,6,97,1,6,14,C47:406; C09:414; C23:425,406,425,414,needs substantial revision,P3
+520,https://vitaliiv1.sg-host.com/commercial-services/fire-smoke/,publish,2026-10-24T11:58:25.842Z,commercial-fire,552,106,409,6,102,1,6,14,C24:419; C26:1809; C46:378,378,1809,419,needs targeted expansion,P3
+524,https://vitaliiv1.sg-host.com/commercial-services/reconstruction/,publish,2026-10-24T11:58:39.292Z,commercial-reconstruction,598,143,413,6,110,1,9,14,C25:618; C27:681; C20:856,618,856,681,needs targeted expansion,P3
+525,https://vitaliiv1.sg-host.com/commercial-services/personal-property-restoration/,publish,2026-10-24T11:58:41.202Z,commercial-contents,524,114,372,6,91,1,6,14,C45:1015; C28:759; C42:494,494,1015,759,needs targeted expansion,P3
+522,https://vitaliiv1.sg-host.com/commercial-services/general-contracting/,publish,2026-10-24T11:58:43.677Z,contracting,596,147,409,6,110,1,9,14,C29:530; C30:1112; C31:119,119,1112,530,needs substantial revision,P3
+487,https://vitaliiv1.sg-host.com/water-extraction/,publish,2026-10-24T11:58:45.159Z,extraction,526,96,394,6,95,1,6,14,C32:575; C35:671; C44:953,575,953,671,needs targeted expansion,P4
+488,https://vitaliiv1.sg-host.com/board-up/,publish,2026-10-24T11:58:53.645Z,board-up,482,96,350,6,88,1,6,14,C33:391; C38:756; C36:553,391,756,553,sufficient,P4
+489,https://vitaliiv1.sg-host.com/odor-removal/,publish,2026-10-24T11:58:55.754Z,odor,521,101,382,6,79,1,6,14,C34:475; C39:1623; C48:292,292,1623,475,needs substantial revision,P4
+490,https://vitaliiv1.sg-host.com/moisture-mapping/,publish,2026-10-24T11:58:57.889Z,mapping,511,112,364,6,85,1,6,14,C41:265; C43:291; C40:482,265,482,291,needs substantial revision,P4
+491,https://vitaliiv1.sg-host.com/dehumidification/,publish,2026-10-24T11:58:59.552Z,drying,498,100,363,6,79,1,6,14,C37:636; C35:671; C44:953,636,953,671,needs substantial revision,P4

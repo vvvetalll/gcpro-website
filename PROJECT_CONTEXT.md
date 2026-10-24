@@ -1,5 +1,7 @@
 # GCPRO project context
 
+**2026-10-24 — read-only service content-depth audit:** Inspected all17 current Published staging service pages and49 competitor landings; excluded chrome/global content and counted102 collapsed FAQ answers once. Outcomes:1 sufficient,8 targeted expansions,8 substantial revisions. Approved semantic ownership preserved; operational/case-evidence dependencies and weak comparator groups are explicit. No website changes. [Comparison, methodology and page briefs](docs/seo/2026-10-24-content-depth-audit/README.md).
+
 **2026-10-23 — service availability popup:** Native Popup1801, shared1140 trigger; owner-authorized local form code. Submit stays open, accessible close/focus/reset and mobile checked. Owner supplied provisional Chicagoland scope; no ZIP/neighborhood exclusions are approved. Exact confirmation remains disabled; valid input shows the owner’s call-to-confirm message. Field/button layout is native Atomic,48px high,12px gap, inline desktop/tablet and stacked mobile. No invented coverage or Request492 form claim. [Editing, gap and recovery](docs/components/service-availability-popup.md).
 
 

@@ -1,0 +1,1676 @@
+[
+  {
+    "evidence_id": "C01",
+    "url": "https://atirestoration.com/regional-offices/chicago-il/chicago-water-damage/",
+    "date": "2026-10-24T12:06:24.361Z",
+    "root": "MAIN#cus-main",
+    "extra_hero": false,
+    "word_count": 1017,
+    "main_words": 836,
+    "excluded_global_words": 181,
+    "main_text_sha256": "989441827125305237d35bc11f896435be7597ef2b7df82d593e496c96d970ad",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 8,
+      "H3": 5
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 5,
+      "H3": 5
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H2",
+      "H3",
+      "H3",
+      "H2",
+      "H2",
+      "H3",
+      "H3",
+      "H3",
+      "H2"
+    ],
+    "h1": [
+      "Chicago Water Damage Restoration"
+    ]
+  },
+  {
+    "evidence_id": "C02",
+    "url": "https://www.rotorooter.com/chicago/water-damage-restoration/",
+    "date": "2026-10-24T12:00:08.307Z",
+    "word_count": 1442,
+    "main_words": 1234,
+    "excluded_global_words": 208,
+    "main_text_sha256": "9dbe98b0983fead5fd141fb3c08c86418e9b0ecbe697f314d780cdf58887f469",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 8,
+      "H3": 5
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 5,
+      "H3": 4
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H2",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H2",
+      "H2",
+      "H2"
+    ],
+    "h1": [
+      "Water Damage Restoration in Chicago, IL"
+    ]
+  },
+  {
+    "evidence_id": "C03",
+    "url": "https://godrychicago.com/services/water",
+    "date": "2026-10-24T12:00:11.008Z",
+    "word_count": 1533,
+    "main_words": 1162,
+    "excluded_global_words": 371,
+    "main_text_sha256": "360e5527b51543b1d009d01b74e38ae04b1b316329c75e7d4e97b6dfe8c6b085",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 11,
+      "H3": 5
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 8,
+      "H3": 5
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H2"
+    ],
+    "h1": [
+      "Water Damage Repair & Restoration Chicago"
+    ]
+  },
+  {
+    "evidence_id": "C04",
+    "url": "https://atirestoration.com/regional-offices/chicago-il/chicago-fire-smoke-damage/",
+    "date": "2026-10-24T12:06:24.388Z",
+    "root": "MAIN#cus-main",
+    "extra_hero": false,
+    "word_count": 1065,
+    "main_words": 884,
+    "excluded_global_words": 181,
+    "main_text_sha256": "ff0aa91d811a4d053fe95ea21322597112013ad2d922f08bd060394139ff66ee",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 8,
+      "H3": 5
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 5,
+      "H3": 5
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H2",
+      "H3",
+      "H3",
+      "H2",
+      "H2",
+      "H3",
+      "H3",
+      "H3",
+      "H2"
+    ],
+    "h1": [
+      "Chicago Fire Damage Restoration & Smoke Remediation"
+    ]
+  },
+  {
+    "evidence_id": "C05",
+    "url": "https://servicemasteroflincolnpark.com/disaster-restoration/fire-and-smoke-damage-restoration-chicago/",
+    "date": "2026-10-24T12:00:35.185Z",
+    "word_count": 1606,
+    "main_words": 1204,
+    "excluded_global_words": 402,
+    "main_text_sha256": "602a2066d86b8de3ea476c349a272cb59ee31529a56a12e1ba9342b62b41ed23",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 6,
+      "H3": 0
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 5,
+      "H3": 0
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2"
+    ],
+    "h1": [
+      "Fire Damage Restoration in Chicago"
+    ]
+  },
+  {
+    "evidence_id": "C06",
+    "url": "https://www.romexterra.com/fire-damage-restoration/fire-damage-cleanup/",
+    "date": "2026-10-24T12:01:11.402Z",
+    "root": "MAIN#",
+    "extra_hero": true,
+    "word_count": 410,
+    "main_words": 404,
+    "excluded_global_words": 6,
+    "main_text_sha256": "b009f5e4c33397abb7929f0a74c72a89a0f377ede7177da00b88bdcee4684e06",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 1,
+      "H3": 3
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 1,
+      "H3": 3
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H3",
+      "H3",
+      "H3"
+    ],
+    "h1": [
+      "Fire Damage Cleanup in Chicago, IL"
+    ]
+  },
+  {
+    "evidence_id": "C07",
+    "url": "https://www.romexterra.com/mold-remediation/",
+    "date": "2026-10-24T12:01:21.364Z",
+    "root": "MAIN#",
+    "extra_hero": true,
+    "word_count": 770,
+    "main_words": 764,
+    "excluded_global_words": 6,
+    "main_text_sha256": "d930d8b8b8130b39e9333b02d980c859f29352d5a3bf4160839c5ea7a0ed57fc",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 1,
+      "H3": 7
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 1,
+      "H3": 7
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3"
+    ],
+    "h1": [
+      "Mold Remediation in Chicago, IL"
+    ]
+  },
+  {
+    "evidence_id": "C08",
+    "url": "https://www.goblusky.com/professional-mold-removal-services-in-chicago-il/",
+    "date": "2026-10-24T12:01:25.295Z",
+    "root": "MAIN#",
+    "extra_hero": false,
+    "word_count": 700,
+    "main_words": 700,
+    "excluded_global_words": 0,
+    "main_text_sha256": "121a283a674ad57b904a6f31d1fcaae7364e559d438ca3fce15fb90a9abf2f0c",
+    "raw_heading_counts": {
+      "H1": 2,
+      "H2": 1,
+      "H3": 6
+    },
+    "retained_heading_counts": {
+      "H1": 2,
+      "H2": 1,
+      "H3": 6
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H1",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H2"
+    ],
+    "h1": [
+      "Water Damage Restoration Services in Chicago"
+    ]
+  },
+  {
+    "evidence_id": "C09",
+    "url": "https://enviroresourcesinc.com/mold-remediation-services/",
+    "date": "2026-10-24T12:01:26.291Z",
+    "root": "MAIN#content",
+    "extra_hero": false,
+    "word_count": 414,
+    "main_words": 414,
+    "excluded_global_words": 0,
+    "main_text_sha256": "e146dd2dfda007d01721cb896ac9894a408bb852a2a68c366d450e712ed42803",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 6,
+      "H3": 0
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 6,
+      "H3": 0
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2"
+    ],
+    "h1": [
+      "Mold Remediation Services"
+    ]
+  },
+  {
+    "evidence_id": "C10",
+    "url": "https://restoreconstruction.com/services/restoration/storm/",
+    "date": "2026-10-24T12:01:26.405Z",
+    "root": "MAIN#main",
+    "extra_hero": false,
+    "word_count": 946,
+    "main_words": 640,
+    "excluded_global_words": 306,
+    "main_text_sha256": "8f95629b3b376f7b18d9d7ed810ba718315dd6fed288b67827e73a109db59bc7",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 5,
+      "H3": 8
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 3,
+      "H3": 8
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H2",
+      "H3",
+      "H3",
+      "H3",
+      "H2",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3"
+    ],
+    "h1": [
+      "Emergency Storm Damage Restoration in Chicago, IL"
+    ]
+  },
+  {
+    "evidence_id": "C11",
+    "url": "https://www.romexterra.com/storm-damage-restoration/",
+    "date": "2026-10-24T12:01:27.011Z",
+    "root": "MAIN#",
+    "extra_hero": true,
+    "word_count": 804,
+    "main_words": 798,
+    "excluded_global_words": 6,
+    "main_text_sha256": "2f99c1451dc315b6cff09dd2aa857fcb8c7cb42238166a29531463560376f13b",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 1,
+      "H3": 8
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 1,
+      "H3": 8
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3"
+    ],
+    "h1": [
+      "Storm Damage Restoration in Chicago, IL"
+    ]
+  },
+  {
+    "evidence_id": "C12",
+    "url": "https://www.servpro.com/locations/il/servpro-of-downtown-chicago-team-nichols/services/storm-damage",
+    "date": "2026-10-24T12:01:30.674Z",
+    "root": "MAIN#",
+    "extra_hero": false,
+    "word_count": 942,
+    "main_words": 702,
+    "excluded_global_words": 240,
+    "main_text_sha256": "696bdcf0c984c0008f7b18f6aa90750a715d6b826888bbe86085da3f04d2f63a",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 10,
+      "H3": 0
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 6,
+      "H3": 0
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2"
+    ],
+    "h1": [
+      "Storm Damage Repair Services"
+    ]
+  },
+  {
+    "evidence_id": "C13",
+    "url": "https://www.servpro.com/locations/il/servpro-of-downtown-chicago-team-nichols/services/mold-remediation",
+    "date": "2026-10-24T12:01:52.960Z",
+    "root": "MAIN#",
+    "extra_hero": false,
+    "word_count": 1367,
+    "main_words": 1122,
+    "excluded_global_words": 245,
+    "main_text_sha256": "cb90ec53900ad1430cb5e3c8afa139705f744f6f2345ba0d88e0617b856373ce",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 10,
+      "H3": 7
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 6,
+      "H3": 7
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H2",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H2",
+      "H2",
+      "H2",
+      "H2"
+    ],
+    "h1": [
+      "Mold Removal and Remediation Services"
+    ]
+  },
+  {
+    "evidence_id": "C14",
+    "url": "https://restoreconstruction.com/services/restoration/contents/",
+    "date": "2026-10-24T12:01:54.571Z",
+    "root": "MAIN#main",
+    "extra_hero": false,
+    "word_count": 178,
+    "main_words": 178,
+    "excluded_global_words": 0,
+    "main_text_sha256": "c9ea89b3ee59df1ef651d4eae020070c65283eedd84276db3b33c842d943d011",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 1,
+      "H3": 0
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 1,
+      "H3": 0
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2"
+    ],
+    "h1": [
+      "Contents Restoration"
+    ]
+  },
+  {
+    "evidence_id": "C15",
+    "url": "https://www.restopros.co/il-chicagoland-west/services/rebuild-service/",
+    "date": "2026-10-24T12:08:06.320Z",
+    "root": "MAIN#single-services",
+    "extra_hero": false,
+    "word_count": 1167,
+    "main_words": 1002,
+    "excluded_global_words": 165,
+    "main_text_sha256": "b2b755f47d61be1ffbcb5ea0061e7d5e32b6fbe7503a033fdd4c4a014f35c5be",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 8,
+      "H3": 4
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 6,
+      "H3": 0
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2"
+    ],
+    "h1": [
+      "Rebuild & Reconstruction in The Western Chicago Suburbs"
+    ]
+  },
+  {
+    "evidence_id": "C16",
+    "url": "https://www.puroclean.com/chicago-il-puroclean-property-restoration-specialists/services/reconstruction/",
+    "date": "2026-10-24T12:01:58.191Z",
+    "root": "BODY#",
+    "extra_hero": false,
+    "word_count": 1074,
+    "main_words": 826,
+    "excluded_global_words": 248,
+    "main_text_sha256": "ace038aded834ad4b93f7f3edecd5075cfeac392d8808d80a8dcf1e213cbe6c0",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 6,
+      "H3": 10
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 3,
+      "H3": 5
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H2",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H2"
+    ],
+    "h1": [
+      "Property Reconstruction Services in Chicago, IL"
+    ]
+  },
+  {
+    "evidence_id": "C17",
+    "url": "https://www.exceldryout.com/services/content-restoration-services/",
+    "date": "2026-10-24T12:02:03.412Z",
+    "root": "MAIN#content",
+    "extra_hero": false,
+    "word_count": 909,
+    "main_words": 679,
+    "excluded_global_words": 230,
+    "main_text_sha256": "5f0dac690411fa65fb776fc0b7416750b77cb193a4462bbcfa4a93dd86078aa4",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 4,
+      "H3": 1
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 3,
+      "H3": 1
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H3",
+      "H2",
+      "H2",
+      "H2"
+    ],
+    "h1": [
+      "Expert Content Restoration Service in Chicago, IL"
+    ]
+  },
+  {
+    "evidence_id": "C18",
+    "url": "https://www.servicemasterbyeliterestoration.com/fire-damage/content-cleaning-restoration/",
+    "date": "2026-10-24T12:02:05.192Z",
+    "root": "MAIN#main",
+    "extra_hero": false,
+    "word_count": 556,
+    "main_words": 470,
+    "excluded_global_words": 86,
+    "main_text_sha256": "42ecbbace1b10ee9d7d10f158f1baa65bb559467ee23a83d16983ea81bc5903c",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 12,
+      "H3": 5
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 11,
+      "H3": 3
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H3",
+      "H3",
+      "H2",
+      "H3",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2"
+    ],
+    "h1": [
+      "Residential Content Cleaning and Restoration"
+    ]
+  },
+  {
+    "evidence_id": "C19",
+    "url": "https://www.romexterra.com/commercial-restoration-services/commercial-water-damage-restoration/",
+    "date": "2026-10-24T12:02:14.045Z",
+    "root": "MAIN#",
+    "extra_hero": true,
+    "word_count": 401,
+    "main_words": 395,
+    "excluded_global_words": 6,
+    "main_text_sha256": "bfb31711ff706422e7756ab6716b59638a7ec89f6e9b8f2b66b322676bd53c72",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 1,
+      "H3": 3
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 1,
+      "H3": 3
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H3",
+      "H3",
+      "H3"
+    ],
+    "h1": [
+      "Commercial Water Damage Restoration in Chicago, IL"
+    ]
+  },
+  {
+    "evidence_id": "C20",
+    "url": "https://www.servpro.com/locations/il/servpro-of-downtown-chicago-team-nichols/services/construction",
+    "date": "2026-10-24T12:02:15.651Z",
+    "root": "MAIN#",
+    "extra_hero": false,
+    "word_count": 1099,
+    "main_words": 856,
+    "excluded_global_words": 243,
+    "main_text_sha256": "005ed2e783fafa1ed069846e510fb5d8888f46ad5cc99e6101ccc32e369abf87",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 12,
+      "H3": 6
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 8,
+      "H3": 6
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H2",
+      "H2",
+      "H2",
+      "H2"
+    ],
+    "h1": [
+      "Remodeling and Construction Services"
+    ]
+  },
+  {
+    "evidence_id": "C21",
+    "url": "https://nwchicago.pauldavis.com/commercial/water-damage/",
+    "date": "2026-10-24T12:02:19.153Z",
+    "root": "MAIN#",
+    "extra_hero": false,
+    "word_count": 1287,
+    "main_words": 1287,
+    "excluded_global_words": 0,
+    "main_text_sha256": "6145d5ff1b20f001cf27f6f9e3d748efa16415e60c3cf8c2265631d0d8afac29",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 10,
+      "H3": 5
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 10,
+      "H3": 5
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2"
+    ],
+    "h1": [
+      "Commercial Water Damage Restoration"
+    ]
+  },
+  {
+    "evidence_id": "C22",
+    "url": "https://www.mcmahonservices.com/commercial-water-damage-chicago/",
+    "date": "2026-10-24T12:08:10.792Z",
+    "root": "BODY#",
+    "extra_hero": false,
+    "word_count": 1254,
+    "main_words": 1239,
+    "excluded_global_words": 15,
+    "main_text_sha256": "5037f92da2bb73281213d54f7a7c9775dbabdd0204ac62218155a41b371023e6",
+    "raw_heading_counts": {
+      "H1": 2,
+      "H2": 2,
+      "H3": 1
+    },
+    "retained_heading_counts": {
+      "H1": 2,
+      "H2": 2,
+      "H3": 1
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H2",
+      "H3",
+      "H1"
+    ],
+    "h1": [
+      "Commercial Water Damage Restoration Chicago, IL"
+    ]
+  },
+  {
+    "evidence_id": "C23",
+    "url": "https://www.romexterra.com/commercial-restoration-services/commercial-mold-remediation/",
+    "date": "2026-10-24T12:02:25.508Z",
+    "root": "MAIN#",
+    "extra_hero": true,
+    "word_count": 431,
+    "main_words": 425,
+    "excluded_global_words": 6,
+    "main_text_sha256": "7b18a792be34bba021b8222d619e47b63b763605e22c4bb68fdfdd8e2eac50c2",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 1,
+      "H3": 3
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 1,
+      "H3": 3
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H3",
+      "H3",
+      "H3"
+    ],
+    "h1": [
+      "Commercial Mold Remediation in Chicago, IL"
+    ]
+  },
+  {
+    "evidence_id": "C24",
+    "url": "https://www.romexterra.com/commercial-restoration-services/commercial-fire-damage-restoration/",
+    "date": "2026-10-24T12:03:00.849Z",
+    "root": "MAIN#",
+    "extra_hero": true,
+    "word_count": 425,
+    "main_words": 419,
+    "excluded_global_words": 6,
+    "main_text_sha256": "c7267d933ec760c9a0bedfbb4201e7f086c96e6739dda736bdf17c1e9cd72075",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 1,
+      "H3": 3
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 1,
+      "H3": 3
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H3",
+      "H3",
+      "H3"
+    ],
+    "h1": [
+      "Commercial Fire Damage Restoration in Chicago, IL"
+    ]
+  },
+  {
+    "evidence_id": "C25",
+    "url": "https://servicemasterrestore.com/servicemaster-dsi-chicago/services/c_specialty/restoration-services",
+    "date": "2026-10-24T12:03:07.746Z",
+    "root": "MAIN#",
+    "extra_hero": true,
+    "word_count": 618,
+    "main_words": 618,
+    "excluded_global_words": 0,
+    "main_text_sha256": "7c4b56267baf603199b0ae4a093b67bab1e46b0f2923def8e6cc4701b9bb1142",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 11,
+      "H3": 0
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 11,
+      "H3": 0
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2"
+    ],
+    "h1": [
+      "Commercial Reconstruction & Full Restoration in Chicago, IL"
+    ]
+  },
+  {
+    "evidence_id": "C26",
+    "url": "https://servicemasterrestore.com/servicemaster-dsi-chicago/services/commercial/fire-smoke-damage",
+    "date": "2026-10-24T12:03:08.017Z",
+    "root": "MAIN#",
+    "extra_hero": true,
+    "word_count": 1809,
+    "main_words": 1809,
+    "excluded_global_words": 0,
+    "main_text_sha256": "1f544dd7ee9b86ad27c9fcbdd1fc364e7bac350a4a292192f0c3671209179d89",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 7,
+      "H3": 4
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 7,
+      "H3": 4
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H2",
+      "H2",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H2",
+      "H2",
+      "H2",
+      "H2"
+    ],
+    "h1": [
+      "Expert 24/7 Commercial Fire Damage Restoration in Chicago, IL"
+    ]
+  },
+  {
+    "evidence_id": "C27",
+    "url": "https://atirestoration.com/regional-offices/chicago-il/chicago-reconstruction-services/",
+    "date": "2026-10-24T12:03:09.399Z",
+    "root": "MAIN#cus-main",
+    "extra_hero": false,
+    "word_count": 862,
+    "main_words": 681,
+    "excluded_global_words": 181,
+    "main_text_sha256": "6a0aef01ff8b2e2ba31e4ae78bc60b89d99c65be552c0f5ea153ffb236eec410",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 8,
+      "H3": 5
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 5,
+      "H3": 5
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H2",
+      "H3",
+      "H3",
+      "H2",
+      "H2",
+      "H3",
+      "H3",
+      "H3",
+      "H2"
+    ],
+    "h1": [
+      "Chicago Reconstruction Services"
+    ]
+  },
+  {
+    "evidence_id": "C28",
+    "url": "https://www.servicemasterbyzaba.com/content-packout/",
+    "date": "2026-10-24T12:08:04.001Z",
+    "root": "MAIN#content",
+    "extra_hero": false,
+    "word_count": 1497,
+    "main_words": 759,
+    "excluded_global_words": 738,
+    "main_text_sha256": "eff516a9e96d33bc50dfb7e209e08faba8324006c60b1196718532443a27a8ad",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 4,
+      "H3": 15
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 4,
+      "H3": 14
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H2",
+      "H3",
+      "H3",
+      "H3",
+      "H2",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H2"
+    ],
+    "h1": [
+      "Content Packout and Restoration Services in Chicago, IL"
+    ]
+  },
+  {
+    "evidence_id": "C29",
+    "url": "https://paramountco.net/services/interior-renovations/",
+    "date": "2026-10-24T12:03:14.177Z",
+    "root": "DIV#main-content",
+    "extra_hero": false,
+    "word_count": 530,
+    "main_words": 530,
+    "excluded_global_words": 0,
+    "main_text_sha256": "1b02e31cacf6a6660bcfe894f6a0ea4284fba9dfe6defee0b1720b4c52f27fcb",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 7,
+      "H3": 0
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 7,
+      "H3": 0
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2"
+    ],
+    "h1": [
+      "Interior Renovations Chicagoland"
+    ]
+  },
+  {
+    "evidence_id": "C30",
+    "url": "https://www.alphadevg.com/commercial/",
+    "date": "2026-10-24T12:03:16.263Z",
+    "root": "MAIN#main",
+    "extra_hero": false,
+    "word_count": 1145,
+    "main_words": 1112,
+    "excluded_global_words": 33,
+    "main_text_sha256": "c6b741406fab46ceaf8b7d8fc45c110c4931e09c1bc34f488d89d1603ef97065",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 12,
+      "H3": 15
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 11,
+      "H3": 15
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H2",
+      "H2",
+      "H3",
+      "H3",
+      "H3",
+      "H2",
+      "H3",
+      "H3",
+      "H2",
+      "H3",
+      "H3",
+      "H2",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H2",
+      "H2",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H2",
+      "H2",
+      "H2"
+    ],
+    "h1": [
+      "Commercial construction & build-outs for Chicagoland businesses."
+    ]
+  },
+  {
+    "evidence_id": "C31",
+    "url": "https://www.conceptconstructionchi.com/commercial",
+    "date": "2026-10-24T12:03:16.347Z",
+    "root": "MAIN#page",
+    "extra_hero": false,
+    "word_count": 119,
+    "main_words": 119,
+    "excluded_global_words": 0,
+    "main_text_sha256": "ce883e111c49b0ed341c9cf837414478df2c7c43d175727ded27cf0aa6567485",
+    "raw_heading_counts": {
+      "H1": 0,
+      "H2": 2,
+      "H3": 2
+    },
+    "retained_heading_counts": {
+      "H1": 0,
+      "H2": 2,
+      "H3": 2
+    },
+    "retained_heading_level_order": [
+      "H2",
+      "H3",
+      "H3",
+      "H2"
+    ],
+    "h1": []
+  },
+  {
+    "evidence_id": "C32",
+    "url": "https://www.romexterra.com/water-damage-restoration/water-extraction/",
+    "date": "2026-10-24T12:03:29.503Z",
+    "root": "MAIN#",
+    "extra_hero": true,
+    "word_count": 581,
+    "main_words": 575,
+    "excluded_global_words": 6,
+    "main_text_sha256": "f7a85632ed00641f9b40a274485d566376048d962f95c4c4ab720e1d182ba3cc",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 1,
+      "H3": 5
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 1,
+      "H3": 5
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3"
+    ],
+    "h1": [
+      "Water Extraction in Chicago, IL"
+    ]
+  },
+  {
+    "evidence_id": "C33",
+    "url": "https://www.romexterra.com/fire-damage-restoration/board-up-services/",
+    "date": "2026-10-24T12:03:30.402Z",
+    "root": "MAIN#",
+    "extra_hero": true,
+    "word_count": 397,
+    "main_words": 391,
+    "excluded_global_words": 6,
+    "main_text_sha256": "778250e6f4b0fe8a879a1095dc4386204aef0f41256732ae956dbc30af6524fa",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 1,
+      "H3": 3
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 1,
+      "H3": 3
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H3",
+      "H3",
+      "H3"
+    ],
+    "h1": [
+      "Board Up Services in Chicago, IL"
+    ]
+  },
+  {
+    "evidence_id": "C34",
+    "url": "https://www.romexterra.com/fire-damage-restoration/smoke-odor-removal/",
+    "date": "2026-10-24T12:03:31.429Z",
+    "root": "MAIN#",
+    "extra_hero": true,
+    "word_count": 481,
+    "main_words": 475,
+    "excluded_global_words": 6,
+    "main_text_sha256": "f967845521b4fca55abc1ae18d8db1edcfc28ed7f198ea32283c06c1174ca3bc",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 1,
+      "H3": 5
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 1,
+      "H3": 5
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3"
+    ],
+    "h1": [
+      "Smoke Odor Removal in Chicago, IL"
+    ]
+  },
+  {
+    "evidence_id": "C35",
+    "url": "https://www.stoprestoration.com/chicago-west/services/water-damage/extraction-drying/",
+    "date": "2026-10-24T12:03:33.133Z",
+    "root": "MAIN#MainZone",
+    "extra_hero": false,
+    "word_count": 749,
+    "main_words": 671,
+    "excluded_global_words": 78,
+    "main_text_sha256": "3dc9f3c1579546d4f0c13c57375380fe3a98ebdd46a57220fdfd472bd1a801b3",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 4,
+      "H3": 6
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 3,
+      "H3": 6
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H2",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H2",
+      "H3"
+    ],
+    "h1": [
+      "Water Extraction, Drying / Dry-Out Services for Homes & Businesses"
+    ]
+  },
+  {
+    "evidence_id": "C36",
+    "url": "https://www.servpro.com/locations/il/servpro-of-downtown-chicago-team-nichols/services/storm-damage/emergency-roof-tarp-board-up",
+    "date": "2026-10-24T12:03:34.630Z",
+    "root": "MAIN#",
+    "extra_hero": false,
+    "word_count": 563,
+    "main_words": 553,
+    "excluded_global_words": 10,
+    "main_text_sha256": "19c0a3ffc13c808cadb122e3329e88e6989b8d267605ffeca247f209fb0ce3f7",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 6,
+      "H3": 0
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 5,
+      "H3": 0
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2"
+    ],
+    "h1": [
+      "Emergency Roof Tarp & Board-Up Services"
+    ]
+  },
+  {
+    "evidence_id": "C37",
+    "url": "https://www.romexterra.com/water-damage-restoration/dehumidification-services/",
+    "date": "2026-10-24T12:03:35.793Z",
+    "root": "MAIN#",
+    "extra_hero": true,
+    "word_count": 642,
+    "main_words": 636,
+    "excluded_global_words": 6,
+    "main_text_sha256": "5dc98a581bb7579f65eb76f0d72fe83b2b5d8ed24471466648c7dbda78e55e35",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 1,
+      "H3": 6
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 1,
+      "H3": 6
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3"
+    ],
+    "h1": [
+      "Dehumidification Services in Chicago, IL"
+    ]
+  },
+  {
+    "evidence_id": "C38",
+    "url": "https://am-catems.com/board-up/",
+    "date": "2026-10-24T12:03:51.682Z",
+    "root": "DIV#main",
+    "extra_hero": true,
+    "word_count": 834,
+    "main_words": 756,
+    "excluded_global_words": 78,
+    "main_text_sha256": "7a0fa47aed83eae4aaf32853dec642436099f79a0d463d076e924ef59859a696",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 4,
+      "H3": 1
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 2,
+      "H3": 0
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H2"
+    ],
+    "h1": [
+      "Board-Up Service"
+    ]
+  },
+  {
+    "evidence_id": "C39",
+    "url": "https://www.servpro.com/locations/il/servpro-of-downtown-chicago-gold-coast-lincoln-park-lakeview/services/cleaning/specialty/odor-removal",
+    "date": "2026-10-24T12:03:53.076Z",
+    "root": "MAIN#",
+    "extra_hero": false,
+    "word_count": 1874,
+    "main_words": 1623,
+    "excluded_global_words": 251,
+    "main_text_sha256": "87090b229a5d54f380a8925ea9899ba8bacdc27f3d72178a5837f50ff13592bc",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 6,
+      "H3": 4
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 4,
+      "H3": 4
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H2",
+      "H2",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H2"
+    ],
+    "h1": [
+      "Professional Odor Removal Services"
+    ]
+  },
+  {
+    "evidence_id": "C40",
+    "url": "https://www.restorationpartner.com/professional-services/moisture-mapping/",
+    "date": "2026-10-24T12:04:22.544Z",
+    "root": "BODY#",
+    "extra_hero": false,
+    "word_count": 1079,
+    "main_words": 482,
+    "excluded_global_words": 597,
+    "main_text_sha256": "72858bb9c86a6f80edb5cbb98fcf2dac83593ab8e3bf65fdb6e3b2ede0f52560",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 3,
+      "H3": 0
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 1,
+      "H3": 0
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2"
+    ],
+    "h1": [
+      "Your Partner In Moisture Mapping"
+    ]
+  },
+  {
+    "evidence_id": "C41",
+    "url": "https://restotechdisasterrestoration.com/services/moisture-mapping/",
+    "date": "2026-10-24T12:04:23.062Z",
+    "root": "MAIN#site-content",
+    "extra_hero": false,
+    "word_count": 456,
+    "main_words": 265,
+    "excluded_global_words": 191,
+    "main_text_sha256": "9a56a23a2fe44cc85973259af73d8c4345846aaf0b052cb0f04fe40d05c4ca63",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 1,
+      "H3": 1
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 0,
+      "H3": 0
+    },
+    "retained_heading_level_order": [
+      "H1"
+    ],
+    "h1": [
+      "Moisture Mapping"
+    ]
+  },
+  {
+    "evidence_id": "C42",
+    "url": "https://www.romexterra.com/contents-restoration/",
+    "date": "2026-10-24T12:04:23.795Z",
+    "root": "MAIN#",
+    "extra_hero": true,
+    "word_count": 500,
+    "main_words": 494,
+    "excluded_global_words": 6,
+    "main_text_sha256": "936f097b6c4b00012723482176f817012f9fcd34eb9248772dc11411f2b7818d",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 1,
+      "H3": 6
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 1,
+      "H3": 6
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3"
+    ],
+    "h1": [
+      "Contents Restoration in Chicago, IL"
+    ]
+  },
+  {
+    "evidence_id": "C43",
+    "url": "https://srpenvironmental.com/service/moisture-mapping-thermography-environmental-monitoring/",
+    "date": "2026-10-24T12:04:24.225Z",
+    "root": "BODY#",
+    "extra_hero": false,
+    "word_count": 390,
+    "main_words": 291,
+    "excluded_global_words": 99,
+    "main_text_sha256": "f1347179f36ed174079fb0619b610c61d4360db083eef2d906f18c5f24685c73",
+    "raw_heading_counts": {
+      "H1": 0,
+      "H2": 1,
+      "H3": 2
+    },
+    "retained_heading_counts": {
+      "H1": 0,
+      "H2": 1,
+      "H3": 0
+    },
+    "retained_heading_level_order": [
+      "H2"
+    ],
+    "h1": []
+  },
+  {
+    "evidence_id": "C44",
+    "url": "https://www.servpro.com/locations/il/servpro-of-evergreen-park-south-chicago-city/services/water-damage/water-extraction-structural-drying",
+    "date": "2026-10-24T12:04:25.820Z",
+    "root": "MAIN#",
+    "extra_hero": false,
+    "word_count": 1248,
+    "main_words": 953,
+    "excluded_global_words": 295,
+    "main_text_sha256": "cffeabb13cab95180263a0ba28c903daf74935825ce2d31a88e0177875e916f5",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 6,
+      "H3": 4
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 4,
+      "H3": 4
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H2",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H2",
+      "H2"
+    ],
+    "h1": [
+      "Emergency Water Extraction & Structural Drying Services"
+    ]
+  },
+  {
+    "evidence_id": "C45",
+    "url": "https://www.servpro.com/locations/il/servpro-of-downtown-chicago-team-nichols/services/cleaning/specialty/packout-and-contents-restoration",
+    "date": "2026-10-24T12:04:26.049Z",
+    "root": "MAIN#",
+    "extra_hero": false,
+    "word_count": 1225,
+    "main_words": 1015,
+    "excluded_global_words": 210,
+    "main_text_sha256": "9d8f6f30eeb897cc6b874473937ae4723ad468f1c356d67aa3d889a041535d0c",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 12,
+      "H3": 0
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 9,
+      "H3": 0
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2",
+      "H2"
+    ],
+    "h1": [
+      "Packout & Contents Restoration Services"
+    ]
+  },
+  {
+    "evidence_id": "C46",
+    "url": "https://www.chicagofirerepair.com/commercial-fire-restoration/",
+    "date": "2026-10-24T12:05:10.035Z",
+    "root": "BODY#",
+    "extra_hero": false,
+    "word_count": 676,
+    "main_words": 378,
+    "excluded_global_words": 298,
+    "main_text_sha256": "924d653ad2035b63d10171f98dc398062dc81fc45051d22d6a5f51816c73c55d",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 5,
+      "H3": 2
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 3,
+      "H3": 2
+    },
+    "retained_heading_level_order": [
+      "H2",
+      "H1",
+      "H2",
+      "H3",
+      "H3",
+      "H2"
+    ],
+    "h1": [
+      "Commercial Fire Damage Restoration Chicago | Emergency Business Fire Repair"
+    ]
+  },
+  {
+    "evidence_id": "C47",
+    "url": "https://ehcindustries.com/mold-remediation-chicago/",
+    "date": "2026-10-24T12:05:10.562Z",
+    "root": "BODY#",
+    "extra_hero": false,
+    "word_count": 406,
+    "main_words": 406,
+    "excluded_global_words": 0,
+    "main_text_sha256": "845c8515867f9175bce5a56b33fb02699308d2a2b2d1ffd52a7f58804779c4df",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 3,
+      "H3": 0
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 2,
+      "H3": 0
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H2"
+    ],
+    "h1": [
+      "Commercial Mold REmediation in Chicago, IL"
+    ]
+  },
+  {
+    "evidence_id": "C48",
+    "url": "https://servicemaster-rcs.com/residential-restoration/odor-removal/",
+    "date": "2026-10-24T12:05:17.155Z",
+    "root": "BODY#",
+    "extra_hero": false,
+    "word_count": 379,
+    "main_words": 292,
+    "excluded_global_words": 87,
+    "main_text_sha256": "46950d5ca7ec2a4bbc3d8970ecf021fd403803ecc389801e1076fe2f7cf2fd27",
+    "raw_heading_counts": {
+      "H1": 0,
+      "H2": 4,
+      "H3": 5
+    },
+    "retained_heading_counts": {
+      "H1": 0,
+      "H2": 1,
+      "H3": 1
+    },
+    "retained_heading_level_order": [
+      "H2",
+      "H3"
+    ],
+    "h1": []
+  },
+  {
+    "evidence_id": "C49",
+    "url": "https://www.romexterra.com/fire-damage-restoration/",
+    "date": "2026-10-24T12:06:24.382Z",
+    "root": "MAIN#",
+    "extra_hero": true,
+    "word_count": 691,
+    "main_words": 685,
+    "excluded_global_words": 6,
+    "main_text_sha256": "bbea70d9904b70586fb2d6c39736095f8d85f175dddb86da87de0333d605b63b",
+    "raw_heading_counts": {
+      "H1": 1,
+      "H2": 1,
+      "H3": 6
+    },
+    "retained_heading_counts": {
+      "H1": 1,
+      "H2": 1,
+      "H3": 6
+    },
+    "retained_heading_level_order": [
+      "H1",
+      "H2",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3",
+      "H3"
+    ],
+    "h1": [
+      "Fire Damage Restoration in Chicago, IL"
+    ]
+  }
+]

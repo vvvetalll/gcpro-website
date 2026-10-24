@@ -1,5 +1,7 @@
 # GCPRO changelog
 
+**2026-10-24 — read-only service content-depth audit:** Inspected all17 current Published staging service pages and49 competitor landings; excluded chrome/global content and counted102 collapsed FAQ answers once. Outcomes:1 sufficient,8 targeted expansions,8 substantial revisions. Approved semantic ownership preserved; operational/case-evidence dependencies and weak comparator groups are explicit. No website changes. [Comparison, methodology and page briefs](docs/seo/2026-10-24-content-depth-audit/README.md).
+
 **2026-10-23 — compact popup and overlay:** Shortened availability copy,16px spacing, viewport-bounded card and popup layer above sticky Header.394×640 result/overlay/overflow checked. [Record](docs/components/service-availability-popup.md).
 
 
