@@ -1,5 +1,13 @@
 # GCPRO project context
 
+
+## 2026-10-24 — Trustindex service reviews on staging
+
+Added one native Shortcode review section before FAQ on all17 existing service Pages. Created9 GCPRO-only copies of the approved Reviews on Page Slider VI widget; reused the existing general widget for Extraction/Board-Up/Odor/Moisture. Mold and Dehumidification have both explicit reviews plus suitable supplements; only Commercial Water has a useful separate business selection. Original12 widgets and all unrelated page content/states/URLs/SEO settings remain unchanged.
+
+Saved shortcodes/protected trees and34 authenticated desktop/mobile renders verified; Read More tested on all17 desktop pages and one mobile popup. All17 anonymous HTTP responses contain current embeds. Inherited template has clickable review/source links disabled; service-first priority ordering is unavailable. Incognito/anonymous JS and physical devices untested. [Mapping, controls, evidence and recovery](docs/components/testimonials.md#service-page-integration--2026-10-24).
+
+
 **2026-10-24 — service content revisions:** Published supported text improvements on16 service pages through existing instance Overrides; preserved Heroes, CTAs, URLs, publication states, links, shared styles and authored SEO. Added owner-requested Board-Up488 comparison block using existing1206/1600 sliders with honest temporary-protection/later-repair context; original Board-Up copy unchanged. Natural US English is now a standing AGENTS editorial rule.51 responsive DOM checks cover17 pages at1440/768/393; operational facts/project evidence remain explicitly open. [Implementation and remaining facts](docs/seo/2026-10-24-content-depth-audit/IMPLEMENTATION_STATUS.md).
 
 **2026-10-24 — read-only service content-depth audit:** Inspected all17 current Published staging service pages and49 competitor landings; excluded chrome/global content and counted102 collapsed FAQ answers once. Outcomes:1 sufficient,8 targeted expansions,8 substantial revisions. Approved semantic ownership preserved; operational/case-evidence dependencies and weak comparator groups are explicit. No website changes. [Comparison, methodology and page briefs](docs/seo/2026-10-24-content-depth-audit/README.md).
@@ -658,3 +666,4 @@ Owner requested the same logos on Homepage154. Existing Why Component1149 instan
 
 
 2026-10-22 — Homepage Commercial audience card link fixed: Page154 anchor2066a26 now uses native Elementor Dynamic Tags → Internal URL → Post → Page499 instead of #. Existing Residential4c8810dc → Page484 already uses the same native object binding and remains unchanged. Entire Commercial card links to published /commercial-services/; real browser click reached its expected Commercial H1. Only the destination setting changed; no menu,layout,SEO,classes,Variables,Components,code,assets or dependencies changed. No responsive geometry changed. Rollback:restore only2066a26 destination from private task backup; prior# was an unresolved placeholder,not a working link.
+

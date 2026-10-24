@@ -1,0 +1,1238 @@
+{
+  "date": "2026-10-24",
+  "environment": "staging only",
+  "template": {
+    "name": "Reviews on Page",
+    "admin_id": 840137,
+    "public_id": "3c3f6b184e520136de76f94fefa",
+    "layout": "Slider VI (15)",
+    "theme": "drop-shadow",
+    "original_named_settings_unchanged": true,
+    "new_widgets_design_settings_match_template": 9,
+    "old_widgets_retained": 12,
+    "new_widgets": 9
+  },
+  "saved_checks": [
+    {
+      "page_id": 514,
+      "url": "https://vitaliiv1.sg-host.com/residential-services/water-damage/",
+      "status": "publish",
+      "widget_id": "338def084c963130fa865b06557",
+      "shortcode": "[trustindex data-widget-id=338def084c963130fa865b06557]",
+      "protected_tree_equal": true,
+      "protected_metadata_equal": true,
+      "authored_seo_equal": true,
+      "anonymous_http": {
+        "status": 200,
+        "widget_id_present": true
+      }
+    },
+    {
+      "page_id": 517,
+      "url": "https://vitaliiv1.sg-host.com/residential-services/fire-smoke/",
+      "status": "publish",
+      "widget_id": "ba034ea84fc73148e076a3b2915",
+      "shortcode": "[trustindex data-widget-id=ba034ea84fc73148e076a3b2915]",
+      "protected_tree_equal": true,
+      "protected_metadata_equal": true,
+      "authored_seo_equal": true,
+      "anonymous_http": {
+        "status": 200,
+        "widget_id_present": true
+      }
+    },
+    {
+      "page_id": 516,
+      "url": "https://vitaliiv1.sg-host.com/residential-services/mold-removal/",
+      "status": "publish",
+      "widget_id": "52f594884b00314bff86eb275d0",
+      "shortcode": "[trustindex data-widget-id=52f594884b00314bff86eb275d0]",
+      "protected_tree_equal": true,
+      "protected_metadata_equal": true,
+      "authored_seo_equal": true,
+      "anonymous_http": {
+        "status": 200,
+        "widget_id_present": true
+      }
+    },
+    {
+      "page_id": 518,
+      "url": "https://vitaliiv1.sg-host.com/residential-services/reconstruction/",
+      "status": "publish",
+      "widget_id": "f32550a84994314bfd06ceb1b13",
+      "shortcode": "[trustindex data-widget-id=f32550a84994314bfd06ceb1b13]",
+      "protected_tree_equal": true,
+      "protected_metadata_equal": true,
+      "authored_seo_equal": true,
+      "anonymous_http": {
+        "status": 200,
+        "widget_id_present": true
+      }
+    },
+    {
+      "page_id": 523,
+      "url": "https://vitaliiv1.sg-host.com/residential-services/storm-damage/",
+      "status": "publish",
+      "widget_id": "ce3a00f847dd314f42363759e01",
+      "shortcode": "[trustindex data-widget-id=ce3a00f847dd314f42363759e01]",
+      "protected_tree_equal": true,
+      "protected_metadata_equal": true,
+      "authored_seo_equal": true,
+      "anonymous_http": {
+        "status": 200,
+        "widget_id_present": true
+      }
+    },
+    {
+      "page_id": 521,
+      "url": "https://vitaliiv1.sg-host.com/residential-services/personal-property-restoration/",
+      "status": "publish",
+      "widget_id": "a60462684315314dae169852f0a",
+      "shortcode": "[trustindex data-widget-id=a60462684315314dae169852f0a]",
+      "protected_tree_equal": true,
+      "protected_metadata_equal": true,
+      "authored_seo_equal": true,
+      "anonymous_http": {
+        "status": 200,
+        "widget_id_present": true
+      }
+    },
+    {
+      "page_id": 522,
+      "url": "https://vitaliiv1.sg-host.com/commercial-services/general-contracting/",
+      "status": "publish",
+      "widget_id": "4ee6ca784c163149da56ed2728c",
+      "shortcode": "[trustindex data-widget-id=4ee6ca784c163149da56ed2728c]",
+      "protected_tree_equal": true,
+      "protected_metadata_equal": true,
+      "authored_seo_equal": true,
+      "anonymous_http": {
+        "status": 200,
+        "widget_id_present": true
+      }
+    },
+    {
+      "page_id": 515,
+      "url": "https://vitaliiv1.sg-host.com/commercial-services/water-damage/",
+      "status": "publish",
+      "widget_id": "2f88a1a847e131542e0680e0e4a",
+      "shortcode": "[trustindex data-widget-id=2f88a1a847e131542e0680e0e4a]",
+      "protected_tree_equal": true,
+      "protected_metadata_equal": true,
+      "authored_seo_equal": true,
+      "anonymous_http": {
+        "status": 200,
+        "widget_id_present": true
+      }
+    },
+    {
+      "page_id": 520,
+      "url": "https://vitaliiv1.sg-host.com/commercial-services/fire-smoke/",
+      "status": "publish",
+      "widget_id": "ba034ea84fc73148e076a3b2915",
+      "shortcode": "[trustindex data-widget-id=ba034ea84fc73148e076a3b2915]",
+      "protected_tree_equal": true,
+      "protected_metadata_equal": true,
+      "authored_seo_equal": true,
+      "anonymous_http": {
+        "status": 200,
+        "widget_id_present": true
+      }
+    },
+    {
+      "page_id": 519,
+      "url": "https://vitaliiv1.sg-host.com/commercial-services/mold-removal/",
+      "status": "publish",
+      "widget_id": "52f594884b00314bff86eb275d0",
+      "shortcode": "[trustindex data-widget-id=52f594884b00314bff86eb275d0]",
+      "protected_tree_equal": true,
+      "protected_metadata_equal": true,
+      "authored_seo_equal": true,
+      "anonymous_http": {
+        "status": 200,
+        "widget_id_present": true
+      }
+    },
+    {
+      "page_id": 524,
+      "url": "https://vitaliiv1.sg-host.com/commercial-services/reconstruction/",
+      "status": "publish",
+      "widget_id": "f32550a84994314bfd06ceb1b13",
+      "shortcode": "[trustindex data-widget-id=f32550a84994314bfd06ceb1b13]",
+      "protected_tree_equal": true,
+      "protected_metadata_equal": true,
+      "authored_seo_equal": true,
+      "anonymous_http": {
+        "status": 200,
+        "widget_id_present": true
+      }
+    },
+    {
+      "page_id": 525,
+      "url": "https://vitaliiv1.sg-host.com/commercial-services/personal-property-restoration/",
+      "status": "publish",
+      "widget_id": "a60462684315314dae169852f0a",
+      "shortcode": "[trustindex data-widget-id=a60462684315314dae169852f0a]",
+      "protected_tree_equal": true,
+      "protected_metadata_equal": true,
+      "authored_seo_equal": true,
+      "anonymous_http": {
+        "status": 200,
+        "widget_id_present": true
+      }
+    },
+    {
+      "page_id": 487,
+      "url": "https://vitaliiv1.sg-host.com/water-extraction/",
+      "status": "publish",
+      "widget_id": "3c3f6b184e520136de76f94fefa",
+      "shortcode": "[trustindex data-widget-id=3c3f6b184e520136de76f94fefa]",
+      "protected_tree_equal": true,
+      "protected_metadata_equal": true,
+      "authored_seo_equal": true,
+      "anonymous_http": {
+        "status": 200,
+        "widget_id_present": true
+      }
+    },
+    {
+      "page_id": 488,
+      "url": "https://vitaliiv1.sg-host.com/board-up/",
+      "status": "publish",
+      "widget_id": "3c3f6b184e520136de76f94fefa",
+      "shortcode": "[trustindex data-widget-id=3c3f6b184e520136de76f94fefa]",
+      "protected_tree_equal": true,
+      "protected_metadata_equal": true,
+      "authored_seo_equal": true,
+      "anonymous_http": {
+        "status": 200,
+        "widget_id_present": true
+      }
+    },
+    {
+      "page_id": 489,
+      "url": "https://vitaliiv1.sg-host.com/odor-removal/",
+      "status": "publish",
+      "widget_id": "3c3f6b184e520136de76f94fefa",
+      "shortcode": "[trustindex data-widget-id=3c3f6b184e520136de76f94fefa]",
+      "protected_tree_equal": true,
+      "protected_metadata_equal": true,
+      "authored_seo_equal": true,
+      "anonymous_http": {
+        "status": 200,
+        "widget_id_present": true
+      }
+    },
+    {
+      "page_id": 490,
+      "url": "https://vitaliiv1.sg-host.com/moisture-mapping/",
+      "status": "publish",
+      "widget_id": "3c3f6b184e520136de76f94fefa",
+      "shortcode": "[trustindex data-widget-id=3c3f6b184e520136de76f94fefa]",
+      "protected_tree_equal": true,
+      "protected_metadata_equal": true,
+      "authored_seo_equal": true,
+      "anonymous_http": {
+        "status": 200,
+        "widget_id_present": true
+      }
+    },
+    {
+      "page_id": 491,
+      "url": "https://vitaliiv1.sg-host.com/dehumidification/",
+      "status": "publish",
+      "widget_id": "4ba933b842b0314fea96337b382",
+      "shortcode": "[trustindex data-widget-id=4ba933b842b0314fea96337b382]",
+      "protected_tree_equal": true,
+      "protected_metadata_equal": true,
+      "authored_seo_equal": true,
+      "anonymous_http": {
+        "status": 200,
+        "widget_id_present": true
+      }
+    }
+  ],
+  "renders": [
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "338def084c963130fa865b06557",
+      "sectionBounds": {
+        "left": 0,
+        "right": 1425,
+        "width": 1425
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 144.5,
+        "right": 1280.5,
+        "width": 1136
+      },
+      "widgets": 1,
+      "width": 1440,
+      "page_id": 514,
+      "mode": "desktop",
+      "readMoreOpened": true,
+      "review_count": 10,
+      "correct_gcpro_source": true,
+      "source_anchor_links_present": false
+    },
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "ba034ea84fc73148e076a3b2915",
+      "sectionBounds": {
+        "left": 0,
+        "right": 1425,
+        "width": 1425
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 144.5,
+        "right": 1280.5,
+        "width": 1136
+      },
+      "widgets": 1,
+      "width": 1440,
+      "page_id": 517,
+      "mode": "desktop",
+      "readMoreOpened": true,
+      "review_count": 7,
+      "correct_gcpro_source": true,
+      "source_anchor_links_present": false
+    },
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "52f594884b00314bff86eb275d0",
+      "sectionBounds": {
+        "left": 0,
+        "right": 1425,
+        "width": 1425
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 144.5,
+        "right": 1280.5,
+        "width": 1136
+      },
+      "widgets": 1,
+      "width": 1440,
+      "page_id": 516,
+      "mode": "desktop",
+      "readMoreOpened": true,
+      "review_count": 5,
+      "correct_gcpro_source": true,
+      "source_anchor_links_present": false
+    },
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "f32550a84994314bfd06ceb1b13",
+      "sectionBounds": {
+        "left": 0,
+        "right": 1425,
+        "width": 1425
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 144.5,
+        "right": 1280.5,
+        "width": 1136
+      },
+      "widgets": 1,
+      "width": 1440,
+      "page_id": 518,
+      "mode": "desktop",
+      "readMoreOpened": true,
+      "review_count": 10,
+      "correct_gcpro_source": true,
+      "source_anchor_links_present": false
+    },
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "ce3a00f847dd314f42363759e01",
+      "sectionBounds": {
+        "left": 0,
+        "right": 1425,
+        "width": 1425
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 144.5,
+        "right": 1280.5,
+        "width": 1136
+      },
+      "widgets": 1,
+      "width": 1440,
+      "page_id": 523,
+      "mode": "desktop",
+      "readMoreOpened": true,
+      "review_count": 10,
+      "correct_gcpro_source": true,
+      "source_anchor_links_present": false
+    },
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "a60462684315314dae169852f0a",
+      "sectionBounds": {
+        "left": 0,
+        "right": 1425,
+        "width": 1425
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 144.5,
+        "right": 1280.5,
+        "width": 1136
+      },
+      "widgets": 1,
+      "width": 1440,
+      "page_id": 521,
+      "mode": "desktop",
+      "readMoreOpened": true,
+      "review_count": 10,
+      "correct_gcpro_source": true,
+      "source_anchor_links_present": false
+    },
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "4ee6ca784c163149da56ed2728c",
+      "sectionBounds": {
+        "left": 0,
+        "right": 1425,
+        "width": 1425
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 144.5,
+        "right": 1280.5,
+        "width": 1136
+      },
+      "widgets": 1,
+      "width": 1440,
+      "page_id": 522,
+      "mode": "desktop",
+      "readMoreOpened": true,
+      "review_count": 10,
+      "correct_gcpro_source": true,
+      "source_anchor_links_present": false
+    },
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "2f88a1a847e131542e0680e0e4a",
+      "sectionBounds": {
+        "left": 0,
+        "right": 1425,
+        "width": 1425
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 144.5,
+        "right": 1280.5,
+        "width": 1136
+      },
+      "widgets": 1,
+      "width": 1440,
+      "page_id": 515,
+      "mode": "desktop",
+      "readMoreOpened": true,
+      "review_count": 5,
+      "correct_gcpro_source": true,
+      "source_anchor_links_present": false
+    },
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "ba034ea84fc73148e076a3b2915",
+      "sectionBounds": {
+        "left": 0,
+        "right": 1425,
+        "width": 1425
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 144.5,
+        "right": 1280.5,
+        "width": 1136
+      },
+      "widgets": 1,
+      "width": 1440,
+      "page_id": 520,
+      "mode": "desktop",
+      "readMoreOpened": true,
+      "review_count": 7,
+      "correct_gcpro_source": true,
+      "source_anchor_links_present": false
+    },
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "52f594884b00314bff86eb275d0",
+      "sectionBounds": {
+        "left": 0,
+        "right": 1425,
+        "width": 1425
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 144.5,
+        "right": 1280.5,
+        "width": 1136
+      },
+      "widgets": 1,
+      "width": 1440,
+      "page_id": 519,
+      "mode": "desktop",
+      "readMoreOpened": true,
+      "review_count": 5,
+      "correct_gcpro_source": true,
+      "source_anchor_links_present": false
+    },
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "f32550a84994314bfd06ceb1b13",
+      "sectionBounds": {
+        "left": 0,
+        "right": 1425,
+        "width": 1425
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 144.5,
+        "right": 1280.5,
+        "width": 1136
+      },
+      "widgets": 1,
+      "width": 1440,
+      "page_id": 524,
+      "mode": "desktop",
+      "readMoreOpened": true,
+      "review_count": 10,
+      "correct_gcpro_source": true,
+      "source_anchor_links_present": false
+    },
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "a60462684315314dae169852f0a",
+      "sectionBounds": {
+        "left": 0,
+        "right": 1425,
+        "width": 1425
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 144.5,
+        "right": 1280.5,
+        "width": 1136
+      },
+      "widgets": 1,
+      "width": 1440,
+      "page_id": 525,
+      "mode": "desktop",
+      "readMoreOpened": true,
+      "review_count": 10,
+      "correct_gcpro_source": true,
+      "source_anchor_links_present": false
+    },
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "3c3f6b184e520136de76f94fefa",
+      "sectionBounds": {
+        "left": 0,
+        "right": 1425,
+        "width": 1425
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 144.5,
+        "right": 1280.5,
+        "width": 1136
+      },
+      "widgets": 1,
+      "width": 1440,
+      "page_id": 487,
+      "mode": "desktop",
+      "readMoreOpened": true,
+      "review_count": 10,
+      "correct_gcpro_source": true,
+      "source_anchor_links_present": false
+    },
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "3c3f6b184e520136de76f94fefa",
+      "sectionBounds": {
+        "left": 0,
+        "right": 1425,
+        "width": 1425
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 144.5,
+        "right": 1280.5,
+        "width": 1136
+      },
+      "widgets": 1,
+      "width": 1440,
+      "page_id": 488,
+      "mode": "desktop",
+      "readMoreOpened": true,
+      "review_count": 10,
+      "correct_gcpro_source": true,
+      "source_anchor_links_present": false
+    },
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "3c3f6b184e520136de76f94fefa",
+      "sectionBounds": {
+        "left": 0,
+        "right": 1425,
+        "width": 1425
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 144.5,
+        "right": 1280.5,
+        "width": 1136
+      },
+      "widgets": 1,
+      "width": 1440,
+      "page_id": 489,
+      "mode": "desktop",
+      "readMoreOpened": true,
+      "review_count": 10,
+      "correct_gcpro_source": true,
+      "source_anchor_links_present": false
+    },
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "3c3f6b184e520136de76f94fefa",
+      "sectionBounds": {
+        "left": 0,
+        "right": 1425,
+        "width": 1425
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 144.5,
+        "right": 1280.5,
+        "width": 1136
+      },
+      "widgets": 1,
+      "width": 1440,
+      "page_id": 490,
+      "mode": "desktop",
+      "readMoreOpened": true,
+      "review_count": 10,
+      "correct_gcpro_source": true,
+      "source_anchor_links_present": false
+    },
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "4ba933b842b0314fea96337b382",
+      "sectionBounds": {
+        "left": 0,
+        "right": 1425,
+        "width": 1425
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 144.5,
+        "right": 1280.5,
+        "width": 1136
+      },
+      "widgets": 1,
+      "width": 1440,
+      "page_id": 491,
+      "mode": "desktop",
+      "readMoreOpened": true,
+      "review_count": 5,
+      "correct_gcpro_source": true,
+      "source_anchor_links_present": false
+    },
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "338def084c963130fa865b06557",
+      "sectionBounds": {
+        "left": 0,
+        "right": 375,
+        "width": 375
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 20,
+        "right": 355,
+        "width": 335
+      },
+      "widgets": 1,
+      "width": 390,
+      "page_id": 514,
+      "mode": "mobile",
+      "review_count": 10,
+      "correct_gcpro_source": true
+    },
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "ba034ea84fc73148e076a3b2915",
+      "sectionBounds": {
+        "left": 0,
+        "right": 375,
+        "width": 375
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 20,
+        "right": 355,
+        "width": 335
+      },
+      "widgets": 1,
+      "width": 390,
+      "page_id": 517,
+      "mode": "mobile",
+      "review_count": 7,
+      "correct_gcpro_source": true
+    },
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "52f594884b00314bff86eb275d0",
+      "sectionBounds": {
+        "left": 0,
+        "right": 375,
+        "width": 375
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 20,
+        "right": 355,
+        "width": 335
+      },
+      "widgets": 1,
+      "width": 390,
+      "page_id": 516,
+      "mode": "mobile",
+      "review_count": 5,
+      "correct_gcpro_source": true
+    },
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "f32550a84994314bfd06ceb1b13",
+      "sectionBounds": {
+        "left": 0,
+        "right": 375,
+        "width": 375
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 20,
+        "right": 355,
+        "width": 335
+      },
+      "widgets": 1,
+      "width": 390,
+      "page_id": 518,
+      "mode": "mobile",
+      "review_count": 10,
+      "correct_gcpro_source": true
+    },
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "ce3a00f847dd314f42363759e01",
+      "sectionBounds": {
+        "left": 0,
+        "right": 375,
+        "width": 375
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 20,
+        "right": 355,
+        "width": 335
+      },
+      "widgets": 1,
+      "width": 390,
+      "page_id": 523,
+      "mode": "mobile",
+      "review_count": 10,
+      "correct_gcpro_source": true
+    },
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "a60462684315314dae169852f0a",
+      "sectionBounds": {
+        "left": 0,
+        "right": 375,
+        "width": 375
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 20,
+        "right": 355,
+        "width": 335
+      },
+      "widgets": 1,
+      "width": 390,
+      "page_id": 521,
+      "mode": "mobile",
+      "review_count": 10,
+      "correct_gcpro_source": true
+    },
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "4ee6ca784c163149da56ed2728c",
+      "sectionBounds": {
+        "left": 0,
+        "right": 375,
+        "width": 375
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 20,
+        "right": 355,
+        "width": 335
+      },
+      "widgets": 1,
+      "width": 390,
+      "page_id": 522,
+      "mode": "mobile",
+      "review_count": 10,
+      "correct_gcpro_source": true
+    },
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "2f88a1a847e131542e0680e0e4a",
+      "sectionBounds": {
+        "left": 0,
+        "right": 375,
+        "width": 375
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 20,
+        "right": 355,
+        "width": 335
+      },
+      "widgets": 1,
+      "width": 390,
+      "page_id": 515,
+      "mode": "mobile",
+      "review_count": 5,
+      "correct_gcpro_source": true
+    },
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "ba034ea84fc73148e076a3b2915",
+      "sectionBounds": {
+        "left": 0,
+        "right": 375,
+        "width": 375
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 20,
+        "right": 355,
+        "width": 335
+      },
+      "widgets": 1,
+      "width": 390,
+      "page_id": 520,
+      "mode": "mobile",
+      "review_count": 7,
+      "correct_gcpro_source": true
+    },
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "52f594884b00314bff86eb275d0",
+      "sectionBounds": {
+        "left": 0,
+        "right": 375,
+        "width": 375
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 20,
+        "right": 355,
+        "width": 335
+      },
+      "widgets": 1,
+      "width": 390,
+      "page_id": 519,
+      "mode": "mobile",
+      "review_count": 5,
+      "correct_gcpro_source": true
+    },
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "f32550a84994314bfd06ceb1b13",
+      "sectionBounds": {
+        "left": 0,
+        "right": 375,
+        "width": 375
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 20,
+        "right": 355,
+        "width": 335
+      },
+      "widgets": 1,
+      "width": 390,
+      "page_id": 524,
+      "mode": "mobile",
+      "review_count": 10,
+      "correct_gcpro_source": true
+    },
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "a60462684315314dae169852f0a",
+      "sectionBounds": {
+        "left": 0,
+        "right": 375,
+        "width": 375
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 20,
+        "right": 355,
+        "width": 335
+      },
+      "widgets": 1,
+      "width": 390,
+      "page_id": 525,
+      "mode": "mobile",
+      "review_count": 10,
+      "correct_gcpro_source": true
+    },
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "3c3f6b184e520136de76f94fefa",
+      "sectionBounds": {
+        "left": 0,
+        "right": 375,
+        "width": 375
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 20,
+        "right": 355,
+        "width": 335
+      },
+      "widgets": 1,
+      "width": 390,
+      "page_id": 487,
+      "mode": "mobile",
+      "review_count": 10,
+      "correct_gcpro_source": true
+    },
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "3c3f6b184e520136de76f94fefa",
+      "sectionBounds": {
+        "left": 0,
+        "right": 375,
+        "width": 375
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 20,
+        "right": 355,
+        "width": 335
+      },
+      "widgets": 1,
+      "width": 390,
+      "page_id": 488,
+      "mode": "mobile",
+      "review_count": 10,
+      "correct_gcpro_source": true
+    },
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "3c3f6b184e520136de76f94fefa",
+      "sectionBounds": {
+        "left": 0,
+        "right": 375,
+        "width": 375
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 20,
+        "right": 355,
+        "width": 335
+      },
+      "widgets": 1,
+      "width": 390,
+      "page_id": 489,
+      "mode": "mobile",
+      "review_count": 10,
+      "correct_gcpro_source": true
+    },
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "3c3f6b184e520136de76f94fefa",
+      "sectionBounds": {
+        "left": 0,
+        "right": 375,
+        "width": 375
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 20,
+        "right": 355,
+        "width": 335
+      },
+      "widgets": 1,
+      "width": 390,
+      "page_id": 490,
+      "mode": "mobile",
+      "review_count": 10,
+      "correct_gcpro_source": true
+    },
+    {
+      "layout": "15",
+      "loggedIn": true,
+      "overflow": false,
+      "pid": "4ba933b842b0314fea96337b382",
+      "sectionBounds": {
+        "left": 0,
+        "right": 375,
+        "width": 375
+      },
+      "sections": 1,
+      "sourceUrls": [
+        "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAxXdInXND4gR1vZcjXBMNWM"
+      ],
+      "theme": "drop-shadow",
+      "widgetBounds": {
+        "left": 20,
+        "right": 355,
+        "width": 335
+      },
+      "widgets": 1,
+      "width": 390,
+      "page_id": 491,
+      "mode": "mobile",
+      "review_count": 5,
+      "correct_gcpro_source": true
+    }
+  ],
+  "review_selection_verified": true,
+  "browser_session": "authenticated Chrome; desktop/mobile emulation, not physical devices",
+  "mobile_popup": {
+    "page_id": 491,
+    "opened": true,
+    "closed_with_vendor_mobile_Close": true,
+    "inner_width": 375,
+    "viewport_width": 390
+  },
+  "native_editor_check": {
+    "page_id": 514,
+    "native_widget": "Shortcode",
+    "control": "Enter your shortcode",
+    "saved_shortcode_verified": true,
+    "publish_button_disabled_after_load": true
+  },
+  "source_links": {
+    "review_linked_setting": false,
+    "clickable_anchors_present": false,
+    "google_icon_click_opened_source": false,
+    "source_metadata_matches_gcpro": true,
+    "reason": "Inherited approved template settings preserved; original review text/source records untouched."
+  },
+  "limitations": [
+    "No service-first priority order available; current source photo-first/newer-sooner ordering retained.",
+    "Manual selections are fixed and do not automatically incorporate new reviews.",
+    "Incognito/anonymous JavaScript execution and physical-device tests were not performed; unauthenticated HTTP returned 200 with current widget identifiers on all 17 pages.",
+    "Source links are not clickable in the approved template because review-linked is disabled. No custom workaround or unapproved setting change."
+  ]
+}
