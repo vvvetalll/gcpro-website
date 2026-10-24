@@ -1,0 +1,2154 @@
+{
+  "environment": "staging",
+  "pages": {
+    "492": [
+      {
+        "id": "26fe91e4",
+        "elType": "e-div-block",
+        "title": "Request Service page",
+        "tag": "section",
+        "settings": {
+          "classes": [
+            "e-20acce11-5294"
+          ],
+          "tag": "section"
+        },
+        "styles": {
+          "__style_id": "e-20acce11-5294",
+          "css": "min-width: 0px; font-family: var(--font-body); font-size: var(--font-size-body); color: var(--color-text); padding-block-start: var(--space-2xl); padding-block-end: var(--space-2xl); padding-inline-start: var(--page-gutter); padding-inline-end: var(--page-gutter); background-color: var(--color-surface-alternate);\n@media(--mobile) { padding-block-start: var(--space-xl); padding-block-end: var(--space-xl); padding-inline-start: var(--page-gutter-mobile); padding-inline-end: var(--page-gutter-mobile); }"
+        },
+        "elements": [
+          {
+            "id": "40da9d8c",
+            "elType": "e-div-block",
+            "title": "Page content",
+            "tag": "div",
+            "settings": {
+              "classes": [
+                "g-68fb534",
+                "g-0152925",
+                "e-5a7d551d-79f4"
+              ],
+              "tag": "div"
+            },
+            "styles": {
+              "__style_id": "e-5a7d551d-79f4",
+              "css": "min-width: 0px; max-width: var(--container-max); padding: 0px; margin-inline-start: auto; margin-inline-end: auto; display: flex; flex-direction: column; gap: var(--space-lg);\n@media(--tablet) { padding: 0px; }\n@media(--mobile) { padding: 0px; }"
+            },
+            "elements": [
+              {
+                "id": "687ea854",
+                "elType": "e-div-block",
+                "title": "Contact and form layout",
+                "tag": "div",
+                "settings": {
+                  "classes": [
+                    "e-59845771-c5cb"
+                  ],
+                  "tag": "div"
+                },
+                "styles": {
+                  "__style_id": "e-59845771-c5cb",
+                  "css": "min-width: 0px; padding: 0px; border-radius: 0px; border-width: 0px; background-color: transparent; display: grid; gap: var(--space-xl); grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr); align-items: start;\n@media(--tablet) { gap: var(--space-lg); grid-template-columns: minmax(0, 1fr); }\n@media(--mobile) { padding: 0px; gap: var(--space-lg); }"
+                },
+                "elements": [
+                  {
+                    "id": "7099aed9",
+                    "elType": "e-div-block",
+                    "title": "Useful contact information",
+                    "tag": "div",
+                    "settings": {
+                      "classes": [
+                        "e-a229876-9903"
+                      ],
+                      "tag": "div"
+                    },
+                    "styles": {
+                      "__style_id": "e-a229876-9903",
+                      "css": "min-width: 0px; padding-block-start: var(--space-lg); padding-block-end: 0px; padding-inline-start: 0px; padding-inline-end: 0px; display: flex; flex-direction: column; gap: var(--space-lg); align-items: flex-start;\n@media(--tablet) { padding: 0px; }\n@media(--mobile) { padding: 0px; gap: var(--space-md); }"
+                    },
+                    "elements": [
+                      {
+                        "id": "5cf16794",
+                        "elType": "e-div-block",
+                        "title": "Support heading accent",
+                        "tag": "div",
+                        "settings": {
+                          "classes": [
+                            "g-a537304",
+                            "e-6de01df3-7aee"
+                          ]
+                        },
+                        "styles": {
+                          "__style_id": "e-6de01df3-7aee",
+                          "css": "min-width: 0px; padding: 0px;"
+                        },
+                        "elements": [
+                          {
+                            "id": "7bccede8",
+                            "elType": "widget",
+                            "widgetType": "e-component",
+                            "title": "Support shared heading",
+                            "tag": "div",
+                            "settings": {
+                              "component_instance": {
+                                "component_id": 71,
+                                "overrides": [
+                                  {
+                                    "override_key": "title",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Before you submit"
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 71
+                                    }
+                                  },
+                                  {
+                                    "override_key": "description",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "What to include, when to call, and what happens next."
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 71
+                                    }
+                                  },
+                                  {
+                                    "override_key": "heading_tag",
+                                    "override_value": {
+                                      "$$type": "string",
+                                      "value": "h2"
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 71
+                                    }
+                                  },
+                                  {
+                                    "override_key": "eyebrow",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": ""
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 71
+                                    }
+                                  }
+                                ]
+                              }
+                            },
+                            "styles": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "30fd279a",
+                        "elType": "e-div-block",
+                        "title": "Request guidance",
+                        "tag": "div",
+                        "settings": {
+                          "classes": [
+                            "e-19ff5c23-f4e2"
+                          ],
+                          "tag": "div"
+                        },
+                        "styles": {
+                          "__style_id": "e-19ff5c23-f4e2",
+                          "css": "min-width: 0px; padding: 0px; display: flex; flex-direction: column; gap: var(--space-md);"
+                        },
+                        "elements": [
+                          {
+                            "id": "24c18159",
+                            "elType": "e-div-block",
+                            "title": "What to include group",
+                            "tag": "div",
+                            "settings": {
+                              "classes": [
+                                "e-3c24141a-2f6c"
+                              ],
+                              "tag": "div"
+                            },
+                            "styles": {
+                              "__style_id": "e-3c24141a-2f6c",
+                              "css": "min-width: 0px; padding: 0px; display: flex; flex-direction: column; gap: var(--space-xs);"
+                            },
+                            "elements": [
+                              {
+                                "id": "2928f847",
+                                "elType": "widget",
+                                "widgetType": "e-heading",
+                                "title": "What to include heading",
+                                "tag": "h3",
+                                "settings": {
+                                  "classes": [
+                                    "e-70c74dba-a979"
+                                  ],
+                                  "tag": "h3",
+                                  "title": "What to include"
+                                },
+                                "styles": {
+                                  "__style_id": "e-70c74dba-a979",
+                                  "css": "font-family: var(--font-heading); font-weight: 600; font-size: 18px; color: var(--color-primary); line-height: 1.3; text-transform: none; margin: 0px;"
+                                }
+                              },
+                              {
+                                "id": "59bc9595",
+                                "elType": "widget",
+                                "widgetType": "e-paragraph",
+                                "title": "What to include text",
+                                "tag": "p",
+                                "settings": {
+                                  "classes": [
+                                    "e-51bd41ef-c087"
+                                  ],
+                                  "paragraph": "Your name, phone number and property\u2019s city or ZIP code. Add a brief description of the damage if you can."
+                                },
+                                "styles": {
+                                  "__style_id": "e-51bd41ef-c087",
+                                  "css": "font-family: var(--font-body); font-size: var(--font-size-body); color: var(--color-text); line-height: 1.6; margin: 0px;"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "22ce3678",
+                            "elType": "e-div-block",
+                            "title": "Choosing a service group",
+                            "tag": "div",
+                            "settings": {
+                              "classes": [
+                                "e-4d71445a-fead"
+                              ],
+                              "tag": "div"
+                            },
+                            "styles": {
+                              "__style_id": "e-4d71445a-fead",
+                              "css": "min-width: 0px; padding: 0px; display: flex; flex-direction: column; gap: var(--space-xs);"
+                            },
+                            "elements": [
+                              {
+                                "id": "3af18b86",
+                                "elType": "widget",
+                                "widgetType": "e-heading",
+                                "title": "Choosing a service heading",
+                                "tag": "h3",
+                                "settings": {
+                                  "classes": [
+                                    "e-736c0853-b6a7"
+                                  ],
+                                  "tag": "h3",
+                                  "title": "Not sure which service?"
+                                },
+                                "styles": {
+                                  "__style_id": "e-736c0853-b6a7",
+                                  "css": "font-family: var(--font-heading); font-weight: 600; font-size: 18px; color: var(--color-primary); line-height: 1.3; text-transform: none; margin: 0px;"
+                                }
+                              },
+                              {
+                                "id": "6f70cf37",
+                                "elType": "widget",
+                                "widgetType": "e-paragraph",
+                                "title": "Choosing a service text",
+                                "tag": "p",
+                                "settings": {
+                                  "classes": [
+                                    "e-74839222-2dc6"
+                                  ],
+                                  "paragraph": "Choose \u201cNot sure.\u201d Email and a description are optional."
+                                },
+                                "styles": {
+                                  "__style_id": "e-74839222-2dc6",
+                                  "css": "font-family: var(--font-body); font-size: var(--font-size-body); color: var(--color-text); line-height: 1.6; margin: 0px;"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "6cd7c0ff",
+                            "elType": "e-div-block",
+                            "title": "After submitting group",
+                            "tag": "div",
+                            "settings": {
+                              "classes": [
+                                "e-5b476a59-a93e"
+                              ],
+                              "tag": "div"
+                            },
+                            "styles": {
+                              "__style_id": "e-5b476a59-a93e",
+                              "css": "min-width: 0px; padding: 0px; display: flex; flex-direction: column; gap: var(--space-xs);"
+                            },
+                            "elements": [
+                              {
+                                "id": "4a7896eb",
+                                "elType": "widget",
+                                "widgetType": "e-heading",
+                                "title": "After submitting heading",
+                                "tag": "h3",
+                                "settings": {
+                                  "classes": [
+                                    "e-18e88f38-e6d9"
+                                  ],
+                                  "tag": "h3",
+                                  "title": "After you submit"
+                                },
+                                "styles": {
+                                  "__style_id": "e-18e88f38-e6d9",
+                                  "css": "font-family: var(--font-heading); font-weight: 600; font-size: 18px; color: var(--color-primary); line-height: 1.3; text-transform: none; margin: 0px;"
+                                }
+                              },
+                              {
+                                "id": "2af78059",
+                                "elType": "widget",
+                                "widgetType": "e-paragraph",
+                                "title": "After submitting text",
+                                "tag": "p",
+                                "settings": {
+                                  "classes": [
+                                    "e-24b69eb9-f040"
+                                  ],
+                                  "paragraph": "A confirmation appears when your request is saved. Email notifications are not connected on this staging site."
+                                },
+                                "styles": {
+                                  "__style_id": "e-24b69eb9-f040",
+                                  "css": "font-family: var(--font-body); font-size: var(--font-size-body); color: var(--color-text); line-height: 1.6; margin: 0px;"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "2f3bfd3b",
+                        "elType": "e-div-block",
+                        "title": "Request urgent assistance group",
+                        "tag": "div",
+                        "settings": {
+                          "classes": [
+                            "e-3ca093cd-9461"
+                          ],
+                          "tag": "div"
+                        },
+                        "styles": {
+                          "__style_id": "e-3ca093cd-9461",
+                          "css": "min-width: 0px; padding-block-start: var(--space-md); padding-block-end: 0px; padding-inline-start: 0px; padding-inline-end: 0px; border-block-start-width: 1px; display: flex; flex-direction: column; gap: var(--space-xs); align-items: flex-start; border-top-style: solid; border-top-color: var(--color-border);"
+                        },
+                        "elements": [
+                          {
+                            "id": "296cb87a",
+                            "elType": "widget",
+                            "widgetType": "e-heading",
+                            "title": "Urgent assistance heading",
+                            "tag": "h3",
+                            "settings": {
+                              "classes": [
+                                "e-457b51da-9d45"
+                              ],
+                              "tag": "h3",
+                              "title": "Need urgent assistance?"
+                            },
+                            "styles": {
+                              "__style_id": "e-457b51da-9d45",
+                              "css": "font-family: var(--font-heading); font-weight: 700; font-size: 18px; color: var(--color-primary); line-height: 1.3; margin: 0px;"
+                            }
+                          },
+                          {
+                            "id": "26574b8a",
+                            "elType": "widget",
+                            "widgetType": "e-button",
+                            "title": "Urgent office phone",
+                            "tag": "a",
+                            "settings": {
+                              "classes": [
+                                "e-1e417590-d452"
+                              ],
+                              "text": "847-656-3322",
+                              "link": {
+                                "destination": "tel:+18476563322",
+                                "isTargetBlank": null,
+                                "tag": "a"
+                              }
+                            },
+                            "styles": {
+                              "__style_id": "e-1e417590-d452",
+                              "css": "&:hover { color: var(--color-primary-hover); text-decoration: underline; } min-height: 44px; font-family: var(--font-heading); font-weight: 600; font-size: 24px; color: var(--color-primary); line-height: 1.3; text-decoration: none; padding: 0px; background-color: transparent; display: inline-flex; align-items: center;"
+                            }
+                          },
+                          {
+                            "id": "590bb91e",
+                            "elType": "widget",
+                            "widgetType": "e-component",
+                            "title": "Approved Call action",
+                            "tag": "div",
+                            "settings": {
+                              "component_instance": {
+                                "component_id": 53,
+                                "overrides": [
+                                  {
+                                    "override_key": "text",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Call Now"
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 53
+                                    }
+                                  },
+                                  {
+                                    "override_key": "link",
+                                    "override_value": {
+                                      "$$type": "link",
+                                      "value": {
+                                        "destination": {
+                                          "$$type": "url",
+                                          "value": "tel:+18476563322"
+                                        },
+                                        "tag": {
+                                          "$$type": "string",
+                                          "value": "a"
+                                        }
+                                      }
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 53
+                                    }
+                                  }
+                                ]
+                              }
+                            },
+                            "styles": {
+                              "__style_id": "e-2f50516a-c867",
+                              "css": "display: flex;\n@media(--tablet) { display: flex; }\n@media(--mobile) { display: flex; }"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "3cfb3589",
+                    "elType": "e-div-block",
+                    "title": "Enquiry form panel",
+                    "tag": "div",
+                    "settings": {
+                      "classes": [
+                        "e-88a5298-10de"
+                      ],
+                      "tag": "div"
+                    },
+                    "styles": {
+                      "__style_id": "e-88a5298-10de",
+                      "css": "min-width: 0px; padding: var(--space-lg); border-radius: var(--space-xs); border-width: 1px; border-color: var(--color-border); border-style: solid; background-color: var(--color-white); display: flex; flex-direction: column; gap: var(--space-sm);\n@media(--tablet) { padding: var(--space-lg); border-width: 1px; border-color: var(--color-border); border-style: solid; }\n@media(--mobile) { padding: var(--space-md); border-width: 1px; border-color: var(--color-border); border-style: solid; }"
+                    },
+                    "elements": [
+                      {
+                        "id": "44737755",
+                        "elType": "e-div-block",
+                        "title": "Form heading accent",
+                        "tag": "div",
+                        "settings": {
+                          "classes": [
+                            "g-a537304",
+                            "e-77111e8d-af91"
+                          ]
+                        },
+                        "styles": {
+                          "__style_id": "e-77111e8d-af91",
+                          "css": "min-width: 0px; padding: 0px;"
+                        },
+                        "elements": [
+                          {
+                            "id": "23022d90",
+                            "elType": "widget",
+                            "widgetType": "e-component",
+                            "title": "Form shared heading",
+                            "tag": "div",
+                            "settings": {
+                              "component_instance": {
+                                "component_id": 71,
+                                "overrides": [
+                                  {
+                                    "override_key": "title",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Service request"
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 71
+                                    }
+                                  },
+                                  {
+                                    "override_key": "description",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Fields marked * are required."
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 71
+                                    }
+                                  },
+                                  {
+                                    "override_key": "heading_tag",
+                                    "override_value": {
+                                      "$$type": "string",
+                                      "value": "h2"
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 71
+                                    }
+                                  },
+                                  {
+                                    "override_key": "eyebrow",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": ""
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 71
+                                    }
+                                  }
+                                ]
+                              }
+                            },
+                            "styles": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "520dd1a8",
+                        "elType": "e-form",
+                        "title": "Service enquiry form",
+                        "tag": "form",
+                        "settings": {
+                          "classes": [
+                            "e-4b69bd3-d47a"
+                          ],
+                          "form-name": "GCPRO | Request Service",
+                          "webmcp-autosubmit": false,
+                          "form-state": "default",
+                          "actions-after-submit": [
+                            "collect-submissions"
+                          ]
+                        },
+                        "styles": {
+                          "__style_id": "e-4b69bd3-d47a",
+                          "css": "padding: 0px; display: grid; gap: 16px; grid-template-columns: repeat(2, minmax(0, 1fr)); align-items: start;\n@media(--mobile) { grid-template-columns: minmax(0, 1fr); }"
+                        },
+                        "elements": [
+                          {
+                            "id": "47ec16a2",
+                            "elType": "e-div-block",
+                            "title": "name field group",
+                            "tag": "div",
+                            "settings": {
+                              "classes": [
+                                "e-3b78b270-e490"
+                              ],
+                              "tag": "div"
+                            },
+                            "styles": {
+                              "__style_id": "e-3b78b270-e490",
+                              "css": "min-width: 0px; padding: 0px; display: flex; flex-direction: column; gap: 8px;"
+                            },
+                            "elements": [
+                              {
+                                "id": "26cc9028",
+                                "elType": "widget",
+                                "widgetType": "e-form-label",
+                                "title": "name label",
+                                "tag": "label",
+                                "settings": {
+                                  "tag": "label",
+                                  "classes": [
+                                    "e-5b504e1a-d2d6"
+                                  ],
+                                  "text": "Name *",
+                                  "input-id": "gcpro-request-name"
+                                },
+                                "styles": {
+                                  "__style_id": "e-5b504e1a-d2d6",
+                                  "css": "font-family: var(--font-body); font-weight: 600; font-size: 14px; color: var(--color-primary); line-height: 1.4;"
+                                }
+                              },
+                              {
+                                "id": "27db9f1",
+                                "elType": "widget",
+                                "widgetType": "e-form-input",
+                                "title": "name field",
+                                "tag": "input",
+                                "settings": {
+                                  "classes": [
+                                    "e-2aaf4e67-a5b9"
+                                  ],
+                                  "type": "text",
+                                  "required": true,
+                                  "autocomplete": true,
+                                  "_cssid": "gcpro-request-name"
+                                },
+                                "styles": {
+                                  "__style_id": "e-2aaf4e67-a5b9",
+                                  "css": "&:focus { border-color: var(--color-primary); } width: 100%; height: 48px; min-width: 0px; font-family: var(--font-body); font-size: 16px; color: var(--color-text); line-height: 1.5; padding: 12px; border-radius: 8px; border-width: 2px; border-color: var(--color-border); border-style: solid; background-color: var(--color-white);"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "7811ada",
+                            "elType": "e-div-block",
+                            "title": "phone field group",
+                            "tag": "div",
+                            "settings": {
+                              "classes": [
+                                "e-2dc51af3-bba1"
+                              ],
+                              "tag": "div"
+                            },
+                            "styles": {
+                              "__style_id": "e-2dc51af3-bba1",
+                              "css": "min-width: 0px; padding: 0px; display: flex; flex-direction: column; gap: 8px;"
+                            },
+                            "elements": [
+                              {
+                                "id": "1639990a",
+                                "elType": "widget",
+                                "widgetType": "e-form-label",
+                                "title": "phone label",
+                                "tag": "label",
+                                "settings": {
+                                  "tag": "label",
+                                  "classes": [
+                                    "e-3f913cff-e5e4"
+                                  ],
+                                  "text": "Phone *",
+                                  "input-id": "gcpro-request-phone"
+                                },
+                                "styles": {
+                                  "__style_id": "e-3f913cff-e5e4",
+                                  "css": "font-family: var(--font-body); font-weight: 600; font-size: 14px; color: var(--color-primary); line-height: 1.4;"
+                                }
+                              },
+                              {
+                                "id": "508750e3",
+                                "elType": "widget",
+                                "widgetType": "e-form-input",
+                                "title": "phone field",
+                                "tag": "input",
+                                "settings": {
+                                  "classes": [
+                                    "e-727430ed-4429"
+                                  ],
+                                  "type": "tel",
+                                  "required": true,
+                                  "autocomplete": true,
+                                  "_cssid": "gcpro-request-phone"
+                                },
+                                "styles": {
+                                  "__style_id": "e-727430ed-4429",
+                                  "css": "&:focus { border-color: var(--color-primary); } width: 100%; height: 48px; min-width: 0px; font-family: var(--font-body); font-size: 16px; color: var(--color-text); line-height: 1.5; padding: 12px; border-radius: 8px; border-width: 2px; border-color: var(--color-border); border-style: solid; background-color: var(--color-white);"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "791fabb",
+                            "elType": "e-div-block",
+                            "title": "location field group",
+                            "tag": "div",
+                            "settings": {
+                              "classes": [
+                                "e-30c13978-3c87"
+                              ],
+                              "tag": "div"
+                            },
+                            "styles": {
+                              "__style_id": "e-30c13978-3c87",
+                              "css": "min-width: 0px; padding: 0px; display: flex; flex-direction: column; gap: 8px;"
+                            },
+                            "elements": [
+                              {
+                                "id": "61671565",
+                                "elType": "widget",
+                                "widgetType": "e-form-label",
+                                "title": "location label",
+                                "tag": "label",
+                                "settings": {
+                                  "tag": "label",
+                                  "classes": [
+                                    "e-297e40cd-ad25"
+                                  ],
+                                  "text": "City or ZIP code *",
+                                  "input-id": "gcpro-request-location"
+                                },
+                                "styles": {
+                                  "__style_id": "e-297e40cd-ad25",
+                                  "css": "font-family: var(--font-body); font-weight: 600; font-size: 14px; color: var(--color-primary); line-height: 1.4;"
+                                }
+                              },
+                              {
+                                "id": "78ef4ac7",
+                                "elType": "widget",
+                                "widgetType": "e-form-input",
+                                "title": "location field",
+                                "tag": "input",
+                                "settings": {
+                                  "classes": [
+                                    "e-19177980-82bc"
+                                  ],
+                                  "type": "text",
+                                  "required": true,
+                                  "autocomplete": true,
+                                  "_cssid": "gcpro-request-location"
+                                },
+                                "styles": {
+                                  "__style_id": "e-19177980-82bc",
+                                  "css": "&:focus { border-color: var(--color-primary); } width: 100%; height: 48px; min-width: 0px; font-family: var(--font-body); font-size: 16px; color: var(--color-text); line-height: 1.5; padding: 12px; border-radius: 8px; border-width: 2px; border-color: var(--color-border); border-style: solid; background-color: var(--color-white);"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "7c831430",
+                            "elType": "e-div-block",
+                            "title": "service field group",
+                            "tag": "div",
+                            "settings": {
+                              "classes": [
+                                "e-4d8dc987-50d0"
+                              ],
+                              "tag": "div"
+                            },
+                            "styles": {
+                              "__style_id": "e-4d8dc987-50d0",
+                              "css": "min-width: 0px; padding: 0px; display: flex; flex-direction: column; gap: 8px;"
+                            },
+                            "elements": [
+                              {
+                                "id": "579ddfe3",
+                                "elType": "widget",
+                                "widgetType": "e-form-label",
+                                "title": "service label",
+                                "tag": "label",
+                                "settings": {
+                                  "tag": "label",
+                                  "classes": [
+                                    "e-209b4ddd-d2d1"
+                                  ],
+                                  "text": "Service needed (optional)",
+                                  "input-id": "gcpro-request-service"
+                                },
+                                "styles": {
+                                  "__style_id": "e-209b4ddd-d2d1",
+                                  "css": "font-family: var(--font-body); font-weight: 600; font-size: 14px; color: var(--color-primary); line-height: 1.4;"
+                                }
+                              },
+                              {
+                                "id": "5d6a64ef",
+                                "elType": "widget",
+                                "widgetType": "e-form-select",
+                                "title": "service field",
+                                "tag": "select",
+                                "settings": {
+                                  "classes": [
+                                    "e-36ac5f64-e2d0"
+                                  ],
+                                  "name": "Service needed",
+                                  "options": [
+                                    {
+                                      "key": "Not sure",
+                                      "value": "Not sure"
+                                    },
+                                    {
+                                      "key": "Water Damage",
+                                      "value": "Water Damage"
+                                    },
+                                    {
+                                      "key": "Fire and Smoke",
+                                      "value": "Fire and Smoke"
+                                    },
+                                    {
+                                      "key": "Mold Remediation",
+                                      "value": "Mold Remediation"
+                                    },
+                                    {
+                                      "key": "Reconstruction",
+                                      "value": "Reconstruction"
+                                    },
+                                    {
+                                      "key": "Storm Damage",
+                                      "value": "Storm Damage"
+                                    },
+                                    {
+                                      "key": "Contents Restoration",
+                                      "value": "Contents Restoration"
+                                    },
+                                    {
+                                      "key": "General Contracting",
+                                      "value": "General Contracting"
+                                    },
+                                    {
+                                      "key": "Other",
+                                      "value": "Other"
+                                    }
+                                  ],
+                                  "required": false,
+                                  "multiple": false,
+                                  "has-default-value": true,
+                                  "value": "Not sure",
+                                  "_cssid": "gcpro-request-service"
+                                },
+                                "styles": {
+                                  "__style_id": "e-36ac5f64-e2d0",
+                                  "css": "&:focus { border-color: var(--color-primary); } width: 100%; height: 48px; min-width: 0px; font-family: var(--font-body); font-size: 16px; color: var(--color-text); line-height: 1.5; padding: 12px; border-radius: 8px; border-width: 2px; border-color: var(--color-border); border-style: solid; background-color: var(--color-white);"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "6b287780",
+                            "elType": "e-div-block",
+                            "title": "email field group",
+                            "tag": "div",
+                            "settings": {
+                              "classes": [
+                                "e-2a5fdcc4-ea85"
+                              ],
+                              "tag": "div"
+                            },
+                            "styles": {
+                              "__style_id": "e-2a5fdcc4-ea85",
+                              "css": "min-width: 0px; padding: 0px; display: flex; flex-direction: column; gap: 8px; grid-column: 1 / -1;"
+                            },
+                            "elements": [
+                              {
+                                "id": "157d475d",
+                                "elType": "widget",
+                                "widgetType": "e-form-label",
+                                "title": "email label",
+                                "tag": "label",
+                                "settings": {
+                                  "tag": "label",
+                                  "classes": [
+                                    "e-4c486e73-ec1f"
+                                  ],
+                                  "text": "Email (optional)",
+                                  "input-id": "gcpro-request-email"
+                                },
+                                "styles": {
+                                  "__style_id": "e-4c486e73-ec1f",
+                                  "css": "font-family: var(--font-body); font-weight: 600; font-size: 14px; color: var(--color-primary); line-height: 1.4;"
+                                }
+                              },
+                              {
+                                "id": "71db9db7",
+                                "elType": "widget",
+                                "widgetType": "e-form-input",
+                                "title": "email field",
+                                "tag": "input",
+                                "settings": {
+                                  "classes": [
+                                    "e-2530fa6-13a5"
+                                  ],
+                                  "type": "email",
+                                  "required": false,
+                                  "autocomplete": true,
+                                  "_cssid": "gcpro-request-email"
+                                },
+                                "styles": {
+                                  "__style_id": "e-2530fa6-13a5",
+                                  "css": "&:focus { border-color: var(--color-primary); } width: 100%; height: 48px; min-width: 0px; font-family: var(--font-body); font-size: 16px; color: var(--color-text); line-height: 1.5; padding: 12px; border-radius: 8px; border-width: 2px; border-color: var(--color-border); border-style: solid; background-color: var(--color-white);"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "738dcf4d",
+                            "elType": "e-div-block",
+                            "title": "description field group",
+                            "tag": "div",
+                            "settings": {
+                              "classes": [
+                                "e-86f3354-7425"
+                              ],
+                              "tag": "div"
+                            },
+                            "styles": {
+                              "__style_id": "e-86f3354-7425",
+                              "css": "min-width: 0px; padding: 0px; display: flex; flex-direction: column; gap: 8px; grid-column: 1 / -1;"
+                            },
+                            "elements": [
+                              {
+                                "id": "427b5b58",
+                                "elType": "widget",
+                                "widgetType": "e-form-label",
+                                "title": "description label",
+                                "tag": "label",
+                                "settings": {
+                                  "tag": "label",
+                                  "classes": [
+                                    "e-3ebc548b-fbaf"
+                                  ],
+                                  "text": "Brief description (optional)",
+                                  "input-id": "gcpro-request-description"
+                                },
+                                "styles": {
+                                  "__style_id": "e-3ebc548b-fbaf",
+                                  "css": "font-family: var(--font-body); font-weight: 600; font-size: 14px; color: var(--color-primary); line-height: 1.4;"
+                                }
+                              },
+                              {
+                                "id": "7bb1663a",
+                                "elType": "widget",
+                                "widgetType": "e-form-textarea",
+                                "title": "description field",
+                                "tag": "textarea",
+                                "settings": {
+                                  "classes": [
+                                    "e-3e09187b-6123"
+                                  ],
+                                  "rows": 3,
+                                  "required": false,
+                                  "resizable": true,
+                                  "_cssid": "gcpro-request-description"
+                                },
+                                "styles": {
+                                  "__style_id": "e-3e09187b-6123",
+                                  "css": "&:focus { border-color: var(--color-primary); } width: 100%; min-width: 0px; min-height: 100px; font-family: var(--font-body); font-size: 16px; color: var(--color-text); line-height: 1.5; padding: 12px; border-radius: 8px; border-width: 2px; border-color: var(--color-border); border-style: solid; background-color: var(--color-white);"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "5631f754",
+                            "elType": "e-div-block",
+                            "title": "Optional SMS consent",
+                            "tag": "div",
+                            "settings": {
+                              "classes": [
+                                "e-3f0f66cf-ab1b"
+                              ],
+                              "tag": "div"
+                            },
+                            "styles": {
+                              "__style_id": "e-3f0f66cf-ab1b",
+                              "css": "min-width: 0px; padding: 0px; display: grid; gap: 10px; grid-template-columns: 24px minmax(0, 1fr); grid-column: 1 / -1; align-items: start;"
+                            },
+                            "elements": [
+                              {
+                                "id": "5a91aa75",
+                                "elType": "widget",
+                                "widgetType": "e-form-checkbox",
+                                "title": "SMS consent choice",
+                                "tag": "input",
+                                "settings": {
+                                  "classes": [
+                                    "e-5ca06619-1eb8"
+                                  ],
+                                  "name": "smsConsent",
+                                  "value": "yes",
+                                  "required": false,
+                                  "has-default-value": true,
+                                  "checked": false,
+                                  "_cssid": "gcpro-sms-492"
+                                },
+                                "styles": {
+                                  "__style_id": "e-5ca06619-1eb8",
+                                  "css": "&:focus { border-color: var(--color-primary); } width: 22px; height: 22px; min-width: 22px; color: var(--color-primary);"
+                                }
+                              },
+                              {
+                                "id": "1407c4c4",
+                                "elType": "widget",
+                                "widgetType": "e-form-label",
+                                "title": "Existing SMS disclosure",
+                                "tag": "label",
+                                "settings": {
+                                  "tag": "label",
+                                  "classes": [
+                                    "e-77b2251e-c439"
+                                  ],
+                                  "text": "By selecting this box, you agree to receive SMS messages from GCPRO. Message and data rates may apply. You can opt-out at any time by replying STOP. (Our Privacy Policy)",
+                                  "input-id": "gcpro-sms-492"
+                                },
+                                "styles": {
+                                  "__style_id": "e-77b2251e-c439",
+                                  "css": "min-height: 44px; font-family: var(--font-body); font-size: 14px; color: var(--color-text); line-height: 1.5;"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "1b484549",
+                            "elType": "widget",
+                            "widgetType": "e-form-submit-button",
+                            "title": "Send enquiry",
+                            "tag": "button",
+                            "settings": {
+                              "classes": [
+                                "g-e47e377",
+                                "e-3c8bcbeb-fa34"
+                              ],
+                              "text": "Send Service Request",
+                              "tag": "button"
+                            },
+                            "styles": {
+                              "__style_id": "e-3c8bcbeb-fa34",
+                              "css": "&:focus { color: var(--color-white); background-color: var(--color-primary-hover); } width: 100%; min-height: 50px; font-family: var(--font-body); font-weight: 600; font-size: 16px; border-radius: 8px; display: flex; grid-column: 1 / -1;\n@media(--tablet) { display: flex; }\n@media(--mobile) { display: flex; }"
+                            }
+                          },
+                          {
+                            "id": "38c33a69",
+                            "elType": "e-form-success-message",
+                            "title": "Saved confirmation",
+                            "tag": "div",
+                            "settings": {
+                              "classes": [
+                                "e-4f8ceace-ddfe"
+                              ]
+                            },
+                            "styles": {
+                              "__style_id": "e-4f8ceace-ddfe",
+                              "css": "font-size: 16px; line-height: 1.5; text-align: start; border-radius: 8px; grid-column: 1 / -1;"
+                            },
+                            "elements": [
+                              {
+                                "id": "c56e728",
+                                "elType": "widget",
+                                "widgetType": "e-paragraph",
+                                "title": "Success text",
+                                "tag": "p",
+                                "settings": {
+                                  "classes": [
+                                    "e-7add4028-f84c"
+                                  ],
+                                  "paragraph": "Your enquiry has been saved on this staging site. Email notifications are not connected yet. For assistance, call 847-656-3322.",
+                                  "tag": "p"
+                                },
+                                "styles": {
+                                  "__style_id": "e-7add4028-f84c",
+                                  "css": "line-height: 1.6; margin: 0px;"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "28fa34e",
+                            "elType": "e-form-error-message",
+                            "title": "Submission error",
+                            "tag": "div",
+                            "settings": {
+                              "classes": [
+                                "e-6a83ba5c-54ff"
+                              ]
+                            },
+                            "styles": {
+                              "__style_id": "e-6a83ba5c-54ff",
+                              "css": "font-size: 16px; line-height: 1.5; text-align: start; border-radius: 8px; grid-column: 1 / -1;"
+                            },
+                            "elements": [
+                              {
+                                "id": "467508a6",
+                                "elType": "widget",
+                                "widgetType": "e-paragraph",
+                                "title": "Error text",
+                                "tag": "p",
+                                "settings": {
+                                  "classes": [
+                                    "e-55dd0797-59a9"
+                                  ],
+                                  "paragraph": "Your enquiry could not be saved. Please try again or call 847-656-3322.",
+                                  "tag": "p"
+                                },
+                                "styles": {
+                                  "__style_id": "e-55dd0797-59a9",
+                                  "css": "line-height: 1.6; margin: 0px;"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "6592aad8",
+                        "elType": "widget",
+                        "widgetType": "e-paragraph",
+                        "title": "Staging routing notice",
+                        "tag": "p",
+                        "settings": {
+                          "classes": [
+                            "e-536d367f-9031"
+                          ],
+                          "paragraph": "Staging preview: email notifications are not connected. Please call for assistance.",
+                          "tag": "p"
+                        },
+                        "styles": {
+                          "__style_id": "e-536d367f-9031",
+                          "css": "font-size: 14px; color: var(--color-text-muted); line-height: 1.6; margin: 0px;"
+                        }
+                      },
+                      {
+                        "id": "2b0747de",
+                        "elType": "widget",
+                        "widgetType": "e-button",
+                        "title": "Privacy Policy",
+                        "tag": "a",
+                        "settings": {
+                          "classes": [
+                            "e-7ca0ab6c-9847"
+                          ],
+                          "text": "Privacy Policy",
+                          "link": {
+                            "destination": "https://gcprochicago.com/privacy-policy/",
+                            "isTargetBlank": null,
+                            "tag": "a"
+                          },
+                          "tag": "a"
+                        },
+                        "styles": {
+                          "__style_id": "e-7ca0ab6c-9847",
+                          "css": "&:focus { color: var(--color-white); background-color: var(--color-primary-hover); } min-height: 44px; font-weight: 600; font-size: 16px; color: var(--color-primary); text-align: start; text-decoration: underline; padding-block-start: 8px; padding-block-end: 8px; padding-inline-start: 0px; padding-inline-end: 0px; background-color: transparent;"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "496": [
+      {
+        "id": "91d99b3",
+        "elType": "e-div-block",
+        "title": "Contact page",
+        "tag": "section",
+        "settings": {
+          "classes": [
+            "e-ea4786d-cea3"
+          ],
+          "tag": "section"
+        },
+        "styles": {
+          "__style_id": "e-ea4786d-cea3",
+          "css": "min-width: 0px; font-family: var(--font-body); font-size: var(--font-size-body); color: var(--color-text); padding-block-start: var(--space-2xl); padding-block-end: var(--space-2xl); padding-inline-start: var(--page-gutter); padding-inline-end: var(--page-gutter); background-color: var(--color-surface-alternate);\n@media(--mobile) { padding-block-start: var(--space-xl); padding-block-end: var(--space-xl); padding-inline-start: var(--page-gutter-mobile); padding-inline-end: var(--page-gutter-mobile); }"
+        },
+        "elements": [
+          {
+            "id": "3a28134",
+            "elType": "e-div-block",
+            "title": "Page content",
+            "tag": "div",
+            "settings": {
+              "classes": [
+                "g-68fb534",
+                "g-0152925",
+                "e-7e61f906-6d8c"
+              ],
+              "tag": "div"
+            },
+            "styles": {
+              "__style_id": "e-7e61f906-6d8c",
+              "css": "min-width: 0px; max-width: var(--container-max); padding: 0px; margin-inline-start: auto; margin-inline-end: auto; display: flex; flex-direction: column; gap: var(--space-lg);\n@media(--tablet) { padding: 0px; }\n@media(--mobile) { padding: 0px; }"
+            },
+            "elements": [
+              {
+                "id": "7f2a2425",
+                "elType": "e-div-block",
+                "title": "Contact and form layout",
+                "tag": "div",
+                "settings": {
+                  "classes": [
+                    "e-53e3792d-53d7"
+                  ],
+                  "tag": "div"
+                },
+                "styles": {
+                  "__style_id": "e-53e3792d-53d7",
+                  "css": "min-width: 0px; padding: 0px; border-radius: 0px; border-width: 0px; background-color: transparent; display: grid; gap: var(--space-xl); grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr); align-items: start;\n@media(--tablet) { gap: var(--space-lg); grid-template-columns: minmax(0, 1fr); }\n@media(--mobile) { padding: 0px; gap: var(--space-lg); }"
+                },
+                "elements": [
+                  {
+                    "id": "60ce4cbd",
+                    "elType": "e-div-block",
+                    "title": "Useful contact information",
+                    "tag": "div",
+                    "settings": {
+                      "classes": [
+                        "e-19323861-4c7e"
+                      ],
+                      "tag": "div"
+                    },
+                    "styles": {
+                      "__style_id": "e-19323861-4c7e",
+                      "css": "min-width: 0px; padding-block-start: var(--space-lg); padding-block-end: 0px; padding-inline-start: 0px; padding-inline-end: 0px; display: flex; flex-direction: column; gap: var(--space-lg); align-items: flex-start;\n@media(--tablet) { padding: 0px; }\n@media(--mobile) { padding: 0px; gap: var(--space-md); }"
+                    },
+                    "elements": [
+                      {
+                        "id": "1fcb0167",
+                        "elType": "e-div-block",
+                        "title": "Support heading accent",
+                        "tag": "div",
+                        "settings": {
+                          "classes": [
+                            "g-a537304",
+                            "e-6f9e4525-87df"
+                          ]
+                        },
+                        "styles": {
+                          "__style_id": "e-6f9e4525-87df",
+                          "css": "min-width: 0px; padding: 0px;"
+                        },
+                        "elements": [
+                          {
+                            "id": "31713c20",
+                            "elType": "widget",
+                            "widgetType": "e-component",
+                            "title": "Support shared heading",
+                            "tag": "div",
+                            "settings": {
+                              "component_instance": {
+                                "component_id": 71,
+                                "overrides": [
+                                  {
+                                    "override_key": "title",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Contact our office"
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 71
+                                    }
+                                  },
+                                  {
+                                    "override_key": "description",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "For general questions and business inquiries."
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 71
+                                    }
+                                  },
+                                  {
+                                    "override_key": "heading_tag",
+                                    "override_value": {
+                                      "$$type": "string",
+                                      "value": "h2"
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 71
+                                    }
+                                  },
+                                  {
+                                    "override_key": "eyebrow",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": ""
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 71
+                                    }
+                                  }
+                                ]
+                              }
+                            },
+                            "styles": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "31225472",
+                        "elType": "e-div-block",
+                        "title": "Call us group",
+                        "tag": "div",
+                        "settings": {
+                          "classes": [
+                            "e-1e7ff910-864a"
+                          ],
+                          "tag": "div"
+                        },
+                        "styles": {
+                          "__style_id": "e-1e7ff910-864a",
+                          "css": "min-width: 0px; padding: 0px; display: grid; gap: var(--space-sm); grid-template-columns: 20px minmax(0, 1fr); align-items: start;"
+                        },
+                        "elements": [
+                          {
+                            "id": "5b94f87",
+                            "elType": "widget",
+                            "widgetType": "e-svg",
+                            "title": "Contact Phone Icon",
+                            "tag": "div",
+                            "settings": {
+                              "classes": [
+                                "g-c2210fa"
+                              ],
+                              "svg": {
+                                "id": 935,
+                                "url": null
+                              }
+                            },
+                            "styles": []
+                          },
+                          {
+                            "id": "bfb14c7",
+                            "elType": "e-div-block",
+                            "title": "Phone row details",
+                            "tag": "div",
+                            "settings": {
+                              "classes": [
+                                "e-43c9af5f-5808"
+                              ],
+                              "tag": "div"
+                            },
+                            "styles": {
+                              "__style_id": "e-43c9af5f-5808",
+                              "css": "min-width: 0px; padding: 0px; display: flex; flex-direction: column; gap: 0px;"
+                            },
+                            "elements": [
+                              {
+                                "id": "29ddd697",
+                                "elType": "widget",
+                                "widgetType": "e-heading",
+                                "title": "Phone label",
+                                "tag": "h3",
+                                "settings": {
+                                  "classes": [
+                                    "e-1666c09e-9b78"
+                                  ],
+                                  "tag": "h3",
+                                  "title": "Phone"
+                                },
+                                "styles": {
+                                  "__style_id": "e-1666c09e-9b78",
+                                  "css": "font-family: var(--font-heading); font-weight: 700; font-size: 18px; color: var(--color-primary); line-height: 1.3; margin: 0px;"
+                                }
+                              },
+                              {
+                                "id": "14b4f8ab",
+                                "elType": "widget",
+                                "widgetType": "e-button",
+                                "title": "Office phone link",
+                                "tag": "a",
+                                "settings": {
+                                  "classes": [
+                                    "e-39763b7c-b1be"
+                                  ],
+                                  "text": "847-656-3322",
+                                  "link": {
+                                    "destination": "tel:+18476563322",
+                                    "isTargetBlank": null,
+                                    "tag": "a"
+                                  },
+                                  "tag": "a"
+                                },
+                                "styles": {
+                                  "__style_id": "e-39763b7c-b1be",
+                                  "css": "&:hover { text-decoration: underline; } min-height: 44px; font-weight: 600; font-size: 16px; color: var(--color-primary); text-align: start; text-decoration: none; padding: 0px; background-color: transparent; display: inline-flex; align-items: center;"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "31317dd8",
+                        "elType": "e-div-block",
+                        "title": "Email us group",
+                        "tag": "div",
+                        "settings": {
+                          "classes": [
+                            "e-af9c493-80cc"
+                          ],
+                          "tag": "div"
+                        },
+                        "styles": {
+                          "__style_id": "e-af9c493-80cc",
+                          "css": "min-width: 0px; padding: 0px; display: grid; gap: var(--space-sm); grid-template-columns: 20px minmax(0, 1fr); align-items: start;"
+                        },
+                        "elements": [
+                          {
+                            "id": "68434e29",
+                            "elType": "widget",
+                            "widgetType": "e-svg",
+                            "title": "Contact Email Icon",
+                            "tag": "div",
+                            "settings": {
+                              "classes": [
+                                "g-c2210fa"
+                              ],
+                              "svg": {
+                                "id": 936,
+                                "url": null
+                              }
+                            },
+                            "styles": []
+                          },
+                          {
+                            "id": "6c276c37",
+                            "elType": "e-div-block",
+                            "title": "Email us heading row",
+                            "tag": "div",
+                            "settings": {
+                              "classes": [
+                                "e-d6cbe93-becd"
+                              ],
+                              "tag": "div"
+                            },
+                            "styles": {
+                              "__style_id": "e-d6cbe93-becd",
+                              "css": "min-width: 0px; padding: 0px; display: flex; flex-direction: column; gap: 0px; align-items: flex-start;"
+                            },
+                            "elements": [
+                              {
+                                "id": "77f2e59a",
+                                "elType": "widget",
+                                "widgetType": "e-heading",
+                                "title": "Email us heading",
+                                "tag": "h3",
+                                "settings": {
+                                  "classes": [
+                                    "e-61dfd308-7f58"
+                                  ],
+                                  "tag": "h3",
+                                  "title": "Email"
+                                },
+                                "styles": {
+                                  "__style_id": "e-61dfd308-7f58",
+                                  "css": "font-family: var(--font-heading); font-weight: 700; font-size: 18px; color: var(--color-primary); line-height: 1.3; text-transform: none; margin: 0px;"
+                                }
+                              },
+                              {
+                                "id": "716a750b",
+                                "elType": "widget",
+                                "widgetType": "e-button",
+                                "title": "Email our office",
+                                "tag": "a",
+                                "settings": {
+                                  "classes": [
+                                    "e-34ae661b-2aa5"
+                                  ],
+                                  "text": "restore@gcprochicago.com",
+                                  "link": {
+                                    "destination": "mailto:restore@gcprochicago.com",
+                                    "isTargetBlank": null,
+                                    "tag": "a"
+                                  },
+                                  "tag": "a"
+                                },
+                                "styles": {
+                                  "__style_id": "e-34ae661b-2aa5",
+                                  "css": "&:hover { text-decoration: underline; } min-height: 44px; font-weight: 600; font-size: 16px; color: var(--color-primary); text-align: start; text-decoration: none; padding: 0px; background-color: transparent; display: inline-flex; align-items: center;"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "78582bb4",
+                        "elType": "e-div-block",
+                        "title": "Contact office details",
+                        "tag": "div",
+                        "settings": {
+                          "classes": [
+                            "e-7d41ff6a-87be"
+                          ],
+                          "tag": "div"
+                        },
+                        "styles": {
+                          "__style_id": "e-7d41ff6a-87be",
+                          "css": "width: 100%; min-width: 0px; padding: 0px; display: flex; flex-direction: column; gap: var(--space-sm); align-items: flex-start;"
+                        },
+                        "elements": [
+                          {
+                            "id": "13cc44a7",
+                            "elType": "e-div-block",
+                            "title": "Lombard office heading row",
+                            "tag": "div",
+                            "settings": {
+                              "classes": [
+                                "e-1019763-80b2"
+                              ],
+                              "tag": "div"
+                            },
+                            "styles": {
+                              "__style_id": "e-1019763-80b2",
+                              "css": "min-width: 0px; padding: 0px; display: grid; gap: var(--space-sm); grid-template-columns: 20px minmax(0, 1fr); align-items: start;"
+                            },
+                            "elements": [
+                              {
+                                "id": "68460f08",
+                                "elType": "widget",
+                                "widgetType": "e-svg",
+                                "title": "Contact Location Icon",
+                                "tag": "div",
+                                "settings": {
+                                  "classes": [
+                                    "g-c2210fa"
+                                  ],
+                                  "svg": {
+                                    "id": 937,
+                                    "url": null
+                                  }
+                                },
+                                "styles": []
+                              },
+                              {
+                                "id": "54821ed3",
+                                "elType": "widget",
+                                "widgetType": "e-heading",
+                                "title": "Office heading",
+                                "tag": "h3",
+                                "settings": {
+                                  "classes": [
+                                    "e-34ce2b8b-dd6f"
+                                  ],
+                                  "tag": "h3",
+                                  "title": "Lombard office"
+                                },
+                                "styles": {
+                                  "__style_id": "e-34ce2b8b-dd6f",
+                                  "css": "font-family: var(--font-heading); font-weight: 700; font-size: 18px; color: var(--color-primary); line-height: 1.25; text-transform: none; margin: 0px;"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ea7f98f",
+                            "elType": "widget",
+                            "widgetType": "e-paragraph",
+                            "title": "Office address",
+                            "tag": "p",
+                            "settings": {
+                              "classes": [
+                                "e-1cc8a7fb-5aea"
+                              ],
+                              "paragraph": "220 Eisenhower Lane North<br>Lombard, IL 60148",
+                              "tag": "p"
+                            },
+                            "styles": {
+                              "__style_id": "e-1cc8a7fb-5aea",
+                              "css": "line-height: 1.6; padding-block-start: 0px; padding-block-end: 0px; padding-inline-start: 36px; padding-inline-end: 0px; margin: 0px;"
+                            }
+                          },
+                          {
+                            "id": "34df5dbe",
+                            "elType": "widget",
+                            "widgetType": "e-component",
+                            "title": "Office directions outline",
+                            "tag": "div",
+                            "settings": {
+                              "component_instance": {
+                                "component_id": 59,
+                                "overrides": [
+                                  {
+                                    "override_key": "text",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Get Directions"
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 59
+                                    }
+                                  },
+                                  {
+                                    "override_key": "link",
+                                    "override_value": {
+                                      "$$type": "link",
+                                      "value": {
+                                        "destination": {
+                                          "$$type": "url",
+                                          "value": "https://www.google.com/maps/dir/?api=1&destination=220%20Eisenhower%20Lane%20North%2C%20Lombard%2C%20IL%2060148"
+                                        },
+                                        "tag": {
+                                          "$$type": "string",
+                                          "value": "a"
+                                        }
+                                      }
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 59
+                                    }
+                                  }
+                                ]
+                              }
+                            },
+                            "styles": {
+                              "__style_id": "e-c5004b5-46f4",
+                              "css": "width: auto; display: flex;\n@media(--tablet) { display: flex; }\n@media(--mobile) { display: flex; }"
+                            }
+                          },
+                          {
+                            "id": "369bda8",
+                            "elType": "widget",
+                            "widgetType": "google_maps",
+                            "title": "Google Maps",
+                            "settings": {},
+                            "styles": {}
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "664644b",
+                    "elType": "e-div-block",
+                    "title": "Enquiry form panel",
+                    "tag": "div",
+                    "settings": {
+                      "classes": [
+                        "e-7ca62fcc-520e"
+                      ],
+                      "tag": "div"
+                    },
+                    "styles": {
+                      "__style_id": "e-7ca62fcc-520e",
+                      "css": "min-width: 0px; padding: var(--space-lg); border-radius: var(--space-xs); border-width: 1px; border-color: var(--color-border); border-style: solid; background-color: var(--color-white); display: flex; flex-direction: column; gap: var(--space-sm);\n@media(--tablet) { padding: var(--space-lg); border-width: 1px; border-color: var(--color-border); border-style: solid; }\n@media(--mobile) { padding: var(--space-md); border-width: 1px; border-color: var(--color-border); border-style: solid; }"
+                    },
+                    "elements": [
+                      {
+                        "id": "3afb64bc",
+                        "elType": "e-div-block",
+                        "title": "Form heading accent",
+                        "tag": "div",
+                        "settings": {
+                          "classes": [
+                            "g-a537304",
+                            "e-7291a60a-cb47"
+                          ]
+                        },
+                        "styles": {
+                          "__style_id": "e-7291a60a-cb47",
+                          "css": "min-width: 0px; padding: 0px;"
+                        },
+                        "elements": [
+                          {
+                            "id": "776fcae4",
+                            "elType": "widget",
+                            "widgetType": "e-component",
+                            "title": "Form shared heading",
+                            "tag": "div",
+                            "settings": {
+                              "component_instance": {
+                                "component_id": 71,
+                                "overrides": [
+                                  {
+                                    "override_key": "title",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Send a message"
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 71
+                                    }
+                                  },
+                                  {
+                                    "override_key": "description",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": "Fields marked * are required."
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 71
+                                    }
+                                  },
+                                  {
+                                    "override_key": "heading_tag",
+                                    "override_value": {
+                                      "$$type": "string",
+                                      "value": "h2"
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 71
+                                    }
+                                  },
+                                  {
+                                    "override_key": "eyebrow",
+                                    "override_value": {
+                                      "$$type": "escaped-html",
+                                      "value": ""
+                                    },
+                                    "schema_source": {
+                                      "type": "component",
+                                      "id": 71
+                                    }
+                                  }
+                                ]
+                              }
+                            },
+                            "styles": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "22adac6",
+                        "elType": "e-form",
+                        "title": "General contact form",
+                        "tag": "form",
+                        "settings": {
+                          "classes": [
+                            "e-7571f403-3f5d"
+                          ],
+                          "form-name": "GCPRO | Contact Us",
+                          "webmcp-autosubmit": false,
+                          "form-state": "default",
+                          "actions-after-submit": [
+                            "collect-submissions"
+                          ]
+                        },
+                        "styles": {
+                          "__style_id": "e-7571f403-3f5d",
+                          "css": "padding: 0px; display: grid; gap: 16px; grid-template-columns: repeat(2, minmax(0, 1fr)); align-items: start;\n@media(--mobile) { grid-template-columns: minmax(0, 1fr); }"
+                        },
+                        "elements": [
+                          {
+                            "id": "4d2adb1",
+                            "elType": "e-div-block",
+                            "title": "name field group",
+                            "tag": "div",
+                            "settings": {
+                              "classes": [
+                                "e-3008f1ea-be5a"
+                              ],
+                              "tag": "div"
+                            },
+                            "styles": {
+                              "__style_id": "e-3008f1ea-be5a",
+                              "css": "min-width: 0px; padding: 0px; display: flex; flex-direction: column; gap: 8px;"
+                            },
+                            "elements": [
+                              {
+                                "id": "1bbfaaa3",
+                                "elType": "widget",
+                                "widgetType": "e-form-label",
+                                "title": "name label",
+                                "tag": "label",
+                                "settings": {
+                                  "tag": "label",
+                                  "classes": [
+                                    "e-79338f48-b401"
+                                  ],
+                                  "text": "Name *",
+                                  "input-id": "gcpro-contact-name"
+                                },
+                                "styles": {
+                                  "__style_id": "e-79338f48-b401",
+                                  "css": "font-family: var(--font-body); font-weight: 600; font-size: 14px; color: var(--color-primary); line-height: 1.4;"
+                                }
+                              },
+                              {
+                                "id": "1146a030",
+                                "elType": "widget",
+                                "widgetType": "e-form-input",
+                                "title": "name field",
+                                "tag": "input",
+                                "settings": {
+                                  "classes": [
+                                    "e-53463e2-10d4"
+                                  ],
+                                  "type": "text",
+                                  "required": true,
+                                  "autocomplete": true,
+                                  "_cssid": "gcpro-contact-name"
+                                },
+                                "styles": {
+                                  "__style_id": "e-53463e2-10d4",
+                                  "css": "&:focus { border-color: var(--color-primary); } width: 100%; height: 50px; min-width: 0px; font-family: var(--font-body); font-size: 16px; color: var(--color-text); line-height: 1.5; padding: 12px; border-radius: 8px; border-width: 2px; border-color: var(--color-border); border-style: solid; background-color: var(--color-white);"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "2d3a258a",
+                            "elType": "e-div-block",
+                            "title": "email field group",
+                            "tag": "div",
+                            "settings": {
+                              "classes": [
+                                "e-3a96c12f-4107"
+                              ],
+                              "tag": "div"
+                            },
+                            "styles": {
+                              "__style_id": "e-3a96c12f-4107",
+                              "css": "min-width: 0px; padding: 0px; display: flex; flex-direction: column; gap: 8px;"
+                            },
+                            "elements": [
+                              {
+                                "id": "6f452567",
+                                "elType": "widget",
+                                "widgetType": "e-form-label",
+                                "title": "email label",
+                                "tag": "label",
+                                "settings": {
+                                  "tag": "label",
+                                  "classes": [
+                                    "e-669e7c66-cd70"
+                                  ],
+                                  "text": "Email *",
+                                  "input-id": "gcpro-contact-email"
+                                },
+                                "styles": {
+                                  "__style_id": "e-669e7c66-cd70",
+                                  "css": "font-family: var(--font-body); font-weight: 600; font-size: 14px; color: var(--color-primary); line-height: 1.4;"
+                                }
+                              },
+                              {
+                                "id": "33a5b050",
+                                "elType": "widget",
+                                "widgetType": "e-form-input",
+                                "title": "email field",
+                                "tag": "input",
+                                "settings": {
+                                  "classes": [
+                                    "e-c4dd55c-93c0"
+                                  ],
+                                  "type": "email",
+                                  "required": true,
+                                  "autocomplete": true,
+                                  "_cssid": "gcpro-contact-email"
+                                },
+                                "styles": {
+                                  "__style_id": "e-c4dd55c-93c0",
+                                  "css": "&:focus { border-color: var(--color-primary); } width: 100%; height: 50px; min-width: 0px; font-family: var(--font-body); font-size: 16px; color: var(--color-text); line-height: 1.5; padding: 12px; border-radius: 8px; border-width: 2px; border-color: var(--color-border); border-style: solid; background-color: var(--color-white);"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "214ac8fc",
+                            "elType": "e-div-block",
+                            "title": "phone field group",
+                            "tag": "div",
+                            "settings": {
+                              "classes": [
+                                "e-505fc6a8-64cb"
+                              ],
+                              "tag": "div"
+                            },
+                            "styles": {
+                              "__style_id": "e-505fc6a8-64cb",
+                              "css": "min-width: 0px; padding: 0px; display: flex; flex-direction: column; gap: 8px; grid-column: 1 / -1;"
+                            },
+                            "elements": [
+                              {
+                                "id": "a340d8",
+                                "elType": "widget",
+                                "widgetType": "e-form-label",
+                                "title": "phone label",
+                                "tag": "label",
+                                "settings": {
+                                  "tag": "label",
+                                  "classes": [
+                                    "e-7212e74f-573c"
+                                  ],
+                                  "text": "Phone (optional)",
+                                  "input-id": "gcpro-contact-phone"
+                                },
+                                "styles": {
+                                  "__style_id": "e-7212e74f-573c",
+                                  "css": "font-family: var(--font-body); font-weight: 600; font-size: 14px; color: var(--color-primary); line-height: 1.4;"
+                                }
+                              },
+                              {
+                                "id": "75068452",
+                                "elType": "widget",
+                                "widgetType": "e-form-input",
+                                "title": "phone field",
+                                "tag": "input",
+                                "settings": {
+                                  "classes": [
+                                    "e-611f81d8-47e4"
+                                  ],
+                                  "type": "tel",
+                                  "required": false,
+                                  "autocomplete": true,
+                                  "_cssid": "gcpro-contact-phone"
+                                },
+                                "styles": {
+                                  "__style_id": "e-611f81d8-47e4",
+                                  "css": "&:focus { border-color: var(--color-primary); } width: 100%; height: 50px; min-width: 0px; font-family: var(--font-body); font-size: 16px; color: var(--color-text); line-height: 1.5; padding: 12px; border-radius: 8px; border-width: 2px; border-color: var(--color-border); border-style: solid; background-color: var(--color-white);"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "5edbe4d1",
+                            "elType": "e-div-block",
+                            "title": "message field group",
+                            "tag": "div",
+                            "settings": {
+                              "classes": [
+                                "e-1ba2317c-a754"
+                              ],
+                              "tag": "div"
+                            },
+                            "styles": {
+                              "__style_id": "e-1ba2317c-a754",
+                              "css": "min-width: 0px; padding: 0px; display: flex; flex-direction: column; gap: 8px; grid-column: 1 / -1;"
+                            },
+                            "elements": [
+                              {
+                                "id": "1037cdfe",
+                                "elType": "widget",
+                                "widgetType": "e-form-label",
+                                "title": "message label",
+                                "tag": "label",
+                                "settings": {
+                                  "tag": "label",
+                                  "classes": [
+                                    "e-75038e2-9a5b"
+                                  ],
+                                  "text": "Message *",
+                                  "input-id": "gcpro-contact-message"
+                                },
+                                "styles": {
+                                  "__style_id": "e-75038e2-9a5b",
+                                  "css": "font-family: var(--font-body); font-weight: 600; font-size: 14px; color: var(--color-primary); line-height: 1.4;"
+                                }
+                              },
+                              {
+                                "id": "609943df",
+                                "elType": "widget",
+                                "widgetType": "e-form-textarea",
+                                "title": "message field",
+                                "tag": "textarea",
+                                "settings": {
+                                  "classes": [
+                                    "e-50c48ba6-a28c"
+                                  ],
+                                  "rows": 4,
+                                  "required": true,
+                                  "resizable": true,
+                                  "_cssid": "gcpro-contact-message"
+                                },
+                                "styles": {
+                                  "__style_id": "e-50c48ba6-a28c",
+                                  "css": "&:focus { border-color: var(--color-primary); } width: 100%; min-width: 0px; min-height: 112px; font-family: var(--font-body); font-size: 16px; color: var(--color-text); line-height: 1.5; padding: 12px; border-radius: 8px; border-width: 2px; border-color: var(--color-border); border-style: solid; background-color: var(--color-white);"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "34bc9ba5",
+                            "elType": "e-div-block",
+                            "title": "Optional SMS consent",
+                            "tag": "div",
+                            "settings": {
+                              "classes": [
+                                "e-3c6ea432-8aca"
+                              ],
+                              "tag": "div"
+                            },
+                            "styles": {
+                              "__style_id": "e-3c6ea432-8aca",
+                              "css": "min-width: 0px; padding: 0px; display: grid; gap: 10px; grid-template-columns: 24px minmax(0, 1fr); grid-column: 1 / -1; align-items: start;"
+                            },
+                            "elements": [
+                              {
+                                "id": "6d6768f0",
+                                "elType": "widget",
+                                "widgetType": "e-form-checkbox",
+                                "title": "SMS consent choice",
+                                "tag": "input",
+                                "settings": {
+                                  "classes": [
+                                    "e-5150addc-b736"
+                                  ],
+                                  "name": "smsConsent",
+                                  "value": "yes",
+                                  "required": false,
+                                  "has-default-value": true,
+                                  "checked": false,
+                                  "_cssid": "gcpro-sms-496"
+                                },
+                                "styles": {
+                                  "__style_id": "e-5150addc-b736",
+                                  "css": "&:focus { border-color: var(--color-primary); } width: 22px; height: 22px; min-width: 22px; color: var(--color-primary);"
+                                }
+                              },
+                              {
+                                "id": "33f0c08",
+                                "elType": "widget",
+                                "widgetType": "e-form-label",
+                                "title": "Existing SMS disclosure",
+                                "tag": "label",
+                                "settings": {
+                                  "tag": "label",
+                                  "classes": [
+                                    "e-22194cae-d69e"
+                                  ],
+                                  "text": "By selecting this box, you agree to receive SMS messages from GCPRO. Message and data rates may apply. You can opt-out at any time by replying STOP. (Our Privacy Policy)",
+                                  "input-id": "gcpro-sms-496"
+                                },
+                                "styles": {
+                                  "__style_id": "e-22194cae-d69e",
+                                  "css": "min-height: 44px; font-family: var(--font-body); font-size: 14px; color: var(--color-text); line-height: 1.5;"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "544d2e23",
+                            "elType": "widget",
+                            "widgetType": "e-form-submit-button",
+                            "title": "Send enquiry",
+                            "tag": "button",
+                            "settings": {
+                              "classes": [
+                                "g-e47e377",
+                                "e-1fda7351-45a2"
+                              ],
+                              "text": "Send Message",
+                              "tag": "button"
+                            },
+                            "styles": {
+                              "__style_id": "e-1fda7351-45a2",
+                              "css": "&:focus { color: var(--color-white); background-color: var(--color-primary-hover); } width: 100%; min-height: 50px; font-family: var(--font-body); font-weight: 600; font-size: 16px; border-radius: 8px; display: flex; grid-column: 1 / -1;\n@media(--tablet) { display: flex; }\n@media(--mobile) { display: flex; }"
+                            }
+                          },
+                          {
+                            "id": "5e49bf87",
+                            "elType": "e-form-success-message",
+                            "title": "Saved confirmation",
+                            "tag": "div",
+                            "settings": {
+                              "classes": [
+                                "e-4762dd6c-876d"
+                              ]
+                            },
+                            "styles": {
+                              "__style_id": "e-4762dd6c-876d",
+                              "css": "font-size: 16px; line-height: 1.5; text-align: start; border-radius: 8px; grid-column: 1 / -1;"
+                            },
+                            "elements": [
+                              {
+                                "id": "3bfa3adf",
+                                "elType": "widget",
+                                "widgetType": "e-paragraph",
+                                "title": "Success text",
+                                "tag": "p",
+                                "settings": {
+                                  "classes": [
+                                    "e-5134617b-4b43"
+                                  ],
+                                  "paragraph": "Your enquiry has been saved on this staging site. Email notifications are not connected yet. For assistance, call 847-656-3322.",
+                                  "tag": "p"
+                                },
+                                "styles": {
+                                  "__style_id": "e-5134617b-4b43",
+                                  "css": "line-height: 1.6; margin: 0px;"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "id": "78d389f0",
+                            "elType": "e-form-error-message",
+                            "title": "Submission error",
+                            "tag": "div",
+                            "settings": {
+                              "classes": [
+                                "e-ea3f3a5-d40e"
+                              ]
+                            },
+                            "styles": {
+                              "__style_id": "e-ea3f3a5-d40e",
+                              "css": "font-size: 16px; line-height: 1.5; text-align: start; border-radius: 8px; grid-column: 1 / -1;"
+                            },
+                            "elements": [
+                              {
+                                "id": "47504adb",
+                                "elType": "widget",
+                                "widgetType": "e-paragraph",
+                                "title": "Error text",
+                                "tag": "p",
+                                "settings": {
+                                  "classes": [
+                                    "e-15ee1d49-e186"
+                                  ],
+                                  "paragraph": "Your enquiry could not be saved. Please try again or call 847-656-3322.",
+                                  "tag": "p"
+                                },
+                                "styles": {
+                                  "__style_id": "e-15ee1d49-e186",
+                                  "css": "line-height: 1.6; margin: 0px;"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "14264d8d",
+                        "elType": "widget",
+                        "widgetType": "e-paragraph",
+                        "title": "Staging routing notice",
+                        "tag": "p",
+                        "settings": {
+                          "classes": [
+                            "e-66b586ca-9ad3"
+                          ],
+                          "paragraph": "Staging preview: email notifications are not connected. Please call for assistance.",
+                          "tag": "p"
+                        },
+                        "styles": {
+                          "__style_id": "e-66b586ca-9ad3",
+                          "css": "font-size: 14px; color: var(--color-text-muted); line-height: 1.6; margin: 0px;"
+                        }
+                      },
+                      {
+                        "id": "476f6d14",
+                        "elType": "widget",
+                        "widgetType": "e-button",
+                        "title": "Privacy Policy",
+                        "tag": "a",
+                        "settings": {
+                          "classes": [
+                            "e-60b41ebb-7040"
+                          ],
+                          "text": "Privacy Policy",
+                          "link": {
+                            "destination": "https://gcprochicago.com/privacy-policy/",
+                            "isTargetBlank": null,
+                            "tag": "a"
+                          },
+                          "tag": "a"
+                        },
+                        "styles": {
+                          "__style_id": "e-60b41ebb-7040",
+                          "css": "&:focus { color: var(--color-white); background-color: var(--color-primary-hover); } min-height: 44px; font-weight: 600; font-size: 16px; color: var(--color-primary); text-align: start; text-decoration: underline; padding-block-start: 8px; padding-block-end: 8px; padding-inline-start: 0px; padding-inline-end: 0px; background-color: transparent;"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "note": "Sanitized saved Atomic section mirrors; not an automatic deployment source."
+}

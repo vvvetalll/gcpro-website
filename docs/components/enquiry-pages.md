@@ -2,7 +2,7 @@
 
 Date: 24 October 2026, America/Chicago. Staging only.
 
-**Latest task:** cohesive white middle panels completed on492/496; the final dated log supersedes rejected middle layouts and their visibility blocker.
+**Latest state:** middle-section refinement saved/Published; owner rejected the visual result and instructed the agent to finish. Final dated log records actual changes, partial responsive coverage and unresolved delivery. No visual acceptance is claimed.
 
 ## Authorized scope and current state
 
@@ -87,3 +87,29 @@ Request492 uses “Tell us what happened”, the approved introduction, three co
 **Connector findings:** existing direct HTTP MCP initialize/tools-list/page reads worked. Changing component_id through manage-elements retained the old runtime binding, so three replacement instances of existing59 were inserted using established build-composition, then the superseded instances removed. No shared button definition/visibility policy changed. Focus declarations that fell back to Custom CSS were removed; existing native focus styles remain.
 
 Saved/Published staging redesign complete; owner visual acceptance pending. Email notification recipients/delivery and existing operational/spam-protection gaps remain open. Only deviation: explicitly approved unavailable-skill exception.
+
+
+## 2026-10-24 — Native middle-section refinement; owner rejected visual result
+
+**Final state:** saved and Published on staging492/496. The owner rejected the appearance and instructed the agent to finish; further edits and visual checks stopped. This is an implementation/handoff record, **not visual acceptance or full responsive sign-off**.
+
+**Authorized scope and actual changes:** only the two middle sections. Removed the enclosing white panel and vertical divider; retained light-blue section surface, native40/60 desktop grid with48px gap and one white form panel per page (32px padding;24px mobile;8px radius; existing border token). Existing tablet/mobile stacking and20px mobile external gutters retained. Request guidance consolidated into native heading/paragraph groups, added readable tel link847-656-3322 beside existing orange53 Call Now; removed repeated middle Contact navigation. Contact retained existing935/936/937 icons, readable tel/mailto rows, address and unchanged240px native map; Directions retains existing Blue Outline59 at natural button width, with supported local display:flex on tablet/mobile. Removed repeated middle Request Service navigation; Hero cross-navigation is preserved. No global56 changes or button-system replacements.
+
+**Owner heading correction:** final headings use the actual existing Section Heading71 Component, supported title/heading_tag/description Overrides, and existing `section-heading--accent` wrapper. Four instances: Request support7bccede8 in wrapper5cf16794; Request form23022d90 in44737755; Contact support31713c20 in1fcb0167; Contact form776fcae4 in3afb64bc. All render the established40×3px orange line, uppercase Montserrat H2 and subtitle. The agent initially used raw H2 defaults, which did not satisfy the owner; those standalone H2/note nodes were replaced. Shared71 itself was not edited. Forms520dd1a8/22adac6 remain separate and intact.
+
+**Verified saved preservation:** native before/after comparison confirms both complete e-form subtrees, both entire Hero1318 wrapper subtrees, page URLs/slugs/status/title/parent/template, Elementor page settings and authored AIOSEO settings unchanged. Contact map subtree unchanged. Header113/Footer114 metadata unchanged. No shared definition, Global Class/Variable, new asset/plugin, Custom Code, theme or production edits. Final middle trees contain no added Custom CSS. Submission actions remain Collect submissions only; all fields/IDs/requiredness/validation/SMS wording/default and confirmation/error messages preserved. No forms were submitted.
+
+**Skill and implementation:** restored ui-ux-pro-max package6adcf621489c8191b2701216a35070b8 read successfully; relevant form/label/heading/reflow guidance used, not a new style system. Reused securely configured direct HTTP Elementor MCP, initialized and listed tools; no registered native Elementor bindings exposed. Scoped private snapshots and operation records remain outside Git at gcpro-work/. Full native page snapshots include recovery data; no full-site restore test was performed. Restore only affected middle nodes and preserve later owner work.
+
+**Actual rendered checks before stop:**
+
+| Page | Desktop | Tablet | Mobile |
+|---|---|---|---|
+| Request492 |1440px final layout inspected and screenshot; shared71 orange line/subtitle verified; two-column field layout and visible call/submit | Final tablet render not checked |393px DOM geometry: single-column fields288px, labels correctly associated,105px SMS text wraps without clipping, visible53px submit/Call Now and readable phone, no overflow. Final mobile screenshot/complete visual pass not performed before stop |
+| Contact496 |1440px final layout inspected/screenshot; aligned heading tops, balanced contact/map and form, native outline Directions,625px form fields/full-width message/consent |768px screenshot/DOM: stacked support/form, Name+Email303.5px each, full-width623px longer fields,689×240px map, visible actions; no horizontal overflow |393px screenshot/DOM: single-column288px fields,338×240px map, full105px SMS disclosure, visible submit/Directions, no horizontal overflow; Name→Tab focuses Email with navy border |
+
+Labels were associated with their matching input IDs and not clipped in recorded Contact tablet/mobile and Request mobile checks. White/navy submit contrast remains approximately11.7:1; the inherited white/orange primary action is about3.4:1, below AA normal-text4.5:1, and was preserved. Actual hover/complete keyboard traversal were not finished; no screen-reader or physical-device certification. Request full final tablet/mobile visual verification remains open. Two screenshots contain public middle sections only, cropped to exclude the WordPress admin toolbar: [Request desktop](../evidence/2026-10-24-enquiry-refinement/request-desktop.jpg), [Contact desktop](../evidence/2026-10-24-enquiry-refinement/contact-desktop.jpg).
+
+**Cache/delivery:** stale Contact frontend differed from current saved state; used existing staging SG purge and Elementor Tools→Clear Files & Data, then verified current authenticated render. No cache/security configuration changed. Anonymous execution-host GETs still returnedHTTP403 for both ordinary public URLs; anonymous browser delivery not certified. Email notifications/verified monitored recipients, spam protection and operational/RingCentral integration gaps remain unresolved. The visible staging-delivery notice remains. No response times, insurance guarantees or follow-up promises invented.
+
+**Actual source:** [sanitized final native middle sections](../evidence/2026-10-24-enquiry-refinement/atomic-middle-sections.json). Git does not deploy these mirrors. Owner visual rejection is preserved; no rollback was requested or performed. Completion here means recording/pushing the current state after the stop instruction, not claiming the requested design was accepted.

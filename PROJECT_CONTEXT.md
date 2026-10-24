@@ -1,5 +1,10 @@
 # GCPRO project context
 
+## 2026-10-24 — Request/Contact native middle refinement; owner rejected design
+
+Published scoped492/496 middle refinements: one form card, simplified support/contact groups, existing71 headings with orange line/subtitle, preserved53/59 actions and complete forms/Hero/Header/Footer/SEO. Owner rejected the visual result and instructed finish; further checks stopped. Contact1440/768/393 inspected; Request1440 inspected and393 DOM checked, final tablet/mobile visual pass incomplete. Email delivery and anonymousHTTP403 remain unresolved. [Actual source, preservation, checks and rejected status](docs/components/enquiry-pages.md#2026-10-24--native-middle-section-refinement-owner-rejected-visual-result).
+
+
 ## 2026-10-24 — Request/Contact middle-panel redesign
 
 Published native white40/60 panels on staging492/496, mobile stacking/gutters, approved concise supporting content and existing53/59 button hierarchy. Hero1318 wrappers, complete forms/SMS/submission settings, map, page identity/status and authored SEO meta preserved. No shared definition/custom code/plugin changes. Authenticated1440px desktop/393px mobile and saved-state checks passed; anonymous GET403 and disconnected email delivery remain explicit. [Source mirror, checks and recovery](docs/components/enquiry-pages.md#2026-10-24--cohesive-white-middle-panels-current).
