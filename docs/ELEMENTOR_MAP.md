@@ -564,3 +564,8 @@ Record environment, read date, source operation, exact type/title/ID and status.
 ## 2026-10-24 — Shared affiliations rollout
 
 Component1886, UID component-ad5dca93-d460-4097-9127-fa1ac1e399c2, Published, native root60e6d354. Seventeen native page instances (363ead93 scoped per document) replace the standalone514 trial and appear immediately between Reviews and FAQ. [Coverage, editing location, dependencies and evidence](components/affiliations.md). Footer114 and shared Why1149 unchanged; only12 service-page Why instances clear their five trust images; supporting487–491 have none.
+
+
+## 2026-10-24 — Request / Contact shared page-header correction
+
+Request Service492: first native page-header instance6e88b6c4 → existing1318, followed by page content and native form520dd1a8. Contact496: existing first instance30d7e688 →1318 retained, separate native form22adac6 with Name/Email in one desktop row; fields/actions unchanged. Native zero-padding header wrappers7902342b /6071e484; global navigation Header113 and Footer114 unchanged. [Current editing locations, task log and limits](components/enquiry-pages.md).
