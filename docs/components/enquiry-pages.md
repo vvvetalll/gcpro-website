@@ -1,5 +1,13 @@
 # Request Service and Contact Us — current task log
 
+## 2026-10-24 — Align enquiry sections with the unchanged Hero
+
+Owner reported the middle sections extending32px past the Hero text on492/496. Cause: Hero’s existing1200px `container` includes32px internal gutters, while the middle container’s local padding0 canceled them and placed gutters on the full-width section instead. Only native padding was changed: Request section26fe91e4/container40da9d8c and Contact section91d99b3/container3a28134. Section retains64px vertical/48px mobile padding with0 horizontal; existing container now uses `page-gutter`32px desktop/tablet and `page-gutter-mobile`20px mobile. Contact location panel inherits the corrected content width. No new code/class/token or shared-definition edit.
+
+Saved before/after comparison confirms every other node/property unchanged, including both complete Hero trees, forms/consent/settings, contact groups, map, links and all copy. Existing Elementor generated cache cleared once so the saved padding renders. Authenticated Chrome check on both pages: at1440px, H1 and left middle H2 x=144.5px, Hero content and middle grid width1136px; Contact map panel also1136px. At768px, matching heading x=32px; at393px, matching x=20px. No horizontal overflow at any checked width. Desktop/mobile screenshots inspected; tablet geometry checked. No unrelated interaction tests or form submissions. Earlier email/anonymous-access limitations remain unchanged.
+
+[Contact alignment](../evidence/2026-10-24-alignment/contact-aligned.jpg) · [Request alignment](../evidence/2026-10-24-alignment/request-aligned.jpg). Recovery: restore only these four nodes’ previous padding from private scoped snapshots, preserving subsequent work.
+
 **Current superseding record:** [Policy/link task and final authorized Contact column](policy-pages.md). Published staging changes; no legal/visual acceptance claimed. Older dated states below are historical.
 
 Date: 24 October 2026, America/Chicago. Staging only.

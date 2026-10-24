@@ -1,5 +1,9 @@
 # GCPRO changelog
 
+## 2026-10-24 — Enquiry container alignment
+
+Corrected only native section/container gutters on Request492 and Contact496. Left middle headings now align with unchanged Hero text; Contact location panel matches Hero content width. Desktop/mobile appearance and1440/768/393 geometry checked, no overflow; saved comparison preserves forms, Hero, map, links and copy. [Exact owners and evidence](docs/components/enquiry-pages.md#2026-10-24--align-enquiry-sections-with-the-unchanged-hero).
+
 ## 2026-10-24 — Policy pages, consent links and approved scoped corrections
 
 Reused/published Privacy3 and Website Terms494 at existing URLs; SMS Terms1952 remains an unlinked draft pending campaign facts. Added native Footer legal navigation and inline form Privacy links, removed duplicates/visible delivery notices, retained complete forms and Hero geometry. Applied approved Request outline call/orange submit, graphite middle headings, native checkbox styling and Contact wide location panel. Final Contact left column is transparent text groups with orange icons; white cards/tiles removed per latest owner instruction. Desktop/mobile column checked; email delivery, anonymous403 and incomplete checks are explicitly recorded. [Actual implementation, sources, verification and remaining work](docs/components/policy-pages.md).
