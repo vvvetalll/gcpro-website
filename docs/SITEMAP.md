@@ -50,7 +50,7 @@ ACTUAL means a saved WordPress object; Published routes link to the frontend, Dr
   - **ACTUAL [Reconstruction](https://vitaliiv1.sg-host.com/commercial-services/reconstruction/)** — ID524, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=524&action=edit)
   - **ACTUAL [Water Damage](https://vitaliiv1.sg-host.com/commercial-services/water-damage/)** — ID515, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=515&action=edit)
 - **ACTUAL [Contact Us](https://vitaliiv1.sg-host.com/contact-us/)** — ID496, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=496&action=edit)
-- **ACTUAL [Copyright](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=494&action=edit)** — ID494, **draft**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=494&action=edit)
+- **ACTUAL [Website Terms of Use](https://vitaliiv1.sg-host.com/copyright/)** — ID494, **published 2026-10-24**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=494&action=edit)
 - **ACTUAL [Dehumidification](https://vitaliiv1.sg-host.com/dehumidification/)** — ID491, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=491&action=edit)
 - **ACTUAL [Elementor #7](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=7&action=edit)** — ID7, **draft**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=7&action=edit) — unrelated existing fixture/experiment
 - **ACTUAL [GCPRO Homepage — Phase 1 Atomic Wireframe](https://vitaliiv1.sg-host.com/)** — ID154, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=154&action=edit)
@@ -63,7 +63,7 @@ ACTUAL means a saved WordPress object; Published routes link to the frontend, Dr
   - **ACTUAL [Condominium / HOA Program](https://vitaliiv1.sg-host.com/partner-programs/condominium-hoa-program/)** — ID985, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=985&action=edit)
   - **ACTUAL [Insurance Agent Program](https://vitaliiv1.sg-host.com/partner-programs/insurance-agent-program/)** — ID984, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=984&action=edit)
   - **ACTUAL [Plumber Support Program](https://vitaliiv1.sg-host.com/partner-programs/plumber-support-program/)** — ID983, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=983&action=edit)
-- **ACTUAL [Privacy Policy](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=3&action=edit)** — ID3, **draft**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=3&action=edit)
+- **ACTUAL [Privacy Policy](https://vitaliiv1.sg-host.com/privacy-policy/)** — ID3, **published 2026-10-24**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=3&action=edit)
 - **ACTUAL — BUILT SERVICE HUB [Residential Property Restoration in Chicago](https://vitaliiv1.sg-host.com/residential-services/)** — ID484, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=484&action=edit)
   - **ACTUAL [Fire & Smoke](https://vitaliiv1.sg-host.com/residential-services/fire-smoke/)** — ID517, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=517&action=edit)
   - **ACTUAL [Mold Removal](https://vitaliiv1.sg-host.com/residential-services/mold-removal/)** — ID516, **publish**, [admin](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=516&action=edit)
@@ -428,3 +428,5 @@ Current AIOSEO sitemap index advertises only post-sitemap.xml(31 URLs) and page-
 [Detailed production audit and all source record locators](audits/2026-10-21-production-admin-and-partners.md) · [Partner Programs editing/activation/recovery](components/partner-programs.md)
 
 Reading Settings read-only verification confirms Front Page40 and Posts Page2187: Blog is the native posts index. The canonical model is now posts_index; older E13 candidate wording is historical. Source Page8929 does not replace Portfolio CPT archive. No routing/template change was made.
+
+- **SMS Terms & Conditions** — ID1952, **draft 2026-10-24**, intended `/sms-terms/`; not public navigation. [Missing facts](components/policy-pages.md).

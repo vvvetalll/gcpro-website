@@ -40,7 +40,7 @@ Replace weak copy before adding sections. Keep approved semantic ownership, usef
 
 ### Durable component maintenance and audit rules
 
-- Inspect the actual saved implementation, rendered behavior and existing code owners before editing. Prefer native Atomic controls, reusable existing classes and approved design tokens.
+- Inspect the actual saved implementation, rendered behavior and existing code owners before editing. Verify assumptions against current project documentation and actual configuration. Inspect and reuse existing project components before creating UI: use actual component instances, supported Overrides/variants, approved page patterns, button components and design tokens.
 - Treat page/template/element IDs as location references. Do not introduce page-ID-dependent CSS or business logic unless a demonstrated technical requirement and its scope, exact storage, reuse limit and migration/rollback are documented. Preserve required generated selectors and native object/plugin references.
 - Maintain [docs/components](docs/components/README.md) after every meaningful component change. Each record must cover purpose; WordPress/Elementor locators; parent/children; classes/tokens; CSS and JavaScript storage; Custom Code IDs; plugins/shortcodes/integrations; responsive behavior; interactions/dependencies; issues/status; and safe modification/reuse.
 - Record every custom CSS/JS owner in [docs/CUSTOM_CODE.md](docs/CUSTOM_CODE.md), including active theme file/enqueue, class variant/local style, Custom Code conditions/location/priority and external dependency. Keep one authoritative owner per property/state/breakpoint; do not deploy source mirrors twice.
@@ -52,6 +52,8 @@ Replace weak copy before adding sections. Keep approved semantic ownership, usef
 Prefer native WordPress and Elementor Atomic V4 controls, responsive settings, Global Variables, Global Classes, and reusable Components. Keep text, images, SVGs, links, typography, spacing, backgrounds, and responsive behavior understandable and editable in the visual editor.
 
 Reuse existing variables/classes before adding new ones. Use supported Component Overrides for instance content; edit the shared definition only when all consumers should change. Give Navigator elements and classes clear names. Inspect the current component schema before assuming an override exists.
+
+For section headings, use the actual **Section Heading71** instance with the existing **section-heading--accent** wrapper (orange line) and supported subtitle/description where appropriate. Do not manually imitate it with a standalone heading, line and paragraph. Preserve semantic heading levels.
 
 **Native first, minimum necessary additions:** use standard Elementor Atomic V4 functionality and existing Global Classes, Variables and Components before introducing a technical element. Add one only for a demonstrated current requirement that the existing system cannot reasonably satisfy. Do not create abstractions, classes or Components merely because they might be useful someday. Significant design settings must remain easy to find and edit in Elementor; never hide styling or functionality in undocumented code.
 
@@ -116,13 +118,14 @@ These rules supersede earlier blanket requirements for extensive milestone docum
 - Execute explicitly authorized simple edits directly: approved icon replacements, text, spacing and colors require no lengthy plan, design reopening or repeated confirmation.
 - Reuse verified session knowledge and established project decisions. Read only relevant documentation when necessary; do not reread the repository or repeat completed investigations.
 - Prefer supported, reliable Elementor MCP operations over visual-editor navigation. Use the shortest reliable workflow and batch independent operations. Avoid redundant reads, navigation and screenshots.
-- Verify only changed elements and immediate dependencies. Small changes need a focused technical/render check and relevant responsive appearance; shared changes need affected-instance checks; deeper audits belong to genuinely architectural changes. The owner performs final visual acceptance.
+- Verify only changed elements and immediate dependencies in one relevant pass. Repeat a check only after a new edit, failure or unresolved issue; reuse completed checks for unchanged content. Small changes need a focused technical/render check and relevant responsive appearance; shared changes need affected-instance checks. Documentation-only changes require no website retesting. The owner performs final visual acceptance.
 - Keep native Atomic V4 architecture. Do not introduce unnecessary CSS/JS, components, Global Classes, plugins, abstractions or duplicate media. Do not turn minor visual edits into architecture work.
 - If a straightforward edit becomes blocked or unexpectedly complicated, explain promptly. Do not repeat a failed method. Try one reasonable alternative, then report the blocker. If manual Elementor editing is faster, give the owner exact steps immediately. Never silently spend20–30minutes struggling with a minor task.
 - Keep progress and final responses concise and practical: what changed, what was verified, actual unfinished work/problems, and a commit link when applicable. No mandatory six-heading report for trivial work.
 - Preserve important decisions and meaningful implementation changes in GitHub. Batch minor documentation updates when appropriate; no extensive documentation or multiple commits for each small adjustment. For an authorized push use main unless otherwise specified; never force-push or bypass protections. Verify the remote commit before claiming a successful push.
 - Implement approved icons/designs/styles without researching alternatives again. Reopen selection only when implementation is technically impossible or clearly broken.
-- Stop checks/work immediately when requested. Report actual completion and remaining limits honestly; do not claim unperformed verification.
+- Once the requested work passes its relevant checks, document, commit, verify remote delivery, report and stop. Do not extend the task with unsolicited audits, redesigns or polishing.
+- When the user says stop, stop **all tool activity immediately**, including checks, documentation and Git operations. Report the actual saved/committed state and remaining limits without further tools; do not claim unperformed verification.
 
 **Permanent priority: execute efficiently, preserve quality, minimize unnecessary work. Optimize simple tasks for minutes.**
 
@@ -150,7 +153,7 @@ The owner performs final visual acceptance. For routine visual changes, perform 
 
 ## Section-background rhythm and proportional checks — owner instruction, 2026-10-24
 
-Whenever adding/reordering sections, inspect the changed section and its immediate neighbors for background rhythm, spacing and transitions. Avoid unintended long merged white/light-blue areas; use existing tokens with judgment, preserve the navy affiliations separator and inset CTA cards. Reuse page visits. Do not repeatedly recheck approved unchanged blocks; verify only changed elements and necessary integration behavior. When the owner asks to finish, stop further UI checks, record actual coverage/limitations and complete documentation/commit/push.
+Whenever adding/reordering sections, inspect the changed section and its immediate neighbors for background rhythm, spacing and transitions. Avoid unintended long merged white/light-blue areas; use existing tokens with judgment, preserve the navy affiliations separator and inset CTA cards. Apply the proportional verification and immediate-stop rules above. An instruction to finish the authorized task permits its normal documentation/commit/push gate; an instruction to stop ends all tool activity immediately.
 
 
 ## Mandatory page header, execution boundary and progress — owner instruction, 2026-10-24

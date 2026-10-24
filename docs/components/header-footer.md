@@ -1,5 +1,7 @@
 # Header and Footer
 
+**2026-10-24 legal navigation:** Footer114 now includes native Page3 Privacy and Page494 Website Terms links in6a188526; no draft SMS link. Original Footer content and Header113 preserved. [Owners/checks](policy-pages.md).
+
 **2026-10-23 — menu styling:** Shared Header113 primary and utility menus now have separate scoped styles, quiet hover/active states and clean white dropdowns. Mobile panel has52px top-level rows, nested submenu styling and no navy gap below Header. Existing menus, logo, CTA and903 behavior preserved. [Owners, checks and recovery](header-menu-refinement.md).
 
 **Current E76,2026-10-21:** Projects now links to real structural Page1132 `/portfolio/`, with native All Projects / Before & After dropdown. Existing13 project records/URLs untouched. Standard-grid five-item Header and utility Partner Programs retained.93 staging Pages:88 Published/5 Draft;321 migration rows. No new E76 CSS/JS/classes/plugins/dependencies. [Exact storage, checks and limitations](../audits/2026-10-21-projects-navigation.md).

@@ -1,5 +1,7 @@
 # Request Service and Contact Us — current task log
 
+**Current superseding record:** [Policy/link task and final authorized Contact column](policy-pages.md). Published staging changes; no legal/visual acceptance claimed. Older dated states below are historical.
+
 Date: 24 October 2026, America/Chicago. Staging only.
 
 **Latest state:** middle-section refinement saved/Published; owner rejected the visual result and instructed the agent to finish. Final dated log records actual changes, partial responsive coverage and unresolved delivery. No visual acceptance is claimed.

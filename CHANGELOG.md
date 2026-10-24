@@ -1,5 +1,9 @@
 # GCPRO changelog
 
+## 2026-10-24 — Policy pages, consent links and approved scoped corrections
+
+Reused/published Privacy3 and Website Terms494 at existing URLs; SMS Terms1952 remains an unlinked draft pending campaign facts. Added native Footer legal navigation and inline form Privacy links, removed duplicates/visible delivery notices, retained complete forms and Hero geometry. Applied approved Request outline call/orange submit, graphite middle headings, native checkbox styling and Contact wide location panel. Final Contact left column is transparent text groups with orange icons; white cards/tiles removed per latest owner instruction. Desktop/mobile column checked; email delivery, anonymous403 and incomplete checks are explicitly recorded. [Actual implementation, sources, verification and remaining work](docs/components/policy-pages.md).
+
 ## 2026-10-24 — Request/Contact native middle refinement; owner rejected design
 
 Published scoped492/496 middle refinements: one form card, simplified support/contact groups, existing71 headings with orange line/subtitle, preserved53/59 actions and complete forms/Hero/Header/Footer/SEO. Owner rejected the visual result and instructed finish; further checks stopped. Contact1440/768/393 inspected; Request1440 inspected and393 DOM checked, final tablet/mobile visual pass incomplete. Email delivery and anonymousHTTP403 remain unresolved. [Actual source, preservation, checks and rejected status](docs/components/enquiry-pages.md#2026-10-24--native-middle-section-refinement-owner-rejected-visual-result).
