@@ -52,3 +52,16 @@ Accepted owner process-timeline refinement, 2026-10-16 — **D018**: use one nat
 - Inventory and disposition of existing legacy navigation styling.
 
 No choice has been made for these pending items. Record an accepted follow-up with date, evidence, considered options, consequence and affected documents after it is resolved.
+
+
+## Owner-requested ideas to develop — 2026-10-24
+
+These are recorded proposals, not implemented features or permission to publish new claims.
+
+### Awards and recognition / “Hall of Fame”
+
+The owner reports that GCPRO has many awards and wins and requests a presentation concept. Collect the actual awards, issuing organizations, years, categories, winner/finalist status, images and available source links before writing public claims. Explore a concise “Awards & Recognition” section, potentially on About with selected highlights elsewhere; placement/design remain to be decided. Distinguish awards from the existing professional memberships/credentials block. Do not invent award names, counts, dates or endorsements. Next step: inventory owner-supplied evidence and propose an uncluttered presentation.
+
+### Short enquiry form and operator callback
+
+Before implementing Request Service492 and Contact, inspect the current GCPRO form and 5–7 relevant competitor forms. Identify fields genuinely needed for first contact versus information an operator can collect later. Owner preference: minimal initial questions and a handoff to an operator/callback, rather than requiring detailed insurance/property information up front. Candidate Request Service fields: name, phone, city/ZIP, service/“Not sure”; description optional, email requirement to be justified by actual intake needs. Confirm routing and callback workflow; do not promise response times. Competitor forms do not establish conversion performance. Keep implementation native Atomic; no site changes authorized by this record.
