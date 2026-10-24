@@ -678,3 +678,6 @@ Owner requested the same logos on Homepage154. Existing Why Component1149 instan
 
 
 2026-10-24 — Owner-mandated page-header correction: existing shared1318 precedes separate page content/forms on Request Service492 and Contact Us496. Supersedes the experimental combined Hero/form direction. Request form subtree preserved; Contact Name/Email now share a desktop row under separate owner authorization, with unchanged fields/requiredness/actions. URLs/states/SEO and global Header/Footer preserved. Mandatory change-control, Allow approval, visible progress and GitHub task-log rules recorded in AGENTS.md. [Current task log, checks and inherited delivery gaps](docs/components/enquiry-pages.md).
+
+
+2026-10-24 — Refined only the content columns below the preserved Request492/Contact496 page headers: owner-specified Request guidance and native Contact link; cohesive contact/office groups with existing935–937 icons and unchanged map. Compact native spacing; exact Hero/form subtrees and page identity/SEO preserved. Authenticated1440/393 checks pass; anonymous environment GET403 remains explicit. No new components/code/plugins. [Current task log](docs/components/enquiry-pages.md#2026-10-24--content-column-refinement-below-page-headers-latest).

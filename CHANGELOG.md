@@ -598,3 +598,6 @@ Owner requested the same logos on Homepage154. Existing Why Component1149 instan
 
 
 2026-10-24 — Reused existing shared page-header1318 first on Request Service492; retained Contact496's existing1318. Moved Request title/intro to supported Overrides; preserved separate native forms. Removed default10px padding only from both page-header wrapper containers and restored readable Request body heading color. Contact Name/Email now share a desktop row; remaining controls span the form, mobile stays single-column. Added mandatory execution/progress/approval rules to AGENTS.md. [Actual scope and verification](docs/components/enquiry-pages.md).
+
+
+2026-10-24 — Refined only the content columns below the preserved Request492/Contact496 page headers: owner-specified Request guidance and native Contact link; cohesive contact/office groups with existing935–937 icons and unchanged map. Compact native spacing; exact Hero/form subtrees and page identity/SEO preserved. Authenticated1440/393 checks pass; anonymous environment GET403 remains explicit. No new components/code/plugins. [Current task log](docs/components/enquiry-pages.md#2026-10-24--content-column-refinement-below-page-headers-latest).

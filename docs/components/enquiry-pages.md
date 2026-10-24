@@ -2,6 +2,8 @@
 
 Date: 24 October 2026, America/Chicago. Staging only.
 
+**Latest task:** refinement of content columns below the preserved page headers; see the dated log at the end of this record.
+
 ## Authorized scope and current state
 
 Use the documented existing **GCPRO — Shared Hero1318** as the first page-content component on Request Service492 and Contact Us496. Keep content and native Atomic forms below it. The owner's latest instruction supersedes the experimental combined Hero/form layout. Preserve navigation Header113, Footer114, other pages, component definitions, URLs, publication states and SEO. Separately authorized follow-ups: remove the unintended wrapper padding; place Contact Name/Email in one desktop row.
@@ -41,3 +43,23 @@ Request requires Name, Phone, City/ZIP; Service defaults Not sure, Email/descrip
 **Open:** verified monitored notification recipients/email delivery, supported native spam protection, operational follow-up procedure and any RingCentral-specific recording/Terms requirements. These pages must not be described as fully operational enquiry delivery. No new external notification destination, email configuration or plugin was introduced. Existing native office map/contact links remain; unrelated placeholders and duplicated supporting contact actions were not removed under this task.
 
 Private recovery snapshots and tool results: work/page-header-correction/. Raw admin data, credentials and backups are excluded from Git. Recovery must be scoped to the affected page nodes and preserve later owner work; reverting this documentation does not revert WordPress.
+
+
+## 2026-10-24 — Content-column refinement below page headers (latest)
+
+**Authorized scope:** only the content below the existing page headers on staging492/496. Preserve both1318 instances/images exactly, all form data/field layouts/SMS/validation/actions/messages, URLs/statuses/SEO, global Header/Footer and unrelated pages. No layout alternatives, new component definitions, custom code, plugins, assets, Global Classes or Variables.
+
+**Saved and Published changes:**
+
+- Request492 → Useful contact information7099aed9: retained the original urgent heading, explanation and existing Call53 instance in a compact native group. Added the owner's exact “What to include” and “You don’t need every detail yet” heading/text groups, plus “General question? Contact us.” bound to native Internal URL → Page496. Existing spacing tokens, natural content height; no height matching to the form.
+- Contact496: native introduction452e4679 (“Get in touch”; “Have a question? Call, email or send us a message.”), Call us31225472 and Email us31317dd8 groups reuse the original phone action/email link. Existing office78582bb4 retains the address, Directions and unchanged240px map, with native icon/heading row13cc44a7; Request Service remains a secondary native text link after the office details.
+- Reused existing uploaded SVGs935/936/937 (footer-phone.svg/footer-email.svg/footer-location.svg) and shared native class gcpro-footer-contact-icon. These assets/class now also serve Contact496; changing their shared definition requires consumer awareness. Footer itself was not edited.
+- Compact native Contact grid rows remove the previous empty space between contact and office groups. Desktop remains two columns; mobile retains the existing contact → form → office stacking. Details have no individual cards, fixed heights or decorative containers.
+
+**Checks actually performed:** fresh saved-state comparisons show both complete page-header subtrees and both complete e-form subtrees exactly equal to the pre-task snapshots. Map subtree also equal; identity/publication/authored SEO unchanged. Added/affected page styles contain no Custom CSS. Only Pages492/496 were written; no shared definition/Header/Footer/controller writes.
+
+Actual authenticated Chrome1440px desktop and393px mobile: no horizontal overflow; preserved two-column desktop field grids/single-column mobile forms. Contact left/form tops align (0px difference), office follows the contact group with24px gap; three orange20px SVGs and the existing map render. Mobile map fits298px available width. Checked tel/mailto/Directions/native Request links and followed the new native Contact link to496 without calling or sending messages. No form submissions, notification changes or repeated checks of unchanged Heroes were needed.
+
+Anonymous GETs to both affected public URLs from the execution environment returned **HTTP403 Forbidden**; anonymous delivery is not certified. Authenticated frontend rendering and saved state are verified. Existing email-routing/spam-protection limitations above remain unchanged.
+
+Scoped recovery snapshots/tool records: work/content-column-refinement/ outside Git. [Request screenshot](../evidence/2026-10-24-enquiry-content/request-desktop.jpg) · [Contact screenshot](../evidence/2026-10-24-enquiry-content/contact-desktop.jpg), actual viewport captures with the private admin toolbar cropped out. Owner retains final visual acceptance. No deviation from the authorized implementation.
