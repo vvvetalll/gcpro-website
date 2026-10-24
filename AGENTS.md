@@ -16,6 +16,12 @@ BEAF Pro is excluded from Phase 1 architecture cleanup. Preserve its plugin file
 - Documentation initialization and this repository-integration task authorize no WordPress writes, theme changes, deployment, plugin installation, or production action. Future implementation must follow its own authorized scope; the standing milestone-documentation requirement below applies after that work.
 - Preserve unrelated changes. Never force-push, reset others' work, or commit credentials, customer data, database dumps, or private backup archives.
 
+## Standing editorial requirement — owner instruction, 2026-10-24
+
+Write customer-facing copy in clear, natural US English: specific, useful and credible, like a knowledgeable restoration professional explaining the work. Use concrete verbs, familiar language, varied sentence lengths and short connected paragraphs. Explain technical terms only when useful. Avoid interchangeable marketing, empty reassurance, forced friendliness, invented personal experience, keyword stuffing, rhetorical filler and formulaic sentence openings. Do not use phrases such as “comprehensive solutions,” “seamless restoration,” “state-of-the-art,” “peace of mind” or “we understand how overwhelming…”. Explain work stages rather than repeated “describe/discuss/review/agree” intake steps. FAQs must answer real customer decisions, not fill slots with unlikely equipment/guarantee questions. Judge writing by accuracy, clarity, specificity and usefulness; never promise AI-detector results.
+
+Replace weak copy before adding sections. Keep approved semantic ownership, useful links and native page-specific Overrides. Separate general restoration principles from verified GCPRO procedures; “may” or “typically” does not make an unsupported company claim acceptable. Complete supported improvements and record exact missing operational/project facts without inventing equipment, credentials, documentation, testing, logistics or promises. Preserve the six-card 3×2 desktop /2-column tablet /1-column mobile layout, typography, spacing, gutters and shared component integrity. Balance concise cards and compact process steps through editing, never filler, forced breaks, smaller fonts, clipping or concealed fixed heights. Put longer explanations in suitable existing text or practical FAQ answers. Preserve natural wording rather than identical word counts.
+
 ## Native visual editing
 
 ### Durable component maintenance and audit rules

@@ -1,5 +1,7 @@
 # GCPRO changelog
 
+**2026-10-24 — service content revisions:** Published supported text improvements on16 service pages through existing instance Overrides; preserved Heroes, CTAs, URLs, publication states, links, shared styles and authored SEO. Added owner-requested Board-Up488 comparison block using existing1206/1600 sliders with honest temporary-protection/later-repair context; original Board-Up copy unchanged. Natural US English is now a standing AGENTS editorial rule.51 responsive DOM checks cover17 pages at1440/768/393; operational facts/project evidence remain explicitly open. [Implementation and remaining facts](docs/seo/2026-10-24-content-depth-audit/IMPLEMENTATION_STATUS.md).
+
 **2026-10-24 — read-only service content-depth audit:** Inspected all17 current Published staging service pages and49 competitor landings; excluded chrome/global content and counted102 collapsed FAQ answers once. Outcomes:1 sufficient,8 targeted expansions,8 substantial revisions. Approved semantic ownership preserved; operational/case-evidence dependencies and weak comparator groups are explicit. No website changes. [Comparison, methodology and page briefs](docs/seo/2026-10-24-content-depth-audit/README.md).
 
 **2026-10-23 — compact popup and overlay:** Shortened availability copy,16px spacing, viewport-bounded card and popup layer above sticky Header.394×640 result/overlay/overflow checked. [Record](docs/components/service-availability-popup.md).

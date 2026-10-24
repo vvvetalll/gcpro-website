@@ -1,5 +1,8 @@
 # GCPRO service content-depth audit — 24 October 2026
 
+**Implementation update, 24 October 2026:** Supported revisions are now published on16 pages; Board-Up488 retains its copy and has the separately requested existing-slider proof block. Operational/case-evidence dependencies remain open. See [implementation status and exact owner questions](IMPLEMENTATION_STATUS.md). The counts and conclusions below remain the dated **pre-revision audit baseline**, not measurements of the revised pages.
+
+
 **Analysis only; staging; no website, URL, design, publication or SEO changes.** Inspected all17 current rendered service pages. Fresh WordPress REST metadata confirms all17 are Published, so there are no Draft service targets in this inventory. Inspection timestamps are retained in evidence; local inspection date is24 October2026, America/Chicago.
 
 ## Finding
