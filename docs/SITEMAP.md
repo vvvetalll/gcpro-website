@@ -1,5 +1,7 @@
 # Complete GCPRO hierarchical sitemap
 
+**2026-10-24 current:**94 Pages,90 Published/4 Draft.15 already-Published structural shells now completed and republished at unchanged routes;47 city shells and Apply remain incomplete. SMS Terms1952 and three fixtures remain Draft. No page creation, deletion, hierarchy change or redirect. [Current page/status list and verification](components/page-completion-2026-10-24.md).
+
 **Keyword ownership,2026-10-21 — DRAFT — AWAITING USER APPROVAL:** Consult the [semantic strategy](seo/SEO_STRATEGY.md) and [master map](seo/MASTER_KEYWORD_MAP.csv) for proposed content targets. Existing hierarchy and publication states below are unchanged. City preservation is not a new operational coverage confirmation.
 
 

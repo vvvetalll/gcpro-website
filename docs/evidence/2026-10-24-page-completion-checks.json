@@ -1,0 +1,2088 @@
+{
+  "date": "2026-10-24",
+  "environment": "Authenticated staging Chrome; simulated desktop1440x1000 and mobile393x852",
+  "responsive": [
+    {
+      "id": 497,
+      "mode": "desktop",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "h1": [
+        "About GCPRO Restoration"
+      ],
+      "headings": [
+        {
+          "text": "Restoration and reconstruction",
+          "color": "rgb(51, 65, 85)"
+        },
+        {
+          "text": "See the work",
+          "color": "rgb(51, 65, 85)"
+        },
+        {
+          "text": "Contact our Lombard team",
+          "color": "rgb(51, 65, 85)"
+        }
+      ],
+      "bodyWords": 288,
+      "overflow": false,
+      "emptySections": 0,
+      "placeholders": false,
+      "images": 2,
+      "unloaded": 0,
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/about-us/",
+      "observation": "Separate desktop DOM/viewport screenshot read before the collector was initialized."
+    },
+    {
+      "id": 497,
+      "mode": "mobile",
+      "viewport": [
+        393,
+        852
+      ],
+      "h1": [
+        "About GCPRO Restoration"
+      ],
+      "headings": [
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Restoration and reconstruction"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "See the work"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Contact our Lombard team"
+        }
+      ],
+      "bodyWords": 288,
+      "overflow": false,
+      "emptySections": 0,
+      "placeholders": false,
+      "images": 2,
+      "unloaded": 0,
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/about-us/"
+    },
+    {
+      "id": 498,
+      "mode": "desktop",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "h1": [
+        "GCPRO Restoration Reviews"
+      ],
+      "headings": [
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Customer experiences"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Put reviews in context"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Discuss your property"
+        }
+      ],
+      "bodyWords": 1586,
+      "overflow": false,
+      "emptySections": 0,
+      "placeholders": false,
+      "images": 82,
+      "unloaded": 36,
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/testimonials/"
+    },
+    {
+      "id": 498,
+      "mode": "mobile",
+      "viewport": [
+        393,
+        852
+      ],
+      "h1": [
+        "GCPRO Restoration Reviews"
+      ],
+      "headings": [
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Customer experiences"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Put reviews in context"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Discuss your property"
+        }
+      ],
+      "bodyWords": 1586,
+      "overflow": false,
+      "emptySections": 0,
+      "placeholders": false,
+      "images": 82,
+      "unloaded": 0,
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/testimonials/"
+    },
+    {
+      "id": 495,
+      "mode": "desktop",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "h1": [
+        "Chicagoland Service Areas"
+      ],
+      "headings": [
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Based in Lombard, serving Chicagoland"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Explore local work"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Lombard"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Glenview"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Northbrook"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Oak Brook"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Other communities"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Find the relevant service"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Water damage"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Fire and smoke"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Mold remediation"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Reconstruction"
+        }
+      ],
+      "bodyWords": 369,
+      "overflow": false,
+      "emptySections": 0,
+      "placeholders": false,
+      "images": 2,
+      "unloaded": 0,
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/service-area/"
+    },
+    {
+      "id": 495,
+      "mode": "mobile",
+      "viewport": [
+        393,
+        852
+      ],
+      "h1": [
+        "Chicagoland Service Areas"
+      ],
+      "headings": [
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Based in Lombard, serving Chicagoland"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Explore local work"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Lombard"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Glenview"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Northbrook"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Oak Brook"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Other communities"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Find the relevant service"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Water damage"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Fire and smoke"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Mold remediation"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Reconstruction"
+        }
+      ],
+      "bodyWords": 369,
+      "overflow": false,
+      "emptySections": 0,
+      "placeholders": false,
+      "images": 2,
+      "unloaded": 0,
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/service-area/"
+    },
+    {
+      "id": 1007,
+      "mode": "desktop",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "h1": [
+        "Restoration Resources"
+      ],
+      "headings": [
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Start with the problem"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Water in the building"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Fire or smoke damage"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Visible mold or moisture concerns"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Repairs after cleanup"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Understand a specific task"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Prepare for a useful conversation"
+        }
+      ],
+      "bodyWords": 296,
+      "overflow": false,
+      "emptySections": 0,
+      "placeholders": false,
+      "images": 2,
+      "unloaded": 0,
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/resources/"
+    },
+    {
+      "id": 1007,
+      "mode": "mobile",
+      "viewport": [
+        393,
+        852
+      ],
+      "h1": [
+        "Restoration Resources"
+      ],
+      "headings": [
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Start with the problem"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Water in the building"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Fire or smoke damage"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Visible mold or moisture concerns"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Repairs after cleanup"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Understand a specific task"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Prepare for a useful conversation"
+        }
+      ],
+      "bodyWords": 296,
+      "overflow": false,
+      "emptySections": 0,
+      "placeholders": false,
+      "images": 2,
+      "unloaded": 0,
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/resources/"
+    },
+    {
+      "id": 982,
+      "mode": "desktop",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "h1": [
+        "Partner Programs"
+      ],
+      "headings": [
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Choose the relevant pathway"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Plumber Support Program"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Insurance Agent Program"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Condominium / HOA Program"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Commercial Partnerships"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "A useful first conversation"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Explore the restoration work"
+        }
+      ],
+      "bodyWords": 282,
+      "overflow": false,
+      "emptySections": 0,
+      "placeholders": false,
+      "images": 2,
+      "unloaded": 0,
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/partner-programs/"
+    },
+    {
+      "id": 982,
+      "mode": "mobile",
+      "viewport": [
+        393,
+        852
+      ],
+      "h1": [
+        "Partner Programs"
+      ],
+      "headings": [
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Choose the relevant pathway"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Plumber Support Program"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Insurance Agent Program"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Condominium / HOA Program"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Commercial Partnerships"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "A useful first conversation"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Explore the restoration work"
+        }
+      ],
+      "bodyWords": 282,
+      "overflow": false,
+      "emptySections": 0,
+      "placeholders": false,
+      "images": 2,
+      "unloaded": 0,
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/partner-programs/"
+    },
+    {
+      "id": 983,
+      "mode": "desktop",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "h1": [
+        "Restoration Support for Plumbers"
+      ],
+      "headings": [
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "After the plumbing issue"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Information for the handoff"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "The water source"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "The affected space"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "The property contact"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "The next question"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Discuss a referral"
+        }
+      ],
+      "bodyWords": 278,
+      "overflow": false,
+      "emptySections": 0,
+      "placeholders": false,
+      "images": 2,
+      "unloaded": 0,
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/partner-programs/plumber-support-program/"
+    },
+    {
+      "id": 983,
+      "mode": "mobile",
+      "viewport": [
+        393,
+        852
+      ],
+      "h1": [
+        "Restoration Support for Plumbers"
+      ],
+      "headings": [
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "After the plumbing issue"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Information for the handoff"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "The water source"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "The affected space"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "The property contact"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "The next question"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Discuss a referral"
+        }
+      ],
+      "bodyWords": 278,
+      "overflow": false,
+      "emptySections": 0,
+      "placeholders": false,
+      "images": 2,
+      "unloaded": 0,
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/partner-programs/plumber-support-program/"
+    },
+    {
+      "id": 984,
+      "mode": "desktop",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "h1": [
+        "Support for Insurance Agents"
+      ],
+      "headings": [
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "The Agency Support Program"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Useful information at the outset"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Location and type of loss"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Owner or representative"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Relevant contacts"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "The question to resolve"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Contact GCPRO"
+        }
+      ],
+      "bodyWords": 262,
+      "overflow": false,
+      "emptySections": 0,
+      "placeholders": false,
+      "images": 2,
+      "unloaded": 0,
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/partner-programs/insurance-agent-program/"
+    },
+    {
+      "id": 984,
+      "mode": "mobile",
+      "viewport": [
+        393,
+        852
+      ],
+      "h1": [
+        "Support for Insurance Agents"
+      ],
+      "headings": [
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "The Agency Support Program"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Useful information at the outset"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Location and type of loss"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Owner or representative"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Relevant contacts"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "The question to resolve"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Contact GCPRO"
+        }
+      ],
+      "bodyWords": 262,
+      "overflow": false,
+      "emptySections": 0,
+      "placeholders": false,
+      "images": 2,
+      "unloaded": 0,
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/partner-programs/insurance-agent-program/"
+    },
+    {
+      "id": 985,
+      "mode": "desktop",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "h1": [
+        "Condominium & HOA Properties"
+      ],
+      "headings": [
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Start with the affected areas"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Prepare the property details"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Units and common areas"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Association contacts"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Access arrangements"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Service needs"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Explore the appropriate service"
+        }
+      ],
+      "bodyWords": 265,
+      "overflow": false,
+      "emptySections": 0,
+      "placeholders": false,
+      "images": 2,
+      "unloaded": 0,
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/partner-programs/condominium-hoa-program/"
+    },
+    {
+      "id": 985,
+      "mode": "mobile",
+      "viewport": [
+        393,
+        852
+      ],
+      "h1": [
+        "Condominium & HOA Properties"
+      ],
+      "headings": [
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Start with the affected areas"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Prepare the property details"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Units and common areas"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Association contacts"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Access arrangements"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Service needs"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Explore the appropriate service"
+        }
+      ],
+      "bodyWords": 265,
+      "overflow": false,
+      "emptySections": 0,
+      "placeholders": false,
+      "images": 2,
+      "unloaded": 0,
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/partner-programs/condominium-hoa-program/"
+    },
+    {
+      "id": 986,
+      "mode": "desktop",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "h1": [
+        "Commercial Restoration Partnerships"
+      ],
+      "headings": [
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Planning beyond a single loss"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Information to bring"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Property portfolio"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Decision contacts"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Operating constraints"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Restoration priorities"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Connect planning with service scope"
+        }
+      ],
+      "bodyWords": 248,
+      "overflow": false,
+      "emptySections": 0,
+      "placeholders": false,
+      "images": 2,
+      "unloaded": 0,
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/partner-programs/commercial-partnership-programs/"
+    },
+    {
+      "id": 986,
+      "mode": "mobile",
+      "viewport": [
+        393,
+        852
+      ],
+      "h1": [
+        "Commercial Restoration Partnerships"
+      ],
+      "headings": [
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Planning beyond a single loss"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Information to bring"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Property portfolio"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Decision contacts"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Operating constraints"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Restoration priorities"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Connect planning with service scope"
+        }
+      ],
+      "bodyWords": 248,
+      "overflow": false,
+      "emptySections": 0,
+      "placeholders": false,
+      "images": 2,
+      "unloaded": 0,
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/partner-programs/commercial-partnership-programs/"
+    },
+    {
+      "id": 1132,
+      "mode": "desktop",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "h1": [
+        "GCPRO Restoration Projects"
+      ],
+      "headings": [
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Water damage restoration in Glenview"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Water Damage Restoration — Glenview, IL"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Fire damage restoration in Tinley Park"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Fire Damage Restoration — Tinley Park, IL"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Attic mold removal in Lombard"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Attic Mold Removal — Lombard, IL"
+        }
+      ],
+      "bodyWords": 307,
+      "overflow": false,
+      "emptySections": 0,
+      "placeholders": false,
+      "images": 8,
+      "unloaded": 0,
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/portfolio/"
+    },
+    {
+      "id": 1132,
+      "mode": "mobile",
+      "viewport": [
+        393,
+        852
+      ],
+      "h1": [
+        "GCPRO Restoration Projects"
+      ],
+      "headings": [
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Water damage restoration in Glenview"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Water Damage Restoration — Glenview, IL"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Fire damage restoration in Tinley Park"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Fire Damage Restoration — Tinley Park, IL"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Attic mold removal in Lombard"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Attic Mold Removal — Lombard, IL"
+        }
+      ],
+      "bodyWords": 307,
+      "overflow": false,
+      "emptySections": 0,
+      "placeholders": false,
+      "images": 8,
+      "unloaded": 0,
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/portfolio/"
+    },
+    {
+      "id": 526,
+      "mode": "desktop",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "h1": [
+        "Restoration Services in Lombard"
+      ],
+      "headings": [
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Our Lombard office"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Local project: attic mold removal"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Attic Mold Removal — Lombard, IL"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Find the service for your property"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Water damage"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Fire and smoke"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Reconstruction"
+        }
+      ],
+      "bodyWords": 270,
+      "overflow": false,
+      "emptySections": 0,
+      "placeholders": false,
+      "images": 4,
+      "unloaded": 0,
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/service-area/lombard/"
+    },
+    {
+      "id": 526,
+      "mode": "mobile",
+      "viewport": [
+        393,
+        852
+      ],
+      "h1": [
+        "Restoration Services in Lombard"
+      ],
+      "headings": [
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Our Lombard office"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Local project: attic mold removal"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Attic Mold Removal — Lombard, IL"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Find the service for your property"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Water damage"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Fire and smoke"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Reconstruction"
+        }
+      ],
+      "bodyWords": 270,
+      "overflow": false,
+      "emptySections": 0,
+      "placeholders": false,
+      "images": 4,
+      "unloaded": 0,
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/service-area/lombard/"
+    },
+    {
+      "id": 533,
+      "mode": "desktop",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "h1": [
+        "Restoration Services in Glenview"
+      ],
+      "headings": [
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "A Glenview water-damage project"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Water Damage Restoration — Glenview, IL"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Discuss your Glenview property"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Explore related restoration services"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Fire and smoke"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Mold remediation"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Reconstruction"
+        }
+      ],
+      "bodyWords": 264,
+      "overflow": false,
+      "emptySections": 0,
+      "placeholders": false,
+      "images": 4,
+      "unloaded": 0,
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/service-area/glenview/"
+    },
+    {
+      "id": 533,
+      "mode": "mobile",
+      "viewport": [
+        393,
+        852
+      ],
+      "h1": [
+        "Restoration Services in Glenview"
+      ],
+      "headings": [
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "A Glenview water-damage project"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Water Damage Restoration — Glenview, IL"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Discuss your Glenview property"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Explore related restoration services"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Fire and smoke"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Mold remediation"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Reconstruction"
+        }
+      ],
+      "bodyWords": 264,
+      "overflow": false,
+      "emptySections": 0,
+      "placeholders": false,
+      "images": 4,
+      "unloaded": 0,
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/service-area/glenview/"
+    },
+    {
+      "id": 556,
+      "mode": "desktop",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "h1": [
+        "Restoration Services in Northbrook, IL"
+      ],
+      "headings": [
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Garage fire restoration in Northbrook"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Garage Fire Damage Restoration — Northbrook, IL"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Match the service to the damage"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Contact GCPRO about a Northbrook property"
+        }
+      ],
+      "bodyWords": 306,
+      "overflow": false,
+      "emptySections": 0,
+      "placeholders": false,
+      "images": 4,
+      "unloaded": 0,
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/service-area/northbrook/"
+    },
+    {
+      "id": 556,
+      "mode": "mobile",
+      "viewport": [
+        393,
+        852
+      ],
+      "h1": [
+        "Restoration Services in Northbrook, IL"
+      ],
+      "headings": [
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Garage fire restoration in Northbrook"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Garage Fire Damage Restoration — Northbrook, IL"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Match the service to the damage"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Contact GCPRO about a Northbrook property"
+        }
+      ],
+      "bodyWords": 306,
+      "overflow": false,
+      "emptySections": 0,
+      "placeholders": false,
+      "images": 4,
+      "unloaded": 0,
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/service-area/northbrook/"
+    },
+    {
+      "id": 536,
+      "mode": "desktop",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "h1": [
+        "Restoration Services in Oak Brook, IL"
+      ],
+      "headings": [
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Bathroom reconstruction in Oak Brook"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Bathroom Reconstruction — Oak Brook, IL"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "From property damage to building repairs"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Discuss an Oak Brook property"
+        }
+      ],
+      "bodyWords": 316,
+      "overflow": false,
+      "emptySections": 0,
+      "placeholders": false,
+      "images": 4,
+      "unloaded": 0,
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/service-area/oak-brook/"
+    },
+    {
+      "id": 536,
+      "mode": "mobile",
+      "viewport": [
+        393,
+        852
+      ],
+      "h1": [
+        "Restoration Services in Oak Brook, IL"
+      ],
+      "headings": [
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Bathroom reconstruction in Oak Brook"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Bathroom Reconstruction — Oak Brook, IL"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "From property damage to building repairs"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Discuss an Oak Brook property"
+        }
+      ],
+      "bodyWords": 316,
+      "overflow": false,
+      "emptySections": 0,
+      "placeholders": false,
+      "images": 4,
+      "unloaded": 0,
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/service-area/oak-brook/"
+    },
+    {
+      "id": 534,
+      "mode": "desktop",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "h1": [
+        "Careers at GCPRO Restoration"
+      ],
+      "headings": [
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Work connected to property recovery"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Prepare for a career inquiry"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Relevant experience"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Skills and qualifications"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Availability"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Questions for the team"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Ask about current opportunities"
+        }
+      ],
+      "bodyWords": 265,
+      "overflow": false,
+      "emptySections": 0,
+      "placeholders": false,
+      "images": 2,
+      "unloaded": 0,
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/about-us/careers/"
+    },
+    {
+      "id": 534,
+      "mode": "mobile",
+      "viewport": [
+        393,
+        852
+      ],
+      "h1": [
+        "Careers at GCPRO Restoration"
+      ],
+      "headings": [
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Work connected to property recovery"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Prepare for a career inquiry"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Relevant experience"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Skills and qualifications"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Availability"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Questions for the team"
+        },
+        {
+          "color": "rgb(51, 65, 85)",
+          "text": "Ask about current opportunities"
+        }
+      ],
+      "bodyWords": 265,
+      "overflow": false,
+      "emptySections": 0,
+      "placeholders": false,
+      "images": 2,
+      "unloaded": 0,
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/about-us/careers/"
+    }
+  ],
+  "native": {
+    "date": "2026-10-24",
+    "pages": [
+      {
+        "id": 497,
+        "url": "https://vitaliiv1.sg-host.com/about-us/",
+        "status": "publish",
+        "slug_parent_url_preserved": true,
+        "hero_component": 1318,
+        "heading_instances": 3,
+        "authored_seo_saved": true
+      },
+      {
+        "id": 498,
+        "url": "https://vitaliiv1.sg-host.com/testimonials/",
+        "status": "publish",
+        "slug_parent_url_preserved": true,
+        "hero_component": 1318,
+        "heading_instances": 3,
+        "authored_seo_saved": true
+      },
+      {
+        "id": 495,
+        "url": "https://vitaliiv1.sg-host.com/service-area/",
+        "status": "publish",
+        "slug_parent_url_preserved": true,
+        "hero_component": 1318,
+        "heading_instances": 4,
+        "authored_seo_saved": true
+      },
+      {
+        "id": 1132,
+        "url": "https://vitaliiv1.sg-host.com/portfolio/",
+        "status": "publish",
+        "slug_parent_url_preserved": true,
+        "hero_component": 1318,
+        "heading_instances": 3,
+        "authored_seo_saved": true
+      },
+      {
+        "id": 1007,
+        "url": "https://vitaliiv1.sg-host.com/resources/",
+        "status": "publish",
+        "slug_parent_url_preserved": true,
+        "hero_component": 1318,
+        "heading_instances": 3,
+        "authored_seo_saved": true
+      },
+      {
+        "id": 982,
+        "url": "https://vitaliiv1.sg-host.com/partner-programs/",
+        "status": "publish",
+        "slug_parent_url_preserved": true,
+        "hero_component": 1318,
+        "heading_instances": 3,
+        "authored_seo_saved": true
+      },
+      {
+        "id": 983,
+        "url": "https://vitaliiv1.sg-host.com/partner-programs/plumber-support-program/",
+        "status": "publish",
+        "slug_parent_url_preserved": true,
+        "hero_component": 1318,
+        "heading_instances": 3,
+        "authored_seo_saved": true
+      },
+      {
+        "id": 984,
+        "url": "https://vitaliiv1.sg-host.com/partner-programs/insurance-agent-program/",
+        "status": "publish",
+        "slug_parent_url_preserved": true,
+        "hero_component": 1318,
+        "heading_instances": 3,
+        "authored_seo_saved": true
+      },
+      {
+        "id": 985,
+        "url": "https://vitaliiv1.sg-host.com/partner-programs/condominium-hoa-program/",
+        "status": "publish",
+        "slug_parent_url_preserved": true,
+        "hero_component": 1318,
+        "heading_instances": 3,
+        "authored_seo_saved": true
+      },
+      {
+        "id": 986,
+        "url": "https://vitaliiv1.sg-host.com/partner-programs/commercial-partnership-programs/",
+        "status": "publish",
+        "slug_parent_url_preserved": true,
+        "hero_component": 1318,
+        "heading_instances": 3,
+        "authored_seo_saved": true
+      },
+      {
+        "id": 526,
+        "url": "https://vitaliiv1.sg-host.com/service-area/lombard/",
+        "status": "publish",
+        "slug_parent_url_preserved": true,
+        "hero_component": 1318,
+        "heading_instances": 3,
+        "authored_seo_saved": true
+      },
+      {
+        "id": 533,
+        "url": "https://vitaliiv1.sg-host.com/service-area/glenview/",
+        "status": "publish",
+        "slug_parent_url_preserved": true,
+        "hero_component": 1318,
+        "heading_instances": 3,
+        "authored_seo_saved": true
+      },
+      {
+        "id": 534,
+        "url": "https://vitaliiv1.sg-host.com/about-us/careers/",
+        "status": "publish",
+        "slug_parent_url_preserved": true,
+        "hero_component": 1318,
+        "heading_instances": 3,
+        "authored_seo_saved": true
+      },
+      {
+        "id": 556,
+        "url": "https://vitaliiv1.sg-host.com/service-area/northbrook/",
+        "status": "publish",
+        "slug_parent_url_preserved": true,
+        "hero_component": 1318,
+        "heading_instances": 3,
+        "authored_seo_saved": true
+      },
+      {
+        "id": 536,
+        "url": "https://vitaliiv1.sg-host.com/service-area/oak-brook/",
+        "status": "publish",
+        "slug_parent_url_preserved": true,
+        "hero_component": 1318,
+        "heading_instances": 3,
+        "authored_seo_saved": true
+      }
+    ],
+    "new_native_internal_links": [
+      {
+        "source": 497,
+        "target": 496,
+        "url": "https://vitaliiv1.sg-host.com/contact-us/"
+      },
+      {
+        "source": 497,
+        "target": 484,
+        "url": "https://vitaliiv1.sg-host.com/residential-services/"
+      },
+      {
+        "source": 497,
+        "target": 499,
+        "url": "https://vitaliiv1.sg-host.com/commercial-services/"
+      },
+      {
+        "source": 497,
+        "target": 1132,
+        "url": "https://vitaliiv1.sg-host.com/portfolio/"
+      },
+      {
+        "source": 497,
+        "target": 498,
+        "url": "https://vitaliiv1.sg-host.com/testimonials/"
+      },
+      {
+        "source": 497,
+        "target": 1007,
+        "url": "https://vitaliiv1.sg-host.com/resources/"
+      },
+      {
+        "source": 497,
+        "target": 496,
+        "url": "https://vitaliiv1.sg-host.com/contact-us/"
+      },
+      {
+        "source": 497,
+        "target": 492,
+        "url": "https://vitaliiv1.sg-host.com/service-request/"
+      },
+      {
+        "source": 498,
+        "target": 496,
+        "url": "https://vitaliiv1.sg-host.com/contact-us/"
+      },
+      {
+        "source": 498,
+        "target": 1132,
+        "url": "https://vitaliiv1.sg-host.com/portfolio/"
+      },
+      {
+        "source": 498,
+        "target": 493,
+        "url": "https://vitaliiv1.sg-host.com/before-and-after/"
+      },
+      {
+        "source": 498,
+        "target": 496,
+        "url": "https://vitaliiv1.sg-host.com/contact-us/"
+      },
+      {
+        "source": 495,
+        "target": 492,
+        "url": "https://vitaliiv1.sg-host.com/service-request/"
+      },
+      {
+        "source": 495,
+        "target": 526,
+        "url": "https://vitaliiv1.sg-host.com/service-area/lombard/"
+      },
+      {
+        "source": 495,
+        "target": 533,
+        "url": "https://vitaliiv1.sg-host.com/service-area/glenview/"
+      },
+      {
+        "source": 495,
+        "target": 556,
+        "url": "https://vitaliiv1.sg-host.com/service-area/northbrook/"
+      },
+      {
+        "source": 495,
+        "target": 536,
+        "url": "https://vitaliiv1.sg-host.com/service-area/oak-brook/"
+      },
+      {
+        "source": 495,
+        "target": 496,
+        "url": "https://vitaliiv1.sg-host.com/contact-us/"
+      },
+      {
+        "source": 495,
+        "target": 514,
+        "url": "https://vitaliiv1.sg-host.com/residential-services/water-damage/"
+      },
+      {
+        "source": 495,
+        "target": 517,
+        "url": "https://vitaliiv1.sg-host.com/residential-services/fire-smoke/"
+      },
+      {
+        "source": 495,
+        "target": 516,
+        "url": "https://vitaliiv1.sg-host.com/residential-services/mold-removal/"
+      },
+      {
+        "source": 495,
+        "target": 518,
+        "url": "https://vitaliiv1.sg-host.com/residential-services/reconstruction/"
+      },
+      {
+        "source": 495,
+        "target": 492,
+        "url": "https://vitaliiv1.sg-host.com/service-request/"
+      },
+      {
+        "source": 1132,
+        "target": 492,
+        "url": "https://vitaliiv1.sg-host.com/service-request/"
+      },
+      {
+        "source": 1132,
+        "target": 514,
+        "url": "https://vitaliiv1.sg-host.com/residential-services/water-damage/"
+      },
+      {
+        "source": 1132,
+        "target": 533,
+        "url": "https://vitaliiv1.sg-host.com/service-area/glenview/"
+      },
+      {
+        "source": 1132,
+        "target": 517,
+        "url": "https://vitaliiv1.sg-host.com/residential-services/fire-smoke/"
+      },
+      {
+        "source": 1132,
+        "target": 516,
+        "url": "https://vitaliiv1.sg-host.com/residential-services/mold-removal/"
+      },
+      {
+        "source": 1132,
+        "target": 493,
+        "url": "https://vitaliiv1.sg-host.com/before-and-after/"
+      },
+      {
+        "source": 1007,
+        "target": 492,
+        "url": "https://vitaliiv1.sg-host.com/service-request/"
+      },
+      {
+        "source": 1007,
+        "target": 514,
+        "url": "https://vitaliiv1.sg-host.com/residential-services/water-damage/"
+      },
+      {
+        "source": 1007,
+        "target": 517,
+        "url": "https://vitaliiv1.sg-host.com/residential-services/fire-smoke/"
+      },
+      {
+        "source": 1007,
+        "target": 516,
+        "url": "https://vitaliiv1.sg-host.com/residential-services/mold-removal/"
+      },
+      {
+        "source": 1007,
+        "target": 518,
+        "url": "https://vitaliiv1.sg-host.com/residential-services/reconstruction/"
+      },
+      {
+        "source": 1007,
+        "target": 487,
+        "url": "https://vitaliiv1.sg-host.com/water-extraction/"
+      },
+      {
+        "source": 1007,
+        "target": 490,
+        "url": "https://vitaliiv1.sg-host.com/moisture-mapping/"
+      },
+      {
+        "source": 1007,
+        "target": 491,
+        "url": "https://vitaliiv1.sg-host.com/dehumidification/"
+      },
+      {
+        "source": 1007,
+        "target": 488,
+        "url": "https://vitaliiv1.sg-host.com/board-up/"
+      },
+      {
+        "source": 1007,
+        "target": 489,
+        "url": "https://vitaliiv1.sg-host.com/odor-removal/"
+      },
+      {
+        "source": 1007,
+        "target": 1132,
+        "url": "https://vitaliiv1.sg-host.com/portfolio/"
+      },
+      {
+        "source": 1007,
+        "target": 492,
+        "url": "https://vitaliiv1.sg-host.com/service-request/"
+      },
+      {
+        "source": 982,
+        "target": 496,
+        "url": "https://vitaliiv1.sg-host.com/contact-us/"
+      },
+      {
+        "source": 982,
+        "target": 983,
+        "url": "https://vitaliiv1.sg-host.com/partner-programs/plumber-support-program/"
+      },
+      {
+        "source": 982,
+        "target": 984,
+        "url": "https://vitaliiv1.sg-host.com/partner-programs/insurance-agent-program/"
+      },
+      {
+        "source": 982,
+        "target": 985,
+        "url": "https://vitaliiv1.sg-host.com/partner-programs/condominium-hoa-program/"
+      },
+      {
+        "source": 982,
+        "target": 986,
+        "url": "https://vitaliiv1.sg-host.com/partner-programs/commercial-partnership-programs/"
+      },
+      {
+        "source": 982,
+        "target": 499,
+        "url": "https://vitaliiv1.sg-host.com/commercial-services/"
+      },
+      {
+        "source": 982,
+        "target": 496,
+        "url": "https://vitaliiv1.sg-host.com/contact-us/"
+      },
+      {
+        "source": 983,
+        "target": 496,
+        "url": "https://vitaliiv1.sg-host.com/contact-us/"
+      },
+      {
+        "source": 983,
+        "target": 514,
+        "url": "https://vitaliiv1.sg-host.com/residential-services/water-damage/"
+      },
+      {
+        "source": 983,
+        "target": 487,
+        "url": "https://vitaliiv1.sg-host.com/water-extraction/"
+      },
+      {
+        "source": 983,
+        "target": 496,
+        "url": "https://vitaliiv1.sg-host.com/contact-us/"
+      },
+      {
+        "source": 983,
+        "target": 982,
+        "url": "https://vitaliiv1.sg-host.com/partner-programs/"
+      },
+      {
+        "source": 984,
+        "target": 496,
+        "url": "https://vitaliiv1.sg-host.com/contact-us/"
+      },
+      {
+        "source": 984,
+        "target": 484,
+        "url": "https://vitaliiv1.sg-host.com/residential-services/"
+      },
+      {
+        "source": 984,
+        "target": 499,
+        "url": "https://vitaliiv1.sg-host.com/commercial-services/"
+      },
+      {
+        "source": 984,
+        "target": 496,
+        "url": "https://vitaliiv1.sg-host.com/contact-us/"
+      },
+      {
+        "source": 984,
+        "target": 982,
+        "url": "https://vitaliiv1.sg-host.com/partner-programs/"
+      },
+      {
+        "source": 985,
+        "target": 496,
+        "url": "https://vitaliiv1.sg-host.com/contact-us/"
+      },
+      {
+        "source": 985,
+        "target": 484,
+        "url": "https://vitaliiv1.sg-host.com/residential-services/"
+      },
+      {
+        "source": 985,
+        "target": 499,
+        "url": "https://vitaliiv1.sg-host.com/commercial-services/"
+      },
+      {
+        "source": 985,
+        "target": 496,
+        "url": "https://vitaliiv1.sg-host.com/contact-us/"
+      },
+      {
+        "source": 986,
+        "target": 496,
+        "url": "https://vitaliiv1.sg-host.com/contact-us/"
+      },
+      {
+        "source": 986,
+        "target": 499,
+        "url": "https://vitaliiv1.sg-host.com/commercial-services/"
+      },
+      {
+        "source": 986,
+        "target": 496,
+        "url": "https://vitaliiv1.sg-host.com/contact-us/"
+      },
+      {
+        "source": 526,
+        "target": 492,
+        "url": "https://vitaliiv1.sg-host.com/service-request/"
+      },
+      {
+        "source": 526,
+        "target": 496,
+        "url": "https://vitaliiv1.sg-host.com/contact-us/"
+      },
+      {
+        "source": 526,
+        "target": 516,
+        "url": "https://vitaliiv1.sg-host.com/residential-services/mold-removal/"
+      },
+      {
+        "source": 526,
+        "target": 514,
+        "url": "https://vitaliiv1.sg-host.com/residential-services/water-damage/"
+      },
+      {
+        "source": 526,
+        "target": 517,
+        "url": "https://vitaliiv1.sg-host.com/residential-services/fire-smoke/"
+      },
+      {
+        "source": 526,
+        "target": 518,
+        "url": "https://vitaliiv1.sg-host.com/residential-services/reconstruction/"
+      },
+      {
+        "source": 526,
+        "target": 492,
+        "url": "https://vitaliiv1.sg-host.com/service-request/"
+      },
+      {
+        "source": 526,
+        "target": 495,
+        "url": "https://vitaliiv1.sg-host.com/service-area/"
+      },
+      {
+        "source": 533,
+        "target": 492,
+        "url": "https://vitaliiv1.sg-host.com/service-request/"
+      },
+      {
+        "source": 533,
+        "target": 514,
+        "url": "https://vitaliiv1.sg-host.com/residential-services/water-damage/"
+      },
+      {
+        "source": 533,
+        "target": 496,
+        "url": "https://vitaliiv1.sg-host.com/contact-us/"
+      },
+      {
+        "source": 533,
+        "target": 517,
+        "url": "https://vitaliiv1.sg-host.com/residential-services/fire-smoke/"
+      },
+      {
+        "source": 533,
+        "target": 516,
+        "url": "https://vitaliiv1.sg-host.com/residential-services/mold-removal/"
+      },
+      {
+        "source": 533,
+        "target": 518,
+        "url": "https://vitaliiv1.sg-host.com/residential-services/reconstruction/"
+      },
+      {
+        "source": 533,
+        "target": 492,
+        "url": "https://vitaliiv1.sg-host.com/service-request/"
+      },
+      {
+        "source": 533,
+        "target": 495,
+        "url": "https://vitaliiv1.sg-host.com/service-area/"
+      },
+      {
+        "source": 534,
+        "target": 496,
+        "url": "https://vitaliiv1.sg-host.com/contact-us/"
+      },
+      {
+        "source": 534,
+        "target": 497,
+        "url": "https://vitaliiv1.sg-host.com/about-us/"
+      },
+      {
+        "source": 534,
+        "target": 496,
+        "url": "https://vitaliiv1.sg-host.com/contact-us/"
+      },
+      {
+        "source": 556,
+        "target": 492,
+        "url": "https://vitaliiv1.sg-host.com/service-request/"
+      },
+      {
+        "source": 556,
+        "target": 517,
+        "url": "https://vitaliiv1.sg-host.com/residential-services/fire-smoke/"
+      },
+      {
+        "source": 556,
+        "target": 493,
+        "url": "https://vitaliiv1.sg-host.com/before-and-after/"
+      },
+      {
+        "source": 556,
+        "target": 514,
+        "url": "https://vitaliiv1.sg-host.com/residential-services/water-damage/"
+      },
+      {
+        "source": 556,
+        "target": 516,
+        "url": "https://vitaliiv1.sg-host.com/residential-services/mold-removal/"
+      },
+      {
+        "source": 556,
+        "target": 492,
+        "url": "https://vitaliiv1.sg-host.com/service-request/"
+      },
+      {
+        "source": 556,
+        "target": 518,
+        "url": "https://vitaliiv1.sg-host.com/residential-services/reconstruction/"
+      },
+      {
+        "source": 536,
+        "target": 492,
+        "url": "https://vitaliiv1.sg-host.com/service-request/"
+      },
+      {
+        "source": 536,
+        "target": 518,
+        "url": "https://vitaliiv1.sg-host.com/residential-services/reconstruction/"
+      },
+      {
+        "source": 536,
+        "target": 493,
+        "url": "https://vitaliiv1.sg-host.com/before-and-after/"
+      },
+      {
+        "source": 536,
+        "target": 514,
+        "url": "https://vitaliiv1.sg-host.com/residential-services/water-damage/"
+      },
+      {
+        "source": 536,
+        "target": 499,
+        "url": "https://vitaliiv1.sg-host.com/commercial-services/"
+      },
+      {
+        "source": 536,
+        "target": 492,
+        "url": "https://vitaliiv1.sg-host.com/service-request/"
+      },
+      {
+        "source": 536,
+        "target": 496,
+        "url": "https://vitaliiv1.sg-host.com/contact-us/"
+      }
+    ],
+    "protected_unchanged": {
+      "492": {
+        "slug": true,
+        "parent": true,
+        "status": true,
+        "elementor_data": true,
+        "page_settings": true
+      },
+      "496": {
+        "slug": true,
+        "parent": true,
+        "status": true,
+        "elementor_data": true,
+        "page_settings": true
+      },
+      "1952": {
+        "slug": true,
+        "parent": true,
+        "status": true,
+        "elementor_data": true,
+        "page_settings": true
+      },
+      "113": {
+        "elementor_data": true,
+        "conditions": true
+      },
+      "114": {
+        "elementor_data": true,
+        "conditions": true
+      }
+    },
+    "home_only_two_authorized_link_overrides_changed": true,
+    "custom_css_on_new_pages": [],
+    "baseline_native_links": 165,
+    "menu_items_inspected": 49
+  },
+  "followups": {
+    "caption_hierarchy": "Only page-local BA heading tags changed to H3 on1132,526,536; masks compare all other native body data equal. Browser hierarchy read after cache refresh.",
+    "concise_link_labels": "Only four topic link texts each on1007 and982 changed; all eight mobile links have44px height and fit one line. Resources desktop labels also read back.",
+    "reviews": "Desktop existing widget visible1136x257.9px with three fully rendered reviews;29 offscreen lazy images remain deferred, not classified as missing assets. Mobile initial read loaded all images. Filters unchanged.",
+    "links": "Both corrected Home CTAs reached492; final CTA via Enter. Partner child reached983 via Enter. Resource Water link activated by Enter and destination H1 read; immediate tab.url sample was stale, so it is not an independent URL assertion. Footer Privacy3 and Terms494 reached by Enter. #top native browser fallback scrolled to0; Skip link target robylo-content exists. Footer tel/mailto schemes verified without contacting anyone.",
+    "preservation": "Final five caption/label edits compared against first saved read; only authorized fields differ. No new shared-definition/form/SEO/configuration edits after initial preservation check."
+  },
+  "anonymous": [
+    {
+      "url": "https://vitaliiv1.sg-host.com/about-us/",
+      "status": 403
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/service-area/lombard/",
+      "status": 403
+    }
+  ],
+  "limitations": [
+    "Browser simulations, not physical devices.",
+    "Public unauthenticated About/Lombard GET returned403; all15 browser routes loaded while authenticated.",
+    "No exhaustive carousel, dropdown interaction or keyboard accessibility certification; unchanged shared checks reused.",
+    "No form submission or test communication.",
+    "Full-page/clip screenshot capture timed out; ordinary viewport screenshots worked and were inspected."
+  ]
+}

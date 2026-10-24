@@ -1,5 +1,9 @@
 # GCPRO project context
 
+## 2026-10-24 — Complete unfinished staging pages and internal links
+
+Completed/republished15 existing Published shells: About, Reviews, Service Areas, Projects, Resources, Partner parent/four children, Careers and four evidence-backed city pages. Actual inventory94 Pages/90 Published/4 Draft; no ordinary Draft→Published transition. Fixed two Home CTA placeholders with native Request492 links; preserved completed designs, Header/Footer, forms, Trustindex and noindex. Desktop/mobile checked for all15; anonymous403 distinguished. SMS Terms, Apply and47 other city shells remain blocked/excluded as documented. [URLs, sources, exclusions and verification](docs/components/page-completion-2026-10-24.md).
+
 ## 2026-10-24 — Enquiry container alignment
 
 Corrected only native section/container gutters on Request492 and Contact496. Left middle headings now align with unchanged Hero text; Contact location panel matches Hero content width. Desktop/mobile appearance and1440/768/393 geometry checked, no overflow; saved comparison preserves forms, Hero, map, links and copy. [Exact owners and evidence](docs/components/enquiry-pages.md#2026-10-24--align-enquiry-sections-with-the-unchanged-hero).
