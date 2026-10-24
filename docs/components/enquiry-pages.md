@@ -2,7 +2,7 @@
 
 Date: 24 October 2026, America/Chicago. Staging only.
 
-**Latest task:** refinement of content columns below the preserved page headers; see the dated log at the end of this record.
+**Latest task:** cohesive white middle panels completed on492/496; the final dated log supersedes rejected middle layouts and their visibility blocker.
 
 ## Authorized scope and current state
 
@@ -69,3 +69,21 @@ Scoped recovery snapshots/tool records: work/content-column-refinement/ outside 
 Staging492/496 only. Applied ui-ux-pro-max hierarchy/readability guidance within existing GCPRO tokens; no alternative design system generated. Scoped snapshots: work/middle-polish/before-492.json and before-496.json, private outside Git.
 Request: consolidated repeated instructions into one heading and concise paragraphs, retained Call53, added Contact Us56. Contact: removed redundant phone heading/icon, reused56 for the phone action and Directions/Request Service, retained email/privacy links, office address/map and existing native form-card styling. Contact columns now0.85fr/1.15fr with existing32px spacing. Both complete Hero subtrees and complete e-form subtrees compare exactly equal before/after; page identities/states unchanged. No shared definitions, Header/Footer, code or plugins changed.
 Actual1440px desktop/393px mobile checks: no horizontal overflow, existing two-column/single-column field layouts preserved; Directions and Request URLs correct. **BLOCKER:** approved Component56 inherits hidden tablet/mobile visibility, so these new actions do not render there. This is NOT a completed mobile rollout. No global visibility change, substitute button implementation or workaround was attempted. Owner approval is required before a scoped native visibility correction/technical alternative. Delivery-status notices remain visible; notification routing unchanged. Saved/Published state is a handoff awaiting that decision. No new submissions performed.
+
+
+## 2026-10-24 — Cohesive white middle panels (current)
+This supersedes the rejected middle layouts and their visibility blocker above. Owner approved only middle sections492/496, including proceeding without ui-ux-pro-max. Direct read of the owner-supplied package returned `skill package is not available`; no replacement skill installed.
+
+**Implemented and Published:** one white panel on each existing light-blue surface, native0.8fr/1.2fr grid,32px desktop padding/gap,8px radius and existing border token. Form column owns a subtle native left border. Tablet/mobile stack supporting content before form, remove the divider and preserve20px external gutters/24px panel padding. Removed inherited duplicate mobile container padding; natural content heights.
+
+Request492 uses “Tell us what happened”, the approved introduction, three concise guidance rows, light-blue urgent inset with existing orange53 Call Now, then existing Blue Outline59 Contact Us. Contact496 uses “Let’s talk”, the approved introduction, aligned phone/email/location icon rows, clean contact links, existing address/Directions/map together and Blue Outline59 Request Service below. Reused SVG935/936/937 and gcpro-footer-contact-icon. All middle cross-navigation and Directions use59; submits retain their exact blue styling. Internal links bind natively to492/496.
+
+**Protected-state checks:** complete Hero wrapper and complete e-form subtree compare exactly equal to private before snapshots on each page; Contact map subtree also equal. Page title/slug/URL/status/parent/template and authored AIOSEO meta settings equal. Automatically generated descriptions/schema can reflect revised copy; no SEO configuration written. No Header/Footer/shared definition, new Global Class/Variable, asset, code/plugin or production edits. Zero Custom CSS in resulting middle trees. Fields, IDs, requirements, consent, validation, submission actions/messages and delivery notices unchanged. No new submissions or inbox-delivery test.
+
+**Actual checks:** authenticated Chrome1440px desktop and393px mobile; top-aligned desktop columns, existing desktop field arrangement, single-column mobile fields, no document overflow, visible orange/outline/blue actions. Mobile divider computes0px, panel x20px. Contact Name→Tab focuses Email. Rendered tel/mailto/Directions/internal destinations checked; existing map loaded in its viewport. Screenshots delivered separately: desktop panels, Request mobile panel and Contact mobile form. Public GitHub screenshot attachment was rejected by automated review for possible admin-session disclosure; screenshots are not included in this commit. Physical devices/anonymous browser rendering untested. Anonymous execution-host GETs returned403 for both public URLs; anonymous delivery is not certified. No cache settings changed.
+
+**Actual implementation source:** [sanitized saved Atomic middle-section mirror](../evidence/2026-10-24-enquiry-panel-redesign/atomic-middle-sections.json). Extracted section trees only; no raw admin responses or credentials. This mirror does not auto-deploy to WordPress. Recovery snapshots remain private in the task workspace; restore affected nodes only and preserve later owner changes.
+
+**Connector findings:** existing direct HTTP MCP initialize/tools-list/page reads worked. Changing component_id through manage-elements retained the old runtime binding, so three replacement instances of existing59 were inserted using established build-composition, then the superseded instances removed. No shared button definition/visibility policy changed. Focus declarations that fell back to Custom CSS were removed; existing native focus styles remain.
+
+Saved/Published staging redesign complete; owner visual acceptance pending. Email notification recipients/delivery and existing operational/spam-protection gaps remain open. Only deviation: explicitly approved unavailable-skill exception.

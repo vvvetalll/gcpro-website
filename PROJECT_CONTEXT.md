@@ -1,5 +1,10 @@
 # GCPRO project context
 
+## 2026-10-24 — Request/Contact middle-panel redesign
+
+Published native white40/60 panels on staging492/496, mobile stacking/gutters, approved concise supporting content and existing53/59 button hierarchy. Hero1318 wrappers, complete forms/SMS/submission settings, map, page identity/status and authored SEO meta preserved. No shared definition/custom code/plugin changes. Authenticated1440px desktop/393px mobile and saved-state checks passed; anonymous GET403 and disconnected email delivery remain explicit. [Source mirror, checks and recovery](docs/components/enquiry-pages.md#2026-10-24--cohesive-white-middle-panels-current).
+
+
 
 ## 2026-10-24 — Trustindex service reviews on staging
 
