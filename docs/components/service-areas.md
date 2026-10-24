@@ -26,3 +26,7 @@ No Service Areas JavaScript, Custom Code, shortcode, HTML widget or external loo
 Hover/focus turns text/arrow orange and moves the pseudo-arrow0.2rem; reduced motion removes movement. Actual rendered width checks pass360/393/430/768/1440. All12 destinations and All Service Areas remain literal#; they are explicitly unresolved routes, not verified working navigation.
 
 Edit content in Homepage native controls; repeated styles in the two existing classes. Bind intended existing published destination objects through supported Internal URL/page selectors when routes are approved. Preserve independent destinations, avoid duplicate location pages and retest native bindings after migration. Do not connect this layout to an invented ZIP backend. No visual refactor was performed.
+
+## 2026-10-24 — Seventeen service-page consumers
+
+All17 now use native1140 immediately before Reviews; retained514, added16 references with heading Overrides only. Central12 cities, native links, directory, availability Popup1801 and matching are unchanged. Earlier literal# / inactive-action descriptions above are historical. Current full chain: Service Areas → Reviews → Affiliations1886 → FAQ → Final CTA. [Coverage, actual checks and remaining limitations](../audits/2026-10-24-service-consistency.md). Five supporting-page background trials were removed after the renderer ignored them; no ineffective style left deployed.

@@ -40,3 +40,15 @@
 @media (prefers-reduced-motion: reduce) {
   .gcpro-nav-ready .gcpro-smart-header { transition: none; }
 }
+
+/* Existing floating state: match Solid Orange53 without changing button geometry. */
+.gcpro-nav-ready .gcpro-smart-header.is-floating .header-row .button-secondary {
+  background-color: var(--color-accent);
+  border-color: var(--color-accent);
+  color: var(--color-white);
+}
+.gcpro-nav-ready .gcpro-smart-header.is-floating .header-row .button-secondary:is(:hover, :focus-visible) {
+  background-color: var(--color-primary-hover);
+  border-color: var(--color-primary-hover);
+  color: var(--color-white);
+}

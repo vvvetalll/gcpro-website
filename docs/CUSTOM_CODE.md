@@ -176,3 +176,5 @@ Use role=dialog, aria-modal=false for small nonmodal popovers containing profile
 
 
 2026-10-24 — Shared affiliations rollout: Component1886 reuses existing semantic trigger hooks on all17 service pages. Existing1881 source/meta and Footer114 tooltip text/links remain exactly unchanged. Ten triggers per service page (five large-block/five Footer); no second script, class, stylesheet or code entry. Large layout edits now belong in1886. [Coverage and verification](components/affiliations.md#approved-shared-rollout--current-editing-location).
+
+2026-10-24 — Code903 CSS-only Header state exception: existing floating state supplies Solid Orange palette to Header `.button-secondary`; hover/focus matches53. Canonical integrations/scroll-navigation.css updated; no separately enqueued file, new script/listener/token or JS change. Location/conditions/priority unchanged. Header113/Footer114/Popup1801 preserved. [Scope, owners, contrast/access limits and recovery](audits/2026-10-24-service-consistency.md).

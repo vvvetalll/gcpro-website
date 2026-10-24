@@ -51,3 +51,7 @@ Header/request/utility unresolved URLs remain#; Footer has only verified telepho
 ## 2026-10-24 — Compact affiliation row
 
 Footer114 adds the five approved marks immediately below the city list. The block is left aligned; its heading occupies one line (16px desktop,11px mobile), and the logo grid stays five across, including mobile. Native frames44px high with4px padding; logo row360px/max100%, heading container500px/max100%,24px bottom padding. RIA artwork52×24px; subtle native opacity/border hover and focus. This supersedes the earlier no-Footer-JS note only for the authorized centralized affiliation behavior1881. Existing903 and all previous functionality remain unchanged. See [affiliations record](affiliations.md).
+
+## 2026-10-24 — Header scrolled Request Service palette
+
+Existing903 CSS applies Solid Orange53 colors only to the existing Header Secondary56 button while `.is-floating`; normal top blue returns without geometry/destination changes. Hover/focus uses existing primary-hover and white; native focus outline retained.903 JS,113 saved meta, mobile menu/emergency behavior and Footer114 unchanged. [Actual checks, partial mobile coverage and inherited contrast limitation](../audits/2026-10-24-service-consistency.md).

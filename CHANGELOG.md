@@ -591,3 +591,5 @@ Owner requested the same logos on Homepage154. Existing Why Component1149 instan
 
 
 2026-10-24 — Approved shared affiliations rollout: created native Component1886 from Water514’s approved block, placed one instance on all17 staging service pages between Reviews and FAQ, removed the standalone514 block and duplicate service-instance Why logos. Preserved Footer114, exact tooltip copy,1881, reviews/widget mappings, content, URLs, publication states and SEO. [Coverage, editing and checks](docs/components/affiliations.md#approved-shared-rollout--current-editing-location).
+
+2026-10-24 — Added existing Service Areas1140 to16 service pages; retained Water514 and all17 affiliations/review mappings/content/SEO. Existing903 receives CSS-only floating Request Service colors, preserving top blue, geometry and controller. Footer/Why/logo/popup content unchanged. Stopped further UI checks at owner request; ineffective background trial removed. [Actual verification and limitations](docs/audits/2026-10-24-service-consistency.md).

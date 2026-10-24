@@ -134,3 +134,6 @@ Use [docs/seo/SEO_STRATEGY.md](docs/seo/SEO_STRATEGY.md), [MASTER_KEYWORD_MAP.cs
 
 The owner performs final visual acceptance. For routine visual changes, perform only the minimum technical check needed to catch a broken render or functionality. Do not run repeated screenshots, exhaustive viewport/page matrices, or prolonged visual QA unless explicitly requested. Stop verification immediately when the owner asks; report remaining checks honestly. This supersedes broader default visual-QA expectations for routine refinements. Preserve required backups and keep scope unchanged.
 
+## Section-background rhythm and proportional checks — owner instruction, 2026-10-24
+
+Whenever adding/reordering sections, inspect the changed section and its immediate neighbors for background rhythm, spacing and transitions. Avoid unintended long merged white/light-blue areas; use existing tokens with judgment, preserve the navy affiliations separator and inset CTA cards. Reuse page visits. Do not repeatedly recheck approved unchanged blocks; verify only changed elements and necessary integration behavior. When the owner asks to finish, stop further UI checks, record actual coverage/limitations and complete documentation/commit/push.

@@ -84,3 +84,7 @@ Before adding clearance, Chrome393px upward scroll at y2250 returned the Header 
 4. Recheck saved state, desktop/mobile layout and anonymous delivery. Reverting Git alone does not change WordPress; there is no automatic deployment.
 
 Private scoped pre-change tree snapshots were captured in the task's work directory. They are not full site/database backups or a tested full restore. No raw session/admin response or credential is committed.
+
+## 2026-10-24 — Scrolled Request Service colors
+
+Existing903/style#gcpro-scroll-navigation-css adds two scoped rules for `.gcpro-nav-ready .gcpro-smart-header.is-floating .header-row .button-secondary`: accent/white normal, primary-hover/white on hover/focus-visible. Existing floating class is the sole state; script/listeners/show-hide/menu logic unchanged. Native56 geometry/base styling remains. [Results and limitations](../audits/2026-10-24-service-consistency.md).
