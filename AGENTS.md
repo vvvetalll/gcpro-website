@@ -4,6 +4,20 @@
 
 Read [PROJECT_CONTEXT.md](PROJECT_CONTEXT.md), [CHANGELOG.md](CHANGELOG.md), and the relevant files in [docs](docs/WORKFLOWS.md) before working. Recheck the target, current Git state, and live evidence; this documentation is a dated handoff, not a live mirror.
 
+## Persistent Elementor MCP connection — owner instruction, 2026-10-24
+
+- Connection name: `gcpro-restoration-elementor`.
+- Staging endpoint: `https://vitaliiv1.sg-host.com/wp-json/elementor/mcp/`.
+- Transport: HTTP MCP, authenticated with WordPress application-password Basic authentication.
+- At session start, discover the client's available MCP tools and reuse this connection. If its tools are not exposed, inspect the existing secure local client configuration/credential store before asking the owner to paste connection details again.
+- Owner-designated configuration location: `~/mcp-config.json` on Linux/macOS; `%USERPROFILE%\\mcp-config.json` on Windows. These paths apply to the computer running the actual AI client, not an unrelated remote scratch environment. Verify that the client supports this file; its existence alone does not register a server.
+- If the client supports this configuration, merge the named server into the existing `mcpServers` object without overwriting other entries. Use `type: "http"`, the endpoint above, and an `Authorization` header obtained from the protected local credential store. Never put the password or encoded Authorization value in this repository, logs, screenshots or progress messages.
+- The owner authorizes reusing the saved credentials and re-establishing this staging connection for authorized project tasks without repeated connection approval. This does not authorize broader website changes or bypass client permissions.
+- If native bindings remain unavailable and a direct MCP protocol client is supported, reuse the securely stored credentials, initialize the session, retain the returned session header, then perform tools/list and an appropriate read-only page check. Clearly distinguish direct protocol access from registered client tools.
+- Verify actual access and staging hostname before edits. Do not claim a working connection merely because configuration was saved.
+- Do not restart or terminate the client automatically during active work. If an explicit reconnect/reload is required, report the exact client action needed.
+- If this environment cannot access the client machine or stored credentials, explain that specific limitation. AGENTS.md cannot install a connector or transfer secrets between machines/sessions. Ask only for the missing setup step, rather than repeatedly requesting the full connection information.
+
 ## BEAF third-party integration boundary
 
 BEAF Pro is excluded from Phase 1 architecture cleanup. Preserve its plugin files, shortcodes, CSS overrides, popup behavior, selectors and Elementor integration. Necessary page/body/grid/slider numeric scoping is an intentional third-party isolation exception, not automatic architectural debt. Cleanup authorization for custom Atomic components does not authorize BEAF changes. A future BEAF task needs separate explicit owner scope.
