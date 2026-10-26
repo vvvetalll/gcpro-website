@@ -1,5 +1,7 @@
 # GCPRO project context
 
+**2026-10-26 — working ACF Free Projects prototype:** Official Free6.8.10 registers Projects/services/sectors and optional location/BEAF fields. Single2231, archive2232 at `/projects-prototype/`, card2233 and service-query2257; native filtering, automatic membership, Load More, Gallery and responsive layout tested. All three test projects returned Draft; original portfolio/Pages/26 BEAF comparisons preserved. Anonymous403 remains unverified; no PRO required for body Gallery workflow. [Configuration, preview links, limits and recovery](docs/components/projects-acf-prototype.md).
+
 **2026-10-26 — six additional BA pairs:** Before & After493 now26 comparisons; Glenview, window mold, Wonder Lake kitchen/stairs, Tinley basement and bedroom added. Existing Tinley bathroom reused without duplicate. Mold516 Window caption corrected. [Records and verification](docs/components/before-after.md#six-owner-supplied-comparison-pairs--2026-10-26).
 
 **2026-10-26 — BA layout consistency:** Six existing service comparison grids now reuse `grid-3`; shortcode/card content preserved. Atomic component creation rejected the legacy Shortcode override; owner-approved manual fallback retained. Desktop/mobile Water render checked. [Configuration and limits](docs/components/before-after.md#shared-ba-grid-classes--2026-10-26).

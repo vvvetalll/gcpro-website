@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-26",
+  "environment": "staging",
+  "projects": [
+    {
+      "id": 2234,
+      "status": "draft",
+      "slug": "tinley-park-prototype",
+      "services": [
+        17,
+        19
+      ],
+      "sector": [
+        23
+      ],
+      "location": "Tinley Park, IL"
+    },
+    {
+      "id": 2235,
+      "status": "draft",
+      "slug": "wonder-lake-prototype",
+      "services": [
+        19,
+        18
+      ],
+      "sector": [
+        23
+      ],
+      "location": "Wonder Lake, IL"
+    },
+    {
+      "id": 2236,
+      "status": "draft",
+      "slug": "chicago-club-prototype",
+      "services": [
+        19
+      ],
+      "sector": [
+        24
+      ],
+      "location": "Chicago, IL"
+    }
+  ],
+  "templates": [
+    {
+      "id": 2231,
+      "status": "publish",
+      "conditions": [
+        "include/singular/gcpro_project"
+      ]
+    },
+    {
+      "id": 2232,
+      "status": "publish",
+      "conditions": [
+        "include/archive/gcpro_project_archive"
+      ]
+    },
+    {
+      "id": 2233,
+      "status": "publish",
+      "conditions": []
+    },
+    {
+      "id": 2257,
+      "status": "publish",
+      "conditions": []
+    }
+  ],
+  "tests": {
+    "service_and_sector_filters": "passed authenticated frontend",
+    "combined_empty_and_reset": "passed",
+    "automatic_publish_draft_membership": "passed",
+    "native_service_term_query": "passed Fire",
+    "load_more": "passed 2 to 3; final native default six per page",
+    "responsive_columns": "3 / 2 / 1 at 1440 / 820 / 393",
+    "horizontal_overflow": "none at checked widths",
+    "single_optional_empty_location": "wrapper 0px",
+    "gallery_lightbox": "desktop/mobile 2/4 to 3/4 and close",
+    "anonymous_http": "403 archive and sample; guest delivery unverified",
+    "physical_device": "not tested"
+  },
+  "archive_query": {
+    "post_query_post_type": "gcpro_project",
+    "pagination_type": "load_more_on_click",
+    "columns": 3,
+    "columns_tablet": 2,
+    "columns_mobile": 1,
+    "enable_nothing_found_message": "yes",
+    "nothing_found_message_text": "No published projects match this selection.",
+    "items_per_page": 6
+  }
+}

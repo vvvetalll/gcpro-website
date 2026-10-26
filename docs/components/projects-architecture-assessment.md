@@ -1,5 +1,7 @@
 # Projects architecture assessment — 2026-10-26
 
+**Subsequent authorized implementation:** [working ACF Free prototype](projects-acf-prototype.md). The earlier no-install findings below are dated history, not the current blocker. Free6.8.10 now supplies the model; native filters/membership/template/Gallery were tested. URL cutover below remains unexecuted.
+
 Status: **blocked at the content-model prerequisite; not a working portfolio approval prototype**. Owner requires a dedicated Projects CPT, service taxonomy, structured fields, one Single Project template, a separate archive and automatic service-page selections. No installation, custom code, migration or replacement of the existing catalogue is authorized in this assessment.
 
 ## Actual staging test

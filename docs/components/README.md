@@ -1,5 +1,7 @@
 # Component maintenance index
 
+- [ACF Free Projects prototype](projects-acf-prototype.md): CPT/services/sectors, optional fields, shared Single/card, temporary automatic archive, native filters/Load More and free body Gallery; test items Draft, originals preserved.
+
 - [Projects and Before & After — 2026-10-26](projects.md): native category tabs/Collection Loops, three published cases, one scoped detail template2125, native full-size galleries and20 preserved comparisons.
 - [Shared Hero reviews](hero-trustindex.md): owner-approved Atomic Trustindex ID/display controls in1318/1453.
 
