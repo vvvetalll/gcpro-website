@@ -1,5 +1,7 @@
 # GCPRO project context
 
+**2026-10-26 — Hero reviews milestone:** Trustindex widget `53edca7848d34139155693b18cf` is published in shared1318 and Water1453 beneath buttons, per latest owner scope. Existing plugin0.4.3 provides native ID/show-hide controls.11 Hero photographs have verified metadata/alt updates. [Editing, limits and remaining Projects/Header work](docs/components/hero-trustindex.md).
+
 **2026-10-26 — destination preservation:** Canonical URL inventory retains321 rows and adds4 discoveries (325 total). All133 evidenced source content objects have staging counterparts:82 reused,51 created (50 Draft, thank-you2044 published). QR welcome is production `/connect/`15438 → Draft2040; VCF/form dependencies remain open. [Evidence, exceptions and rollback](docs/audits/2026-10-26-destination-preservation.md). Production and existing94 staging Pages unchanged.
 
 ## 2026-10-24 — Complete unfinished staging pages and internal links

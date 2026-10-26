@@ -1,5 +1,7 @@
 # GCPRO changelog
 
+**2026-10-26 — shared Hero reviews and photo metadata:** Published owner-approved Atomic Trustindex element under buttons in1318/1453. Desktop/mobile loading and actual review click verified. Updated11 used Hero photographs' metadata with rendered alt verification. [Implementation, presentation limits and remaining task items](docs/components/hero-trustindex.md).
+
 **2026-10-26 — preserve legacy and special destinations:** Reconciled production Pages/articles/projects and QR/print evidence into the canonical CSV; created51 missing staging objects, kept50 Draft, restored `/thank-you/`. Existing designs/forms/components untouched. [Implementation and discovery limitations](docs/audits/2026-10-26-destination-preservation.md).
 
 ## 2026-10-24 — Complete unfinished staging pages and internal links
