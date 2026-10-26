@@ -1,5 +1,7 @@
 # Custom code and dependency register
 
+**2026-10-26 — dropdown actions:** Owner-approved semantic class on four existing menu items; two rules appended to existing Header113/Nav Menu7983af36 Custom CSS. Orange border/spacing and hover/focus only, same desktop/mobile links; no new widget/script/enqueue. [Owner and rollback](components/header-menu-refinement.md#2026-10-26--selective-dropdown-actions). Projects itself uses native templates, Tabs/Collection Loop and Gallery; no additional custom code.
+
 **2026-10-26 — shared Hero Trustindex:** Owner-authorized addition to existing Atomic plugin0.4.3, native `gcpro-trustindex` ID/show-hide controls, official Trustindex loader only. Shared1318/1453 each own one badge below buttons; no custom CSS/JS or additional plugin. [Controls, checks, dependency and rollback](components/hero-trustindex.md).
 
 **2026-10-23 — popup finish:** Native rounded card, external mobile gutters and300ms fade;44px close control, true prevent_scroll setting and viewport-preserving close. Opening focuses the dialog rather than input. Mobile gutter/focus/position checked. [Owners and recovery](components/service-availability-popup.md).

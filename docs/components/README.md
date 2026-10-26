@@ -1,5 +1,8 @@
 # Component maintenance index
 
+- [Projects and Before & After — 2026-10-26](projects.md): native category tabs/Collection Loops, three published cases, one scoped detail template2125, native full-size galleries and20 preserved comparisons.
+- [Shared Hero reviews](hero-trustindex.md): owner-approved Atomic Trustindex ID/display controls in1318/1453.
+
 - [2026-10-24 page completion](page-completion-2026-10-24.md):15 existing shells completed using1318/71/59, verified native links and desktop/mobile layouts; factual blockers explicit.
 
 - [Atomic Masked Image — Water514-only prototype](atomic-masked-image.md): isolated Hero1453, independently editable Photo/SVG/None/Fit/focal controls; owner visual approval pending.

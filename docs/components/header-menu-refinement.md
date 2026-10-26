@@ -1,5 +1,13 @@
 # Header menu refinement — 2026-10-23
 
+## 2026-10-26 — selective dropdown actions
+
+Owner-approved minimal CSS exception: existing menu5 items1102/1103 Request Service→Page492,262 View All Service Areas→495 and263 All Projects→1132 now have `gcpro-menu-action`. Their native object links, hierarchy, order and existing classes are retained. Header's main CTA and ordinary links are unchanged.
+
+Existing Header113 → Nav Menu7983af36 → Advanced Custom CSS is the sole owner. Two appended scoped rules add a thin brand-orange border,6px corners,10×14px padding,8px top gap and pale-orange hover/focus. Existing focus-visible outline/reduced-motion rules remain. [Source mirror](../../integrations/header-primary-menu.css) is not separately enqueued. No new widgets, duplicate links or scripts.
+
+Saved menu objects and frontend computed styles confirm all four actions in desktop/mobile markup have orange borders and original destinations. Mobile toggle opens with Enter and Residential submenu opens. Full pointer interactions on desktop were not certified separately. Native controls cannot target selected WordPress items; the owner explicitly authorized this existing-owner CSS exception. Rollback removes only the appended rules and the semantic class on these four items.
+
 Published on staging only. Shared Theme Builder Header113 retains its existing structure: utility navigation4ebecbc6 (menu15), identity/logo, primary navigation7983af36 (menu5), existing Request Service component56 and smart-navigation controller903. No menu destinations, labels or hierarchy changed.
 
 ## Presentation and owners

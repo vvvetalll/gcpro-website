@@ -1,0 +1,117 @@
+{
+  "date": "2026-10-26",
+  "pages": [
+    {
+      "page_id": 1132,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/",
+      "status": "publish",
+      "anonymous_http_status": 200,
+      "gallery_widgets": 0,
+      "beaf_shortcodes": [],
+      "noindex_setting_preserved": true,
+      "anonymous_robots_tags": [
+        "<meta name=\"robots\" content=\"noindex, nofollow, max-image-preview:large\" />"
+      ],
+      "anonymous_noindex_verified": true
+    },
+    {
+      "page_id": 493,
+      "url": "https://vitaliiv1.sg-host.com/before-and-after/",
+      "status": "publish",
+      "anonymous_http_status": 200,
+      "gallery_widgets": 0,
+      "beaf_shortcodes": [
+        "[bafg id=\"1200\"]",
+        "[bafg id=\"1205\"]",
+        "[bafg id=\"1206\"]",
+        "[bafg id=\"1207\"]",
+        "[bafg id=\"1208\"]",
+        "[bafg id=\"1600\"]",
+        "[bafg id=\"1165\"]",
+        "[bafg id=\"1198\"]",
+        "[bafg id=\"1199\"]",
+        "[bafg id=\"1201\"]",
+        "[bafg id=\"1204\"]",
+        "[bafg id=\"1210\"]",
+        "[bafg id=\"1245\"]",
+        "[bafg id=\"1591\"]",
+        "[bafg id=\"1595\"]",
+        "[bafg id=\"1202\"]",
+        "[bafg id=\"1203\"]",
+        "[bafg id=\"1209\"]",
+        "[bafg id=\"1596\"]",
+        "[bafg id=\"1597\"]"
+      ],
+      "noindex_setting_preserved": true,
+      "anonymous_robots_tags": [
+        "<meta name=\"robots\" content=\"noindex, nofollow, max-image-preview:large\" />"
+      ],
+      "anonymous_noindex_verified": true
+    },
+    {
+      "page_id": 2077,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/from-ashes-to-excellence-tinley-park-home-restoration/",
+      "status": "publish",
+      "anonymous_http_status": 200,
+      "gallery_widgets": 1,
+      "beaf_shortcodes": [
+        "[bafg id=\"1200\"]",
+        "[bafg id=\"1205\"]"
+      ],
+      "noindex_setting_preserved": true,
+      "anonymous_robots_tags": [
+        "<meta name=\"robots\" content=\"noindex, nofollow, max-image-preview:large\" />"
+      ],
+      "anonymous_noindex_verified": true
+    },
+    {
+      "page_id": 2078,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/restoring-elegance-water-damage-reconstruction-of-a-wonder-lake-residence/",
+      "status": "publish",
+      "anonymous_http_status": 200,
+      "gallery_widgets": 1,
+      "beaf_shortcodes": [
+        "[bafg id=\"1199\"]",
+        "[bafg id=\"1204\"]"
+      ],
+      "noindex_setting_preserved": true,
+      "anonymous_robots_tags": [
+        "<meta name=\"robots\" content=\"noindex, nofollow, max-image-preview:large\" />"
+      ],
+      "anonymous_noindex_verified": true
+    },
+    {
+      "page_id": 2079,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/reconstruction-in-boys-and-girls-clubs-of-chicago/",
+      "status": "publish",
+      "anonymous_http_status": 200,
+      "gallery_widgets": 1,
+      "beaf_shortcodes": [],
+      "noindex_setting_preserved": true,
+      "anonymous_robots_tags": [
+        "<meta name=\"robots\" content=\"noindex, nofollow, max-image-preview:large\" />"
+      ],
+      "anonymous_noindex_verified": true
+    }
+  ],
+  "shared_template": 2125,
+  "new_media": [
+    2134,
+    2135,
+    2136,
+    2137
+  ],
+  "mobile_viewport": 393,
+  "mobile_max_page_width": 378,
+  "mobile_horizontal_overflow": false,
+  "catalogue_categories_tested": [
+    "All projects",
+    "Fire restoration",
+    "Water reconstruction",
+    "Commercial reconstruction"
+  ],
+  "gallery_fullsize_navigation": "Tinley4 images: open, Next2/4, close; native Gallery proof2 images: Next2/2",
+  "beaf_fullscreen": "Tinley: opened and closed",
+  "beaf_drag": "Attempt did not establish divider movement; not certified",
+  "physical_device_tested": false
+}

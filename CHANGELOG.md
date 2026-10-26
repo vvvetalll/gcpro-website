@@ -1,5 +1,7 @@
 # GCPRO changelog
 
+**2026-10-26 — Projects and Before & After:** Published three preserved project Pages with one scoped native detail template2125, native Gallery/lightbox, source-backed copy and existing comparison pairs. Projects1132 now uses approved category Tabs/Collection Loops; Before & After493 retains20 comparisons in four groups and adds five verified case-study links. Four dropdown actions receive owner-approved orange outlines.325 inventory rows preserved;10 other projects remain Draft. [Implementation, exact checks and limitations](docs/components/projects.md).
+
 **2026-10-26 — shared Hero reviews and photo metadata:** Published owner-approved Atomic Trustindex element under buttons in1318/1453. Desktop/mobile loading and actual review click verified. Updated11 used Hero photographs' metadata with rendered alt verification. [Implementation, presentation limits and remaining task items](docs/components/hero-trustindex.md).
 
 **2026-10-26 — preserve legacy and special destinations:** Reconciled production Pages/articles/projects and QR/print evidence into the canonical CSV; created51 missing staging objects, kept50 Draft, restored `/thank-you/`. Existing designs/forms/components untouched. [Implementation and discovery limitations](docs/audits/2026-10-26-destination-preservation.md).

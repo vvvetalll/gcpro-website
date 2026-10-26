@@ -1,5 +1,7 @@
 # Before / After
 
+**2026-10-26 — Projects integration:** Page493 now starts with shared Hero1318 and retains all20 existing BA cards/shortcodes in four native groups (6 fire,9 residential reconstruction,3 commercial,2 mold/exterior). Group H2/card H3 hierarchy; five native View Project links lead to verified Tinley2077/Wonder Lake2078 cases. Plugin records, media pairings and Kit styling are unchanged. Native Gallery/lightbox on the three new case studies is separate from BEAF. Fullscreen open/close verified; automated divider movement was not confirmed. [Current owners, checks, drafts and recovery](projects.md).
+
 **2026-10-23 — five owner-supplied photo pairs added:** Gallery493 retains all15 existing cards and appends five new native BEAF records with the established ba-card/caption/title classes. Ten optimized WebP photos, each4:3 (kitchen/bathroom/roof/exterior1200x900; attic800x600), semantic filenames and Media Library title/caption/description/alt plus BEAF alt fields. Photo order explicitly follows observed before/after conditions. Existing sliders/assets/plugin files and other galleries unchanged. Native WP editor created the slider records; existing page tree appended through WP REST because legacy Shortcode creation is not supported by Atomic MCP, followed by a native grid save for render-cache invalidation. No new CSS/classes/components/plugins.
 
 - BEAF1591 — Kitchen Reconstruction — Oak Park, IL; before/after media 1579/1581.
