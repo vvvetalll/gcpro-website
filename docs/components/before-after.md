@@ -186,3 +186,25 @@ The owner requested a reusable component, explicitly permitting manual cards if 
 Six pages published and read back: grid-3 assigned, local grid variants empty, every shortcode sequence preserved. Other element settings match backups except native serialization: Water's obsolete empty `rating_badge` override pruned (actual reviews preserved), Fire's unchanged ampersand text escaped. At1440 Water computes three362.67px tracks; at393 one338px track, page width378px, no overflow, both captions below sliders. Authenticated browser screenshots: workspace outputs `ba-grid-3-desktop.png` and `ba-grid-3-mobile.png`. No new drag/anonymous/physical-device certification. Current authenticated render refreshed correctly without cache purging. Owner visual acceptance pending.
 
 For reuse: existing section/container/stack and Heading71, grid-3 parent, individual ba-card with native Shortcode wrapper and ba-card__caption, Gallery Button59. Duplicate/reorder cards inside the grid; edit each native Shortcode independently. Avoid local grid overrides. Recovery: restore only scoped grid/card styles from private workspace `work/ba-grid-before-*.json`, preserving later edits.
+
+
+## Six owner-supplied comparison pairs — 2026-10-26
+
+Added six native BEAF records through the existing plugin editor and six existing-design cards to Published Before & After493. Prior20 comparisons retained; total26. No plugin files/settings, production, project bodies or service grids were changed by the gallery addition. Existing `grid-3`/`ba-card`/caption classes retained. Native Elementor save/publication regenerated the initially cached gallery output.
+
+| BEAF | Pair and caption | Before / After files | Media IDs |
+| --- | --- | --- | --- |
+|2189|Living Room Water Damage Restoration — Glenview, IL|glenview-house-3.jpg / glenview-house-4.jpg|2190 /2191|
+|2202|Window Mold Removal|Mold-3.jpg / Mold-4.jpg|2192 /2193|
+|2206|Kitchen Reconstruction — Wonder Lake, IL|kitchen-wander-lake-3.jpg / kitchen-wander-lake-4.jpg|2194 /2195|
+|2213|Stairway Reconstruction — Wonder Lake, IL|stairs-wonder-lake-1.jpg / stairs-wonder-lake-2.jpg|2196 /2197|
+|2215|Basement Fire Damage Restoration — Tinley Park, IL|fire-damage-tinley-7.jpg / fire-damage-tinley-7-7.jpg|2198 /2199|
+|2219|Bedroom Renovation|ania19.jpg / ania20.jpg|2200 /2201|
+
+Before/After order follows the supplied visible condition, not upload order. Glenview location/service supplied by owner; Wonder Lake/Tinley labels follow existing source/project records. No city invented for Window Mold or Bedroom. No new testing, completion-date, safety or performance claims. Original JPEG files uploaded without manual alteration; WordPress generated normal derivatives (including scaled bedroom images). Each new asset has a distinct factual alt/title and the BEAF alt fields were populated. Existing bathroom Tinley pair1208 already uses fire-damage-tinley-4 /4-4; retained without duplicate media, record or card.
+
+Cards placed in existing Fire (2215), Residential (2189/2206/2213/2219), and Mold/Exterior (2202) groups. These are existing presentation groups, not a new automated taxonomy system. [Public media/record/card register](../evidence/2026-10-26-new-ba-pairs.json). All six Published states verified in native BEAF list; frontend shows both correct loaded photos and one initialized divider per card. At393px page width378px; no horizontal overflow. Desktop/mobile screenshots remain in workspace outputs `new-ba-pairs-desktop.png` / `window-mold-ba-mobile.png`. No new drag, anonymous or physical-device certification.
+
+During this work the owner placed2202 in Mold516's newly duplicated card but its prior Water/Glenview copy remained. Updated only heading3899d0d to **Window Mold Removal** and paragraph2373ec9 to **Window frame and sill before and after mold removal.** Published and frontend verified. Existing actual Glenview projects remain water restoration. User edits to comparisons/layout retained. Screenshot: `mold-page-window-caption.png`.
+
+Recovery: remove only the six listed cards from493 if requested; retain reusable BEAF/media records. Private pre-insertion Page493 snapshot `work/ba-collection-before-insert-1026.json` and Mold before snapshot remain outside Git. Final visual acceptance belongs to owner.

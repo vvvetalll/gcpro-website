@@ -1,0 +1,138 @@
+{
+  "environment": "staging",
+  "page": 493,
+  "previous_count": 20,
+  "current_count": 26,
+  "pairs": [
+    {
+      "title": "Living Room Water Damage Restoration - Glenview, IL",
+      "before_file": "glenview-house-3.jpg",
+      "after_file": "glenview-house-4.jpg",
+      "before_alt": "Living room with an open ceiling and exposed joists above a stone fireplace.",
+      "after_alt": "Restored living room with a finished ceiling, fireplace and light wood flooring.",
+      "before_id": 2190,
+      "before_url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/glenview-house-3.jpg",
+      "after_id": 2191,
+      "after_url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/glenview-house-4.jpg",
+      "slider_id": 2189
+    },
+    {
+      "title": "Window Mold Removal",
+      "before_file": "Mold-3.jpg",
+      "after_file": "Mold-4.jpg",
+      "before_alt": "Window frame and sill with dark spotting around the lower corner.",
+      "after_alt": "Window frame and sill after cleaning, with the lower corner visible.",
+      "before_id": 2192,
+      "before_url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/Mold-3.jpg",
+      "after_id": 2193,
+      "after_url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/Mold-4.jpg",
+      "slider_id": 2202
+    },
+    {
+      "title": "Kitchen Reconstruction - Wonder Lake, IL",
+      "before_file": "kitchen-wander-lake-3.jpg",
+      "after_file": "kitchen-wander-lake-4.jpg",
+      "before_alt": "Kitchen during reconstruction, with exposed wall studs and ceiling joists.",
+      "after_alt": "Finished kitchen with white cabinetry, a stainless steel refrigerator and wood-look flooring.",
+      "before_id": 2194,
+      "before_url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/kitchen-wander-lake-3.jpg",
+      "after_id": 2195,
+      "after_url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/kitchen-wander-lake-4.jpg",
+      "slider_id": 2206
+    },
+    {
+      "title": "Stairway Reconstruction - Wonder Lake, IL",
+      "before_file": "stairs-wonder-lake-1.jpg",
+      "after_file": "stairs-wonder-lake-2.jpg",
+      "before_alt": "Stairway during reconstruction, with exposed framing around the steps and landing.",
+      "after_alt": "Finished stairway with white balusters, wood handrails and finished walls.",
+      "before_id": 2196,
+      "before_url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/stairs-wonder-lake-1.jpg",
+      "after_id": 2197,
+      "after_url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/stairs-wonder-lake-2.jpg",
+      "slider_id": 2213
+    },
+    {
+      "title": "Basement Fire Damage Restoration - Tinley Park, IL",
+      "before_file": "fire-damage-tinley-7.jpg",
+      "after_file": "fire-damage-tinley-7-7.jpg",
+      "before_alt": "Basement before restoration, with damaged ceiling panels, flooring and stairs beside a covered pool table.",
+      "after_alt": "Restored basement with a pool table, finished walls, flooring and carpeted stairs.",
+      "before_id": 2198,
+      "before_url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/fire-damage-tinley-7.jpg",
+      "after_id": 2199,
+      "after_url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/fire-damage-tinley-7-7.jpg",
+      "slider_id": 2215
+    },
+    {
+      "title": "Bedroom Renovation",
+      "before_file": "ania19.jpg",
+      "after_file": "ania20.jpg",
+      "before_alt": "Bedroom before renovation, with open closets, a ceiling fan and wood flooring.",
+      "after_alt": "Renovated bedroom with closed white closet doors, a ceiling fan and finished wood flooring.",
+      "before_id": 2200,
+      "before_url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/ania19-scaled.jpg",
+      "after_id": 2201,
+      "after_url": "https://vitaliiv1.sg-host.com/wp-content/uploads/2026/10/ania20-scaled.jpg",
+      "slider_id": 2219
+    }
+  ],
+  "cards": [
+    {
+      "slider": 2189,
+      "grid": "553131da",
+      "card": "52e663b6",
+      "title": "Living Room Water Damage Restoration \u2014 Glenview, IL",
+      "description": "A damaged living-room ceiling and fireplace area before and after restoration."
+    },
+    {
+      "slider": 2202,
+      "grid": "2dd2e5e3",
+      "card": "ba84036c",
+      "title": "Window Mold Removal",
+      "description": "Window frame and sill before and after mold removal."
+    },
+    {
+      "slider": 2206,
+      "grid": "553131da",
+      "card": "0e900c95",
+      "title": "Kitchen Reconstruction \u2014 Wonder Lake, IL",
+      "description": "Exposed kitchen framing rebuilt into a finished space with cabinetry and flooring."
+    },
+    {
+      "slider": 2213,
+      "grid": "553131da",
+      "card": "fe36d6ab",
+      "title": "Stairway Reconstruction \u2014 Wonder Lake, IL",
+      "description": "Open framing around the stairs and landing rebuilt with finished walls and trim."
+    },
+    {
+      "slider": 2215,
+      "grid": "290ac0d0",
+      "card": "3460d51d",
+      "title": "Basement Fire Damage Restoration \u2014 Tinley Park, IL",
+      "description": "A damaged basement restored with finished walls, flooring and stairs."
+    },
+    {
+      "slider": 2219,
+      "grid": "553131da",
+      "card": "8c416a84",
+      "title": "Bedroom Renovation",
+      "description": "An empty bedroom updated with finished closets, trim and lighting."
+    }
+  ],
+  "duplicate_reused": {
+    "slider": 1208,
+    "before": "fire-damage-tinley-4.jpg",
+    "after": "fire-damage-tinley-4-4.jpg"
+  },
+  "checks": {
+    "six_records_published": true,
+    "all_new_images_loaded": true,
+    "one_initialized_handle_each": true,
+    "mobile_viewport": 393,
+    "mobile_page_width": 378,
+    "slider_drag_tested": false,
+    "anonymous_delivery_tested": false
+  }
+}

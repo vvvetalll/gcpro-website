@@ -1,5 +1,7 @@
 # GCPRO project context
 
+**2026-10-26 — six additional BA pairs:** Before & After493 now26 comparisons; Glenview, window mold, Wonder Lake kitchen/stairs, Tinley basement and bedroom added. Existing Tinley bathroom reused without duplicate. Mold516 Window caption corrected. [Records and verification](docs/components/before-after.md#six-owner-supplied-comparison-pairs--2026-10-26).
+
 **2026-10-26 — BA layout consistency:** Six existing service comparison grids now reuse `grid-3`; shortcode/card content preserved. Atomic component creation rejected the legacy Shortcode override; owner-approved manual fallback retained. Desktop/mobile Water render checked. [Configuration and limits](docs/components/before-after.md#shared-ba-grid-classes--2026-10-26).
 
 **2026-10-26 — internal-link correction:** Internal URL/Content title labels are now required instead of bare numeric destinations.212 page/template bindings corrected, plus Service Areas1140/Water Hero1453 defaults; all49 menus already native. Same destination objects/layout/status preserved. [Audit coverage, two inline consent exceptions and delivery limitations](docs/audits/2026-10-26-native-named-links.md).
