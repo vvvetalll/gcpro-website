@@ -95,7 +95,7 @@ Read-only MCP schema/resource checks on staging `vitaliiv1.sg-host.com`, 2026-10
 
 | Location | Verified native contract / edit method |
 | --- | --- |
-| Atomic Button | `link.destination` accepts a string, an object selector with numeric `id` and optional `label`, or a dynamic tag binding. Prefer the object/dynamic choices for internal pages. |
+| Atomic Button | Although the schema accepts a bare `{id}` destination, the owner requires **Internal URL → Content**, with native object ID **and actual WordPress title label**. Do not use an unnamed numeric destination. Preserve external/mail/tel/popup actions. See [2026-10-26 site-wide correction and rich-text exceptions](audits/2026-10-26-native-named-links.md). |
 | Internal URL tag | Registered URL tag name `internal-url`; settings include `type` and object selectors `post_id`, `taxonomy_id`, `attachment_id`, `author_id`. Each selector requires numeric `id`; `label` is optional. For a page/post, select the object through the native Internal URL controls (`post_id`). The returned schema does not enumerate `type` values: read the actual controls/current schema; do not invent a literal. |
 | Primary CTA 53 / Outline White 103 | Existing `link` Override exposes the same destination union, including `internal-url`. Native instance panel: Button destination → dynamic tag or object selector. |
 | Service Card 62 | Existing `cta_link` Override (Link Destination) supports that same link schema. Keep each service instance independently selectable. |

@@ -1,5 +1,7 @@
 # GCPRO changelog
 
+**2026-10-26 — named native content links:** Audited159 documents,29 Components and49 menu items. Corrected212 bindings in47 documents and native defaults in Service Areas/Water Hero; same destinations and visual data preserved. All available native fields now have title labels and no bare numeric destinations. Two consent-text inline links remain documented HTML exceptions; Contact anonymous403 prevents frontend certification there. [Changes and checks](docs/audits/2026-10-26-native-named-links.md).
+
 **2026-10-26 — Projects and Before & After:** Published three preserved project Pages with one scoped native detail template2125, native Gallery/lightbox, source-backed copy and existing comparison pairs. Projects1132 now uses approved category Tabs/Collection Loops; Before & After493 retains20 comparisons in four groups and adds five verified case-study links. Four dropdown actions receive owner-approved orange outlines.325 inventory rows preserved;10 other projects remain Draft. [Implementation, exact checks and limitations](docs/components/projects.md).
 
 **2026-10-26 — shared Hero reviews and photo metadata:** Published owner-approved Atomic Trustindex element under buttons in1318/1453. Desktop/mobile loading and actual review click verified. Updated11 used Hero photographs' metadata with rendered alt verification. [Implementation, presentation limits and remaining task items](docs/components/hero-trustindex.md).

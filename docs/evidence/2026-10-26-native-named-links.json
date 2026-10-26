@@ -1,0 +1,291 @@
+{
+  "date": "2026-10-26",
+  "documents_read": 159,
+  "documents_with_elementor": 108,
+  "components_read": 29,
+  "menus_native_object_items": 49,
+  "documents_changed": 47,
+  "page_template_changes": 212,
+  "bare_queries_converted": 100,
+  "remaining_missing_labels": [],
+  "remaining_bare_destination_queries": [],
+  "rendered_numeric_href_documents": [],
+  "inline_html_exceptions": [
+    {
+      "page_id": 492,
+      "field": "native checkbox consent text",
+      "destination": "Privacy Policy, Page3",
+      "reason": "Inline HTML inside consent text has no separate Internal URL prop; existing form preserved."
+    },
+    {
+      "page_id": 496,
+      "field": "native checkbox consent text",
+      "destination": "Privacy Policy, Page3",
+      "reason": "Inline HTML inside consent text has no separate Internal URL prop; existing form preserved."
+    }
+  ],
+  "drafts_kept_draft": [
+    1952
+  ],
+  "component_exposure_counts": {
+    "1140": 31,
+    "1453": 15
+  },
+  "retired_orphan_exposure": "1453 rating_badge referenced an already deleted paragraph; active Trustindex element unchanged",
+  "frontend_checks": [
+    {
+      "id": 2078,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 2079,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 2077,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 494,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 1132,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 1007,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 499,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 982,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 496,
+      "status": 403
+    },
+    {
+      "id": 497,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 498,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 493,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 495,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 490,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 491,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 492,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 488,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 489,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 487,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 985,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 986,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 983,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 984,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 556,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 536,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 534,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 533,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 526,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 525,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 523,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 524,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 521,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 522,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 519,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 520,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 518,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 517,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 516,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 515,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 484,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 154,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    },
+    {
+      "id": 3,
+      "status": 200,
+      "bad_numeric_hrefs": [],
+      "noindex": true
+    }
+  ],
+  "component_missing_label_check": "All29 component definitions re-read: zero missing internal-link labels or bare destination queries",
+  "same_destination_objects_verified": true,
+  "all_nonlink_data_preserved_in_47_documents": true,
+  "external_inline_links": "Email and telephone links in policy text are normal external-scheme links, not page references"
+}
