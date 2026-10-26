@@ -57,3 +57,11 @@ Footer114 adds the five approved marks immediately below the city list. The bloc
 ## 2026-10-24 — Header scrolled Request Service palette
 
 Existing903 CSS applies Solid Orange53 colors only to the existing Header Secondary56 button while `.is-floating`; normal top blue returns without geometry/destination changes. Hover/focus uses existing primary-hover and white; native focus outline retained.903 JS,113 saved meta, mobile menu/emergency behavior and Footer114 unchanged. [Actual checks, partial mobile coverage and inherited contrast limitation](../audits/2026-10-24-service-consistency.md).
+
+## Consistent Header height on the Projects archive — 2026-10-26
+
+The same Header113 rendered24px shorter on /portfolio/: row2a03c167 had padding0px 32px instead of12px 32px. Width was already1200px on both archive and Water514. The archive loaded another global container rule after the Header class; its padding-block:0 overrode the header-row vertical padding calc(var(--space-md) / 2).
+
+Removed only the generic container class g-68fb534 from Header row2a03c167. Preserved header-row/navigation-links/navigation--primary and local e-ed5d10-f4c7. Its native local controls now own width100%, min-width0, max-width container-max, auto side margins, page-gutter side padding (page-gutter-mobile on mobile), and the existing space-md gap. Existing header-row remains the vertical-padding owner. All final local style variants have custom_css:null; no new custom CSS/JS or page-specific workaround. Info bar, brand, menus, links, buttons and Hero were unchanged.
+
+Actual render comparison at equal desktop viewport/top-of-page: archive and Water Header143.17px, navigation row102.28px, width1200px and padding12px 32px.393px mobile emulation: both Header79px, padding12px 20px, native menu toggle44×44px, no horizontal overflow. Cleared staging SG cache. [Corrected Header](../evidence/2026-10-26-header-consistent.png). No full-site audit or physical-device test. Recovery uses the private scoped Header113 snapshot; restoring container and the former gap-only local style restores the old configuration and its known cascade conflict.

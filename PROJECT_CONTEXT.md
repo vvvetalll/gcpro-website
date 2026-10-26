@@ -1,5 +1,7 @@
 # GCPRO project context
 
+**2026-10-26 — Header consistency:** Fixed archive-only24px height loss from the generic container padding cascade. Header113 now preserves native width/gutters and12px vertical spacing on archive and service pages; desktop/mobile compared, no custom code added. [Owner and verification](docs/components/header-footer.md#consistent-header-height-on-the-projects-archive--2026-10-26).
+
 **2026-10-26 — global image lightbox:** Native Kit6 now shows only Close in the toolbar; owner retained gallery arrows. Counter, zoom, fullscreen, share and captions disabled without custom code. [Configuration](docs/components/projects-acf-prototype.md#global-minimal-elementor-lightbox--2026-10-26).
 
 **2026-10-26 — populated Projects cutover:** Owner-authorized in-place migration preserves all13 project IDs/URLs; all13 Published on staging. /portfolio/ now uses native archive2232, shared card2233 has photo/title/button only, filters and Load More refined. Single2231 now globally owns the native attachment Gallery (222 photographs); ACF Free suffices for that tested workflow. Legacy catalogue/Single preserved Draft, temporary switcher deleted;26 BEAF unchanged. Owner selected a simple Helen Berkun baseline; original three bodies simplified, standalone location removed. Further design acceptance remains with owner; service-page automatic selections not rolled out. [Configuration and verification](docs/components/projects-acf-prototype.md#owner-authorized-cutover-and-populated-review--2026-10-26).
