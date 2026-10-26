@@ -303,10 +303,10 @@
     ],
     "taxonomies": "",
     "has_archive": true,
-    "has_archive_slug": "projects-prototype",
+    "has_archive_slug": "portfolio",
     "rewrite": {
       "permalink_rewrite": "custom_permalink",
-      "slug": "projects-prototype",
+      "slug": "portfolio",
       "with_front": "0",
       "feeds": "0",
       "pages": "1"

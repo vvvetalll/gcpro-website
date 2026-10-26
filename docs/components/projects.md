@@ -1,5 +1,7 @@
 # Projects catalogue and detail pages — 2026-10-26
 
+**Current staging update:** Owner-authorized migration/cutover is now executed:13 original Published CPT projects at their retained URLs, archive2232 at /portfolio/, shared Single2231/Card2233 and one native attachment Gallery. Legacy catalogue1132/Single2125 retained Draft; temporary switcher removed. Single Project visual approval remains pending. [Current configuration, tests and recovery](projects-acf-prototype.md#owner-authorized-cutover-and-populated-review--2026-10-26). Earlier no-migration/prototype statements below are dated history.
+
 **Latest implementation:** [working ACF Free Projects prototype](projects-acf-prototype.md) supersedes the earlier no-install prerequisite block. Native CPT/service/sector queries and visitor filters now work on an isolated temporary archive. Existing manual Tabs below remain historical and unchanged; original project Pages were not migrated.
 
 Published on staging only. Production was a read-only source; existing URLs, shared service/contact designs and BEAF records/files remain intact. The canonical register remains [SEO_URL_INVENTORY.csv](../SEO_URL_INVENTORY.csv), with325 rows preserved.
