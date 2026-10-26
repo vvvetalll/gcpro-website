@@ -1,3 +1,5 @@
+**2026-10-26 layout update:** Existing BA cards now use `grid-3`, superseding the historical local auto-fit/two-column settings below. Native component Shortcode override failed; owner-approved manual fallback and checks: [BA layout record](before-after.md#shared-ba-grid-classes--2026-10-26).
+
 # Water Damage Restoration — completed service page
 
 ## 2026-10-23 — Approved project captions

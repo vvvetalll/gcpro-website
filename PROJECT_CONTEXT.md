@@ -1,5 +1,7 @@
 # GCPRO project context
 
+**2026-10-26 — BA layout consistency:** Six existing service comparison grids now reuse `grid-3`; shortcode/card content preserved. Atomic component creation rejected the legacy Shortcode override; owner-approved manual fallback retained. Desktop/mobile Water render checked. [Configuration and limits](docs/components/before-after.md#shared-ba-grid-classes--2026-10-26).
+
 **2026-10-26 — internal-link correction:** Internal URL/Content title labels are now required instead of bare numeric destinations.212 page/template bindings corrected, plus Service Areas1140/Water Hero1453 defaults; all49 menus already native. Same destination objects/layout/status preserved. [Audit coverage, two inline consent exceptions and delivery limitations](docs/audits/2026-10-26-native-named-links.md).
 
 **2026-10-26 — Projects wave complete:** Catalogue1132/native category tabs and three published project Pages2077/2078/2079 use one scoped Single2125 and native Gallery/lightbox. Before & After493 retains20 comparisons with groups and five case-study links.10 source projects remain Draft; inventory stays325 rows. Approved Header dropdown action styles are applied. Desktop/mobile and anonymous200/noindex checked; BEAF drag remains unverified. [Editing, sources, draft gaps and recovery](docs/components/projects.md).

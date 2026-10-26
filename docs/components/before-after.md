@@ -175,3 +175,14 @@ Historical E56 verification:
 # Owner correction — 2026-10-26
 
 Residential484's third card uses BEAF1596 attic mold photos; its stale Water/Glenview caption is corrected to **Attic Mold Remediation**, with a factual attic sheathing/framing description. Actual Glenview742 remains unchanged. Mold516, Gallery493 and Lombard526 already use1596 in the appropriate mold context. Published and authenticated frontend checked; anonymous verification403. [Exact fields and preservation record](projects-architecture-assessment.md#separate-owner-correction-during-assessment).
+
+
+## Shared BA grid classes — 2026-10-26
+
+Owner requires existing `grid-3` rather than local grid configurations. Applied it to Water514 (`12dac0fd`), Fire517 (`f9aeac15`), Mold516 (`a38dd09c`), Reconstruction518 (`51da2dad`), Commercial Reconstruction524 (`9d020797`) and General Contracting522 (`dc368eaa`). Cleared their local grid variants and Water's two cards/Mold's second card local width caps. Cards retain `ba-card`; captions retain `ba-card__caption` below the shortcode. Residential484 already uses `grid-3`. Two-card sections retain two genuine comparisons; no filler third card was added. No shared class definition, heading, gallery link, copy, shortcode or BEAF asset changed.
+
+The owner requested a reusable component, explicitly permitting manual cards if unsupported. A native component creation attempt exposing the legacy Shortcode failed: `[comparison] Invalid element: Element type widget with widget type shortcode is not an atomic element/widget.` Fresh component discovery confirms no new component created. Approved fallback: page-owned manual cards with shared native classes, not a purported full Atomic component. Existing static1360 exposes photos, not the working BEAF shortcode, so was preserved unused. Heading71/Button59 remain shared components. No new code/plugin.
+
+Six pages published and read back: grid-3 assigned, local grid variants empty, every shortcode sequence preserved. Other element settings match backups except native serialization: Water's obsolete empty `rating_badge` override pruned (actual reviews preserved), Fire's unchanged ampersand text escaped. At1440 Water computes three362.67px tracks; at393 one338px track, page width378px, no overflow, both captions below sliders. Authenticated browser screenshots: workspace outputs `ba-grid-3-desktop.png` and `ba-grid-3-mobile.png`. No new drag/anonymous/physical-device certification. Current authenticated render refreshed correctly without cache purging. Owner visual acceptance pending.
+
+For reuse: existing section/container/stack and Heading71, grid-3 parent, individual ba-card with native Shortcode wrapper and ba-card__caption, Gallery Button59. Duplicate/reorder cards inside the grid; edit each native Shortcode independently. Avoid local grid overrides. Recovery: restore only scoped grid/card styles from private workspace `work/ba-grid-before-*.json`, preserving later edits.
