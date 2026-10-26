@@ -59,3 +59,7 @@ Edit content in Homepage native controls; repeated styles in the two existing cl
 ## 2026-10-24 — Seventeen service-page consumers
 
 All17 now use native1140 immediately before Reviews; retained514, added16 references with heading Overrides only. Central12 cities, native links, directory, availability Popup1801 and matching are unchanged. Earlier literal# / inactive-action descriptions above are historical. Current full chain: Service Areas → Reviews → Affiliations1886 → FAQ → Final CTA. [Coverage, actual checks and remaining limitations](../audits/2026-10-24-service-consistency.md). Five supporting-page background trials were removed after the renderer ignored them; no ineffective style left deployed.
+
+## Lombard semantic follow-up — 2026-10-26
+
+Read-only recheck found the current local landing role distinct from Chicago service owners, but three preserved production Lombard articles mix local informational and service-selection intent. Their staging counterparts remain Draft. Actual ranking cannibalization is unconfirmed without Lombard query×page data; resolve article roles and local evidence before rollout. [Evidence, boundaries and recommendations](../seo/2026-10-26-lombard-semantic-review.md).
