@@ -29,3 +29,7 @@ Buttons wrap/use responsive class variants; heading typography follows default t
 Other library entries56/100/62/65/68/74/77/83/86 now have individual [catalog records](library-patterns.md), based on fresh saved definitions and schemas. They are **not automatically dead code** because not used by the current Homepage main tree. Their full consumer graphs were not deleted or refactored; consult library/Style Guide and usage tools before edits. Header CTA uses56.
 
 Safe reuse: instantiate an existing definition; edit exposed props per instance; check all consumers before changing shared structure/classes; preserve native links and focus/motion behavior. Use definitions80/582 records for their code dependencies and reuse caveats. No new shared component was added.
+
+## Process and FAQ left alignment — 2026-10-26
+
+Owner requested alignment in shared definitions. Existing1152/466f7a12 and1354/3969ecc5 containers now explicitly use native text-align:left; same container class g-68fb534 owns width/gutters, content and responsive layout unchanged. Lombard526 inherits both. No custom code or per-page shared-section padding patch. [Pilot, verification and rollback](service-areas.md#lombard-design-pilot--2026-10-26).

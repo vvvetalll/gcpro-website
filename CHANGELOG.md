@@ -1,5 +1,7 @@
 # GCPRO changelog
 
+**2026-10-26 — Lombard geo-page pilot:** Existing526 redesigned from K061/local SEO records with six service links, preserved Lombard BEAF, shared Process/FAQ, office panel and inset CTA. Native containers aligned; shared1152/1354 explicitly left-aligned. Desktop/mobile checked; owner visual acceptance pending, no other city rollout. [Configuration and evidence](docs/components/service-areas.md#lombard-design-pilot--2026-10-26).
+
 **2026-10-26 — Apply, QR Connect and text headings:** Apply486 now has a source-checked native application form, temporary owner-provided delivery and one confirmed Gmail test receipt. Connect2040 published at its preserved QR path with verified vCard/contact actions. Careers uses named Apply bindings; Privacy text subheads now graphite. No custom code/dependencies or production changes. [Owners, fields, tests and limitations](docs/components/apply-connect.md).
 
 **2026-10-26 — Home/Core and Footer service links:** Twelve native named Content bindings now target the verified Residential Water/Fire/Mold/Reconstruction/Storm/Personal Property pages. Existing Footer orange underline/focus style reused; Commercial and unrelated content/styles preserved. All targets200; frontend Home/Portfolio and mobile checked. [Mapping and evidence](docs/audits/2026-10-26-native-named-links.md#homepage-core-and-shared-footer--residential-services--2026-10-26).

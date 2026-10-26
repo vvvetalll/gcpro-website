@@ -1128,6 +1128,8 @@ Start with [MARKET_ARCHITECTURE.md](MARKET_ARCHITECTURE.md). Demand and independ
 
 ## K061 — Lombard Service Area
 
+**2026-10-26 owner-authorized implementation note:** Lombard526 only is now a staging design pilot using this brief’s local role, verified office and existing comparison. Visual acceptance/rollout to other cities remains pending. Existing URL/SEO settings preserved; this does not approve the remaining draft strategy. [Implementation](../components/service-areas.md#lombard-design-pilot--2026-10-26).
+
 **DRAFT — AWAITING USER APPROVAL** · `conditional_local_target` · moderate: distinct local water SERP and measured city-modified query; broad-city cluster unmeasured.
 
 - **Existing / illustrative URL:** https://gcprochicago.com/service-area/lombard/ — Existing source route; semantic role and reuse unapproved.
