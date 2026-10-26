@@ -1,5 +1,7 @@
 # GCPRO changelog
 
+**2026-10-26 — preserve legacy and special destinations:** Reconciled production Pages/articles/projects and QR/print evidence into the canonical CSV; created51 missing staging objects, kept50 Draft, restored `/thank-you/`. Existing designs/forms/components untouched. [Implementation and discovery limitations](docs/audits/2026-10-26-destination-preservation.md).
+
 ## 2026-10-24 — Complete unfinished staging pages and internal links
 
 Completed/republished15 existing Published shells: About, Reviews, Service Areas, Projects, Resources, Partner parent/four children, Careers and four evidence-backed city pages. Actual inventory94 Pages/90 Published/4 Draft; no ordinary Draft→Published transition. Fixed two Home CTA placeholders with native Request492 links; preserved completed designs, Header/Footer, forms, Trustindex and noindex. Desktop/mobile checked for all15; anonymous403 distinguished. SMS Terms, Apply and47 other city shells remain blocked/excluded as documented. [URLs, sources, exclusions and verification](docs/components/page-completion-2026-10-24.md).

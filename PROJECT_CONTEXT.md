@@ -1,5 +1,7 @@
 # GCPRO project context
 
+**2026-10-26 — destination preservation:** Canonical URL inventory retains321 rows and adds4 discoveries (325 total). All133 evidenced source content objects have staging counterparts:82 reused,51 created (50 Draft, thank-you2044 published). QR welcome is production `/connect/`15438 → Draft2040; VCF/form dependencies remain open. [Evidence, exceptions and rollback](docs/audits/2026-10-26-destination-preservation.md). Production and existing94 staging Pages unchanged.
+
 ## 2026-10-24 — Complete unfinished staging pages and internal links
 
 Completed/republished15 existing Published shells: About, Reviews, Service Areas, Projects, Resources, Partner parent/four children, Careers and four evidence-backed city pages. Actual inventory94 Pages/90 Published/4 Draft; no ordinary Draft→Published transition. Fixed two Home CTA placeholders with native Request492 links; preserved completed designs, Header/Footer, forms, Trustindex and noindex. Desktop/mobile checked for all15; anonymous403 distinguished. SMS Terms, Apply and47 other city shells remain blocked/excluded as documented. [URLs, sources, exclusions and verification](docs/components/page-completion-2026-10-24.md).
