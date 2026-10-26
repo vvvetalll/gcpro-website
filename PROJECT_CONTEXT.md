@@ -1,5 +1,7 @@
 # GCPRO project context
 
+**2026-10-26 — project photo quality:** Shared Gallery2231/89b76dd3 now uses native Full resolution instead of300px Medium thumbnails. Actual full image URLs, desktop/mobile and lightbox checked; original assets/layout unchanged. [Configuration](docs/components/projects-acf-prototype.md#project-gallery-image-resolution--2026-10-26).
+
 **2026-10-26 — Header consistency:** Fixed archive-only24px height loss from the generic container padding cascade. Header113 now preserves native width/gutters and12px vertical spacing on archive and service pages; desktop/mobile compared, no custom code added. [Owner and verification](docs/components/header-footer.md#consistent-header-height-on-the-projects-archive--2026-10-26).
 
 **2026-10-26 — global image lightbox:** Native Kit6 now shows only Close in the toolbar; owner retained gallery arrows. Counter, zoom, fullscreen, share and captions disabled without custom code. [Configuration](docs/components/projects-acf-prototype.md#global-minimal-elementor-lightbox--2026-10-26).
