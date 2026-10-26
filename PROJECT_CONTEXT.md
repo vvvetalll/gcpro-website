@@ -1,5 +1,7 @@
 # GCPRO project context
 
+**2026-10-26 — Home/Core and Footer service links:** Twelve native named Content bindings now target the verified Residential Water/Fire/Mold/Reconstruction/Storm/Personal Property pages. Existing Footer orange underline/focus style reused; Commercial and unrelated content/styles preserved. All targets200; frontend Home/Portfolio and mobile checked. [Mapping and evidence](docs/audits/2026-10-26-native-named-links.md#homepage-core-and-shared-footer--residential-services--2026-10-26).
+
 **2026-10-26 — project photo quality:** Shared Gallery2231/89b76dd3 now uses native Full resolution instead of300px Medium thumbnails. Actual full image URLs, desktop/mobile and lightbox checked; original assets/layout unchanged. [Configuration](docs/components/projects-acf-prototype.md#project-gallery-image-resolution--2026-10-26).
 
 **2026-10-26 — Header consistency:** Fixed archive-only24px height loss from the generic container padding cascade. Header113 now preserves native width/gutters and12px vertical spacing on archive and service pages; desktop/mobile compared, no custom code added. [Owner and verification](docs/components/header-footer.md#consistent-header-height-on-the-projects-archive--2026-10-26).

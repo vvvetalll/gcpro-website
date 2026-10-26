@@ -1,5 +1,7 @@
 # Core Services B
 
+**Current links — 2026-10-26:** All six existing Home154 Core rows now select actual Residential pages by WordPress title through native Internal URL → Content. No text/design/class definitions changed. [Exact mapping and checks](../audits/2026-10-26-native-named-links.md#homepage-core-and-shared-footer--residential-services--2026-10-26).
+
 **Current E61,2026-10-20:** Intro mobile z9999 replaced by local z1; section3fd180bb now has native local z0, style e-3ed21e1f-ddd9. This contains intro layering inside Core while global Header/Call Now remain above. Removing intro z entirely was tested and caused service rows to paint over intro text, so local z1 is necessary. Native sticky offsets/padding/background are unchanged. [Evidence, exact owners and rollback](../audits/2026-10-20-section-layers-footer.md).
 
 **E58,2026-10-20:** Saved native intro style is unchanged. Browser testing demonstrated the returning Header covering79px of the mobile intro. Added empty gcpro-sticky-intro g-43749f7 to6cb38139; the shared global controller903 temporarily adds measured clearance while Header is visible and removes it when hidden. Tablet static positioning and native grid-bound release preserved. [Exact conflict evidence, ownership and rollback](smart-navigation.md#core-services-b-verified-conflict-only). No separate Core script.
@@ -28,7 +30,7 @@ Edit unique grid/intro/heading dimensions in their **local native Style controls
 
 Mobile padding is inside the opaque sticky box, covering rows behind both breathing areas. No spacer or scroll listener is involved. CSS sticky remains constrained by grid61328a99; it releases as that grid ends. Mobile entry/active/release verified at360/393/430px; tablet768 and desktop1440 checked.
 
-Row hover inherits orange and moves the arrow0.2rem; reduced motion suppresses movement. Rows remain articles without destination links; do not describe them as functioning service navigation.
+Row hover inherits orange and moves the arrow0.2rem; reduced motion suppresses movement. The six previously informational rows now have native Internal URL / Content links to the verified Residential pages (2026-10-26 owner instruction); whole-row anchors retain the existing presentation and hover behavior.
 
 ## Maintenance and limits
 

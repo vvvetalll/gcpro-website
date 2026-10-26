@@ -1,5 +1,7 @@
 # Header and Footer
 
+**Current Footer service links — 2026-10-26:** Footer114 now has six native named Internal URL → Content bindings to the same Residential pages as Home Core. Existing service IDs/text/borders/spacing retained; native styled anchors reuse gcpro-footer-link and its orange underline/focus treatment. Other footer links and Commercial navigation untouched. [Mapping, owners and verification](../audits/2026-10-26-native-named-links.md#homepage-core-and-shared-footer--residential-services--2026-10-26). Earlier informational/draft-service notes below are dated history.
+
 **2026-10-24 legal navigation:** Footer114 now includes native Page3 Privacy and Page494 Website Terms links in6a188526; no draft SMS link. Original Footer content and Header113 preserved. [Owners/checks](policy-pages.md).
 
 **2026-10-23 — menu styling:** Shared Header113 primary and utility menus now have separate scoped styles, quiet hover/active states and clean white dropdowns. Mobile panel has52px top-level rows, nested submenu styling and no navy gap below Header. Existing menus, logo, CTA and903 behavior preserved. [Owners, checks and recovery](header-menu-refinement.md).

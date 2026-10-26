@@ -1,0 +1,195 @@
+{
+  "checked_at_utc": "2026-10-26T21:06:52.940001+00:00",
+  "staging_only": true,
+  "bindings": [
+    {
+      "source_document": 154,
+      "source_element": "54ee8d2d",
+      "target_id": 514,
+      "target_title": "Water Damage",
+      "destination": "https://vitaliiv1.sg-host.com/residential-services/water-damage/",
+      "binding": "Internal URL / Content"
+    },
+    {
+      "source_document": 154,
+      "source_element": "97cc573",
+      "target_id": 517,
+      "target_title": "Fire & Smoke",
+      "destination": "https://vitaliiv1.sg-host.com/residential-services/fire-smoke/",
+      "binding": "Internal URL / Content"
+    },
+    {
+      "source_document": 154,
+      "source_element": "2ebf3e02",
+      "target_id": 516,
+      "target_title": "Mold Removal",
+      "destination": "https://vitaliiv1.sg-host.com/residential-services/mold-removal/",
+      "binding": "Internal URL / Content"
+    },
+    {
+      "source_document": 154,
+      "source_element": "24281f6b",
+      "target_id": 518,
+      "target_title": "Reconstruction",
+      "destination": "https://vitaliiv1.sg-host.com/residential-services/reconstruction/",
+      "binding": "Internal URL / Content"
+    },
+    {
+      "source_document": 154,
+      "source_element": "2890630",
+      "target_id": 523,
+      "target_title": "Storm Damage",
+      "destination": "https://vitaliiv1.sg-host.com/residential-services/storm-damage/",
+      "binding": "Internal URL / Content"
+    },
+    {
+      "source_document": 154,
+      "source_element": "463d381e",
+      "target_id": 521,
+      "target_title": "Personal Property Restoration",
+      "destination": "https://vitaliiv1.sg-host.com/residential-services/personal-property-restoration/",
+      "binding": "Internal URL / Content"
+    },
+    {
+      "source_document": 114,
+      "source_element": "1a57ae23",
+      "target_id": 514,
+      "target_title": "Water Damage",
+      "destination": "https://vitaliiv1.sg-host.com/residential-services/water-damage/",
+      "binding": "Internal URL / Content"
+    },
+    {
+      "source_document": 114,
+      "source_element": "7e3dc0fd",
+      "target_id": 517,
+      "target_title": "Fire & Smoke",
+      "destination": "https://vitaliiv1.sg-host.com/residential-services/fire-smoke/",
+      "binding": "Internal URL / Content"
+    },
+    {
+      "source_document": 114,
+      "source_element": "2a175611",
+      "target_id": 516,
+      "target_title": "Mold Removal",
+      "destination": "https://vitaliiv1.sg-host.com/residential-services/mold-removal/",
+      "binding": "Internal URL / Content"
+    },
+    {
+      "source_document": 114,
+      "source_element": "15d483d9",
+      "target_id": 518,
+      "target_title": "Reconstruction",
+      "destination": "https://vitaliiv1.sg-host.com/residential-services/reconstruction/",
+      "binding": "Internal URL / Content"
+    },
+    {
+      "source_document": 114,
+      "source_element": "147c396c",
+      "target_id": 523,
+      "target_title": "Storm Damage",
+      "destination": "https://vitaliiv1.sg-host.com/residential-services/storm-damage/",
+      "binding": "Internal URL / Content"
+    },
+    {
+      "source_document": 114,
+      "source_element": "308c7b8f",
+      "target_id": 521,
+      "target_title": "Personal Property Restoration",
+      "destination": "https://vitaliiv1.sg-host.com/residential-services/personal-property-restoration/",
+      "binding": "Internal URL / Content"
+    }
+  ],
+  "frontend_checks": [
+    {
+      "page": "https://vitaliiv1.sg-host.com/",
+      "status": 200,
+      "verified_link_count": 12,
+      "noindex_preserved": true
+    },
+    {
+      "page": "https://vitaliiv1.sg-host.com/portfolio/",
+      "status": 200,
+      "verified_link_count": 6,
+      "noindex_preserved": true
+    }
+  ],
+  "targets": [
+    {
+      "id": 514,
+      "label": "Water Damage",
+      "url": "https://vitaliiv1.sg-host.com/residential-services/water-damage/",
+      "status": 200,
+      "h1": [
+        "Water Damage Restoration in Chicago &amp; Chicagoland"
+      ]
+    },
+    {
+      "id": 517,
+      "label": "Fire & Smoke",
+      "url": "https://vitaliiv1.sg-host.com/residential-services/fire-smoke/",
+      "status": 200,
+      "h1": [
+        "Fire &amp; Smoke Damage Restoration in Chicago"
+      ]
+    },
+    {
+      "id": 516,
+      "label": "Mold Removal",
+      "url": "https://vitaliiv1.sg-host.com/residential-services/mold-removal/",
+      "status": 200,
+      "h1": [
+        "Mold Remediation &amp; Removal in Chicago"
+      ]
+    },
+    {
+      "id": 518,
+      "label": "Reconstruction",
+      "url": "https://vitaliiv1.sg-host.com/residential-services/reconstruction/",
+      "status": 200,
+      "h1": [
+        "Property Reconstruction &amp; Repairs in Chicago"
+      ]
+    },
+    {
+      "id": 523,
+      "label": "Storm Damage",
+      "url": "https://vitaliiv1.sg-host.com/residential-services/storm-damage/",
+      "status": 200,
+      "h1": [
+        "Storm Damage Restoration in Chicago &amp; Chicagoland"
+      ]
+    },
+    {
+      "id": 521,
+      "label": "Personal Property Restoration",
+      "url": "https://vitaliiv1.sg-host.com/residential-services/personal-property-restoration/",
+      "status": 200,
+      "h1": [
+        "Personal Property Restoration in Chicago"
+      ]
+    }
+  ],
+  "unrelated_content_and_styles_preserved": true,
+  "commercial_home_binding_preserved": true,
+  "footer_style": "Existing gcpro-footer-link and gcpro-footer-item; white text, orange 2px underline / 5px offset and orange focus outline. Existing definitions unchanged; six native paragraphs converted in place to native e-button anchors to reuse actual link styling.",
+  "new_code_classes_dependencies": false,
+  "browser_verification": {
+    "all_twelve_home_hrefs_match": true,
+    "core_water_enter_opens_correct_page": true,
+    "footer_hover_underline_color": "rgb(240, 90, 41)",
+    "footer_focus_underline_thickness": "2px",
+    "footer_focus_underline_offset": "5px",
+    "footer_focus_outline": "orange 3px",
+    "mobile_css_viewport": 393,
+    "mobile_horizontal_overflow": false,
+    "mobile_footer_service_link_heights": [
+      44,
+      44,
+      44,
+      44,
+      44,
+      44
+    ],
+    "physical_device_test": false
+  }
+}
