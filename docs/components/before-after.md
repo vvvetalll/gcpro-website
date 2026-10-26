@@ -172,3 +172,6 @@ Current labels10px/white on black60%, ordinary opacity1; popup AFTER clears clos
 Historical E56 verification:
 
 393px fullscreen723 opened and closed in Chrome with document/popup width393 and no horizontal overflow; page grid checked360/393/430/768/1440. All three inline pairs rendered. Current handles are DIVs with no role, tabindex or ARIA value: keyboard slider semantics are missing. Fullscreen fit-to-window/keyboard coverage, physical-device and anonymous access remain separate QA. Historical endpoint403/security issue is not resolved by disabling site security in this audit. Portfolio still#; Northbrook location remains owner-unconfirmed.
+# Owner correction — 2026-10-26
+
+Residential484's third card uses BEAF1596 attic mold photos; its stale Water/Glenview caption is corrected to **Attic Mold Remediation**, with a factual attic sheathing/framing description. Actual Glenview742 remains unchanged. Mold516, Gallery493 and Lombard526 already use1596 in the appropriate mold context. Published and authenticated frontend checked; anonymous verification403. [Exact fields and preservation record](projects-architecture-assessment.md#separate-owner-correction-during-assessment).

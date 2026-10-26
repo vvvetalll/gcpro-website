@@ -1,5 +1,7 @@
 # Projects catalogue and detail pages — 2026-10-26
 
+**Latest architecture assessment:** [dedicated Projects model and native filtering test](projects-architecture-assessment.md). Existing manual Tabs membership below is the historical implementation, not the required long-term architecture. Draft2171 demonstrates the missing Page taxonomy prerequisite; automatic CPT membership and the requested new catalogue/detail prototypes remain blocked under the no-install/no-code boundary. Current catalogue and project Pages are preserved.
+
 Published on staging only. Production was a read-only source; existing URLs, shared service/contact designs and BEAF records/files remain intact. The canonical register remains [SEO_URL_INVENTORY.csv](../SEO_URL_INVENTORY.csv), with325 rows preserved.
 
 ## Locations and editing
