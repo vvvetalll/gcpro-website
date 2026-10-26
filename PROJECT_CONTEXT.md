@@ -1,5 +1,7 @@
 # GCPRO project context
 
+**2026-10-26 — Apply, QR Connect and text headings:** Apply486 now has a source-checked native application form, temporary owner-provided delivery and one confirmed Gmail test receipt. Connect2040 published at its preserved QR path with verified vCard/contact actions. Careers uses named Apply bindings; Privacy text subheads now graphite. No custom code/dependencies or production changes. [Owners, fields, tests and limitations](docs/components/apply-connect.md).
+
 **2026-10-26 — Home/Core and Footer service links:** Twelve native named Content bindings now target the verified Residential Water/Fire/Mold/Reconstruction/Storm/Personal Property pages. Existing Footer orange underline/focus style reused; Commercial and unrelated content/styles preserved. All targets200; frontend Home/Portfolio and mobile checked. [Mapping and evidence](docs/audits/2026-10-26-native-named-links.md#homepage-core-and-shared-footer--residential-services--2026-10-26).
 
 **2026-10-26 — project photo quality:** Shared Gallery2231/89b76dd3 now uses native Full resolution instead of300px Medium thumbnails. Actual full image URLs, desktop/mobile and lightbox checked; original assets/layout unchanged. [Configuration](docs/components/projects-acf-prototype.md#project-gallery-image-resolution--2026-10-26).

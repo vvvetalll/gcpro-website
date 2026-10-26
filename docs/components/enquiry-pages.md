@@ -123,3 +123,7 @@ Labels were associated with their matching input IDs and not clipped in recorded
 **Cache/delivery:** stale Contact frontend differed from current saved state; used existing staging SG purge and Elementor Tools→Clear Files & Data, then verified current authenticated render. No cache/security configuration changed. Anonymous execution-host GETs still returnedHTTP403 for both ordinary public URLs; anonymous browser delivery not certified. Email notifications/verified monitored recipients, spam protection and operational/RingCentral integration gaps remain unresolved. The visible staging-delivery notice remains. No response times, insurance guarantees or follow-up promises invented.
 
 **Actual source:** [sanitized final native middle sections](../evidence/2026-10-24-enquiry-refinement/atomic-middle-sections.json). Git does not deploy these mirrors. Owner visual rejection is preserved; no rollback was requested or performed. Completion here means recording/pushing the current state after the stop instruction, not claiming the requested design was accepted.
+
+## Apply and Connect completion — follow-up,2026-10-26
+
+Earlier Apply486 unfinished/recipient and Connect2040 Draft records are superseded by this follow-up. Apply is completed using native Atomic fields with owner-provided temporary recipient and actual test receipt. QR Connect is now Published at `/connect/`, retains verified original vCard and uses existing Contact Us for messages. Earlier preservation counts remain dated evidence. [Actual configuration and limits](apply-connect.md).

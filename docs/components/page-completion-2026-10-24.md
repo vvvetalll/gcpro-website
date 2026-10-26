@@ -115,3 +115,7 @@ The restored ui-ux-pro-max skill was read and its UX search used for readable hi
 ## Delivery and recovery
 
 WordPress changes are saved/published on staging. Git records public copy, page/status data and verification; raw authenticated snapshots and executable credential-using helpers stay private. Recovery should restore only the affected page bodies/title-description values or the two Home link Overrides from their scoped snapshots, preserving any later work. No production action or redirect was executed.
+
+## Apply and Connect completion — follow-up,2026-10-26
+
+Earlier Apply486 unfinished/recipient and Connect2040 Draft records are superseded by this follow-up. Apply is completed using native Atomic fields with owner-provided temporary recipient and actual test receipt. QR Connect is now Published at `/connect/`, retains verified original vCard and uses existing Contact Us for messages. Earlier preservation counts remain dated evidence. [Actual configuration and limits](apply-connect.md).

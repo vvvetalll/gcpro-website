@@ -568,3 +568,7 @@ Actual controls and persistence must be verified on the installed Elementor vers
 ## 2026-10-23 — icon implementation and acceptance
 
 Permanent decorative/service icon family: Flaticon Uicons Regular Rounded (fi-rr), simple single-color orange outlines. Six approved service assets1438–1443 are reused across Home and matching Residential/Commercial cards; [exact mapping, native owners and rollback](ICONOGRAPHY.md#approved-core-rollout--2026-10-23). Do not force fill:none onto expanded SVG outline paths. Do not substitute for General Contracting or other unapproved concepts. No new icon font/CDN/dependency. Owner performs final visual acceptance; use only minimal technical sanity checks for routine visual changes unless explicitly asked for broader QA, and stop immediately on request.
+
+## Text-section heading color — owner correction,2026-10-26
+
+Use existing color-text #334155 for headings within editorial text sections regardless of H2/H3 level. Do not alternate graphite H2 with navy H3. Preserve white headings on dark surfaces and intentional navigation/button colors. Privacy3 six local navy overrides corrected natively; Apply/Connect follow this rule. No new variable/class or global palette mutation. [Implementation](components/apply-connect.md).

@@ -65,3 +65,5 @@ Every meaningful component change must update its record: purpose; page/template
 - [Shared credentials and affiliations](affiliations.md) — Component1886 across all17 staging service pages; Reviews → navy block → FAQ, native layout, existing central popovers and exact copy.
 
 - [Request Service / Contact page headers and native forms](enquiry-pages.md) — existing1318 first, separate Atomic forms, scoped correction log and unresolved delivery checks.
+
+- [Apply and QR Connect](apply-connect.md): native application fields/delivery, Careers bindings, QR vCard/actions, graphite text headings, focused verification and remaining limits.

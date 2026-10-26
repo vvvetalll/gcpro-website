@@ -57,3 +57,7 @@ Implementation uses existing native section/container styles and reusable Sectio
 Rollback: use the evidence JSON's `created` IDs2039–2089 to move **only these newly created objects** to WordPress Trash if required; no destructive operation was performed. Existing94 Pages/shared components require no rollback. Inventory/documentation can be reverted through this commit while preserving dated history; never restore by modifying production.
 
 Remote integration: retained the parallel Oct24 page-completion/policy/enquiry documentation and CSV field changes; reused its existing SMS1952 inventory row instead of creating a duplicate. Fresh Oct26 observation timestamps and preservation columns are additive.
+
+## Apply and Connect completion — follow-up,2026-10-26
+
+Earlier Apply486 unfinished/recipient and Connect2040 Draft records are superseded by this follow-up. Apply is completed using native Atomic fields with owner-provided temporary recipient and actual test receipt. QR Connect is now Published at `/connect/`, retains verified original vCard and uses existing Contact Us for messages. Earlier preservation counts remain dated evidence. [Actual configuration and limits](../components/apply-connect.md).
