@@ -1,5 +1,9 @@
 # ACF Free Projects prototype — 2026-10-26
 
+## Latest native location selections — 2026-10-27
+
+Published native Loop Grid selections on Downers Grove527 (term39, slot4ea9dc2c), Elmhurst530 (term36, slot42fc91e1), Highland Park528 (term37, slot630a849e), Oak Brook536 (term38, slot609eec37). Same Card2233; native term queries, no hard-coded case IDs or code. Existing five selections remain; nine total. All four frontend selections show the correct local case/no horizontal overflow. Shared card18px computed on Downers Grove. Existing comparisons preserved. New Project2718 uses Single2231/Hero1318/attachment gallery with six chronological WebP images. [Evidence and unfinished scope](../projects/dash-case-workflow.md#downers-grove-publication-and-local-selections--2026-10-27).
+
 ## Owner-authorized cutover and populated review — 2026-10-26
 
 **Current staging state supersedes the isolated-prototype status below.** The owner authorized /portfolio/ cutover, in-place migration preserving IDs/URLs, a temporary official Post Type Switcher, and publication of all existing projects. All **13 original projects2075–2087 are now Published** at their original /portfolio/{slug}/ URLs. Three demonstration clones2234–2236 remain Draft and excluded. Production is unchanged. Owner visual acceptance of the **Single Project design remains pending**; do not describe the current detail design as approved.

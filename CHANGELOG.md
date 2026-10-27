@@ -1,5 +1,7 @@
 # GCPRO changelog
 
+**2026-10-27 latest DASH execution:** Published Downers Grove2718/six WebP images; added native location selections to527/530/528/536. Actual frontend verifies expected local cards/no overflow; shared title18px confirmed. Twelve new cases total. Production, BEAF and dependencies unchanged. [Checkpoint and remaining work](docs/projects/dash-case-workflow.md#downers-grove-publication-and-local-selections--2026-10-27).
+
 **2026-10-27 case execution checkpoint:** Published four further verified cases (Schaumburg, Elmhurst, Highland Park, Oak Brook), bringing new additions to11; saved five city term selections, refined shared card and removed only visitor location filter. Weak images detached; full-photo-count/readback limitations recorded. [Actual records](docs/projects/dash-case-workflow.md#published-case-and-selection-checkpoint--2026-10-27-2121-utc).
 
 ## 2026-10-27 — DASH case publication checkpoint

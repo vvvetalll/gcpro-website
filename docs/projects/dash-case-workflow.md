@@ -134,3 +134,26 @@ Shared Card2233 now owns compact white inset cards, Full-resolution4:3 cover ima
 Focused actual frontend: Schaumburg2666 has one H1, six gallery items, no overflow and staging noindex. Elmhurst2679 initially verified with six gallery items and no overflow; the ladder-focused image was then detached, leaving five, with a replacement pending. Northbrook weak trim/stair-clutter photographs detached, leaving four; source files preserved. Do not claim every gallery meets the new six-photo criterion. Oak Brook2701 actual frontend displays correct Hero, six chronological gallery links and geo/service links. Highland Park frontend/mobile check pending. Existing mobile template settings retained; new-case physical-device validation not performed.
 
 Media descriptions for Glenview/Northbrook corrected to their actual reconstruction/water scope. Source originals preserved; separate WebP files use truthful alt/title, stripped metadata and targeted privacy redactions. No image condition was fabricated.
+
+## Downers Grove publication and local selections — 2026-10-27
+
+Published [Smoke-Damaged Interiors Cleaned and Repaired — Downers Grove, IL](https://vitaliiv1.sg-host.com/portfolio/downers-grove-smoke-cleanup-interior-repairs/), Project2718. Twelve new DASH-derived cases are now Published, alongside thirteen preserved original projects. The forty-case target remains incomplete.
+
+Mitigation notes and related repair-completion records reviewed before writing. Case separates GCPRO smoke cleanup/repairs from third-party floor finishing and duct cleaning. Private source/job/financial references remain outside GitHub. Six original images inspected: three attic work-stage views followed by three final interior views. Separate optimized WebP2720–2725 have descriptive filenames, truthful metadata, stripped identifying metadata and redacted incidental box labels; originals preserved. Finished room2723 is the cover. No invented Before stage or new BEAF comparison.
+
+Body root20ec1090 uses Heading71 and existing section/container/button styles; named Internal URL bindings target Downers Grove527, Fire & Smoke517 and Reconstruction518. Single2231 remains the owner of Hero1318/gallery/CTA. Specific SEO title/description saved. Authenticated frontend: one H1, six chronological gallery items, correct geo/service destinations, staging noindex, no horizontal overflow. Physical-device/mobile verification remains pending.
+
+Four further native automatic geo selections published in the visual editor; nine cities now have saved selections:
+
+| Page | Location term | Section / query slot | Current case |
+|---|---:|---|---:|
+|Downers Grove527|39|552c946d /4ea9dc2c|2718|
+|Elmhurst530|36|2a160ab1 /42fc91e1|2679|
+|Highland Park528|37|192eff91 /630a849e|2690|
+|Oak Brook536|38|470b1cf6 /609eec37|2701|
+
+Native Loop Grids query Projects by city term and reuse Card2233; no case-ID lists. Actual frontend on all four shows the expected local case without horizontal overflow. Downers Grove computed card title18px verifies the shared-card refinement. Existing BEAF/Hero/FAQ/CTA preserved. Four-column desktop grid currently has one case per city, leaving unused columns until more verified cases are added.
+
+Carol Stream commercial review continued. Notes mostly administrative; downloaded signed scope covers office interiors, while the reviewed final album includes exterior concrete work. Do not merge these into an invented narrative. One exterior original downloaded/inspected; additional original downloads timed out despite visible gallery images. Exact scope/photo reconciliation and varied usable photos remain pending. Temporary DASH access failure recovered. No unsupported Carol Stream case published; Draft2572 preserved.
+
+Owner requests ongoing commit/push checkpoints with actual saved/published/tested state. This checkpoint does not complete the ten-city/four-case task.
