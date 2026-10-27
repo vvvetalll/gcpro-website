@@ -1,5 +1,7 @@
 # GCPRO project context
 
+**2026-10-27 DASH case checkpoint:** Five new cases Published staging (four Naperville, one Lombard); Carol Stream2572 remains Draft/photo reserve. Shared Single2231/Gallery/Card2233 reused; Naperville532 automatic location selection shows four cards in one desktop row. Full ten-city/four-case target incomplete. Private source evidence/photos/financials kept outside GitHub. [Actual cases, checks and remaining work](docs/projects/dash-case-workflow.md#active-publication-checkpoint--2026-10-27).
+
 **2026-10-27 focused geo review:** ten-page rollout unchanged; shorter native content Overrides, practical project FAQs and six authored local SEO metadata pairs. Ten guest routes/links/noindex checked; representative desktop/mobile verified. Thirty deferred production URLs now have individual status/history/search/index/link/launch-approval fields in canonical inventory and a full table in the existing geographic plan. All thirty currently Published on production,still Draft staging; no status/URL/production/popup change. Proposed KEEP/UPDATE original paths requires owner approval before cutover. [Current review/register](docs/seo/2026-10-26-geographic-implementation.md#thirty-deferred-urls--individual-launch-decision-register).
 
 

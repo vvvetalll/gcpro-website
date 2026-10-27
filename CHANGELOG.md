@@ -1,5 +1,11 @@
 # GCPRO changelog
 
+## 2026-10-27 — DASH case publication checkpoint
+
+- Published five verified cases on staging using existing Single2231 and individual attachment galleries; optimized24 WebP images, truthful metadata and sanitized case narratives. No production or BEAF changes.
+- Naperville532 native location query automatically displays four published cases; four-column desktop row verified. Lombard case frontend checked for H1/gallery/links/noindex/no overflow. Mobile checks and remaining cities are pending.
+- [Actual configuration, publication authorization and unfinished scope](docs/projects/dash-case-workflow.md#active-publication-checkpoint--2026-10-27).
+
 ## 2026-10-27 — Ten-page content review and30-URL preservation register
 
 - Kept ten-city scope/layout/components; shortened six pages' service/local guidance and clarified ten Process instances through Overrides. Replaced defensive project FAQs with useful repair questions; six missing native SEO title/description pairs authored.
