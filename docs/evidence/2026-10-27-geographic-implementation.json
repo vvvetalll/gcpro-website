@@ -1,0 +1,386 @@
+{
+  "date": "2026-10-27",
+  "staging_only": true,
+  "ready": [
+    {
+      "id": 526,
+      "slug": "lombard",
+      "status": "publish",
+      "link": "https://vitaliiv1.sg-host.com/service-area/lombard/",
+      "title": "Expert Restoration Services in Lombard",
+      "parent": 495
+    },
+    {
+      "id": 533,
+      "slug": "glenview",
+      "status": "publish",
+      "link": "https://vitaliiv1.sg-host.com/service-area/glenview/",
+      "title": "Expert Restoration Services in Glenview",
+      "parent": 495
+    },
+    {
+      "id": 536,
+      "slug": "oak-brook",
+      "status": "publish",
+      "link": "https://vitaliiv1.sg-host.com/service-area/oak-brook/",
+      "title": "Expert Restoration Services in Oak Brook",
+      "parent": 495
+    },
+    {
+      "id": 556,
+      "slug": "northbrook",
+      "status": "publish",
+      "link": "https://vitaliiv1.sg-host.com/service-area/northbrook/",
+      "title": "Expert Restoration Services in Northbrook",
+      "parent": 495
+    }
+  ],
+  "drafts": [
+    {
+      "id": 543,
+      "name": "Carol Stream",
+      "path": "/service-area/carol-stream/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 527,
+      "name": "Downers Grove",
+      "path": "/service-area/downers-grove/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 558,
+      "name": "Schaumburg",
+      "path": "/service-area/schaumburg/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 538,
+      "name": "Addison",
+      "path": "/service-area/addison/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 535,
+      "name": "Antioch",
+      "path": "/service-area/antioch/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 559,
+      "name": "Arlington Heights",
+      "path": "/service-area/arlington-heights/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 561,
+      "name": "Bartlett",
+      "path": "/service-area/bartlett/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 551,
+      "name": "Buffalo Grove",
+      "path": "/service-area/buffalo-grove/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 542,
+      "name": "Glen Ellyn",
+      "path": "/service-area/glen-ellyn/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 553,
+      "name": "Lake Forest",
+      "path": "/service-area/lake-forest/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 541,
+      "name": "Skokie",
+      "path": "/service-area/skokie/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 537,
+      "name": "Aurora",
+      "path": "/service-area/aurora/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 552,
+      "name": "Barrington",
+      "path": "/service-area/barrington/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 544,
+      "name": "Cary",
+      "path": "/service-area/cary/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 528,
+      "name": "Highland Park",
+      "path": "/service-area/highland-park/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 540,
+      "name": "Hinsdale",
+      "path": "/service-area/hinsdale/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 532,
+      "name": "Naperville",
+      "path": "/service-area/naperville/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 530,
+      "name": "Elmhurst",
+      "path": "/service-area/elmhurst/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 529,
+      "name": "Elk Grove Village",
+      "path": "/service-area/elk-grove-village/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 571,
+      "name": "Kenilworth",
+      "path": "/service-area/kenilworth/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 562,
+      "name": "Niles",
+      "path": "/service-area/niles/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 563,
+      "name": "Deerfield",
+      "path": "/service-area/deerfield/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 572,
+      "name": "Des Plaines",
+      "path": "/service-area/des-plaines/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 546,
+      "name": "Villa Park",
+      "path": "/service-area/villa-park/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 545,
+      "name": "Long Grove",
+      "path": "/service-area/long-grove/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 555,
+      "name": "Wilmette",
+      "path": "/service-area/wilmette/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 566,
+      "name": "Winnetka",
+      "path": "/service-area/winnetka/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 554,
+      "name": "Batavia",
+      "path": "/service-area/batavia/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 567,
+      "name": "Bellwood",
+      "path": "/service-area/bellwood/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 577,
+      "name": "Bensenville",
+      "path": "/service-area/bensenville/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 565,
+      "name": "Evanston",
+      "path": "/service-area/evanston/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 547,
+      "name": "Glencoe",
+      "path": "/service-area/glencoe/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 550,
+      "name": "Algonquin",
+      "path": "/service-area/algonquin/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 575,
+      "name": "Broadview",
+      "path": "/service-area/broadview/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 539,
+      "name": "Carpentersville",
+      "path": "/service-area/carpentersville/",
+      "before": "publish",
+      "status": "draft"
+    },
+    {
+      "id": 570,
+      "name": "Fox Lake",
+      "path": "/service-area/fox-lake/",
+      "before": "publish",
+      "status": "draft"
+    }
+  ],
+  "draft_menu_items": [
+    {
+      "menu_item": 257,
+      "page": 527,
+      "status": "draft"
+    },
+    {
+      "menu_item": 258,
+      "page": 528,
+      "status": "draft"
+    },
+    {
+      "menu_item": 259,
+      "page": 529,
+      "status": "draft"
+    },
+    {
+      "menu_item": 260,
+      "page": 530,
+      "status": "draft"
+    }
+  ],
+  "frontend": [
+    {
+      "path": "/",
+      "http": 200,
+      "h1": [
+        "Property restoration in Chicago"
+      ],
+      "noindex": true,
+      "canonical": "https://vitaliiv1.sg-host.com/",
+      "draft_links": []
+    },
+    {
+      "path": "/service-area/",
+      "http": 200,
+      "h1": [
+        "Chicago & Chicagoland Service Areas"
+      ],
+      "noindex": true,
+      "canonical": "https://vitaliiv1.sg-host.com/service-area/",
+      "draft_links": []
+    },
+    {
+      "path": "/service-area/lombard/",
+      "http": 200,
+      "h1": [
+        "Restoration Services in Lombard, IL"
+      ],
+      "noindex": true,
+      "canonical": "https://vitaliiv1.sg-host.com/service-area/lombard/",
+      "draft_links": []
+    },
+    {
+      "path": "/service-area/glenview/",
+      "http": 200,
+      "h1": [
+        "Restoration Services in Glenview, IL"
+      ],
+      "noindex": true,
+      "canonical": "https://vitaliiv1.sg-host.com/service-area/glenview/",
+      "draft_links": []
+    },
+    {
+      "path": "/service-area/northbrook/",
+      "http": 200,
+      "h1": [
+        "Restoration Services in Northbrook, IL"
+      ],
+      "noindex": true,
+      "canonical": "https://vitaliiv1.sg-host.com/service-area/northbrook/",
+      "draft_links": []
+    },
+    {
+      "path": "/service-area/oak-brook/",
+      "http": 200,
+      "h1": [
+        "Restoration Services in Oak Brook, IL"
+      ],
+      "noindex": true,
+      "canonical": "https://vitaliiv1.sg-host.com/service-area/oak-brook/",
+      "draft_links": []
+    }
+  ],
+  "popup_tree_unchanged": true,
+  "coverage_matching_approved": false,
+  "plugin_changes": false,
+  "oak_beaf_shortcode_preserved": true,
+  "existing_city_bodies_preserved": [
+    526,
+    533,
+    556
+  ],
+  "beaf_gallery_shortcode_count": 26
+}

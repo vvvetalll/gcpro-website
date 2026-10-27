@@ -1,5 +1,5 @@
 # Geographic implementation plan — 2026-10-26
-Status: IN PROGRESS. Online GitHub + Elementor only. Staging only; no production, URL changes, redirects, deletion, ZIP-eligibility changes or new dependencies.
+Status: IMPLEMENTED ON STAGING — 2026-10-27. Native WordPress/Elementor controls; owner visual acceptance pending. Staging only; no production, URL changes, redirects, deletion, ZIP-eligibility changes or new dependencies.
 
 ## Evidence and justified page count
 The existing evidence supports **four differentiated suburban landing pages now**: Glenview533, Northbrook556, Lombard526 and Oak Brook536. All four already exist and are Published; this task refines three to the accepted Lombard layout and preserves Lombard. This is an evidence-readiness count, not an estimate that only four suburbs have demand. Chicago is already covered by Home154 and the established Chicago service owners, so no competing generic Chicago page is proposed. Service Areas495 is a directory, not a fifth suburban SEO landing.
@@ -19,7 +19,7 @@ GSC Web/all countries/devices **2026-07-20–2026-10-19** is measured *site visi
 Exact local broad-restoration volume remains missing for all four; water is a secondary comparator, never falsely assigned to the primary broad cluster. No service×city children.
 
 ## Ranked preparation queue
-Every existing object below keeps its exact slug/parent. **Draft pending material** means not ready for publication; actual baseline is Published for all these inherited shells. Status transitions are pending implementation, not claimed complete. Missing local records do not prove GCPRO has never worked there. Do not create duplicate drafts.
+Every existing object below keeps its exact slug/parent. **Draft pending material** means not ready for publication. The26 October handoff baseline was Published for these inherited shells. As of27 October the36 unsupported northern/western shells are actually Draft; the four evidence-ready pages are Published. Bodies, IDs, slugs and parents are preserved. Missing local records do not prove GCPRO has never worked there. Do not create duplicate drafts.
 Affluent-market preference raises the material-gathering importance of North Shore communities, Barrington, Glen Ellyn and Hinsdale among similar demand estimates; it does not replace the numeric demand rank.
 
 | Demand rank | Area / ID / preserved path | US monthly comparator estimate | Primary intent / decision | Available proof and exact gap |
@@ -94,5 +94,51 @@ Current plugin inventory/live popup source still needs a focused inspection befo
 - [Lombard owner](../components/service-areas.md), [existing city inventory/statuses](../components/page-completion-2026-10-24.md), [project records](../evidence/2026-10-26-projects-cutover.json), [current Projects owners](../components/projects-acf-prototype.md), [coverage owner](../components/service-availability-popup.md).
 - Fresh MCP page inventory:103 Pages; relevant40 city objects all Published. Saved structure/settings inspected for526/533/556/536/495/1140/114. These are current read checks, not successful writes, frontend or mobile tests.
 
-## Execution log
+## Historical execution log — 2026-10-26
 Selection and saved-state inspection completed. No staging writes yet. Environment briefly disconnected, then Elementor/browser bindings returned. Next: implement533/556/536, directory/shared links, inspect coverage, reconcile pending Draft statuses/navigation, targeted desktop/mobile and native-link checks, then update this log and push the final evidence. Historical research draft labels are not blanket approval; this owner's current geo task authorizes only the geographic scope above.
+
+
+## Completed execution — 2026-10-27
+
+### Preserve current work before writes
+
+Fetched GitHub and fast-forwarded the clean checkout from123cf1e to b793760. This handoff plan was the only newer Git change. Fresh staging differed from the handoff's unfinished execution log: Glenview533 and Northbrook556 already contained complete Lombard-pattern bodies and unique proof/FAQ content; both were retained byte-for-byte. Lombard526 was also retained byte-for-byte. Oak Brook536 had the new body appended alongside three old sections; moved original comparison card86dee236/Shortcode d42f81ad `[bafg id="1595"]` into new holder43e67823, removed the superseded old section wrappers, and corrected “a Oak Brook” to “an Oak Brook.” Original shortcode node compares equal before/after. No new project, photo, response time, review or branch claim.
+
+### Actual publication decisions
+
+- **Four ready suburban pages:**526 Lombard,533 Glenview,556 Northbrook,536 Oak Brook. All Published at their original routes. Zero new city or neighborhood WordPress objects; no service×city combinations.
+- **36 retained Drafts:** every non-ready city in the40-row table above, now actually Draft. Missing per-city association/useful local facts are recorded in that table and canonical inventory. Draft is an editorial readiness decision, not rejection of service eligibility. No page/body/media deleted; no URL or redirect changed. Unrelated southern city pages were not edited.
+- **Chicago neighborhoods:** list-only at this stage, not36+12 automatically approved landings. The three available GSC neighborhood probes and unmeasured others remain differentiated in the neighborhood table. Chicago's existing Home/service owners remain primary; no competing generic Chicago page.
+- **Further verified project material:** existing Western Spring project2076 has12 photos, but no matching Western Spring(s) demand row/query or verified municipality normalization in reviewed records. Preserve its project URL/gallery; do not infer a new geo landing or a Chicago neighborhood from street/project names.
+- A local project is not a universal prerequisite: distinct, useful, confirmed local service information can also justify a page. Current records do not yet supply that for the36 queues. Missing cause/date/duration/review must not be invented for the four ready photo-based pages either.
+
+### Native presentation and links
+
+**Service Areas495** now starts with actual Shared Hero1318, followed by **actual shared Homepage module1140**, then Chicago neighborhood enquiries, three municipal groups (North Shore; North & Northwest; West & DuPage), and inset CTA80. The public page distinguishes neighborhoods/municipalities through clear groups and neutral address-confirmation copy, without operational exclusion reasons or subjective market judgments. All40 reviewed municipal names remain represented; there are only four dedicated municipal-page links, not a claim of four-city coverage. Module instance label Residential Services routes to the existing Residential hub; Chicago and Commercial links remain separately available.
+
+**Module1140 is the sole repeated link-layout owner**, shared with Homepage154 and existing consumers. Existing city-link/city-link__text styles retain arrows, borders and interaction owners. Four current cities use native title-selected Internal URL→Content bindings. On495 the heading is Explore Local Project Examples, with explicit wording that more communities are listed below; these are proof-backed page links, not a coverage boundary. The same component ID now has two columns of two links, one column on mobile; no separate catalogue copy. The previous12 city slots included unready destinations. Native metadata re-exposure failed with `paragraph: invalid_value`; resolved by a supported native full-definition update of the same1140, preserving its role and restoring15 active Overrides (four names/links plus headings/actions). Removed unused slots instead of retaining hidden dead links. No new component/class/Variable or runtime code. Future cities should be added to this existing owner after material approval.
+
+**Coverage popup action** remains the same native Elementor popup1801 destination; its document tree/registry/script are byte-for-byte unchanged. Module1140 directory default remains native Content→Service Area495. Homepage body itself was not rebuilt.
+
+**Footer114** existing coverage paragraph5fe71200 now has neutral Chicagoland/call-to-confirm copy; native cluster32ca356b contains Chicago, four ready suburbs and All Service Areas, using existing gcpro-footer-link orange underline/focus styling. Service/contact/legal/social/affiliation content preserved. Four menu items257–260 pointing to now-Draft527/528/529/530 were also made Draft, preserving the menu objects for recovery rather than leaving broken dropdown links. No unrelated navigation reorder.
+
+### Coverage inspection — no changes
+
+Fresh native plugin inventory contains17 installed entries (including inactive Google provider); no separate ZIP/city-coverage plugin is installed. Existing implementation is Elementor Pro Popup1801 + its already-authorized HTML7a5e1801 handler/JSON registry, as documented in service-availability-popup.md. Registry approved=false, no confirmed ZIPs/exclusions; proposed cities/counties remain proposals. SEO priorities do not change this list, matching, rejection, privacy or dispatch behavior. Actual60148 submission still displays “GCPRO serves Chicagoland. Call to confirm your address.” No positive/address confirmation. No plugin installed/activated/removed/configured by this task.
+
+### Focused verification and limits
+
+- Native API readback: four Published/36 Draft; same IDs/slugs/parents;329 canonical inventory rows/variants retained,40 existing rows updated for readiness.
+- Actual frontend Home, directory and four local routes:200, one H1, current self-canonical and staging noindex. No links to the36 Draft paths in the checked HTML (including menu/Footer/module); link bindings use actual current titles.
+- All four local pages at desktop1707px and mobile393px: no horizontal overflow, six FAQ summaries, two loaded comparison images, main section left edges275px/20px respectively. Directory uses the same20px mobile gutter and stacked353px city rows. Scoped browser emulation, not physical-device/screen-reader certification.
+- Existing BEAF gallery493 still contains26 shortcode comparisons. No BEAF record/settings/files/media writes; Oak Brook comparison widget unchanged. Glenview/Northbrook/Lombard body trees unchanged from this turn's fresh snapshots.
+- Coverage popup was opened from the new directory and tested with60148: existing neutral response and Call Now remain. Native popup close works; no call placed. No eligibility rule change.
+- No production writes, redirects, global indexability/schema changes, extra dependencies or new deployed code. Private before-state snapshots remain outside Git. Existing legacy Lombard article intent issues remain in the26 October semantic review; no broad SEO migration is bundled here.
+
+[Publication/link evidence](../evidence/2026-10-27-geographic-implementation.json) · [Responsive observations](../evidence/2026-10-27-geographic-responsive.json).
+
+### Next inputs / editing / recovery
+
+Demand-led material collection starts with Carol Stream250, Downers Grove200 and Schaumburg200; North Shore/northwest/west candidates retain their dated evidence in the city table rather than an invented fixed quota. For each Draft: obtain a location-confirmed job/photo association **or other distinct useful local facts**, confirm relevant service/address context and write local proof/FAQ before publication. Standard sections remain Hero1318; shared service cards68; genuine local proof; Process1152; accurate Lombard contact; FAQ1354; inset CTA80. Do not fill a proof section with an unrelated city photo.
+
+Edit directory grouping on495, repeated link presentation/defaults in1140, Footer links in114, and local copy through existing page Overrides. Module15 current Overrides remain independently editable. Restore a queued page only after content review, then restore/add its native links in the single module/menu. Private snapshots can restore affected native bodies; statuses/menu items can be returned to their captured baseline without deleting content. Keep staging noindex and coverage registry unchanged.

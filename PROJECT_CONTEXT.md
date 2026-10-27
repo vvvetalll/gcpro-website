@@ -1,5 +1,7 @@
 # GCPRO project context
 
+**2026-10-27 — geographic implementation:** Preserved current Lombard/Glenview/Northbrook builds, finished Oak Brook comparison placement, rebuilt Service Areas using actual Homepage module1140 and clear geographic groups. Four evidence-ready local routes Published;36 inherited shells retained Draft, no new geo objects. Home/Footer/menu links reconciled; coverage registry unchanged. [Dated plan, actual states and tests](docs/seo/2026-10-26-geographic-implementation.md).
+
 **2026-10-26 — Lombard geo-page pilot:** Existing526 redesigned from K061/local SEO records with six service links, preserved Lombard BEAF, shared Process/FAQ, office panel and inset CTA. Native containers aligned; shared1152/1354 explicitly left-aligned. Desktop/mobile checked; owner visual acceptance pending, no other city rollout. [Configuration and evidence](docs/components/service-areas.md#lombard-design-pilot--2026-10-26).
 
 **2026-10-26 — Apply, QR Connect and text headings:** Apply486 now has a source-checked native application form, temporary owner-provided delivery and one confirmed Gmail test receipt. Connect2040 published at its preserved QR path with verified vCard/contact actions. Careers uses named Apply bindings; Privacy text subheads now graphite. No custom code/dependencies or production changes. [Owners, fields, tests and limitations](docs/components/apply-connect.md).

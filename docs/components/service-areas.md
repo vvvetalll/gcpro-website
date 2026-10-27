@@ -1,5 +1,7 @@
 # Service Areas
 
+**2026-10-27:**495 now reuses actual Homepage1140, then Chicago-neighborhood and municipal groups. Same1140 now owns four ready-city links with15 active Overrides; Footer114 has six compact geographic destinations. Four local pages Published/36 unsupported inherited shells Draft; no coverage change. [Current owners/statuses/tests](../seo/2026-10-26-geographic-implementation.md#completed-execution--2026-10-27).
+
 ## Lombard design pilot — 2026-10-26
 
 Owner authorized one geo-page design based on existing SEO reports, for visual acceptance before any city rollout. Existing526 `/service-area/lombard/` is updated and Published on staging; same ID/path/status, original SEO metadata/canonical and noindex retained. Production and other city bodies unchanged.

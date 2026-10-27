@@ -1,0 +1,194 @@
+[
+  {
+    "comparisonImages": [
+      {
+        "alt": "Attic before mold removal, showing dark staining on roof sheathing between joists.",
+        "loaded": true
+      },
+      {
+        "alt": "Attic after mold removal, showing the roof sheathing and wood framing.",
+        "loaded": true
+      }
+    ],
+    "faq": 6,
+    "h1": 1,
+    "headLeft": [
+      275,
+      275,
+      275,
+      275,
+      275
+    ],
+    "overflow": false,
+    "path": "/service-area/lombard/",
+    "width": 1707
+  },
+  {
+    "comparisonImages": [
+      {
+        "alt": "Living room before restoration, with an opening in the ceiling and exposed joists.",
+        "loaded": true
+      },
+      {
+        "alt": "Living room after restoration, with a finished ceiling, large windows and seating.",
+        "loaded": true
+      }
+    ],
+    "faq": 6,
+    "h1": 1,
+    "headLeft": [
+      275,
+      275,
+      275,
+      275,
+      275
+    ],
+    "overflow": false,
+    "path": "/service-area/glenview/",
+    "width": 1707
+  },
+  {
+    "comparisonImages": [
+      {
+        "alt": "Brick garage before restoration, with an open vehicle bay and damaged exterior finishes.",
+        "loaded": true
+      },
+      {
+        "alt": "Brick garage after restoration, with finished trim, a white garage door and side entrance.",
+        "loaded": true
+      }
+    ],
+    "faq": 6,
+    "h1": 1,
+    "headLeft": [
+      275,
+      275,
+      275,
+      275,
+      275
+    ],
+    "overflow": false,
+    "path": "/service-area/northbrook/",
+    "width": 1707
+  },
+  {
+    "comparisonImages": [
+      {
+        "alt": "Bathroom before reconstruction, with a bathtub and tiled walls.",
+        "loaded": true
+      },
+      {
+        "alt": "Bathroom after reconstruction, with a glass shower enclosure and wood-tone vanity.",
+        "loaded": true
+      }
+    ],
+    "faq": 6,
+    "h1": 1,
+    "headLeft": [
+      275,
+      275,
+      275,
+      275,
+      275
+    ],
+    "overflow": false,
+    "path": "/service-area/oak-brook/",
+    "width": 1707
+  },
+  {
+    "comparisonImages": [
+      {
+        "alt": "Attic before mold removal, showing dark staining on roof sheathing between joists.",
+        "loaded": true
+      },
+      {
+        "alt": "Attic after mold removal, showing the roof sheathing and wood framing.",
+        "loaded": true
+      }
+    ],
+    "faq": 6,
+    "h1": 1,
+    "headLeft": [
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "overflow": false,
+    "path": "/service-area/lombard/",
+    "width": 393
+  },
+  {
+    "comparisonImages": [
+      {
+        "alt": "Living room before restoration, with an opening in the ceiling and exposed joists.",
+        "loaded": true
+      },
+      {
+        "alt": "Living room after restoration, with a finished ceiling, large windows and seating.",
+        "loaded": true
+      }
+    ],
+    "faq": 6,
+    "h1": 1,
+    "headLeft": [
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "overflow": false,
+    "path": "/service-area/glenview/",
+    "width": 393
+  },
+  {
+    "comparisonImages": [
+      {
+        "alt": "Brick garage before restoration, with an open vehicle bay and damaged exterior finishes.",
+        "loaded": true
+      },
+      {
+        "alt": "Brick garage after restoration, with finished trim, a white garage door and side entrance.",
+        "loaded": true
+      }
+    ],
+    "faq": 6,
+    "h1": 1,
+    "headLeft": [
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "overflow": false,
+    "path": "/service-area/northbrook/",
+    "width": 393
+  },
+  {
+    "comparisonImages": [
+      {
+        "alt": "Bathroom before reconstruction, with a bathtub and tiled walls.",
+        "loaded": true
+      },
+      {
+        "alt": "Bathroom after reconstruction, with a glass shower enclosure and wood-tone vanity.",
+        "loaded": true
+      }
+    ],
+    "faq": 6,
+    "h1": 1,
+    "headLeft": [
+      20,
+      20,
+      20,
+      20,
+      20
+    ],
+    "overflow": false,
+    "path": "/service-area/oak-brook/",
+    "width": 393
+  }
+]

@@ -1,5 +1,7 @@
 # GCPRO changelog
 
+**2026-10-27 — geographic implementation:** Preserved current Lombard/Glenview/Northbrook builds, finished Oak Brook comparison placement, rebuilt Service Areas using actual Homepage module1140 and clear geographic groups. Four evidence-ready local routes Published;36 inherited shells retained Draft, no new geo objects. Home/Footer/menu links reconciled; coverage registry unchanged. [Dated plan, actual states and tests](docs/seo/2026-10-26-geographic-implementation.md).
+
 **2026-10-26 — Lombard semantic review:** Read-only check confirms distinct local landing role but flags three legacy Lombard articles as potential mixed-intent competitors. No measured ranking harm established; WordPress/URLs/SEO settings unchanged. [Evidence and pre-launch decisions](docs/seo/2026-10-26-lombard-semantic-review.md).
 
 **2026-10-26 — Lombard geo-page pilot:** Existing526 redesigned from K061/local SEO records with six service links, preserved Lombard BEAF, shared Process/FAQ, office panel and inset CTA. Native containers aligned; shared1152/1354 explicitly left-aligned. Desktop/mobile checked; owner visual acceptance pending, no other city rollout. [Configuration and evidence](docs/components/service-areas.md#lombard-design-pilot--2026-10-26).
