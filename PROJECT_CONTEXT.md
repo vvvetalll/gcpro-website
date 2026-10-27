@@ -1,5 +1,7 @@
 # GCPRO project context
 
+**2026-10-27 newest checkpoint:** Existing Carol Stream2572 upgraded from two-photo reserve to six inspected/optimized chronological photos and Published;13 new cases total. All ten geo pages now have native term selections. Carol Stream actual case/frontend and345px native mobile selection checked. Four-per-city target still unfinished. [Actual status](docs/projects/dash-case-workflow.md#carol-stream-draft-completed-and-published--2026-10-27).
+
 **2026-10-27 latest DASH checkpoint:** Published Downers Grove2718/six chronological WebP images;12 new cases total. Nine city pages now have automatic selections. Latest Downers Grove, Elmhurst, Highland Park and Oak Brook frontend results verified. Carol Stream scope/photo reconciliation pending; forty-case task incomplete. [Actual work and limits](docs/projects/dash-case-workflow.md#downers-grove-publication-and-local-selections--2026-10-27).
 
 **2026-10-27 case execution checkpoint:** Eleven new DASH cases Published staging; latest Schaumburg2666, Elmhurst2679, Highland Park2690 and Oak Brook2701. Five geo pages have automatic term selections; remaining insertion and photo backfill pending. Forty-case target incomplete. [Actual records](docs/projects/dash-case-workflow.md#published-case-and-selection-checkpoint--2026-10-27-2121-utc).

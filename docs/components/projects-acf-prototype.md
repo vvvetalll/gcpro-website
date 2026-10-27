@@ -2,6 +2,8 @@
 
 ## Latest native location selections — 2026-10-27
 
+Subsequent checkpoint: Carol Stream543 section2eaef640/slot28d82d4f now queries Project Locations28 with the same native Loop Grid/Card2233. All ten city selections saved. Existing2572 Published after photo/content completion, preserving its path and Single2231. Actual Carol Stream selection verified; native345px Mobile Portrait shows one column/no overflow,20px heading. Existing13 original projects and26 BEAF comparisons unchanged. [Current case checkpoint](../projects/dash-case-workflow.md#carol-stream-draft-completed-and-published--2026-10-27).
+
 Published native Loop Grid selections on Downers Grove527 (term39, slot4ea9dc2c), Elmhurst530 (term36, slot42fc91e1), Highland Park528 (term37, slot630a849e), Oak Brook536 (term38, slot609eec37). Same Card2233; native term queries, no hard-coded case IDs or code. Existing five selections remain; nine total. All four frontend selections show the correct local case/no horizontal overflow. Shared card18px computed on Downers Grove. Existing comparisons preserved. New Project2718 uses Single2231/Hero1318/attachment gallery with six chronological WebP images. [Evidence and unfinished scope](../projects/dash-case-workflow.md#downers-grove-publication-and-local-selections--2026-10-27).
 
 ## Owner-authorized cutover and populated review — 2026-10-26
