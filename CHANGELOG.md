@@ -1,5 +1,7 @@
 # GCPRO changelog
 
+**2026-10-27 case execution checkpoint:** Published four further verified cases (Schaumburg, Elmhurst, Highland Park, Oak Brook), bringing new additions to11; saved five city term selections, refined shared card and removed only visitor location filter. Weak images detached; full-photo-count/readback limitations recorded. [Actual records](docs/projects/dash-case-workflow.md#published-case-and-selection-checkpoint--2026-10-27-2121-utc).
+
 ## 2026-10-27 — DASH case publication checkpoint
 
 - Published five verified cases on staging using existing Single2231 and individual attachment galleries; optimized24 WebP images, truthful metadata and sanitized case narratives. No production or BEAF changes.

@@ -105,3 +105,32 @@ Focused frontend checks: Lombard2624 has one H1, five gallery links in damage-to
 Five new cases published, one older Carol Stream Draft2572 retained because its photo set is weak. Seventy-one lead records have been detail-screened privately, not seventy-one completed portfolio cases. Other location/service cells remain partially searched or evidence-review pending. Downers Grove candidate final photos reviewed but dark/repetitive: reserve, not published. Glenview commercial stairs candidate has completed-work notes and final albums; full photo selection is in progress. Additional candidates exist for Schaumburg, Northbrook, Highland Park, Elmhurst and Oak Brook; notes/photos still require verification. No claim that the forty-case target is complete.
 
 The existing26 BEAF comparisons remain unchanged. Matching Before/After opportunities are recorded privately only; no new comparison was created. Filters/pagination repair remains deferred.
+
+
+## Published case and selection checkpoint — 2026-10-27 21:21 UTC
+
+Eleven new DASH-derived cases are Published on staging; thirteen original projects remain Published. The forty-case target remains incomplete. Owner now requests meaningful final views and inspection evidence, at least six useful photographs where supported, and no ladder/tool/clutter filler.
+
+| ID | Case | Status | Attached WebP photos |
+|---:|---|---|---:|
+|2580|[Attic Mold Cleanup and Insulation Replacement — Naperville, IL](https://vitaliiv1.sg-host.com/portfolio/naperville-attic-mold-cleanup-insulation/)|publish|4|
+|2596|[Home Reconstruction After Vehicle Impact — Naperville, IL](https://vitaliiv1.sg-host.com/portfolio/naperville-home-reconstruction-vehicle-impact/)|publish|5|
+|2604|[Water and Mold Cleanup After a Laundry Leak — Naperville, IL](https://vitaliiv1.sg-host.com/portfolio/naperville-laundry-leak-water-mold-cleanup/)|publish|5|
+|2612|[Floors and Ceilings Rebuilt After Water Damage — Naperville, IL](https://vitaliiv1.sg-host.com/portfolio/naperville-floors-ceilings-water-damage-repairs/)|publish|5|
+|2624|[Fire-Damaged Interiors and Kitchen Rebuilt — Lombard, IL](https://vitaliiv1.sg-host.com/portfolio/lombard-fire-damaged-interiors-kitchen-rebuilt/)|publish|5|
+|2632|[Concrete Stairways and Metal Railings Rebuilt — Glenview, IL](https://vitaliiv1.sg-host.com/portfolio/glenview-concrete-stairways-metal-railings-rebuilt/)|publish|5|
+|2640|[Hardwood Floors and Interior Finishes Restored — Northbrook, IL](https://vitaliiv1.sg-host.com/portfolio/northbrook-hardwood-floors-interior-finishes-restored/)|publish|4|
+|2666|[Interior Repairs After a Shattered Aquarium — Schaumburg, IL](https://vitaliiv1.sg-host.com/portfolio/schaumburg-interior-repairs-shattered-aquarium/)|publish|6|
+|2679|[Hardwood Floors Restored After an Upstairs Shower Leak — Elmhurst, IL](https://vitaliiv1.sg-host.com/portfolio/elmhurst-hardwood-restoration-upstairs-shower-leak/)|publish|5|
+|2690|[Mold Cleanup Above an Open Bathroom Ceiling — Highland Park, IL](https://vitaliiv1.sg-host.com/portfolio/mold-cleanup-above-an-open-bathroom-ceiling-highland-park-il/)|publish|6|
+|2701|[Bathroom and Interior Repairs After a Shower Leak — Oak Brook, IL](https://vitaliiv1.sg-host.com/portfolio/oak-brook-bathroom-interior-repairs-shower-leak/)|publish|6|
+
+New cases use Single2231/Hero1318, the shared attachment-driven native Gallery and Card2233. Copy is grounded in reviewed work notes; Highland Park documents completed remediation only, not a rebuilt bathroom. Original/source records, private financials and image references remain outside GitHub. Existing26 BEAF comparisons are preserved.
+
+Automatic native location selections now saved on Naperville532, Lombard526, Glenview533, Northbrook556 and Schaumburg558. They query Projects by Project Locations term and use shared Card2233; no manual case-ID lists. New Elmhurst, Highland Park and Oak Brook cases are classified, but their geo-page selection insertion is still pending. Existing geo Before/After sections remain.
+
+Shared Card2233 now owns compact white inset cards, Full-resolution4:3 cover images, restrained native border/shadow,18px graphite titles and bottom-aligned existing Blue Outline59 navigation. Native publication completed; final18px frontend readback pending. Archive2232 visitor location filter removed as requested; service/sector filters and taxonomy assignments preserved. Earlier AJAX Load More-after-reset defect remains deferred. No custom filtering code, dependencies or shared BEAF styling changes.
+
+Focused actual frontend: Schaumburg2666 has one H1, six gallery items, no overflow and staging noindex. Elmhurst2679 initially verified with six gallery items and no overflow; the ladder-focused image was then detached, leaving five, with a replacement pending. Northbrook weak trim/stair-clutter photographs detached, leaving four; source files preserved. Do not claim every gallery meets the new six-photo criterion. Oak Brook2701 actual frontend displays correct Hero, six chronological gallery links and geo/service links. Highland Park frontend/mobile check pending. Existing mobile template settings retained; new-case physical-device validation not performed.
+
+Media descriptions for Glenview/Northbrook corrected to their actual reconstruction/water scope. Source originals preserved; separate WebP files use truthful alt/title, stripped metadata and targeted privacy redactions. No image condition was fabricated.

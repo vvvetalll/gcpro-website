@@ -132,3 +132,8 @@ Verified actual Tinley background/data-thumbnail URLs now reference the existing
 ### DASH publication checkpoint — 2026-10-27
 
 Single2231 remains the presentation owner; each case owns narrative, native title/excerpt/featured image, Services/Sector/Location terms and attached image gallery files. New Published2580/2596/2604/2612/2624. Naperville532 LoopGridc095b66 queries Location31, shared card2233, four desktop columns (2 tablet/1 mobile). Empty optional BEAF references retained. No new code/dependency or shared layout duplicate. [Current case checks and limits](../projects/dash-case-workflow.md#active-publication-checkpoint--2026-10-27).
+
+
+### Case batch checkpoint — 2026-10-27 21:21 UTC
+
+[Actual case statuses, photo counts, native selection owners and limitations](../projects/dash-case-workflow.md#published-case-and-selection-checkpoint--2026-10-27-2121-utc). Shared Card2233 native local styles refined; Archive2232 location filter removed only. Geo query owners:532/526/533/556/558, each native location-term query with Card2233. Existing BEAF retained; six-photo backfill and remaining geo selections pending.

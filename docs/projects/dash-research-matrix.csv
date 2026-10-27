@@ -1,41 +1,41 @@
 location,service,status,public_case_ids,remaining_work
-Carol Stream,Fire & Smoke,Candidates found,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
+Carol Stream,Fire & Smoke,Not searched,,Broaden targeted service/location search; no absence conclusion.
 Carol Stream,Water Damage,Evidence reviewed,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Carol Stream,Mold Remediation,Candidates found,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
+Carol Stream,Mold Remediation,Candidates found,,Screened candidate exists; notes/photos review pending.
 Carol Stream,Reconstruction,Evidence reviewed,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
 Downers Grove,Fire & Smoke,Evidence reviewed,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Downers Grove,Water Damage,Candidates found,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Downers Grove,Mold Remediation,Candidates found,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Downers Grove,Reconstruction,Candidates found,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Schaumburg,Fire & Smoke,Candidates found,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Schaumburg,Water Damage,Candidates found,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Schaumburg,Mold Remediation,Candidates found,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Schaumburg,Reconstruction,Candidates found,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Glenview,Fire & Smoke,Candidates found,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Glenview,Water Damage,Candidates found,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Glenview,Mold Remediation,Candidates found,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Glenview,Reconstruction,Evidence reviewed,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Northbrook,Fire & Smoke,Candidates found,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Northbrook,Water Damage,Candidates found,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Northbrook,Mold Remediation,Candidates found,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Northbrook,Reconstruction,Candidates found,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Highland Park,Fire & Smoke,Candidates found,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Highland Park,Water Damage,Candidates found,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Highland Park,Mold Remediation,Candidates found,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Highland Park,Reconstruction,Candidates found,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
+Downers Grove,Water Damage,Candidates found,,Screened candidate exists; notes/photos review pending.
+Downers Grove,Mold Remediation,Not searched,,Broaden targeted service/location search; no absence conclusion.
+Downers Grove,Reconstruction,Candidates found,,Screened candidate exists; notes/photos review pending.
+Schaumburg,Fire & Smoke,Not searched,,Broaden targeted service/location search; no absence conclusion.
+Schaumburg,Water Damage,Published,2666,Published verified case; continue varied candidate search and useful photo backfill without filler.
+Schaumburg,Mold Remediation,Not searched,,Broaden targeted service/location search; no absence conclusion.
+Schaumburg,Reconstruction,Published,2666,Published verified case; continue varied candidate search and useful photo backfill without filler.
+Glenview,Fire & Smoke,Not searched,,Broaden targeted service/location search; no absence conclusion.
+Glenview,Water Damage,Candidates found,,Screened candidate exists; notes/photos review pending.
+Glenview,Mold Remediation,Not searched,,Broaden targeted service/location search; no absence conclusion.
+Glenview,Reconstruction,Published,2632,Published verified case; continue varied candidate search and useful photo backfill without filler.
+Northbrook,Fire & Smoke,Not searched,,Broaden targeted service/location search; no absence conclusion.
+Northbrook,Water Damage,Published,2640,Published verified case; continue varied candidate search and useful photo backfill without filler.
+Northbrook,Mold Remediation,Not searched,,Broaden targeted service/location search; no absence conclusion.
+Northbrook,Reconstruction,Published,2640,Published verified case; continue varied candidate search and useful photo backfill without filler.
+Highland Park,Fire & Smoke,Candidates found,,Screened candidate exists; notes/photos review pending.
+Highland Park,Water Damage,Candidates found,,Screened candidate exists; notes/photos review pending.
+Highland Park,Mold Remediation,Published,2690,Published verified case; continue varied candidate search and useful photo backfill without filler.
+Highland Park,Reconstruction,Candidates found,,Screened candidate exists; notes/photos review pending.
 Naperville,Fire & Smoke,Evidence reviewed,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Naperville,Water Damage,Published,2604;2612,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Naperville,Mold Remediation,Published,2580;2604,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Naperville,Reconstruction,Published,2580;2596;2612,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Elmhurst,Fire & Smoke,Candidates found,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Elmhurst,Water Damage,Candidates found,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Elmhurst,Mold Remediation,Candidates found,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Elmhurst,Reconstruction,Candidates found,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Lombard,Fire & Smoke,Published,2624,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Lombard,Water Damage,Candidates found,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Lombard,Mold Remediation,Candidates found,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Lombard,Reconstruction,Published,2624,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Oak Brook,Fire & Smoke,Candidates found,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Oak Brook,Water Damage,Candidates found,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Oak Brook,Mold Remediation,Candidates found,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
-Oak Brook,Reconstruction,Candidates found,,Continue broad search; candidate classification and complete photo/notes review pending where not Published. No absence conclusion.
+Naperville,Water Damage,Published,2604;2612,Published verified case; continue varied candidate search and useful photo backfill without filler.
+Naperville,Mold Remediation,Published,2580;2604,Published verified case; continue varied candidate search and useful photo backfill without filler.
+Naperville,Reconstruction,Published,2580;2596;2612,Published verified case; continue varied candidate search and useful photo backfill without filler.
+Elmhurst,Fire & Smoke,Not searched,,Broaden targeted service/location search; no absence conclusion.
+Elmhurst,Water Damage,Published,2679,Published verified case; continue varied candidate search and useful photo backfill without filler.
+Elmhurst,Mold Remediation,Not searched,,Broaden targeted service/location search; no absence conclusion.
+Elmhurst,Reconstruction,Published,2679,Published verified case; continue varied candidate search and useful photo backfill without filler.
+Lombard,Fire & Smoke,Published,2624,Published verified case; continue varied candidate search and useful photo backfill without filler.
+Lombard,Water Damage,Candidates found,,Screened candidate exists; notes/photos review pending.
+Lombard,Mold Remediation,Candidates found,,Screened candidate exists; notes/photos review pending.
+Lombard,Reconstruction,Published,2624,Published verified case; continue varied candidate search and useful photo backfill without filler.
+Oak Brook,Fire & Smoke,Not searched,,Broaden targeted service/location search; no absence conclusion.
+Oak Brook,Water Damage,Published,2701,Published verified case; continue varied candidate search and useful photo backfill without filler.
+Oak Brook,Mold Remediation,Not searched,,Broaden targeted service/location search; no absence conclusion.
+Oak Brook,Reconstruction,Published,2701,Published verified case; continue varied candidate search and useful photo backfill without filler.
