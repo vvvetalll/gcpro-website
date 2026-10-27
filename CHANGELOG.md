@@ -1,5 +1,14 @@
 # GCPRO changelog
 
+## 2026-10-27 — Research-led geographic first rollout
+
+- Implemented the commissioned research's nine-city cohort, retaining completed Oak Brook as tenth; completed Carol Stream543, Downers Grove527, Schaumburg558, Highland Park528, Naperville532 and Elmhurst530 at existing routes. Useful official local guidance replaces a mandatory photo requirement. Four completed city bodies preserved.
+- Expanded existing shared1140 to ten native Content links/27 Overrides, preserved wide Service Areas directory and compact Footer; restored three existing Header links to completed targets. No dependency/custom code/production/coverage/BEAF change.
+- Corrected status provenance:36 were Published before the previous task, then moved to Draft by the agent. This task six Draft→Published, zero further unpublishing; cohort10 Published/30 Draft.
+- Focused normal-guest200/canonical/noindex/link checks, desktop1707/mobile393 renders for six pages, directory/Home ten links, FAQ Enter. Fixed missing native builder flags found during actual render verification. API-header403 did not reproduce with normal guest delivery; no security changes. No AI-penalty conclusion from the available aggregate data.
+- [Decision, priorities, preserved objects, sources, deferrals and tests](docs/seo/2026-10-26-geographic-implementation.md#current-decision-and-completed-first-rollout--2026-10-27-supersedes-four-only-selection).
+
+
 **2026-10-27 — geographic implementation:** Preserved current Lombard/Glenview/Northbrook builds, finished Oak Brook comparison placement, rebuilt Service Areas using actual Homepage module1140 and clear geographic groups. Four evidence-ready local routes Published;36 inherited shells retained Draft, no new geo objects. Home/Footer/menu links reconciled; coverage registry unchanged. [Dated plan, actual states and tests](docs/seo/2026-10-26-geographic-implementation.md).
 
 **2026-10-26 — Lombard semantic review:** Read-only check confirms distinct local landing role but flags three legacy Lombard articles as potential mixed-intent competitors. No measured ranking harm established; WordPress/URLs/SEO settings unchanged. [Evidence and pre-launch decisions](docs/seo/2026-10-26-lombard-semantic-review.md).

@@ -1,5 +1,8 @@
 # Market-led page SEO briefs
 
+**2026-10-27 geo-only implementation authorization:** current first rollout is Carol Stream543, Downers Grove527, Schaumburg558, Glenview533, Northbrook556, Highland Park528, Naperville532, Elmhurst530, Lombard526 and retained completed Oak Brook536. All Published staging at preserved existing paths. These entries target local restoration enquiries and route to existing specialists; no service×city matrix or unrelated semantic migration. Six new pages use source-backed municipal guidance without invented local cases; exact coverage remains call-to-confirm. This supersedes the geographic entries' former blanket awaiting-approval/readiness wording only. [Current page plans/sources/deferrals](2026-10-26-geographic-implementation.md#current-decision-and-completed-first-rollout--2026-10-27-supersedes-four-only-selection).
+
+
 **DRAFT — AWAITING USER APPROVAL**
 
 Start with [MARKET_ARCHITECTURE.md](MARKET_ARCHITECTURE.md). Demand and independent SERPs determine page roles; existing URLs/GSC are diagnostic inputs and implementation candidates only. The master map includes recommended targets, conditional local targets, support roles, validation candidates and legacy reviews. A row does not automatically authorize a page, target, URL or redirect. Proposed paths are illustrative. After owner approval, use the approved cluster owner and brief; do not choose competing keywords independently. All FAQ prompts are editorial suggestions, not measured demand.

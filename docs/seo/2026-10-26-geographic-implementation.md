@@ -1,4 +1,118 @@
 # Geographic implementation plan — 2026-10-26
+
+## Current decision and completed first rollout — 2026-10-27 (supersedes four-only selection)
+
+**Recommendation: ten existing municipal landing pages.** Build the nine cities specifically validated by the commissioned research's independent local SERP checks; retain completed Oak Brook as a useful, proof-backed tenth page. This is an evidence-defined first cohort, not a ten-page quota or permanent limit. No service×city matrix. Chicago remains served by the existing Home/specialist owners; no competing generic Chicago object is created.
+
+**Status correction:** the 36 pages were **Published before the previous task**. The agent changed them to Draft during that task; the old phrase “retained Drafts” was inaccurate. Private pre-change snapshots and the sanitized baseline in the evidence confirm this. This task made **zero Published→Draft transitions**. Six completed pages now return Draft→Published; the reviewed cohort is ten Published/thirty Draft. The thirty remain in their start-of-this-task status, not an authorization to unpublish any other page. Their original objects/paths/content snapshots remain recoverable; no deletion or redirect.
+
+### Basis, priority and preserved objects
+
+Demand source: [2026-10-21 Ahrefs city-water table](2026-10-21-ahrefs-city-water-metrics.json), [independent market SERPs](2026-10-21-independent-market-serps.json), [nine-city selection](MARKET_ARCHITECTURE.md#geographic-first-wave-candidates). The estimates are **Google US monthly estimates for `water damage restoration [city]`**, not searches physically located in each city, not total broad-restoration volume, and not leads/revenue. Independent Illinois-local results matter because city names can be ambiguous. Priority below combines that measured demand, local intent and readiness; tied estimates are not a measured revenue ranking. Lombard's office is an advantage, not a radius restriction. Naperville belongs to the selected western/DuPage cohort; no southern expansion is implemented.
+
+GSC source: [page export](2026-10-21-gsc-page-rows.json), observed2026-10-21, Web/all countries/devices **2026-07-20–2026-10-19**. Columns below are page clicks / impressions / average position. These are historical aggregate page observations, not attributed city-query metrics.
+
+|Priority|Page / preserved WordPress object|US query estimate / month|Historical GSC clicks / impressions / position|Selection reason|Useful content / proof now|
+|---|---|---:|---|---|---|
+|1|[Carol Stream](https://vitaliiv1.sg-host.com/service-area/carol-stream/) — 543|250|0 / 1,300 / 21.6|Build completed; nine-city local SERP cohort|Separate the water source from the damage. Official local guidance below; no local job invented.|
+|2|[Downers Grove](https://vitaliiv1.sg-host.com/service-area/downers-grove/) — 527|200|0 / 2,253 / 38.3|Build completed; nine-city local SERP cohort|Identify how water entered the building. Official local guidance below; no local job invented.|
+|3|[Schaumburg](https://vitaliiv1.sg-host.com/service-area/schaumburg/) — 558|200|0 / 1,198 / 43.0|Build completed; nine-city local SERP cohort|Address the source and plan the restoration. Official local guidance below; no local job invented.|
+|4|[Glenview](https://vitaliiv1.sg-host.com/service-area/glenview/) — 533|150|0 / 1,670 / 32.8|Build completed; nine-city local SERP cohort|Existing living-room comparison742 and separate reconstruction project2081; do not assert they are the same job.|
+|5|[Northbrook](https://vitaliiv1.sg-host.com/service-area/northbrook/) — 556|150|0 / 1,802 / 36.5|Build completed; nine-city local SERP cohort|Existing garage-fire/exterior comparison767; no invented cause, date or review.|
+|6|[Highland Park](https://vitaliiv1.sg-host.com/service-area/highland-park/) — 528|100|1 / 4,280 / 32.7|Build completed; nine-city local SERP cohort|Plan for the damage and the water-entry problem. Official local guidance below; no local job invented.|
+|7|[Naperville](https://vitaliiv1.sg-host.com/service-area/naperville/) — 532|100|Unavailable in captured page rows; not zero|Build completed; nine-city local SERP cohort|A sewer report and indoor restoration serve different needs. Official local guidance below; no local job invented.|
+|8|[Elmhurst](https://vitaliiv1.sg-host.com/service-area/elmhurst/) — 530|90|0 / 3,057 / 31.9|Build completed; nine-city local SERP cohort|Keep flood-prevention work separate from interior recovery. Official local guidance below; no local job invented.|
+|9|[Lombard](https://vitaliiv1.sg-host.com/service-area/lombard/) — 526|30|3 / 2,499 / 30.0|Build completed; nine-city local SERP cohort|Verified Lombard office and attic mold comparison1596; accepted design pilot.|
+|10|[Oak Brook](https://vitaliiv1.sg-host.com/service-area/oak-brook/) — 536|20|1 / 1,127 / 30.2|Retain completed proof-backed exception|Completed page, bathroom comparison1595 and separate remodeling project2075; retain useful work despite lower comparator.|
+
+### What the decline evidence actually supports
+
+The existing geo pages had measurable visibility: Highland Park, Elmhurst, Downers Grove, Northbrook, Glenview, Carol Stream, Schaumburg, Lombard and Oak Brook all have captured page impressions. Low clicks and average positions in this one period indicate limited captured acquisition, **not the size or cause of a decline**. Naperville is missing from the available page-row capture, not proven to have zero impressions or demand. Separate query and page totals cannot establish city-query×URL attribution or cannibalization by themselves.
+
+The [22 October Ahrefs Top Pages capture](2026-10-22-deep-competitive-research/AHREFS_TOP_PAGES.csv) compares a small seven-row capture against the prior month where retained. Its Lost rows concern the Residential hub, Water Extraction, Commercial hub and Service Areas directory; they are not a loss table for all city URLs. The Bridgeview row is New and its top query mentions Bridgeport; it is outside this expansion and is not a reliable matching-city demand example. The [21 October ranking observations](2026-10-21-ahrefs-ranking-observations.json) also contain a Lost Chicago-water Homepage observation, not a city-page trend series. Vendor labels/serving inconsistencies are documented in [research provenance](RESEARCH_NOTES.md).
+
+**Unavailable:** comparable per-city GSC periods/time series, city query×URL cohorts, complete current historical rank histories and a demonstrated causal penalty diagnosis. No AI penalty, deindexing, algorithm cause or numerical city traffic-collapse percentage is established. Thin/repetitive local pages and overlapping intents are hypotheses/quality risks to address, not proved causes. No unsupported algorithm explanation is used to justify deletion or unpublishing.
+
+### Required page content and actual execution
+
+All ten target one local restoration enquiry intent with water-damage entry demand, then route to the existing Water/Fire/Mold/Reconstruction/Storm/Contents specialists and separate Residential/Commercial hubs. Each page needs practical affected-material/service information, accurate local context, proof where available, native specialist links and Call/Request Service. A photograph is not a mandatory admission criterion.
+
+The six newly completed pages use **Shared Hero1318; Heading71/accent; six existing linked Card68 instances in grid-3; a source-backed local guidance section; Process1152; the real Lombard office/contact route; six page-specific FAQ1354 items; inset CTA80**. No duplicated component definitions or city-specific designs, new class/token/dependency or custom code. Existing shared components own Hero, card, heading, process, FAQ and CTA presentation; existing container/grid classes own widths/responsiveness. Local text/resources are page content Overrides/native widgets. This follows the accepted Lombard sequence; where no verified local case exists, useful local guidance replaces the case block rather than borrowing an unrelated project image. The four completed city bodies are byte-for-byte unchanged from fresh start-of-task snapshots.
+
+Verified local-source links (checked27 October; no affiliation or utility-service claim):
+
+- **Carol Stream**: [Village Water-Main Guidance](https://www.carolstream.org/Home/Components/News/News/1925/276). Separate the water source from the damage.
+- **Downers Grove**: [Village Stormwater FAQs](https://www.downers.us/stormwater-faqs). Identify how water entered the building.
+- **Schaumburg**: [Village Sewer & Backup Information](https://www.villageofschaumburg.com/government/engineering-and-public-works/water-sewer/sewer). Address the source and plan the restoration.
+- **Highland Park**: [City Stormwater Information](https://www.cityhpil.com/environment/stormwater_management/index.php). Plan for the damage and the water-entry problem.
+- **Naperville**: [City Sewer-Backup Guidance](https://www.naperville.il.us/497/Sanitary-Sewer-Backups). A sewer report and indoor restoration serve different needs.
+- **Elmhurst**: [City Overhead-Sewer Guide (PDF)](https://www.elmhurst.org/Document%20Center/Services/Public%20Works/Cost-Sharing%20Programs/Overhead%20Sewer%20Program%20Master_2023.pdf). Keep flood-prevention work separate from interior recovery.
+- Downers Grove additionally links the [Sanitary District's sewer-backup guidance](https://www.dgsd.org/sewer-backups/), separately from Village stormwater information.
+
+Elmhurst's linked technical PDF is an older guide, not verification of current funding/program terms. The page makes no grant, eligibility or payment promise and tells readers to confirm current City requirements. No new local office, job, review, response time, insurance outcome, sewer-utility repair, storage or contents-return claim. GCPRO packs/restores belongings; mold-testing exclusions live in relevant FAQs. A stronger future case record would add address/municipality-confirmed photographs and factual work details; it is an enhancement, not a publication blocker for these useful pages.
+
+The six legacy objects had no Elementor builder flag. Native composition saved their data but initial classic-page rendering displayed component defaults. Corrected through the registered WordPress REST edit-mode/document-type fields (`builder`, `wp-page`), native hide-title setting and removed the generated classic fallback. IDs/slugs/parents/SEO settings retained. Actual browser readback now shows intended Overrides, one H1 and real destinations; the failed intermediate render is not counted as verification.
+
+### Deferred pages and exact next input
+
+The following thirty remain Draft from the previous task, represented in the wider directory. “Wait” is a sequencing/content-evidence decision, never an operational exclusion. Existing numbers remain useful; missing/low data is not zero demand. The next validation queue is Lake Forest, Arlington Heights, Addison, Glen Ellyn, Skokie, Barrington and Hinsdale; their nonzero demand is explicitly preserved instead of being dismissed for missing photographs. Do not require a project if source-backed, service-relevant local information can make the page useful.
+
+|Deferred preserved object / path|Existing US monthly comparator|What improves readiness|
+|---|---:|---|
+|Addison — 538, `/service-area/addison/`|150|Next validation queue: verify Illinois-local SERP intent/city ambiguity, then substantiate a useful local service scenario and municipal/source contact. A case study is optional.|
+|Antioch — 535, `/service-area/antioch/`|150|Measured city-water query alone lacks the independent city-intent/content validation captured for the nine-city cohort. Verify that intent and one useful local restoration scenario/resource before building.|
+|Arlington Heights — 559, `/service-area/arlington-heights/`|150|Next validation queue: verify Illinois-local SERP intent/city ambiguity, then substantiate a useful local service scenario and municipal/source contact. A case study is optional.|
+|Bartlett — 561, `/service-area/bartlett/`|150|Measured city-water query alone lacks the independent city-intent/content validation captured for the nine-city cohort. Verify that intent and one useful local restoration scenario/resource before building.|
+|Buffalo Grove — 551, `/service-area/buffalo-grove/`|150|Measured city-water query alone lacks the independent city-intent/content validation captured for the nine-city cohort. Verify that intent and one useful local restoration scenario/resource before building.|
+|Glen Ellyn — 542, `/service-area/glen-ellyn/`|150|Next validation queue: verify Illinois-local SERP intent/city ambiguity, then substantiate a useful local service scenario and municipal/source contact. A case study is optional.|
+|Lake Forest — 553, `/service-area/lake-forest/`|150|Next validation queue: verify Illinois-local SERP intent/city ambiguity, then substantiate a useful local service scenario and municipal/source contact. A case study is optional.|
+|Skokie — 541, `/service-area/skokie/`|150|Next validation queue: verify Illinois-local SERP intent/city ambiguity, then substantiate a useful local service scenario and municipal/source contact. A case study is optional.|
+|Aurora — 537, `/service-area/aurora/`|100|Measured city-water query alone lacks the independent city-intent/content validation captured for the nine-city cohort. Verify that intent and one useful local restoration scenario/resource before building.|
+|Barrington — 552, `/service-area/barrington/`|100|Next validation queue: verify Illinois-local SERP intent/city ambiguity, then substantiate a useful local service scenario and municipal/source contact. A case study is optional.|
+|Cary — 544, `/service-area/cary/`|100|Measured city-water query alone lacks the independent city-intent/content validation captured for the nine-city cohort. Verify that intent and one useful local restoration scenario/resource before building.|
+|Hinsdale — 540, `/service-area/hinsdale/`|100|Next validation queue: verify Illinois-local SERP intent/city ambiguity, then substantiate a useful local service scenario and municipal/source contact. A case study is optional.|
+|Elk Grove Village — 529, `/service-area/elk-grove-village/`|80|Measured city-water query alone lacks the independent city-intent/content validation captured for the nine-city cohort. Verify that intent and one useful local restoration scenario/resource before building.|
+|Kenilworth — 571, `/service-area/kenilworth/`|70|Measured city-water query alone lacks the independent city-intent/content validation captured for the nine-city cohort. Verify that intent and one useful local restoration scenario/resource before building.|
+|Niles — 562, `/service-area/niles/`|70|Measured city-water query alone lacks the independent city-intent/content validation captured for the nine-city cohort. Verify that intent and one useful local restoration scenario/resource before building.|
+|Deerfield — 563, `/service-area/deerfield/`|60|Measured city-water query alone lacks the independent city-intent/content validation captured for the nine-city cohort. Verify that intent and one useful local restoration scenario/resource before building.|
+|Des Plaines — 572, `/service-area/des-plaines/`|60|Measured city-water query alone lacks the independent city-intent/content validation captured for the nine-city cohort. Verify that intent and one useful local restoration scenario/resource before building.|
+|Villa Park — 546, `/service-area/villa-park/`|60|Measured city-water query alone lacks the independent city-intent/content validation captured for the nine-city cohort. Verify that intent and one useful local restoration scenario/resource before building.|
+|Long Grove — 545, `/service-area/long-grove/`|50|Measured city-water query alone lacks the independent city-intent/content validation captured for the nine-city cohort. Verify that intent and one useful local restoration scenario/resource before building.|
+|Wilmette — 555, `/service-area/wilmette/`|50|Measured city-water query alone lacks the independent city-intent/content validation captured for the nine-city cohort. Verify that intent and one useful local restoration scenario/resource before building.|
+|Winnetka — 566, `/service-area/winnetka/`|40|Measured city-water query alone lacks the independent city-intent/content validation captured for the nine-city cohort. Verify that intent and one useful local restoration scenario/resource before building.|
+|Batavia — 554, `/service-area/batavia/`|30|Measured city-water query alone lacks the independent city-intent/content validation captured for the nine-city cohort. Verify that intent and one useful local restoration scenario/resource before building.|
+|Bellwood — 567, `/service-area/bellwood/`|30|Measured city-water query alone lacks the independent city-intent/content validation captured for the nine-city cohort. Verify that intent and one useful local restoration scenario/resource before building.|
+|Bensenville — 577, `/service-area/bensenville/`|30|Measured city-water query alone lacks the independent city-intent/content validation captured for the nine-city cohort. Verify that intent and one useful local restoration scenario/resource before building.|
+|Evanston — 565, `/service-area/evanston/`|30|Measured city-water query alone lacks the independent city-intent/content validation captured for the nine-city cohort. Verify that intent and one useful local restoration scenario/resource before building.|
+|Glencoe — 547, `/service-area/glencoe/`|30|Measured city-water query alone lacks the independent city-intent/content validation captured for the nine-city cohort. Verify that intent and one useful local restoration scenario/resource before building.|
+|Algonquin — 550, `/service-area/algonquin/`|0–10|Low/uncertain vendor range is not zero demand. Check local intent and whether a distinct page adds value beyond the directory; obtain a source-backed local scenario.|
+|Broadview — 575, `/service-area/broadview/`|0–10|Low/uncertain vendor range is not zero demand. Check local intent and whether a distinct page adds value beyond the directory; obtain a source-backed local scenario.|
+|Carpentersville — 539, `/service-area/carpentersville/`|0–10|Low/uncertain vendor range is not zero demand. Check local intent and whether a distinct page adds value beyond the directory; obtain a source-backed local scenario.|
+|Fox Lake — 570, `/service-area/fox-lake/`|missing|Demand measurement is missing: obtain a city-service query/intent check and verify useful local source information before selecting a landing.|
+
+Chicago neighborhoods: keep Lakeview/Lake View, Wicker Park and Roscoe Village's captured small GSC query observations distinct from missing neighborhood-volume data. Other directory neighborhoods have no demonstrated separate local landing intent in the captured research. Keep them as neighborhood enquiries under Chicago/Home/specialists until a neighborhood intent check and useful local material justify an independent owner. Do not infer neighborhood locations from project street names. Southern legacy URLs, unpublished status choices outside this cohort and existing redirects remain untouched.
+
+### Directory, coverage and configuration owners
+
+- **Service Areas495** remains the wider directory: actual Homepage component1140, ten landing links, twelve Chicago-neighborhood mentions and forty municipal names in three geographic groups. A listed municipality does not automatically need a landing or confirm service at every address.
+- **Shared1140** remains the single repeated module owner, now ten native title-selected Content links, two columns of five/one column mobile, **27 active Overrides**. Existing city_1–4 bindings retained; city_5–10 added. Both actual Home154 and directory495 render all ten; directory instance eyebrow/description no longer imply every linked page is a case study. Existing city-link arrow/border/hover/focus owner reused.
+- **Footer114** is left compact: Chicago/four representative suburbs/All Service Areas; no overcrowded ten-city link list. No direct Footer body write in this task. Restored existing Header menu-items257/258/260 after their527/528/530 targets were completed. Elk Grove Village menu259 stays in its prior Draft state. Native destinations/order retained.
+- **Coverage is separate:** no plugin or matching rule changed. Existing live owner remains Elementor Popup1801→HTML7a5e1801; exact city/ZIP confirmation disabled, proposed scope only, no approved exclusions/ZIPs. Popup document body compares byte-for-byte with the protected snapshot. SEO pages retain call-to-confirm copy; they do not expand/reject eligibility. No new plugin, dependency, redirects or production changes.
+
+### Focused verification and remaining limits
+
+All ten routes plus Home/directory return **200 to a normal guest browser User-Agent**, one H1, self-canonical and staging noindex. An initial scripted request carrying API authentication headers received403; normal guest200 and authenticated browser delivery distinguish that request-path result from a general guest outage. No security setting was weakened. Native REST confirms ten Published/thirty Draft within the reviewed forty, same IDs/slugs/parents and no new Published→Draft transition.
+
+Actual browser six new pages: correct unique H1/FAQ content, six service destinations, desktop1707px and mobile393px without horizontal overflow. Directory393px has ten stacked city links; Home/directory each show ten correct native routes. Representative FAQ opens with Enter; Call/Request links resolve to verified existing destinations, no call/form sent. Module1140 schema readback has27 exposed properties. All26 BEAF shortcode comparisons remain, no record/settings/files/media writes. Four completed bodies preserved. Physical-device/screen-reader testing and a new post-launch ranking trend are not claimed; owner retains final visual acceptance.
+
+No genuine implementation blocker remains for this first group. Exact address coverage is still provisional by owner instruction, and missing historic time-series data limits causal SEO diagnosis; neither is disguised as automatic geographic confirmation or zero demand.
+
+[Saved publication, baseline, HTTP and responsive evidence](../evidence/2026-10-27-geo-first-rollout.json).
+
+---
+
+## Historical plan and execution (superseded where noted above)
+
 Status: IMPLEMENTED ON STAGING — 2026-10-27. Native WordPress/Elementor controls; owner visual acceptance pending. Staging only; no production, URL changes, redirects, deletion, ZIP-eligibility changes or new dependencies.
 
 ## Evidence and justified page count

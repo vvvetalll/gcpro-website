@@ -1,5 +1,8 @@
 # Header and Footer
 
+**2026-10-27 geo first rollout:** existing shared1140 (Homepage and Service Areas consumers) expanded in-place to ten city links/27 active Overrides; original four property keys preserved, six added. Same city-link/class/token/native popup owners, two columns of five and one on mobile. Footer114 body unchanged in this task: compact Chicago/four suburbs/All Service Areas remains appropriate. Existing Header menu-items257 Downers Grove,258 Highland Park,260 Elmhurst restored Published only after target pages527/528/530 were completed;259 Elk Grove Village remains Draft. Native Content bindings retain actual page-title labels. [Decision/tests](../seo/2026-10-26-geographic-implementation.md#current-decision-and-completed-first-rollout--2026-10-27-supersedes-four-only-selection).
+
+
 **Current Footer service links — 2026-10-26:** Footer114 now has six native named Internal URL → Content bindings to the same Residential pages as Home Core. Existing service IDs/text/borders/spacing retained; native styled anchors reuse gcpro-footer-link and its orange underline/focus treatment. Other footer links and Commercial navigation untouched. [Mapping, owners and verification](../audits/2026-10-26-native-named-links.md#homepage-core-and-shared-footer--residential-services--2026-10-26). Earlier informational/draft-service notes below are dated history.
 
 **2026-10-24 legal navigation:** Footer114 now includes native Page3 Privacy and Page494 Website Terms links in6a188526; no draft SMS link. Original Footer content and Header113 preserved. [Owners/checks](policy-pages.md).

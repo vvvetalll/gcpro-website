@@ -1,0 +1,552 @@
+{
+  "date": "2026-10-27",
+  "rollout": [
+    {
+      "id": 543,
+      "url": "https://vitaliiv1.sg-host.com/service-area/carol-stream/",
+      "status": "publish",
+      "mode": "builder"
+    },
+    {
+      "id": 527,
+      "url": "https://vitaliiv1.sg-host.com/service-area/downers-grove/",
+      "status": "publish",
+      "mode": "builder"
+    },
+    {
+      "id": 558,
+      "url": "https://vitaliiv1.sg-host.com/service-area/schaumburg/",
+      "status": "publish",
+      "mode": "builder"
+    },
+    {
+      "id": 528,
+      "url": "https://vitaliiv1.sg-host.com/service-area/highland-park/",
+      "status": "publish",
+      "mode": "builder"
+    },
+    {
+      "id": 532,
+      "url": "https://vitaliiv1.sg-host.com/service-area/naperville/",
+      "status": "publish",
+      "mode": "builder"
+    },
+    {
+      "id": 530,
+      "url": "https://vitaliiv1.sg-host.com/service-area/elmhurst/",
+      "status": "publish",
+      "mode": "builder"
+    },
+    {
+      "id": 526,
+      "url": "https://vitaliiv1.sg-host.com/service-area/lombard/",
+      "status": "publish",
+      "mode": "builder"
+    },
+    {
+      "id": 533,
+      "url": "https://vitaliiv1.sg-host.com/service-area/glenview/",
+      "status": "publish",
+      "mode": "builder"
+    },
+    {
+      "id": 556,
+      "url": "https://vitaliiv1.sg-host.com/service-area/northbrook/",
+      "status": "publish",
+      "mode": "builder"
+    },
+    {
+      "id": 536,
+      "url": "https://vitaliiv1.sg-host.com/service-area/oak-brook/",
+      "status": "publish",
+      "mode": "builder"
+    }
+  ],
+  "cohort_statuses": {
+    "publish": 10,
+    "draft": 30
+  },
+  "previous_task_baseline_statuses": {
+    "526": "publish",
+    "527": "publish",
+    "528": "publish",
+    "529": "publish",
+    "530": "publish",
+    "532": "publish",
+    "533": "publish",
+    "535": "publish",
+    "536": "publish",
+    "537": "publish",
+    "538": "publish",
+    "539": "publish",
+    "540": "publish",
+    "541": "publish",
+    "542": "publish",
+    "543": "publish",
+    "544": "publish",
+    "545": "publish",
+    "546": "publish",
+    "547": "publish",
+    "550": "publish",
+    "551": "publish",
+    "552": "publish",
+    "553": "publish",
+    "554": "publish",
+    "555": "publish",
+    "556": "publish",
+    "558": "publish",
+    "559": "publish",
+    "561": "publish",
+    "562": "publish",
+    "563": "publish",
+    "565": "publish",
+    "566": "publish",
+    "567": "publish",
+    "570": "publish",
+    "571": "publish",
+    "572": "publish",
+    "575": "publish",
+    "577": "publish"
+  },
+  "completed_bodies_unchanged": {
+    "526": true,
+    "533": true,
+    "556": true,
+    "536": true
+  },
+  "frontend": [
+    {
+      "url": "https://vitaliiv1.sg-host.com/service-area/carol-stream/",
+      "status": 200,
+      "h1": [
+        "Restoration Services in Carol Stream, IL"
+      ],
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/service-area/carol-stream/",
+      "placeholder_text": false
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/service-area/downers-grove/",
+      "status": 200,
+      "h1": [
+        "Restoration Services in Downers Grove, IL"
+      ],
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/service-area/downers-grove/",
+      "placeholder_text": false
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/service-area/schaumburg/",
+      "status": 200,
+      "h1": [
+        "Restoration Services in Schaumburg, IL"
+      ],
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/service-area/schaumburg/",
+      "placeholder_text": false
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/service-area/highland-park/",
+      "status": 200,
+      "h1": [
+        "Restoration Services in Highland Park, IL"
+      ],
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/service-area/highland-park/",
+      "placeholder_text": false
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/service-area/naperville/",
+      "status": 200,
+      "h1": [
+        "Restoration Services in Naperville, IL"
+      ],
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/service-area/naperville/",
+      "placeholder_text": false
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/service-area/elmhurst/",
+      "status": 200,
+      "h1": [
+        "Restoration Services in Elmhurst, IL"
+      ],
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/service-area/elmhurst/",
+      "placeholder_text": false
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/service-area/lombard/",
+      "status": 200,
+      "h1": [
+        "Restoration Services in Lombard, IL"
+      ],
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/service-area/lombard/",
+      "placeholder_text": false
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/service-area/glenview/",
+      "status": 200,
+      "h1": [
+        "Restoration Services in Glenview, IL"
+      ],
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/service-area/glenview/",
+      "placeholder_text": false
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/service-area/northbrook/",
+      "status": 200,
+      "h1": [
+        "Restoration Services in Northbrook, IL"
+      ],
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/service-area/northbrook/",
+      "placeholder_text": false
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/service-area/oak-brook/",
+      "status": 200,
+      "h1": [
+        "Restoration Services in Oak Brook, IL"
+      ],
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/service-area/oak-brook/",
+      "placeholder_text": false
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/service-area/",
+      "status": 200,
+      "h1": [
+        "Chicago & Chicagoland Service Areas"
+      ],
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/service-area/",
+      "placeholder_text": false
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/",
+      "status": 200,
+      "h1": [
+        "Property restoration in Chicago"
+      ],
+      "robots": "noindex, nofollow, max-image-preview:large",
+      "canonical": "https://vitaliiv1.sg-host.com/",
+      "placeholder_text": false
+    }
+  ],
+  "coverage_changed": false,
+  "new_publish_to_draft_transitions": 0,
+  "new_dependencies_or_runtime_code": false,
+  "browser": [
+    {
+      "faq": 6,
+      "h1": [
+        "Restoration Services in Carol Stream, IL"
+      ],
+      "headings": [
+        {
+          "text": "Restoration for the damage your property has",
+          "x": 275
+        },
+        {
+          "text": "Separate the water source from the damage",
+          "x": 275
+        },
+        {
+          "text": "From the first call to restoration",
+          "x": 275
+        },
+        {
+          "text": "Based in Lombard. Ready to discuss your property.",
+          "x": 275
+        },
+        {
+          "text": "Restoration questions in Carol Stream",
+          "x": 275
+        },
+        {
+          "text": "Need restoration help in Carol Stream?",
+          "x": 323
+        }
+      ],
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "path": "/service-area/carol-stream/",
+      "scroll": 1686,
+      "services": [
+        "https://vitaliiv1.sg-host.com/residential-services/water-damage/",
+        "https://vitaliiv1.sg-host.com/residential-services/fire-smoke/",
+        "https://vitaliiv1.sg-host.com/residential-services/mold-removal/",
+        "https://vitaliiv1.sg-host.com/residential-services/reconstruction/",
+        "https://vitaliiv1.sg-host.com/residential-services/storm-damage/",
+        "https://vitaliiv1.sg-host.com/residential-services/personal-property-restoration/",
+        "https://vitaliiv1.sg-host.com/residential-services/"
+      ],
+      "viewport": 1707
+    },
+    {
+      "faq": 6,
+      "h1": [
+        "Restoration Services in Downers Grove, IL"
+      ],
+      "headings": [
+        {
+          "text": "Restoration for the damage your property has",
+          "x": 275
+        },
+        {
+          "text": "Identify how water entered the building",
+          "x": 275
+        },
+        {
+          "text": "From the first call to restoration",
+          "x": 275
+        },
+        {
+          "text": "Based in Lombard. Ready to discuss your property.",
+          "x": 275
+        },
+        {
+          "text": "Restoration questions in Downers Grove",
+          "x": 275
+        },
+        {
+          "text": "Need restoration help in Downers Grove?",
+          "x": 323
+        }
+      ],
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "path": "/service-area/downers-grove/",
+      "scroll": 1686,
+      "services": [
+        "https://vitaliiv1.sg-host.com/residential-services/water-damage/",
+        "https://vitaliiv1.sg-host.com/residential-services/fire-smoke/",
+        "https://vitaliiv1.sg-host.com/residential-services/mold-removal/",
+        "https://vitaliiv1.sg-host.com/residential-services/reconstruction/",
+        "https://vitaliiv1.sg-host.com/residential-services/storm-damage/",
+        "https://vitaliiv1.sg-host.com/residential-services/personal-property-restoration/",
+        "https://vitaliiv1.sg-host.com/residential-services/"
+      ],
+      "viewport": 1707
+    },
+    {
+      "faq": 6,
+      "h1": [
+        "Restoration Services in Schaumburg, IL"
+      ],
+      "headings": [
+        {
+          "text": "Restoration for the damage your property has",
+          "x": 275
+        },
+        {
+          "text": "Address the source and plan the restoration",
+          "x": 275
+        },
+        {
+          "text": "From the first call to restoration",
+          "x": 275
+        },
+        {
+          "text": "Based in Lombard. Ready to discuss your property.",
+          "x": 275
+        },
+        {
+          "text": "Restoration questions in Schaumburg",
+          "x": 275
+        },
+        {
+          "text": "Need restoration help in Schaumburg?",
+          "x": 323
+        }
+      ],
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "path": "/service-area/schaumburg/",
+      "scroll": 1686,
+      "services": [
+        "https://vitaliiv1.sg-host.com/residential-services/water-damage/",
+        "https://vitaliiv1.sg-host.com/residential-services/fire-smoke/",
+        "https://vitaliiv1.sg-host.com/residential-services/mold-removal/",
+        "https://vitaliiv1.sg-host.com/residential-services/reconstruction/",
+        "https://vitaliiv1.sg-host.com/residential-services/storm-damage/",
+        "https://vitaliiv1.sg-host.com/residential-services/personal-property-restoration/",
+        "https://vitaliiv1.sg-host.com/residential-services/"
+      ],
+      "viewport": 1707
+    },
+    {
+      "faq": 6,
+      "h1": [
+        "Restoration Services in Highland Park, IL"
+      ],
+      "headings": [
+        {
+          "text": "Restoration for the damage your property has",
+          "x": 275
+        },
+        {
+          "text": "Plan for the damage and the water-entry problem",
+          "x": 275
+        },
+        {
+          "text": "From the first call to restoration",
+          "x": 275
+        },
+        {
+          "text": "Based in Lombard. Ready to discuss your property.",
+          "x": 275
+        },
+        {
+          "text": "Restoration questions in Highland Park",
+          "x": 275
+        },
+        {
+          "text": "Need restoration help in Highland Park?",
+          "x": 323
+        }
+      ],
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "path": "/service-area/highland-park/",
+      "scroll": 1686,
+      "services": [
+        "https://vitaliiv1.sg-host.com/residential-services/water-damage/",
+        "https://vitaliiv1.sg-host.com/residential-services/fire-smoke/",
+        "https://vitaliiv1.sg-host.com/residential-services/mold-removal/",
+        "https://vitaliiv1.sg-host.com/residential-services/reconstruction/",
+        "https://vitaliiv1.sg-host.com/residential-services/storm-damage/",
+        "https://vitaliiv1.sg-host.com/residential-services/personal-property-restoration/",
+        "https://vitaliiv1.sg-host.com/residential-services/"
+      ],
+      "viewport": 1707
+    },
+    {
+      "faq": 6,
+      "h1": [
+        "Restoration Services in Naperville, IL"
+      ],
+      "headings": [
+        {
+          "text": "Restoration for the damage your property has",
+          "x": 275
+        },
+        {
+          "text": "A sewer report and indoor restoration serve different needs",
+          "x": 275
+        },
+        {
+          "text": "From the first call to restoration",
+          "x": 275
+        },
+        {
+          "text": "Based in Lombard. Ready to discuss your property.",
+          "x": 275
+        },
+        {
+          "text": "Restoration questions in Naperville",
+          "x": 275
+        },
+        {
+          "text": "Need restoration help in Naperville?",
+          "x": 323
+        }
+      ],
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "path": "/service-area/naperville/",
+      "scroll": 1686,
+      "services": [
+        "https://vitaliiv1.sg-host.com/residential-services/water-damage/",
+        "https://vitaliiv1.sg-host.com/residential-services/fire-smoke/",
+        "https://vitaliiv1.sg-host.com/residential-services/mold-removal/",
+        "https://vitaliiv1.sg-host.com/residential-services/reconstruction/",
+        "https://vitaliiv1.sg-host.com/residential-services/storm-damage/",
+        "https://vitaliiv1.sg-host.com/residential-services/personal-property-restoration/",
+        "https://vitaliiv1.sg-host.com/residential-services/"
+      ],
+      "viewport": 1707
+    },
+    {
+      "faq": 6,
+      "h1": [
+        "Restoration Services in Elmhurst, IL"
+      ],
+      "headings": [
+        {
+          "text": "Restoration for the damage your property has",
+          "x": 275
+        },
+        {
+          "text": "Keep flood-prevention work separate from interior recovery",
+          "x": 275
+        },
+        {
+          "text": "From the first call to restoration",
+          "x": 275
+        },
+        {
+          "text": "Based in Lombard. Ready to discuss your property.",
+          "x": 275
+        },
+        {
+          "text": "Restoration questions in Elmhurst",
+          "x": 275
+        },
+        {
+          "text": "Need restoration help in Elmhurst?",
+          "x": 323
+        }
+      ],
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "path": "/service-area/elmhurst/",
+      "scroll": 1686,
+      "services": [
+        "https://vitaliiv1.sg-host.com/residential-services/water-damage/",
+        "https://vitaliiv1.sg-host.com/residential-services/fire-smoke/",
+        "https://vitaliiv1.sg-host.com/residential-services/mold-removal/",
+        "https://vitaliiv1.sg-host.com/residential-services/reconstruction/",
+        "https://vitaliiv1.sg-host.com/residential-services/storm-damage/",
+        "https://vitaliiv1.sg-host.com/residential-services/personal-property-restoration/",
+        "https://vitaliiv1.sg-host.com/residential-services/"
+      ],
+      "viewport": 1707
+    },
+    {
+      "faq": 6,
+      "path": "/service-area/elmhurst/",
+      "scroll": 393,
+      "viewport": 393
+    },
+    {
+      "faq": 6,
+      "path": "/service-area/naperville/",
+      "scroll": 393,
+      "viewport": 393
+    },
+    {
+      "faq": 6,
+      "path": "/service-area/highland-park/",
+      "scroll": 393,
+      "viewport": 393
+    },
+    {
+      "faq": 6,
+      "path": "/service-area/schaumburg/",
+      "scroll": 393,
+      "viewport": 393
+    },
+    {
+      "faq": 6,
+      "path": "/service-area/downers-grove/",
+      "scroll": 393,
+      "viewport": 393
+    },
+    {
+      "faq": 6,
+      "path": "/service-area/carol-stream/",
+      "scroll": 393,
+      "viewport": 393
+    }
+  ],
+  "coverage_body_unchanged": true,
+  "preserved_beaf_shortcode_count": 26
+}

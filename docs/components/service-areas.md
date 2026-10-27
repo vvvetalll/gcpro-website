@@ -1,5 +1,8 @@
 # Service Areas
 
+**Current,2026-10-27 research-led revision:** ten published local pages (the nine independent-SERP research candidates plus completed Oak Brook); six former shells now contain useful source-backed local guidance rather than requiring a photograph. Shared1140 owns ten native city routes/27 Overrides, two columns of five, mobile one column.495 remains the wider directory. The four completed city bodies are unchanged. All36 queued objects were Published before the previous task and were changed to Draft by the agent; six now republished,30 remain unchanged from this task's start. No new unpublishing. [Current decision, owners, exact deferrals and tests](../seo/2026-10-26-geographic-implementation.md#current-decision-and-completed-first-rollout--2026-10-27-supersedes-four-only-selection). Earlier four-only entries below are historical, superseded.
+
+
 **2026-10-27:**495 now reuses actual Homepage1140, then Chicago-neighborhood and municipal groups. Same1140 now owns four ready-city links with15 active Overrides; Footer114 has six compact geographic destinations. Four local pages Published/36 unsupported inherited shells Draft; no coverage change. [Current owners/statuses/tests](../seo/2026-10-26-geographic-implementation.md#completed-execution--2026-10-27).
 
 ## Lombard design pilot — 2026-10-26
