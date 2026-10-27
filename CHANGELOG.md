@@ -1,5 +1,7 @@
 # GCPRO changelog
 
+**2026-10-27 second Schaumburg case:** Published2755, six inspected/privacy-prepared WebP images, specific narrative/SEO and native named links. Existing city query automatically includes both Schaumburg cases. Frontend/lightbox Right/Escape checked;14 new cases total, target incomplete. [Record](docs/projects/dash-case-workflow.md#second-schaumburg-case--2026-10-27).
+
 **2026-10-27 Carol Stream checkpoint:** Completed and Published existing2572 with six chronological WebP images, corrected title/SEO/narrative and privacy-edited photos. Original two media preserved detached. Added native location selection on543; all ten cities now connected. Case/frontend and345px native mobile selection verified.13 new cases total; four-per-city target remains unfinished. [Record](docs/projects/dash-case-workflow.md#carol-stream-draft-completed-and-published--2026-10-27).
 
 **2026-10-27 latest DASH execution:** Published Downers Grove2718/six WebP images; added native location selections to527/530/528/536. Actual frontend verifies expected local cards/no overflow; shared title18px confirmed. Twelve new cases total. Production, BEAF and dependencies unchanged. [Checkpoint and remaining work](docs/projects/dash-case-workflow.md#downers-grove-publication-and-local-selections--2026-10-27).
