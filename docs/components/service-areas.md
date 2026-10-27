@@ -1,5 +1,8 @@
 # Service Areas
 
+**2026-10-27 focused content/URL review:** no component/layout/navigation rebuild. Page-owned Overrides shorten six-card/local copy and ten Process instances; Northbrook/Oak Brook FAQs now answer real repair questions. Six native AIOSEO title/description pairs added; original canonical/robots/schema preserved. All ten link targets remain Published; thirty deferred routes are individually registered as preservation recommendations awaiting owner approval,not migration deletions. Lombard1596 location remains owner-supplied rather than independently corroborated. [Review and30-URL register](../seo/2026-10-26-geographic-implementation.md#focused-content-and-url-preservation-review--2026-10-27).
+
+
 **Current,2026-10-27 research-led revision:** ten published local pages (the nine independent-SERP research candidates plus completed Oak Brook); six former shells now contain useful source-backed local guidance rather than requiring a photograph. Shared1140 owns ten native city routes/27 Overrides, two columns of five, mobile one column.495 remains the wider directory. The four completed city bodies are unchanged. All36 queued objects were Published before the previous task and were changed to Draft by the agent; six now republished,30 remain unchanged from this task's start. No new unpublishing. [Current decision, owners, exact deferrals and tests](../seo/2026-10-26-geographic-implementation.md#current-decision-and-completed-first-rollout--2026-10-27-supersedes-four-only-selection). Earlier four-only entries below are historical, superseded.
 
 

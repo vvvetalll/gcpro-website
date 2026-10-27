@@ -1,5 +1,8 @@
 # GCPRO project context
 
+**2026-10-27 focused geo review:** ten-page rollout unchanged; shorter native content Overrides, practical project FAQs and six authored local SEO metadata pairs. Ten guest routes/links/noindex checked; representative desktop/mobile verified. Thirty deferred production URLs now have individual status/history/search/index/link/launch-approval fields in canonical inventory and a full table in the existing geographic plan. All thirty currently Published on production,still Draft staging; no status/URL/production/popup change. Proposed KEEP/UPDATE original paths requires owner approval before cutover. [Current review/register](docs/seo/2026-10-26-geographic-implementation.md#thirty-deferred-urls--individual-launch-decision-register).
+
+
 **2026-10-27 geo decision revised and implemented:** first rollout10 existing city pages = nine independently validated research candidates + retained completed Oak Brook. New completed/published543/527/558/528/532/530; preserve526/533/556/536 bodies and original paths. Existing1140 now ten links/27 Overrides; Home/directory current, Header three recovered links, Footer compact. Zero new Published→Draft moves; prior36 were originally Published and were moved to Draft by the agent, not pre-existing drafts. Current reviewed cohort10 Published/30 Draft. Coverage/26 BEAF/production/noindex unchanged. Guest200; six desktop/mobile renders and native links checked. [Actual decision/evidence/deferrals](docs/seo/2026-10-26-geographic-implementation.md#current-decision-and-completed-first-rollout--2026-10-27-supersedes-four-only-selection).
 
 

@@ -1,5 +1,13 @@
 # GCPRO changelog
 
+## 2026-10-27 — Ten-page content review and30-URL preservation register
+
+- Kept ten-city scope/layout/components; shortened six pages' service/local guidance and clarified ten Process instances through Overrides. Replaced defensive project FAQs with useful repair questions; six missing native SEO title/description pairs authored.
+- Canonical inventory retains329 exact rows/variants;30 deferred objects now individually record status provenance, year/quarter GSC, dated indexing/backlink evidence, original-route KEEP/UPDATE proposals, missing evidence and approval gates. Production read-only REST confirms30 Published; staging Draft states remain unchanged.
+- Ten routes/Home/directory guest200, links/metadata/canonical/noindex checked; representative desktop/mobile/FAQ Enter passed. No statuses/URLs/redirects/ZIP/production/code/plugin changes. Lombard project city is an owner-supplied label,not independently corroborated.
+- [Review,30-URL decision register and verification](docs/seo/2026-10-26-geographic-implementation.md#focused-content-and-url-preservation-review--2026-10-27).
+
+
 ## 2026-10-27 — Research-led geographic first rollout
 
 - Implemented the commissioned research's nine-city cohort, retaining completed Oak Brook as tenth; completed Carol Stream543, Downers Grove527, Schaumburg558, Highland Park528, Naperville532 and Elmhurst530 at existing routes. Useful official local guidance replaces a mandatory photo requirement. Four completed city bodies preserved.
