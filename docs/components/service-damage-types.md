@@ -77,3 +77,9 @@ Verified1440px3×2 and768px two-column geometry; all17 pages at approximately394
 ## Intro card heading refinement — 2026-10-28
 
 Owner approved smaller headings in the shared six-card intro. Existing Component1345, all six Scope Title nodes, now owns20px desktop/tablet and18px mobile, line-height1.35, color-text (#334155). H3 semantics,15 independent text Overrides, section H2, descriptions,3/2/1 grid, padding and other sections preserved. Native Atomic styles only; private pre-change component snapshot retained. Actual Water514 frontend measured all six headings20px/#334155 and showed balanced3×2 cards. Owner accepted the size. Other consumers inherit the same component; no17-page style duplication. No full-site audit or extra dependency.
+
+## Shared compact service headings — 2026-10-28
+
+Owner requested matching the approved smaller intro-card headings in the numbered process and geo service summaries. Existing timeline Component582 title nodes39735454/6a28b840/7ee454a0/7f4076aa now use native20px desktop/tablet,18px mobile,1.35 line-height and color-text. Existing Card68 title481eeb5f uses the same native values. No global H3 default, section H2, numbering, text Override, link, layout, image or separate component was changed. Private recoverable native snapshots retained. Water514 actual four process headings measured20px/#334155. Geo Card68 saved values published; separate live geo check pending at this checkpoint.
+
+Owner deferred the result counter; Facet6 remains unconnected and no duplicate Load More widget remains. Card2233 action was corrected through native controls (no Custom CSS): pointer cursor,14px type, natural height, orange bottom border close to text. Actual click opened the correct case; final catalogue had8 cards and one Load More. This does not complete the previously documented full regression or separate card-location requirement.
