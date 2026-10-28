@@ -179,3 +179,8 @@ Existing shared presentation preserved; native body/Heading71/Buttons59. Locatio
 ### Glenview2874 publication — 2026-10-28
 
 Existing shared Single/Gallery/Card retained; native body/Heading71/Buttons59. Location33 query automatically includes2874 and2632. Six chronological WebP images; actual desktop H1/gallery/links/noindex/overflow verified. No code, layout or dependency change. [Checkpoint](../projects/dash-case-workflow.md#second-glenview-case--2026-10-28).
+
+
+### Commercial Elmhurst2883 — 2026-10-28
+
+Shared Single/Gallery/Card retained, native body/Heading71/Buttons59. Location36 now automatically includes three cases. Six chronological WebP images and actual desktop H1/gallery/links/noindex/overflow verified. Rejected2890 detached/preserved. No component, layout, code or dependency change. [Checkpoint](../projects/dash-case-workflow.md#third-elmhurst-case-commercial-offices--2026-10-28).

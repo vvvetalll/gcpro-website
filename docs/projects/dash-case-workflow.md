@@ -302,3 +302,14 @@ Shared Single2231/Gallery89b76dd3/Card2233 preserved. Native body1762b0cf/Headin
 Discovery correction: one report candidate matched Glenview as a street name while actual Loss city was Saint Charles. Excluded from Glenview selection; private reference retained. No location inferred from report search text.
 
 **Actual total:24 new DASH cases.** Naperville4, Highland Park4, Northbrook3; Downers Grove/Schaumburg/Carol Stream/Lombard/Elmhurst/Glenview2 each; Oak Brook1. Minimum4 across ten cities remains unfinished.
+
+
+## Third Elmhurst case, commercial offices — 2026-10-28
+
+Published [Project2883](https://vitaliiv1.sg-host.com/portfolio/elmhurst-office-flooring-interior-repairs/). Report billing-location match corrected to actual Elmhurst Loss location. All10 journal entries and four supporting scoped-proposal/approved-order PDFs reviewed. Two related office-space orders reconcile with the invoiced total and recorded completion/COS; presented once, not duplicate cases. Public narrative describes drywall, entry door/tile, affected ceiling grid/tiles, paint, commercial carpet and adjoining restroom/lab-area floor/cleaning scope. No invented disaster cause, testing, whole-building renovation or new fixtures. Financial values/customer/order identifiers remain private.
+
+Six inspected optimized WebP attachments2885–2889 and2893 (56–504KB), two initial entry wall/ceiling views then four finished entry/restroom/carpeted seating views. Cover2889. Crops remove incidental person, tenant posters/logos, vehicle and background private details. Initial corridor crop2890 was rejected as a weak view and detached, preserved in Media Library; no asset deletion. Originals private; web copies strip metadata/no upscale. No newBEAF.
+
+Shared Single2231/Gallery89b76dd3/Card2233 preserved. Native body6c0aefe8/Heading71/Button59 named530/499/518 links; Reconstruction19/Commercial24/Location36. Saved content/metadata read back. Actual authenticated frontend verifies one H1, six gallery links/alt, SEO/noindex, correct city/service links, no1686px overflow. Elmhurst530 automatically shows2883,2865,2679. Individual mobile/lightbox/anonymous retest not performed.
+
+**Actual total:25 new DASH cases.** Naperville4, Highland Park4, Northbrook3, Elmhurst3; Downers Grove/Schaumburg/Carol Stream/Lombard/Glenview2 each; Oak Brook1. Four per ten locations still unfinished. Owner allows richer editorial presentation; public job facts remain supported by evidence.
