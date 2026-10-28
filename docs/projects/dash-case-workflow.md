@@ -350,3 +350,14 @@ Shared Single2231/Gallery89b76dd3/Card2233 unchanged. Native body779eff2e, Headi
 Two additional Carol Stream candidates retained privately: completed work notes available, but one photo set dominated by clothing/tools/clutter, another Final album includes visibly unfinished paint patches and private details. No unsupported public case or media uploaded. Stronger photographs or a different project needed; these are not evidence that Carol Stream lacks completed work.
 
 **Actual total:28 new DASH cases.** Naperville4, Highland Park4, Northbrook4, Elmhurst3, Lombard3, Glenview3; Downers Grove/Schaumburg/Carol Stream2 each; Oak Brook1. Minimum4 across all ten locations remains unfinished.
+
+
+## Third Schaumburg case, kitchen and interior — 2026-10-28
+
+Published [Project2921](https://vitaliiv1.sg-host.com/portfolio/schaumburg-kitchen-interior-repairs-laundry-pipe-leak/). Actual Schaumburg/Residential/Water verified; all103 notes across two journal pages read. Pipe leak behind laundry appliances, kitchen/connected interior scope; actual insulation/drywall, flooring, cabinet installation, countertops, paint, appliance reconnection and punch-list closure supported. Proposed bedroom/closet carpet expansion distinguished from later exclusion; unresolved carpet-installation attribution not turned into a public claim. Completion/COS/final-photo notes reviewed. No asbestos testing/clearance/license or whole-house overhaul claim. Actual GP/cost/invoiced recorded privately.
+
+Six full-resolution-inspected WebP attachments2923–2928 (103–302KB), two initial floor/threshold details then finished kitchen, bathrooms and entry; cover2925. Crops remove mirror person, shoe, laundry clothing and island bags/paperwork. Existing furniture/appliances/conditions preserved. Originals private, metadata stripped, no upscale. No newBEAF or exact-angle comparison claim.
+
+Existing Single2231/Gallery89b76dd3/Card2233 preserved. Native body2ccb6b3b, Heading71 and Button59 named558/514/518. Water18/Reconstruction19/Residential23/Location35. Saved native content/media/SEO checked. Actual authenticated desktop: oneH1, six gallery links, proper geo/service links, staging noindex and no1686px overflow. Schaumburg558 automatically shows2921/2755/2666. Individual mobile/lightbox/anonymous retest not performed.
+
+**Actual total:29 new DASH cases.** Naperville4, Highland Park4, Northbrook4; Elmhurst/Lombard/Glenview/Schaumburg3 each; Downers Grove/Carol Stream2 each; Oak Brook1. Minimum4 across all ten locations remains unfinished.

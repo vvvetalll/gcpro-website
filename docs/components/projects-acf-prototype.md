@@ -197,3 +197,7 @@ Existing shared owners unchanged. Native body/Heading71/Buttons59, Reconstructio
 ### Glenview parapet2912 — 2026-10-28
 
 Existing shared owners unchanged. Native body/Heading71/Buttons59, Reconstruction19/Commercial24/Location33. Six chronological WebP images; actual desktop H1/gallery/links/SEO/noindex/overflow verified. Automatic city selection now has three cases. No code/dependency change. [Checkpoint](../projects/dash-case-workflow.md#third-glenview-case-parapet-membrane--2026-10-28).
+
+### Schaumburg kitchen2921 — 2026-10-28
+
+Shared owners unchanged; native body/Heading71/Buttons59, Water18/Reconstruction19/Residential23/Location35. Six chronological WebP images; actual desktop H1/gallery/links/noindex/overflow verified. City selection now has three cases. No code/dependency changes. [Checkpoint](../projects/dash-case-workflow.md#third-schaumburg-case-kitchen-and-interior--2026-10-28).

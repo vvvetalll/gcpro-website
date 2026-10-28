@@ -1,5 +1,7 @@
 # GCPRO project context
 
+**2026-10-28 Schaumburg kitchen:** Published2921 with six chronological WebP images and verified reconstruction scope; city query now shows three cases.29 new DASH cases total; ten-location target unfinished. [Checkpoint](docs/projects/dash-case-workflow.md#third-schaumburg-case-kitchen-and-interior--2026-10-28).
+
 **2026-10-28 Glenview parapet:** Published2912 with six Before/After WebP views and verified membrane/flashing scope; city query now shows three cases.28 new DASH cases total; ten-location target unfinished. [Checkpoint](docs/projects/dash-case-workflow.md#third-glenview-case-parapet-membrane--2026-10-28).
 
 **2026-10-28 Northbrook:** Published2903 patio/drainage repairs with six final WebP views; native city selection now shows four cases.27 new DASH cases total; ten-location target unfinished. [Checkpoint](docs/projects/dash-case-workflow.md#fourth-northbrook-case-patio-drainage--2026-10-28).
