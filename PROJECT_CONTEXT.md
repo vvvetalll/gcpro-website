@@ -814,3 +814,6 @@ Owner requested the same logos on Homepage154. Existing Why Component1149 instan
 ### Current checkpoint — 2026-10-28 catalogue UI
 
 WPGB facets1–5 are live on Archive2232/Loop c61e6a3, native Styles1–3 own controls. Card2233 now reads project_card_title (52 populated), native14px View project and one whole-card URL anchor. Owner revised catalogue to4/2/1 columns,8 initial results. Original Elementor pagination reproduced broken; WPGB6→12/reset Load More test passed before final8-item change. Full regression, separate taxonomy location metadata, active-only Reset visibility and prepared counter6 remain unfinished. See docs/components/projects-acf-prototype.md. Shared intro1345 heading size20/20/18px and gray text approved. Owner directed return to DASH cases; actual39 new published, final Oak Brook fourth still outstanding.
+
+
+2026-10-28 — Oak Brook follow-up: native all-status address search exposed36 records; additional journals rejected unperformed work, administrative duplicates and other-municipality matches. No new suitable fourth case confirmed. WordPress readback verifies all39 matrix cases Published, Oak Brook2701/3003/3012;52 published Projects overall. Owner authorized saving/pushing this incomplete result. [Evidence and remaining requirement](docs/projects/dash-case-workflow.md#oak-brook-additional-search-and-saved-handoff--2026-10-28).

@@ -1,5 +1,7 @@
 # GCPRO changelog
 
+**2026-10-28 Oak Brook follow-up handoff:** Expanded all-status address search and additional journal review; no new suitable case confirmed or uploaded. All39 matrix cases verified Published; Oak Brook remains three, one short of target. Sanitized findings and exact remaining requirement recorded in the existing DASH workflow; private source details remain outside Git.
+
 **2026-10-28 final-slot review:**39 new cases are Published, not40. Nine cities have four; Oak Brook three. Additional reserve images/unfinished and contractor-switch records rejected. One further verified, visually useful Oak Brook case remains; private references retained.
 
 **2026-10-28 Oak Brook basement mitigation:** Published3012 with six chronological WebP photos and explicit mitigation-versus-rebuild distinction. Automatic city selection now three cases.39 new cases total; one further Oak Brook case remains.
