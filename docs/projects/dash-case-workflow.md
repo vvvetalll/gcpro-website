@@ -241,3 +241,14 @@ Body root e76c1e1; Heading71 instance28965bc4, native named Button59 links1553ee
 Additional research screened separately without forcing publication: one potential reconstruction was explicitly declined despite a closed status; another offered inspection-only photographs. Additional photo sets were reserved for inadequate clean, varied views or unresolved completion exceptions. Detailed sources/reasons are private, not public client records. No conclusion of no suitable work in those cities.
 
 **Actual total:19 new DASH cases.** Northbrook3, Highland Park4, Naperville4, Schaumburg2, remaining six locations1 each. Minimum4 per location remains unfinished; continue source/photo selection without quality fillers.
+
+
+## Downers Grove hail roof publication — 2026-10-28
+
+Published [Project2837](https://vitaliiv1.sg-host.com/portfolio/downers-grove-hail-damaged-shingle-roof-replaced/). Actual Downers Grove Loss city verified; all61 journal entries read. Hail cause explicitly documented; actual shingle replacement, extra existing layer removed, additional ice-and-water protection at overhangs, exhaust-vent replacement,100percent completion and signed COS recorded. A plaster/drywall note was explicitly retracted as belonging to another claim and was excluded. Status-sync rejection messages distinguished from actual completion evidence. Discovery financial measure was Total Invoiced, not profit; private amounts/source references remain outside GitHub.
+
+Six inspected optimized WebP attachments2839–2844: two inspection views of brown hail-marked shingles then four completed gray-roof views. Cover2843. Original wide Before crop excludes incidental partial rooftop figure; final slope top crop removes background/vehicles. Selected outputs contain no people, identifying details, tools, bags or clothing. Originals preserved, metadata stripped, no upscaling. Source finals are only360×800: large-screen detail is limited by source resolution, not solved by enlargement. No fabricated exact-angle pair or newBEAF.
+
+Shared Single2231/Gallery89b76dd3/Card2233 preserved; body5f03907e, native Heading71 and Button59 links527/523. Actual frontend confirms correct H1/SEO, six gallery links, correct city/Residential Storm destinations, noindex and no1686px horizontal overflow. Downers Grove527 Location39 query automatically shows2837 with2718. Updated only its existing Heading71 description within wrapper4592cb3d, new instance3c173548, to include both scopes. No query/layout/code/dependency changes. Individual mobile/lightbox retest not performed; existing shared presentation reused.
+
+**Actual total:20 new DASH cases.** Naperville4, Highland Park4, Northbrook3, Downers Grove2, Schaumburg2; Carol Stream/Elmhurst/Glenview/Lombard/Oak Brook1 each. The ten-location/minimum4 task is still unfinished. Older photo-limited and repetitive candidates remain private reserves, not filler publications.

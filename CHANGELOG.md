@@ -1,5 +1,8 @@
 # GCPRO changelog
 
+**2026-10-28 Downers Grove roof:** Published2837 with two Before/four After WebP images and verified hail-roof narrative. City query automatically shows two cases;20 new DASH cases total, ten-location target incomplete. [Checkpoint](docs/projects/dash-case-workflow.md#downers-grove-hail-roof-publication--2026-10-28).
+
+
 **2026-10-28 third Northbrook case:** Published2828 with two Before/four After WebP images and verified floor-repair narrative. City selection automatically shows three cases;19 new DASH cases total. [Checkpoint](docs/projects/dash-case-workflow.md#third-northbrook-case--2026-10-28).
 
 
