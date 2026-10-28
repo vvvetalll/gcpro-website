@@ -276,3 +276,16 @@ Six WebP attachments2858–2863 (17–123KB), two initial-condition views then f
 Shared Single2231/Gallery89b76dd3/Card2233 retained. Native body2b02cfca, Heading71 and named Button59 links526/514/518. Metadata/taxonomy Water18+Reconstruction19/Residential23/Location32 saved and read back. Actual authenticated frontend verifies one H1, six gallery WebP links, truthful alt, correct service/city destinations, SEO/noindex and no1686px overflow. Lombard526 native Location32 query automatically shows2856 and2624. Individual mobile/lightbox and anonymous delivery not retested in this checkpoint.
 
 **Actual total:22 new DASH cases.** Naperville4, Highland Park4, Northbrook3, Downers Grove2, Schaumburg2, Carol Stream2, Lombard2, Elmhurst/Glenview/Oak Brook1 each. Minimum4 per ten cities remains unfinished. The saved527 heading/frontend stale-text caveat remains unchanged.
+
+
+## Second Elmhurst case — 2026-10-28
+
+Published [Project2865](https://vitaliiv1.sg-host.com/portfolio/elmhurst-kitchen-ceiling-hardwood-restored-condensate-leak/). Actual Elmhurst/Residential/Water verified; all85 journal entries read. Initial inspection supports second-floor furnace condensate drain overflow, cupped/separated hardwood, opened kitchen ceiling, detached cabinets/countertops and basement ceiling damage. Actual notes confirm drywall, hardwood installation/finishing, cabinets/trim/paint, final supplement work, July completion and signed form. Later ceiling tape-line callback explicitly documented as patched/painted; no flawless-outcome claim. Financial Actual GP/Cost/Total Invoiced/discount recorded privately, not confused with estimate or revenue. Sensitive customer circumstances excluded.
+
+Six full-resolution-inspected WebP attachments2867–2872 (54–207KB), one initial kitchen condition then five completed kitchen/eating/living/stair/hall views. Cover2868. Initial bottom crop excludes equipment/incidental paper; stair crop removes personal-photo cabinet. No identifiable people, documents, addresses or work-stage clutter. Originals preserved, metadata stripped, no upscaling. Same kitchen verified by backsplash/hood/cabinet configuration, different camera angles; no newBEAF.
+
+Shared Single2231/Gallery89b76dd3/Card2233 preserved. Native body6cbd5b76/Heading71/Button59 links530/514/518. Saved metadata/taxonomies Water18+Reconstruction19/Residential23/Location36 read back. Actual authenticated frontend verifies one H1, six WebP gallery links/alt, SEO/noindex, correct city/service destinations and no1686px overflow. Elmhurst530 automatic Location36 selection shows2865 and2679. Mobile/lightbox/anonymous delivery not retested in this checkpoint.
+
+Additional Oak Brook hospitality water candidate reviewed privately: all44 notes read; records explicitly describe still-wet areas where drying equipment was removed at management direction and no after-equipment photos. Kept in reserve, not represented as a fully completed/dried restoration case. No customer details in GitHub.
+
+**Actual total:23 new DASH cases.** Naperville4, Highland Park4, Northbrook3, Downers Grove2, Schaumburg2, Carol Stream2, Lombard2, Elmhurst2, Glenview/Oak Brook1 each. Minimum4 across ten locations remains unfinished.

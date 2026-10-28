@@ -169,3 +169,8 @@ Native528/LoopGridd426b2d queries Location37 and now renders four projects autom
 ### Lombard2856 publication — 2026-10-28
 
 Native body/Heading71/Buttons59; Single2231, attachment Gallery89b76dd3 and Card2233 unchanged. Location32 automatically includes2856 alongside2624. Six chronological WebP images and saved SEO/taxonomy; actual desktop H1/gallery/links/noindex/overflow verified. No layout/code/dependency changes. [Evidence](../projects/dash-case-workflow.md#second-lombard-case--2026-10-28).
+
+
+### Elmhurst2865 publication — 2026-10-28
+
+Existing shared presentation preserved; native body/Heading71/Buttons59. Location36 query automatically includes2865 and2679. Six chronological WebP images; saved SEO/taxonomy and actual desktop H1/gallery/links/noindex/overflow verified. No new component/code/dependency. [Checkpoint](../projects/dash-case-workflow.md#second-elmhurst-case--2026-10-28).

@@ -1,5 +1,8 @@
 # GCPRO changelog
 
+**2026-10-28 Elmhurst:** Published2865 with six chronological WebP images, documented condensate-leak repairs and verified automatic city membership.23 new DASH cases total; ten-location target unfinished. [Checkpoint](docs/projects/dash-case-workflow.md#second-elmhurst-case--2026-10-28).
+
+
 **2026-10-28 Lombard:** Published2856 with six Before/After WebP images and evidence-based sewer-backup repairs. Automatic city selection shows two cases;22 new DASH cases total, ten-location target unfinished. [Checkpoint](docs/projects/dash-case-workflow.md#second-lombard-case--2026-10-28).
 
 
