@@ -155,3 +155,6 @@ Project2765 reuses Single2231, Gallery89b76dd3 and Card2233 unchanged. Highland 
 ### Highland Park four-case checkpoint — 2026-10-28
 
 Native528/LoopGridd426b2d queries Location37 and now renders four projects automatically. Heading71 instance2e762973 replaces33ebb33d within existing accent wrapper609e51b2 with updated description. No query/card/shared template changes. [Actual cases and checks](../projects/dash-case-workflow.md#highland-park-reaches-four-cases--2026-10-28).
+
+
+2026-10-28: Project2818 published using existing Single2231/Gallery89b76dd3/Card2233. Body76808999, Heading71 instance14d3d1ec, Button59 instances2d182849/437d7702/19d19e6f bind named Northbrook556/Water514/Reconstruction518. Six attached final-only media2820–2825; automatic556 Location34 selection verified with two cases. No shared design/query/code changes. See DASH workflow checkpoint.
