@@ -420,3 +420,14 @@ Six full-resolution-inspected WebP attachments2969–2974 (25–168KB), cover297
 Shared Single2231/Gallery89b76dd3/Card2233 preserved. Native body428b6772, Heading71 and Button59 named558/514/518 saved/read back. Water18/Reconstruction19/Residential23/Location35. Actual authenticated desktop: oneH1, six gallery links, correct city/service destinations, noindex, no1686px overflow. Schaumburg558 automatically shows2967/2921/2755/2666. Individual mobile/lightbox/anonymous delivery not retested this checkpoint.
 
 **Actual total:34 new DASH cases.** Naperville4, Highland Park4, Northbrook4, Lombard4, Elmhurst4, Glenview4, Schaumburg4; Carol Stream3, Downers Grove2, Oak Brook1. Six further suitable cases needed for minimum4 in all ten locations. Overall task remains unfinished.
+
+
+## Fourth Carol Stream case, drain-backup repair completion — 2026-10-28
+
+Published [Project2976](https://vitaliiv1.sg-host.com/portfolio/carol-stream-flooring-interior-doors-finished-drain-backup/). Actual Carol Stream Residential Water verified; all78 journal records read, including repeated forwarded estimate emails. Floor-drain backup affected laundry/mechanical, bedroom and closet. Initial repair assignment was declined, another contractor completed some work, then GCPRO returned for a separately revised completion scope. Public text explicitly preserves that distinction. Flooring completion, doors/base/trim, bathroom/shower hardware and painting supported by revised scope, actual June/July milestones and July signed closeout/final photos. No full earlier-stage attribution, new vanity or unsupported drain-repair claim. Financial Actual GP/cost/invoiced retained privately.
+
+Six full-resolution-inspected WebP images2978–2983 (22–161KB), cover2980. Two initial floor/lower-wall conditions then four completed bedroom floor, bathroom, paneled doors and trim views. Bedroom crop removes chair clothing/table papers; final doorway crop focuses trim. Partial-person and laundry-basket frames rejected. Reflections checked, no identifying people/documents/numbers; originals preserved, metadata stripped, no upscale. Same bedroom layout supports a private narrative Before/After candidate with explicit mixed-contractor attribution; no newBEAF.
+
+Shared Single2231/Gallery89b76dd3/Card2233 preserved. Native bodya19d8c8, Heading71 and Button59 named543/514/518 saved/read back. Water18/Reconstruction19/Residential23/Location28. Actual authenticated desktop: oneH1, six gallery links, intended geo/service destinations, noindex, no1686px overflow. Carol Stream543 automatically shows four cases2976/2948/2847/2572. Individual mobile/lightbox/anonymous delivery not retested this checkpoint.
+
+**Actual total:35 new DASH cases.** Naperville4, Highland Park4, Northbrook4, Lombard4, Elmhurst4, Glenview4, Schaumburg4, Carol Stream4; Downers Grove2, Oak Brook1. Five additional suitable cases needed for minimum4 across ten cities; overall task remains unfinished.
