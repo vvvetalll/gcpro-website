@@ -477,3 +477,10 @@ Six full-resolution-inspected WebP3014–3019 (29–76KB), cover3016. Two origin
 Shared owners unchanged. Native body206fe392, Heading71 and Buttons59 named536/516 read back; Mold20/Residential23/Location38. Actual authenticated desktop: oneH1/six gallery links/correct destinations/noindex/no1686px overflow. Oak Brook536 automatic selection now three cases3012/3003/2701. Individual mobile/lightbox/guest delivery not retested.
 
 **39 new DASH cases published. One additional suitable Oak Brook case remains to complete the minimum four per each of ten cities.**
+
+
+### Oak Brook final-slot evidence checkpoint — 2026-10-28
+
+First-group status remains39 new published cases: four in each of nine cities, three in Oak Brook. Do not describe the40-case target as completed. Additional historical searches included all-status records, related departments and spelling variants. Rejected assignments explicitly handed to another contractor or never performed; these are not evidence of GCPRO completed work. A verified completed kitchen/flooring job remains a reserve: original final views include320px-wide files, soft focus, identifying family photographs or work clutter, while separate countertop photos show an intermediate unfinished stage. A separate completed water-mitigation job has clutter-dominated final views. Neither is published merely to fill the last slot.
+
+**Concrete remaining requirement:** one further distinct Oak Brook job with verified completed scope and a useful, varied, privacy-safe Before/After or final image set. Better original final photographs could make the completed kitchen/flooring reserve usable. Other historical candidates remain to be assessed; this is not a claim that suitable Oak Brook work does not exist. Existing source references, financial details, reserve reasons and comparison candidates remain private. No extra draft placeholders, new BEAF, filters, plugins or unrelated layouts were added.
