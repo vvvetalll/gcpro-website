@@ -1,5 +1,7 @@
 # GCPRO changelog
 
+**2026-10-28 Highland Park4:** Published2800 roof replacement/six completed WebP views. Native city selection now shows four cases; case H1/gallery/links/noindex/overflow checked.17 new DASH cases total; other locations unfinished. [Checkpoint](docs/projects/dash-case-workflow.md#highland-park-reaches-four-cases--2026-10-28).
+
 **2026-10-28 water-repair publication:** Published2782 with six inspected Before/After WebP images, invoice-supported scope and native links. Highland Park query automatically shows three cases.16 new DASH cases total; four-per-city target incomplete. [Checkpoint](docs/projects/dash-case-workflow.md#highland-park-water-repair-case--2026-10-28).
 
 **2026-10-28 owner photo correction:** Case2765 now Before/After only: work-stage and cluttered laundry photos detached, clean completed roof/exterior views added. Six intended gallery files verified. Future selections exclude progress/tools/clothing/clutter. [Correction](docs/projects/dash-case-workflow.md#owner-photo-selection-correction--2026-10-28).

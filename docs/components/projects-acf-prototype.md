@@ -150,3 +150,8 @@ Single2231 remains the presentation owner; each case owns narrative, native titl
 ### Highland Park content checkpoint — 2026-10-28
 
 Project2765 reuses Single2231, Gallery89b76dd3 and Card2233 unchanged. Highland Park528/LoopGridd426b2d automatically selects Location37; its Heading71 instance33ebb33d description now covers both published case scopes. Per-project content/media/SEO remain individual. [Actual tests](../projects/dash-case-workflow.md#highland-park-fallen-tree-reconstruction--2026-10-28).
+
+
+### Highland Park four-case checkpoint — 2026-10-28
+
+Native528/LoopGridd426b2d queries Location37 and now renders four projects automatically. Heading71 instance2e762973 replaces33ebb33d within existing accent wrapper609e51b2 with updated description. No query/card/shared template changes. [Actual cases and checks](../projects/dash-case-workflow.md#highland-park-reaches-four-cases--2026-10-28).
