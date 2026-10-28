@@ -398,3 +398,14 @@ Shared Single2231/Gallery89b76dd3/Card2233 remain presentation owners. Native bo
 Older Oak Brook reconstruction was revisited: all116 notes now read, documented kitchen/flooring completion established, but seven final photographs still weak/underlit or include tools and unfinished details. Remains private reserve; no weak case published merely to increase count.
 
 **Actual total:32 new DASH cases.** Naperville4, Highland Park4, Northbrook4, Lombard4, Elmhurst4; Glenview3, Schaumburg3, Carol Stream3; Downers Grove2, Oak Brook1. Minimum4 across all ten locations remains unfinished.
+
+
+## Fourth Glenview case, ice-dam interior repairs — 2026-10-28
+
+Published [Project2958](https://vitaliiv1.sg-host.com/portfolio/glenview-hardwood-basement-restored-ice-damming/). Actual Glenview Residential Water verified; all38 journal notes read. Ice damming affected three levels, including damaged continuous hardwood, wall areas and basement carpet. April actual insulation/drywall/hardwood milestones, subsequent completion and signed closeout support the repair narrative. Initial estimate-review exceptions distinguished from later approvals and actual milestones. Proposed duct/furnace/outlet/grout/pack-out items not expanded into unsupported completed scope; no roof replacement claimed. Actual GP/cost/invoiced retained privately.
+
+Six full-resolution-inspected WebP images2960–2965 (63–207KB), cover2962. Two initial wall/threshold damage views followed by four completed hardwood/dining/basement carpet views. Crops remove mantel family photographs and table papers and exclude peripheral personal pictures. Originals retained, metadata stripped, no upscale (initial800×600 preserved). Final31 album sampled11; inspection80, first50 DOM sampled16. No exact-angle comparison established, no newBEAF.
+
+Shared Single2231/Gallery89b76dd3/Card2233 remain owners. Native body31efdf87, Heading71 and Button59 named533/514/518 saved/read back. Water18/Reconstruction19/Residential23/Location33. Actual authenticated desktop: oneH1, six gallery links, intended geo/service destinations, staging noindex, no1686px overflow. Glenview533 automatically shows four cases2958/2912/2874/2632. Individual mobile/lightbox/anonymous delivery not retested this checkpoint.
+
+**Actual total:33 new DASH cases.** Naperville4, Highland Park4, Northbrook4, Lombard4, Elmhurst4, Glenview4; Schaumburg3, Carol Stream3; Downers Grove2, Oak Brook1. Seven additional suitable cases needed to reach minimum4 across ten cities. The overall task remains unfinished.
