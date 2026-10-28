@@ -466,3 +466,14 @@ Shared Single2231/Gallery89b76dd3/Card2233 preserved. Native body668be44a, Headi
 Expanded Oak Brook research now includes Show All Jobs, historical virtual-scroll results and spelling variants, not only a paid/closed shortlist. Thirty-six search records observed for the spaced city query, including related departments and non-winning assignments; this is not a claim of36 completed projects or an exhaustive real-city count. Additional jobs screened privately: absent final photos, estimate-only and unperformed assignments remain reserves/rejections rather than invented cases.
 
 **38 new DASH cases published. Nine locations have four; Oak Brook has two. Two suitable Oak Brook cases remain.**
+
+
+## Third Oak Brook case, basement mold mitigation — 2026-10-28
+
+Published [Mold-Affected Basement Walls Opened and Dried](https://vitaliiv1.sg-host.com/portfolio/oak-brook-mold-affected-basement-walls-opened-dried/) (3012). Actual Oak Brook Residential/Mold assignment; all16 notes read. Assessment documents visible growth/discoloration on exterior basement walls; foundation-crack intrusion is a possible cause requiring evaluation, not a confirmed repaired source. Work-start, dry-area/equipment-removal closeout and signed completion support completed mitigation. Detailed containment/cleaning methods remain explicitly the approved scope rather than independently observed steps. No testing, clearance, foundation repair or finished-room rebuild claimed.
+
+Six full-resolution-inspected WebP3014–3019 (29–76KB), cover3016. Two original wall/corner views then four actual after-mitigation open-wall views. Sampled eight of21 Before and eleven of30 After; document, worker/scan equipment, meter and equipment views excluded. Cabinet-view crop removes incidental edge object; selected originals checked for people/documents/numbers/reflections. Originals retained, metadata stripped, no upscale. Corner/floor/outlet geometry supports a private Before/After candidate; no newBEAF. Final photographs intentionally show exposed wall cavities, accurately identified as completed mitigation rather than reconstruction.
+
+Shared owners unchanged. Native body206fe392, Heading71 and Buttons59 named536/516 read back; Mold20/Residential23/Location38. Actual authenticated desktop: oneH1/six gallery links/correct destinations/noindex/no1686px overflow. Oak Brook536 automatic selection now three cases3012/3003/2701. Individual mobile/lightbox/guest delivery not retested.
+
+**39 new DASH cases published. One additional suitable Oak Brook case remains to complete the minimum four per each of ten cities.**

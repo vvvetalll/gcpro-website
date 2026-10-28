@@ -237,3 +237,7 @@ Shared owners preserved. Native Heading71/Buttons59 named527/514/518, six WebP g
 ### Oak Brook home remodel3003 — 2026-10-28
 
 Shared owners preserved; native Heading71/Buttons59 named536/518, six WebP attachments. Actual desktop H1/gallery/links/noindex/overflow checked. Automatic Location38 query now two. No new code/dependencies; original BEAF preserved. Mobile/lightbox/guest not retested.
+
+### Oak Brook mold mitigation3012 — 2026-10-28
+
+Shared owners unchanged; native Heading71/Buttons59 named536/516, six WebP attachments. Saved bindings and actual desktop H1/gallery/links/noindex/overflow checked. Location38 query now three. No code/dependencies/BEAF changes. Mobile/lightbox/guest not retested.

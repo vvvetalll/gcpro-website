@@ -1,5 +1,7 @@
 # GCPRO changelog
 
+**2026-10-28 Oak Brook basement mitigation:** Published3012 with six chronological WebP photos and explicit mitigation-versus-rebuild distinction. Automatic city selection now three cases.39 new cases total; one further Oak Brook case remains.
+
 **2026-10-28 Oak Brook home remodel:** Published3003 with six verified owner-original Before/After WebP photographs, matched to DASH inspection and completion evidence. City query now two cases.38 total; two further Oak Brook cases needed.
 
 **2026-10-28 Downers Grove complete first group:** Published2994 with six Before/After WebP images; actual city selection now four cases.37 new DASH cases total. Oak Brook requires three more; research continues.
