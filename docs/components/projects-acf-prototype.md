@@ -193,3 +193,7 @@ Existing shared owners unchanged; native body/Heading71/Buttons59. Location32 au
 ### Northbrook patio2903 — 2026-10-28
 
 Existing shared owners unchanged. Native body/Heading71/Buttons59, Reconstruction19/Location34. Six final WebP images; actual desktop H1/gallery/links/noindex/overflow verified. Automatic city selection now has four cases. No code/dependency change. [Checkpoint](../projects/dash-case-workflow.md#fourth-northbrook-case-patio-drainage--2026-10-28).
+
+### Glenview parapet2912 — 2026-10-28
+
+Existing shared owners unchanged. Native body/Heading71/Buttons59, Reconstruction19/Commercial24/Location33. Six chronological WebP images; actual desktop H1/gallery/links/SEO/noindex/overflow verified. Automatic city selection now has three cases. No code/dependency change. [Checkpoint](../projects/dash-case-workflow.md#third-glenview-case-parapet-membrane--2026-10-28).

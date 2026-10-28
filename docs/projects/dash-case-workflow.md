@@ -337,3 +337,16 @@ Six full-resolution-inspected final WebP attachments2905–2910 (620–895KB ver
 Shared Single2231/Gallery89b76dd3/Card2233 preserved. Native body146338c6, Heading71 and Button59 named556/518 bindings read back. Reconstruction19/Residential23/Location34. Saved media/SEO/taxonomies verified. Actual authenticated desktop shows oneH1, six gallery links, correct city/service links, staging noindex and no1686px horizontal overflow. Northbrook556 automatically displays2903/2828/2818/2640. Individual mobile/lightbox/guest delivery not retested.
 
 **Actual total:27 new DASH cases.** Naperville4, Highland Park4, Northbrook4, Elmhurst3, Lombard3; Downers Grove/Schaumburg/Carol Stream/Glenview2 each; Oak Brook1. Minimum4 across all ten locations remains unfinished.
+
+
+## Third Glenview case, parapet membrane — 2026-10-28
+
+Published [Project2912](https://vitaliiv1.sg-host.com/portfolio/glenview-leaking-parapet-membrane-flashing-replaced/). Actual Glenview Commercial-Associations location verified; all24 journal entries read. Worn/leaking parapet TPO membrane removed and replaced, new termination bar, Z flashing and sealant supported by progress/completion records. July completion corroborated; later missing-COS note retained privately, no signed-COS claim. Existing roof retained; no full-roof replacement, leak-test result or guarantee invented. Actual GP/cost/invoiced distinguished privately.
+
+Six full-resolution-inspected WebP attachments2914–2919 (199–404KB), two initial weathered connections then four finished parapet views; cover2916. Initial inspection and July5 Final album chronology supported. Crops remove repetitive sky and background parking; no people, readable plates/addresses, paperwork, ladders or work-stage equipment scenes. Existing membrane/roof condition preserved, originals private, metadata stripped, no upscale. No exact-angle pair or newBEAF.
+
+Shared Single2231/Gallery89b76dd3/Card2233 unchanged. Native body779eff2e, Heading71 and Button59 named533/518/499. Reconstruction19/Commercial24/Location33. Saved native content/SEO/media checked. Actual authenticated desktop verifies oneH1, six gallery links, correct geo/service links, SEO/noindex and no1686px overflow. Glenview533 automatically displays2912/2874/2632. Individual mobile/lightbox/anonymous delivery not retested.
+
+Two additional Carol Stream candidates retained privately: completed work notes available, but one photo set dominated by clothing/tools/clutter, another Final album includes visibly unfinished paint patches and private details. No unsupported public case or media uploaded. Stronger photographs or a different project needed; these are not evidence that Carol Stream lacks completed work.
+
+**Actual total:28 new DASH cases.** Naperville4, Highland Park4, Northbrook4, Elmhurst3, Lombard3, Glenview3; Downers Grove/Schaumburg/Carol Stream2 each; Oak Brook1. Minimum4 across all ten locations remains unfinished.
