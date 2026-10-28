@@ -1,5 +1,7 @@
 # GCPRO changelog
 
+**2026-10-28 owner photo correction:** Case2765 now Before/After only: work-stage and cluttered laundry photos detached, clean completed roof/exterior views added. Six intended gallery files verified. Future selections exclude progress/tools/clothing/clutter. [Correction](docs/projects/dash-case-workflow.md#owner-photo-selection-correction--2026-10-28).
+
 **2026-10-28 Highland Park publication:** Published2765, six chronological optimized WebP images, verified completed reconstruction narrative and native named links. Existing location query automatically includes the second Highland Park case. Actual frontend/lightbox checked;15 new cases total, four-per-city target unfinished. [Checkpoint](docs/projects/dash-case-workflow.md#highland-park-fallen-tree-reconstruction--2026-10-28).
 
 **2026-10-27 second Schaumburg case:** Published2755, six inspected/privacy-prepared WebP images, specific narrative/SEO and native named links. Existing city query automatically includes both Schaumburg cases. Frontend/lightbox Right/Escape checked;14 new cases total, target incomplete. [Record](docs/projects/dash-case-workflow.md#second-schaumburg-case--2026-10-27).
