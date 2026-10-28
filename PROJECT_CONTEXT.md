@@ -1,5 +1,7 @@
 # GCPRO project context
 
+**2026-10-28 Oak Brook home remodel:** Published3003 with six verified owner-original Before/After WebP photographs, matched to DASH inspection and completion evidence. City query now two cases.38 total; two further Oak Brook cases needed.
+
 **2026-10-28 Downers Grove complete first group:** Published2994 with six Before/After WebP images; actual city selection now four cases.37 new DASH cases total. Oak Brook requires three more; research continues.
 
 **2026-10-28 Downers Grove bathroom/interior repairs:** Published2985 with six chronological WebP images and verified native links. City selection now shows three cases;36 new DASH cases total, four still needed. Later minor-correction resolution remains unverified.

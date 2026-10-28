@@ -233,3 +233,7 @@ Shared owners unchanged. Native body/Heading71/Buttons59 named527/514/518, six W
 ### Downers Grove roof/interior repairs2994 — 2026-10-28
 
 Shared owners preserved. Native Heading71/Buttons59 named527/514/518, six WebP gallery attachments. Saved settings plus actual desktop H1/gallery/links/noindex/overflow checked. Automatic Location39 query now has four. No new code/dependency; mobile/lightbox/guest not retested.
+
+### Oak Brook home remodel3003 — 2026-10-28
+
+Shared owners preserved; native Heading71/Buttons59 named536/518, six WebP attachments. Actual desktop H1/gallery/links/noindex/overflow checked. Automatic Location38 query now two. No new code/dependencies; original BEAF preserved. Mobile/lightbox/guest not retested.

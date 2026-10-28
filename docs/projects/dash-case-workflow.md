@@ -453,3 +453,16 @@ Six original images reviewed at full resolution and prepared as optimized WebP29
 Shared Single2231/Gallery89b76dd3/Card2233 unchanged. Native body5dd1c5c9, Heading71 and Buttons59 named527/514/518 saved/read back. Water18/Reconstruction19/Residential23/Location39. Authenticated frontend oneH1/six gallery links/correct destinations/noindex/no1686px overflow verified. Downers Grove527 automatically shows four cases2994/2985/2837/2718. Individual mobile/lightbox/guest delivery not retested. Further candidate with repetitive or cluttered photos retained privately rather than published.
 
 **37 new DASH cases published. Nine cities now have four each; Oak Brook has one. Three additional suitable Oak Brook cases remain.**
+
+
+## Second Oak Brook case, planned home remodel — 2026-10-28
+
+Published [Kitchen and Living Spaces Renewed in a Whole-Home Remodel](https://vitaliiv1.sg-host.com/portfolio/oak-brook-kitchen-living-spaces-home-remodel/) (3003). Actual Oak Brook Residential Remodeling verified; all20 journal entries read. Rough-in/drywall progress, flooring/tile/trim/countertop records and dated majority completion/signed closeout support a completed planned remodel. Financial status is not a completion proxy; actual financial results retained privately, not described as a high-profit job. No fire/water loss or unsupported technical procedures invented.
+
+Owner-supplied original Before/After photographs were verified against DASH inspection views of the same kitchen cabinetry, built-in hutch, window/stove arrangement and dining slider. Six full-resolution-inspected, optimized WebP3005–3010 (114–202KB), cover3007: two original kitchen/living views then completed kitchen/fireplace-room/bathroom/bedroom. Bathroom crop removes toiletries; reflections checked, no identifying people/documents/numbers. Originals retained, EXIF stripped, no upscale. Existing Media Library search found no identical optimized derivatives of these selected views; previous JPEG originals and all BEAF references preserved. Exact kitchen and fireplace-room pairs retained in the private shortlist; no new comparisons created.
+
+Shared Single2231/Gallery89b76dd3/Card2233 preserved. Native body668be44a, Heading71 and Buttons59 named536/518 saved/read back. Reconstruction19/Residential23/Location38. Authenticated actual desktop: oneH1, six gallery links, intended city/service links, staging noindex, no1686px overflow. Oak Brook536 automatic query now shows two cases3003/2701. Individual mobile/lightbox/guest delivery not retested.
+
+Expanded Oak Brook research now includes Show All Jobs, historical virtual-scroll results and spelling variants, not only a paid/closed shortlist. Thirty-six search records observed for the spaced city query, including related departments and non-winning assignments; this is not a claim of36 completed projects or an exhaustive real-city count. Additional jobs screened privately: absent final photos, estimate-only and unperformed assignments remain reserves/rejections rather than invented cases.
+
+**38 new DASH cases published. Nine locations have four; Oak Brook has two. Two suitable Oak Brook cases remain.**
