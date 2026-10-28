@@ -1,5 +1,7 @@
 # GCPRO project context
 
+**2026-10-28 Lombard siding:** Published2930 with six chronological WebP images and verified storm-repair scope; city query now shows four varied cases.30 new DASH cases total; ten-location target unfinished. [Checkpoint](docs/projects/dash-case-workflow.md#fourth-lombard-case-storm-siding--2026-10-28).
+
 **2026-10-28 Schaumburg kitchen:** Published2921 with six chronological WebP images and verified reconstruction scope; city query now shows three cases.29 new DASH cases total; ten-location target unfinished. [Checkpoint](docs/projects/dash-case-workflow.md#third-schaumburg-case-kitchen-and-interior--2026-10-28).
 
 **2026-10-28 Glenview parapet:** Published2912 with six Before/After WebP views and verified membrane/flashing scope; city query now shows three cases.28 new DASH cases total; ten-location target unfinished. [Checkpoint](docs/projects/dash-case-workflow.md#third-glenview-case-parapet-membrane--2026-10-28).

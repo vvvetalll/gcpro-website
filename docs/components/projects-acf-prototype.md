@@ -201,3 +201,7 @@ Existing shared owners unchanged. Native body/Heading71/Buttons59, Reconstructio
 ### Schaumburg kitchen2921 — 2026-10-28
 
 Shared owners unchanged; native body/Heading71/Buttons59, Water18/Reconstruction19/Residential23/Location35. Six chronological WebP images; actual desktop H1/gallery/links/noindex/overflow verified. City selection now has three cases. No code/dependency changes. [Checkpoint](../projects/dash-case-workflow.md#third-schaumburg-case-kitchen-and-interior--2026-10-28).
+
+### Lombard siding2930 — 2026-10-28
+
+Shared owners unchanged; native body/Heading71/Buttons59, Storm21/Reconstruction19/Residential23/Location32. Six chronological WebP images; actual desktop H1/gallery/links/SEO/noindex/overflow verified. City selection now has four cases. No code/dependency changes. [Checkpoint](../projects/dash-case-workflow.md#fourth-lombard-case-storm-siding--2026-10-28).

@@ -361,3 +361,16 @@ Six full-resolution-inspected WebP attachments2923–2928 (103–302KB), two ini
 Existing Single2231/Gallery89b76dd3/Card2233 preserved. Native body2ccb6b3b, Heading71 and Button59 named558/514/518. Water18/Reconstruction19/Residential23/Location35. Saved native content/media/SEO checked. Actual authenticated desktop: oneH1, six gallery links, proper geo/service links, staging noindex and no1686px overflow. Schaumburg558 automatically shows2921/2755/2666. Individual mobile/lightbox/anonymous retest not performed.
 
 **Actual total:29 new DASH cases.** Naperville4, Highland Park4, Northbrook4; Elmhurst/Lombard/Glenview/Schaumburg3 each; Downers Grove/Carol Stream2 each; Oak Brook1. Minimum4 across all ten locations remains unfinished.
+
+
+## Fourth Lombard case, storm siding — 2026-10-28
+
+Published [Project2930](https://vitaliiv1.sg-host.com/portfolio/lombard-home-shed-siding-replaced-storm-damage/). Actual Lombard Residential Hail verified; all113 notes/two pages read. Damaged siding, failed matching, full home/shed siding approval and actual August installation/completion supported. Associated skylight/window work distinguished from earlier rejected options and revised approval. Prior ridge repair and generator work settled separately/another contractor: not attributed to GCPRO. No whole-roof replacement claimed. Actual GP/cost/invoiced retained privately.
+
+Six inspected WebP images2932–2937 (128–218KB): two broken panel views followed by four finished house/addition/shed/patio elevations, cover2934. Original final photos810×1080 preserved without upscaling; crops remove photographer fingers/extra sky/ground. No visible people, readable numbers/plates/documents; reflected/background details checked. Metadata stripped, originals retained privately. No newBEAF or exact-angle pairing claimed.
+
+Shared Single2231/Gallery89b76dd3/Card2233 retained. Native body323fcc8f, Heading71 and Button59 named526/523 bindings. Storm21/Reconstruction19/Residential23/Location32. Saved native content/media/SEO checked. Actual authenticated desktop verifies oneH1, six gallery links, correct city/residentialStorm links, SEO/noindex and no1686px overflow. Lombard526 automatically shows2930/2894/2856/2624. Individual mobile/lightbox/anonymous delivery not retested.
+
+Additional older Downers Grove reconstruction reviewed:55 notes and two photo-album samples, but later photographs still show open wiring/walls/disconnected appliance and clutter. Retained privately pending clean final evidence; no case published from these images.
+
+**Actual total:30 new DASH cases.** Naperville4, Highland Park4, Northbrook4, Lombard4; Elmhurst/Glenview/Schaumburg3 each; Downers Grove/Carol Stream2 each; Oak Brook1. Minimum4 across ten cities remains unfinished.
