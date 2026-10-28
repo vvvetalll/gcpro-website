@@ -1,5 +1,7 @@
 # GCPRO project context
 
+**2026-10-28 Highland Park publication:** Published2765, six chronological optimized WebP images, verified completed reconstruction narrative and native named links. Existing location query automatically includes the second Highland Park case. Actual frontend/lightbox checked;15 new cases total, four-per-city target unfinished. [Checkpoint](docs/projects/dash-case-workflow.md#highland-park-fallen-tree-reconstruction--2026-10-28).
+
 **2026-10-27 newest publication:** Schaumburg2755 garage support/interior repairs after vehicle impact Published with six chronological WebP images.14 new cases total; Schaumburg native city query automatically shows both cases. H1/gallery/links/noindex/overflow and lightbox Right/Escape verified. Four-per-city target remains unfinished. [Actual checkpoint](docs/projects/dash-case-workflow.md#second-schaumburg-case--2026-10-27).
 
 **2026-10-27 newest checkpoint:** Existing Carol Stream2572 upgraded from two-photo reserve to six inspected/optimized chronological photos and Published;13 new cases total. All ten geo pages now have native term selections. Carol Stream actual case/frontend and345px native mobile selection checked. Four-per-city target still unfinished. [Actual status](docs/projects/dash-case-workflow.md#carol-stream-draft-completed-and-published--2026-10-27).

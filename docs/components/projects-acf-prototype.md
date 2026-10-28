@@ -145,3 +145,8 @@ Single2231 remains the presentation owner; each case owns narrative, native titl
 ### Case batch checkpoint — 2026-10-27 21:21 UTC
 
 [Actual case statuses, photo counts, native selection owners and limitations](../projects/dash-case-workflow.md#published-case-and-selection-checkpoint--2026-10-27-2121-utc). Shared Card2233 native local styles refined; Archive2232 location filter removed only. Geo query owners:532/526/533/556/558, each native location-term query with Card2233. Existing BEAF retained; six-photo backfill and remaining geo selections pending.
+
+
+### Highland Park content checkpoint — 2026-10-28
+
+Project2765 reuses Single2231, Gallery89b76dd3 and Card2233 unchanged. Highland Park528/LoopGridd426b2d automatically selects Location37; its Heading71 instance33ebb33d description now covers both published case scopes. Per-project content/media/SEO remain individual. [Actual tests](../projects/dash-case-workflow.md#highland-park-fallen-tree-reconstruction--2026-10-28).
