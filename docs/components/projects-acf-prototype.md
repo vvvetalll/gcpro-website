@@ -184,3 +184,8 @@ Existing shared Single/Gallery/Card retained; native body/Heading71/Buttons59. L
 ### Commercial Elmhurst2883 — 2026-10-28
 
 Shared Single/Gallery/Card retained, native body/Heading71/Buttons59. Location36 now automatically includes three cases. Six chronological WebP images and actual desktop H1/gallery/links/noindex/overflow verified. Rejected2890 detached/preserved. No component, layout, code or dependency change. [Checkpoint](../projects/dash-case-workflow.md#third-elmhurst-case-commercial-offices--2026-10-28).
+
+
+### Lombard attic2894 — 2026-10-28
+
+Existing shared owners unchanged; native body/Heading71/Buttons59. Location32 automatically includes three cases. Six chronological WebP images; saved content/metadata and actual desktop H1/gallery/links/noindex/overflow verified. No code/dependency changes. [Checkpoint](../projects/dash-case-workflow.md#third-lombard-case-attic-surfaces--2026-10-28).

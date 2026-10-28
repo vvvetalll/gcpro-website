@@ -313,3 +313,16 @@ Six inspected optimized WebP attachments2885–2889 and2893 (56–504KB), two in
 Shared Single2231/Gallery89b76dd3/Card2233 preserved. Native body6c0aefe8/Heading71/Button59 named530/499/518 links; Reconstruction19/Commercial24/Location36. Saved content/metadata read back. Actual authenticated frontend verifies one H1, six gallery links/alt, SEO/noindex, correct city/service links, no1686px overflow. Elmhurst530 automatically shows2883,2865,2679. Individual mobile/lightbox/anonymous retest not performed.
 
 **Actual total:25 new DASH cases.** Naperville4, Highland Park4, Northbrook3, Elmhurst3; Downers Grove/Schaumburg/Carol Stream/Lombard/Glenview2 each; Oak Brook1. Four per ten locations still unfinished. Owner allows richer editorial presentation; public job facts remain supported by evidence.
+
+
+## Third Lombard case, attic surfaces — 2026-10-28
+
+Published [Project2894](https://vitaliiv1.sg-host.com/portfolio/lombard-attic-roof-framing-cleaned-treated/). Actual Lombard/Residential/Mold verified; all18 notes read. Selected basic surface-cleaning package distinguished from more extensive proposed options. Actual HEPA vacuuming, accessible wiping, mold-removal treatment and access containment supported. No insulation removal, new sealant/coating, replacement wood, testing/clearance or recurrence guarantee invented. Completion/COS recorded; unrelated private source issues retained privately and no whole-house repair claim made. Financial Actual GP/cost/invoiced reviewed privately.
+
+Six full-resolution-inspected WebP attachments2896–2901 (38–105KB), two Before then four after-treatment wood views. Cover2900. Crops exclude hose/floor loose material; no ladder/clothing/work equipment/people/identifying details. Existing coatings/wood condition preserved, originals private, identifying metadata removed, no upscale. Same attic bays recognizable; no identical-angle pair claim or newBEAF.
+
+Shared Single2231/Gallery89b76dd3/Card2233 unchanged. Native body6f220e6a/Heading71/Buttons59 named526/516, Mold20/Residential23/Location32. Saved values read back. Actual authenticated frontend verifies one H1, six WebP gallery links, SEO/noindex, correct city/mold destinations and no1686px overflow. Lombard526 automatically shows2894/2856/2624. Individual mobile/lightbox/anonymous delivery not retested.
+
+Focused Oakbrook spelling-variant search found additional source records. Actual Loss location remains decisive; Oakbrook Terrace kept separate. Two reviewed candidates were logistics-only or cancelled work, not cases. Another linked hospitality case has completed-work notes but mixed/early-dated photos that cannot yet establish a clean final result; retained privately pending stronger final evidence. No unsupported publication to fill counts.
+
+**Actual total:26 new DASH cases.** Naperville4, Highland Park4, Northbrook3, Elmhurst3, Lombard3; Downers Grove/Schaumburg/Carol Stream/Glenview2 each; Oak Brook1. Minimum4 across all ten locations remains unfinished.
