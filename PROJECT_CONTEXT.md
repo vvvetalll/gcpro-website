@@ -1,5 +1,7 @@
 # GCPRO project context
 
+**2026-10-28 Northbrook:** Published2903 patio/drainage repairs with six final WebP views; native city selection now shows four cases.27 new DASH cases total; ten-location target unfinished. [Checkpoint](docs/projects/dash-case-workflow.md#fourth-northbrook-case-patio-drainage--2026-10-28).
+
 **2026-10-28 Lombard attic:** Published2894 with six chronological WebP images and verified selected surface-cleaning scope. City query shows three cases;26 new DASH cases total, ten-location target unfinished. [Checkpoint](docs/projects/dash-case-workflow.md#third-lombard-case-attic-surfaces--2026-10-28).
 
 

@@ -326,3 +326,14 @@ Shared Single2231/Gallery89b76dd3/Card2233 unchanged. Native body6f220e6a/Headin
 Focused Oakbrook spelling-variant search found additional source records. Actual Loss location remains decisive; Oakbrook Terrace kept separate. Two reviewed candidates were logistics-only or cancelled work, not cases. Another linked hospitality case has completed-work notes but mixed/early-dated photos that cannot yet establish a clean final result; retained privately pending stronger final evidence. No unsupported publication to fill counts.
 
 **Actual total:26 new DASH cases.** Naperville4, Highland Park4, Northbrook3, Elmhurst3, Lombard3; Downers Grove/Schaumburg/Carol Stream/Glenview2 each; Oak Brook1. Minimum4 across all ten locations remains unfinished.
+
+
+## Fourth Northbrook case, patio drainage — 2026-10-28
+
+Published [Project2903](https://vitaliiv1.sg-host.com/portfolio/northbrook-paver-patio-drainage-repairs/). Actual Loss Northbrook/Residential verified; all63 notes and both available customer proposal versions read. First two approved scope items distinguished from lower-patio replacement and new-paver alternatives. Actual exterior completion, sealer application and punch-list completion corroborate patio base/reset and upper-patio drainage work. No proven leak cause, guaranteed dry basement, new fireplace or complete lower-patio rebuild claimed. Actual GP/invoiced/cost distinguished privately.
+
+Six full-resolution-inspected final WebP attachments2905–2910 (620–895KB versus multi-megabyte originals), cover2905. Final album dates follow recorded sealer application. Selected views show upper paving, step transitions, discharge outlet and surrounding patio context. Existing lower patio is contextual, not claimed as rebuilt. One crop removes incidental reflection/fireplace tools; people, loose items and unrelated inspection photos rejected. Originals private, metadata stripped, no upscale. No verified matching Before pair found; no newBEAF.
+
+Shared Single2231/Gallery89b76dd3/Card2233 preserved. Native body146338c6, Heading71 and Button59 named556/518 bindings read back. Reconstruction19/Residential23/Location34. Saved media/SEO/taxonomies verified. Actual authenticated desktop shows oneH1, six gallery links, correct city/service links, staging noindex and no1686px horizontal overflow. Northbrook556 automatically displays2903/2828/2818/2640. Individual mobile/lightbox/guest delivery not retested.
+
+**Actual total:27 new DASH cases.** Naperville4, Highland Park4, Northbrook4, Elmhurst3, Lombard3; Downers Grove/Schaumburg/Carol Stream/Glenview2 each; Oak Brook1. Minimum4 across all ten locations remains unfinished.

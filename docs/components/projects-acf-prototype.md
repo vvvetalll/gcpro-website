@@ -189,3 +189,7 @@ Shared Single/Gallery/Card retained, native body/Heading71/Buttons59. Location36
 ### Lombard attic2894 — 2026-10-28
 
 Existing shared owners unchanged; native body/Heading71/Buttons59. Location32 automatically includes three cases. Six chronological WebP images; saved content/metadata and actual desktop H1/gallery/links/noindex/overflow verified. No code/dependency changes. [Checkpoint](../projects/dash-case-workflow.md#third-lombard-case-attic-surfaces--2026-10-28).
+
+### Northbrook patio2903 — 2026-10-28
+
+Existing shared owners unchanged. Native body/Heading71/Buttons59, Reconstruction19/Location34. Six final WebP images; actual desktop H1/gallery/links/noindex/overflow verified. Automatic city selection now has four cases. No code/dependency change. [Checkpoint](../projects/dash-case-workflow.md#fourth-northbrook-case-patio-drainage--2026-10-28).
