@@ -209,3 +209,7 @@ Shared owners unchanged; native body/Heading71/Buttons59, Storm21/Reconstruction
 ### Elmhurst overflow2939 — 2026-10-28
 
 Shared owners unchanged; native body/Heading71/Buttons59 named530/514/518. Six chronological WebP images; saved bindings and actual desktop H1/gallery/links/noindex/overflow verified. Automatic Location36 selection now has four cases. No code/dependency changes. [Checkpoint](../projects/dash-case-workflow.md#fourth-elmhurst-case-bathroom-overflow-repairs--2026-10-28).
+
+### Carol Stream commercial2948 — 2026-10-28
+
+Shared owners unchanged; native body/Heading71/Buttons59 named543/499/518. Six final-condition WebP attachments. Saved binding and actual desktop H1/gallery/links/noindex/overflow checked. Automatic Location28 selection now has three cases. No custom code/dependency changes. [Checkpoint](../projects/dash-case-workflow.md#third-carol-stream-case-commercial-tenant-improvements--2026-10-28).

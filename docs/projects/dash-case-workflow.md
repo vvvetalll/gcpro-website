@@ -385,3 +385,16 @@ Six full-resolution-inspected WebP images2941–2946 (66–362KB): two initial b
 Shared Single2231/Gallery89b76dd3/Card2233 preserved. Native body50f7c58, Heading71 and Button59 saved named530/514/518 bindings. Water18/Reconstruction19/Residential23/Location36. Actual authenticated desktop: oneH1, six gallery links, correct city/service destinations, noindex and no1686px overflow. Elmhurst530 automatically shows all four cases2939/2883/2865/2679. Individual mobile/lightbox/anonymous delivery not retested this checkpoint.
 
 **Actual total:31 new DASH cases.** Naperville4, Highland Park4, Northbrook4, Lombard4, Elmhurst4; Glenview3, Schaumburg3; Downers Grove2, Carol Stream2, Oak Brook1. Minimum4 across ten locations remains unfinished.
+
+
+## Third Carol Stream case, commercial tenant improvements — 2026-10-28
+
+Published [Project2948](https://vitaliiv1.sg-host.com/portfolio/carol-stream-commercial-restrooms-warehouse-access-improvements/). Actual Carol Stream Commercial Remodeling verified; all32 journal entries read. Notes establish majority completion, later revised scope/invoicing, no COS requirement and eventual paid/closed status. Rendered tenant-improvement exhibit confirms warehouse concrete-pad expansion/repair for forklift access and office/restroom finishes. Signed revised nine-page estimate, separate mechanical invoice/proposal, soffit invoice and financial breakdown reviewed; proposed extras and mechanical diagnostics not promoted into unsupported completed-work claims. Published narrative limited to documented and photographed concrete, restroom tile and office flooring. No Fire/Water classification invented. Private financial and source references remain outside GitHub.
+
+Six full-resolution-inspected final-condition WebP images2950/2952–2955/2957 (51–719KB), cover2950: two concrete-pad/approach views, two restroom views and tile/carpet floor details. Final-only, no invented Before stage. Crops remove distant vehicle/numbered door, cleaning supplies/wastebin and focus floor-detail images on the completed floor surface. No people/mirror reflections, readable client identifiers or documents. Original files preserved privately, metadata stripped and no upscaling. Rejected initial approach attachment2951 detached, not deleted. Initial inspection seven images concern unrelated door hardware; no false Before/After pair or newBEAF.
+
+Shared Single2231/Gallery89b76dd3/Card2233 remain presentation owners. Native body2c7be576, Heading71 and Button59 named543/499/518 bindings read back. Reconstruction19/Commercial24/Location28. Actual authenticated desktop verifies oneH1, six gallery links, correct city/commercial/reconstruction destinations, noindex and no1686px overflow. Carol Stream543 automatically shows2948/2847/2572. Individual mobile/lightbox/anonymous delivery not retested this checkpoint.
+
+Older Oak Brook reconstruction was revisited: all116 notes now read, documented kitchen/flooring completion established, but seven final photographs still weak/underlit or include tools and unfinished details. Remains private reserve; no weak case published merely to increase count.
+
+**Actual total:32 new DASH cases.** Naperville4, Highland Park4, Northbrook4, Lombard4, Elmhurst4; Glenview3, Schaumburg3, Carol Stream3; Downers Grove2, Oak Brook1. Minimum4 across all ten locations remains unfinished.

@@ -1,5 +1,7 @@
 # GCPRO project context
 
+**2026-10-28 Carol Stream commercial:** Published2948 with six WebP final-condition views and verified tenant-improvement scope; automatic city selection now has three cases.32 new DASH cases total; ten-location target unfinished. [Checkpoint](docs/projects/dash-case-workflow.md#third-carol-stream-case-commercial-tenant-improvements--2026-10-28).
+
 **2026-10-28 Elmhurst overflow:** Published2939 with six chronological WebP images; automatic city selection now has four cases.31 new DASH cases total; ten-location target unfinished. [Checkpoint](docs/projects/dash-case-workflow.md#fourth-elmhurst-case-bathroom-overflow-repairs--2026-10-28).
 
 **2026-10-28 Lombard siding:** Published2930 with six chronological WebP images and verified storm-repair scope; city query now shows four varied cases.30 new DASH cases total; ten-location target unfinished. [Checkpoint](docs/projects/dash-case-workflow.md#fourth-lombard-case-storm-siding--2026-10-28).
