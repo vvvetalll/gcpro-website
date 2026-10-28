@@ -1,5 +1,7 @@
 # GCPRO project context
 
+**2026-10-28 Schaumburg frozen-pipe repairs:** Published2967 with six chronological WebP images; automatic city selection now has four cases.34 new DASH cases total; six further cases needed for ten-city minimum. [Checkpoint](docs/projects/dash-case-workflow.md#fourth-schaumburg-case-frozen-pipe-reconstruction--2026-10-28).
+
 **2026-10-28 Glenview ice-dam repairs:** Published2958 with six chronological WebP images and verified completed interior scope; city selection now has four cases.33 new DASH cases total; seven further cases needed for ten-city minimum. [Checkpoint](docs/projects/dash-case-workflow.md#fourth-glenview-case-ice-dam-interior-repairs--2026-10-28).
 
 **2026-10-28 Carol Stream commercial:** Published2948 with six WebP final-condition views and verified tenant-improvement scope; automatic city selection now has three cases.32 new DASH cases total; ten-location target unfinished. [Checkpoint](docs/projects/dash-case-workflow.md#third-carol-stream-case-commercial-tenant-improvements--2026-10-28).
