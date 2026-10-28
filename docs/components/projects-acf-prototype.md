@@ -205,3 +205,7 @@ Shared owners unchanged; native body/Heading71/Buttons59, Water18/Reconstruction
 ### Lombard siding2930 — 2026-10-28
 
 Shared owners unchanged; native body/Heading71/Buttons59, Storm21/Reconstruction19/Residential23/Location32. Six chronological WebP images; actual desktop H1/gallery/links/SEO/noindex/overflow verified. City selection now has four cases. No code/dependency changes. [Checkpoint](../projects/dash-case-workflow.md#fourth-lombard-case-storm-siding--2026-10-28).
+
+### Elmhurst overflow2939 — 2026-10-28
+
+Shared owners unchanged; native body/Heading71/Buttons59 named530/514/518. Six chronological WebP images; saved bindings and actual desktop H1/gallery/links/noindex/overflow verified. Automatic Location36 selection now has four cases. No code/dependency changes. [Checkpoint](../projects/dash-case-workflow.md#fourth-elmhurst-case-bathroom-overflow-repairs--2026-10-28).

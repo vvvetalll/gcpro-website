@@ -374,3 +374,14 @@ Shared Single2231/Gallery89b76dd3/Card2233 retained. Native body323fcc8f, Headin
 Additional older Downers Grove reconstruction reviewed:55 notes and two photo-album samples, but later photographs still show open wiring/walls/disconnected appliance and clutter. Retained privately pending clean final evidence; no case published from these images.
 
 **Actual total:30 new DASH cases.** Naperville4, Highland Park4, Northbrook4, Lombard4; Elmhurst/Glenview/Schaumburg3 each; Downers Grove/Carol Stream2 each; Oak Brook1. Minimum4 across ten cities remains unfinished.
+
+
+## Fourth Elmhurst case, bathroom overflow repairs — 2026-10-28
+
+Published [Project2939](https://vitaliiv1.sg-host.com/portfolio/elmhurst-bathroom-basement-stairwell-restored-overflow/). Actual Elmhurst Residential Water verified; all93 journal notes read. Second-floor toilet overflow affected bathroom, basement stairs/hall and garage. Actual insulation, drywall, tile, vinyl, cabinetry, painting and completion milestones distinguished from initial proposals. Existing vanity retained; HVAC inspection by another installer not claimed as GCPRO repair. Actual GP/cost/invoiced retained privately.
+
+Six full-resolution-inspected WebP images2941–2946 (66–362KB): two initial bathroom/stairwell conditions followed by four finished bathroom/stair/floor/hall views, cover2943. Tile detail crop removes photographer foot. Reflections/background reviewed; no identifying people, documents or readable numbers. No progress/tool scenes. Originals preserved privately, metadata stripped, no upscale. Different perspectives; no exact-angle pairing or newBEAF.
+
+Shared Single2231/Gallery89b76dd3/Card2233 preserved. Native body50f7c58, Heading71 and Button59 saved named530/514/518 bindings. Water18/Reconstruction19/Residential23/Location36. Actual authenticated desktop: oneH1, six gallery links, correct city/service destinations, noindex and no1686px overflow. Elmhurst530 automatically shows all four cases2939/2883/2865/2679. Individual mobile/lightbox/anonymous delivery not retested this checkpoint.
+
+**Actual total:31 new DASH cases.** Naperville4, Highland Park4, Northbrook4, Lombard4, Elmhurst4; Glenview3, Schaumburg3; Downers Grove2, Carol Stream2, Oak Brook1. Minimum4 across ten locations remains unfinished.
