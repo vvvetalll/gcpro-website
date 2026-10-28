@@ -229,3 +229,7 @@ Shared owners unchanged; native body/Heading71/Buttons59 named543/514/518. Six c
 ### Downers Grove bathroom/interior repairs2985 — 2026-10-28
 
 Shared owners unchanged. Native body/Heading71/Buttons59 named527/514/518, six WebP gallery attachments; actual desktop H1/gallery/links/noindex/overflow checked. Automatic Location39 selection now has three cases. No new code or dependencies. See latest dash-case-workflow checkpoint; mobile/lightbox/guest not retested.
+
+### Downers Grove roof/interior repairs2994 — 2026-10-28
+
+Shared owners preserved. Native Heading71/Buttons59 named527/514/518, six WebP gallery attachments. Saved settings plus actual desktop H1/gallery/links/noindex/overflow checked. Automatic Location39 query now has four. No new code/dependency; mobile/lightbox/guest not retested.

@@ -442,3 +442,14 @@ Six full-resolution-reviewed WebP images2987–2992, cover2989,29–239KB: two i
 Single2231/Gallery89b76dd3/Card2233 preserved. Native body3d79cc41, Heading71, Button59 named527/514/518 saved/read back. Water18/Reconstruction19/Residential23/Location39. Authenticated desktop: oneH1, six gallery links, correct geo/service destinations, staging noindex and no1686px overflow. Downers Grove527 query automatically shows three cases2985/2837/2718. Individual mobile/lightbox/guest delivery not retested here.
 
 Actual total:36 new DASH cases; eight cities have four, Downers Grove three, Oak Brook one. Four more suitable cases remain. Further candidate screening continues privately; no publication quota is filled with unsupported or weak evidence.
+
+
+## Fourth Downers Grove case, roof and interior repairs — 2026-10-28
+
+Published [Roof, Attic and Interior Repairs After Animal Damage](https://vitaliiv1.sg-host.com/portfolio/downers-grove-roof-attic-interior-repairs-animal-damage/) (2994). Actual Downers Grove Residential Water/Roof record; all49 journal records read. Raccoon damage, shingle and attic-insulation repairs plus laminate/drywall/painting supplement supported by inspection scope, signed closeout and explicit completion of approved and supplemental work. No wildlife-removal, mold-service or unsupported whole-roof replacement claim. Actual profit/cost/invoice evidence remains private.
+
+Six original images reviewed at full resolution and prepared as optimized WebP2996–3001, cover2998 (101–550KB). Two roof-edge/opening Before views followed by four finished recreation-room, roof, attic and flooring views. Crops remove date stamps, boots, box, entry area and waste bins without changing property condition. No identifying people, numbers, paperwork or plates; originals retained, metadata stripped, no upscaling. Wider roof After is not an exact aligned comparison, so no newBEAF.
+
+Shared Single2231/Gallery89b76dd3/Card2233 unchanged. Native body5dd1c5c9, Heading71 and Buttons59 named527/514/518 saved/read back. Water18/Reconstruction19/Residential23/Location39. Authenticated frontend oneH1/six gallery links/correct destinations/noindex/no1686px overflow verified. Downers Grove527 automatically shows four cases2994/2985/2837/2718. Individual mobile/lightbox/guest delivery not retested. Further candidate with repetitive or cluttered photos retained privately rather than published.
+
+**37 new DASH cases published. Nine cities now have four each; Oak Brook has one. Three additional suitable Oak Brook cases remain.**
