@@ -158,3 +158,5 @@ Native528/LoopGridd426b2d queries Location37 and now renders four projects autom
 
 
 2026-10-28: Project2818 published using existing Single2231/Gallery89b76dd3/Card2233. Body76808999, Heading71 instance14d3d1ec, Button59 instances2d182849/437d7702/19d19e6f bind named Northbrook556/Water514/Reconstruction518. Six attached final-only media2820–2825; automatic556 Location34 selection verified with two cases. No shared design/query/code changes. See DASH workflow checkpoint.
+
+2026-10-28: Project2828 body e76c1e1, Heading71/three Button59 named bindings556/514/518; shared Single2231/Gallery/Card unchanged. Media2830–2835, two Before then four final. Actual Northbrook556 Location34 selection contains three cases; frontend H1/gallery/links/noindex/overflow checked.

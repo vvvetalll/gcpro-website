@@ -228,3 +228,16 @@ Six full-resolution-reviewed final views became optimized WebP attachments2820�
 Shared Single2231/Gallery89b76dd3/Card2233 unchanged; native body root76808999 uses Heading71 and Button59 instances with named bindings556/514/518. Actual frontend confirms one H1, six WebP gallery links, correct city/service destinations, noindex retained,1686px desktop without overflow. Northbrook556 existing Location34 query automatically shows2818 and2640 without query changes. Mobile and individual lightbox retest not performed for this unchanged shared layout. No production, BEAF, dependencies or URL migration changed.
 
 **Actual total:18 new DASH cases.** Northbrook2, Highland Park4, Naperville4, Schaumburg2; six remaining cities1 each. Minimum4 per location remains unfinished. Continue useful matched Before/final selection, exclude process/tools/clutter photographs, and preserve quality rather than fill quotas.
+
+
+## Third Northbrook case — 2026-10-28
+
+Published [Project2828](https://vitaliiv1.sg-host.com/portfolio/northbrook-kitchen-hallway-floors-repaired-water-damage/). Actual Loss city and Residential/Water classification verified; all48 journal entries read. Work records explicitly confirm hardwood-floor repair, base shoe, painted trim, dishwasher and cabinet-panel installation, final touch-ups, signed COS/completion, later payment and closure. No invented leak mechanism, wood species, new kitchen, new bathroom fixtures or whole-house replacement.
+
+Six optimized WebP attachments2830–2835, two pre-reconstruction floor views followed by four completed kitchen/adjoining-room/hall/bathroom views; cover2832. Selected originals full-resolution reviewed. Initial wide kitchen crop excludes personal/health items above the counter while retaining the actual exposed floor/cabinet condition. No process/tool photos, people, identifying paperwork, loose clothing or bags published. Originals preserved privately; EXIF removed, no upscaling. Individual files30–422KB. Same-cabinet/dishwasher-area Before/final candidate retained privately; no new BEAF.
+
+Body root e76c1e1; Heading71 instance28965bc4, native named Button59 links1553ee50/75900dd0/12bf28cb resolve Northbrook556/Water514/Reconstruction518. Shared Single2231/Gallery89b76dd3/Card2233 unchanged. Actual case frontend: one H1, six gallery destinations, correct SEO/links, noindex retained,1686px desktop without overflow; lightbox open/Escape exercised. Northbrook556 native query now shows three cases automatically. Individual physical-device/mobile test remains unperformed.
+
+Additional research screened separately without forcing publication: one potential reconstruction was explicitly declined despite a closed status; another offered inspection-only photographs. Additional photo sets were reserved for inadequate clean, varied views or unresolved completion exceptions. Detailed sources/reasons are private, not public client records. No conclusion of no suitable work in those cities.
+
+**Actual total:19 new DASH cases.** Northbrook3, Highland Park4, Naperville4, Schaumburg2, remaining six locations1 each. Minimum4 per location remains unfinished; continue source/photo selection without quality fillers.

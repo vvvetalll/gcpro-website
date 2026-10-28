@@ -1,5 +1,8 @@
 # GCPRO project context
 
+**2026-10-28 third Northbrook case:** Published2828 with two Before/four After WebP images and verified floor-repair narrative. City selection automatically shows three cases;19 new DASH cases total. [Checkpoint](docs/projects/dash-case-workflow.md#third-northbrook-case--2026-10-28).
+
+
 **2026-10-28 Northbrook:** Published2818 basement gym/theater reconstruction with six clean final WebP images, verified notes, SEO and native links. Automatic city selection shows two cases;18 new DASH cases total, four-per-city target unfinished. [Checkpoint](docs/projects/dash-case-workflow.md#northbrook-basement-reconstruction--2026-10-28).
 
 
