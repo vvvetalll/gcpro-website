@@ -174,3 +174,8 @@ Native body/Heading71/Buttons59; Single2231, attachment Gallery89b76dd3 and Card
 ### Elmhurst2865 publication — 2026-10-28
 
 Existing shared presentation preserved; native body/Heading71/Buttons59. Location36 query automatically includes2865 and2679. Six chronological WebP images; saved SEO/taxonomy and actual desktop H1/gallery/links/noindex/overflow verified. No new component/code/dependency. [Checkpoint](../projects/dash-case-workflow.md#second-elmhurst-case--2026-10-28).
+
+
+### Glenview2874 publication — 2026-10-28
+
+Existing shared Single/Gallery/Card retained; native body/Heading71/Buttons59. Location33 query automatically includes2874 and2632. Six chronological WebP images; actual desktop H1/gallery/links/noindex/overflow verified. No code, layout or dependency change. [Checkpoint](../projects/dash-case-workflow.md#second-glenview-case--2026-10-28).

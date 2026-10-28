@@ -289,3 +289,16 @@ Shared Single2231/Gallery89b76dd3/Card2233 preserved. Native body6cbd5b76/Headin
 Additional Oak Brook hospitality water candidate reviewed privately: all44 notes read; records explicitly describe still-wet areas where drying equipment was removed at management direction and no after-equipment photos. Kept in reserve, not represented as a fully completed/dried restoration case. No customer details in GitHub.
 
 **Actual total:23 new DASH cases.** Naperville4, Highland Park4, Northbrook3, Downers Grove2, Schaumburg2, Carol Stream2, Lombard2, Elmhurst2, Glenview/Oak Brook1 each. Minimum4 across ten locations remains unfinished.
+
+
+## Second Glenview case — 2026-10-28
+
+Published [Project2874](https://vitaliiv1.sg-host.com/portfolio/glenview-basement-build-out-fireplace-bar-tiled-shower/). Actual Glenview/Residential location verified; all48 notes read. This is a basement build-out, with no invented water/fire damage cause. Actual framing, rough electrical/HVAC/plumbing, insulation, drywall, finish carpentry/painting, tile/shower enclosure, fireplace stone, cabinets/countertops and final punch-list/COS recorded. Actual GP/cost/invoiced fields reviewed privately, separate from public content.
+
+Six full-resolution-inspected WebP attachments2876–2881 (53–91KB), one original unfinished-wall/joist view then five distinct finished areas: fireplace, bar cabinets, game area, exercise room and tiled shower. Cover2877. Initial crop excludes stored clothes/bags/boxes; exercise crop excludes utility-room labels. No people/private documents/addresses or work-stage clutter published. Originals private, metadata stripped, no upscaling. Some source finals have mild camera softness. No identical-angle Before/After claim or newBEAF.
+
+Shared Single2231/Gallery89b76dd3/Card2233 preserved. Native body1762b0cf/Heading71/Button59 named533/518 links; Reconstruction19/Residential23/Location33. Actual authenticated frontend verifies one H1, six gallery links/alt, SEO/noindex, correct service/city destinations, no1686px overflow. Glenview533 native Location33 query automatically shows2874 with2632. Individual mobile/lightbox/anonymous delivery not retested.
+
+Discovery correction: one report candidate matched Glenview as a street name while actual Loss city was Saint Charles. Excluded from Glenview selection; private reference retained. No location inferred from report search text.
+
+**Actual total:24 new DASH cases.** Naperville4, Highland Park4, Northbrook3; Downers Grove/Schaumburg/Carol Stream/Lombard/Elmhurst/Glenview2 each; Oak Brook1. Minimum4 across ten cities remains unfinished.

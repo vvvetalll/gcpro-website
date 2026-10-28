@@ -1,5 +1,8 @@
 # GCPRO changelog
 
+**2026-10-28 Glenview:** Published2874 basement build-out with six chronological WebP images; native city query shows two cases.24 new DASH cases total, ten-location target unfinished. [Checkpoint](docs/projects/dash-case-workflow.md#second-glenview-case--2026-10-28).
+
+
 **2026-10-28 Elmhurst:** Published2865 with six chronological WebP images, documented condensate-leak repairs and verified automatic city membership.23 new DASH cases total; ten-location target unfinished. [Checkpoint](docs/projects/dash-case-workflow.md#second-elmhurst-case--2026-10-28).
 
 
