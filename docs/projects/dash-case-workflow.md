@@ -195,3 +195,14 @@ Highland Park528 native Location37 selection automatically includes2765 alongsid
 ### Owner photo-selection correction — 2026-10-28
 
 Owner supersedes process-stage publication: use Before/After only; exclude work-in-progress/tools, bags, loose clothing and household clutter. Source progress photographs may remain private research evidence. In2765 detached2769 roof-work and2771 laundry views without deleting assets; attached clean completed roof/exterior views2779/2780. Six current gallery attachments, in native ID order:2767/2768 Before;2770/2772/2779/2780 After. Bedroom2772 crop excludes clothing/papers; exterior2780 crop excludes vehicle and lower household objects. Actual frontend readback confirms six intended filenames and absence of the two rejected views; narrative updated accordingly. No BEAF or shared-gallery changes. This corrects the initial publication description above.
+
+
+## Highland Park water-repair case — 2026-10-28
+
+Published [Project2782](https://vitaliiv1.sg-host.com/portfolio/highland-park-bathroom-laundry-water-damage-repairs/) with six Before/After WebP attachments2784–2789. Actual loss city and Water/Residential classification checked;40 journal entries and supporting completed-work invoices reviewed. Documented insulation/drywall/baseboard/painting, washer-dryer detach/reset and localized carpet padding/stretching support the narrative. No inferred plumbing failure, new fixtures/tile/cabinetry or generic water-removal scope added. Certificate upload/completion noted; certificate PDF itself not independently read. Private sources/financials retained outside GitHub.
+
+Two original inspection views show open bathroom wall/soffit areas before reconstruction; four clean completed bathroom/laundry/hallway views follow. Full originals including mirrors inspected; no visible people, identification, bags or loose clothing in selected web copies. Initial views cropped above loose hoses/equipment.810px-wide finals were not upscaled. Individual metadata and project SEO saved. Shared Single2231/Gallery89b76dd3/Card2233 unchanged; named Highland Park528/Water514/Reconstruction518 links.
+
+Actual frontend: correct H1/meta, six gallery links, no desktop overflow, staging noindex preserved, lightbox open/Escape verified. Highland Park528 automatically shows all three published cases with no case-ID list or query edit. No newBEAF. Physical-device/mobile check for this individual case not performed; existing shared responsive layout retained. Sixteen new DASH cases total; Highland Park3, target4 not complete. Other cities remain unfinished.
+
+Research reserve: one completed reconstruction was not published because its Final album still shows unfinished details/loose belongings; another billing-address lead was actually outside Highland Park. Neither is counted as a new local case. Private register records the exact sources and reasons.
