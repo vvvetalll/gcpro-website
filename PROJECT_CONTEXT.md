@@ -810,3 +810,7 @@ Owner requested the same logos on Homepage154. Existing Why Component1149 instan
 
 
 2026-10-24 — Refined only the content columns below the preserved Request492/Contact496 page headers: owner-specified Request guidance and native Contact link; cohesive contact/office groups with existing935–937 icons and unchanged map. Compact native spacing; exact Hero/form subtrees and page identity/SEO preserved. Authenticated1440/393 checks pass; anonymous environment GET403 remains explicit. No new components/code/plugins. [Current task log](docs/components/enquiry-pages.md#2026-10-24--content-column-refinement-below-page-headers-latest).
+
+### Current checkpoint — 2026-10-28 catalogue UI
+
+WPGB facets1–5 are live on Archive2232/Loop c61e6a3, native Styles1–3 own controls. Card2233 now reads project_card_title (52 populated), native14px View project and one whole-card URL anchor. Owner revised catalogue to4/2/1 columns,8 initial results. Original Elementor pagination reproduced broken; WPGB6→12/reset Load More test passed before final8-item change. Full regression, separate taxonomy location metadata, active-only Reset visibility and prepared counter6 remain unfinished. See docs/components/projects-acf-prototype.md. Shared intro1345 heading size20/20/18px and gray text approved. Owner directed return to DASH cases; actual39 new published, final Oak Brook fourth still outstanding.

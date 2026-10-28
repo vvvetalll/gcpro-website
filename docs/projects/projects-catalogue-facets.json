@@ -1,0 +1,385 @@
+{
+  "date": "2026-10-28",
+  "environment": "staging",
+  "status": "Facets 1-5 connected to Archive2232 / Loop c61e6a3; result counter6 prepared but not connected",
+  "versions": {
+    "wp_grid_builder": "2.3.6",
+    "elementor_addon": "1.4.0"
+  },
+  "facets": [
+    {
+      "id": "1",
+      "name": "GCPRO Projects — Service",
+      "slug": "gcpro_projects_service",
+      "type": "select",
+      "source": "taxonomy/project_service",
+      "settings": {
+        "name": "GCPRO Projects — Service",
+        "title": "Service",
+        "slug": "gcpro_projects_service",
+        "action": "filter",
+        "filter_type": "select",
+        "source": "taxonomy",
+        "include": [],
+        "exclude": [],
+        "depth": "",
+        "child_of": "",
+        "parent": "",
+        "hierarchical": false,
+        "children": true,
+        "show_empty": false,
+        "show_count": false,
+        "current_terms": false,
+        "logic": "AND",
+        "limit": 99,
+        "orderby": "name",
+        "order": "ASC",
+        "combobox": false,
+        "multiple": false,
+        "select_placeholder": "All services",
+        "actions": [],
+        "taxonomy": "project_service",
+        "field_type": "post"
+      }
+    },
+    {
+      "id": "2",
+      "name": "GCPRO Projects - Location",
+      "slug": "gcpro_projects_location",
+      "type": "select",
+      "source": "taxonomy/project_area",
+      "settings": {
+        "name": "GCPRO Projects - Location",
+        "title": "Location",
+        "slug": "gcpro_projects_location",
+        "action": "filter",
+        "filter_type": "select",
+        "source": "taxonomy",
+        "include": [],
+        "exclude": [],
+        "depth": "",
+        "child_of": "",
+        "parent": "",
+        "hierarchical": false,
+        "children": true,
+        "show_empty": false,
+        "show_count": false,
+        "current_terms": false,
+        "logic": "AND",
+        "limit": 99,
+        "orderby": "name",
+        "order": "ASC",
+        "combobox": false,
+        "multiple": false,
+        "select_placeholder": "All locations",
+        "actions": [],
+        "taxonomy": "project_area",
+        "field_type": "post"
+      }
+    },
+    {
+      "id": "3",
+      "name": "GCPRO Projects - Property type",
+      "slug": "gcpro_projects_property_type",
+      "type": "select",
+      "source": "taxonomy/project_sector",
+      "settings": {
+        "name": "GCPRO Projects - Property type",
+        "title": "Property type",
+        "slug": "gcpro_projects_property_type",
+        "action": "filter",
+        "filter_type": "select",
+        "source": "taxonomy",
+        "include": [],
+        "exclude": [],
+        "depth": "",
+        "child_of": "",
+        "parent": "",
+        "hierarchical": false,
+        "children": true,
+        "show_empty": false,
+        "show_count": false,
+        "current_terms": false,
+        "logic": "AND",
+        "limit": 99,
+        "orderby": "name",
+        "order": "ASC",
+        "combobox": false,
+        "multiple": false,
+        "select_placeholder": "All property types",
+        "actions": [],
+        "taxonomy": "project_sector",
+        "field_type": "post"
+      }
+    },
+    {
+      "id": "4",
+      "name": "Clear filters",
+      "slug": "gcpro_projects_reset",
+      "type": "reset",
+      "source": "",
+      "settings": {
+        "name": "Clear filters",
+        "slug": "gcpro_projects_reset",
+        "title": "",
+        "action": "reset",
+        "reset_label": "Clear filters",
+        "reset_facet": []
+      }
+    },
+    {
+      "id": "5",
+      "name": "Load more projects",
+      "slug": "gcpro_projects_load_more",
+      "type": "load_more",
+      "source": "",
+      "settings": {
+        "name": "Load more projects",
+        "slug": "gcpro_projects_load_more",
+        "title": "",
+        "action": "load",
+        "load_type": "load_more",
+        "load_posts_number": 6,
+        "load_more_event": "onclick",
+        "load_more_text": "Load more projects",
+        "loading_text": "Loading projects...",
+        "load_more_remain": false
+      }
+    },
+    {
+      "id": "6",
+      "name": "Project count",
+      "slug": "gcpro_projects_count",
+      "type": "result_count",
+      "source": "",
+      "settings": {
+        "name": "Project count",
+        "title": "",
+        "slug": "gcpro_projects_count",
+        "action": "load",
+        "load_type": "result_count",
+        "result_count_singular": "[to] of [total] project",
+        "result_count_plural": "[to] of [total] projects",
+        "actions": [],
+        "source": "metadata",
+        "field_type": "post"
+      }
+    }
+  ],
+  "styles": [
+    {
+      "id": "1",
+      "name": "GCPRO Catalogue Controls",
+      "type": "select",
+      "settings": {
+        "name": "GCPRO Catalogue Controls",
+        "type": "select",
+        "styles": {
+          "desktop": {
+            "title_typography": {
+              "font-family": "'Inter'",
+              "font-size": "13px",
+              "line-height": "20px",
+              "font-weight": "600"
+            },
+            "title_color": "#344054",
+            "select_border": {
+              "top": {
+                "width": "1px",
+                "style": "solid",
+                "color": "var(--color-border)"
+              },
+              "right": {
+                "width": "1px",
+                "style": "solid",
+                "color": "var(--color-border)"
+              },
+              "bottom": {
+                "width": "1px",
+                "style": "solid",
+                "color": "var(--color-border)"
+              },
+              "left": {
+                "width": "1px",
+                "style": "solid",
+                "color": "var(--color-border)"
+              }
+            },
+            "select_radius": {
+              "top": "8px",
+              "right": "8px",
+              "bottom": "8px",
+              "left": "8px"
+            },
+            "select_padding": {
+              "top": "12px",
+              "right": "40px",
+              "bottom": "12px",
+              "left": "14px"
+            },
+            "select_text_color": "var(--color-primary)",
+            "select_background": "var(--color-white)",
+            "title_margin": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "8px",
+              "left": "0px"
+            },
+            "select_typography": {
+              "font-family": "'Inter'",
+              "font-size": "15px",
+              "line-height": "20px",
+              "font-weight": "400"
+            },
+            "select_border_color_hover": "var(--color-primary)",
+            "select_border_color_focused": "var(--color-accent)"
+          }
+        },
+        "fonts": {
+          "google": {
+            "Inter": [
+              600,
+              400
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "2",
+      "name": "GCPRO Catalogue Load More",
+      "type": "load_more",
+      "settings": {
+        "name": "GCPRO Catalogue Load More",
+        "type": "load_more",
+        "styles": {
+          "desktop": {
+            "button_typography": {
+              "font-family": "'Inter'",
+              "font-size": "14px",
+              "line-height": "20px",
+              "font-weight": "600"
+            },
+            "button_padding": {
+              "top": "14px",
+              "right": "24px",
+              "bottom": "14px",
+              "left": "24px"
+            },
+            "button_radius": {
+              "top": "8px",
+              "right": "8px",
+              "bottom": "8px",
+              "left": "8px"
+            },
+            "button_border": {
+              "top": {
+                "width": "1px",
+                "style": "solid",
+                "color": "var(--color-primary)"
+              },
+              "right": {
+                "width": "1px",
+                "style": "solid",
+                "color": "var(--color-primary)"
+              },
+              "bottom": {
+                "width": "1px",
+                "style": "solid",
+                "color": "var(--color-primary)"
+              },
+              "left": {
+                "width": "1px",
+                "style": "solid",
+                "color": "var(--color-primary)"
+              }
+            },
+            "button_background": "transparent",
+            "button_color": "var(--color-primary)",
+            "button_background_hover": "var(--color-primary)",
+            "button_color_hover": "var(--color-white)",
+            "button_border_hover": "var(--color-primary)"
+          }
+        },
+        "fonts": {
+          "google": {
+            "Inter": [
+              600
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "3",
+      "name": "GCPRO Catalogue Clear Filters",
+      "type": "reset",
+      "settings": {
+        "name": "GCPRO Catalogue Clear Filters",
+        "type": "reset",
+        "styles": {
+          "desktop": {
+            "button_typography": {
+              "font-family": "'Inter'",
+              "font-size": "14px",
+              "line-height": "20px",
+              "font-weight": "600"
+            },
+            "button_padding": {
+              "top": "15px",
+              "right": "18px",
+              "bottom": "15px",
+              "left": "18px"
+            },
+            "button_radius": {
+              "top": "8px",
+              "right": "8px",
+              "bottom": "8px",
+              "left": "8px"
+            },
+            "button_border": {
+              "top": {
+                "width": "1px",
+                "style": "solid",
+                "color": "var(--color-accent)"
+              },
+              "right": {
+                "width": "1px",
+                "style": "solid",
+                "color": "var(--color-accent)"
+              },
+              "bottom": {
+                "width": "1px",
+                "style": "solid",
+                "color": "var(--color-accent)"
+              },
+              "left": {
+                "width": "1px",
+                "style": "solid",
+                "color": "var(--color-accent)"
+              }
+            },
+            "button_background": "transparent",
+            "button_color": "var(--color-accent)",
+            "button_background_hover": "var(--color-accent)",
+            "button_color_hover": "#ffffff",
+            "button_border_hover": "var(--color-accent)",
+            "button_margin": {
+              "top": "0px",
+              "right": "0px",
+              "bottom": "0px",
+              "left": "0px"
+            }
+          }
+        },
+        "fonts": {
+          "google": {
+            "Inter": [
+              600
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

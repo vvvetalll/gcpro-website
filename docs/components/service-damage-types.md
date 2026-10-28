@@ -73,3 +73,7 @@ Existing section/container/stack/grid-2/card classes, spacing/color/font Variabl
 Water's six items are pipes, basement flooding, appliance leaks, ceiling leaks, stormwater and affected belongings. Other page copy remains specific to the confirmed service; testing exclusions, access and scope decisions are described honestly rather than as extra capabilities. Hero and unrelated Water sections compare preserved. [Full rollout, ownership, checks and recovery](service-page-rollout-2026-10-23.md).
 
 Verified1440px3×2 and768px two-column geometry; all17 pages at approximately394px have six cards/icons in one column and no horizontal overflow. Owner visual approval pending. Historical five-card implementation below is superseded.
+
+## Intro card heading refinement — 2026-10-28
+
+Owner approved smaller headings in the shared six-card intro. Existing Component1345, all six Scope Title nodes, now owns20px desktop/tablet and18px mobile, line-height1.35, color-text (#334155). H3 semantics,15 independent text Overrides, section H2, descriptions,3/2/1 grid, padding and other sections preserved. Native Atomic styles only; private pre-change component snapshot retained. Actual Water514 frontend measured all six headings20px/#334155 and showed balanced3×2 cards. Owner accepted the size. Other consumers inherit the same component; no17-page style duplication. No full-site audit or extra dependency.

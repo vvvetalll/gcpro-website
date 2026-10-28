@@ -749,3 +749,9 @@ Owner requested the same logos on Homepage154. Existing Why Component1149 instan
 
 
 2026-10-24 — Refined only the content columns below the preserved Request492/Contact496 page headers: owner-specified Request guidance and native Contact link; cohesive contact/office groups with existing935–937 icons and unchanged map. Compact native spacing; exact Hero/form subtrees and page identity/SEO preserved. Authenticated1440/393 checks pass; anonymous environment GET403 remains explicit. No new components/code/plugins. [Current task log](docs/components/enquiry-pages.md#2026-10-24--content-column-refinement-below-page-headers-latest).
+
+## 2026-10-28 — catalogue interface checkpoint and intro headings
+
+Staging Archive2232 uses installed WPGB2.3.6 + official Elementor add-on1.4.0, native facets1–5/Styles1–3 and shared Card2233. Owner requested4/2/1 catalogue columns,8 initial cards, one centered Load More, branded pale-blue panel and orange-outline Reset. Card uses native whole-card link, concise Catalogue Title ACF field and compact14px View project action. Tested WPGB6→12 unique results and Fire/reset→Load More before final8-item change; complete regression remains pending. Prepared result count6 is not connected; separate native taxonomy card metadata trial did not render and was removed. See component record for actual owners/limitations.
+
+Shared intro Component1345 six H3s reduced to20/20/18px, gray color-text; actual Water output checked, owner accepted size. No Hero, case body, URL, BEAF or production changes. Current DASH total remains39 new published: nine cities4, Oak Brook3; resume final Oak Brook evidence work next.
