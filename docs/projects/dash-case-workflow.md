@@ -431,3 +431,14 @@ Six full-resolution-inspected WebP images2978–2983 (22–161KB), cover2980. Tw
 Shared Single2231/Gallery89b76dd3/Card2233 preserved. Native bodya19d8c8, Heading71 and Button59 named543/514/518 saved/read back. Water18/Reconstruction19/Residential23/Location28. Actual authenticated desktop: oneH1, six gallery links, intended geo/service destinations, noindex, no1686px overflow. Carol Stream543 automatically shows four cases2976/2948/2847/2572. Individual mobile/lightbox/anonymous delivery not retested this checkpoint.
 
 **Actual total:35 new DASH cases.** Naperville4, Highland Park4, Northbrook4, Lombard4, Elmhurst4, Glenview4, Schaumburg4, Carol Stream4; Downers Grove2, Oak Brook1. Five additional suitable cases needed for minimum4 across ten cities; overall task remains unfinished.
+
+
+## Third Downers Grove case, bathroom and interior finishes — 2026-10-28
+
+Published [Bathroom Tile, Carpet and Interior Finishes Restored](https://vitaliiv1.sg-host.com/portfolio/downers-grove-bathroom-tile-carpet-interior-water-repairs/) (Project2985). Actual city and Residential Water verified; all98 journal records read. Main repair completion and signed closeout support bathroom tile, reset existing vanity/countertop, replacement carpet, drywall and painted finishes. Other-company mitigation is not attributed to GCPRO. Exact water source was not established. A later minor-corrections request lacks a subsequent resolution entry: retained privately for owner review; no flawless-finish or satisfaction claim is made.
+
+Six full-resolution-reviewed WebP images2987–2992, cover2989,29–239KB: two initial stain/open-ceiling conditions followed by four completed bathroom, living-area and carpet views. A lower crop excludes a protective bag; cluttered bedroom/closet and blurry frames rejected. Reflections checked; no identifying people, documents or numbers. Originals preserved and metadata stripped. Corrected the six media descriptions to the verified city after detecting a copied location in that metadata field. No new BEAF.
+
+Single2231/Gallery89b76dd3/Card2233 preserved. Native body3d79cc41, Heading71, Button59 named527/514/518 saved/read back. Water18/Reconstruction19/Residential23/Location39. Authenticated desktop: oneH1, six gallery links, correct geo/service destinations, staging noindex and no1686px overflow. Downers Grove527 query automatically shows three cases2985/2837/2718. Individual mobile/lightbox/guest delivery not retested here.
+
+Actual total:36 new DASH cases; eight cities have four, Downers Grove three, Oak Brook one. Four more suitable cases remain. Further candidate screening continues privately; no publication quota is filled with unsupported or weak evidence.

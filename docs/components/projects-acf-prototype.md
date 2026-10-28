@@ -225,3 +225,7 @@ Shared owners unchanged; native body/Heading71/Buttons59 named558/514/518. Six c
 ### Carol Stream completion repairs2976 — 2026-10-28
 
 Shared owners unchanged; native body/Heading71/Buttons59 named543/514/518. Six chronological WebP images. Saved bindings and actual desktop H1/gallery/links/noindex/overflow verified. Automatic Location28 selection now has four cases. No new code/dependencies. [Checkpoint](../projects/dash-case-workflow.md#fourth-carol-stream-case-drain-backup-repair-completion--2026-10-28).
+
+### Downers Grove bathroom/interior repairs2985 — 2026-10-28
+
+Shared owners unchanged. Native body/Heading71/Buttons59 named527/514/518, six WebP gallery attachments; actual desktop H1/gallery/links/noindex/overflow checked. Automatic Location39 selection now has three cases. No new code or dependencies. See latest dash-case-workflow checkpoint; mobile/lightbox/guest not retested.
