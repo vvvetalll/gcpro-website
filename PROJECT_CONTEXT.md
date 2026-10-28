@@ -1,5 +1,8 @@
 # GCPRO project context
 
+**2026-10-28 Lombard:** Published2856 with six Before/After WebP images and evidence-based sewer-backup repairs. Automatic city selection shows two cases;22 new DASH cases total, ten-location target unfinished. [Checkpoint](docs/projects/dash-case-workflow.md#second-lombard-case--2026-10-28).
+
+
 **2026-10-28 Carol Stream mold:** Published2847 with three Before/three cleaned-attic WebP images. City query automatically shows two cases;21 new DASH cases total, ten-location target unfinished. Saved527 heading description still stale on frontend; documented separately. [Checkpoint](docs/projects/dash-case-workflow.md#carol-stream-attic-mold-removal-publication--2026-10-28).
 
 

@@ -164,3 +164,8 @@ Native528/LoopGridd426b2d queries Location37 and now renders four projects autom
 2026-10-28: Published2837 body5f03907e/Heading71/Buttons59 named527 and523; media2839–2844. Single2231/Gallery/Card unchanged. Automatic527 Location39 query shows two cases. Existing section-heading instance replaced within wrapper4592cb3d, new3c173548, for both scopes. No shared definition or query/layout code change.
 
 2026-10-28: Published2847 body74563a4e, Heading71 and named Button59 links543/516; six attached WebP2849–2854. Existing543 Location28 query automatically shows two cases. Shared Single2231/Gallery/Card unchanged.527 heading3c173548 saved new description verified in MCP, frontend remains older after SG toolbar purge/reload; native render-cache follow-up pending, no new code.
+
+
+### Lombard2856 publication — 2026-10-28
+
+Native body/Heading71/Buttons59; Single2231, attachment Gallery89b76dd3 and Card2233 unchanged. Location32 automatically includes2856 alongside2624. Six chronological WebP images and saved SEO/taxonomy; actual desktop H1/gallery/links/noindex/overflow verified. No layout/code/dependency changes. [Evidence](../projects/dash-case-workflow.md#second-lombard-case--2026-10-28).

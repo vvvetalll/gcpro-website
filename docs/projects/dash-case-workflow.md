@@ -265,3 +265,14 @@ Shared Single2231/Gallery89b76dd3/Card2233 unchanged. Native body74563a4e/Headin
 Delivery caveat found during the preceding city-heading update:527 Heading71 instance3c173548 has the new description in saved MCP readback, but frontend still shows the earlier description after toolbar SG purge/reload. Automatic case membership is current and correct. Do not claim the new heading text is frontend-verified; native Elementor/render-cache follow-up remains. No security weakening or code workaround introduced. Carol Stream existing introductory description still mentions its valid dishwasher case; no additional heading change attempted during case-production priority.
 
 **Actual total:21 new DASH cases.** Naperville4, Highland Park4, Northbrook3, Downers Grove2, Schaumburg2, Carol Stream2, Elmhurst/Glenview/Lombard/Oak Brook1 each. All ten cities/minimum4 target remains unfinished. Continue evidence-first, varied cases; no duplicate departmental cases or quota fillers.
+
+
+## Second Lombard case — 2026-10-28
+
+Published [Project2856](https://vitaliiv1.sg-host.com/portfolio/lombard-main-floor-basement-restored-sewer-backup/). Verified actual Lombard Loss location and all120 journal entries. Sewer backup affected two levels; completed drywall, wood flooring, basement vinyl planks/stairs, ceiling tiles, painting, powder-room tile/vanity and kitchen cabinet/countertop reset/replacement documented. Cabinet delay distinguished from final August completion and signed COS. Actual GP/cost/invoiced fields reviewed privately; no financial or customer information published.
+
+Six WebP attachments2858–2863 (17–123KB), two initial-condition views then four completed views. Original full-resolution privacy checks; crops exclude equipment, box, personal frames, shoes and drying clothes. Kitchen photograph with fan/uncertain cabinet-front condition excluded entirely. Original files preserved, metadata stripped, no upscaling. Some composition crops have limited source resolution. No new BEAF.
+
+Shared Single2231/Gallery89b76dd3/Card2233 retained. Native body2b02cfca, Heading71 and named Button59 links526/514/518. Metadata/taxonomy Water18+Reconstruction19/Residential23/Location32 saved and read back. Actual authenticated frontend verifies one H1, six gallery WebP links, truthful alt, correct service/city destinations, SEO/noindex and no1686px overflow. Lombard526 native Location32 query automatically shows2856 and2624. Individual mobile/lightbox and anonymous delivery not retested in this checkpoint.
+
+**Actual total:22 new DASH cases.** Naperville4, Highland Park4, Northbrook3, Downers Grove2, Schaumburg2, Carol Stream2, Lombard2, Elmhurst/Glenview/Oak Brook1 each. Minimum4 per ten cities remains unfinished. The saved527 heading/frontend stale-text caveat remains unchanged.
