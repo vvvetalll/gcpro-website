@@ -162,3 +162,5 @@ Native528/LoopGridd426b2d queries Location37 and now renders four projects autom
 2026-10-28: Project2828 body e76c1e1, Heading71/three Button59 named bindings556/514/518; shared Single2231/Gallery/Card unchanged. Media2830–2835, two Before then four final. Actual Northbrook556 Location34 selection contains three cases; frontend H1/gallery/links/noindex/overflow checked.
 
 2026-10-28: Published2837 body5f03907e/Heading71/Buttons59 named527 and523; media2839–2844. Single2231/Gallery/Card unchanged. Automatic527 Location39 query shows two cases. Existing section-heading instance replaced within wrapper4592cb3d, new3c173548, for both scopes. No shared definition or query/layout code change.
+
+2026-10-28: Published2847 body74563a4e, Heading71 and named Button59 links543/516; six attached WebP2849–2854. Existing543 Location28 query automatically shows two cases. Shared Single2231/Gallery/Card unchanged.527 heading3c173548 saved new description verified in MCP, frontend remains older after SG toolbar purge/reload; native render-cache follow-up pending, no new code.

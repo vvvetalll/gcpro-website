@@ -252,3 +252,16 @@ Six inspected optimized WebP attachments2839–2844: two inspection views of bro
 Shared Single2231/Gallery89b76dd3/Card2233 preserved; body5f03907e, native Heading71 and Button59 links527/523. Actual frontend confirms correct H1/SEO, six gallery links, correct city/Residential Storm destinations, noindex and no1686px horizontal overflow. Downers Grove527 Location39 query automatically shows2837 with2718. Updated only its existing Heading71 description within wrapper4592cb3d, new instance3c173548, to include both scopes. No query/layout/code/dependency changes. Individual mobile/lightbox retest not performed; existing shared presentation reused.
 
 **Actual total:20 new DASH cases.** Naperville4, Highland Park4, Northbrook3, Downers Grove2, Schaumburg2; Carol Stream/Elmhurst/Glenview/Lombard/Oak Brook1 each. The ten-location/minimum4 task is still unfinished. Older photo-limited and repetitive candidates remain private reserves, not filler publications.
+
+
+## Carol Stream attic mold-removal publication — 2026-10-28
+
+Published [Project2847](https://vitaliiv1.sg-host.com/portfolio/carol-stream-attic-mold-removal-rafters-sheathing/). Actual Carol Stream/Residential/Mold source classification verified; all16 journal notes read. Actual HEPA vacuuming, wiping, mold-removal treatment, air scrubber/dehumidifier use and later equipment pickup/COS signature/completion recorded. COS image inspected privately but never uploaded. No invented moisture cause, testing/clearance, insulation replacement or reconstruction.
+
+Six individually full-resolution-inspected WebP attachments2849–2854 (43–116KB), three Before followed by three cleaned-surface views; cover2852. Composition crops exclude incidental chair, loose floor materials and cord while preserving actual wood condition. No people, addresses, client documents, bags/clothes or work-stage equipment published. Originals private, EXIF stripped, no upscaling. Same attic documented chronologically; exact pixel-matched same-rafter pairing not established, so no new BEAF.
+
+Shared Single2231/Gallery89b76dd3/Card2233 unchanged. Native body74563a4e/Heading71 and Button59 named543/516. Actual frontend verifies H1/SEO, six gallery WebP links, correct city/Residential Mold destinations, noindex and no1686px horizontal overflow. Carol Stream543 native Location28 selection automatically shows2847 and2572. Individual mobile/lightbox retest not performed; shared presentation unchanged.
+
+Delivery caveat found during the preceding city-heading update:527 Heading71 instance3c173548 has the new description in saved MCP readback, but frontend still shows the earlier description after toolbar SG purge/reload. Automatic case membership is current and correct. Do not claim the new heading text is frontend-verified; native Elementor/render-cache follow-up remains. No security weakening or code workaround introduced. Carol Stream existing introductory description still mentions its valid dishwasher case; no additional heading change attempted during case-production priority.
+
+**Actual total:21 new DASH cases.** Naperville4, Highland Park4, Northbrook3, Downers Grove2, Schaumburg2, Carol Stream2, Elmhurst/Glenview/Lombard/Oak Brook1 each. All ten cities/minimum4 target remains unfinished. Continue evidence-first, varied cases; no duplicate departmental cases or quota fillers.
