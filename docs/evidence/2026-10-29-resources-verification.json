@@ -1,0 +1,171 @@
+{
+  "checked_at": "2026-10-29",
+  "method": "Anonymous HTTP HTML and native REST readback; not a browser visual/keyboard test",
+  "articles": [
+    {
+      "id": 2047,
+      "url": "https://vitaliiv1.sg-host.com/how-board-up-services-save-chicago-businesses-after-a-disaster/",
+      "status": "publish",
+      "h1": [
+        "What Temporary Board-Up Can and Cannot Do"
+      ],
+      "title": [
+        "What Temporary Board-Up Can and Cannot Do | GCPRO"
+      ],
+      "canonical": [
+        "<link rel=\"canonical\" href=\"https://vitaliiv1.sg-host.com/how-board-up-services-save-chicago-businesses-after-a-disaster/\" />"
+      ],
+      "noindex": true,
+      "dates": [
+        "<time datetime=\"2025-01-20T18:18:44+00:00\">January 20, 2025</time>",
+        "<time datetime=\"2026-10-29T21:32:46+00:00\">October 29, 2026</time>"
+      ],
+      "native_date_pattern_refs": 1,
+      "schema_types": [
+        "BlogPosting",
+        "BreadcrumbList",
+        "Organization",
+        "Person",
+        "WebPage",
+        "WebSite"
+      ],
+      "schema_datePublished": [
+        "2025-01-20T18:18:44+00:00"
+      ],
+      "body_is_native": true,
+      "webp_featured": true,
+      "active_template": true
+    },
+    {
+      "id": 2056,
+      "url": "https://vitaliiv1.sg-host.com/water-damage-restoration-in-winnetka-expert-insights-from-gcpro/",
+      "status": "publish",
+      "h1": [
+        "Water Damage in Winnetka: Before You Repair"
+      ],
+      "title": [
+        "Water Damage in Winnetka: Before You Repair | GCPRO"
+      ],
+      "canonical": [
+        "<link rel=\"canonical\" href=\"https://vitaliiv1.sg-host.com/water-damage-restoration-in-winnetka-expert-insights-from-gcpro/\" />"
+      ],
+      "noindex": true,
+      "dates": [
+        "<time datetime=\"2024-02-12T02:16:54+00:00\">February 12, 2024</time>",
+        "<time datetime=\"2026-10-29T21:32:47+00:00\">October 29, 2026</time>"
+      ],
+      "native_date_pattern_refs": 1,
+      "schema_types": [
+        "BlogPosting",
+        "BreadcrumbList",
+        "Organization",
+        "Person",
+        "WebPage",
+        "WebSite"
+      ],
+      "schema_datePublished": [
+        "2024-02-12T02:16:54+00:00"
+      ],
+      "body_is_native": true,
+      "webp_featured": true,
+      "active_template": true
+    },
+    {
+      "id": 2057,
+      "url": "https://vitaliiv1.sg-host.com/mold-remediation-in-glenview-a-comprehensive-guide/",
+      "status": "publish",
+      "h1": [
+        "Mold Cleanup: Moisture, Materials and Repairs"
+      ],
+      "title": [
+        "Mold Cleanup: Moisture, Materials and Repairs | GCPRO"
+      ],
+      "canonical": [
+        "<link rel=\"canonical\" href=\"https://vitaliiv1.sg-host.com/mold-remediation-in-glenview-a-comprehensive-guide/\" />"
+      ],
+      "noindex": true,
+      "dates": [
+        "<time datetime=\"2024-02-06T15:30:15+00:00\">February 6, 2024</time>",
+        "<time datetime=\"2026-10-29T21:32:48+00:00\">October 29, 2026</time>"
+      ],
+      "native_date_pattern_refs": 1,
+      "schema_types": [
+        "BlogPosting",
+        "BreadcrumbList",
+        "Organization",
+        "Person",
+        "WebPage",
+        "WebSite"
+      ],
+      "schema_datePublished": [
+        "2024-02-06T15:30:15+00:00"
+      ],
+      "body_is_native": true,
+      "webp_featured": true,
+      "active_template": true
+    }
+  ],
+  "categories": [
+    {
+      "url": "https://vitaliiv1.sg-host.com/blog/",
+      "article_count": 3,
+      "archive124": true,
+      "draft_article_leak": false,
+      "noindex": true
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/category/water-damage/",
+      "article_count": 1,
+      "archive124": true,
+      "draft_article_leak": false,
+      "noindex": true
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/category/fire-smoke/",
+      "article_count": 1,
+      "archive124": true,
+      "draft_article_leak": false,
+      "noindex": true
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/category/mold/",
+      "article_count": 1,
+      "archive124": true,
+      "draft_article_leak": false,
+      "noindex": true
+    }
+  ],
+  "pagination": {
+    "first_count": 2,
+    "second_count": 1,
+    "next_url": "https://vitaliiv1.sg-host.com/blog/?resources_pagination_test=2&e-page-a6bffe2=2",
+    "first": [
+      "Understand the damage. Plan the next step.",
+      "What Temporary Board-Up Can and Cannot Do",
+      "Water Damage in Winnetka: Before You Repair",
+      "Contact",
+      "Services",
+      "Service Areas",
+      "Credentials &amp; Affiliations",
+      "Check service availability"
+    ],
+    "second": [
+      "Understand the damage. Plan the next step.",
+      "Mold Cleanup: Moisture, Materials and Repairs",
+      "Contact",
+      "Services",
+      "Service Areas",
+      "Credentials &amp; Affiliations",
+      "Check service availability"
+    ]
+  },
+  "remaining_legacy_drafts": 27,
+  "projects_archive_unchanged_2232": true,
+  "limitations": [
+    "Browser target/focus could not be controlled reliably through current Windows tool; no completed desktop/mobile screenshot, actual overflow or keyboard/hover certification.",
+    "Full query-to-page joins for selected articles and historical GA4/conversion attribution unavailable.",
+    "Existing AIOSEO Article author resolves to the existing WordPress administrative author; editorial author attribution needs launch review.",
+    "Backlink source/quality for ceiling article2064 not verified.",
+    "Related automatic article query deferred: current three articles cover distinct topics; contextual service/project links supplied."
+  ]
+}

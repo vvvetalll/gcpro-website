@@ -117,3 +117,6 @@ Saved Header113/Footer114 trees are byte-equivalent to the pre-audit baseline. H
 ## Apply navigation — 2026-10-29
 
 Native menu5 item3123 points to published Apply486 under About243. Existing header/footer design and other destinations preserved. [Current checkpoint](../ANALYTICS.md).
+# Resources navigation — 2026-10-29
+
+Native Primary Menu5 item3153 Resources now targets existing Page2043 “Restoration Resources”, child of About243; no other item reordered. Footer114 has native Content-bound Resources link66b2f15a in the existing wrapping navigation group6a188526, with existing text-link styling and white native hover/focus on navy. Existing telephone, service, legal, directions, logo and social destinations preserved. Readback/anonymous HTML verified; browser keyboard/mobile review remains pending. [Resources implementation](resources.md).
