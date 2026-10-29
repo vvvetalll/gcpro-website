@@ -1,5 +1,7 @@
 # GCPRO changelog
 
+**2026-10-29 popup button:** Reused existing native button-outline-orange on Check Availability; removed conflicting local neutral states. Standard16px typography and responsive48px controls preserved. Frontend computed colors and60026 successful response checked.
+
 **2026-10-29 latest coverage approval:** Owner approved all115 existing ZIP records. All are now served, alongside14 unchanged approved cities.60026/60148 and ZIP+4 checked; unlisted ZIPs remain unresolved. No code/layout changes or new areas added. [Decision and checks](docs/components/service-availability-popup.md#owner-approval-of-all-existing-zips--2026-10-29).
 
 **2026-10-29 completed:** Published Component80 mid-page CTA on10 completed geo pages. Fixed Water514 availability override and checked all21 consumers. Installed documented GCPRO Coverage1.2.1 bridge/admin; enabled14 individually owner-approved cities, keeping115 ZIPs unapproved. Popup refined with standard button typography and one bright conversion.33/33 synthetic tests plus focused guest/desktop/mobile checks passed. See existing popup, CTA and geo records.
