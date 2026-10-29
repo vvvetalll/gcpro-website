@@ -1,6 +1,6 @@
 # GCPRO Service Coverage
 
-Staging adaptation, version1.2.1. See [configuration and verified results](../../docs/components/service-availability-popup.md#staging-coverage-bridge-and-owner-approved-cities--2026-10-29).
+Staging adaptation, version1.2.2. See [configuration and verified results](../../docs/components/service-availability-popup.md#staging-coverage-bridge-and-owner-approved-cities--2026-10-29).
 
 Package this directory as `gcpro-service-coverage/` in a ZIP; install/update using native WordPress plugin upload. No credentials or environment-specific secrets are required. Fresh activation seeds unapproved records only; updates preserve the existing option. Runtime edits belong in the native management screen, not the seed or repository snapshot.
 

@@ -109,3 +109,7 @@ Owner rejected the full size rollback as too small. Final intermediate widths: I
 Final owner follow-up restores individual thin white22% frames:6px radius/padding,54px minimum height, existing tooltip hooks preserved. Intermediate image sizes retained. Native lower-group styles replaced to remove a conflicting zero-width border declaration introduced during the first divider attempt.
 
 Verified live after native Elementor Tools → Clear Files & Data (success state) and staging SG cache purge: five intermediate logo widths30/30/24/70/56px, visible1px logo frames and lower-group top divider; no horizontal overflow. Earlier publish-only checks still served stale compiled CSS. No new code added.
+
+## Focused guest audit — 2026-10-29
+
+Saved Header113/Footer114 trees are byte-equivalent to the pre-audit baseline. Homepage/Commercial inner-page Footer service, city/directory/legal, telephone/mail and Directions hrefs inspected. Footer keyboard focus has visible orange outline; desktop/mobile inner-page overflow checks passed. No call placed. This pass does not certify physical touch, every dropdown keyboard path or external credential membership; uncertain credentials remain unchanged. Request492 empty submission remained on page and focused required Name; no successful submission or email-receipt claim.

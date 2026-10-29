@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "environment": "staging",
   "status": "Facets 1-5 connected to Archive2232 / Loop c61e6a3; result counter6 prepared but not connected",
   "versions": {
@@ -9,12 +9,12 @@
   "facets": [
     {
       "id": "1",
-      "name": "GCPRO Projects — Service",
+      "name": "GCPRO Projects \u2014 Service",
       "slug": "gcpro_projects_service",
       "type": "select",
       "source": "taxonomy/project_service",
       "settings": {
-        "name": "GCPRO Projects — Service",
+        "name": "GCPRO Projects \u2014 Service",
         "title": "Service",
         "slug": "gcpro_projects_service",
         "action": "filter",
@@ -27,7 +27,7 @@
         "parent": "",
         "hierarchical": false,
         "children": true,
-        "show_empty": false,
+        "show_empty": true,
         "show_count": false,
         "current_terms": false,
         "logic": "AND",
@@ -62,7 +62,7 @@
         "parent": "",
         "hierarchical": false,
         "children": true,
-        "show_empty": false,
+        "show_empty": true,
         "show_count": false,
         "current_terms": false,
         "logic": "AND",
@@ -97,7 +97,7 @@
         "parent": "",
         "hierarchical": false,
         "children": true,
-        "show_empty": false,
+        "show_empty": true,
         "show_count": false,
         "current_terms": false,
         "logic": "AND",

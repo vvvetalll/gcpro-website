@@ -27,7 +27,15 @@
   }
   document.addEventListener('click',event=>{
     const a=event.target.closest('a');
-    if(a && a.textContent.trim().toLowerCase()==='check service availability') {trigger=a;position={x:scrollX,y:scrollY};}
+    if(!a) return;
+    // Native popup action identifies the trigger, independent of editable button copy.
+    try {
+      const action=decodeURIComponent(a.hash || '');
+      const settings=action.match(/(?:[?&])settings=([^&]+)/);
+      if(action.includes('action=popup:open') && settings && Number(JSON.parse(atob(settings[1])).id)===1801) {
+        trigger=a;position={x:scrollX,y:scrollY};
+      }
+    } catch(_) { /* An unrelated or malformed link is not this popup's trigger. */ }
   },true);
   document.addEventListener('submit',async event=>{
     const root=event.target.closest('.elementor-popup-modal')?.querySelector('[data-elementor-id="1801"]');

@@ -1,5 +1,7 @@
 # GCPRO changelog
 
+**2026-10-29 focused staging audit completed:** Coverage1.2.2 fixes alternate-trigger close-scroll; removed dormant HTML matcher/list. Native WPGB empty-state fixes preserve selected values and show one message. Verified52 unique Published catalogue cases, AND/reset/Load More, ten local queries, popup keyboard/mobile and representative gallery/lightbox. Service Card62 headings20/18px gray; hub contents copy excludes unconfirmed storage; Card2233 title ordinary Inter400. URL/status/noindex/Header/Footer/BEAF preserved. Remaining: optional future short-title fallback/location metadata, physical-device/screen-reader/full Header keyboard paths and mailbox receipt unverified. No next-phase analytics implementation is included in this audit commit.
+
 **2026-10-29 popup button:** Reused existing native button-outline-orange on Check Availability; removed conflicting local neutral states. Standard16px typography and responsive48px controls preserved. Frontend computed colors and60026 successful response checked.
 
 **2026-10-29 latest coverage approval:** Owner approved all115 existing ZIP records. All are now served, alongside14 unchanged approved cities.60026/60148 and ZIP+4 checked; unlisted ZIPs remain unresolved. No code/layout changes or new areas added. [Decision and checks](docs/components/service-availability-popup.md#owner-approval-of-all-existing-zips--2026-10-29).

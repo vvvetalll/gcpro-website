@@ -1,5 +1,7 @@
 # Custom code and dependency register
 
+**2026-10-29 focused audit:** Coverage1.2.2 is the single ZIP matching/result/focus owner. Removed dormant matching JS/data from Popup1801 HTML7a5e1801; static fallback only. Trigger recognition now uses native popup-action ID rather than link text, fixing verified close-scroll jump. Retained justified existing centralized Header styles, credential tooltips1881, emergency bar903, video847, process590 and vendor BEAF/Trustindex/WPGB runtimes; no new parallel code or dependency. Generated native Elementor inline styles are not treated as accidental custom code. See popup/project component audit records.
+
 **2026-10-26 — dropdown actions:** Owner-approved semantic class on four existing menu items; two rules appended to existing Header113/Nav Menu7983af36 Custom CSS. Orange border/spacing and hover/focus only, same desktop/mobile links; no new widget/script/enqueue. [Owner and rollback](components/header-menu-refinement.md#2026-10-26--selective-dropdown-actions). Projects itself uses native templates, Tabs/Collection Loop and Gallery; no additional custom code.
 
 **2026-10-26 — shared Hero Trustindex:** Owner-authorized addition to existing Atomic plugin0.4.3, native `gcpro-trustindex` ID/show-hide controls, official Trustindex loader only. Shared1318/1453 each own one badge below buttons; no custom CSS/JS or additional plugin. [Controls, checks, dependency and rollback](components/hero-trustindex.md).

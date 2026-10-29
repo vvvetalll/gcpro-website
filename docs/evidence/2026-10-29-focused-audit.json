@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-29",
+  "environment": "staging",
+  "guest_http": {
+    "pages": 68,
+    "status_200": 68,
+    "noindex": 68
+  },
+  "catalogue": {
+    "published_exact_unique": 52,
+    "draft_excluded": 3,
+    "water_exact_unique": 22,
+    "fire": 4,
+    "fire_lombard_residential": 1,
+    "commercial": 7,
+    "empty_fire_commercial": 0,
+    "empty_messages": 1,
+    "selected_empty_values_retained": true,
+    "initial": 8,
+    "append": 6
+  },
+  "geos": [
+    {
+      "id": 526,
+      "url": "https://vitaliiv1.sg-host.com/service-area/lombard/",
+      "expected": 4,
+      "actual": 4,
+      "membership_pass": true,
+      "cta_count": 2,
+      "cta_ids": [
+        "2db720ba",
+        "25934c18"
+      ]
+    },
+    {
+      "id": 527,
+      "url": "https://vitaliiv1.sg-host.com/service-area/downers-grove/",
+      "expected": 4,
+      "actual": 4,
+      "membership_pass": true,
+      "cta_count": 2,
+      "cta_ids": [
+        "4ed34b8c",
+        "4358085d"
+      ]
+    },
+    {
+      "id": 528,
+      "url": "https://vitaliiv1.sg-host.com/service-area/highland-park/",
+      "expected": 4,
+      "actual": 4,
+      "membership_pass": true,
+      "cta_count": 2,
+      "cta_ids": [
+        "56de8388",
+        "629e0319"
+      ]
+    },
+    {
+      "id": 530,
+      "url": "https://vitaliiv1.sg-host.com/service-area/elmhurst/",
+      "expected": 4,
+      "actual": 4,
+      "membership_pass": true,
+      "cta_count": 2,
+      "cta_ids": [
+        "44f8056d",
+        "1f5bf4be"
+      ]
+    },
+    {
+      "id": 532,
+      "url": "https://vitaliiv1.sg-host.com/service-area/naperville/",
+      "expected": 4,
+      "actual": 4,
+      "membership_pass": true,
+      "cta_count": 2,
+      "cta_ids": [
+        "797cdaca",
+        "18557847"
+      ]
+    },
+    {
+      "id": 533,
+      "url": "https://vitaliiv1.sg-host.com/service-area/glenview/",
+      "expected": 4,
+      "actual": 4,
+      "membership_pass": true,
+      "cta_count": 2,
+      "cta_ids": [
+        "762ace7",
+        "7513dd32"
+      ]
+    },
+    {
+      "id": 536,
+      "url": "https://vitaliiv1.sg-host.com/service-area/oak-brook/",
+      "expected": 3,
+      "actual": 3,
+      "membership_pass": true,
+      "cta_count": 2,
+      "cta_ids": [
+        "31d2d016",
+        "cd00425"
+      ]
+    },
+    {
+      "id": 543,
+      "url": "https://vitaliiv1.sg-host.com/service-area/carol-stream/",
+      "expected": 4,
+      "actual": 4,
+      "membership_pass": true,
+      "cta_count": 2,
+      "cta_ids": [
+        "2fd16e08",
+        "3c34bca7"
+      ]
+    },
+    {
+      "id": 556,
+      "url": "https://vitaliiv1.sg-host.com/service-area/northbrook/",
+      "expected": 4,
+      "actual": 4,
+      "membership_pass": true,
+      "cta_count": 2,
+      "cta_ids": [
+        "28491194",
+        "6a45079b"
+      ]
+    },
+    {
+      "id": 558,
+      "url": "https://vitaliiv1.sg-host.com/service-area/schaumburg/",
+      "expected": 4,
+      "actual": 4,
+      "membership_pass": true,
+      "cta_count": 2,
+      "cta_ids": [
+        "4d33796",
+        "6d5efc9a"
+      ]
+    }
+  ],
+  "limitations": [
+    "Physical device and screen reader not tested",
+    "Mail receipt not tested",
+    "Full Header dropdown keyboard matrix not completed",
+    "Future empty catalogue title fallback and location metadata remain incomplete"
+  ]
+}

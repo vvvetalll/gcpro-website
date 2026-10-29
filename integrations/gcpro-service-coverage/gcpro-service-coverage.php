@@ -2,7 +2,7 @@
 /**
  * Plugin Name: GCPRO Service Coverage
  * Description: Reviewed city/ZIP register and lookup for the existing Elementor availability popup.
- * Version: 1.2.1
+ * Version: 1.2.2
  * Requires PHP: 7.4
  * License: GPL-2.0-or-later
  */
@@ -13,7 +13,7 @@ require_once __DIR__.'/engine.php';
 final class Plugin {
     const OPTION = 'gcpro_service_coverage_v1';
     const PAGE = 'gcpro-service-coverage';
-    const VERSION = '1.2.1';
+    const VERSION = '1.2.2';
     const COLUMNS = ['kind','value','cities','state','status','aliases','ambiguous','partial','geo_page_id','source','source_date','note'];
     public static function init() {
         add_action('admin_menu', [__CLASS__, 'menu']);
