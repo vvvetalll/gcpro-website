@@ -1,6 +1,6 @@
 {
   "approved": false,
-  "source": "Sanitized decision snapshot2026-10-29; runtime authority: WordPress option gcpro_service_coverage_v1. City approvals do not approve ZIPs or county/region boundaries.",
+  "source": "Sanitized decision snapshot2026-10-29. Owner approved14 cities and every115 ZIP already in register. County/region contexts remain proposals; unknown ZIPs remain unresolved. Runtime authority: WordPress option gcpro_service_coverage_v1.",
   "provisionalMessage": "GCPRO serves Chicagoland. Call to confirm your address.",
   "allowedStatuses": [
     "confirmed",
@@ -493,13 +493,14 @@
       "location": "60004",
       "zip_code": "60004",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -554,7 +555,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Arlington Heights"
       ],
@@ -583,13 +584,14 @@
       "location": "60005",
       "zip_code": "60005",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -632,7 +634,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Arlington Heights"
       ],
@@ -653,13 +655,14 @@
       "location": "60007",
       "zip_code": "60007",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -727,7 +730,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Arlington Heights",
         "Chicago",
@@ -783,13 +786,14 @@
       "location": "60008",
       "zip_code": "60008",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -832,7 +836,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Schaumburg"
       ],
@@ -853,13 +857,14 @@
       "location": "60015",
       "zip_code": "60015",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -932,7 +937,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Highland Park",
         "Northbrook"
@@ -978,13 +983,14 @@
       "location": "60016",
       "zip_code": "60016",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -1033,7 +1039,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Glenview"
       ],
@@ -1070,13 +1076,14 @@
       "location": "60018",
       "zip_code": "60018",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -1132,7 +1139,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago",
         "Elk Grove Village"
@@ -1170,13 +1177,14 @@
       "location": "60022",
       "zip_code": "60022",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -1213,7 +1221,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Northbrook"
       ],
@@ -1242,13 +1250,14 @@
       "location": "60025",
       "zip_code": "60025",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -1291,7 +1300,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Glenview"
       ],
@@ -1320,13 +1329,14 @@
       "location": "60026",
       "zip_code": "60026",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -1355,7 +1365,7 @@
         "includes_land_outside_incorporated_or_CDP_places"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Glenview"
       ],
@@ -1376,13 +1386,14 @@
       "location": "60035",
       "zip_code": "60035",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -1425,7 +1436,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Highland Park"
       ],
@@ -1454,13 +1465,14 @@
       "location": "60040",
       "zip_code": "60040",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -1503,7 +1515,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Highland Park"
       ],
@@ -1532,13 +1544,14 @@
       "location": "60056",
       "zip_code": "60056",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -1587,7 +1600,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Arlington Heights"
       ],
@@ -1616,13 +1629,14 @@
       "location": "60062",
       "zip_code": "60062",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -1677,7 +1691,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Glenview",
         "Northbrook"
@@ -1715,13 +1729,14 @@
       "location": "60067",
       "zip_code": "60067",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -1776,7 +1791,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Schaumburg"
       ],
@@ -1797,13 +1812,14 @@
       "location": "60070",
       "zip_code": "60070",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -1845,7 +1861,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Arlington Heights"
       ],
@@ -1866,13 +1882,14 @@
       "location": "60074",
       "zip_code": "60074",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -1933,7 +1950,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Arlington Heights"
       ],
@@ -1954,13 +1971,14 @@
       "location": "60090",
       "zip_code": "60090",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -2015,7 +2033,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Arlington Heights"
       ],
@@ -2044,13 +2062,14 @@
       "location": "60093",
       "zip_code": "60093",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -2105,7 +2124,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Glenview"
       ],
@@ -2150,13 +2169,14 @@
       "location": "60103",
       "zip_code": "60103",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -2216,7 +2236,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Carol Stream"
       ],
@@ -2245,13 +2265,14 @@
       "location": "60106",
       "zip_code": "60106",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -2301,7 +2322,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -2338,13 +2359,14 @@
       "location": "60108",
       "zip_code": "60108",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -2393,7 +2415,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Carol Stream"
       ],
@@ -2422,13 +2444,14 @@
       "location": "60126",
       "zip_code": "60126",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -2495,7 +2518,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Elmhurst",
         "Oak Brook"
@@ -2541,13 +2564,14 @@
       "location": "60131",
       "zip_code": "60131",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -2603,7 +2627,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -2632,13 +2656,14 @@
       "location": "60133",
       "zip_code": "60133",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -2711,7 +2736,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Carol Stream",
         "Schaumburg"
@@ -2749,13 +2774,14 @@
       "location": "60137",
       "zip_code": "60137",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -2810,7 +2836,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Downers Grove",
         "Lombard"
@@ -2848,13 +2874,14 @@
       "location": "60139",
       "zip_code": "60139",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -2897,7 +2924,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Carol Stream"
       ],
@@ -2918,13 +2945,14 @@
       "location": "60148",
       "zip_code": "60148",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -2997,7 +3025,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Downers Grove",
         "Lombard",
@@ -3060,13 +3088,14 @@
       "location": "60169",
       "zip_code": "60169",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -3103,7 +3132,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Schaumburg"
       ],
@@ -3124,13 +3153,14 @@
       "location": "60172",
       "zip_code": "60172",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -3197,7 +3227,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Elk Grove Village",
         "Schaumburg"
@@ -3227,13 +3257,14 @@
       "location": "60173",
       "zip_code": "60173",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -3282,7 +3313,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Schaumburg"
       ],
@@ -3303,13 +3334,14 @@
       "location": "60176",
       "zip_code": "60176",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -3347,7 +3379,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -3368,13 +3400,14 @@
       "location": "60181",
       "zip_code": "60181",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -3423,7 +3456,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Oak Brook"
       ],
@@ -3460,13 +3493,14 @@
       "location": "60185",
       "zip_code": "60185",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -3545,7 +3579,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Carol Stream"
       ],
@@ -3582,13 +3616,14 @@
       "location": "60188",
       "zip_code": "60188",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -3637,7 +3672,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Carol Stream"
       ],
@@ -3658,13 +3693,14 @@
       "location": "60193",
       "zip_code": "60193",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -3701,7 +3737,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Schaumburg"
       ],
@@ -3722,13 +3758,14 @@
       "location": "60194",
       "zip_code": "60194",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -3764,7 +3801,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Schaumburg"
       ],
@@ -3785,13 +3822,14 @@
       "location": "60195",
       "zip_code": "60195",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -3828,7 +3866,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Schaumburg"
       ],
@@ -3849,13 +3887,14 @@
       "location": "60201",
       "zip_code": "60201",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
       "recommended_status": "served",
-      "approval_status": "proposed_only",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -3883,7 +3922,7 @@
       "current_USPS_delivery_mapping_verified": false,
       "boundary_flags": [],
       "ambiguous": false,
-      "recommendation_reason": "Propose whole-ZIP service for owner review: entirely Evanston in2020 geographic data, association corroborated by city source; no GCPRO operational approval. Current USPS boundary verification remains pending.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Evanston"
       ],
@@ -3904,13 +3943,14 @@
       "location": "60202",
       "zip_code": "60202",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
       "recommended_status": "served",
-      "approval_status": "proposed_only",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -3938,7 +3978,7 @@
       "current_USPS_delivery_mapping_verified": false,
       "boundary_flags": [],
       "ambiguous": false,
-      "recommendation_reason": "Propose whole-ZIP service for owner review: entirely Evanston in2020 geographic data, association corroborated by city source; no GCPRO operational approval. Current USPS boundary verification remains pending.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Evanston"
       ],
@@ -3959,13 +3999,14 @@
       "location": "60208",
       "zip_code": "60208",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -3995,7 +4036,7 @@
         "institutional_nonresidential_zip"
       ],
       "ambiguous": true,
-      "recommendation_reason": "University non-residential postal use; confirm property/address and scope rather than infer eligibility from Evanston association.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Evanston"
       ],
@@ -4016,13 +4057,14 @@
       "location": "60440",
       "zip_code": "60440",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -4071,7 +4113,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Naperville"
       ],
@@ -4100,13 +4142,14 @@
       "location": "60504",
       "zip_code": "60504",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -4155,7 +4198,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Naperville"
       ],
@@ -4184,13 +4227,14 @@
       "location": "60515",
       "zip_code": "60515",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -4233,7 +4277,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Downers Grove"
       ],
@@ -4254,13 +4298,14 @@
       "location": "60516",
       "zip_code": "60516",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -4309,7 +4354,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Downers Grove"
       ],
@@ -4330,13 +4375,14 @@
       "location": "60517",
       "zip_code": "60517",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -4397,7 +4443,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Downers Grove"
       ],
@@ -4426,13 +4472,14 @@
       "location": "60521",
       "zip_code": "60521",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -4481,7 +4528,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Oak Brook"
       ],
@@ -4510,13 +4557,14 @@
       "location": "60523",
       "zip_code": "60523",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -4583,7 +4631,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Downers Grove",
         "Elmhurst",
@@ -4631,13 +4679,14 @@
       "location": "60532",
       "zip_code": "60532",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -4686,7 +4735,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Downers Grove",
         "Naperville"
@@ -4716,13 +4765,14 @@
       "location": "60540",
       "zip_code": "60540",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -4765,7 +4815,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Naperville"
       ],
@@ -4786,13 +4836,14 @@
       "location": "60555",
       "zip_code": "60555",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -4835,7 +4886,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Naperville"
       ],
@@ -4864,13 +4915,14 @@
       "location": "60561",
       "zip_code": "60561",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -4919,7 +4971,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Downers Grove"
       ],
@@ -4940,13 +4992,14 @@
       "location": "60563",
       "zip_code": "60563",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -5001,7 +5054,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Naperville"
       ],
@@ -5030,13 +5083,14 @@
       "location": "60564",
       "zip_code": "60564",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -5079,7 +5133,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Naperville"
       ],
@@ -5108,13 +5162,14 @@
       "location": "60565",
       "zip_code": "60565",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -5163,7 +5218,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Naperville"
       ],
@@ -5192,13 +5247,14 @@
       "location": "60585",
       "zip_code": "60585",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -5254,7 +5310,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Naperville"
       ],
@@ -5291,13 +5347,14 @@
       "location": "60601",
       "zip_code": "60601",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -5326,7 +5383,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -5347,13 +5404,14 @@
       "location": "60602",
       "zip_code": "60602",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -5382,7 +5440,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -5403,13 +5461,14 @@
       "location": "60603",
       "zip_code": "60603",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -5438,7 +5497,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -5459,13 +5518,14 @@
       "location": "60604",
       "zip_code": "60604",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -5494,7 +5554,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -5515,13 +5575,14 @@
       "location": "60605",
       "zip_code": "60605",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -5550,7 +5611,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -5571,13 +5632,14 @@
       "location": "60606",
       "zip_code": "60606",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -5606,7 +5668,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -5627,13 +5689,14 @@
       "location": "60607",
       "zip_code": "60607",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -5662,7 +5725,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -5683,13 +5746,14 @@
       "location": "60608",
       "zip_code": "60608",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -5718,7 +5782,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -5739,13 +5803,14 @@
       "location": "60609",
       "zip_code": "60609",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -5774,7 +5839,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -5795,13 +5860,14 @@
       "location": "60610",
       "zip_code": "60610",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -5830,7 +5896,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -5851,13 +5917,14 @@
       "location": "60611",
       "zip_code": "60611",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -5886,7 +5953,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -5907,13 +5974,14 @@
       "location": "60612",
       "zip_code": "60612",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -5942,7 +6010,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -5963,13 +6031,14 @@
       "location": "60613",
       "zip_code": "60613",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -5998,7 +6067,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -6019,13 +6088,14 @@
       "location": "60614",
       "zip_code": "60614",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -6054,7 +6124,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -6075,13 +6145,14 @@
       "location": "60615",
       "zip_code": "60615",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -6110,7 +6181,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -6131,13 +6202,14 @@
       "location": "60616",
       "zip_code": "60616",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -6166,7 +6238,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -6187,13 +6259,14 @@
       "location": "60617",
       "zip_code": "60617",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -6222,7 +6295,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -6243,13 +6316,14 @@
       "location": "60618",
       "zip_code": "60618",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -6278,7 +6352,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -6299,13 +6373,14 @@
       "location": "60619",
       "zip_code": "60619",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -6334,7 +6409,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -6355,13 +6430,14 @@
       "location": "60620",
       "zip_code": "60620",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -6391,7 +6467,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -6412,13 +6488,14 @@
       "location": "60621",
       "zip_code": "60621",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -6447,7 +6524,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -6468,13 +6545,14 @@
       "location": "60622",
       "zip_code": "60622",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -6503,7 +6581,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -6524,13 +6602,14 @@
       "location": "60623",
       "zip_code": "60623",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -6559,7 +6638,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -6580,13 +6659,14 @@
       "location": "60624",
       "zip_code": "60624",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -6615,7 +6695,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -6636,13 +6716,14 @@
       "location": "60625",
       "zip_code": "60625",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -6671,7 +6752,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -6692,13 +6773,14 @@
       "location": "60626",
       "zip_code": "60626",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -6727,7 +6809,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -6748,13 +6830,14 @@
       "location": "60628",
       "zip_code": "60628",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -6783,7 +6866,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -6804,13 +6887,14 @@
       "location": "60629",
       "zip_code": "60629",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -6847,7 +6931,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -6868,13 +6952,14 @@
       "location": "60630",
       "zip_code": "60630",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -6903,7 +6988,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -6924,13 +7009,14 @@
       "location": "60631",
       "zip_code": "60631",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -6960,7 +7046,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -6981,13 +7067,14 @@
       "location": "60632",
       "zip_code": "60632",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -7016,7 +7103,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -7037,13 +7124,14 @@
       "location": "60633",
       "zip_code": "60633",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -7080,7 +7168,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -7101,13 +7189,14 @@
       "location": "60634",
       "zip_code": "60634",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -7150,7 +7239,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -7171,13 +7260,14 @@
       "location": "60636",
       "zip_code": "60636",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -7206,7 +7296,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -7227,13 +7317,14 @@
       "location": "60637",
       "zip_code": "60637",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -7262,7 +7353,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -7283,13 +7374,14 @@
       "location": "60638",
       "zip_code": "60638",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -7345,7 +7437,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -7382,13 +7474,14 @@
       "location": "60639",
       "zip_code": "60639",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -7417,7 +7510,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -7438,13 +7531,14 @@
       "location": "60640",
       "zip_code": "60640",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -7473,7 +7567,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -7494,13 +7588,14 @@
       "location": "60641",
       "zip_code": "60641",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -7529,7 +7624,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -7550,13 +7645,14 @@
       "location": "60642",
       "zip_code": "60642",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -7585,7 +7681,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -7606,13 +7702,14 @@
       "location": "60643",
       "zip_code": "60643",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -7641,7 +7738,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -7662,13 +7759,14 @@
       "location": "60644",
       "zip_code": "60644",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -7697,7 +7795,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -7718,13 +7816,14 @@
       "location": "60645",
       "zip_code": "60645",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -7753,7 +7852,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -7774,13 +7873,14 @@
       "location": "60646",
       "zip_code": "60646",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -7817,7 +7917,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -7846,13 +7946,14 @@
       "location": "60647",
       "zip_code": "60647",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -7881,7 +7982,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -7902,13 +8003,14 @@
       "location": "60649",
       "zip_code": "60649",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -7937,7 +8039,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -7958,13 +8060,14 @@
       "location": "60651",
       "zip_code": "60651",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -7993,7 +8096,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -8014,13 +8117,14 @@
       "location": "60652",
       "zip_code": "60652",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -8049,7 +8153,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -8070,13 +8174,14 @@
       "location": "60653",
       "zip_code": "60653",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -8105,7 +8210,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -8126,13 +8231,14 @@
       "location": "60654",
       "zip_code": "60654",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -8161,7 +8267,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -8182,13 +8288,14 @@
       "location": "60655",
       "zip_code": "60655",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -8218,7 +8325,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -8239,13 +8346,14 @@
       "location": "60656",
       "zip_code": "60656",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -8275,7 +8383,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -8296,13 +8404,14 @@
       "location": "60657",
       "zip_code": "60657",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -8331,7 +8440,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -8352,13 +8461,14 @@
       "location": "60659",
       "zip_code": "60659",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -8387,7 +8497,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -8408,13 +8518,14 @@
       "location": "60660",
       "zip_code": "60660",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -8443,7 +8554,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -8464,13 +8575,14 @@
       "location": "60661",
       "zip_code": "60661",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -8499,7 +8611,7 @@
         "Chicago_subarea_scope_not_approved"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -8520,13 +8632,14 @@
       "location": "60707",
       "zip_code": "60707",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -8563,7 +8676,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -8584,13 +8697,14 @@
       "location": "60804",
       "zip_code": "60804",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -8633,7 +8747,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -8654,13 +8768,14 @@
       "location": "60827",
       "zip_code": "60827",
       "state": "IL",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
-      "recommended_status": "requires_call",
-      "approval_status": "proposed_only",
+      "recommended_status": "served",
+      "approval_status": "owner_approved",
       "operational_approval": {
-        "status": "none_documented_for_entire_zip",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Owner explicitly instructed enabling all ZIPs in existing115-ZIP register,2026-10-29",
+        "whole_record_approved": true
       },
       "associated_cities": [
         {
@@ -8722,7 +8837,7 @@
         "includes_places_outside_named_review_cities"
       ],
       "ambiguous": true,
-      "recommendation_reason": "Keep call-required: no full-ZIP operational approval; review all mapped places/outside-place portions before authorizing an exact result.",
+      "recommendation_reason": "Entire ZIP approved by owner regardless of municipality overlaps. Geographic source/boundary flags retained for provenance; current USPS mapping is not asserted.",
       "review_cities": [
         "Chicago"
       ],
@@ -8812,5 +8927,6 @@
     }
   ],
   "runtime_authority": "WordPress option gcpro_service_coverage_v1",
-  "operational_city_matching_enabled": true
+  "operational_city_matching_enabled": true,
+  "approved_zip_count": 115
 }

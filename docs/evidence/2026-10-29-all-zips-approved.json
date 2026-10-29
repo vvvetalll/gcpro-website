@@ -1,0 +1,129 @@
+{
+  "date": "2026-10-29",
+  "scope": "Owner approved all115 existing registry ZIPs; no new ZIPs added",
+  "approved_cities": 14,
+  "approved_zips": 115,
+  "city_records_preserved": true,
+  "checks": [
+    {
+      "input": "60026",
+      "result": {
+        "status": "served",
+        "message": "We serve Glenview, IL.",
+        "actions": [
+          {
+            "label": "View services in Glenview",
+            "url": "https://vitaliiv1.sg-host.com/service-area/glenview/"
+          },
+          {
+            "label": "Request Service",
+            "url": "https://vitaliiv1.sg-host.com/service-request/"
+          }
+        ]
+      }
+    },
+    {
+      "input": "60148",
+      "result": {
+        "status": "served",
+        "message": "We serve this area.",
+        "actions": [
+          {
+            "label": "Request Service",
+            "url": "https://vitaliiv1.sg-host.com/service-request/"
+          }
+        ]
+      }
+    },
+    {
+      "input": "60026-1234",
+      "result": {
+        "status": "served",
+        "message": "We serve Glenview, IL.",
+        "actions": [
+          {
+            "label": "View services in Glenview",
+            "url": "https://vitaliiv1.sg-host.com/service-area/glenview/"
+          },
+          {
+            "label": "Request Service",
+            "url": "https://vitaliiv1.sg-host.com/service-request/"
+          }
+        ]
+      }
+    },
+    {
+      "input": " 60148 ",
+      "result": {
+        "status": "served",
+        "message": "We serve this area.",
+        "actions": [
+          {
+            "label": "Request Service",
+            "url": "https://vitaliiv1.sg-host.com/service-request/"
+          }
+        ]
+      }
+    },
+    {
+      "input": "Glenview",
+      "result": {
+        "status": "served",
+        "message": "We serve Glenview, IL.",
+        "actions": [
+          {
+            "label": "View services in Glenview",
+            "url": "https://vitaliiv1.sg-host.com/service-area/glenview/"
+          },
+          {
+            "label": "Request Service",
+            "url": "https://vitaliiv1.sg-host.com/service-request/"
+          }
+        ]
+      }
+    },
+    {
+      "input": "Lombard",
+      "result": {
+        "status": "served",
+        "message": "We serve Lombard, IL.",
+        "actions": [
+          {
+            "label": "View services in Lombard",
+            "url": "https://vitaliiv1.sg-host.com/service-area/lombard/"
+          },
+          {
+            "label": "Request Service",
+            "url": "https://vitaliiv1.sg-host.com/service-request/"
+          }
+        ]
+      }
+    },
+    {
+      "input": "99999",
+      "result": {
+        "status": "unresolved",
+        "message": "We couldn\u2019t confirm coverage for this location. Please call us.",
+        "actions": [
+          {
+            "label": "Call Now",
+            "url": "tel:+18476563322"
+          }
+        ]
+      }
+    },
+    {
+      "input": "00123",
+      "result": {
+        "status": "unresolved",
+        "message": "We couldn\u2019t confirm coverage for this location. Please call us.",
+        "actions": [
+          {
+            "label": "Call Now",
+            "url": "tel:+18476563322"
+          }
+        ]
+      }
+    }
+  ]
+}

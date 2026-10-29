@@ -24,3 +24,11 @@ The surrounding directory stacks responsively with Service Areas. Runtime inspec
 This is a verified misleading affordance and a pending product decision. The audit did not enable it, fabricate results or silently change the approved visual design. Before activation define service-area data/ownership, accessible ZIP input/validation, no-results/error states, supported native form/popup behavior, backend and privacy requirements, then test mobile/keyboard/anonymous flows.
 
 For safe reuse, copy the documented requirements, not the claim that this prototype is operational. Decide whether to disable/hide the affordance or implement the real flow in an explicitly scoped follow-up.
+
+## Owner approval of all existing ZIPs — 2026-10-29
+
+Supersedes the ZIP approval gate described above: after checking60026 and60148, the owner explicitly instructed enabling all ZIPs in the existing register. All115 existing ZIP rows are individually approved/served;14 city records are unchanged, total129 records. No new ZIPs, county rules, aliases or exclusions were added. Unknown/unlisted ZIPs still return unresolved, not rejection or blanket nationwide coverage.
+
+The exact-ZIP decision is now approved for the entire record, so operational ambiguous/partial flags are off. Original geographic intersections, associations and boundary flags remain in the sanitized snapshot; private runtime notes retain the owner decision and boundary context. Census2020 provenance is not represented as current USPS verification. Multi-city ZIPs receive the generic served message instead of claiming a single municipality.
+
+Readback verified all115 ZIP approvals and exact preservation of14 city rows. Actual lookup checks:60026,60148,60026-1234 and whitespace60148 return served; Glenview/Lombard still served;99999 and00123 remain unresolved. Only registry data changed, no plugin/popup code or layout changes. Browser verification was unavailable in this follow-up; actual server responses were verified. Sanitized evidence: `docs/evidence/2026-10-29-all-zips-approved.json`. The seed remains unapproved on a fresh installation and never replaces runtime records.

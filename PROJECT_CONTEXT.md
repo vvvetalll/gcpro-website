@@ -1,5 +1,7 @@
 # GCPRO project context
 
+**2026-10-29 latest coverage approval:** Owner approved all115 existing ZIP records. All are now served, alongside14 unchanged approved cities.60026/60148 and ZIP+4 checked; unlisted ZIPs remain unresolved. No code/layout changes or new areas added. [Decision and checks](docs/components/service-availability-popup.md#owner-approval-of-all-existing-zips--2026-10-29).
+
 **2026-10-29 current:** Coverage plugin1.2.1 active on staging;14 cities approved by owner and enabled,115 ZIP proposals remain unapproved. Native Popup1801/Form/1140 preserved; standard button typography, neutral check and one orange conversion. Ten completed geo pages now have existing Component80 mid-page CTA. [Current record](docs/components/service-availability-popup.md#staging-coverage-bridge-and-owner-approved-cities--2026-10-29).
 
 **2026-10-28 final-slot review:**39 new cases are Published, not40. Nine cities have four; Oak Brook three. Additional reserve images/unfinished and contractor-switch records rejected. One further verified, visually useful Oak Brook case remains; private references retained.

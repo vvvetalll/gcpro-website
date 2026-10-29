@@ -1,5 +1,7 @@
 # GCPRO changelog
 
+**2026-10-29 latest coverage approval:** Owner approved all115 existing ZIP records. All are now served, alongside14 unchanged approved cities.60026/60148 and ZIP+4 checked; unlisted ZIPs remain unresolved. No code/layout changes or new areas added. [Decision and checks](docs/components/service-availability-popup.md#owner-approval-of-all-existing-zips--2026-10-29).
+
 **2026-10-29 completed:** Published Component80 mid-page CTA on10 completed geo pages. Fixed Water514 availability override and checked all21 consumers. Installed documented GCPRO Coverage1.2.1 bridge/admin; enabled14 individually owner-approved cities, keeping115 ZIPs unapproved. Popup refined with standard button typography and one bright conversion.33/33 synthetic tests plus focused guest/desktop/mobile checks passed. See existing popup, CTA and geo records.
 
 **2026-10-29 Coverage proposal:**115 Census2020 ZCTA associations added to the existing register as unapproved proposals; automatic operational matching remains off. Current USPS/address-level verification remains a documented gap.
