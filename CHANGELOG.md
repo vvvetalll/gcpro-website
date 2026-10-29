@@ -1,5 +1,9 @@
 # GCPRO changelog
 
+**2026-10-29 completed:** Published Component80 mid-page CTA on10 completed geo pages. Fixed Water514 availability override and checked all21 consumers. Installed documented GCPRO Coverage1.2.1 bridge/admin; enabled14 individually owner-approved cities, keeping115 ZIPs unapproved. Popup refined with standard button typography and one bright conversion.33/33 synthetic tests plus focused guest/desktop/mobile checks passed. See existing popup, CTA and geo records.
+
+**2026-10-29 Coverage proposal:**115 Census2020 ZCTA associations added to the existing register as unapproved proposals; automatic operational matching remains off. Current USPS/address-level verification remains a documented gap.
+
 **2026-10-29 Footer logo rollback:** Owner requested previous compact credential dimensions; then adjusted five logo widths to an intermediate scale after owner review. Separated lower areas/credentials group with a subtle native divider. Remaining Footer refinement preserved.
 
 **2026-10-29 Compact Footer114:** Shortened headings, compact city group, frameless optical credential sizing, subtler dividers and one desktop legal row. Owner follow-up keeps24/7 plain and uses an address-aligned compact Directions outline button. Native controls; existing links/tooltips preserved. Focused desktop/mobile frontend checks recorded.

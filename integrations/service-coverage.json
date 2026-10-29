@@ -1,6 +1,6 @@
 {
   "approved": false,
-  "source": "Owner-provided provisional coverage scope, 2026-10-23. Exact boundaries and address exceptions remain pending review.",
+  "source": "Sanitized decision snapshot2026-10-29; runtime authority: WordPress option gcpro_service_coverage_v1. City approvals do not approve ZIPs or county/region boundaries.",
   "provisionalMessage": "GCPRO serves Chicagoland. Call to confirm your address.",
   "allowedStatuses": [
     "confirmed",
@@ -13,40 +13,40 @@
     {
       "kind": "city",
       "location": "Chicago",
-      "status": "requires_call",
+      "status": "confirmed",
       "verified": false,
       "zip_code": null,
       "state": "IL",
-      "recommended_status": "requires_call",
+      "recommended_status": "served",
       "operational_approval": {
-        "status": "provisional_scope_only",
-        "source": "Owner instruction2026-10-23",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Explicit owner approval of14 complete cities,2026-10-29",
+        "whole_record_approved": true
       },
       "geo_page_destinations": [
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
         }
       ],
-      "recommendation_reason": "No whole-city eligibility approved; city alone cannot resolve any future subarea exceptions."
+      "recommendation_reason": "Owner approved all addresses within this city; ZIP eligibility remains a separate decision."
     },
     {
       "kind": "city",
       "location": "Lombard",
-      "status": "proposed",
+      "status": "confirmed",
       "verified": false,
       "zip_code": null,
       "state": "IL",
-      "recommended_status": "requires_call",
+      "recommended_status": "served",
       "operational_approval": {
-        "status": "provisional_scope_only",
-        "source": "Owner instruction2026-10-23",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Explicit owner approval of14 complete cities,2026-10-29",
+        "whole_record_approved": true
       },
       "geo_page_destinations": [
         {
@@ -58,20 +58,20 @@
           "available_to_visitors": true
         }
       ],
-      "recommendation_reason": "No whole-city eligibility approved; city alone cannot resolve any future subarea exceptions."
+      "recommendation_reason": "Owner approved all addresses within this city; ZIP eligibility remains a separate decision."
     },
     {
       "kind": "city",
       "location": "Arlington Heights",
-      "status": "proposed",
+      "status": "confirmed",
       "verified": false,
       "zip_code": null,
       "state": "IL",
-      "recommended_status": "requires_call",
+      "recommended_status": "served",
       "operational_approval": {
-        "status": "provisional_scope_only",
-        "source": "Owner instruction2026-10-23",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Explicit owner approval of14 complete cities,2026-10-29",
+        "whole_record_approved": true
       },
       "geo_page_destinations": [
         {
@@ -83,20 +83,20 @@
           "available_to_visitors": false
         }
       ],
-      "recommendation_reason": "No whole-city eligibility approved; city alone cannot resolve any future subarea exceptions."
+      "recommendation_reason": "Owner approved all addresses within this city; ZIP eligibility remains a separate decision."
     },
     {
       "kind": "city",
       "location": "Elmhurst",
-      "status": "proposed",
+      "status": "confirmed",
       "verified": false,
       "zip_code": null,
       "state": "IL",
-      "recommended_status": "requires_call",
+      "recommended_status": "served",
       "operational_approval": {
-        "status": "provisional_scope_only",
-        "source": "Owner instruction2026-10-23",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Explicit owner approval of14 complete cities,2026-10-29",
+        "whole_record_approved": true
       },
       "geo_page_destinations": [
         {
@@ -108,20 +108,20 @@
           "available_to_visitors": true
         }
       ],
-      "recommendation_reason": "No whole-city eligibility approved; city alone cannot resolve any future subarea exceptions."
+      "recommendation_reason": "Owner approved all addresses within this city; ZIP eligibility remains a separate decision."
     },
     {
       "kind": "city",
       "location": "Naperville",
-      "status": "proposed",
+      "status": "confirmed",
       "verified": false,
       "zip_code": null,
       "state": "IL",
-      "recommended_status": "requires_call",
+      "recommended_status": "served",
       "operational_approval": {
-        "status": "provisional_scope_only",
-        "source": "Owner instruction2026-10-23",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Explicit owner approval of14 complete cities,2026-10-29",
+        "whole_record_approved": true
       },
       "geo_page_destinations": [
         {
@@ -133,20 +133,20 @@
           "available_to_visitors": true
         }
       ],
-      "recommendation_reason": "No whole-city eligibility approved; city alone cannot resolve any future subarea exceptions."
+      "recommendation_reason": "Owner approved all addresses within this city; ZIP eligibility remains a separate decision."
     },
     {
       "kind": "city",
       "location": "Northbrook",
-      "status": "proposed",
+      "status": "confirmed",
       "verified": false,
       "zip_code": null,
       "state": "IL",
-      "recommended_status": "requires_call",
+      "recommended_status": "served",
       "operational_approval": {
-        "status": "provisional_scope_only",
-        "source": "Owner instruction2026-10-23",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Explicit owner approval of14 complete cities,2026-10-29",
+        "whole_record_approved": true
       },
       "geo_page_destinations": [
         {
@@ -158,20 +158,20 @@
           "available_to_visitors": true
         }
       ],
-      "recommendation_reason": "No whole-city eligibility approved; city alone cannot resolve any future subarea exceptions."
+      "recommendation_reason": "Owner approved all addresses within this city; ZIP eligibility remains a separate decision."
     },
     {
       "kind": "city",
       "location": "Downers Grove",
-      "status": "proposed",
+      "status": "confirmed",
       "verified": false,
       "zip_code": null,
       "state": "IL",
-      "recommended_status": "requires_call",
+      "recommended_status": "served",
       "operational_approval": {
-        "status": "provisional_scope_only",
-        "source": "Owner instruction2026-10-23",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Explicit owner approval of14 complete cities,2026-10-29",
+        "whole_record_approved": true
       },
       "geo_page_destinations": [
         {
@@ -183,20 +183,20 @@
           "available_to_visitors": true
         }
       ],
-      "recommendation_reason": "No whole-city eligibility approved; city alone cannot resolve any future subarea exceptions."
+      "recommendation_reason": "Owner approved all addresses within this city; ZIP eligibility remains a separate decision."
     },
     {
       "kind": "city",
       "location": "Oak Brook",
-      "status": "proposed",
+      "status": "confirmed",
       "verified": false,
       "zip_code": null,
       "state": "IL",
-      "recommended_status": "requires_call",
+      "recommended_status": "served",
       "operational_approval": {
-        "status": "provisional_scope_only",
-        "source": "Owner instruction2026-10-23",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Explicit owner approval of14 complete cities,2026-10-29",
+        "whole_record_approved": true
       },
       "geo_page_destinations": [
         {
@@ -208,20 +208,20 @@
           "available_to_visitors": true
         }
       ],
-      "recommendation_reason": "No whole-city eligibility approved; city alone cannot resolve any future subarea exceptions."
+      "recommendation_reason": "Owner approved all addresses within this city; ZIP eligibility remains a separate decision."
     },
     {
       "kind": "city",
       "location": "Glenview",
-      "status": "proposed",
+      "status": "confirmed",
       "verified": false,
       "zip_code": null,
       "state": "IL",
-      "recommended_status": "requires_call",
+      "recommended_status": "served",
       "operational_approval": {
-        "status": "provisional_scope_only",
-        "source": "Owner instruction2026-10-23",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Explicit owner approval of14 complete cities,2026-10-29",
+        "whole_record_approved": true
       },
       "geo_page_destinations": [
         {
@@ -233,20 +233,20 @@
           "available_to_visitors": true
         }
       ],
-      "recommendation_reason": "No whole-city eligibility approved; city alone cannot resolve any future subarea exceptions."
+      "recommendation_reason": "Owner approved all addresses within this city; ZIP eligibility remains a separate decision."
     },
     {
       "kind": "city",
       "location": "Highland Park",
-      "status": "proposed",
+      "status": "confirmed",
       "verified": false,
       "zip_code": null,
       "state": "IL",
-      "recommended_status": "requires_call",
+      "recommended_status": "served",
       "operational_approval": {
-        "status": "provisional_scope_only",
-        "source": "Owner instruction2026-10-23",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Explicit owner approval of14 complete cities,2026-10-29",
+        "whole_record_approved": true
       },
       "geo_page_destinations": [
         {
@@ -258,20 +258,20 @@
           "available_to_visitors": true
         }
       ],
-      "recommendation_reason": "No whole-city eligibility approved; city alone cannot resolve any future subarea exceptions."
+      "recommendation_reason": "Owner approved all addresses within this city; ZIP eligibility remains a separate decision."
     },
     {
       "kind": "city",
       "location": "Schaumburg",
-      "status": "proposed",
+      "status": "confirmed",
       "verified": false,
       "zip_code": null,
       "state": "IL",
-      "recommended_status": "requires_call",
+      "recommended_status": "served",
       "operational_approval": {
-        "status": "provisional_scope_only",
-        "source": "Owner instruction2026-10-23",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Explicit owner approval of14 complete cities,2026-10-29",
+        "whole_record_approved": true
       },
       "geo_page_destinations": [
         {
@@ -283,20 +283,20 @@
           "available_to_visitors": true
         }
       ],
-      "recommendation_reason": "No whole-city eligibility approved; city alone cannot resolve any future subarea exceptions."
+      "recommendation_reason": "Owner approved all addresses within this city; ZIP eligibility remains a separate decision."
     },
     {
       "kind": "city",
       "location": "Evanston",
-      "status": "proposed",
+      "status": "confirmed",
       "verified": false,
       "zip_code": null,
       "state": "IL",
-      "recommended_status": "requires_call",
+      "recommended_status": "served",
       "operational_approval": {
-        "status": "provisional_scope_only",
-        "source": "Owner instruction2026-10-23",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Explicit owner approval of14 complete cities,2026-10-29",
+        "whole_record_approved": true
       },
       "geo_page_destinations": [
         {
@@ -308,20 +308,20 @@
           "available_to_visitors": false
         }
       ],
-      "recommendation_reason": "No whole-city eligibility approved; city alone cannot resolve any future subarea exceptions."
+      "recommendation_reason": "Owner approved all addresses within this city; ZIP eligibility remains a separate decision."
     },
     {
       "kind": "city",
       "location": "Elk Grove Village",
-      "status": "proposed",
+      "status": "confirmed",
       "verified": false,
       "zip_code": null,
       "state": "IL",
-      "recommended_status": "requires_call",
+      "recommended_status": "served",
       "operational_approval": {
-        "status": "provisional_scope_only",
-        "source": "Owner instruction2026-10-23",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Explicit owner approval of14 complete cities,2026-10-29",
+        "whole_record_approved": true
       },
       "geo_page_destinations": [
         {
@@ -333,7 +333,7 @@
           "available_to_visitors": false
         }
       ],
-      "recommendation_reason": "No whole-city eligibility approved; city alone cannot resolve any future subarea exceptions."
+      "recommendation_reason": "Owner approved all addresses within this city; ZIP eligibility remains a separate decision."
     },
     {
       "kind": "county",
@@ -466,14 +466,15 @@
     {
       "kind": "city",
       "location": "Carol Stream",
-      "status": "proposed",
+      "status": "confirmed",
       "verified": false,
       "zip_code": null,
       "state": "IL",
-      "recommended_status": "requires_call",
+      "recommended_status": "served",
       "operational_approval": {
-        "status": "none_documented_for_entire_city",
-        "whole_record_approved": false
+        "status": "owner_approved",
+        "source": "Explicit owner approval of14 complete cities,2026-10-29",
+        "whole_record_approved": true
       },
       "geo_page_destinations": [
         {
@@ -485,7 +486,7 @@
           "available_to_visitors": true
         }
       ],
-      "recommendation_reason": "Included in agreed ten-location work plan; SEO selection and previous case location do not approve coverage."
+      "recommendation_reason": "Owner approved all addresses within this city; ZIP eligibility remains a separate decision."
     },
     {
       "kind": "zip",
@@ -745,7 +746,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -1140,7 +1141,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -2324,7 +2325,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -2618,7 +2619,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -3354,7 +3355,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -5333,7 +5334,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -5389,7 +5390,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -5445,7 +5446,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -5501,7 +5502,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -5557,7 +5558,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -5613,7 +5614,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -5669,7 +5670,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -5725,7 +5726,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -5781,7 +5782,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -5837,7 +5838,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -5893,7 +5894,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -5949,7 +5950,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -6005,7 +6006,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -6061,7 +6062,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -6117,7 +6118,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -6173,7 +6174,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -6229,7 +6230,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -6285,7 +6286,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -6341,7 +6342,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -6398,7 +6399,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -6454,7 +6455,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -6510,7 +6511,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -6566,7 +6567,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -6622,7 +6623,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -6678,7 +6679,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -6734,7 +6735,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -6790,7 +6791,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -6854,7 +6855,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -6910,7 +6911,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -6967,7 +6968,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -7023,7 +7024,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -7087,7 +7088,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -7157,7 +7158,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -7213,7 +7214,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -7269,7 +7270,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -7368,7 +7369,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -7424,7 +7425,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -7480,7 +7481,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -7536,7 +7537,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -7592,7 +7593,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -7648,7 +7649,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -7704,7 +7705,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -7760,7 +7761,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -7824,7 +7825,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -7888,7 +7889,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -7944,7 +7945,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -8000,7 +8001,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -8056,7 +8057,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -8112,7 +8113,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -8168,7 +8169,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -8225,7 +8226,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -8282,7 +8283,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -8338,7 +8339,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -8394,7 +8395,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -8450,7 +8451,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -8506,7 +8507,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -8570,7 +8571,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -8640,7 +8641,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -8737,7 +8738,7 @@
         {
           "city": "Chicago",
           "object_id": 154,
-          "title": "GCPRO Homepage — Phase 1 Atomic Wireframe",
+          "title": "GCPRO Homepage â€” Phase 1 Atomic Wireframe",
           "url": "https://vitaliiv1.sg-host.com/",
           "publication_status": "publish",
           "available_to_visitors": true
@@ -8809,5 +8810,7 @@
       "checked_on": "2026-10-29",
       "supports": "60208 reserved for non-residential Northwestern addresses; no blanket residential service inference."
     }
-  ]
+  ],
+  "runtime_authority": "WordPress option gcpro_service_coverage_v1",
+  "operational_city_matching_enabled": true
 }

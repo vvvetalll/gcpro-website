@@ -1,0 +1,401 @@
+{
+  "date": "2026-10-29",
+  "environment": "staging",
+  "version": "1.2.1",
+  "records": 129,
+  "approved_cities": 14,
+  "approved_zips": 0,
+  "operational_matching_enabled": true,
+  "synthetic_tests": {
+    "fixture_mode": "synthetic_in_memory_only",
+    "passed": 33,
+    "total": 33,
+    "checks": {
+      "city_case_whitespace": true,
+      "reviewed_alias": true,
+      "zip_leading_zero": true,
+      "zip_plus_four": true,
+      "numeric_input_rejected": true,
+      "html_input_rejected": true,
+      "array_input_rejected": true,
+      "unknown_not_excluded": true,
+      "disabled_approval_gate": true,
+      "unapproved_cannot_confirm": true,
+      "unreviewed_alias_ignored": true,
+      "ambiguous_zip": true,
+      "partial_city": true,
+      "zip_exception_overrides_city": true,
+      "city_with_zip_exception": true,
+      "ambiguous_alias": true,
+      "call_status": true,
+      "unresolved_status": true,
+      "archived_excluded": true,
+      "private_note_excluded": true,
+      "text_zip_retained": true,
+      "clean_cannot_import_approval": true,
+      "invalid_zip_row": true,
+      "invalid_date_row": true,
+      "invalid_status_row": true,
+      "csv_duplicate_and_invalid_rows": true,
+      "csv_text_round_trip": true,
+      "csv_formula_guard_round_trip": true,
+      "csv_stays_unapproved": true,
+      "public_fields_allowlisted": true,
+      "private_response_excluded": true,
+      "not_served_no_enquiry": true,
+      "call_destination": true
+    }
+  },
+  "management_permissions_guest": {
+    "register": 401,
+    "record": 401,
+    "self-test": 401
+  },
+  "stale_revision": 409,
+  "missing_typed_approval": 400,
+  "cities": [
+    {
+      "city": "Chicago",
+      "status": "served",
+      "actions": [
+        {
+          "label": "View services in Chicago",
+          "url": "https://vitaliiv1.sg-host.com/"
+        },
+        {
+          "label": "Request Service",
+          "url": "https://vitaliiv1.sg-host.com/service-request/"
+        }
+      ]
+    },
+    {
+      "city": "Lombard",
+      "status": "served",
+      "actions": [
+        {
+          "label": "View services in Lombard",
+          "url": "https://vitaliiv1.sg-host.com/service-area/lombard/"
+        },
+        {
+          "label": "Request Service",
+          "url": "https://vitaliiv1.sg-host.com/service-request/"
+        }
+      ]
+    },
+    {
+      "city": "Arlington Heights",
+      "status": "served",
+      "actions": [
+        {
+          "label": "Request Service",
+          "url": "https://vitaliiv1.sg-host.com/service-request/"
+        }
+      ]
+    },
+    {
+      "city": "Elmhurst",
+      "status": "served",
+      "actions": [
+        {
+          "label": "View services in Elmhurst",
+          "url": "https://vitaliiv1.sg-host.com/service-area/elmhurst/"
+        },
+        {
+          "label": "Request Service",
+          "url": "https://vitaliiv1.sg-host.com/service-request/"
+        }
+      ]
+    },
+    {
+      "city": "Naperville",
+      "status": "served",
+      "actions": [
+        {
+          "label": "View services in Naperville",
+          "url": "https://vitaliiv1.sg-host.com/service-area/naperville/"
+        },
+        {
+          "label": "Request Service",
+          "url": "https://vitaliiv1.sg-host.com/service-request/"
+        }
+      ]
+    },
+    {
+      "city": "Northbrook",
+      "status": "served",
+      "actions": [
+        {
+          "label": "View services in Northbrook",
+          "url": "https://vitaliiv1.sg-host.com/service-area/northbrook/"
+        },
+        {
+          "label": "Request Service",
+          "url": "https://vitaliiv1.sg-host.com/service-request/"
+        }
+      ]
+    },
+    {
+      "city": "Downers Grove",
+      "status": "served",
+      "actions": [
+        {
+          "label": "View services in Downers Grove",
+          "url": "https://vitaliiv1.sg-host.com/service-area/downers-grove/"
+        },
+        {
+          "label": "Request Service",
+          "url": "https://vitaliiv1.sg-host.com/service-request/"
+        }
+      ]
+    },
+    {
+      "city": "Oak Brook",
+      "status": "served",
+      "actions": [
+        {
+          "label": "View services in Oak Brook",
+          "url": "https://vitaliiv1.sg-host.com/service-area/oak-brook/"
+        },
+        {
+          "label": "Request Service",
+          "url": "https://vitaliiv1.sg-host.com/service-request/"
+        }
+      ]
+    },
+    {
+      "city": "Glenview",
+      "status": "served",
+      "actions": [
+        {
+          "label": "View services in Glenview",
+          "url": "https://vitaliiv1.sg-host.com/service-area/glenview/"
+        },
+        {
+          "label": "Request Service",
+          "url": "https://vitaliiv1.sg-host.com/service-request/"
+        }
+      ]
+    },
+    {
+      "city": "Highland Park",
+      "status": "served",
+      "actions": [
+        {
+          "label": "View services in Highland Park",
+          "url": "https://vitaliiv1.sg-host.com/service-area/highland-park/"
+        },
+        {
+          "label": "Request Service",
+          "url": "https://vitaliiv1.sg-host.com/service-request/"
+        }
+      ]
+    },
+    {
+      "city": "Schaumburg",
+      "status": "served",
+      "actions": [
+        {
+          "label": "View services in Schaumburg",
+          "url": "https://vitaliiv1.sg-host.com/service-area/schaumburg/"
+        },
+        {
+          "label": "Request Service",
+          "url": "https://vitaliiv1.sg-host.com/service-request/"
+        }
+      ]
+    },
+    {
+      "city": "Evanston",
+      "status": "served",
+      "actions": [
+        {
+          "label": "Request Service",
+          "url": "https://vitaliiv1.sg-host.com/service-request/"
+        }
+      ]
+    },
+    {
+      "city": "Elk Grove Village",
+      "status": "served",
+      "actions": [
+        {
+          "label": "Request Service",
+          "url": "https://vitaliiv1.sg-host.com/service-request/"
+        }
+      ]
+    },
+    {
+      "city": "Carol Stream",
+      "status": "served",
+      "actions": [
+        {
+          "label": "View services in Carol Stream",
+          "url": "https://vitaliiv1.sg-host.com/service-area/carol-stream/"
+        },
+        {
+          "label": "Request Service",
+          "url": "https://vitaliiv1.sg-host.com/service-request/"
+        }
+      ]
+    }
+  ],
+  "affected_availability_consumers": [
+    {
+      "id": 499,
+      "popup1801": true,
+      "complete_html": true,
+      "new_checker": true,
+      "old_handler": false
+    },
+    {
+      "id": 495,
+      "popup1801": true,
+      "complete_html": true,
+      "new_checker": true,
+      "old_handler": false
+    },
+    {
+      "id": 491,
+      "popup1801": true,
+      "complete_html": true,
+      "new_checker": true,
+      "old_handler": false
+    },
+    {
+      "id": 490,
+      "popup1801": true,
+      "complete_html": true,
+      "new_checker": true,
+      "old_handler": false
+    },
+    {
+      "id": 489,
+      "popup1801": true,
+      "complete_html": true,
+      "new_checker": true,
+      "old_handler": false
+    },
+    {
+      "id": 488,
+      "popup1801": true,
+      "complete_html": true,
+      "new_checker": true,
+      "old_handler": false
+    },
+    {
+      "id": 487,
+      "popup1801": true,
+      "complete_html": true,
+      "new_checker": true,
+      "old_handler": false
+    },
+    {
+      "id": 525,
+      "popup1801": true,
+      "complete_html": true,
+      "new_checker": true,
+      "old_handler": false
+    },
+    {
+      "id": 524,
+      "popup1801": true,
+      "complete_html": true,
+      "new_checker": true,
+      "old_handler": false
+    },
+    {
+      "id": 523,
+      "popup1801": true,
+      "complete_html": true,
+      "new_checker": true,
+      "old_handler": false
+    },
+    {
+      "id": 522,
+      "popup1801": true,
+      "complete_html": true,
+      "new_checker": true,
+      "old_handler": false
+    },
+    {
+      "id": 521,
+      "popup1801": true,
+      "complete_html": true,
+      "new_checker": true,
+      "old_handler": false
+    },
+    {
+      "id": 520,
+      "popup1801": true,
+      "complete_html": true,
+      "new_checker": true,
+      "old_handler": false
+    },
+    {
+      "id": 519,
+      "popup1801": true,
+      "complete_html": true,
+      "new_checker": true,
+      "old_handler": false
+    },
+    {
+      "id": 518,
+      "popup1801": true,
+      "complete_html": true,
+      "new_checker": true,
+      "old_handler": false
+    },
+    {
+      "id": 517,
+      "popup1801": true,
+      "complete_html": true,
+      "new_checker": true,
+      "old_handler": false
+    },
+    {
+      "id": 516,
+      "popup1801": true,
+      "complete_html": true,
+      "new_checker": true,
+      "old_handler": false
+    },
+    {
+      "id": 515,
+      "popup1801": true,
+      "complete_html": true,
+      "new_checker": true,
+      "old_handler": false
+    },
+    {
+      "id": 514,
+      "popup1801": true,
+      "complete_html": true,
+      "new_checker": true,
+      "old_handler": false
+    },
+    {
+      "id": 484,
+      "popup1801": true,
+      "complete_html": true,
+      "new_checker": true,
+      "old_handler": false
+    },
+    {
+      "id": 154,
+      "popup1801": true,
+      "complete_html": true,
+      "new_checker": true,
+      "old_handler": false
+    }
+  ],
+  "browser": {
+    "enter_lookup_requests": 1,
+    "autofocus_input": false,
+    "escape_and_reopen": true,
+    "mobile_width": 393,
+    "mobile_popup_width": 338.26,
+    "mobile_left_gutter": 27.53,
+    "mobile_overflow": false,
+    "physical_device_tested": false
+  }
+}

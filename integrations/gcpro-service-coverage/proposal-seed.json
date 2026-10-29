@@ -1,0 +1,2242 @@
+[
+  {
+    "kind": "city",
+    "value": "Chicago",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": false,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Owner provisional Chicagoland scope, 2026-10-23; entire-city coverage unapproved",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "city",
+    "value": "Lombard",
+    "cities": [
+      "Lombard"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": false,
+    "partial": false,
+    "geo_page_id": "526",
+    "source": "Owner provisional Chicagoland scope, 2026-10-23; entire-city coverage unapproved",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "city",
+    "value": "Arlington Heights",
+    "cities": [
+      "Arlington Heights"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": false,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Owner provisional Chicagoland scope, 2026-10-23; entire-city coverage unapproved",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "city",
+    "value": "Elmhurst",
+    "cities": [
+      "Elmhurst"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": false,
+    "partial": false,
+    "geo_page_id": "530",
+    "source": "Owner provisional Chicagoland scope, 2026-10-23; entire-city coverage unapproved",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "city",
+    "value": "Naperville",
+    "cities": [
+      "Naperville"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": false,
+    "partial": false,
+    "geo_page_id": "532",
+    "source": "Owner provisional Chicagoland scope, 2026-10-23; entire-city coverage unapproved",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "city",
+    "value": "Northbrook",
+    "cities": [
+      "Northbrook"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": false,
+    "partial": false,
+    "geo_page_id": "556",
+    "source": "Owner provisional Chicagoland scope, 2026-10-23; entire-city coverage unapproved",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "city",
+    "value": "Downers Grove",
+    "cities": [
+      "Downers Grove"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": false,
+    "partial": false,
+    "geo_page_id": "527",
+    "source": "Owner provisional Chicagoland scope, 2026-10-23; entire-city coverage unapproved",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "city",
+    "value": "Oak Brook",
+    "cities": [
+      "Oak Brook"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": false,
+    "partial": false,
+    "geo_page_id": "536",
+    "source": "Owner provisional Chicagoland scope, 2026-10-23; entire-city coverage unapproved",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "city",
+    "value": "Glenview",
+    "cities": [
+      "Glenview"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": false,
+    "partial": false,
+    "geo_page_id": "533",
+    "source": "Owner provisional Chicagoland scope, 2026-10-23; entire-city coverage unapproved",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "city",
+    "value": "Highland Park",
+    "cities": [
+      "Highland Park"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": false,
+    "partial": false,
+    "geo_page_id": "528",
+    "source": "Owner provisional Chicagoland scope, 2026-10-23; entire-city coverage unapproved",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "city",
+    "value": "Schaumburg",
+    "cities": [
+      "Schaumburg"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": false,
+    "partial": false,
+    "geo_page_id": "558",
+    "source": "Owner provisional Chicagoland scope, 2026-10-23; entire-city coverage unapproved",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "city",
+    "value": "Evanston",
+    "cities": [
+      "Evanston"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": false,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Owner provisional Chicagoland scope, 2026-10-23; entire-city coverage unapproved",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "city",
+    "value": "Elk Grove Village",
+    "cities": [
+      "Elk Grove Village"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": false,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Owner provisional Chicagoland scope, 2026-10-23; entire-city coverage unapproved",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "city",
+    "value": "Carol Stream",
+    "cities": [
+      "Carol Stream"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": false,
+    "partial": false,
+    "geo_page_id": "543",
+    "source": "Owner provisional Chicagoland scope, 2026-10-23; entire-city coverage unapproved",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60004",
+    "cities": [
+      "Arlington Heights",
+      "Buffalo Grove",
+      "Palatine",
+      "Prospect Heights",
+      "Wheeling"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60005",
+    "cities": [
+      "Arlington Heights",
+      "Mount Prospect",
+      "Rolling Meadows"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60007",
+    "cities": [
+      "Arlington Heights",
+      "Chicago",
+      "Des Plaines",
+      "Elk Grove Village",
+      "Rolling Meadows",
+      "Schaumburg"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60008",
+    "cities": [
+      "Palatine",
+      "Rolling Meadows",
+      "Schaumburg"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60015",
+    "cities": [
+      "Bannockburn",
+      "Buffalo Grove",
+      "Deerfield",
+      "Highland Park",
+      "Lincolnshire",
+      "Northbrook",
+      "Riverwoods"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60016",
+    "cities": [
+      "Des Plaines",
+      "Glenview",
+      "Niles",
+      "Park Ridge"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60018",
+    "cities": [
+      "Chicago",
+      "Des Plaines",
+      "Elk Grove Village",
+      "Rosemont",
+      "Schiller Park"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60022",
+    "cities": [
+      "Glencoe",
+      "Northbrook"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60025",
+    "cities": [
+      "Glenview",
+      "Morton Grove",
+      "Niles"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60026",
+    "cities": [
+      "Glenview"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "533",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60035",
+    "cities": [
+      "Highland Park",
+      "Highwood",
+      "Lake Forest"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60040",
+    "cities": [
+      "Highland Park",
+      "Highwood",
+      "Lake Forest"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60056",
+    "cities": [
+      "Arlington Heights",
+      "Des Plaines",
+      "Mount Prospect",
+      "Prospect Heights"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60062",
+    "cities": [
+      "Glencoe",
+      "Glenview",
+      "Northbrook",
+      "Northfield",
+      "Prospect Heights"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60067",
+    "cities": [
+      "Hoffman Estates",
+      "Inverness",
+      "Palatine",
+      "Rolling Meadows",
+      "Schaumburg"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60070",
+    "cities": [
+      "Arlington Heights",
+      "Prospect Heights",
+      "Wheeling"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60074",
+    "cities": [
+      "Arlington Heights",
+      "Deer Park",
+      "Kildeer",
+      "Palatine",
+      "Rolling Meadows"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60090",
+    "cities": [
+      "Arlington Heights",
+      "Buffalo Grove",
+      "Prospect Heights",
+      "Wheeling"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60093",
+    "cities": [
+      "Glencoe",
+      "Glenview",
+      "Northfield",
+      "Wilmette",
+      "Winnetka"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60103",
+    "cities": [
+      "Bartlett",
+      "Carol Stream",
+      "Hanover Park",
+      "Streamwood"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60106",
+    "cities": [
+      "Addison",
+      "Bensenville",
+      "Chicago",
+      "Wood Dale"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60108",
+    "cities": [
+      "Addison",
+      "Bloomingdale",
+      "Carol Stream",
+      "Glendale Heights"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60126",
+    "cities": [
+      "Addison",
+      "Elmhurst",
+      "Hillside",
+      "Oak Brook",
+      "Oakbrook Terrace",
+      "Villa Park"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60131",
+    "cities": [
+      "Bensenville",
+      "Chicago",
+      "Franklin Park",
+      "Melrose Park",
+      "Northlake"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60133",
+    "cities": [
+      "Bartlett",
+      "Bloomingdale",
+      "Carol Stream",
+      "Hanover Park",
+      "Roselle",
+      "Schaumburg",
+      "Streamwood"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60137",
+    "cities": [
+      "Downers Grove",
+      "Glendale Heights",
+      "Glen Ellyn",
+      "Lombard",
+      "Wheaton"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60139",
+    "cities": [
+      "Bloomingdale",
+      "Carol Stream",
+      "Glendale Heights"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60148",
+    "cities": [
+      "Addison",
+      "Downers Grove",
+      "Glendale Heights",
+      "Glen Ellyn",
+      "Lombard",
+      "Oak Brook",
+      "Oakbrook Terrace",
+      "Villa Park"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60169",
+    "cities": [
+      "Hoffman Estates",
+      "Schaumburg"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60172",
+    "cities": [
+      "Bloomingdale",
+      "Elk Grove Village",
+      "Hanover Park",
+      "Itasca",
+      "Roselle",
+      "Schaumburg"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60173",
+    "cities": [
+      "Hoffman Estates",
+      "Palatine",
+      "Rolling Meadows",
+      "Schaumburg"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60176",
+    "cities": [
+      "Chicago",
+      "Schiller Park"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60181",
+    "cities": [
+      "Addison",
+      "Oak Brook",
+      "Oakbrook Terrace",
+      "Villa Park"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60185",
+    "cities": [
+      "Bartlett",
+      "Batavia",
+      "Carol Stream",
+      "Geneva",
+      "St. Charles",
+      "Warrenville",
+      "West Chicago",
+      "Winfield"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60188",
+    "cities": [
+      "Carol Stream",
+      "Glendale Heights",
+      "Wheaton",
+      "Winfield"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60193",
+    "cities": [
+      "Roselle",
+      "Schaumburg"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60194",
+    "cities": [
+      "Hoffman Estates",
+      "Schaumburg"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60195",
+    "cities": [
+      "Hoffman Estates",
+      "Schaumburg"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60201",
+    "cities": [
+      "Evanston"
+    ],
+    "state": "IL",
+    "status": "served",
+    "aliases": [],
+    "ambiguous": false,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60202",
+    "cities": [
+      "Evanston"
+    ],
+    "state": "IL",
+    "status": "served",
+    "aliases": [],
+    "ambiguous": false,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60208",
+    "cities": [
+      "Evanston"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60440",
+    "cities": [
+      "Bolingbrook",
+      "Naperville",
+      "Woodridge"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60504",
+    "cities": [
+      "Aurora",
+      "Naperville"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60515",
+    "cities": [
+      "Downers Grove",
+      "Lisle",
+      "Westmont"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60516",
+    "cities": [
+      "Darien",
+      "Downers Grove",
+      "Westmont",
+      "Woodridge"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60517",
+    "cities": [
+      "Bolingbrook",
+      "Darien",
+      "Downers Grove",
+      "Lisle",
+      "Woodridge"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60521",
+    "cities": [
+      "Hinsdale",
+      "Oak Brook",
+      "Westmont"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60523",
+    "cities": [
+      "Downers Grove",
+      "Elmhurst",
+      "Lombard",
+      "Oak Brook",
+      "Oakbrook Terrace",
+      "Westmont"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60532",
+    "cities": [
+      "Downers Grove",
+      "Lisle",
+      "Naperville",
+      "Woodridge"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60540",
+    "cities": [
+      "Lisle",
+      "Naperville",
+      "Woodridge"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60555",
+    "cities": [
+      "Aurora",
+      "Naperville",
+      "Warrenville"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60561",
+    "cities": [
+      "Darien",
+      "Downers Grove",
+      "Willowbrook",
+      "Woodridge"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60563",
+    "cities": [
+      "Aurora",
+      "Lisle",
+      "Naperville",
+      "Warrenville",
+      "Wheaton"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60564",
+    "cities": [
+      "Aurora",
+      "Naperville"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60565",
+    "cities": [
+      "Bolingbrook",
+      "Naperville",
+      "Woodridge"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60585",
+    "cities": [
+      "Aurora",
+      "Bolingbrook",
+      "Naperville",
+      "Plainfield"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60601",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60602",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60603",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60604",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60605",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60606",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60607",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60608",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60609",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60610",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60611",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60612",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60613",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60614",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60615",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60616",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60617",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60618",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60619",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60620",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60621",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60622",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60623",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60624",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60625",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60626",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60628",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60629",
+    "cities": [
+      "Bedford Park",
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60630",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60631",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60632",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60633",
+    "cities": [
+      "Burnham",
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60634",
+    "cities": [
+      "Chicago",
+      "Norridge",
+      "Schiller Park"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60636",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60637",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60638",
+    "cities": [
+      "Bedford Park",
+      "Bridgeview",
+      "Burbank",
+      "Chicago",
+      "Forest View"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60639",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60640",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60641",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60642",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60643",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60644",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60645",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60646",
+    "cities": [
+      "Chicago",
+      "Skokie"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60647",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60649",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60651",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60652",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60653",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60654",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60655",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60656",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60657",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60659",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60660",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60661",
+    "cities": [
+      "Chicago"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "154",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60707",
+    "cities": [
+      "Chicago",
+      "Elmwood Park"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60804",
+    "cities": [
+      "Chicago",
+      "Cicero",
+      "Stickney"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  },
+  {
+    "kind": "zip",
+    "value": "60827",
+    "cities": [
+      "Blue Island",
+      "Calumet Park",
+      "Chicago",
+      "Dixmoor",
+      "Dolton",
+      "Riverdale"
+    ],
+    "state": "IL",
+    "status": "requires_call",
+    "aliases": [],
+    "ambiguous": true,
+    "partial": false,
+    "geo_page_id": "0",
+    "source": "Census2020 ZCTA/place and county intersections; not current USPS delivery data",
+    "source_date": "2026-10-29",
+    "note": ""
+  }
+]

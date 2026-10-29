@@ -1,0 +1,13 @@
+/* Dynamic slots only. Popup1801 owns the native panel, heading, form and close control. */
+.elementor-popup-modal [data-elementor-id="1801"] [hidden]{display:none!important}
+[data-gcpro-availability] p{margin:0;line-height:1.5}
+[data-gcpro-availability] [data-error]:empty,[data-gcpro-availability] [data-result]:empty,[data-coverage-actions]:empty{display:none}
+[data-gcpro-availability] [data-error]{color:#b42318;font-size:14px}
+[data-gcpro-availability] [data-result]:not(:empty){background:var(--color-surface-alternate,#eff6ff);color:var(--color-text-muted,#5b6575);border-radius:8px;padding:12px 16px;font-size:14px;font-weight:400;line-height:1.5}
+[data-gcpro-availability] .coverage-note{font-size:12px;color:var(--color-text-muted,#5b6575);margin-top:0}
+[data-coverage-actions]{display:flex;flex-wrap:wrap;gap:12px;margin:12px 0 16px}
+[data-coverage-actions] a:focus-visible{outline:2px solid currentColor;outline-offset:3px}
+@media(max-width:767px){[data-coverage-actions] a{max-width:100%;white-space:normal}}
+
+[data-coverage-actions] .gcpro-coverage-services-link{display:inline-flex;align-items:center;padding:8px 0;background:transparent;color:var(--color-primary,#1a327d);font-size:14px;font-weight:500;text-decoration:underline;text-underline-offset:3px}
+[data-coverage-actions] .gcpro-coverage-services-link:hover{color:var(--color-text,#344256)}

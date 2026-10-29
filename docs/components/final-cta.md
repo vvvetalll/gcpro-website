@@ -57,3 +57,22 @@ Keep instance copy in native overrides, shared appearance in Atomic, experimenta
 Before a structural replacement, review a native video/background-video composition or semantic opt-in class contract, consumer effects, fallback poster, mobile geometry, motion/data preferences and source portability. Obtain owner approval for that change. E57 changes only scope/panel selectors; all other847 source is unchanged. [Saved locations, regression evidence and rollback](../audits/2026-10-20-phase1-cleanup.md).
 
 Rollback of847: set the existing Custom Code entry to Draft through WordPress, reload/purge staging cache and verify native CTA. This removes script-added classes/layers on fresh load; native8px rule remains. Do not remove847 solely because older E55 docs called video unplaced. Request route and final video decision remain pending.
+
+## Completed geo cohort mid-page CTA rollout — 2026-10-29
+
+Published one existing Component80 inset CTA per completed geo page, after local Projects and before local office/team. Same approved pattern as Water514; no new/shared definition or custom code. Supported city copy Overrides, verified Call destination and native Internal URL Content → Service Request492. Hero, BEAF, case selections, FAQ/final CTA and original trees preserved.11 empty Published legacy shells and Drafts were excluded; no publication-status changes.
+
+| Page | Object | CTA instance | Review |
+|---|---|---|---|
+|Expert Restoration Services in Lombard|526|2db720ba|[Staging](https://vitaliiv1.sg-host.com/service-area/lombard/)|
+|Downers Grove|527|4ed34b8c|[Staging](https://vitaliiv1.sg-host.com/service-area/downers-grove/)|
+|Highland Park|528|56de8388|[Staging](https://vitaliiv1.sg-host.com/service-area/highland-park/)|
+|Expert Restoration Services in Elmhurst|530|44f8056d|[Staging](https://vitaliiv1.sg-host.com/service-area/elmhurst/)|
+|Expert Restoration Services in Naperville|532|797cdaca|[Staging](https://vitaliiv1.sg-host.com/service-area/naperville/)|
+|Expert Restoration Services in Glenview|533|762ace7|[Staging](https://vitaliiv1.sg-host.com/service-area/glenview/)|
+|Expert Restoration Services in Oak Brook|536|31d2d016|[Staging](https://vitaliiv1.sg-host.com/service-area/oak-brook/)|
+|Carol Stream|543|2fd16e08|[Staging](https://vitaliiv1.sg-host.com/service-area/carol-stream/)|
+|Expert Restoration Services in Northbrook|556|28491194|[Staging](https://vitaliiv1.sg-host.com/service-area/northbrook/)|
+|Schaumburg|558|4d33796|[Staging](https://vitaliiv1.sg-host.com/service-area/schaumburg/)|
+
+Readback verified all10 placements/copy/native destinations; removing each new CTA node yields its exact original tree. Lombard desktop/mobile and structurally different Naperville desktop rendered correctly: mobile gutters20px, stacked buttons, no overflow. Component80 native radius retained. Private recoverable before/after snapshots remain outside Git. Sanitized verification is in `docs/evidence/2026-10-29-geo-mid-cta.json`.

@@ -1,0 +1,64 @@
+/* Only the plugin's WordPress management screen. No frontend or Elementor styling. */
+.gcpro-coverage-admin{max-width:1320px;color:#344256;margin:24px 24px 0 4px}
+.gcpro-coverage-admin *{box-sizing:border-box}
+.gcpro-admin-header{background:#1a327d;color:#fff;border-radius:10px;padding:28px 32px;display:flex;gap:24px;align-items:center;justify-content:space-between}
+.gcpro-admin-header h1{color:#fff;font-size:28px;font-weight:600;line-height:1.25;padding:0;margin:0 0 8px}
+.gcpro-admin-header p{margin:0;color:#dce5f3;font-size:14px;line-height:1.6}
+.gcpro-admin-header .gcpro-eyebrow{font-size:11px;letter-spacing:.12em;margin-bottom:8px;color:#fff}
+.gcpro-coverage-admin .button{min-height:38px;line-height:36px;border-radius:6px;padding:0 14px;box-shadow:none;font-weight:500;white-space:nowrap}
+.gcpro-coverage-admin .button-primary{background:#1a327d;border-color:#1a327d;color:#fff}
+.gcpro-coverage-admin .button-primary:hover{background:#132761;border-color:#132761;color:#fff}
+.gcpro-admin-header .button-primary{background:#fff;border-color:#fff;color:#1a327d}
+.gcpro-admin-header .button-primary:hover{background:#edf3fc;color:#1a327d}
+.gcpro-coverage-admin a:focus-visible,.gcpro-coverage-admin button:focus-visible{outline:2px solid #f45a23;outline-offset:3px;box-shadow:none}
+.gcpro-summary{display:grid;grid-template-columns:repeat(3,minmax(0,1fr)) minmax(230px,1.3fr);gap:1px;background:#dde4ef;border:1px solid #dde4ef;border-radius:8px;overflow:hidden;margin:20px 0}
+.gcpro-summary>div{background:#fff;padding:18px 22px;display:flex;flex-direction:column;gap:6px;align-items:flex-start;justify-content:center}
+.gcpro-summary strong{font-size:25px;line-height:1.2;font-weight:600;color:#1a327d}
+.gcpro-summary span{font-size:13px;color:#637188}
+.gcpro-summary .gcpro-badge{color:#765214}
+.gcpro-admin-tabs{display:flex;gap:26px;border-bottom:1px solid #cdd7e6;margin-bottom:22px;overflow:auto}
+.gcpro-admin-tabs a{font-size:14px;font-weight:500;text-decoration:none;padding:8px 0 13px;color:#526078;white-space:nowrap;border-bottom:3px solid transparent}
+.gcpro-admin-tabs a[aria-current]{color:#1a327d;border-bottom-color:#f45a23}
+.gcpro-admin-panel{background:#fff;border:1px solid #dde4ef;border-radius:9px;overflow:hidden;padding:24px;margin-bottom:20px}
+.gcpro-panel-title h2{margin:0 0 7px;font-size:18px;line-height:1.4;color:#27364c}
+.gcpro-panel-title p{margin:0 0 22px;max-width:800px;color:#637188;font-size:13px}
+.gcpro-register-search{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:20px}
+.gcpro-register-search label:first-of-type{flex:1;min-width:180px}
+.gcpro-register-search input[type=search]{width:100%;margin:0}
+.gcpro-coverage-admin input:not([type=checkbox]):not([type=hidden]):not([type=submit]):not([type=file]),.gcpro-coverage-admin select,.gcpro-coverage-admin textarea{min-height:39px;border:1px solid #becbde;border-radius:6px;box-shadow:none;font-size:14px;color:#344256;background-color:#fff}
+.gcpro-coverage-admin input:focus,.gcpro-coverage-admin select:focus,.gcpro-coverage-admin textarea:focus{border-color:#1a327d;outline:2px solid #dce6f9;outline-offset:1px}
+.gcpro-table-scroll{overflow:auto}
+.gcpro-coverage-admin .widefat{border:0;box-shadow:none;min-width:780px}
+.gcpro-coverage-admin .widefat th{background:#f5f7fb;font-weight:600;border-bottom:1px solid #dde4ef;padding:12px;font-size:12px;color:#526078}
+.gcpro-coverage-admin .widefat td{padding:14px 12px;vertical-align:middle;border-bottom:1px solid #e8edf5;font-size:13px;line-height:1.5}
+.gcpro-coverage-admin .widefat tr:last-child td{border-bottom:0}
+.gcpro-coverage-admin .widefat tbody tr:hover{background:#fafbfd}
+.gcpro-coverage-admin small{display:block;font-size:11px;color:#6b778b;line-height:1.6;margin-top:4px;font-weight:400}
+.gcpro-record-name{font-weight:600;font-size:14px;text-decoration:none;color:#1a327d}
+.gcpro-badge{font-size:11px!important;line-height:1.6;font-weight:600;display:inline-flex;padding:3px 9px;border-radius:4px;background:#fff4df;color:#765214}
+.gcpro-badge.is-approved{background:#e7f3eb;color:#25613c}
+.gcpro-muted{color:#8390a3}
+.gcpro-table-bottom{border-top:1px solid #dde4ef;display:flex;gap:16px;justify-content:space-between;align-items:center;padding-top:18px;font-size:12px;color:#637188}
+.gcpro-table-bottom .page-numbers{display:inline-block;text-decoration:none;padding:6px 9px;border-radius:4px;margin-left:3px}
+.gcpro-table-bottom .current{background:#1a327d;color:#fff}
+.gcpro-editor{max-width:960px}
+.gcpro-field-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px 24px}
+.gcpro-field{display:flex;flex-direction:column;gap:7px;min-width:0;font-size:13px;font-weight:500}
+.gcpro-field.is-wide{grid-column:1/-1}
+.gcpro-field input,.gcpro-field select,.gcpro-field textarea{width:100%;max-width:none;margin:0}
+.gcpro-approval-box{border:1px solid #e5d3b6;background:#fffaf1;border-radius:7px;padding:20px;margin:28px 0 20px}
+.gcpro-approval-box legend{font-size:14px;font-weight:600;padding:0 6px;color:#6b4e22}
+.gcpro-approval-box p{font-size:12px;color:#6f624e;margin:4px 0 18px}
+.gcpro-approval-box .gcpro-field-grid{margin-top:18px}
+.gcpro-editor-actions{display:flex;gap:12px;align-items:center;margin-top:22px}
+.gcpro-archive{border-top:1px solid #e1e7f0;padding-top:20px;margin-top:28px;font-size:13px}
+.gcpro-archive summary{cursor:pointer;color:#7c4040}
+.gcpro-setting-row{padding:0 0 20px;margin-bottom:20px;border-bottom:1px solid #e1e7f0}
+.gcpro-setting-row p{font-size:12px;color:#637188;max-width:700px}
+.gcpro-import-grid{display:grid;grid-template-columns:1.2fr 1fr;gap:22px}
+.gcpro-import-grid ul{padding-left:18px;list-style:disc;color:#526078;font-size:13px;line-height:1.8;margin-bottom:25px}
+.gcpro-import-grid code{font-size:11px;word-break:break-word}
+.gcpro-import-grid summary{font-size:12px;cursor:pointer}
+.gcpro-admin-footnote{font-size:11px;color:#6b778b;margin:22px 0}
+@media(max-width:960px){.gcpro-summary{grid-template-columns:1fr 1fr}.gcpro-import-grid{grid-template-columns:1fr}.gcpro-register-search{align-items:stretch}.gcpro-register-search label{flex:1}}
+@media(max-width:600px){.gcpro-coverage-admin{margin:14px 10px 0 0}.gcpro-admin-header{padding:22px;align-items:flex-start;flex-direction:column}.gcpro-admin-header h1{font-size:24px}.gcpro-summary>div{padding:15px}.gcpro-admin-tabs{gap:20px}.gcpro-admin-panel{padding:18px}.gcpro-field-grid{grid-template-columns:1fr;gap:17px}.gcpro-field.is-wide{grid-column:auto}.gcpro-register-search label{flex-basis:100%}.gcpro-register-search select{width:100%;max-width:none}.gcpro-table-bottom{align-items:flex-start;flex-direction:column}.gcpro-editor-actions{flex-wrap:wrap}}

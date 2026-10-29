@@ -1,5 +1,7 @@
 # GCPRO project context
 
+**2026-10-29 current:** Coverage plugin1.2.1 active on staging;14 cities approved by owner and enabled,115 ZIP proposals remain unapproved. Native Popup1801/Form/1140 preserved; standard button typography, neutral check and one orange conversion. Ten completed geo pages now have existing Component80 mid-page CTA. [Current record](docs/components/service-availability-popup.md#staging-coverage-bridge-and-owner-approved-cities--2026-10-29).
+
 **2026-10-28 final-slot review:**39 new cases are Published, not40. Nine cities have four; Oak Brook three. Additional reserve images/unfinished and contractor-switch records rejected. One further verified, visually useful Oak Brook case remains; private references retained.
 
 **2026-10-28 Oak Brook basement mitigation:** Published3012 with six chronological WebP photos and explicit mitigation-versus-rebuild distinction. Automatic city selection now three cases.39 new cases total; one further Oak Brook case remains.
@@ -829,3 +831,6 @@ WPGB facets1–5 are live on Archive2232/Loop c61e6a3, native Styles1–3 own co
 
 
 2026-10-29 Footer114 compact refinement is published on staging; latest owner follow-ups keep24/7 nonlinked and Directions as an address-aligned compact outline. See docs/components/header-footer.md. Visual approval pending; credential verification gaps unchanged.
+
+
+2026-10-29 — Coverage review proposal prepared before checker cutover. Existing register expanded to137 records with115 Census2020 ZCTA/place associations, source dates/hashes, cross-boundary flags, separate WordPress geo references and unapproved recommendations. Two served candidates (60201/60202);113 call-required ZIP proposals; no approved exclusions. Census geography is not current USPS delivery data. [Review table and exact outstanding decisions](docs/components/service-availability-popup.md#coverage-proposal-for-owner-review--2026-10-29). Separate GCPRO adaptation authorized; see latest implementation checkpoint in the same record.
