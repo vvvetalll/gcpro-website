@@ -1,0 +1,59 @@
+{
+  "environment": "staging",
+  "gtm": {
+    "container": "GTM-K544QFXV",
+    "qa_environment": "env-45",
+    "qa_version": 44,
+    "live_unchanged": 41
+  },
+  "ga4": {
+    "property": "422500318",
+    "qa_stream": "16231944569",
+    "qa_measurement": "G-Q32NMQPFMP"
+  },
+  "actual_network_checks": {
+    "page_view_per_navigation": 1,
+    "invalid_form_lead_events": 0,
+    "successful_request_lead_events": 1,
+    "lead_form_type": "request_service",
+    "test_contact_data_in_analytics_request": false,
+    "page_location_query_removed": true
+  },
+  "form_messages": [
+    {
+      "page": 492,
+      "url": "https://vitaliiv1.sg-host.com/service-request/",
+      "status": "publish",
+      "saved_success": true,
+      "saved_error": true,
+      "frontend_success": true,
+      "frontend_error": true,
+      "noindex": true
+    },
+    {
+      "page": 496,
+      "frontend_check": "unavailable",
+      "reason": "HTTPError"
+    },
+    {
+      "page": 486,
+      "url": "https://vitaliiv1.sg-host.com/apply/",
+      "status": "publish",
+      "saved_success": true,
+      "saved_error": true,
+      "frontend_success": true,
+      "frontend_error": true,
+      "noindex": true
+    }
+  ],
+  "limitations": [
+    "No mailbox receipt confirmation",
+    "No final version44 end-to-end retest after form-name/CTA-context refinement",
+    "Contact success, Apply exclusion, popup reopen and portfolio analytics events not runtime-tested",
+    "Tag Assistant Preview not completed",
+    "GA4 DebugView showed page_view, first_visit, session_start, user_engagement; generate_lead receipt not confirmed in DebugView",
+    "GA4 key-event marking and Google Ads link/conversion-action review unfinished",
+    "Mobile analytics interaction verification not completed",
+    "Historical report export not completed; existing GA4 property/history preserved and original GTM export saved privately"
+  ]
+}

@@ -1,0 +1,14 @@
+<script>
+(function(){
+  if(location.hostname!=="vitaliiv1.sg-host.com")return;
+  var qa=new URLSearchParams(location.search).get("gcpro_analytics_qa");
+  if(qa==="1")sessionStorage.setItem("gcpro_analytics_qa","1");
+  if(qa==="0")sessionStorage.removeItem("gcpro_analytics_qa");
+  if(sessionStorage.getItem("gcpro_analytics_qa")!=="1")return;
+  window.dataLayer=window.dataLayer||[];
+  function gtag(){dataLayer.push(arguments);}
+  gtag("consent","default",{analytics_storage:"granted",ad_storage:"denied",ad_user_data:"denied",ad_personalization:"denied"});
+  dataLayer.push({"gtm.start":new Date().getTime(),event:"gtm.js"});
+  var s=document.createElement("script");s.async=true;s.src="https://www.googletagmanager.com/gtm.js?id=GTM-K544QFXV&gtm_auth=REPLACE_WITH_PRIVATE_QA_ENVIRONMENT_AUTH&gtm_preview=env-45&gtm_cookies_win=x";document.head.appendChild(s);
+})();
+</script>

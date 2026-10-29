@@ -113,3 +113,7 @@ Verified live after native Elementor Tools → Clear Files & Data (success state
 ## Focused guest audit — 2026-10-29
 
 Saved Header113/Footer114 trees are byte-equivalent to the pre-audit baseline. Homepage/Commercial inner-page Footer service, city/directory/legal, telephone/mail and Directions hrefs inspected. Footer keyboard focus has visible orange outline; desktop/mobile inner-page overflow checks passed. No call placed. This pass does not certify physical touch, every dropdown keyboard path or external credential membership; uncertain credentials remain unchanged. Request492 empty submission remained on page and focused required Name; no successful submission or email-receipt claim.
+
+## Apply navigation — 2026-10-29
+
+Native menu5 item3123 points to published Apply486 under About243. Existing header/footer design and other destinations preserved. [Current checkpoint](../ANALYTICS.md).

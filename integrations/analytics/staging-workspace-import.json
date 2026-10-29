@@ -1,0 +1,781 @@
+{
+  "exportFormatVersion": 2,
+  "containerVersion": {
+    "accountId": "6212444930",
+    "containerId": "174858096",
+    "container": {
+      "publicId": "GTM-K544QFXV",
+      "name": "gcprochicago.com",
+      "usageContext": [
+        "WEB"
+      ]
+    },
+    "tag": [
+      {
+        "accountId": "6212444930",
+        "containerId": "174858096",
+        "tagId": "100",
+        "name": "GCPRO / QA Google tag",
+        "type": "googtag",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "tagId",
+            "value": "G-Q32NMQPFMP"
+          },
+          {
+            "type": "LIST",
+            "key": "configSettingsTable",
+            "list": [
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "send_page_view"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "false"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "debug_mode"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "true"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "page_location"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{GCPRO / page_location}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "page_referrer"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{GCPRO / page_referrer}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "page_title"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{GCPRO / page_title}}"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "firingTriggerId": [
+          "101"
+        ],
+        "tagFiringOption": "ONCE_PER_LOAD",
+        "priority": {
+          "type": "INTEGER",
+          "value": "100"
+        },
+        "consentSettings": {
+          "consentStatus": "NEEDED",
+          "consentType": {
+            "type": "LIST",
+            "list": [
+              {
+                "type": "TEMPLATE",
+                "value": "analytics_storage"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "accountId": "6212444930",
+        "containerId": "174858096",
+        "tagId": "101",
+        "name": "GCPRO / Central event bridge",
+        "type": "html",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "html",
+            "value": "<script>\n/* Sole GTM event bridge. Never reads form values or raw coverage input. */\n(function () {\n  'use strict';\n  if (window.gcproAnalyticsReady || location.hostname !== 'vitaliiv1.sg-host.com') return;\n  window.gcproAnalyticsReady = true;\n  var names = ['page_view','generate_lead','contact_submit','click_to_call','request_service_click','email_click','directions_click','coverage_search','coverage_area_click','portfolio_filter','portfolio_reset','portfolio_load_more','project_open'];\n  function send(name, values) {\n    if (names.indexOf(name) < 0) return;\n    var path=location.pathname;\n    var project=path.indexOf('/portfolio/')===0 && path.replace(/\\/$/,'')!=='/portfolio';\n    var data = {event:'gcpro_event',gcpro_event_name:name,gcpro_cta_location:'',gcpro_form_type:'',gcpro_result_status:'',gcpro_filter_dimension:'',gcpro_filter_value:'',gcpro_project_id:'',gcpro_city:'',gcpro_service:'',gcpro_page_location:location.origin+(project?'/portfolio/project/':path),gcpro_page_referrer:'',gcpro_page_title:project?'Project details':path};\n    try {data.gcpro_page_referrer=document.referrer?new URL(document.referrer).origin:'';}catch(ignore){}\n    Object.keys(values || {}).forEach(function (key) { if (Object.prototype.hasOwnProperty.call(data,key)) data[key]=values[key]; });\n    window.dataLayer = window.dataLayer || []; window.dataLayer.push(data);\n  }\n  function placement(node) {\n    if (node.closest('.elementor-popup-modal')) return 'popup';\n    if (node.closest('header,[data-elementor-type=\"header\"]')) return 'header';\n    if (node.closest('footer,[data-elementor-type=\"footer\"]')) return 'footer';\n    if (node.closest('.gcpro-cta-origin')) return 'hero';\n    var main=document.querySelector('main');\n    if (main) {\n      var panels=main.querySelectorAll('.gcpro-cta-section-test');\n      if(panels.length && panels[panels.length-1].contains(node)) return 'final';\n    }\n    return 'mid_page';\n  }\n  document.addEventListener('click', function (event) {\n    var link=event.target.closest('a[href]'); if(!link) return;\n    var url;try {url=new URL(link.href,location.href);}catch(ignore){return;}\n    var context={gcpro_cta_location:placement(link)};\n    if(url.protocol==='tel:') send('click_to_call',context);\n    else if(url.protocol==='mailto:') send('email_click',context);\n    else if(url.hostname==='www.google.com' && url.pathname.indexOf('/maps/dir')===0) send('directions_click',context);\n    else if(url.origin===location.origin && url.pathname.replace(/\\/$/,'')==='/service-request') send('request_service_click',context);\n    else if(link.matches('[data-coverage-action]') && url.origin===location.origin && url.pathname.indexOf('/service-area/')===0) send('coverage_area_click',context);\n    else if(link.closest('.elementor-loop-container') && url.origin===location.origin && url.pathname.indexOf('/portfolio/')===0) {\n      var card=link.closest('.e-loop-item');\n      var id=card && card.className.match(/(?:^|\\s)e-loop-item-(\\d+)(?:\\s|$)/);\n      if(id) context.gcpro_project_id=id[1];\n      var city=card && card.className.match(/(?:^|\\s)project_area-([a-z-]+)(?:\\s|$)/);\n      if(city) context.gcpro_city=city[1];\n      send('project_open',context);\n    }\n  },true);\n  function watchForm(form) {\n    if(form.getAttribute('data-gcpro-analytics-watched')) return;\n    var type={'GCPRO | Request Service':'request_service','GCPRO | Contact Us':'contact'}[form.getAttribute('aria-label')];\n    if(!type) return; // Apply and unknown forms are intentionally excluded.\n    form.setAttribute('data-gcpro-analytics-watched','true');\n    var successful=form.classList.contains('form-state-success');\n    new MutationObserver(function () {\n      var now=form.classList.contains('form-state-success');\n      if(now && !successful) send(type==='request_service'?'generate_lead':'contact_submit',{gcpro_form_type:type,gcpro_cta_location:'mid_page'});\n      successful=now;\n    }).observe(form,{attributes:true,attributeFilter:['class']});\n  }\n  function scan() {\n    document.querySelectorAll('form[data-element_type=\"e-form\"]').forEach(watchForm);\n    document.querySelectorAll('[data-gcpro-availability]').forEach(function (root) {\n      var result=root.querySelector('[data-result]'); if(!result || result.getAttribute('data-gcpro-analytics-watched')) return;\n      result.setAttribute('data-gcpro-analytics-watched','true');\n      new MutationObserver(function (records) {\n        records.forEach(function(record){\n          if(record.attributeName!=='data-status') return;\n          var status=result.getAttribute('data-status');\n          if(['served','requires_call','not_served','unresolved','error'].indexOf(status)>=0) send('coverage_search',{gcpro_result_status:status,gcpro_cta_location:'popup'});\n        });\n      }).observe(result,{attributes:true,attributeFilter:['data-status']});\n    });\n  }\n  scan();new MutationObserver(scan).observe(document.body,{childList:true,subtree:true});\n  send('page_view',{});\n  // Native WPGB field attributes identify controls; no label-text matching.\n  document.addEventListener('change',function(event){\n    var control=event.target.closest('select.wpgb-select'); if(!control) return;\n    var dimension={gcpro_projects_service:'service',gcpro_projects_location:'location',gcpro_projects_property_type:'sector'}[control.name];\n    if(!dimension) return;\n    var value=control.value;\n    if(value && !/^[a-z-]{1,50}$/.test(value)) return;\n    send('portfolio_filter',{gcpro_filter_dimension:dimension,gcpro_filter_value:value||'all'});\n  });\n  document.addEventListener('click',function(event){\n    if(event.target.closest('.wpgb-reset')) send('portfolio_reset',{});\n    if(event.target.closest('.wpgb-load-more')) send('portfolio_load_more',{});\n  });\n})();\n\n</script>"
+          },
+          {
+            "type": "BOOLEAN",
+            "key": "supportDocumentWrite",
+            "value": "false"
+          }
+        ],
+        "firingTriggerId": [
+          "100"
+        ],
+        "tagFiringOption": "ONCE_PER_EVENT",
+        "consentSettings": {
+          "consentStatus": "NEEDED",
+          "consentType": {
+            "type": "LIST",
+            "list": [
+              {
+                "type": "TEMPLATE",
+                "value": "analytics_storage"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "accountId": "6212444930",
+        "containerId": "174858096",
+        "tagId": "102",
+        "name": "GCPRO / QA GA4 events",
+        "type": "gaawe",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "eventName",
+            "value": "{{GCPRO / event_name}}"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "measurementIdOverride",
+            "value": "G-Q32NMQPFMP"
+          },
+          {
+            "type": "BOOLEAN",
+            "key": "sendEcommerceData",
+            "value": "false"
+          },
+          {
+            "type": "LIST",
+            "key": "eventSettingsTable",
+            "list": [
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "cta_location"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{GCPRO / cta_location}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "form_type"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{GCPRO / form_type}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "result_status"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{GCPRO / result_status}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "filter_dimension"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{GCPRO / filter_dimension}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "filter_value"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{GCPRO / filter_value}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "project_id"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{GCPRO / project_id}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "city"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{GCPRO / city}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "service"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{GCPRO / service}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "page_location"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{GCPRO / page_location}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "page_referrer"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{GCPRO / page_referrer}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "page_title"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{GCPRO / page_title}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "debug_mode"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "true"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "firingTriggerId": [
+          "101"
+        ],
+        "tagFiringOption": "ONCE_PER_EVENT",
+        "consentSettings": {
+          "consentStatus": "NEEDED",
+          "consentType": {
+            "type": "LIST",
+            "list": [
+              {
+                "type": "TEMPLATE",
+                "value": "analytics_storage"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "trigger": [
+      {
+        "accountId": "6212444930",
+        "containerId": "174858096",
+        "triggerId": "100",
+        "name": "GCPRO / Staging DOM ready",
+        "type": "DOM_READY",
+        "filter": [
+          {
+            "type": "EQUALS",
+            "parameter": [
+              {
+                "type": "TEMPLATE",
+                "key": "arg0",
+                "value": "{{Page Hostname}}"
+              },
+              {
+                "type": "TEMPLATE",
+                "key": "arg1",
+                "value": "vitaliiv1.sg-host.com"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "accountId": "6212444930",
+        "containerId": "174858096",
+        "triggerId": "101",
+        "name": "GCPRO / Staging event",
+        "type": "CUSTOM_EVENT",
+        "customEventFilter": [
+          {
+            "type": "EQUALS",
+            "parameter": [
+              {
+                "type": "TEMPLATE",
+                "key": "arg0",
+                "value": "{{_event}}"
+              },
+              {
+                "type": "TEMPLATE",
+                "key": "arg1",
+                "value": "gcpro_event"
+              }
+            ]
+          }
+        ],
+        "filter": [
+          {
+            "type": "EQUALS",
+            "parameter": [
+              {
+                "type": "TEMPLATE",
+                "key": "arg0",
+                "value": "{{Page Hostname}}"
+              },
+              {
+                "type": "TEMPLATE",
+                "key": "arg1",
+                "value": "vitaliiv1.sg-host.com"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "accountId": "6212444930",
+        "containerId": "174858096",
+        "triggerId": "102",
+        "name": "GCPRO / Staging page load",
+        "type": "PAGEVIEW",
+        "filter": [
+          {
+            "type": "EQUALS",
+            "parameter": [
+              {
+                "type": "TEMPLATE",
+                "key": "arg0",
+                "value": "{{Page Hostname}}"
+              },
+              {
+                "type": "TEMPLATE",
+                "key": "arg1",
+                "value": "vitaliiv1.sg-host.com"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "variable": [
+      {
+        "accountId": "6212444930",
+        "containerId": "174858096",
+        "variableId": "100",
+        "name": "GCPRO / event_name",
+        "type": "v",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "name",
+            "value": "gcpro_event_name"
+          },
+          {
+            "type": "INTEGER",
+            "key": "dataLayerVersion",
+            "value": "2"
+          },
+          {
+            "type": "BOOLEAN",
+            "key": "setDefaultValue",
+            "value": "false"
+          }
+        ]
+      },
+      {
+        "accountId": "6212444930",
+        "containerId": "174858096",
+        "variableId": "101",
+        "name": "GCPRO / cta_location",
+        "type": "v",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "name",
+            "value": "gcpro_cta_location"
+          },
+          {
+            "type": "INTEGER",
+            "key": "dataLayerVersion",
+            "value": "2"
+          },
+          {
+            "type": "BOOLEAN",
+            "key": "setDefaultValue",
+            "value": "false"
+          }
+        ]
+      },
+      {
+        "accountId": "6212444930",
+        "containerId": "174858096",
+        "variableId": "102",
+        "name": "GCPRO / form_type",
+        "type": "v",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "name",
+            "value": "gcpro_form_type"
+          },
+          {
+            "type": "INTEGER",
+            "key": "dataLayerVersion",
+            "value": "2"
+          },
+          {
+            "type": "BOOLEAN",
+            "key": "setDefaultValue",
+            "value": "false"
+          }
+        ]
+      },
+      {
+        "accountId": "6212444930",
+        "containerId": "174858096",
+        "variableId": "103",
+        "name": "GCPRO / result_status",
+        "type": "v",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "name",
+            "value": "gcpro_result_status"
+          },
+          {
+            "type": "INTEGER",
+            "key": "dataLayerVersion",
+            "value": "2"
+          },
+          {
+            "type": "BOOLEAN",
+            "key": "setDefaultValue",
+            "value": "false"
+          }
+        ]
+      },
+      {
+        "accountId": "6212444930",
+        "containerId": "174858096",
+        "variableId": "104",
+        "name": "GCPRO / filter_dimension",
+        "type": "v",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "name",
+            "value": "gcpro_filter_dimension"
+          },
+          {
+            "type": "INTEGER",
+            "key": "dataLayerVersion",
+            "value": "2"
+          },
+          {
+            "type": "BOOLEAN",
+            "key": "setDefaultValue",
+            "value": "false"
+          }
+        ]
+      },
+      {
+        "accountId": "6212444930",
+        "containerId": "174858096",
+        "variableId": "105",
+        "name": "GCPRO / filter_value",
+        "type": "v",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "name",
+            "value": "gcpro_filter_value"
+          },
+          {
+            "type": "INTEGER",
+            "key": "dataLayerVersion",
+            "value": "2"
+          },
+          {
+            "type": "BOOLEAN",
+            "key": "setDefaultValue",
+            "value": "false"
+          }
+        ]
+      },
+      {
+        "accountId": "6212444930",
+        "containerId": "174858096",
+        "variableId": "106",
+        "name": "GCPRO / project_id",
+        "type": "v",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "name",
+            "value": "gcpro_project_id"
+          },
+          {
+            "type": "INTEGER",
+            "key": "dataLayerVersion",
+            "value": "2"
+          },
+          {
+            "type": "BOOLEAN",
+            "key": "setDefaultValue",
+            "value": "false"
+          }
+        ]
+      },
+      {
+        "accountId": "6212444930",
+        "containerId": "174858096",
+        "variableId": "107",
+        "name": "GCPRO / city",
+        "type": "v",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "name",
+            "value": "gcpro_city"
+          },
+          {
+            "type": "INTEGER",
+            "key": "dataLayerVersion",
+            "value": "2"
+          },
+          {
+            "type": "BOOLEAN",
+            "key": "setDefaultValue",
+            "value": "false"
+          }
+        ]
+      },
+      {
+        "accountId": "6212444930",
+        "containerId": "174858096",
+        "variableId": "108",
+        "name": "GCPRO / service",
+        "type": "v",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "name",
+            "value": "gcpro_service"
+          },
+          {
+            "type": "INTEGER",
+            "key": "dataLayerVersion",
+            "value": "2"
+          },
+          {
+            "type": "BOOLEAN",
+            "key": "setDefaultValue",
+            "value": "false"
+          }
+        ]
+      },
+      {
+        "accountId": "6212444930",
+        "containerId": "174858096",
+        "variableId": "109",
+        "name": "GCPRO / page_location",
+        "type": "v",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "name",
+            "value": "gcpro_page_location"
+          },
+          {
+            "type": "INTEGER",
+            "key": "dataLayerVersion",
+            "value": "2"
+          },
+          {
+            "type": "BOOLEAN",
+            "key": "setDefaultValue",
+            "value": "false"
+          }
+        ]
+      },
+      {
+        "accountId": "6212444930",
+        "containerId": "174858096",
+        "variableId": "110",
+        "name": "GCPRO / page_referrer",
+        "type": "v",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "name",
+            "value": "gcpro_page_referrer"
+          },
+          {
+            "type": "INTEGER",
+            "key": "dataLayerVersion",
+            "value": "2"
+          },
+          {
+            "type": "BOOLEAN",
+            "key": "setDefaultValue",
+            "value": "false"
+          }
+        ]
+      },
+      {
+        "accountId": "6212444930",
+        "containerId": "174858096",
+        "variableId": "111",
+        "name": "GCPRO / page_title",
+        "type": "v",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "name",
+            "value": "gcpro_page_title"
+          },
+          {
+            "type": "INTEGER",
+            "key": "dataLayerVersion",
+            "value": "2"
+          },
+          {
+            "type": "BOOLEAN",
+            "key": "setDefaultValue",
+            "value": "false"
+          }
+        ]
+      }
+    ],
+    "builtInVariable": [
+      {
+        "accountId": "6212444930",
+        "containerId": "174858096",
+        "type": "PAGE_HOSTNAME",
+        "name": "Page Hostname"
+      }
+    ]
+  }
+}

@@ -51,3 +51,7 @@ Their remaining work is a verified concise account of the specific scope/result 
 ## Recovery
 
 Private pre-change snapshots are in workspace work/projects-2026-10-26, excluded from Git. To withdraw this wave: return2077/2078/2079 to Draft and remove them from native catalogue selections; unassign template2125 before restoring their old page bodies. Restore only1132's scoped content and493's original gallery grouping if needed, retaining later owner edits and existing BEAF assets. Keep the imported media for recovery; do not delete shared assets. No production rollback is required.
+
+## Owner typography follow-up — 2026-10-29
+
+Shared Card2233 title763eccfb now ordinary body Inter16px/400 at desktop/tablet/mobile, replacing the prior18/17px trial. Published through native editor; actual guest frontend16px/400 verified. Images, labels, links, taxonomy/query and layout unchanged. [Checkpoint](../ANALYTICS.md).

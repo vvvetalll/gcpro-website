@@ -274,3 +274,7 @@ Current runtime is GCPRO Coverage1.2.2. The129 individually approved records rem
 Fixed a demonstrated close-scroll defect: the bridge previously captured triggers by English label and missed the hubs' “Ask About Your Location”. Before: Escape jumped from scrollY5034.92 to0. Now popup-action settings identify Popup1801 independently of text; Escape restores5034.92 and focus to the same trigger. Central popup.js owns this supplemental behavior; no second modal or data list. Native Elementor retains all form/panel styles.
 
 Actual anonymous browser checks: Enter validation, served60026, uncertain60101, repeated search, one result, published geo and Request Service links, Escape/close/reopen reset, dialog initial focus without input autofocus, Tab containment, Header overlay and orange/white hover. Narrow emulation measured374 CSSpx:322px panel,26px gutters,48px stacked controls, no horizontal overflow. Physical-device/screen-reader verification and mailbox receipt remain unverified.33 synthetic checks and HTTP lookup checks are recorded separately; no eligibility change in this audit.
+
+## Served result color and analytics state — 2026-10-29
+
+Existing Coverage plugin1.2.3 deployed. Result element exposes data-status for centralized analytics, cleared at fresh lookup/reset; error marked separately. Only served background changes to #ecfdf3; neutral unknown/error retained. Guest60026 served/light-green verified; coverage decisions and popup layout unchanged. [Analytics owner](../ANALYTICS.md).

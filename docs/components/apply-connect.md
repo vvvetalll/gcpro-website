@@ -49,3 +49,7 @@ Owner requests graphite headings in text sections regardless of H2/H3 level. Exi
 ## Recovery
 
 Private pre-edit snapshots for486/534/496/2040 remain outside Git. Restore only affected page bodies/Overrides/settings if needed, preserving subsequent owner edits; Contact496 was not changed. Revert Privacy six local colors to color-primary only if owner explicitly changes the typography decision.
+
+## Form-message review — 2026-10-29
+
+Request492 and Contact496 confirmations now say sent, not saved; errors say could not be sent plus retry/verified phone. Apply486 already uses application submitted and was preserved. Saved messages reviewed across all3; native validation retained. Request test saved once, email receipt unverified. [Exact checks](../ANALYTICS.md).

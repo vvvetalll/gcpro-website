@@ -572,3 +572,7 @@ Permanent decorative/service icon family: Flaticon Uicons Regular Rounded (fi-rr
 ## Text-section heading color — owner correction,2026-10-26
 
 Use existing color-text #334155 for headings within editorial text sections regardless of H2/H3 level. Do not alternate graphite H2 with navy H3. Preserve white headings on dark surfaces and intentional navigation/button colors. Privacy3 six local navy overrides corrected natively; Apply/Connect follow this rule. No new variable/class or global palette mutation. [Implementation](components/apply-connect.md).
+
+## Owner type-scale follow-up — 2026-10-29
+
+Native Atomic global H2 default now28px desktop/26px tablet/24px mobile, replacing32/28/24; H1 unchanged. Page-local overrides remain their own explicit owners. Shared project Card2233 title uses ordinary body Inter16px/400. No new typography class/variable or stylesheet. [Checkpoint](ANALYTICS.md).

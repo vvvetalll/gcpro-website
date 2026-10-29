@@ -188,3 +188,7 @@ Use role=dialog, aria-modal=false for small nonmodal popovers containing profile
 ## 2026-10-29 — GCPRO coverage plugin exception
 
 Owner-authorized adaptation under `integrations/gcpro-service-coverage/`, installed1.2.1 staging only. PHP owns one admin registry and lookup; one external popup.js and popup.css replace the existing HTML widget7a5e1801 through the official Elementor render-content filter. Native Popup1801 still owns the modal/form/presentation controls. Admin stylesheet only loads on its own management screen. No copied CM coverage or second modal. Existing Popup1801 document CSS retains only modal/close/focus/motion rules; results are owned solely by popup.css. [Editing, test and rollback record](components/service-availability-popup.md#staging-coverage-bridge-and-owner-approved-cities--2026-10-29).
+
+## Analytics QA / coverage result state — 2026-10-29
+
+Elementor Custom Code3127 (head/priority1/Entire site) is the sole hostname-gated QA GTM loader. `integrations/analytics/qa-loader-template.html` is a redacted reference, not a second enqueue. GTM tag34 owns `integrations/analytics-events.js`; native Google/Event tags31/44 own delivery. No new plugin or HTML widgets. Explicit QA session switch; ordinary visitors not tracked; production activation pending. Native confirmed-success class observer is required because the inspected Atomic handler exposes no success CustomEvent. Coverage plugin1.2.3 popup.js exposes sanitized result status; popup.css owns served-only #ecfdf3, PHP version bump. [Configuration and limitations](ANALYTICS.md).

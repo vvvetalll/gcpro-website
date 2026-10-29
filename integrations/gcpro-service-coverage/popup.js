@@ -18,7 +18,7 @@
     if(!input||!form||!error||!result||!actions) return;
     form.noValidate=true; form.reset(); input.maxLength=80;
     input.setAttribute('aria-describedby','gcpro-coverage-error'); input.removeAttribute('aria-invalid');
-    error.textContent=''; result.textContent=''; actions.replaceChildren(); busy(root,false);
+    error.textContent=''; result.textContent=''; delete result.dataset.status; actions.replaceChildren(); busy(root,false);
     const oldCall=root.querySelector('a[href="tel:+18476563322"]'); if(oldCall) oldCall.hidden=true;
     const modal=root.closest('.elementor-popup-modal');
     modal.setAttribute('role','dialog'); modal.setAttribute('aria-modal','true'); modal.setAttribute('aria-label','Check Service Availability'); modal.tabIndex=-1;
@@ -43,7 +43,7 @@
     event.preventDefault(); event.stopImmediatePropagation();
     cancel(); const token=sequence;
     const {input,error,result,actions,config}=slots(root);
-    error.textContent=''; result.textContent=''; actions.replaceChildren();
+    error.textContent=''; result.textContent=''; delete result.dataset.status; actions.replaceChildren();
     const value=input.value.trim().replace(/\s+/g,' ');
     if(value.length>80 || !(/^[0-9]{5}(?:-[0-9]{4})?$/.test(value)||/^[A-Za-z]+(?:[ .’'\-]+[A-Za-z]+)*$/.test(value))) {
       error.textContent='Enter a city name or a five-digit ZIP code.';input.setAttribute('aria-invalid','true');input.focus({preventScroll:true});return;
@@ -55,6 +55,8 @@
       const data=await response.json(); if(token!==sequence) return;
       if(!response.ok || typeof data.message!=='string' || !Array.isArray(data.actions)) throw Error('lookup');
       result.textContent=data.message;
+      // Public status only: presentation and the centralized analytics bridge never receive input.
+      if(['served','requires_call','not_served','unresolved'].includes(data.status)) result.dataset.status=data.status;
       for(const action of data.actions) {
         if(typeof action.label!=='string'||typeof action.url!=='string') continue;
         const url=new URL(action.url,location.href);
@@ -67,7 +69,7 @@
         link.setAttribute('data-coverage-action','');actions.append(link);
       }
     } catch(errorCaught) {
-      if(token===sequence) { result.textContent='We couldn’t check coverage right now. Please call us.'; const link=document.createElement('a');link.href='tel:+18476563322';link.textContent='Call Now'; const existing=root.querySelector('a[href="tel:+18476563322"]'); if(existing)link.className=existing.className;actions.append(link); }
+      if(token===sequence) { result.textContent='We couldn’t check coverage right now. Please call us.'; result.dataset.status='error'; const link=document.createElement('a');link.href='tel:+18476563322';link.textContent='Call Now'; const existing=root.querySelector('a[href="tel:+18476563322"]'); if(existing)link.className=existing.className;actions.append(link); }
     } finally { clearTimeout(timer); if(token===sequence) {busy(root,false);request=null;} }
   },true);
   document.addEventListener('keydown',event=>{
