@@ -826,3 +826,6 @@ WPGB facets1–5 are live on Archive2232/Loop c61e6a3, native Styles1–3 own co
 
 
 2026-10-29 — Shared Card2233 title changed to Inter500; View project now compact framed action without orange underline. Published, saved-node comparison and actual catalogue click/render checked. [Editing owner and limits](docs/components/projects-acf-prototype.md#2026-10-29--plain-card-typography-and-compact-navigation-action).
+
+
+2026-10-29 Footer114 compact refinement is published on staging; latest owner follow-ups keep24/7 nonlinked and Directions as an address-aligned compact outline. See docs/components/header-footer.md. Visual approval pending; credential verification gaps unchanged.

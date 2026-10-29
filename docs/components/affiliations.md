@@ -100,3 +100,6 @@ Some old rendered HTML persisted after SiteGround purge. Used existing **Element
 
 
 2026-10-29 — Compact Footer114 placement trial now shares a native two-column row with coverage/cities, collapsing to one column on mobile. Logos, text and behavior1881 unchanged. [Layout owner and checks](header-footer.md#2026-10-29--coverage-and-credentials-in-two-columns).
+
+
+2026-10-29 Footer114: native optical sizing and frameless marks only; assets, tooltips, evidence links and central behavior1881 preserved. Current-status gaps above remain unchanged. See header-footer.md compact refinement record.
