@@ -1,5 +1,7 @@
 # GCPRO changelog
 
+**2026-10-29 Project card refinement:** Shared2233 headings now body-font Inter500; View project is a compact framed14px action without the orange underline. Native styles only, published; catalogue render and actual action destination verified. Content, URLs, images, filters and pagination preserved.
+
 **2026-10-29 Oak Brook evidence follow-up:** Five remaining historical candidate journals reviewed and rejected as unperformed. Separate completed mitigation verified, but completion-date images are repetitive meter closeups; no weak case published.39 new cases remain; private evidence saved.
 
 **2026-10-29 Footer layout trial:** Coverage/cities left and credentials right in shared Footer114; native two-column grid, mobile stacking. Existing links/copy/logos/tooltip behavior retained. Saved-tree and focused desktop/mobile-preview checks passed; owner visual acceptance pending.

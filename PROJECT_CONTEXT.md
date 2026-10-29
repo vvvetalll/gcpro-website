@@ -823,3 +823,6 @@ WPGB facets1–5 are live on Archive2232/Loop c61e6a3, native Styles1–3 own co
 
 
 2026-10-29 — Oak Brook research continued after DASH sign-in: five older journals rejected as unperformed; related completed mitigation has eight repetitive meter closeups, not a viable final-photo set. No new case/upload.39 new cases remain Published; fourth Oak Brook still outstanding. Private evidence preserved; see latest DASH workflow checkpoint.
+
+
+2026-10-29 — Shared Card2233 title changed to Inter500; View project now compact framed action without orange underline. Published, saved-node comparison and actual catalogue click/render checked. [Editing owner and limits](docs/components/projects-acf-prototype.md#2026-10-29--plain-card-typography-and-compact-navigation-action).
