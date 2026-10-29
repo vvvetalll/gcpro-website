@@ -97,3 +97,6 @@ Some old rendered HTML persisted after SiteGround purge. Used existing **Element
 - Footer114 meta/tree, current tooltip text/links, central1881 meta/source and shared Why1149 native definition are equal to the pre-rollout snapshots. No scripts were added or duplicated. No review text, widget filters, service content, images, Hero, CTA, URLs, publication states or SEO values were changed.
 - Anonymous raw HTTP requests to all17 ordinary routes returned **HTTP403 Forbidden** from this environment. Authenticated connected-browser rendering was verified; independent incognito/cache-HIT delivery remains unverified. No publishing or rendering blockers remain in the tested session.
 - Current shared-block screenshots: [desktop](../evidence/2026-10-24-affiliations-rollout-desktop.jpg), [mobile](../evidence/2026-10-24-affiliations-rollout-mobile.jpg). Screenshots were cropped to the block only, with no customer reviews/admin details committed.
+
+
+2026-10-29 — Compact Footer114 placement trial now shares a native two-column row with coverage/cities, collapsing to one column on mobile. Logos, text and behavior1881 unchanged. [Layout owner and checks](header-footer.md#2026-10-29--coverage-and-credentials-in-two-columns).

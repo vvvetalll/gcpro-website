@@ -74,3 +74,12 @@ Actual render comparison at equal desktop viewport/top-of-page: archive and Wate
 ## Geographic links — 2026-10-27
 
 Footer114 coverage text5fe71200 now uses neutral address-confirmation wording; cluster32ca356b reuses existing gcpro-footer-link for Chicago, Lombard, Glenview, Northbrook, Oak Brook and Service Area495. Current native Content titles selected; same orange underline/focus owner, no new code/class. Other Footer content preserved. Geo menu items257–260 retained Draft while their target cities await material; unrelated menus unchanged. [Full configuration and recovery](../seo/2026-10-26-geographic-implementation.md#completed-execution--2026-10-27).
+
+
+## 2026-10-29 — Coverage and credentials in two columns
+
+Owner requested a compact side-by-side trial in shared Footer114. Existing coverage5245645d now owns a native two-equal-column grid with48px space-xl gap,32px on tablet; mobile uses one column/32px gap. New plain native container3828779d groups the existing coverage heading43e8f919, paragraph5fe71200 and city links32ca356b. Existing affiliations6c46aed9 is its right sibling, with the previous32px top margin and24px bottom padding removed. Its five-logo row, frames, approved copy, tooltip groups, classes and central behavior1881 are unchanged. No link, logo, content, custom CSS/JS, plugin or global class was added or altered.
+
+Published through the native editor after MCP staging. Saved-tree comparison: one new container, no removed nodes, only5245645d/6c46aed9 direct settings changed; all original content/link nodes equal to the private before snapshot. Actual authenticated Water514 frontend at1707px shows two544px columns sharing the same top coordinate, no horizontal overflow. Native Elementor mobile preview at360px shows one299.56px column with coverage before credentials and no overflow. Physical mobile/guest delivery and a fresh tooltip interaction were not tested. Current authenticated output reflected the saved change, so no cache purge was needed. Owner visual acceptance pending.
+
+Configuration remains editable once in Theme Builder Footer114; this supersedes the earlier stacked cities-then-credentials arrangement. Recovery: private footer114-before snapshot outside Git; restore prior ancestry and the two changed local styles, then remove empty3828779d through native controls. Production unchanged.

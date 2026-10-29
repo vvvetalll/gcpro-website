@@ -817,3 +817,6 @@ WPGB facets1–5 are live on Archive2232/Loop c61e6a3, native Styles1–3 own co
 
 
 2026-10-28 — Oak Brook follow-up: native all-status address search exposed36 records; additional journals rejected unperformed work, administrative duplicates and other-municipality matches. No new suitable fourth case confirmed. WordPress readback verifies all39 matrix cases Published, Oak Brook2701/3003/3012;52 published Projects overall. Owner authorized saving/pushing this incomplete result. [Evidence and remaining requirement](docs/projects/dash-case-workflow.md#oak-brook-additional-search-and-saved-handoff--2026-10-28).
+
+
+2026-10-29 — Shared Footer114 coverage and credentials moved into one native two-column desktop/tablet row, one column mobile. Existing content/links/logos preserved. Published and desktop frontend/mobile editor preview checked; owner acceptance pending. [Owner record](docs/components/header-footer.md#2026-10-29--coverage-and-credentials-in-two-columns).
