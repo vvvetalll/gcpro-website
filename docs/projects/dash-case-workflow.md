@@ -495,3 +495,12 @@ Broadened DASH searches used the two city spelling variants and ZIP, then the na
 No suitable additional case was confirmed during this pass. Existing completed-work reserves still need stronger original final photographs or reconciliation of image stage against completion records. Their source references, private notes and photographs remain outside public GitHub. This does not establish that DASH contains no other suitable Oak Brook work. **Remaining: one fourth distinct Oak Brook case with supported completed scope and a useful, varied, privacy-safe image set.** No new placeholder, duplicate departmental case, invented outcome, unrelated design/filter edit or production change was made.
 
 Verification was limited to the affected published case statuses and saved city assignments; unchanged pages were not re-audited. No new desktop/mobile or guest-delivery test is claimed by this research-only checkpoint.
+
+
+### Oak Brook remaining historical journals — 2026-10-29
+
+Read the five previously unreviewed older candidates from the all-status address register. Their journals document cancelled appointments, preliminary estimates without authorization, other vendors already onsite or a declined contents-moving request. None supports another completed GCPRO case.
+
+Also read a related mitigation record separately from its cancelled reconstruction department. The journal does support completed water mitigation, equipment removal and closeout. However, its completion-date photograph group consists of eight repetitive moisture-meter closeups rather than varied final-room views. Downloaded originals were3024×4032/4032×3024; contact-sheet review rejected this group for public case selection. No new case, upload, BEAF comparison or website content was created. Additional source/journal details, actual financial fields and original photographs are retained privately. Another related contents record remains unreviewed; no claim of exhaustive DASH review is made.
+
+Status remains39 new Published cases: nine cities have four, Oak Brook three. The remaining gap is useful original final/Before-After photography for a distinct verified completed Oak Brook job, not proof that no such job exists. Separate owner-requested Footer layout trial was published and recorded in the existing Header/Footer component record.

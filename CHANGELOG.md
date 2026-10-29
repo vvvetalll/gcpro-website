@@ -1,5 +1,7 @@
 # GCPRO changelog
 
+**2026-10-29 Oak Brook evidence follow-up:** Five remaining historical candidate journals reviewed and rejected as unperformed. Separate completed mitigation verified, but completion-date images are repetitive meter closeups; no weak case published.39 new cases remain; private evidence saved.
+
 **2026-10-29 Footer layout trial:** Coverage/cities left and credentials right in shared Footer114; native two-column grid, mobile stacking. Existing links/copy/logos/tooltip behavior retained. Saved-tree and focused desktop/mobile-preview checks passed; owner visual acceptance pending.
 
 **2026-10-28 Oak Brook follow-up handoff:** Expanded all-status address search and additional journal review; no new suitable case confirmed or uploaded. All39 matrix cases verified Published; Oak Brook remains three, one short of target. Sanitized findings and exact remaining requirement recorded in the existing DASH workflow; private source details remain outside Git.

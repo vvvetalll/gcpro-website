@@ -820,3 +820,6 @@ WPGB facets1–5 are live on Archive2232/Loop c61e6a3, native Styles1–3 own co
 
 
 2026-10-29 — Shared Footer114 coverage and credentials moved into one native two-column desktop/tablet row, one column mobile. Existing content/links/logos preserved. Published and desktop frontend/mobile editor preview checked; owner acceptance pending. [Owner record](docs/components/header-footer.md#2026-10-29--coverage-and-credentials-in-two-columns).
+
+
+2026-10-29 — Oak Brook research continued after DASH sign-in: five older journals rejected as unperformed; related completed mitigation has eight repetitive meter closeups, not a viable final-photo set. No new case/upload.39 new cases remain Published; fourth Oak Brook still outstanding. Private evidence preserved; see latest DASH workflow checkpoint.
