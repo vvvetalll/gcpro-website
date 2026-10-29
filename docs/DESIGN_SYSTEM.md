@@ -576,3 +576,8 @@ Use existing color-text #334155 for headings within editorial text sections rega
 ## Owner type-scale follow-up — 2026-10-29
 
 Native Atomic global H2 default now28px desktop/26px tablet/24px mobile, replacing32/28/24; H1 unchanged. Page-local overrides remain their own explicit owners. Shared project Card2233 title uses ordinary body Inter16px/400. No new typography class/variable or stylesheet. [Checkpoint](ANALYTICS.md).
+
+
+### 2026-10-29 — Resources follow-up
+
+Resources editorial masthead: native synced pattern3159 owns title/excerpt/topic/dates/featured image; left reading edge follows Single123 content boundary. Informational article header has no sales buttons/reviews. Native Kit6 link colors use existing primary/hover tokens and Inter. Cards3133/2233 retain one whole-card anchor and discreet14px action spans with180ms native hover.

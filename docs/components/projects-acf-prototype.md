@@ -272,3 +272,8 @@ Guest functional test: Fire4; Fire+Lombard1; +Residential1; Naperville4; Commerc
 Latest owner follow-up: title763eccfb uses ordinary Inter/body400,18px desktop/tablet and17px mobile. Native style only; action and layout untouched. Native editor publication/readback and guest geo render400 verified. Future optional short-title fallback and separate taxonomy location metadata remain unfinished as previously recorded; all52 current Published cards have explicit display titles. No new workaround added.
 
 All10 geo loops resolve to their own assigned location: nine show4 current cases, Oak Brook3. Existing BEAF/older proof blocks remain separate. Each page retains one inset mid-page CTA after projects and one final CTA after FAQ. No project content, taxonomy assignments or URL/status changes.
+
+
+### 2026-10-29 — Resources follow-up
+
+Resources consistency2026-10-29: shared Card2233 action3b612ec uses restrained14px Inter500, no decorative underline/frame, native180ms translate/color hover; it remains a span inside the unchanged whole-card native anchor. No case/query/taxonomy/URL changes.

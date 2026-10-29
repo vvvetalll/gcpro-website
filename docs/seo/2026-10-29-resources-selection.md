@@ -41,3 +41,11 @@ The three published articles retain their exact production paths: no301 needed. 
 Current categories40 Water Damage,41 Fire & Smoke,42 Mold each contain one published article; no empty Reconstruction category, location filter or tag index added. Existing AIOSEO remains the sole metadata/Article-schema owner; sitemap generation stays disabled and staging stays noindex.
 
 Implementation/editing/verification: [Resources component record](../components/resources.md).
+
+## Owner-authorized expansion checkpoint — 2026-10-29 (supersedes initial three-only selection)
+
+The owner requested a substantial useful blog and authorized improving original articles based on content value, while preserving the distinction from demonstrated traffic. Nine more originals were inspected and rewritten for informational intent:2045 hidden damage;2046 first steps;2064 ceiling damage;2068 basement flooding;2069 floor repairs;2067 smoke cleanup;2070 reconstruction;2072 mold prevention;2066 drain backups. Together with2047/2056/2057,12 are Published. Original IDs, paths and production publication dates retained. Canonical inventory rows record the changed decision. No new positive traffic, conversion or backlink-quality evidence is implied.
+
+Category counts: Water7, Fire2, Mold2, Reconstruction1.18 original articles remain Draft; the two ROBYLO sample Posts are also Draft and excluded.2064 backlink count remains historically reported, quality unknown; publication now follows explicit owner content-value authorization rather than a fabricated backlink assessment.2054 proposed equivalence/redirect remains review-only. No redirects deployed.
+
+Outdated unsupported statistics, DIY chemical/ceiling intervention, mold-testing claims and unconfirmed storage/insurance logistics removed. Photos and captions use verified existing projects without presenting them as the article city's work. Full query-to-page joins, attributed enquiries and backlink quality remain missing. Earlier27-Draft/three-only statements above describe the first checkpoint, not current deployment.

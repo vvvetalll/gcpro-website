@@ -192,3 +192,8 @@ Owner-authorized adaptation under `integrations/gcpro-service-coverage/`, instal
 ## Analytics QA / coverage result state — 2026-10-29
 
 Elementor Custom Code3127 (head/priority1/Entire site) is the sole hostname-gated QA GTM loader. `integrations/analytics/qa-loader-template.html` is a redacted reference, not a second enqueue. GTM tag34 owns `integrations/analytics-events.js`; native Google/Event tags31/44 own delivery. No new plugin or HTML widgets. Explicit QA session switch; ordinary visitors not tracked; production activation pending. Native confirmed-success class observer is required because the inspected Atomic handler exposes no success CustomEvent. Coverage plugin1.2.3 popup.js exposes sanitized result status; popup.css owns served-only #ecfdf3, PHP version bump. [Configuration and limitations](ANALYTICS.md).
+
+
+### 2026-10-29 — Resources follow-up
+
+Resources follow-up: Archive124 Nav Menu6eb3c3c0 is the single scoped V3 Custom CSS owner for topic typography, light panel and active/hover/focus states. Existing Header113 document Custom CSS retains breakpoint/focus rules and owns ancestor highlighting/removal of orange menu lines. No new JS/PHP/filter logic. Native Kit6 Theme Style and core block style attributes are native presentation controls, not a second stylesheet. Restore private pre-change snapshots for rollback.

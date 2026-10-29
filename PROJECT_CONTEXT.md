@@ -842,3 +842,6 @@ WPGB facets1–5 are live on Archive2232/Loop c61e6a3, native Styles1–3 own co
 
 
 2026-10-29 — Coverage review proposal prepared before checker cutover. Existing register expanded to137 records with115 Census2020 ZCTA/place associations, source dates/hashes, cross-boundary flags, separate WordPress geo references and unapproved recommendations. Two served candidates (60201/60202);113 call-required ZIP proposals; no approved exclusions. Census geography is not current USPS delivery data. [Review table and exact outstanding decisions](docs/components/service-availability-popup.md#coverage-proposal-for-owner-review--2026-10-29). Separate GCPRO adaptation authorized; see latest implementation checkpoint in the same record.
+
+
+2026-10-29 — Current Resources checkpoint:12 original articles Published,18 legacy Drafts; two ROBYLO demos moved Private→Draft. Single123 uses editorial pattern3159 (H1/excerpt/category/dates/photo), no service Hero actions/reviews. Original dates/URLs preserved; guest HTTP verifies all12. Native and scoped styling owners documented; browser visual acceptance pending. See docs/components/resources.md current follow-up.
