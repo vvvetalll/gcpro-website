@@ -1,5 +1,7 @@
 # GCPRO changelog
 
+**2026-10-29 Footer logo rollback:** Owner requested previous compact credential dimensions; then adjusted five logo widths to an intermediate scale after owner review. Separated lower areas/credentials group with a subtle native divider. Remaining Footer refinement preserved.
+
 **2026-10-29 Compact Footer114:** Shortened headings, compact city group, frameless optical credential sizing, subtler dividers and one desktop legal row. Owner follow-up keeps24/7 plain and uses an address-aligned compact Directions outline button. Native controls; existing links/tooltips preserved. Focused desktop/mobile frontend checks recorded.
 
 **2026-10-29 Project card refinement:** Shared2233 headings now body-font Inter500; View project is a compact framed14px action without the orange underline. Native styles only, published; catalogue render and actual action destination verified. Content, URLs, images, filters and pagination preserved.

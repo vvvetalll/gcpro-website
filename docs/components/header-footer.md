@@ -96,3 +96,16 @@ Owner follow-up supersedes the initial brief: emergency286 instance stays plain,
 Recovery: full before/after private snapshots outside Git in outputs/private-footer-refine-1029. Initial saved comparison: only new7c8ffa61; removed old Directions instance37cec545 and paragraph5fe71200. Named Internal URL Content bindings for service/city/legal links preserved.
 
 Verification: actual authenticated homepage and Water Damage frontend share the new headings, content and correct hrefs. Six Residential service destinations, six city/directory links, legal/social/email/phone/Maps destinations checked; no call placed. Desktop three-column/lower-two-column output and393px single-column mobile output inspected; no horizontal overflow, all five logos loaded with aspect ratios intact. Keyboard Tab showed orange focus on service links; IICRC tooltip opened and Escape closed it. Directions hover exercised; native hover/focus styles saved. Back-to-top href retained. After the final publish, stale generated-style references were observed on cached HTML. Used the existing staging Purge SG Cache action; plain homepage then loaded the navy Footer with the saved36px address/button alignment. Mobile Water Damage also confirmed equal56px address/button x coordinates and no overflow. Physical-device and anonymous delivery not certified in this pass. Staging noindex and production unchanged. Owner visual acceptance pending.
+
+
+### Owner follow-up — restore compact credential logo sizes, 2026-10-29
+
+Reverted only the five Footer114 image dimensions to the pre-refinement values: IICRC23×32, IAQA24×32, BBB19×32, RIA52×24, Restoration Affiliates44×32px; contain fit and same mobile values. Frames remain removed; newer Footer structure, links, tooltips and Directions button unchanged. Native controls; private pre-rollback snapshot retained.
+
+Owner additional refinement: lower two-column group5245645d now has a native1px white16% top divider and24px top/bottom padding, separating Service Areas/Credentials from the main three-column Footer. No new wrapper, code or destination changes.
+
+Owner rejected the full size rollback as too small. Final intermediate widths: IICRC30, IAQA30, BBB24, RIA70 and Restoration Affiliates56px, height auto, same mobile dimensions. Lower divider uses explicit native border widths1/0/0/0. This supersedes the compact-dimension rollback above.
+
+Final owner follow-up restores individual thin white22% frames:6px radius/padding,54px minimum height, existing tooltip hooks preserved. Intermediate image sizes retained. Native lower-group styles replaced to remove a conflicting zero-width border declaration introduced during the first divider attempt.
+
+Verified live after native Elementor Tools → Clear Files & Data (success state) and staging SG cache purge: five intermediate logo widths30/30/24/70/56px, visible1px logo frames and lower-group top divider; no horizontal overflow. Earlier publish-only checks still served stale compiled CSS. No new code added.
