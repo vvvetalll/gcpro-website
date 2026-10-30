@@ -63,3 +63,22 @@ Edit comparison content only in existing BEAF723 when all its consumers should c
 To restore static E70: save current state, delete only Shortcode30e0c45 through Elementor, insert native Image973 into visual484c13ec with width100%/height:auto/display:block, remove only its popup suppression rule; preserve radius8px/clipping and all other Hero settings. [E70 exact settings](../audits/2026-10-20-hero-concept-b-activation-settings.json) are a scoped recovery record. Publish154, purge staging cache and recheck six widths/links/menu/Bottom CTA. This does not affect Draft970 or originals.
 
 To restore prior technician Hero, use [reviewed E70 before-state](../audits/2026-10-20-hero-concept-b-activation-before.json) for only the154 Hero subtree, retaining961. Re-read current state first; do not overwrite later unrelated sections. Restoring the deleted empty panorama class is unnecessary for either E70 static or the E68 technician recovery, neither references it. Git revert alone does not undo WordPress changes.
+
+
+## Current owner-approved homepage Hero — 2026-10-30
+
+Supersedes the earlier Home Hero descriptions for the active page. After reviewing Draft3625, the owner explicitly authorized replacing only the Homepage154 Hero while retaining the existing headline/introduction. Homepage now has native page-local section3253a11: navy background, left copy/actions/reviews, right existing Shortcode8d1585a `[bafg id="723"]`. Existing component1318 and its other consumers remain unchanged. This is not yet a universal shared Hero with a media selector.
+
+Preserved headline `Property restoration in Chicago`, original introduction, Call tel:+18476563322 and Request Service internal page492. Existing emergency component286 is first in left container11fdef8; existing Google widget ID68cbfa084c2c4209d756fb278a2 is under the buttons, locally aligned left. No review number hardcoded. Original Tinley images and BEAF723 unchanged; new instance reuses the existing record.
+
+Caption9057c36 is12px, #AAB8D4, right aligned: `Tinley Park, IL · Fire restoration · View project →`, linking directly to the published Tinley case. One scoped native Shortcode Custom CSS rule applies12px border radius/overflow:hidden to its own comparison only; no BEAF plugin/global changes.
+
+Actual saved authenticated frontend: old H1 and introduction present, comparison right of text, images loaded, one initialized divider; pointer drag changed handle left276px→350.889px. No horizontal overflow. Native editor mobile345px: scrollWidth345=clientWidth345. Initial mobile evaluation timed out during device reload; subsequent check passed. Mobile slider interaction, anonymous delivery and an exhaustive width matrix were not tested in this checkpoint. Staging robots remains noindex,nofollow.
+
+All nine following Homepage sections were compared as complete native settings/styles subtrees against the fresh pre-swap snapshot and are identical. Homepage Settings→Reading, menus and production unchanged apart from the separately authorized staging Header typography correction.
+
+Draft3625 remains Draft at https://vitaliiv1.sg-host.com/?page_id=3625&preview=true and contains only the blue Hero study; full concise homepage prototype remains incomplete. Its native Shortcode was changed723→742 in editor and the Glenview image pair rendered, then restored/saved723 and verified in preview. This proves a different comparison can be selected in a page-local media container; it does not prove arbitrary content overrides inside a shared component.
+
+Next owner request: prepare one universal Hero with per-page image OR existing Before/After selection. Current1318 Photo override remains image-only. Do not describe the universal selector as implemented or roll out page copies. Existing Components documentation describes exposed field overrides: https://elementor.com/help/components-2/ . Native generic slot support has not been established.
+
+Private recovery: homepage-prototype-20261030/home154-before-hero-swap.json and home154-after-hero-swap.json under local private backups. To roll back, restore only the former first Hero instance6380d020, preserving later changes and all following sections.

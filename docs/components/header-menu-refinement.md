@@ -45,3 +45,8 @@ Private pre-change Header snapshot: workspace work/menu-refinement-before.json, 
 
 
 Latest owner correction,2026-10-30: dropdown action items now use a thin1px orange color-accent outline with transparent background in normal/hover/focus states, navy text and existing6px corners. This supersedes the pale-orange fill described above. Header113/Nav7983af36 remains sole owner; native saved readback verified. Links, order and main CTA unchanged.
+
+
+## Owner font correction — 2026-10-30
+
+Header113 primary Nav7983af36 now uses native Main Menu Typography Size18px. Removed only its old local `font-size:15px !important` declaration, which overrode the native control; recovery CSS reference updated accordingly. Actual saved Homepage frontend computed18px for all five visible desktop primary items. Utility and submenu sizes and menu records unchanged. This supersedes15px above. No new stylesheet or plugin.
