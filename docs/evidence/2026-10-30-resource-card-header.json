@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-30",
+  "environment": "staging",
+  "card_whole_link_count": 12,
+  "card_hover_arrow_rule": true,
+  "card_keyboard_arrow_rule": true,
+  "sample_article_h1_count": 1,
+  "native_columns": true,
+  "date_count": 2,
+  "noindex": true,
+  "limitation": "Guest HTML and generated CSS checked; actual browser hover/mobile visual verification not completed."
+}
