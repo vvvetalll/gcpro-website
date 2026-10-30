@@ -800,3 +800,6 @@ Published native shared582 and68 heading20/20/18px, graphite color-text, matchin
 ### 2026-10-29 — Resources editorial redesign on staging
 
 Owner-directed redesign published through existing Elementor MCP: Archive124 automatic lead story plus3/2/1 cards and wrapping native topic chips; Resource Card3133 full-bleed16:9 photo and24px/21px title; Single123 inset split core masthead and centered760px reading body. V3 CSS scoping corrected after actual frontend review.1280px desktop/390px mobile checks, category navigation and7+5 unique pagination verified. Content/IDs/URLs/dates/Header/Footer/Projects preserved; no new classes,Components,Variables,assets,JS/PHP/plugins. Anonymous delivery, physical devices, exhaustive keyboard review and final owner visual acceptance remain unclaimed. [Exact owners and recovery](docs/components/resources.md#2026-10-29--owner-directed-resources-visual-redesign).
+
+
+Latest owner correction,2026-10-30: dropdown action items now use a thin1px orange color-accent outline with transparent background in normal/hover/focus states, navy text and existing6px corners. This supersedes the pale-orange fill described above. Header113/Nav7983af36 remains sole owner; native saved readback verified. Links, order and main CTA unchanged.

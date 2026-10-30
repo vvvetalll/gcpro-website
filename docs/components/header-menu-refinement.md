@@ -42,3 +42,6 @@ Authenticated Homepage desktop: both navigation styles render independently; Res
 ## Recovery
 
 Private pre-change Header snapshot: workspace work/menu-refinement-before.json, excluded from Git. Restore only the two original widget local styles and pointer=underline, then publish Header113; do not restore the entire Header over newer owner edits. No WordPress menu/content rollback is necessary.
+
+
+Latest owner correction,2026-10-30: dropdown action items now use a thin1px orange color-accent outline with transparent background in normal/hover/focus states, navy text and existing6px corners. This supersedes the pale-orange fill described above. Header113/Nav7983af36 remains sole owner; native saved readback verified. Links, order and main CTA unchanged.
