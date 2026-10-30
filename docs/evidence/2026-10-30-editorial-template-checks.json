@@ -1,0 +1,541 @@
+{
+  "date": "2026-10-30",
+  "method": "Unauthenticated HTTP/HTML plus authenticated native WordPress saved-setting readback; not browser visual or interaction testing",
+  "article_counts": {
+    "published": 14,
+    "draft": 16
+  },
+  "published_projects_before": 52,
+  "published_projects_after": 52,
+  "project_content_changes": [],
+  "checks": [
+    {
+      "id": 2045,
+      "type": "article",
+      "url": "https://vitaliiv1.sg-host.com/signs-of-hidden-water-damage-in-your-home/",
+      "status": 200,
+      "h1_count": 1,
+      "h1": [
+        "Signs of Hidden Water Damage: What to Look For"
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/signs-of-hidden-water-damage-in-your-home/",
+      "noindex": true,
+      "opening_present": true,
+      "opening_photographs": 1,
+      "opening_sales_actions": false,
+      "external_source_images": [],
+      "opening_image_follows_h1": true,
+      "dates": [
+        "Feb 19, 2025",
+        "Oct 30, 2026"
+      ],
+      "gallery_lightbox_anchors": 0
+    },
+    {
+      "id": 2046,
+      "type": "article",
+      "url": "https://vitaliiv1.sg-host.com/what-to-do-if-you-notice-water-damage-in-your-home/",
+      "status": 200,
+      "h1_count": 1,
+      "h1": [
+        "Water Damage at Home: What to Do First"
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/what-to-do-if-you-notice-water-damage-in-your-home/",
+      "noindex": true,
+      "opening_present": true,
+      "opening_photographs": 1,
+      "opening_sales_actions": false,
+      "external_source_images": [],
+      "opening_image_follows_h1": true,
+      "dates": [
+        "Feb 19, 2025",
+        "Oct 30, 2026"
+      ],
+      "gallery_lightbox_anchors": 0
+    },
+    {
+      "id": 2047,
+      "type": "article",
+      "url": "https://vitaliiv1.sg-host.com/how-board-up-services-save-chicago-businesses-after-a-disaster/",
+      "status": 200,
+      "h1_count": 1,
+      "h1": [
+        "What Temporary Board-Up Can and Cannot Do"
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/how-board-up-services-save-chicago-businesses-after-a-disaster/",
+      "noindex": true,
+      "opening_present": true,
+      "opening_photographs": 1,
+      "opening_sales_actions": false,
+      "external_source_images": [],
+      "opening_image_follows_h1": true,
+      "dates": [
+        "Jan 20, 2025",
+        "Oct 30, 2026"
+      ],
+      "gallery_lightbox_anchors": 0
+    },
+    {
+      "id": 2050,
+      "type": "article",
+      "url": "https://vitaliiv1.sg-host.com/black-mold-vs-regular-mold-understanding-the-difference/",
+      "status": 200,
+      "h1_count": 1,
+      "h1": [
+        "Black Mold and Other Mold: What Color Can Tell You"
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/black-mold-vs-regular-mold-understanding-the-difference/",
+      "noindex": true,
+      "opening_present": true,
+      "opening_photographs": 1,
+      "opening_sales_actions": false,
+      "external_source_images": [],
+      "opening_image_follows_h1": true,
+      "dates": [
+        "May 16, 2024",
+        "Oct 30, 2026"
+      ],
+      "gallery_lightbox_anchors": 0
+    },
+    {
+      "id": 2056,
+      "type": "article",
+      "url": "https://vitaliiv1.sg-host.com/water-damage-restoration-in-winnetka-expert-insights-from-gcpro/",
+      "status": 200,
+      "h1_count": 1,
+      "h1": [
+        "Water Damage in Winnetka: Before You Repair"
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/water-damage-restoration-in-winnetka-expert-insights-from-gcpro/",
+      "noindex": true,
+      "opening_present": true,
+      "opening_photographs": 1,
+      "opening_sales_actions": false,
+      "external_source_images": [],
+      "opening_image_follows_h1": true,
+      "dates": [
+        "Feb 12, 2024",
+        "Oct 30, 2026"
+      ],
+      "gallery_lightbox_anchors": 0
+    },
+    {
+      "id": 2057,
+      "type": "article",
+      "url": "https://vitaliiv1.sg-host.com/mold-remediation-in-glenview-a-comprehensive-guide/",
+      "status": 200,
+      "h1_count": 1,
+      "h1": [
+        "Mold Cleanup: Moisture, Materials and Repairs"
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/mold-remediation-in-glenview-a-comprehensive-guide/",
+      "noindex": true,
+      "opening_present": true,
+      "opening_photographs": 1,
+      "opening_sales_actions": false,
+      "external_source_images": [],
+      "opening_image_follows_h1": true,
+      "dates": [
+        "Feb 6, 2024",
+        "Oct 30, 2026"
+      ],
+      "gallery_lightbox_anchors": 0
+    },
+    {
+      "id": 2062,
+      "type": "article",
+      "url": "https://vitaliiv1.sg-host.com/choosing-the-right-water-damage-restoration-service-a-buyers-guide/",
+      "status": 200,
+      "h1_count": 1,
+      "h1": [
+        "Questions to Ask Before Water Damage Restoration"
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/choosing-the-right-water-damage-restoration-service-a-buyers-guide/",
+      "noindex": true,
+      "opening_present": true,
+      "opening_photographs": 1,
+      "opening_sales_actions": false,
+      "external_source_images": [],
+      "opening_image_follows_h1": true,
+      "dates": [
+        "Feb 2, 2024",
+        "Oct 30, 2026"
+      ],
+      "gallery_lightbox_anchors": 0
+    },
+    {
+      "id": 2064,
+      "type": "article",
+      "url": "https://vitaliiv1.sg-host.com/understanding-and-addressing-ceiling-water-damage-a-comprehensive-guide/",
+      "status": 200,
+      "h1_count": 1,
+      "h1": [
+        "Ceiling Water Damage: Stains, Leaks and Repair Decisions"
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/understanding-and-addressing-ceiling-water-damage-a-comprehensive-guide/",
+      "noindex": true,
+      "opening_present": true,
+      "opening_photographs": 1,
+      "opening_sales_actions": false,
+      "external_source_images": [],
+      "opening_image_follows_h1": true,
+      "dates": [
+        "Feb 1, 2024",
+        "Oct 30, 2026"
+      ],
+      "gallery_lightbox_anchors": 0
+    },
+    {
+      "id": 2066,
+      "type": "article",
+      "url": "https://vitaliiv1.sg-host.com/the-complete-guide-to-sewage-cleanup-safety-steps-and-services/",
+      "status": 200,
+      "h1_count": 1,
+      "h1": [
+        "After a Drain Backup: Cleanup, Materials and Repair Decisions"
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/the-complete-guide-to-sewage-cleanup-safety-steps-and-services/",
+      "noindex": true,
+      "opening_present": true,
+      "opening_photographs": 1,
+      "opening_sales_actions": false,
+      "external_source_images": [],
+      "opening_image_follows_h1": true,
+      "dates": [
+        "Feb 1, 2024",
+        "Oct 30, 2026"
+      ],
+      "gallery_lightbox_anchors": 0
+    },
+    {
+      "id": 2067,
+      "type": "article",
+      "url": "https://vitaliiv1.sg-host.com/comprehensive-smoke-cleanup-strategies-for-effective-restoration/",
+      "status": 200,
+      "h1_count": 1,
+      "h1": [
+        "Smoke Residue and Odors: How Cleanup Decisions Differ"
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/comprehensive-smoke-cleanup-strategies-for-effective-restoration/",
+      "noindex": true,
+      "opening_present": true,
+      "opening_photographs": 1,
+      "opening_sales_actions": false,
+      "external_source_images": [],
+      "opening_image_follows_h1": true,
+      "dates": [
+        "Jan 26, 2024",
+        "Oct 30, 2026"
+      ],
+      "gallery_lightbox_anchors": 0
+    },
+    {
+      "id": 2068,
+      "type": "article",
+      "url": "https://vitaliiv1.sg-host.com/flooded-basement-a-step-by-step-guide-to-water-damage-control/",
+      "status": 200,
+      "h1_count": 1,
+      "h1": [
+        "A Flooded Basement: Assessing the Damage Before Repairs"
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/flooded-basement-a-step-by-step-guide-to-water-damage-control/",
+      "noindex": true,
+      "opening_present": true,
+      "opening_photographs": 1,
+      "opening_sales_actions": false,
+      "external_source_images": [],
+      "opening_image_follows_h1": true,
+      "dates": [
+        "Jan 25, 2024",
+        "Oct 30, 2026"
+      ],
+      "gallery_lightbox_anchors": 0
+    },
+    {
+      "id": 2069,
+      "type": "article",
+      "url": "https://vitaliiv1.sg-host.com/water-damage-floor-repair-a-homeowners-guide-to-restoration/",
+      "status": 200,
+      "h1_count": 1,
+      "h1": [
+        "Water-Damaged Floors: Repairing the Layers Beneath the Finish"
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/water-damage-floor-repair-a-homeowners-guide-to-restoration/",
+      "noindex": true,
+      "opening_present": true,
+      "opening_photographs": 1,
+      "opening_sales_actions": false,
+      "external_source_images": [],
+      "opening_image_follows_h1": true,
+      "dates": [
+        "Jan 25, 2024",
+        "Oct 30, 2026"
+      ],
+      "gallery_lightbox_anchors": 0
+    },
+    {
+      "id": 2070,
+      "type": "article",
+      "url": "https://vitaliiv1.sg-host.com/comprehensive-rebuild-full-service-reconstruction-explained/",
+      "status": 200,
+      "h1_count": 1,
+      "h1": [
+        "Reconstruction After Damage: From Opened Areas to Finished Rooms"
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/comprehensive-rebuild-full-service-reconstruction-explained/",
+      "noindex": true,
+      "opening_present": true,
+      "opening_photographs": 1,
+      "opening_sales_actions": false,
+      "external_source_images": [],
+      "opening_image_follows_h1": true,
+      "dates": [
+        "Jan 24, 2024",
+        "Oct 30, 2026"
+      ],
+      "gallery_lightbox_anchors": 0
+    },
+    {
+      "id": 2072,
+      "type": "article",
+      "url": "https://vitaliiv1.sg-host.com/breathe-easy-preventing-mold-in-your-home/",
+      "status": 200,
+      "h1_count": 1,
+      "h1": [
+        "Preventing Mold: Start With Moisture, Leaks and Condensation"
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/breathe-easy-preventing-mold-in-your-home/",
+      "noindex": true,
+      "opening_present": true,
+      "opening_photographs": 1,
+      "opening_sales_actions": false,
+      "external_source_images": [],
+      "opening_image_follows_h1": true,
+      "dates": [
+        "Jan 24, 2024",
+        "Oct 30, 2026"
+      ],
+      "gallery_lightbox_anchors": 0
+    },
+    {
+      "id": 2075,
+      "type": "project",
+      "url": "https://vitaliiv1.sg-host.com/portfolio/home-remodeling-oakbrook/",
+      "status": 200,
+      "h1_count": 1,
+      "h1": [
+        "Home Remodeling \u2013 Oak Brook, IL"
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/portfolio/home-remodeling-oakbrook/",
+      "noindex": true,
+      "opening_present": true,
+      "opening_photographs": 1,
+      "opening_sales_actions": false,
+      "external_source_images": [],
+      "opening_image_follows_h1": true,
+      "dates": [],
+      "gallery_lightbox_anchors": 16
+    },
+    {
+      "id": 2076,
+      "type": "project",
+      "url": "https://vitaliiv1.sg-host.com/portfolio/water-damage-restoration-in-western-spring/",
+      "status": 200,
+      "h1_count": 1,
+      "h1": [
+        "Water Damage Restoration \u2013 Western Spring"
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/portfolio/water-damage-restoration-in-western-spring/",
+      "noindex": true,
+      "opening_present": true,
+      "opening_photographs": 1,
+      "opening_sales_actions": false,
+      "external_source_images": [],
+      "opening_image_follows_h1": true,
+      "dates": [],
+      "gallery_lightbox_anchors": 12
+    },
+    {
+      "id": 3003,
+      "type": "project",
+      "url": "https://vitaliiv1.sg-host.com/portfolio/oak-brook-kitchen-living-spaces-home-remodel/",
+      "status": 200,
+      "h1_count": 1,
+      "h1": [
+        "Kitchen and Living Spaces Renewed in a Whole-Home Remodel \u2014 Oak Brook, IL"
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/portfolio/oak-brook-kitchen-living-spaces-home-remodel/",
+      "noindex": true,
+      "opening_present": true,
+      "opening_photographs": 1,
+      "opening_sales_actions": false,
+      "external_source_images": [],
+      "opening_image_follows_h1": true,
+      "dates": [],
+      "gallery_lightbox_anchors": 6
+    },
+    {
+      "id": 3012,
+      "type": "project",
+      "url": "https://vitaliiv1.sg-host.com/portfolio/oak-brook-mold-affected-basement-walls-opened-dried/",
+      "status": 200,
+      "h1_count": 1,
+      "h1": [
+        "Mold-Affected Basement Walls Opened and Dried \u2014 Oak Brook, IL"
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/portfolio/oak-brook-mold-affected-basement-walls-opened-dried/",
+      "noindex": true,
+      "opening_present": true,
+      "opening_photographs": 1,
+      "opening_sales_actions": false,
+      "external_source_images": [],
+      "opening_image_follows_h1": true,
+      "dates": [],
+      "gallery_lightbox_anchors": 6
+    }
+  ],
+  "pagination": {
+    "first_status": 200,
+    "first_count": 12,
+    "next_url": "https://vitaliiv1.sg-host.com/blog/?e-page-a6bffe2=2",
+    "second_status": 200,
+    "second_count": 2,
+    "unique": 14,
+    "overlap": []
+  },
+  "internal_links": [
+    {
+      "url": "https://vitaliiv1.sg-host.com/",
+      "status": 200
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/black-mold-vs-regular-mold-understanding-the-difference/",
+      "status": 200
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/blog/",
+      "status": 200
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/breathe-easy-preventing-mold-in-your-home/",
+      "status": 200
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/category/fire-smoke/",
+      "status": 200
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/category/mold/",
+      "status": 200
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/category/reconstruction/",
+      "status": 200
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/category/water-damage/",
+      "status": 200
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/choosing-the-right-water-damage-restoration-service-a-buyers-guide/",
+      "status": 200
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/commercial-services/",
+      "status": 200
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/commercial-services/water-damage/",
+      "status": 200
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/comprehensive-rebuild-full-service-reconstruction-explained/",
+      "status": 200
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/mold-remediation-in-glenview-a-comprehensive-guide/",
+      "status": 200
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/portfolio/",
+      "status": 200
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/portfolio/carol-stream-attic-mold-removal-rafters-sheathing/",
+      "status": 200
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/portfolio/from-ashes-to-excellence-tinley-park-home-restoration/",
+      "status": 200
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/portfolio/naperville-floors-ceilings-water-damage-repairs/",
+      "status": 200
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/residential-services/fire-smoke/",
+      "status": 200
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/residential-services/mold-removal/",
+      "status": 200
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/residential-services/reconstruction/",
+      "status": 200
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/residential-services/water-damage/",
+      "status": 200
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/service-area/",
+      "status": 200
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/service-area/glenview/",
+      "status": 200
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/service-area/oak-brook/",
+      "status": 200
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/service-request/",
+      "status": 200
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/signs-of-hidden-water-damage-in-your-home/",
+      "status": 200
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/the-complete-guide-to-sewage-cleanup-safety-steps-and-services/",
+      "status": 200
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/understanding-and-addressing-ceiling-water-damage-a-comprehensive-guide/",
+      "status": 200
+    },
+    {
+      "url": "https://vitaliiv1.sg-host.com/what-to-do-if-you-notice-water-damage-in-your-home/",
+      "status": 200
+    }
+  ],
+  "browser_checks": "Blocked by repeated Chrome simultaneous-input guard, including after owner hands-off authorization; no desktop/mobile, keyboard, focus, crop or lightbox runtime acceptance claimed",
+  "pending": "Project city/service/sector Post Info rows require supported visual-editor configuration; connector lacks that widget. No manual lists or duplicated location field introduced.",
+  "final_opening_style_check": {
+    "method": "Generated CSS and HTML selector matching; not computed browser styles",
+    "style_url": "https://vitaliiv1.sg-host.com/wp-content/uploads/elementor/css/post-123.css?ver=1793372764",
+    "selectors": {
+      ".elementor-element-3307e90b > .wp-block-group:first-child > p:first-child": 1,
+      ".elementor-element-3307e90b > .wp-block-group:first-child > .wp-block-group:nth-child(3)": 1,
+      ".elementor-element-3307e90b > .wp-block-group:first-child > h1": 1,
+      ".elementor-element-3307e90b .wp-block-post-featured-image img": 1
+    },
+    "photo_height_rule_present": true,
+    "metadata_bottom_spacing_present": true,
+    "native_vertical_group": true,
+    "h1": "Water Damage at Home: What to Do First",
+    "post_123_bare_ampersand_rule": false
+  }
+}

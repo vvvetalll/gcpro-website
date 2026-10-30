@@ -1,5 +1,7 @@
 # Header and Footer
 
+**2026-10-30 authorized alignment correction:** Header113 Site Identity22f189ae has native local padding/margin0 and left alignment, preserving200px/140px logo sizing and original selected asset. Archive124 container5aea1fd5 and Single123 reading container101b691d now use existing page-gutter/page-gutter-mobile instead of local zero gutters. This addresses the owner's logo/content boundary mismatch; no new class/CSS/header component. Latest editorial-template scope preserves Header/Footer after that correction. Footer Resources color/`|` legal separators/Back-to-top follow-up has not been implemented; do not report it complete. Current browser crop/alignment acceptance remains blocked; saved controls/HTML only checked.
+
 **2026-10-27 geo first rollout:** existing shared1140 (Homepage and Service Areas consumers) expanded in-place to ten city links/27 active Overrides; original four property keys preserved, six added. Same city-link/class/token/native popup owners, two columns of five and one on mobile. Footer114 body unchanged in this task: compact Chicago/four suburbs/All Service Areas remains appropriate. Existing Header menu-items257 Downers Grove,258 Highland Park,260 Elmhurst restored Published only after target pages527/528/530 were completed;259 Elk Grove Village remains Draft. Native Content bindings retain actual page-title labels. [Decision/tests](../seo/2026-10-26-geographic-implementation.md#current-decision-and-completed-first-rollout--2026-10-27-supersedes-four-only-selection).
 
 

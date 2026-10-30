@@ -1,5 +1,23 @@
 # GCPRO Resources — native Posts system
 
+## Current owners and unfinished acceptance — 2026-10-30
+
+The latest owner direction replaces the earlier split/pale-blue article masthead experiments below. Single Post123 and native synced pattern3159 now give a white editorial opening: breadcrumb, Resources/topic, original/modified dates, normal-case H1, concise excerpt, then one featured photograph. No emergency mark, review loader or sales action in the opening; final inset Component80 remains. Archive124/Card3133/Menu43 remain the existing automatic archive owners.
+
+Pattern3159 uses native core Group (vertical Flex), Paragraph, Post Terms, Post Date, Post Title, Post Excerpt and Featured Image blocks. The original default Group emitted an additional inner-container, preventing the intended direct-child spacing; corrected to native vertical flow after the owner's screenshot demonstrated cramped metadata. Metadata is13px, H1 fluid28–40px/600, reading text18px desktop/16px mobile, reading measure760px. Photograph follows the introduction, max1040px wide and fluid220–360px high with cover fit/12px corners. Original media preserved, no duplicated cover widget. Long titles wrap naturally; no forced breaks/truncation.
+
+Existing V3 Post Content3307e90b > Advanced > Custom CSS is the single scoped owner for native WordPress body typography, group spacing, captions, branded links and focus. Use `selector`, not a top-level ampersand: an earlier unscoped ampersand experiment was corrected in this task. H2 fluid22–24px, H3 20–21px; body760px, gray text, navy links with orange underline, visited consistent. Native Atomic101b691d uses existing container/page gutters,63c8b0fa owns responsive body size. No theme stylesheet, per-Post CSS/JS, new plugin or framework.
+
+The complete30-article editorial review is implemented:6 Keep/8 Improve/6 Merge/10 excluded,14 Published/16 Draft. [Decision/evidence/launch proposal](../seo/2026-10-29-resources-selection.md#current-decision--full-30-article-review-2026-10-30). Original dates/URLs retained.2062 alone changed from legacy Atomic body to native Post body using supported WordPress fields; original Atomic tree and source body retained privately. Other excluded source content remains recoverable. AIOSEO remains sole title/description/canonical/schema owner.
+
+Image review: original-site inline media are absent from all14 retained public pages. Inspected existing WebPs reused; no uploads or file replacements. Updated alt/title only for inspected3270/3293/3320. Replaced misleading humidifier, dense-smoke and imagined-worksite covers with relevant existing actual project photographs. Winnetka2056 uses2987 (Downers Grove wall staining), Mold2057 uses2852 (Carol Stream attic); captions now match.2047 caption accurately identifies boarded openings/fire damage. Shared cover use is illustrative and does not imply those projects occurred in the article city.
+
+**Verification:** authenticated native readback plus unauthenticated HTTP/HTML for14 articles and4 project configurations; all200, exactly one H1, self-canonical, noindex, one opening photograph below H1 and no opening sales widgets. Archive12+2/14unique, populated categories8/2/3/1, affected internal links and proposed equivalent targets checked.52 Published project records compare unchanged for content, IDs, dates, status, URLs, featured media, ACF and taxonomies. [Machine-readable checks](../evidence/2026-10-30-editorial-template-checks.json).
+
+**Not browser-accepted:** repeated Chrome simultaneous-input guard rejects navigation/input even after owner hands-off authorization. Current responsive styles/HTML checks do not prove actual mobile wrapping/crops, overflow, hover/focus, keyboard or gallery/lightbox runtime. Owner screenshots are visual evidence of the earlier defect, not acceptance of the final correction. No claim that this design is fully visually approved. No security bypass or alternate hidden browser automation. Single123 native editor preview (login required): https://vitaliiv1.sg-host.com/?p=131&preview=1&theme_template_id=123 ; use a retained article URL for real post-context review.
+
+Rollback: restore private pre-change pattern3159/Single123 settings and source Post snapshots through native editors/REST; no recovery archive or credentials committed. Footer remains unchanged in this task; the separately requested Resources/legal separators/Back-to-top refinement is still pending.
+
 Implemented on staging, 2026-10-29. Owner requested a clean editorial design first, publication for review, and a visual language consistent with Projects. Production unchanged.
 
 ## Configuration owners

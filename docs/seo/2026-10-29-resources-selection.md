@@ -1,5 +1,28 @@
 # Resources migration selection — 2026-10-29
 
+## Current decision — full 30-article review, 2026-10-30
+
+This section supersedes the dated three-, twelve- and twenty-four-article publication checkpoints below. All30 original bodies were read, including legacy Atomic content on2055/2060/2061/2062. The canonical329-row URL inventory is retained; its30 article rows now contain individual intent, annual/recent metrics and periods, overlap evidence, editorial decision, original publication date, staging action and proposed launch treatment. [Canonical register](../SEO_URL_INVENTORY.csv) · [Sanitized per-article reasoning](../evidence/2026-10-30-article-editorial-review.json).
+
+| Decision | Existing Posts | Implemented staging treatment |
+|---|---|---|
+| Keep:6 |2045,2064,2068,2069,2070,2072|Useful distinct informational roles retained; links/metadata maintained.|
+| Improve:8 |2046,2047,2050,2056,2057,2062,2066,2067|Retained after substantive corrections/consolidation;2050 and2062 rewritten around their original useful question.|
+| Merge:6 |2048→2047,2049→2047,2058→2057,2060→2067,2063→2046,2065→2066|Useful material transferred; redundant originals kept recoverably as Draft.|
+| Remove from new public site:10 |2051–2055,2059,2061,2071,2073,2074|Recoverable Drafts; no permanent deletion.|
+
+Final legacy set: **14 Published,16 Draft**, compared with24/6 at the start. Eleven previously Published records returned to Draft;2062 newly Published after correction. ROBYLO demos131/133 remain Draft. No production change or redirect execution.
+
+The decision considers usefulness, unsupported claims, originality and page role alongside measured results. Annual2047=1click/428impressions and2056=1/579;2057 has recent1/242 versus annual0/923, an unresolved source discrepancy.2064 has one historically reported backlink/referring domain, quality/source URL unknown. These sparse metrics do not justify keeping all30 or rejecting every zero-click topic. Full16-month GSC history, full article query-to-page joins, attributed GA4 enquiries and backlink quality are unavailable. The annual and recent periods overlap and are not added together. Missing remains unknown. The observed2054 shared commercial query visibility is **not proof of cannibalization or a penalty**; commercial intent duplication is a separate content finding.
+
+Specific corrections: removed unsupported mold-color/toxicity/testing claims, local cost/statistics filler, response/insurance/credential promises and repeated commercial introductions.2050 now explains what mold color cannot establish;2062 is a practical scope-comparison question guide. Useful boarding scenarios, contamination/material distinctions, mold-cleanup decisions and smoke-versus-rebuilding points were consolidated into the corresponding retained guides. CDC/EPA primary references support the mold corrections. Articles remain informational and self-canonical, with contextual links to service/geo owners and actual cases.
+
+**Launch treatment remains a proposal:** retain14 original paths; six direct301 article merges above, plus2054→Commercial Water,2055/2059→Lombard,2061→Glenview,2071→Personal Property Restoration. These11 targets were checked on staging and are recorded exactly per canonical row. Five exclusions without an equivalent replacement (2051,2052,2053,2073,2074) propose410, or404 under the launch policy. Do not invent a301 just to avoid a missing page. Owner approval of production treatment is still required; no redirects are active. Draft status is a staging editorial decision, not a production migration action.
+
+All14 retained original publication dates restored from production source records; actual modification dates retained. Already-localized WebP assets reused, misleading illustrations replaced with inspected approved project photos where suitable. No new media copies/files. Captions identify the actual project city rather than implying the article city's location. Winnetka's Downers Grove caption now matches its selected water-staining photograph; boarding caption matches boarded windows/fire damage. All14 guest pages have no production image hotlinks.
+
+Current categories: Water8, Fire & Smoke2, Mold3, Reconstruction1. Automatic archive12+2 gives14 unique articles, with no Draft/demo inclusion. No location/sector filters added. Sitemap generation remains disabled/noindex as before; no alternate Article schema or analytics implementation. [Actual HTTP/settings checks and explicit browser gaps](../evidence/2026-10-30-editorial-template-checks.json).
+
 Canonical decisions are the30 existing Post rows in [SEO_URL_INVENTORY.csv](../SEO_URL_INVENTORY.csv), supplemented with `article_*` columns. All existing rows and URL variants retained. This record explains the evidence and intent assessment; it is not a second URL inventory or an active redirect configuration.
 
 ## Evidence limits
