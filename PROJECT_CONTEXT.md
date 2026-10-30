@@ -845,3 +845,8 @@ WPGB facets1–5 are live on Archive2232/Loop c61e6a3, native Styles1–3 own co
 
 
 2026-10-29 — Current Resources checkpoint:12 original articles Published,18 legacy Drafts; two ROBYLO demos moved Private→Draft. Single123 uses editorial pattern3159 (H1/excerpt/category/dates/photo), no service Hero actions/reviews. Original dates/URLs preserved; guest HTTP verifies all12. Native and scoped styling owners documented; browser visual acceptance pending. See docs/components/resources.md current follow-up.
+
+
+### 2026-10-29 — Resources editorial redesign on staging
+
+Owner-directed redesign published through existing Elementor MCP: Archive124 automatic lead story plus3/2/1 cards and wrapping native topic chips; Resource Card3133 full-bleed16:9 photo and24px/21px title; Single123 inset split core masthead and centered760px reading body. V3 CSS scoping corrected after actual frontend review.1280px desktop/390px mobile checks, category navigation and7+5 unique pagination verified. Content/IDs/URLs/dates/Header/Footer/Projects preserved; no new classes,Components,Variables,assets,JS/PHP/plugins. Anonymous delivery, physical devices, exhaustive keyboard review and final owner visual acceptance remain unclaimed. [Exact owners and recovery](docs/components/resources.md#2026-10-29--owner-directed-resources-visual-redesign).

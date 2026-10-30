@@ -787,3 +787,8 @@ Shared intro Component1345 six H3s reduced to20/20/18px, gray color-text; actual
 ## 2026-10-28 — compact process and geo-card headings
 
 Published native shared582 and68 heading20/20/18px, graphite color-text, matching owner-approved1345. Water process frontend measured20px/#334155; section headings, number markers and content remain unchanged. Owner deferred catalogue counter. Single Load More retained; native compact card action pointer/height corrected with no Custom CSS. No new DASH case published in this design follow-up.
+
+
+### 2026-10-29 — Resources editorial redesign on staging
+
+Owner-directed redesign published through existing Elementor MCP: Archive124 automatic lead story plus3/2/1 cards and wrapping native topic chips; Resource Card3133 full-bleed16:9 photo and24px/21px title; Single123 inset split core masthead and centered760px reading body. V3 CSS scoping corrected after actual frontend review.1280px desktop/390px mobile checks, category navigation and7+5 unique pagination verified. Content/IDs/URLs/dates/Header/Footer/Projects preserved; no new classes,Components,Variables,assets,JS/PHP/plugins. Anonymous delivery, physical devices, exhaustive keyboard review and final owner visual acceptance remain unclaimed. [Exact owners and recovery](docs/components/resources.md#2026-10-29--owner-directed-resources-visual-redesign).

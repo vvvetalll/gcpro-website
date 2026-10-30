@@ -581,3 +581,8 @@ Native Atomic global H2 default now28px desktop/26px tablet/24px mobile, replaci
 ### 2026-10-29 — Resources follow-up
 
 Resources editorial masthead: native synced pattern3159 owns title/excerpt/topic/dates/featured image; left reading edge follows Single123 content boundary. Informational article header has no sales buttons/reviews. Native Kit6 link colors use existing primary/hover tokens and Inter. Cards3133/2233 retain one whole-card anchor and discreet14px action spans with180ms native hover.
+
+
+### Resources editorial layout — 2026-10-29
+
+Archive124: white Section Heading71 introduction, wrapping topic chips, automatic lead story followed by3/2/1 article grid. Card3133:16:9 media and24px/21px Inter600 title. Single123: inset pale-blue split native core masthead,760px centered reading body, mobile stack. All existing brand tokens preserved; service Hero/type scale untouched. [Owners, checks and limits](components/resources.md#2026-10-29--owner-directed-resources-visual-redesign). No new global class/variable/component.

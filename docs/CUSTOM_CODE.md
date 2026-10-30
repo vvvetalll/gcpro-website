@@ -197,3 +197,12 @@ Elementor Custom Code3127 (head/priority1/Entire site) is the sole hostname-gate
 ### 2026-10-29 — Resources follow-up
 
 Resources follow-up: Archive124 Nav Menu6eb3c3c0 is the single scoped V3 Custom CSS owner for topic typography, light panel and active/hover/focus states. Existing Header113 document Custom CSS retains breakpoint/focus rules and owns ancestor highlighting/removal of orange menu lines. No new JS/PHP/filter logic. Native Kit6 Theme Style and core block style attributes are native presentation controls, not a second stylesheet. Restore private pre-change snapshots for rollback.
+
+
+## Resources redesign CSS owners — 2026-10-29
+
+Archive124 Nav Menu6eb3c3c0 owns existing V3 scoped topic-chip CSS. Archive124 loop layout380a3746 owns native3/2/1 grid plus its first-item spanning/photo-text local exception. Single123 Post Content3307e90b owns scoped V3 CSS for core synced header3159 split composition, category/dates,760px body measure and mobile stack; core block descendants cannot be edited as Atomic controls via this MCP. Existing native container/card controls own supported geometry and typography. Resource Card3133 no longer uses global card/card--interactive assignments; those definitions and other consumers are untouched. No new theme stylesheet/enqueue, class, Component, Variable, JS, PHP, HTML widget, plugin or dependency.
+
+Connector correction: V3 fallback emitted bare ampersand descendant rules at top level, affecting unrelated elements. Replaced all V3 descendant prefixes with explicit Elementor selector keyword, removed loose declarations before the first rule, published123/124 and checked actual CSSOM: no unscoped ampersand rules remain. V4 local nesting is correctly scoped. A unitless V3 line-height had converted1.75 to1.75px; removed V3 base typography so Post Content now inherits native18px/1.75. Do not reintroduce either pattern. No page-ID selectors. First-item layout relies on direct role=listitem/anchor/image/content children; revisit its scoped rule if Card3133 structure changes.
+
+Rollback: restore scoped local styles, card class assignments and query limit from private audit-temp/blog-redesign snapshots through Elementor and publish; preserve content, IDs, dates/pattern3159, Header/Footer/Projects/BEAF. This is an editing record, not a second deployed CSS source.
