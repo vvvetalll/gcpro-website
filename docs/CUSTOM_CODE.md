@@ -211,3 +211,13 @@ Rollback: restore scoped local styles, card class assignments and query limit fr
 ### Final owner correction — 2026-10-29
 
 Owner requested removing the oversized first feature and keeping the rest. Archive124 now uses an ordinary uniform3/2/1 card grid, six articles per page. Removed all first-item spanning and split-layout rules from380a3746; the first article remains a normal card, no post was deleted. Existing introduction/topic navigation, card design and Single123 remain unchanged. Browser1280px confirmed six cards, three equal378.7px columns, first grid-column auto and no horizontal overflow. Earlier lead-story/seven-per-page statements describe the superseded checkpoint. No new photo or hero was inserted; no new CSS owner or dependency. Native responsive rules retained.
+
+
+### 2026-10-30 — Blog and article emergency CTA timing
+
+- Authorized scope: delay the mobile bottom emergency CTA on the blog and single articles; preserve its design and other page behavior.
+- Sole runtime owner remains Elementor Custom Code903, Body End, priority5, existing site-wide conditions. `integrations/scroll-navigation.js` is a source mirror only, not a second deployment.
+- `.blog` and `.single-post` now use 50% of the document's available scroll distance. Other routes retain the existing origin/floating gate. Existing menu, focus, form, chat, keyboard and viewport suppression remains unchanged.
+- Published through the native Custom Code editor; saved content read back exactly. Staging cache purged. The Signs of Hidden Water Damage frontend delivers the new gate and initializes `gcpro-nav-ready`; no code text leaks into the page. Mobile scrolling on a physical device remains unverified.
+- Recovery: restore the prior `passed` gate in903 and purge staging cache.
+- Separate pending work: archive Post Info2ef8cf7 currently displays service categories below cards; badge placement is unfinished. No new CSS exception was authorized or deployed. Reports of broken About/article mobile layout remain unconfirmed; desktop pages rendered intact after cache purge.
