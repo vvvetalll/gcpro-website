@@ -221,3 +221,8 @@ Owner requested removing the oversized first feature and keeping the rest. Archi
 - Published through the native Custom Code editor; saved content read back exactly. Staging cache purged. The Signs of Hidden Water Damage frontend delivers the new gate and initializes `gcpro-nav-ready`; no code text leaks into the page. Mobile scrolling on a physical device remains unverified.
 - Recovery: restore the prior `passed` gate in903 and purge staging cache.
 - Separate pending work: archive Post Info2ef8cf7 currently displays service categories below cards; badge placement is unfinished. No new CSS exception was authorized or deployed. Reports of broken About/article mobile layout remain unconfirmed; desktop pages rendered intact after cache purge.
+
+
+### 2026-10-30 — Approved archive service-badge CSS exception, completed
+
+Supersedes the pending badge status above. Owner explicitly approved CSS to put category badges over article photos. Sole active owner: Archive124 > Archive Settings > Advanced > Custom CSS. Consumers: Post Info2ef8cf7 cloned within Item5485f36b, semantic class `resource-category-badge`. Classic widget-ID CSS misses Atomic clones; the scoped semantic selector supplies position, white panel, light-gray border, spacing and inherited typography. No JS/theme changes. See [resources component record](components/resources.md#2026-10-30--published-service-badges-on-card-images) for values, tree, dependencies, checks and rollback. Published and checked on12 live blog cards and mobile Elementor preview; cache purged. Physical-device/anonymous checks remain unperformed. Remove only this block to roll back.
