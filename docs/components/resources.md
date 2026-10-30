@@ -98,3 +98,31 @@ Verification: native Publish completed/disabled; public blog rendered12 categori
 Earlier temporary Paragraphs1187540/89fc620, wrapperf1382b1 and root duplicate46fa232 were removed. Global class g-0d21740 was created during the unsuccessful native approach; it is not an active styling owner for the final rendered badges. Do not attach a duplicate rule to it. Rollback: remove only the service-badge block from Archive124 custom CSS (and the Post Info widget if removing badges entirely).
 
 Remaining separate work: numeric pagination, estimated reading time and18 draft covers remain pending. Single article layout was deferred by the owner; reported mobile rendering issues on About/Signs of Hidden Water Damage were not reproduced in the desktop check.
+
+
+### 2026-10-30 — Publish all legacy articles and source photos: checkpoint
+
+Owner requested all articles and photos. Reused existing30 posts and already uploaded optimized original-site images; no duplicate posts/media created. Twelve additional drafts were published through the native WordPress editor with original featured images and source alt text:
+
+| Post | Featured media |
+|---|---|
+|2048|3310|
+|2049|3333|
+|2050|3270|
+|2051|3315|
+|2052|3300|
+|2053|3329|
+|2054|3277|
+|2055|3284|
+|2058|3313|
+|2059|3301|
+|2060|3271|
+|2061|3319|
+
+Existing12 published posts were preserved. Thus24/30 are now published. Native publication state checked for each completed record; a public REST inventory verified the first19 published records and their correct featured-media IDs before the last5 were published. Legacy bodies/excerpts were retained; this was publication/photo work, not an editorial fact-check. Newly published records use WordPress's publication date at publish time. Original URLs/slugs/categories retained. Inline source-image URLs on2059 were replaced with their already-uploaded staging counterparts; earlier newly published2051–2053 still reference original-site inline images and require localization. Some legacy text still needs editorial review for unsupported statistics/company claims, outdated costs, safety statements and unresolved links before production launch.
+
+**Unfinished6 drafts and intended covers:**2062→3276,2063→3328,2065→3334,2071→3304,2073→3305,2074→3281. Text and uploaded photo assets already exist. Do not recreate them.
+
+Blocker: SiteGround served a Robot Challenge on opening2062. One reload led to an explicit image CAPTCHA. No CAPTCHA interaction attempted; per-action owner confirmation requested before solving. Do not evade it with alternate routes/network or disable security. Last publication2061 showed Published; no writes attempted to2062. Final30-item inventory, cache purge, blog pagination/frontend/photo checks remain pending until access resumes. Existing native12-per-page archive and image badges were preserved. No production changes.
+
+A stale editor handle initially retained the prior published record; automatic review rejected retrying the publish routine until state was reconciled. Fresh URL/title/status and public inventory checks confirmed completed records; subsequent writes used an explicitly passed tab plus URL/title identity checks, avoiding mutable shared editor handles.
