@@ -256,3 +256,13 @@ All43 affected project post-content fallbacks now use native core content from a
 - [x] Five relevant service FAQ instances now contain varied contextual guide links, using native WordPress/Elementor links.
 - [x] Five affiliation tooltip boxes restored without Footer logo row; desktop hover/mobile-emulated tap and keyboard/Escape checks passed. Partner submenu hover underline removed; focus outline retained.
 - [ ] Finish sibling-media metadata and final Projects post-route runtime, pagination/negative/query, anonymous/mobile acceptance; reconcile existing production redirect configuration and repeat actual HTTP checks at launch.
+
+## Future idea — About company history timeline (2026-10-30)
+
+Owner requested saving the BELFOR History & Timeline screenshot as inspiration for a future GCPRO About section. Status: idea/backlog only, not a launch blocker and not authorization to implement or redesign pages.
+
+- Present verified company milestones chronologically: founding, meaningful growth, service expansion and awards where substantiated. Collect actual dates, concise descriptions and source evidence first; do not invent milestones or repeat awards unnecessarily.
+- Reference treatment: years above a thin horizontal line, accent markers and short descriptions beneath; previous/next controls if the number of milestones warrants them. Adapt to GCPRO navy/orange and existing typography, rather than copying BELFOR branding.
+- Prefer a simple native editable layout; a short timeline needs no carousel. On mobile use a readable vertical sequence. Any controls must support keyboard focus and reduced motion.
+- Consider placement in About alongside the company story, coordinated with the existing Awards & Recognition idea. No new page, plugin, code or website changes are approved by this entry.
+
