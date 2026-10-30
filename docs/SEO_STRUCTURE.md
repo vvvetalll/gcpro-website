@@ -1,5 +1,9 @@
 # GCPRO SEO URL architecture and Draft skeleton
 
+## Pagination launch gate update — 2026-10-30
+
+The earlier direct Projects pagination blocker and unverified legacy-page2 HTTP note below are superseded by the completed staging fix. First/page2/page6 return actual200 with9/9/7 corresponding IDs; legacy page2 actual301 directly to final page2; page7 and legacy page999 actual404. Current Query plus scoped integration0.4.5 maintains9 and stable ordering; existing WPGB Load More is seeded correctly on direct numbered pages. Anonymous page2 Load More gives18 unique; combined filters yield2958; interactive Enter reset and Load More after reset pass authenticated. Noindex/production unchanged. [Actual evidence and verification limits](evidence/2026-10-30-projects-pagination-fix.json). Production-domain repeat, historical redirect reconciliation and feed disposition remain launch gates; this update does not close unrelated acceptance work.
+
 ## Approved Projects route — active staging work, 2026-10-30
 
 Owner approved `/projects/` and `/projects/{existing-slug}/`, superseding the older `/portfolio/` preservation instruction below. Existing ACF CPT2225 `gcpro_project`, record IDs, individual slugs, templates and taxonomy assignments retained. Native rewrite/archive slugs changed to `projects`. Before editing, `/projects/` returned actual404, public Page slug lookup was empty, and admin search found only two Draft legacy/prototype Pages1132/2171. No duplicate Page/CPT created or Draft published.

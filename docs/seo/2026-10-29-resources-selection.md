@@ -1,5 +1,9 @@
 # Resources migration selection — 2026-10-29
 
+## Pagination launch gate update — 2026-10-30
+
+The earlier direct Projects pagination blocker and unverified legacy-page2 HTTP note below are superseded by the completed staging fix. First/page2/page6 return actual200 with9/9/7 corresponding IDs; legacy page2 actual301 directly to final page2; page7 and legacy page999 actual404. Current Query plus scoped integration0.4.5 maintains9 and stable ordering; existing WPGB Load More is seeded correctly on direct numbered pages. Anonymous page2 Load More gives18 unique; combined filters yield2958; interactive Enter reset and Load More after reset pass authenticated. Noindex/production unchanged. [Actual evidence and verification limits](../evidence/2026-10-30-projects-pagination-fix.json). Production-domain repeat, historical redirect reconciliation and feed disposition remain launch gates; this update does not close unrelated acceptance work.
+
 ## Current decision — full 30-article review, 2026-10-30
 
 This section supersedes the dated three-, twelve- and twenty-four-article publication checkpoints below. All30 original bodies were read, including legacy Atomic content on2055/2060/2061/2062. The canonical329-row URL inventory is retained; its30 article rows now contain individual intent, annual/recent metrics and periods, overlap evidence, editorial decision, original publication date, staging action and proposed launch treatment. [Canonical register](../SEO_URL_INVENTORY.csv) · [Sanitized per-article reasoning](../evidence/2026-10-30-article-editorial-review.json).

@@ -2,10 +2,34 @@
 /**
  * Plugin Name: GCPRO Atomic Masked Image
  * Description: Independently editable photo and SVG mask for Elementor Atomic.
- * Version: 0.4.4
+ * Version: 0.4.5
  * Requires Plugins: elementor
  */
 if ( ! defined( 'ABSPATH' ) ) { exit; }
+
+// Keep WordPress archive bounds on the same nine-item sequence as the grid.
+add_action( 'pre_get_posts', static function ( $query ) {
+	if ( is_admin() || ! $query->is_main_query() || ! $query->is_post_type_archive( 'gcpro_project' ) ) {
+		return;
+	}
+	$query->set( 'posts_per_page', 9 );
+	$query->set( 'orderby', [ 'date' => 'DESC', 'ID' => 'DESC' ] );
+} );
+
+// Seed the existing Load More cursor when opening a numbered archive directly.
+add_filter( 'wp_grid_builder/facet/query_string', static function ( $params, $grid_id, $action ) {
+	if ( 'elementor-element-c61e6a3' === $grid_id && 'render' === $action && empty( $params ) ) {
+		$page = max( 1, (int) get_query_var( 'paged' ) );
+		$path = wp_parse_url( wp_get_referer() ?: '', PHP_URL_PATH );
+		if ( preg_match( '#^/projects/page/([1-9][0-9]*)/$#', (string) $path, $match ) ) {
+			$page = (int) $match[1];
+		}
+		if ( $page > 1 ) {
+			$params['gcpro_projects_load_more'] = [ (string) ( ( $page - 1 ) * 9 ) ];
+		}
+	}
+	return $params;
+}, 10, 3 );
 
 add_action( 'elementor/widgets/register', static function ( $manager ) {
 	if ( ! class_exists( '\Elementor\Modules\AtomicWidgets\Elements\Base\Atomic_Widget_Base' ) ) { return; }

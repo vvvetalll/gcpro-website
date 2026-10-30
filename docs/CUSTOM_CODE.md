@@ -1,5 +1,9 @@
 # Custom code and dependency register
 
+## Approved Projects query scope — 2026-10-30
+
+Existing Atomic integration0.4.5 adds only the Projects main-archive limit9 and date DESC/ID DESC order via `pre_get_posts`, plus the documented WPGB initial query-string cursor seed for Loopc61e6a3. It does not alter Reading10 or other archives. Archive2232 uses native Current Query and blank Query ID; existing facet5 owns Load More. No new plugin/enqueue/CSS/JS or vendor patch. Native saved PHP readback matches source. [Cause, tests and rollback](components/projects-acf-prototype.md#2026-10-30--direct-projects-pagination-and-load-more-correction).
+
 ## Editorial pilot and quiet menu actions — 2026-10-30
 
 Implemented on staging with ui-ux-pro-max guidance. Single Post123 and synced core pattern3159 remain the existing owners. Pale-blue full-width opening uses the site container, breadcrumb, white rounded topic chip, gray Montserrat700 H1, excerpt, two compact native publication/modified-date chips with decorative calendar/clock glyphs, and one4:3 featured image to the right; core Columns stack on narrow screens. Dates remain actual Post Date blocks; no invented byline, reading time, buttons, reviews or emergency mark. Body remains white with a centered760px reading column, Inter body text, gray Montserrat H2/H3, blue ordinary-weight links without orange underlines, and retained visible focus. User requested photo in the opening rather than duplicated below it.

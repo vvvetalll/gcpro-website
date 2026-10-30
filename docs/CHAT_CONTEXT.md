@@ -1,5 +1,9 @@
 # GC PRO — Chat Strategic Context
 
+## Pagination launch gate update — 2026-10-30
+
+The earlier direct Projects pagination blocker and unverified legacy-page2 HTTP note below are superseded by the completed staging fix. First/page2/page6 return actual200 with9/9/7 corresponding IDs; legacy page2 actual301 directly to final page2; page7 and legacy page999 actual404. Current Query plus scoped integration0.4.5 maintains9 and stable ordering; existing WPGB Load More is seeded correctly on direct numbered pages. Anonymous page2 Load More gives18 unique; combined filters yield2958; interactive Enter reset and Load More after reset pass authenticated. Noindex/production unchanged. [Actual evidence and verification limits](evidence/2026-10-30-projects-pagination-fix.json). Production-domain repeat, historical redirect reconciliation and feed disposition remain launch gates; this update does not close unrelated acceptance work.
+
 ## Active follow-ups — 2026-10-30
 
 - Existing CPT2225 now uses/projects/;53 exact native AIOSEO301s. Actual archive and52/52 case301→200/ID/canonical/noindex checks passed. Header native archive link auto-updated. Remaining: Single2231 breadcrumb/manual links, valid pagination redirects, negative paths, complete filter/gallery/BEAF/mobile regression, and production-rule reconciliation. Historical feed already404 before edit; unresolved. See current SEO_STRUCTURE route record/native launch JSON.

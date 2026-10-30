@@ -1,5 +1,12 @@
 # GCPRO project context
 
+## Projects pagination completed on staging — 2026-10-30
+
+Supersedes the earlier same-day pagination blocker below. Archive2232/Loopc61e6a3 now uses native **Current Query**, Query ID blank, native pagination None; WP Grid Builder facet5 remains the Load More owner. Owner approved the scoped existing-integration addition: plugin0.4.5 sets only the Projects main archive to9 with date DESC/ID DESC; a native WPGB query-string filter seeds its existing Load More cursor when directly opening a numbered archive. No new plugin/template/CSS/JS, global Reading change or third-party edit. Saved plugin readback matches Git source after newline normalization.
+
+Anonymous native Chrome/DevTools HTTP evidence: `/projects/`200 with first9; `/projects/page/2/`200 with distinct next9 and self-canonical; `/portfolio/page/2/`301 directly to that final200; `/projects/page/6/`200 with remaining7 and no Load More; `/projects/page/7/` and `/portfolio/page/999/`404 with no project cards or archive fallback. Direct page2 Load More appends the third9 (18 unique cards total), actual AJAX200. Combined Water/Glenview/Residential URL returns only2958 anonymously; interactive native selects, Enter reset to first9 and subsequent9→18 without duplicates verified in the authenticated staging browser. Noindex preserved. Actual statuses/IDs/timestamps and limits: [pagination evidence](docs/evidence/2026-10-30-projects-pagination-fix.json).
+
+Production unchanged. At launch repeat these route/status/ID/cursor checks on the production domain; reconcile historical production redirects before import. Existing feed disposition and other broader launch gates remain separate. This closes this pagination task, not the entire launch checklist.
 
 2026-10-30 runtime follow-up: Projects9→18→27→36→45→52, combined filters/Enter reset, native reset focus and mobile390px whole-card focus passed. Glenview4 automatic cards point directly to projects. Remaining five Carol Stream media descriptions corrected/saved/reloaded. Exact legacy page2 AIOSEO rule added (54 total/export updated); browser destination confirmed but actual301 unverified. Direct page2 repeats initial9; this and anonymous/production-rule acceptance remain launch blockers. Evidence: docs/evidence/2026-10-30-projects-runtime-followup.json.
 

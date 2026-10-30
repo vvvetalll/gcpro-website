@@ -1,0 +1,198 @@
+{
+  "scope": "Staging Projects pagination only; production unchanged",
+  "method": "Anonymous Chrome Incognito, native DevTools sanitized HAR export; accepted WordPress documents after automatic SiteGround challenge. Initial CLI/first browser202 challenges are not WordPress status evidence. Raw HAR kept private.",
+  "implementation": {
+    "archive": 2232,
+    "loop": "c61e6a3",
+    "source": "Current Query",
+    "native_pagination": "None",
+    "query_id": "",
+    "main_query_limit": 9,
+    "sort": {
+      "date": "DESC",
+      "ID": "DESC"
+    },
+    "reading_limit_unchanged": 10,
+    "plugin_version": "0.4.5",
+    "load_more": "Existing facet5 cursor seeded on initial render of a direct numbered archive only; refresh/reset not prefiltered."
+  },
+  "anonymous_documents": {
+    "/projects/": {
+      "checked_at_utc": "2026-10-30T20:16:49.684Z",
+      "status": 200,
+      "location": null,
+      "rendered_project_ids": [
+        3012,
+        3003,
+        2994,
+        2985,
+        2976,
+        2967,
+        2958,
+        2948,
+        2939
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/",
+      "robots": "noindex, nofollow, max-image-preview:large"
+    },
+    "/projects/page/2/": {
+      "checked_at_utc": "2026-10-30T20:15:13.703Z",
+      "status": 200,
+      "location": null,
+      "rendered_project_ids": [
+        2930,
+        2921,
+        2912,
+        2903,
+        2894,
+        2883,
+        2874,
+        2865,
+        2856
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/page/2/",
+      "robots": "noindex, nofollow, max-image-preview:large"
+    },
+    "/portfolio/page/2/": {
+      "checked_at_utc": "2026-10-30T20:03:24.526Z",
+      "status": 301,
+      "location": "https://vitaliiv1.sg-host.com/projects/page/2/",
+      "rendered_project_ids": [],
+      "canonical": null,
+      "robots": null
+    },
+    "/projects/page/6/": {
+      "checked_at_utc": "2026-10-30T20:16:16.512Z",
+      "status": 200,
+      "location": null,
+      "rendered_project_ids": [
+        2081,
+        2080,
+        2076,
+        2075,
+        2079,
+        2078,
+        2077
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/page/6/",
+      "robots": "noindex, nofollow, max-image-preview:large"
+    },
+    "/projects/page/7/": {
+      "checked_at_utc": "2026-10-30T20:16:27.249Z",
+      "status": 404,
+      "location": null,
+      "rendered_project_ids": [],
+      "canonical": null,
+      "robots": "noindex"
+    },
+    "/portfolio/page/999/": {
+      "checked_at_utc": "2026-10-30T20:16:38.522Z",
+      "status": 404,
+      "location": null,
+      "rendered_project_ids": [],
+      "canonical": null,
+      "robots": "noindex"
+    },
+    "/projects/?_gcpro_projects_service=water&_gcpro_projects_location=glenview&_gcpro_projects_property_type=residential": {
+      "checked_at_utc": "2026-10-30T20:19:02.658Z",
+      "status": 200,
+      "location": null,
+      "rendered_project_ids": [
+        2958
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/",
+      "robots": "noindex, nofollow, max-image-preview:large"
+    }
+  },
+  "anonymous_postfix_ajax": [
+    {
+      "checked_at_utc": "2026-10-30T20:16:08.226Z",
+      "status": 200,
+      "query": "wpgb-ajax=refresh&_gcpro_projects_load_more=18",
+      "appended_project_ids": [
+        2847,
+        2837,
+        2828,
+        2818,
+        2800,
+        2782,
+        2765,
+        2755,
+        2572
+      ]
+    }
+  ],
+  "authenticated_interaction": {
+    "combined_filters": [
+      "water",
+      "glenview",
+      "residential"
+    ],
+    "expected_and_observed_ids": [
+      2958
+    ],
+    "reset": "Enter returns first9",
+    "load_more_after_reset_ids": [
+      3012,
+      3003,
+      2994,
+      2985,
+      2976,
+      2967,
+      2958,
+      2948,
+      2939,
+      2930,
+      2921,
+      2912,
+      2903,
+      2894,
+      2883,
+      2874,
+      2865,
+      2856
+    ],
+    "page2_load_more_appended_ids": [
+      2847,
+      2837,
+      2828,
+      2818,
+      2800,
+      2782,
+      2765,
+      2755,
+      2572
+    ]
+  },
+  "anonymous_rendered_page2_load_more": {
+    "count": 18,
+    "unique_project_urls": 18,
+    "appended_ids": [
+      2847,
+      2837,
+      2828,
+      2818,
+      2800,
+      2782,
+      2765,
+      2755,
+      2572
+    ]
+  },
+  "preserved": [
+    "production",
+    "staging noindex",
+    "Reading settings",
+    "CPT/records/slugs/content/media/taxonomies",
+    "shared card/Hero styles",
+    "facets/reset",
+    "all galleries and26 Before/After integrations"
+  ],
+  "limits": [
+    "Anonymous combined filter URL and resulting native selections verified; interactive select+Enter reset checked in authenticated staging session.",
+    "No new physical-device or gallery/BEAF regression pass in this pagination-only change.",
+    "Production redirect reconciliation/feed disposition and launch-domain repeats remain separate launch gates."
+  ],
+  "live_source_readback": "Plugin Editor reload matches repository source after newline normalization",
+  "rollback": "Restore plugin0.4.4 from Git and Loop2232/c61e6a3 Source Projects, Query ID blank; this restores the old direct-pagination defect. Native archives/card data otherwise unchanged."
+}
