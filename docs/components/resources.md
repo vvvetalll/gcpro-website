@@ -183,3 +183,6 @@ Guest Winnetka sample returns one H1, two actual dates, native columns and noind
 
 
 2026-10-30 clarification: previous text-align change was visually ineffective because paragraphs were already left aligned. Owner meant the reading-column position. Single123/PostContent3307e90b now aligns the760px article body to the opening/site-container left edge using the existing container-max and fluid gutter, rather than centering that column. Saved setting verified; final computed browser alignment not certified.
+
+
+2026-10-30 corrective fix: owner reported broken article layout. Saved readback demonstrated malformed nested selector wrappers/unbalanced braces introduced by reusing the connector style projection. Repaired the sole existing123/3307e90b CSS owner using complete generated widget-scoped selectors; native saved readback now39 balanced rule pairs. Left reading-column alignment retained. Future edits must read raw existing custom_css rather than reconstructing it from the tool style projection. No body, media, URL or SEO writes. Guest cache-busted article request returned403; final generated CSS delivery and browser visual acceptance are unverified.
