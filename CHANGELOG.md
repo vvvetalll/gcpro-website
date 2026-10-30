@@ -803,3 +803,6 @@ Owner-directed redesign published through existing Elementor MCP: Archive124 aut
 
 
 Latest owner correction,2026-10-30: dropdown action items now use a thin1px orange color-accent outline with transparent background in normal/hover/focus states, navy text and existing6px corners. This supersedes the pale-orange fill described above. Header113/Nav7983af36 remains sole owner; native saved readback verified. Links, order and main CTA unchanged.
+
+
+2026-10-30 owner correction: Single123/PostContent3307e90b explicitly aligns article paragraphs, headings and lists left. Existing centered760px reading-column position/width and opening structure retained. Native saved CSS readback checked; no body/URL/SEO changes.

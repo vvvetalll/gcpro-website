@@ -177,3 +177,6 @@ Read current native3133 rather than replacing owner edits: current16:10 image,20
 Pattern3159 now uses native WordPress Columns55/45: category/title/excerpt/dates left,4:3 featured image right; native Columns stack below782px. Fluid28–40px title, restrained metadata; published/updated label and date stay grouped. Existing Single123 Post Content3307e90b CSS owner simplified: removed fragile legacy inner-container grid rules, retained body measure/spacing and focus styling. No duplicated template or article-body rewrites. Current saved card/image changes made since the previous checkpoint preserved.
 
 Guest Winnetka sample returns one H1, two actual dates, native columns and noindex. Actual browser hover/mobile visual acceptance remains pending; emitted CSS/HTML is not a browser interaction test. Private native pre-change snapshots are in outputs/resources-2026-10-30 outside Git. Native template preview (editor login required): https://vitaliiv1.sg-host.com/?p=131&preview=1&theme_template_id=123 . Use the public Winnetka article for actual article-context review.
+
+
+2026-10-30 owner correction: Single123/PostContent3307e90b explicitly aligns article paragraphs, headings and lists left. Existing centered760px reading-column position/width and opening structure retained. Native saved CSS readback checked; no body/URL/SEO changes.
