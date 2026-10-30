@@ -81,7 +81,9 @@
     const chatOpen = chatVisible && !chatPanel.classList.contains('wp-ai-studio-chat__minimized');
     set(root, '--gcpro-cta-right', chatVisible && !chatOpen ? `${innerWidth - chatPanel.getBoundingClientRect().left + 8}px` : '8px');
     const blocked = menuOpen || chatOpen || overlays.some(visible) || editing || height < 480 || (viewport && (viewport.scale > 1.05 || innerHeight - height > 150));
-    const passed = origin ? origin.getBoundingClientRect().bottom < clearance - 8 : floating;
+    const readingPage = document.body.classList.contains('blog') || document.body.classList.contains('single-post');
+    const readingMidpoint = readingPage && y >= Math.max(1, (root.scrollHeight - innerHeight) * 0.5);
+    const passed = readingPage ? readingMidpoint : (origin ? origin.getBoundingClientRect().bottom < clearance - 8 : floating);
     const taskVisible = tasks.some(el => {
       if (!visible(el)) return false;
       const r = el.getBoundingClientRect();
