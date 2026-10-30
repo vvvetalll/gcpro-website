@@ -180,3 +180,6 @@ Guest Winnetka sample returns one H1, two actual dates, native columns and noind
 
 
 2026-10-30 owner correction: Single123/PostContent3307e90b explicitly aligns article paragraphs, headings and lists left. Existing centered760px reading-column position/width and opening structure retained. Native saved CSS readback checked; no body/URL/SEO changes.
+
+
+2026-10-30 clarification: previous text-align change was visually ineffective because paragraphs were already left aligned. Owner meant the reading-column position. Single123/PostContent3307e90b now aligns the760px article body to the opening/site-container left edge using the existing container-max and fluid gutter, rather than centering that column. Saved setting verified; final computed browser alignment not certified.
