@@ -1,0 +1,59 @@
+{
+  "hover": [
+    {
+      "inViewport": true,
+      "name": "Institute of Inspection, Cleaning and Restoration Certification",
+      "visible": true
+    },
+    {
+      "inViewport": true,
+      "name": "Indoor Air Quality Association",
+      "visible": true
+    },
+    {
+      "inViewport": true,
+      "name": "Better Business Bureau",
+      "visible": true
+    },
+    {
+      "inViewport": true,
+      "name": "Restoration Industry Association",
+      "visible": true
+    },
+    {
+      "inViewport": true,
+      "name": "Restoration Affiliates",
+      "visible": true
+    }
+  ],
+  "mobile": [
+    {
+      "inViewport": true,
+      "name": "Institute of Inspection, Cleaning and Restoration Certification",
+      "width": 391
+    },
+    {
+      "inViewport": true,
+      "name": "Indoor Air Quality Association",
+      "width": 391
+    },
+    {
+      "inViewport": true,
+      "name": "Better Business Bureau",
+      "width": 391
+    },
+    {
+      "inViewport": true,
+      "name": "Restoration Industry Association",
+      "width": 391
+    },
+    {
+      "inViewport": true,
+      "name": "Restoration Affiliates",
+      "width": 391
+    }
+  ],
+  "existingFooterUnchanged": true,
+  "footerMarks": 0,
+  "keyboardCertificateAndEscape": true
+}

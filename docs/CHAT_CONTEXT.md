@@ -249,3 +249,10 @@ Owner requested the same logos on Homepage154. Existing Why Component1149 instan
 ### Completed follow-up checkpoint — 2026-10-30
 
 All43 affected project post-content fallbacks now use native core content from authoritative Elementor facts, retaining four embedded BEAF shortcodes. Actual66-route visible-content/H1/noindex recheck passed. Shared2231 Projects breadcrumb updated to `/projects/`;2047/2056 direct links corrected after that scan. Case2948 cover now verified restroom2952, with its media description corrected to Carol Stream. Source cleanup evidence: docs/evidence/2026-10-30-source-cleanup-checks.json. Prior active notes saying42 source records remain are superseded; editorial/service guides, affiliation tooltip restoration, broader BA card appearance, sibling media descriptions, final route/runtime/mobile/link acceptance remain pending. Elk Grove Village529 completed and Published on staging at owner request; other29 deferred cities unchanged.
+
+### Editorial / tooltip verification follow-up — 2026-10-30
+
+- [x]14 Published articles individually reviewed; six focused body edits saved and reloaded, original dates/URLs retained.32 internal rendered destinations matched intended content/canonical; no admin/preview or old portfolio links in inspected article content. See current Resources inventory/evidence for HTTP limitations.
+- [x] Five relevant service FAQ instances now contain varied contextual guide links, using native WordPress/Elementor links.
+- [x] Five affiliation tooltip boxes restored without Footer logo row; desktop hover/mobile-emulated tap and keyboard/Escape checks passed. Partner submenu hover underline removed; focus outline retained.
+- [ ] Finish sibling-media metadata and final Projects post-route runtime, pagination/negative/query, anonymous/mobile acceptance; reconcile existing production redirect configuration and repeat actual HTTP checks at launch.

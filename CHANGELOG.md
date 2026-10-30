@@ -1,5 +1,8 @@
 # GCPRO changelog
 
+**2026-10-30 editorial and tooltip checkpoint:** Reviewed all14 Published Resources articles; six focused body revisions saved/reloaded, five service FAQ instances now link relevant guides. All14 rendered bodies and32 unique internal destinations checked for intended content/canonical; this is not a complete renewed HTTP certification. Restored five approved affiliation tooltips without Footer logos, verified desktop/mobile-emulated and keyboard/Escape; central script unchanged. Partner submenu hover underline removed, focus retained.43-case source cleanup and66-route text audit completed previously. Route-wide post-change runtime/anonymous/mobile QA, remaining sibling-media descriptions and private production redirect reconciliation remain open. [Inventory and evidence](docs/seo/2026-10-29-resources-selection.md#editorial-implementation-and-recovery-checkpoint--2026-10-30).
+
+
 **2026-10-30 staging corrections checkpoint:** Completed existing Elk Grove Village529 from empty Draft using shared native city components, corrected title, retained path/parent and Published on staging at owner request. One H1/self-canonical/noindex, no Carol Stream residue, mobile fit and native FAQ keyboard toggle checked. No local cases invented. Restored missing Kit6 BEAF CSS from its existing mirror; confirmed actual label contrast/top placement after reload. Replaced duplicate article covers2057→2697,2046→2609,2062→2615 and added truthful source captions/native case links. Footer pipes/outlined Back to top and Projects native route/exact53 AIOSEO301 mappings saved;52 case redirects actually checked. Wider cleanup and route acceptance remain active, not complete.
 
 

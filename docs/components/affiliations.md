@@ -103,3 +103,9 @@ Some old rendered HTML persisted after SiteGround purge. Used existing **Element
 
 
 2026-10-29 Footer114: native optical sizing and frameless marks only; assets, tooltips, evidence links and central behavior1881 preserved. Current-status gaps above remain unchanged. See header-footer.md compact refinement record.
+
+## 2026-10-30 — Restore large-block popovers after compact-row removal
+
+Owner intentionally removed Footer logos. The same removed subtree had held all5 native tooltip text groups used by larger Component1886, so central behavior1881 returned without initializing. Native Elementor History3073 retained approved text/links. Copied the original affiliations subtree using native Copy/Paste, returned to the current Footer, removed the copied heading/logo row before publication, and retained only5 tooltip groups. Recovery container957f65b uses native display:contents/padding0/margin0; its children retain their original fixed positioning/native typography/surfaces. Existing hook classes g-a92542b (`gcpro-affiliation-tooltip`,display:none) and g-b8dbc32 (`gcpro-affiliation-trigger`,cursor:pointer) reactivated; no new script/framework/tooltip copy owner.1881 and integrations/affiliation-tooltips.js unchanged.
+
+Actual Water514 frontend:5 initialized large triggers,5 initially hidden boxes,0 Footer logo triggers. True mouse hover opened all5 inside the desktop viewport. Mobile391px native click/tap-equivalent opened all5 inside viewport. Tab from IICRC reached the existing certificate link; Escape closed and restored trigger focus. Exact saved Footer structure/styles/content, after excluding only new recovery957f65b, equals the pre-recovery current Footer. Legal pipes/Back to top retained. Native revision preview did not publish the old Footer; stale agent revision tab closed. Current certification/membership verification limits remain unchanged. [Checks](../evidence/2026-10-30-affiliation-recovery-checks.json).

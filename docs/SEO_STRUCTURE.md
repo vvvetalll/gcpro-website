@@ -278,3 +278,10 @@ Use UTF-8 CSV with the existing stable header order. One row per exact original 
 - [ ] Scan other page/service/menu/manual project links; reconcile current private production redirect configuration before launch. Native AIOSEO import overwrites rather than merges.
 - [ ] Restore affiliation tooltip content without footer logos; finish image metadata/complete editorial/service-guide selection and final responsive acceptance.
 - [ ] Repeat actual status/Location/canonical/noindex checks on production domain at launch; production remains unchanged.
+
+### Editorial / tooltip verification follow-up — 2026-10-30
+
+- [x]14 Published articles individually reviewed; six focused body edits saved and reloaded, original dates/URLs retained.32 internal rendered destinations matched intended content/canonical; no admin/preview or old portfolio links in inspected article content. See current Resources inventory/evidence for HTTP limitations.
+- [x] Five relevant service FAQ instances now contain varied contextual guide links, using native WordPress/Elementor links.
+- [x] Five affiliation tooltip boxes restored without Footer logo row; desktop hover/mobile-emulated tap and keyboard/Escape checks passed. Partner submenu hover underline removed; focus outline retained.
+- [ ] Finish sibling-media metadata and final Projects post-route runtime, pagination/negative/query, anonymous/mobile acceptance; reconcile existing production redirect configuration and repeat actual HTTP checks at launch.

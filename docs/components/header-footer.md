@@ -132,3 +132,5 @@ Native Primary Menu5 item3153 Resources now targets existing Page2043 “Restora
 ### 2026-10-29 — Resources follow-up
 
 Resources follow-up2026-10-29: existing Header113 CSS owner styles native current_page_parent for article ancestry and removes orange active lines; original breakpoint/focus rules retained. No menu destinations changed. Actual desktop/mobile visual acceptance remains pending.
+
+2026-10-30 Partner Programs hover correction: existing global `info-bar` g-1f9d3da custom CSS changed only its `& a:hover` text-decoration from underline to none. Existing menu colors/backgrounds/focus rules retained; no Header template copy or additional injection. Actual Plumber Support hover computed no text decoration; keyboard Tab to Insurance Agent retained accent focus outline. Footer tooltip-only recovery957f65b does not restore logos or the removed coverage block; current Footer exact-match check passed apart from this added content container.
