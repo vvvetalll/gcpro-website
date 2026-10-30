@@ -195,3 +195,27 @@ Guest Winnetka sample returns one H1, two actual dates, native columns and noind
 
 
 2026-10-30 Elementor opening migration checkpoint (unfinished): owner authorized moving the full article opening into existing Single123 so heading/photo/metadata can be selected visually. Removed decorative calendar/clock Unicode glyphs from3159 at owner request; native date values remain. Private snapshots captured outside Git. Tested Atomic post-date with publication/modified dynamic sources and then native Current Query Collection Loop: guest MISS render still returned template October30 instead of article February19,2025. Removed the entire temporary metadata test container/loop; no failed test remains. Existing opening and post references retained until a verified replacement exists. No custom date code or hard-coded dates introduced. Need inspect native Elementor Post Info/terms/date controls through visual editor; connector absence is not proof of Elementor feature absence. Computer Use screenshot showed Windows lock screen; stopped app interaction and requested unlock. This blocks visual-editor completion, not saved WordPress/API access. Full migration is NOT complete. Staging-only cache purge performed for focused verification.
+
+
+### 2026-10-30 — Focused article photography and recent-media review
+
+Owner requested appropriate article photographs, optimization and recent Media Library metadata. Inspected the newest60 attachment records: all60 are already WebP;46 had empty alt before this pass. This is a format/metadata inventory, not full-resolution acceptance of every recent asset. Inspected40 distinct candidate images in contact sheets and selected replacements at full resolution. Preserved originals and unrelated attachments; did not delete legacy illustrations or change project gallery membership.
+
+Six retained Published article covers updated using native Featured Image bindings:
+
+| Post | New attachment | Reason |
+| --- | --- | --- |
+|2045 Hidden water damage|3483|Real opened kitchen ceiling; replaces rejected wall/red-arrow photograph.|
+|2050 Mold color|2607|Real affected laundry-room surfaces; replaces an illustrative living-room mold scene.|
+|2056 Winnetka advice|2991|Finished living-area repair example; caption explicitly avoids claiming a Winnetka project.|
+|2064 Ceiling water damage|3307|Legacy ceiling-staining photograph matches the informational subject; location unverified and not asserted.|
+|2068 Flooded basement|3016|Actual basement after mitigation, with lower finishes removed; not represented as completed rebuilding.|
+|2069 Floor repair|2614|Actual affected hardwood/exposed subfloor during drying; replaces illustrative bathroom flooding.|
+
+Attachment3483 is a1400×829 WebP editorial derivative of2867,31,052bytes, quality84, no EXIF, no upscaling. Original2867 preserved. No compositing, generated damage, object removal or privacy-sensitive details. Other selected files were already optimized WebPs and reused without recompression or duplicate uploads:11,662–229,382bytes. One new derivative is justified by the article cover placement/delivery size.
+
+Saved descriptive titles, truthful alt and descriptions on18 inspected attachments:2607,2614,2991,3270,3288,3292,3293,3298,3306,3307,3320,3328,3332,3333,3334,3335,3437,3483. Descriptions distinguish legacy illustrations/unverified locations from actual project photographs; alt describes visible content rather than article keywords.3437 remains an unverified paired candidate, not a newly approved BEAF comparison. Unreviewed recent media retain their existing metadata; no broad library audit or deletion occurred.
+
+Verification: all six ordinary guest article routes returned200 after staging cache purge, delivered the assigned photo, retained oneH1 and noindex. Native readback confirms original slug/date/status and AIOSEO title/description/canonical/robots settings preserved; the only body edit is2056's corrected featured-photo caption. Full desktop/mobile appearance, browser hover/focus and picture responsiveness are not certified by HTTP checks. New media bytes/dimensions and empty EXIF checked locally. Private full backups and verification HTML remain outside Git.
+
+Concurrent task boundary: native Single123 opening migration is still unfinished; existing3159 references remain. Owner also requested Card2233 match Article Card3133. Read both saved cards and backed up2233; proposed surgical edits failed with Elementor `Could not save document`, including an isolated image-radius change and a fresh direct MCP session. Readback proves the old card is intact. Do not describe this redesign as saved. Chrome also reported concurrent-user-input guards; no settings/security bypass or raw Atomic-tree writes used. No new active styling/code added by the failed attempts.
