@@ -83,3 +83,18 @@ Editing: Elementor Theme Builder Archive124 and Single Post123; shared Resource 
 ### Final owner correction — 2026-10-29
 
 Owner requested removing the oversized first feature and keeping the rest. Archive124 now uses an ordinary uniform3/2/1 card grid, six articles per page. Removed all first-item spanning and split-layout rules from380a3746; the first article remains a normal card, no post was deleted. Existing introduction/topic navigation, card design and Single123 remain unchanged. Browser1280px confirmed six cards, three equal378.7px columns, first grid-column auto and no horizontal overflow. Earlier lead-story/seven-per-page statements describe the superseded checkpoint. No new photo or hero was inserted; no new CSS owner or dependency. Native responsive rules retained.
+
+
+### 2026-10-30 — Published service badges on card images
+
+Owner explicitly approved scoped CSS after the native Post Terms/loop styling gap was demonstrated. Archive124 > Article Query a6bffe2 > Grid380a3746 > Item5485f36b contains Card4b582bfe (Component3133) and sibling classic Post Info2ef8cf7. Post Info displays Category terms, no icon, and uses CSS class `resource-category-badge`; native category destinations remain intact.
+
+**Authoritative style owner:** Archive124 > Archive Settings > Advanced > Custom CSS. This is template CSS, not Custom Code903 and not theme CSS. The semantic selector `.elementor .resource-category-badge` survives Atomic loop cloning, which changes classic widget IDs and causes its original per-widget generated styling to miss clones. No scripts, custom fields or new plugins were added.
+
+Rules: absolute inset12px auto auto12px; z-index2; inline-flex, widthauto, margin0; padding6px10px;1px color-border (#E5E7EB fallback); radius6px; white background; color-text; font-body/Inter12px600 with16px line height. Scoped icon-list items have zero margin/padding, and items/text/links inherit font and color; badge links have no text decoration. Native keyboard focus remains. Each badge is a sibling of the whole-card link, avoiding nested anchors.
+
+Verification: native Publish completed/disabled; public blog rendered12 categories in white badges at photo top-left, with correct first-row Water Damage/Water Damage/Fire & Smoke values. Mobile Elementor preview showed the badge within a305px card (badge97.375px wide,12px offsets). Staging cache was purged; physical-device and anonymous-delivery checks were not performed. Source images and card action geometry were unchanged by this correction.
+
+Earlier temporary Paragraphs1187540/89fc620, wrapperf1382b1 and root duplicate46fa232 were removed. Global class g-0d21740 was created during the unsuccessful native approach; it is not an active styling owner for the final rendered badges. Do not attach a duplicate rule to it. Rollback: remove only the service-badge block from Archive124 custom CSS (and the Post Info widget if removing badges entirely).
+
+Remaining separate work: numeric pagination, estimated reading time and18 draft covers remain pending. Single article layout was deferred by the owner; reported mobile rendering issues on About/Signs of Hidden Water Damage were not reproduced in the desktop check.
