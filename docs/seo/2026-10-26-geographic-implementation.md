@@ -1,5 +1,12 @@
 # Geographic implementation plan — 2026-10-26
 
+## Owner-requested Elk Grove Village completion — 2026-10-30
+
+This current follow-up supersedes only529's deferred status below. Owner explicitly reported its unfinished presentation. Fresh native editor confirmed an empty Draft not built with Elementor; authenticated pretty-URL viewing had shown only its misspelled title. Reused Carol Stream543's native composition via Elementor Copy/Paste, retaining references to shared1318/68/71/1152/1354/80. Removed Carol Stream-specific guidance, automatic project selection and duplicate mid-page CTA before publication. All city-specific Overrides rewritten; Lombard office retained accurately. No local project evidence is available in the reviewed52-case inventory, so no local case list was added. Existing ID529, parent495 and `/service-area/elk-grove-village/` retained; title corrected to Elk Grove Village. Published on staging only.
+
+Actual connected browser: one H1, correct self-canonical, staging noindex/nofollow, six service destinations and Call/Request/Contact/Directory native destinations inspected. Full main text contains no Carol Stream residue. Mobile-width layout fits without horizontal overflow; native summary Enter toggles closed/open. Desktop/mobile screenshots captured privately. Independent anonymous HTTP, complete destination traversal and new directory/menu inclusion remain pending. Other29 deferred cities are not silently approved by this follow-up.
+
+
 ## Focused content and URL-preservation review — 2026-10-27
 
 **Scope is fixed at the current ten pages.** No new city, WordPress object, service×city page, route, redirect, status transition or production write. This section is the current review; the preceding rollout history remains below. The canonical machine-readable decision register is still [SEO_URL_INVENTORY.csv](../SEO_URL_INVENTORY.csv), not a new CSV.

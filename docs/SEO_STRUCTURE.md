@@ -1,5 +1,15 @@
 # GCPRO SEO URL architecture and Draft skeleton
 
+## Approved Projects route — active staging work, 2026-10-30
+
+Owner approved `/projects/` and `/projects/{existing-slug}/`, superseding the older `/portfolio/` preservation instruction below. Existing ACF CPT2225 `gcpro_project`, record IDs, individual slugs, templates and taxonomy assignments retained. Native rewrite/archive slugs changed to `projects`. Before editing, `/projects/` returned actual404, public Page slug lookup was empty, and admin search found only two Draft legacy/prototype Pages1132/2171. No duplicate Page/CPT created or Draft published.
+
+Existing AIOSEO Redirect Manager initially had0 rules; now53 exact non-regex manual301s cover archive and52 Published cases. Native ignore-slash/ignore-case and query-pass are enabled. Browser Network responses verified archive301→200 and52/52 cases301→matching200, correct post IDs, self-canonicals and noindex. [HTTP evidence](evidence/2026-10-30-project-route-http-checks.json). Header's native CPT archive menu resolves directly to `/projects/`. Single2231 breadcrumb/manual editorial links, pagination redirects, negative-path and complete runtime/mobile checks remain pending. Full migration is not complete.
+
+`SEO_URL_INVENTORY.csv` remains canonical: existing source observations/history retained, approved final targets point directly to `/projects/`;39 staging-only project rows added without inventing production history. Historical `/portfolio/page/2/` was200 before editing and needs an exact final mapping. `/portfolio/feed/` was already404 on staging, with feeds disabled; no redirect to an unverified404 added. Feed launch treatment remains unresolved.
+
+Prepared [native AIOSEO JSON](projects/projects-url-redirects.aioseo.json) uses relative paths and no second redirect system. Production unchanged; current private production rules unavailable. Native import UI explicitly says imports overwrite existing redirects rather than merge. Export/reconcile production rules and update historical destinations directly to final URLs before preparing the combined import. Do not import this staging-only file alone over unknown production rules. At launch repeat actual301/Location/200/canonical, query, pagination and nonexistent-path checks on `gcprochicago.com`; retain staging noindex.
+
 **Semantic planning,2026-10-21 — DRAFT — AWAITING USER APPROVAL:** [docs/seo strategy](seo/SEO_STRATEGY.md) centralizes proposed keyword ownership and page briefs. It does not supersede this exact-URL preservation/migration contract or authorize redirects, path changes or navigation edits. Existing URL inventory remains the single canonical register.
 
 
@@ -256,3 +266,15 @@ Recovery is scoped: E14 added only IDs **514–577**. Any future authorized roll
 ## Editing the register
 
 Use UTF-8 CSV with the existing stable header order. One row per exact original URL. JSON-valued cells preserve lists/relationships without a second inventory. Empty staging IDs mean no object was created; empty migration decisions mean no decision was approved. `destination_staging_object_id` is a target candidate lookup, not proof that a query variant/source URL is itself that object or publicly accessible. Preserve source action, historical/live separation, source timestamps and hashes when updating statuses. Never turn proposed IDs/paths or default Draft `?page_id=` preview behavior into verified public routes.
+
+### Current launch-checklist additions — 2026-10-30
+
+- [x] Existing CPT2225 native archive/single base changed to projects; no CPT/record duplication.
+- [x]53 exact native AIOSEO301 mappings saved; actual52 case old301→matching new200/post/canonical/noindex and archive301 checked.
+- [x] Shared Single2231 breadcrumb and identified published article body links point directly to projects.
+- [x]43 affected source fallbacks cleaned;66 published article/case visible-content/H1/noindex checks passed.
+- [x] Elk Grove Village529 completed at original path using shared components; staged publication/desktop/mobile/FAQ checks.
+- [ ] Finish pagination/negative/query redirect checks and archive runtime filters/reset/Load More after route change.
+- [ ] Scan other page/service/menu/manual project links; reconcile current private production redirect configuration before launch. Native AIOSEO import overwrites rather than merges.
+- [ ] Restore affiliation tooltip content without footer logos; finish image metadata/complete editorial/service-guide selection and final responsive acceptance.
+- [ ] Repeat actual status/Location/canonical/noindex checks on production domain at launch; production remains unchanged.

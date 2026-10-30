@@ -1,5 +1,10 @@
 # GCPRO Resources — native Posts system
 
+## 2026-10-30 — Duplicate-cover correction follow-up
+
+Rechecked actual archive image URLs. Article2057 now uses2697 (Highland Park opened bathroom ceiling after mold cleanup),2046 uses2609 (Naperville laundry-room framing after cleanup),2062 uses2615 (Naperville opened basement wall during restoration). Existing optimized WebPs reused; originals unmodified. Native WordPress featured-image controls and article core paragraphs used. Captions identify the actual project city/work stage; supporting links point directly to published `/projects/` cases.2062 archive link now points directly to `/projects/`. Native saves confirmed; `/blog/` first archive batch and `/category/mold/` actual image URLs checked. Mold category now has3 distinct covers2607/2697/2852. The complete14-article editorial/link acceptance remains pending; do not read this as completion of that pass.
+
+
 ## Editorial pilot and quiet menu actions — 2026-10-30
 
 Implemented on staging with ui-ux-pro-max guidance. Single Post123 and synced core pattern3159 remain the existing owners. Pale-blue full-width opening uses the site container, breadcrumb, white rounded topic chip, gray Montserrat700 H1, excerpt, two compact native publication/modified-date chips with decorative calendar/clock glyphs, and one4:3 featured image to the right; core Columns stack on narrow screens. Dates remain actual Post Date blocks; no invented byline, reading time, buttons, reviews or emergency mark. Body remains white with a centered760px reading column, Inter body text, gray Montserrat H2/H3, blue ordinary-weight links without orange underlines, and retained visible focus. User requested photo in the opening rather than duplicated below it.

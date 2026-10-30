@@ -1,5 +1,10 @@
 # Before / After
 
+## 2026-10-30 — Missing presentation-owner recovery
+
+Owner reported blank white hover labels. Actual plugin output supplied white text/white label backgrounds and mid-image positioning; the existing native Site Settings Kit6 Custom CSS field was empty. Restored only the existing `integrations/beaf-presentation.css` mirror to that same native owner, Save Changes completed. After frontend reload, computed label background `rgba(0,0,0,.6)`, white text and top10px confirmed on Home. Existing fullscreen-button presentation restored by the same bounded block. Plugin files,26 integrations and slider records untouched. Cause of the field becoming empty is unknown; no author attribution. Full popup/mobile regression and the separately reported older card appearance remain pending.
+
+
 ## Landing-page Hero cleanup — 2026-10-30
 
 Owner extended archive Hero scope to Before & After. Page493 now reuses shared Archive Hero3421/instance1c1a1b2e; original renovated-kitchen photo1248 retained. Title **Before & After Restoration**, compact factual introduction includes the drag-divider instruction. Removed old1318 instance57e03c21 and redundant page-heading71/2ef1c4f5 only. Four group headings, all26 shortcode widgets, caption/card trees and vendor integrations retained; each shortcode subtree compared exactly unchanged. No plugin files, slider records/settings/media, URLs, SEO or publication-state changes. Header Request Service preserved.

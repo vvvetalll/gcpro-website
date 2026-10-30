@@ -1,0 +1,1111 @@
+{
+  "date": "2026-10-30",
+  "environment": "staging",
+  "method": "Actual browser CDP Network redirectResponse and responseReceived; no status inferred from final URL",
+  "archive": {
+    "source": "https://vitaliiv1.sg-host.com/portfolio/",
+    "status": 301,
+    "location": "https://vitaliiv1.sg-host.com/projects/",
+    "destination_status": 200
+  },
+  "projects": [
+    {
+      "id": 3012,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/oak-brook-mold-affected-basement-walls-opened-dried/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/oak-brook-mold-affected-basement-walls-opened-dried/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/oak-brook-mold-affected-basement-walls-opened-dried/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/oak-brook-mold-affected-basement-walls-opened-dried/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/oak-brook-mold-affected-basement-walls-opened-dried/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/oak-brook-mold-affected-basement-walls-opened-dried/",
+      "galleryLinks": 6,
+      "h1": "Mold-Affected Basement Walls Opened and Dried \u2014 Oak Brook, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 3003,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/oak-brook-kitchen-living-spaces-home-remodel/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/oak-brook-kitchen-living-spaces-home-remodel/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/oak-brook-kitchen-living-spaces-home-remodel/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/oak-brook-kitchen-living-spaces-home-remodel/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/oak-brook-kitchen-living-spaces-home-remodel/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/oak-brook-kitchen-living-spaces-home-remodel/",
+      "galleryLinks": 6,
+      "h1": "Kitchen and Living Spaces Renewed in a Whole-Home Remodel \u2014 Oak Brook, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2994,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/downers-grove-roof-attic-interior-repairs-animal-damage/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/downers-grove-roof-attic-interior-repairs-animal-damage/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/downers-grove-roof-attic-interior-repairs-animal-damage/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/downers-grove-roof-attic-interior-repairs-animal-damage/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/downers-grove-roof-attic-interior-repairs-animal-damage/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/downers-grove-roof-attic-interior-repairs-animal-damage/",
+      "galleryLinks": 6,
+      "h1": "Roof, Attic and Interior Repairs After Animal Damage \u2014 Downers Grove, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2985,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/downers-grove-bathroom-tile-carpet-interior-water-repairs/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/downers-grove-bathroom-tile-carpet-interior-water-repairs/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/downers-grove-bathroom-tile-carpet-interior-water-repairs/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/downers-grove-bathroom-tile-carpet-interior-water-repairs/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/downers-grove-bathroom-tile-carpet-interior-water-repairs/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/downers-grove-bathroom-tile-carpet-interior-water-repairs/",
+      "galleryLinks": 6,
+      "h1": "Bathroom Tile, Carpet and Interior Finishes Restored \u2014 Downers Grove, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2976,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/carol-stream-flooring-interior-doors-finished-drain-backup/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/carol-stream-flooring-interior-doors-finished-drain-backup/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/carol-stream-flooring-interior-doors-finished-drain-backup/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/carol-stream-flooring-interior-doors-finished-drain-backup/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/carol-stream-flooring-interior-doors-finished-drain-backup/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/carol-stream-flooring-interior-doors-finished-drain-backup/",
+      "galleryLinks": 6,
+      "h1": "Flooring and Interior Doors Finished After a Drain Backup \u2014 Carol Stream, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2967,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/schaumburg-entry-main-floor-basement-rebuilt-frozen-pipes/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/schaumburg-entry-main-floor-basement-rebuilt-frozen-pipes/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/schaumburg-entry-main-floor-basement-rebuilt-frozen-pipes/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/schaumburg-entry-main-floor-basement-rebuilt-frozen-pipes/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/schaumburg-entry-main-floor-basement-rebuilt-frozen-pipes/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/schaumburg-entry-main-floor-basement-rebuilt-frozen-pipes/",
+      "galleryLinks": 6,
+      "h1": "Entry, Main Floor and Basement Rebuilt After Frozen Pipes \u2014 Schaumburg, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2958,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/glenview-hardwood-basement-restored-ice-damming/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/glenview-hardwood-basement-restored-ice-damming/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/glenview-hardwood-basement-restored-ice-damming/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/glenview-hardwood-basement-restored-ice-damming/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/glenview-hardwood-basement-restored-ice-damming/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/glenview-hardwood-basement-restored-ice-damming/",
+      "galleryLinks": 6,
+      "h1": "Hardwood Floors and Basement Restored After Ice Damming \u2014 Glenview, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2948,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/carol-stream-commercial-restrooms-warehouse-access-improvements/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/carol-stream-commercial-restrooms-warehouse-access-improvements/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/carol-stream-commercial-restrooms-warehouse-access-improvements/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/carol-stream-commercial-restrooms-warehouse-access-improvements/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/carol-stream-commercial-restrooms-warehouse-access-improvements/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/carol-stream-commercial-restrooms-warehouse-access-improvements/",
+      "galleryLinks": 6,
+      "h1": "Commercial Restrooms and Warehouse Access Improvements \u2014 Carol Stream, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2939,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/elmhurst-bathroom-basement-stairwell-restored-overflow/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/elmhurst-bathroom-basement-stairwell-restored-overflow/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/elmhurst-bathroom-basement-stairwell-restored-overflow/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/elmhurst-bathroom-basement-stairwell-restored-overflow/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/elmhurst-bathroom-basement-stairwell-restored-overflow/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/elmhurst-bathroom-basement-stairwell-restored-overflow/",
+      "galleryLinks": 6,
+      "h1": "Bathroom and Basement Stairwell Restored After an Overflow \u2014 Elmhurst, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2930,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/lombard-home-shed-siding-replaced-storm-damage/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/lombard-home-shed-siding-replaced-storm-damage/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/lombard-home-shed-siding-replaced-storm-damage/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/lombard-home-shed-siding-replaced-storm-damage/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/lombard-home-shed-siding-replaced-storm-damage/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/lombard-home-shed-siding-replaced-storm-damage/",
+      "galleryLinks": 6,
+      "h1": "Home and Shed Siding Replaced After Storm Damage \u2014 Lombard, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2921,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/schaumburg-kitchen-interior-repairs-laundry-pipe-leak/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/schaumburg-kitchen-interior-repairs-laundry-pipe-leak/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/schaumburg-kitchen-interior-repairs-laundry-pipe-leak/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/schaumburg-kitchen-interior-repairs-laundry-pipe-leak/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/schaumburg-kitchen-interior-repairs-laundry-pipe-leak/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/schaumburg-kitchen-interior-repairs-laundry-pipe-leak/",
+      "galleryLinks": 6,
+      "h1": "Kitchen and Interior Repairs After a Laundry-Area Pipe Leak \u2014 Schaumburg, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2912,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/glenview-leaking-parapet-membrane-flashing-replaced/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/glenview-leaking-parapet-membrane-flashing-replaced/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/glenview-leaking-parapet-membrane-flashing-replaced/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/glenview-leaking-parapet-membrane-flashing-replaced/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/glenview-leaking-parapet-membrane-flashing-replaced/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/glenview-leaking-parapet-membrane-flashing-replaced/",
+      "galleryLinks": 6,
+      "h1": "Leaking Parapet Membrane and Flashing Replaced \u2014 Glenview, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2903,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/northbrook-paver-patio-drainage-repairs/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/northbrook-paver-patio-drainage-repairs/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/northbrook-paver-patio-drainage-repairs/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/northbrook-paver-patio-drainage-repairs/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/northbrook-paver-patio-drainage-repairs/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/northbrook-paver-patio-drainage-repairs/",
+      "galleryLinks": 6,
+      "h1": "Paver Patio and Drainage Repairs \u2014 Northbrook, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2894,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/lombard-attic-roof-framing-cleaned-treated/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/lombard-attic-roof-framing-cleaned-treated/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/lombard-attic-roof-framing-cleaned-treated/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/lombard-attic-roof-framing-cleaned-treated/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/lombard-attic-roof-framing-cleaned-treated/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/lombard-attic-roof-framing-cleaned-treated/",
+      "galleryLinks": 6,
+      "h1": "Attic Roof Framing Cleaned and Treated \u2014 Lombard, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2883,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/elmhurst-office-flooring-interior-repairs/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/elmhurst-office-flooring-interior-repairs/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/elmhurst-office-flooring-interior-repairs/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/elmhurst-office-flooring-interior-repairs/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/elmhurst-office-flooring-interior-repairs/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/elmhurst-office-flooring-interior-repairs/",
+      "galleryLinks": 6,
+      "h1": "Office Flooring and Interior Repairs \u2014 Elmhurst, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2874,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/glenview-basement-build-out-fireplace-bar-tiled-shower/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/glenview-basement-build-out-fireplace-bar-tiled-shower/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/glenview-basement-build-out-fireplace-bar-tiled-shower/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/glenview-basement-build-out-fireplace-bar-tiled-shower/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/glenview-basement-build-out-fireplace-bar-tiled-shower/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/glenview-basement-build-out-fireplace-bar-tiled-shower/",
+      "galleryLinks": 6,
+      "h1": "Basement Build-Out with Fireplace, Bar and Tiled Shower \u2014 Glenview, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2865,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/elmhurst-kitchen-ceiling-hardwood-restored-condensate-leak/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/elmhurst-kitchen-ceiling-hardwood-restored-condensate-leak/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/elmhurst-kitchen-ceiling-hardwood-restored-condensate-leak/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/elmhurst-kitchen-ceiling-hardwood-restored-condensate-leak/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/elmhurst-kitchen-ceiling-hardwood-restored-condensate-leak/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/elmhurst-kitchen-ceiling-hardwood-restored-condensate-leak/",
+      "galleryLinks": 6,
+      "h1": "Kitchen Ceiling and Hardwood Floors Restored After a Condensate Leak \u2014 Elmhurst, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2856,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/lombard-main-floor-basement-restored-sewer-backup/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/lombard-main-floor-basement-restored-sewer-backup/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/lombard-main-floor-basement-restored-sewer-backup/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/lombard-main-floor-basement-restored-sewer-backup/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/lombard-main-floor-basement-restored-sewer-backup/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/lombard-main-floor-basement-restored-sewer-backup/",
+      "galleryLinks": 6,
+      "h1": "Main Floor and Basement Restored After a Sewer Backup \u2014 Lombard, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2847,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/carol-stream-attic-mold-removal-rafters-sheathing/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/carol-stream-attic-mold-removal-rafters-sheathing/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/carol-stream-attic-mold-removal-rafters-sheathing/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/carol-stream-attic-mold-removal-rafters-sheathing/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/carol-stream-attic-mold-removal-rafters-sheathing/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/carol-stream-attic-mold-removal-rafters-sheathing/",
+      "galleryLinks": 6,
+      "h1": "Attic Mold Removal from Rafters and Sheathing \u2014 Carol Stream, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2837,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/downers-grove-hail-damaged-shingle-roof-replaced/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/downers-grove-hail-damaged-shingle-roof-replaced/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/downers-grove-hail-damaged-shingle-roof-replaced/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/downers-grove-hail-damaged-shingle-roof-replaced/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/downers-grove-hail-damaged-shingle-roof-replaced/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/downers-grove-hail-damaged-shingle-roof-replaced/",
+      "galleryLinks": 6,
+      "h1": "Hail-Damaged Shingle Roof Replaced \u2014 Downers Grove, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2828,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/northbrook-kitchen-hallway-floors-repaired-water-damage/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/northbrook-kitchen-hallway-floors-repaired-water-damage/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/northbrook-kitchen-hallway-floors-repaired-water-damage/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/northbrook-kitchen-hallway-floors-repaired-water-damage/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/northbrook-kitchen-hallway-floors-repaired-water-damage/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/northbrook-kitchen-hallway-floors-repaired-water-damage/",
+      "galleryLinks": 6,
+      "h1": "Kitchen and Hallway Floors Repaired After Water Damage \u2014 Northbrook, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2818,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/northbrook-basement-gym-theater-rebuilt-sump-backup/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/northbrook-basement-gym-theater-rebuilt-sump-backup/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/northbrook-basement-gym-theater-rebuilt-sump-backup/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/northbrook-basement-gym-theater-rebuilt-sump-backup/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/northbrook-basement-gym-theater-rebuilt-sump-backup/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/northbrook-basement-gym-theater-rebuilt-sump-backup/",
+      "galleryLinks": 6,
+      "h1": "Basement Gym and Theater Rebuilt After a Sump Pump Backup \u2014 Northbrook, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2800,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/highland-park-shingle-roof-replaced-hail-damage/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/highland-park-shingle-roof-replaced-hail-damage/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/highland-park-shingle-roof-replaced-hail-damage/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/highland-park-shingle-roof-replaced-hail-damage/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/highland-park-shingle-roof-replaced-hail-damage/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/highland-park-shingle-roof-replaced-hail-damage/",
+      "galleryLinks": 6,
+      "h1": "Shingle Roof Replaced After Hail Damage \u2014 Highland Park, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2782,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/highland-park-bathroom-laundry-water-damage-repairs/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/highland-park-bathroom-laundry-water-damage-repairs/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/highland-park-bathroom-laundry-water-damage-repairs/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/highland-park-bathroom-laundry-water-damage-repairs/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/highland-park-bathroom-laundry-water-damage-repairs/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/highland-park-bathroom-laundry-water-damage-repairs/",
+      "galleryLinks": 6,
+      "h1": "Bathroom and Laundry Repairs After Water Damage \u2014 Highland Park, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2765,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/highland-park-roof-interior-rebuilt-fallen-tree/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/highland-park-roof-interior-rebuilt-fallen-tree/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/highland-park-roof-interior-rebuilt-fallen-tree/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/highland-park-roof-interior-rebuilt-fallen-tree/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/highland-park-roof-interior-rebuilt-fallen-tree/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/highland-park-roof-interior-rebuilt-fallen-tree/",
+      "galleryLinks": 6,
+      "h1": "Roof and Interior Rebuilt After a Fallen Tree \u2014 Highland Park, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2755,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/schaumburg-garage-support-repairs-vehicle-impact/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/schaumburg-garage-support-repairs-vehicle-impact/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/schaumburg-garage-support-repairs-vehicle-impact/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/schaumburg-garage-support-repairs-vehicle-impact/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/schaumburg-garage-support-repairs-vehicle-impact/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/schaumburg-garage-support-repairs-vehicle-impact/",
+      "galleryLinks": 6,
+      "h1": "Garage Support and Interior Repairs After Vehicle Impact \u2014 Schaumburg, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2572,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/carol-stream-water-damage-flooring-repairs/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/carol-stream-water-damage-flooring-repairs/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/carol-stream-water-damage-flooring-repairs/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/carol-stream-water-damage-flooring-repairs/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/carol-stream-water-damage-flooring-repairs/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/carol-stream-water-damage-flooring-repairs/",
+      "galleryLinks": 6,
+      "h1": "Kitchen Flooring and Basement Repairs After a Dishwasher Leak \u2014 Carol Stream, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2718,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/downers-grove-smoke-cleanup-interior-repairs/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/downers-grove-smoke-cleanup-interior-repairs/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/downers-grove-smoke-cleanup-interior-repairs/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/downers-grove-smoke-cleanup-interior-repairs/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/downers-grove-smoke-cleanup-interior-repairs/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/downers-grove-smoke-cleanup-interior-repairs/",
+      "galleryLinks": 6,
+      "h1": "Smoke-Damaged Interiors Cleaned and Repaired \u2014 Downers Grove, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2701,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/oak-brook-bathroom-interior-repairs-shower-leak/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/oak-brook-bathroom-interior-repairs-shower-leak/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/oak-brook-bathroom-interior-repairs-shower-leak/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/oak-brook-bathroom-interior-repairs-shower-leak/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/oak-brook-bathroom-interior-repairs-shower-leak/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/oak-brook-bathroom-interior-repairs-shower-leak/",
+      "galleryLinks": 6,
+      "h1": "Bathroom and Interior Repairs After a Shower Leak \u2014 Oak Brook, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2690,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/mold-cleanup-above-an-open-bathroom-ceiling-highland-park-il/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/mold-cleanup-above-an-open-bathroom-ceiling-highland-park-il/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/mold-cleanup-above-an-open-bathroom-ceiling-highland-park-il/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/mold-cleanup-above-an-open-bathroom-ceiling-highland-park-il/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/mold-cleanup-above-an-open-bathroom-ceiling-highland-park-il/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/mold-cleanup-above-an-open-bathroom-ceiling-highland-park-il/",
+      "galleryLinks": 6,
+      "h1": "Mold Cleanup Above an Open Bathroom Ceiling \u2014 Highland Park, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2679,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/elmhurst-hardwood-restoration-upstairs-shower-leak/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/elmhurst-hardwood-restoration-upstairs-shower-leak/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/elmhurst-hardwood-restoration-upstairs-shower-leak/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/elmhurst-hardwood-restoration-upstairs-shower-leak/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/elmhurst-hardwood-restoration-upstairs-shower-leak/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/elmhurst-hardwood-restoration-upstairs-shower-leak/",
+      "galleryLinks": 5,
+      "h1": "Hardwood Floors Restored After an Upstairs Shower Leak \u2014 Elmhurst, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2666,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/schaumburg-interior-repairs-shattered-aquarium/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/schaumburg-interior-repairs-shattered-aquarium/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/schaumburg-interior-repairs-shattered-aquarium/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/schaumburg-interior-repairs-shattered-aquarium/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/schaumburg-interior-repairs-shattered-aquarium/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/schaumburg-interior-repairs-shattered-aquarium/",
+      "galleryLinks": 6,
+      "h1": "Interior Repairs After a Shattered Aquarium \u2014 Schaumburg, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2640,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/northbrook-hardwood-floors-interior-finishes-restored/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/northbrook-hardwood-floors-interior-finishes-restored/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/northbrook-hardwood-floors-interior-finishes-restored/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/northbrook-hardwood-floors-interior-finishes-restored/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/northbrook-hardwood-floors-interior-finishes-restored/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/northbrook-hardwood-floors-interior-finishes-restored/",
+      "galleryLinks": 4,
+      "h1": "Hardwood Floors and Interior Finishes Restored \u2014 Northbrook, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2632,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/glenview-concrete-stairways-metal-railings-rebuilt/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/glenview-concrete-stairways-metal-railings-rebuilt/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/glenview-concrete-stairways-metal-railings-rebuilt/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/glenview-concrete-stairways-metal-railings-rebuilt/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/glenview-concrete-stairways-metal-railings-rebuilt/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/glenview-concrete-stairways-metal-railings-rebuilt/",
+      "galleryLinks": 5,
+      "h1": "Concrete Stairways and Metal Railings Rebuilt \u2014 Glenview, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2624,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/lombard-fire-damaged-interiors-kitchen-rebuilt/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/lombard-fire-damaged-interiors-kitchen-rebuilt/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/lombard-fire-damaged-interiors-kitchen-rebuilt/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/lombard-fire-damaged-interiors-kitchen-rebuilt/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/lombard-fire-damaged-interiors-kitchen-rebuilt/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/lombard-fire-damaged-interiors-kitchen-rebuilt/",
+      "galleryLinks": 5,
+      "h1": "Fire-Damaged Interiors and Kitchen Rebuilt \u2014 Lombard, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2612,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/naperville-floors-ceilings-water-damage-repairs/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/naperville-floors-ceilings-water-damage-repairs/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/naperville-floors-ceilings-water-damage-repairs/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/naperville-floors-ceilings-water-damage-repairs/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/naperville-floors-ceilings-water-damage-repairs/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/naperville-floors-ceilings-water-damage-repairs/",
+      "galleryLinks": 5,
+      "h1": "Floors and Ceilings Rebuilt After Water Damage \u2014 Naperville, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2604,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/naperville-laundry-leak-water-mold-cleanup/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/naperville-laundry-leak-water-mold-cleanup/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/naperville-laundry-leak-water-mold-cleanup/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/naperville-laundry-leak-water-mold-cleanup/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/naperville-laundry-leak-water-mold-cleanup/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/naperville-laundry-leak-water-mold-cleanup/",
+      "galleryLinks": 5,
+      "h1": "Water and Mold Cleanup After a Laundry Leak \u2014 Naperville, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2596,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/naperville-home-reconstruction-vehicle-impact/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/naperville-home-reconstruction-vehicle-impact/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/naperville-home-reconstruction-vehicle-impact/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/naperville-home-reconstruction-vehicle-impact/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/naperville-home-reconstruction-vehicle-impact/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/naperville-home-reconstruction-vehicle-impact/",
+      "galleryLinks": 5,
+      "h1": "Home Reconstruction After Vehicle Impact \u2014 Naperville, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2580,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/naperville-attic-mold-cleanup-insulation/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/naperville-attic-mold-cleanup-insulation/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/naperville-attic-mold-cleanup-insulation/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/naperville-attic-mold-cleanup-insulation/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/naperville-attic-mold-cleanup-insulation/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/naperville-attic-mold-cleanup-insulation/",
+      "galleryLinks": 4,
+      "h1": "Attic Mold Cleanup and Insulation Replacement \u2014 Naperville, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2087,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/helen-berkun-the-entire-facade-of-the-house/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/helen-berkun-the-entire-facade-of-the-house/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/helen-berkun-the-entire-facade-of-the-house/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/helen-berkun-the-entire-facade-of-the-house/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/helen-berkun-the-entire-facade-of-the-house/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/helen-berkun-the-entire-facade-of-the-house/",
+      "galleryLinks": 8,
+      "h1": "House Exterior Renovation \u2013 Helen Berkun",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2086,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/green-oaks-apartments-in-palos-hills/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/green-oaks-apartments-in-palos-hills/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/green-oaks-apartments-in-palos-hills/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/green-oaks-apartments-in-palos-hills/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/green-oaks-apartments-in-palos-hills/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/green-oaks-apartments-in-palos-hills/",
+      "galleryLinks": 40,
+      "h1": "Green Oaks Apartments \u2013 Palos Hills, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2085,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/helen-berkun-bathroom-reveal/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/helen-berkun-bathroom-reveal/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/helen-berkun-bathroom-reveal/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/helen-berkun-bathroom-reveal/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/helen-berkun-bathroom-reveal/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/helen-berkun-bathroom-reveal/",
+      "galleryLinks": 20,
+      "h1": "Bathroom Renovation \u2013 Helen Berkun",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2084,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/transforming-spaces-into-modern-and-elegant-interiors-in-st-charles/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/transforming-spaces-into-modern-and-elegant-interiors-in-st-charles/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/transforming-spaces-into-modern-and-elegant-interiors-in-st-charles/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/transforming-spaces-into-modern-and-elegant-interiors-in-st-charles/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/transforming-spaces-into-modern-and-elegant-interiors-in-st-charles/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/transforming-spaces-into-modern-and-elegant-interiors-in-st-charles/",
+      "galleryLinks": 24,
+      "h1": "Interior Renovation \u2013 St. Charles, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2083,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/reconstruction-after-water-damage-on-montana-street-chicago/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/reconstruction-after-water-damage-on-montana-street-chicago/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/reconstruction-after-water-damage-on-montana-street-chicago/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/reconstruction-after-water-damage-on-montana-street-chicago/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/reconstruction-after-water-damage-on-montana-street-chicago/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/reconstruction-after-water-damage-on-montana-street-chicago/",
+      "galleryLinks": 23,
+      "h1": "Water Damage Reconstruction \u2013 Montana Street",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2082,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/fire-damage-restoration-on-w-school-street-in-chicago/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/fire-damage-restoration-on-w-school-street-in-chicago/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/fire-damage-restoration-on-w-school-street-in-chicago/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/fire-damage-restoration-on-w-school-street-in-chicago/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/fire-damage-restoration-on-w-school-street-in-chicago/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/fire-damage-restoration-on-w-school-street-in-chicago/",
+      "galleryLinks": 23,
+      "h1": "Fire Damage Restoration \u2013 West School Street",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2081,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/transforming-spaces-glenview-home-reconstruction/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/transforming-spaces-glenview-home-reconstruction/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/transforming-spaces-glenview-home-reconstruction/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/transforming-spaces-glenview-home-reconstruction/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/transforming-spaces-glenview-home-reconstruction/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/transforming-spaces-glenview-home-reconstruction/",
+      "galleryLinks": 31,
+      "h1": "Home Reconstruction \u2013 Glenview, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2080,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/frozen-facade-complete-exterior-and-window-renovation-in-chicago/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/frozen-facade-complete-exterior-and-window-renovation-in-chicago/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/frozen-facade-complete-exterior-and-window-renovation-in-chicago/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/frozen-facade-complete-exterior-and-window-renovation-in-chicago/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/frozen-facade-complete-exterior-and-window-renovation-in-chicago/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/frozen-facade-complete-exterior-and-window-renovation-in-chicago/",
+      "galleryLinks": 14,
+      "h1": "Exterior and Window Renovation \u2013 Chicago, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2076,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/water-damage-restoration-in-western-spring/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/water-damage-restoration-in-western-spring/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/water-damage-restoration-in-western-spring/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/water-damage-restoration-in-western-spring/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/water-damage-restoration-in-western-spring/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/water-damage-restoration-in-western-spring/",
+      "galleryLinks": 12,
+      "h1": "Water Damage Restoration \u2013 Western Spring",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2075,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/home-remodeling-oakbrook/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/home-remodeling-oakbrook/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/home-remodeling-oakbrook/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/home-remodeling-oakbrook/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/home-remodeling-oakbrook/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/home-remodeling-oakbrook/",
+      "galleryLinks": 16,
+      "h1": "Home Remodeling \u2013 Oak Brook, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2079,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/reconstruction-in-boys-and-girls-clubs-of-chicago/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/reconstruction-in-boys-and-girls-clubs-of-chicago/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/reconstruction-in-boys-and-girls-clubs-of-chicago/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/reconstruction-in-boys-and-girls-clubs-of-chicago/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/reconstruction-in-boys-and-girls-clubs-of-chicago/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/reconstruction-in-boys-and-girls-clubs-of-chicago/",
+      "galleryLinks": 4,
+      "h1": "Club Interior Reconstruction \u2014 Chicago, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2078,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/restoring-elegance-water-damage-reconstruction-of-a-wonder-lake-residence/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/restoring-elegance-water-damage-reconstruction-of-a-wonder-lake-residence/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/restoring-elegance-water-damage-reconstruction-of-a-wonder-lake-residence/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/restoring-elegance-water-damage-reconstruction-of-a-wonder-lake-residence/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/restoring-elegance-water-damage-reconstruction-of-a-wonder-lake-residence/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/restoring-elegance-water-damage-reconstruction-of-a-wonder-lake-residence/",
+      "galleryLinks": 3,
+      "h1": "Water Damage Reconstruction \u2014 Wonder Lake, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    },
+    {
+      "id": 2077,
+      "old": "https://vitaliiv1.sg-host.com/portfolio/from-ashes-to-excellence-tinley-park-home-restoration/",
+      "expected": "https://vitaliiv1.sg-host.com/projects/from-ashes-to-excellence-tinley-park-home-restoration/",
+      "chain": [
+        {
+          "url": "https://vitaliiv1.sg-host.com/portfolio/from-ashes-to-excellence-tinley-park-home-restoration/",
+          "status": 301,
+          "location": "https://vitaliiv1.sg-host.com/projects/from-ashes-to-excellence-tinley-park-home-restoration/"
+        },
+        {
+          "url": "https://vitaliiv1.sg-host.com/projects/from-ashes-to-excellence-tinley-park-home-restoration/",
+          "status": 200
+        }
+      ],
+      "canonical": "https://vitaliiv1.sg-host.com/projects/from-ashes-to-excellence-tinley-park-home-restoration/",
+      "galleryLinks": 4,
+      "h1": "Home Restoration \u2014 Tinley Park, IL",
+      "noindex": "noindex, nofollow, max-image-preview:large",
+      "post": true
+    }
+  ],
+  "limits": [
+    "Authenticated browser checks; independent anonymous cache delivery not certified.",
+    "Pagination, negative paths, full internal links and runtime/mobile regression remain pending.",
+    "Production rules unavailable; reconcile before native import, which overwrites existing rules.",
+    "Historical portfolio/feed/ already returned404 before the edit; unresolved."
+  ]
+}
