@@ -1,5 +1,11 @@
 # Smart Header and Mobile Emergency CTA
 
+## Current threshold — 2026-10-30
+
+Owner requested bottom panel after20–30% scroll. Existing Custom Code903 now uses25% of current scrollable range, replacing introductory-origin fallback and article50% rule. Removed unused origin lookup; old marker classes can remain harmlessly. Mobile-only width gate, menu/modal/chat/form/input/zoom guards and keyboard-focus pin unchanged. CSS, Header movement and panel design unchanged; no new controller/enqueue.
+
+Native Update/reload confirmed saved threshold and Home script. Authenticated390px: hidden at top/15.0%, visible at29.1%; no horizontal overflow. Later visible at78.8%. Menu suppression not successfully retested; no renewed claim. No calls/submissions. Source mirror integrations/scroll-navigation.js matches saved script after newline normalization. Rollback restores prior threshold lines/origin lookup. Production/noindex unchanged.
+
 **E64,2026-10-20:** Existing903 CSS now reserves panel clearance inside .site-footer instead of body, removing the verified white tail. Mobile native footer baseline is retained with max(section-spacing-mobile, measured barHeight+24 + safe-area inset); last content stays above the fixed panel.903 JS, Header/Core/895 settings unchanged. [Current footer configuration, tests and recovery](../audits/2026-10-20-footer-refresh.md).
 
 Implemented on **staging only, 2026-10-20 (E58)**. Production was not accessed or changed. These are global site-shell features; numeric IDs below are editing locators only. [Verification and limitations](../audits/2026-10-20-smart-navigation.md).

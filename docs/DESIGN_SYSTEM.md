@@ -589,3 +589,6 @@ Archive124: white Section Heading71 introduction, wrapping topic chips, automati
 
 ### Owner refinement,2026-10-30
 Article headings use gray Montserrat, body Inter. Article links blue, ordinary400 weight, no orange underline. Soft filled8px editorial panels remain welcome; avoid decorative colored side lines wrapping rounded panels and orange active menu stripes. Functional keyboard focus and button outlines remain. Header action fills are pale orange with navy text. See resources component record for exact owners and visual verification limits.
+
+
+2026-10-30 owner typography direction supersedes earlier uppercase-heading rules: native h1–h6 defaults use capitalize. Home4048506/core-b-title/ba-card__title follow the same setting; explicit all-capital source headings Core/Testimonials/Why normalized through native content controls. Existing Resources/Projects card titles retain normal-case source/local treatment. No wholesale source-content rewrite. Checked Home/Water/Resources/Projects desktop and Home390px; exhaustive source/local-override audit not claimed. Owner visual acceptance pending.

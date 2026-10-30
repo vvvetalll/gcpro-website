@@ -1,12 +1,9 @@
-/* E47: canonical mirror of existing Global Class audience-card Custom CSS.
- * Not enqueued. Replace .audience-card with & in Elementor's class editor.
- * Native classes retain geometry and 280ms border/background/transform transitions.
- * Identity nesting preserves media queries through the installed converter.
+/* Mirror of existing audience-card Global Class custom CSS; not enqueued.
+ * Native class owns geometry and transitions. Updated 2026-10-30.
  */
-.audience-card:is(*) {
-  & > .layout-reset { overflow: hidden; }
+.audience-card:is(*) { & > .layout-reset { overflow: hidden; }
   @media (hover: hover) and (pointer: fine), (hover: none) and (pointer: none) {
-    &:hover { border-color: color-mix(in srgb, var(--color-primary) 35%, var(--color-border)); }
+    &:hover { border-color: var(--color-accent); background-color: #FFF5EF; }
     &:hover .card-action { background-color: var(--color-accent); }
     &:hover .audience-card__image { transform: scale(1.025); }
   }
@@ -14,5 +11,4 @@
   @media (prefers-reduced-motion: reduce) {
     &, & .card-action, & .audience-card__image { transition: none; }
     & .audience-card__image, &:hover .audience-card__image { transform: none; }
-  }
-}
+  } } &:focus-visible { border-color: var(--color-accent); background-color: #FFF5EF; outline: 2px solid var(--color-accent); outline-offset: 3px; }

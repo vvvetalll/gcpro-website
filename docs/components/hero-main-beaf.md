@@ -85,3 +85,15 @@ Private recovery: homepage-prototype-20261030/home154-before-hero-swap.json and 
 
 
 2026-10-30 owner typography trial: Homepage H1 element4048506 now has native local text-transform:none, rendering the existing source text `Property restoration in Chicago` in sentence case. This is a reversible Homepage-Hero-only test, not a global heading rollout. Other heading styles and copy remain unchanged.
+
+## Latest owner refinements — 2026-10-30
+
+Supersedes the sentence-case trial above. Native defaults h1–h6 now use capitalize; Home4048506 also uses capitalize. Existing core-b-title and ba-card__title classes use the same treatment. Home source headings changed only where stored in capitals: Core Restoration Services, What Our Clients Say; shared Why1149/a65f1ad now reads Why Choose GCPRO. Acronym GCPRO retained. Existing Resources/Projects card titles retain their own normal-case source/local treatment; no database-wide title rewrite or exhaustive source-case audit claimed.
+
+The owner concurrently changed Home copy to `Fire, water and mold damage restoration in Chicago` and `From emergency cleanup to the final rebuild — one team across Chicago and the suburbs.` Fresh editor state retained these changes. Do not restore the older copy.
+
+Home3253a11 native padding112px top/bottom desktop,48px mobile; grid3a464ce gap56px desktop/24px mobile; left11fdef8 gap24px. BA723, caption, Google widget and actions retained. Following sections retained except separately requested audience refinement. No BEAF files, records or settings changed.
+
+Actual authenticated frontend: Home1287px desktop/390px mobile have no horizontal document overflow; mobile cards stack and48px Hero padding confirmed. Water, Resources and Projects desktop headings render in normal/title case with no horizontal overflow. Proportional checks, not full-site certification. Screenshot proof remains local outside Git in `.codex/outputs/gcpro-polish/`.
+
+**Universal rollout pending:** owner approved replacing existing Hero openings, BA on services/photos elsewhere; articles/cases retain white openings. Shared1318 remains image-only. Specific approval request pending to add Photo/Before–After controls to the existing GCPRO widget without a new plugin or BEAF changes. No page copies/unapproved PHP added. Home BA remains its prior approved instance; do not call rollout complete.

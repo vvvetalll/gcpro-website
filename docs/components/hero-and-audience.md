@@ -1,5 +1,15 @@
 # Hero and audience cards
 
+## Current compact audience choices — 2026-10-30
+
+Owner requested compact tiles without big photographs. Home7b416658: removed only media wrappers6e5afc98/4c8bb651; attachments629/630 retained. Section vertical padding48px. Bodies6b95719/687ff42f:24px padding,32px/minmax(0,1fr)/44px grid,16px gap. Copy column2; existing action column3/44px. Native decorative SVGs06c1863/260700c use existing house-building1425/office1399,32px, orange, column1. Whole-card native page484/499 links retained; no nested anchors.
+
+Existing audience-card/g-38b29fb owns orange border/pale-orange hover/focus surface and2px focus outline/3px offset. Preserved existing action/image/reduced-motion rules, replacing the former blue hover-border declaration. Source mirror integrations/audience-card-hover.css is not enqueued. No new class/plugin/JS. Previous photographic-card description below is historical.
+
+Actual frontend: zero photographic images,32px icons, approximately122px desktop card height. Mobile390px:350px wide/approximately169px high, one column, no horizontal overflow. Keyboard-visible orange outline/pale-orange surface checked. Pointer hover rule inspected in saved owner; actual pointer-hover state not captured reliably. Original assets and global sections retained.
+
+Rollback only the removed image children and local body/action/icon settings from private pre-change snapshot; restore prior audience-card hover declaration. Do not restore full Home over later owner edits. Hero owner/remaining shared rollout: hero-main-beaf.md latest checkpoint.
+
 **Current E71 (after E70 approval), 2026-10-20:** Main Homepage154 Hero a62cdd3 now uses the approved navy split layout and the FIRST existing BEAF723 comparison in visual484c13ec → Shortcode30e0c45, `[bafg id="723"]`. Native layout, copy, CTA overrides and 8px corners retained. One local wrapper Custom CSS rule hides only its fullscreen button; plugin image-link/zoom is already disabled. All three original comparisons and their fullscreen remain unchanged. E70 removed all old local panorama/technician backgrounds and retired unused, empty hero--panorama g-708f717 after a site-wide usage scan (111 classes/36 variables). Draft970 and Media973 retain the static design experiment. No new class, Variable, library Component, JS, plugin or dependency; no Header/Footer/Core/903/production edits. [Current exact owners, QA and rollback](hero-main-beaf.md).
 
 **Historical E69 (superseded by E70/E71),2026-10-20:** Separate **Draft Page970 — Hero Concept B — Restoration Transformation**, root78418107, duplicates the source12-node Atomic structure with fresh IDs and existing286/53/103 instances. New illustrative Media973:1440×1080 WebP/250,828bytes. Native navy split layout, copy/CTAs first on mobile/tablet,8px visual corners; Canvas/Hide Title isolates preview. No new classes/Variables/library Components/custom code/dependencies. Existing Homepage Hero remains active; only separately owner-requested project&nbsp;information wrapping changed in154/7de610a7. No Header/Footer/BEAF/production edits. [Preview, exact owners, QA and activation/discard](hero-concept-b.md).

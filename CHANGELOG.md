@@ -1,5 +1,9 @@
 # GCPRO changelog
 
+## Owner visual refinements checkpoint — 2026-10-30
+
+Staging Home compact audience tiles replace large photo wrappers with existing32px icons; whole-card destinations retained, orange focus/hover owner. Native Hero padding112px desktop/48px mobile, heading capitalization and shared Why source corrected. Header top CTA navy outline/floating orange verified. Existing903 now gates mobile bottom CTA at25% scroll range; saved script matches mirror. Home desktop/mobile no overflow, card focus/links and below/above-threshold states checked; Water/Resources/Projects desktop heading/overflow checks. No exhaustive anonymous/full-site QA, pointer-hover capture or renewed menu-suppression claim. Preserved owner-edited Home copy. Universal shared image/BA rollout awaits additional-code approval; not implemented. No production/noindex/BEAF changes. See latest component records and work-plan checkpoint.
+
 ## Focused external-audit checkpoint — 2026-10-30
 
 Owner requested finish/handoff before the full new audit was completed. Fixed Water Hero1453 local horizontal boundary using existing Shared1318 treatment; no global html/body clipping, photo/scale/decorative/design change. Actual Chrome1265/1440/390 scrollWidth equals clientWidth. Fixed only Service facet1 accessible name using native Facet Title; remaining Location/property labels pending. Five visible Water credential logos are healthy; hidden tooltip wording/interaction cleanup remains open. Added all external findings, separate from agent checks, to the existing work plan audit table. Resources menu, Schaumburg case, Lombard CTA/copy and decorative-metadata review still pending; no unrelated gate marked passed. Production/noindex/security unchanged. [Evidence](docs/evidence/2026-10-30-focused-prelaunch-audit.json) · [Active checklist](docs/seo/2026-10-29-resources-selection.md#external-browser-audit--focused-pre-launch-bug-pass2026-10-30).

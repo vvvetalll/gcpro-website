@@ -890,3 +890,6 @@ Owner-directed redesign published through existing Elementor MCP: Archive124 aut
 ### Homepage Hero owner checkpoint — 2026-10-30
 
 Staging Home154 now uses the owner-approved page-local blue two-column Hero with existing BA723; previous headline/introduction retained. Google widget, CTA destinations and emergency mark retained; caption12px muted/right aligned, BA12px corners. Following nine sections compare unchanged. Header primary menu now native18px. Draft3625 remains Hero-only, not a complete homepage. Universal shared image/BA selection requested next, not implemented. Exact scope and checks: docs/components/hero-main-beaf.md (latest checkpoint). Production/noindex unchanged; broader launch blockers remain open.
+
+
+2026-10-30 latest staging checkpoint: compact audience tiles/32px icons, Hero112px desktop48px mobile, native title-case direction, shared Why heading normalized, Header top outline/floating orange,903 mobile CTA25% threshold saved. Actual proportional frontend checks and remaining limits in latest hero-main-beaf/hero-and-audience/smart-navigation records. Preserved concurrent owner Home copy. Universal shared Photo/BA selector and rollout await explicit scoped-code approval; not complete. Wider launch blockers remain open. Production/noindex/BEAF settings unchanged.

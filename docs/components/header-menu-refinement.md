@@ -53,3 +53,5 @@ Header113 primary Nav7983af36 now uses native Main Menu Typography Size18px. Rem
 
 
 2026-10-30 subsequent owner refinement: native desktop primary Menu Typography Size reduced18px to17px. This supersedes the preceding18px setting; the removed15px override stays removed.
+
+2026-10-30 Request Service state refinement: existing gcpro-smart-header/g-8706951 desktop custom CSS scopes transparent background, primary navy text and1px primary border to `.header-row .button-secondary`, preserving prior class CSS. Button definition/destination unchanged. Code903 retains orange/white floating state. Actual Home top computed transparent/navy outline and floating state rgb(240,90,41)/white. No new stylesheet/controller. Rollback removes only this Header-scoped base rule.
