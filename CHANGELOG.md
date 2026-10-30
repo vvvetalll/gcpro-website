@@ -815,3 +815,6 @@ Latest owner correction,2026-10-30: dropdown action items now use a thin1px oran
 
 
 2026-10-30 editor preview correction: Single123 still selected restricted starter demo Post131, explaining the ROBYLO text/emergency block visible in owner editor screenshot. Native document preview_id now2046, preview_type single/post. Saved readback verified. No demo, published article, frontend conditions or body content changed. Reload Elementor to apply the preview context. This corrects preview selection; the native3159 header remains block-editor-owned rather than independently selectable Elementor widgets.
+
+
+2026-10-30 follow-up: Back to Resources70b69d45 native local margin-inline-start now matches the article reading-column site-container/gutter rule; trailing margin remains auto. Removed inherited600 weight in favor of400. Existing44px target,32/48px block margins, width and native Content2043 destination retained. Native element readback verified; actual browser visual alignment pending.
