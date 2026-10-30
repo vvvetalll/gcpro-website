@@ -1,5 +1,15 @@
 # GCPRO Resources — native Posts system
 
+## Archive Hero and metadata badges — 2026-10-30 follow-up
+
+Archive124 now begins with shared Archive Hero3421/instance4e42b37b, title **Restoration Resources**, concise introduction and inspected existing kitchen photograph3007 in the established blue masked design. Removed redundant6a876bcc heading block; native Menu43/6eb3c3c0 and automatic query/paginationa6bffe2 are byte-for-byte unchanged. Category pages use the same existing archive owner. Standard section96/56px spacing and photo sizing match the owner follow-up; no buttons/emergency/reviews or empty action wrappers in this Hero. [Component/Overrides/rollback](shared-hero.md#archive-hero3421--current-2026-10-30).
+
+Single articles remain white. Existing synced3159 now styles actual topic and dates as compact native pale-blue badges: color-surface-alternate, color-border1px,6px topic/8px date radius,6×10px topic and8×12px date padding. Actual category/date fields remain dynamic; no invented dates.13px metadata, natural flex wrapping. Native core block attributes/inline serialization own these controls; **no additional CSS/JS**, new plugin or per-article styling. H1/excerpt/photo/body/finalCTA unchanged by this refinement.
+
+Owner screenshot demonstrated category buttons painting over Header dropdown. Archive root29d73bf4 now uses native position:relative/z-index:0 to contain its descendants; removed unnecessary isolation declaration. No Header code/style/height change. Native readback verifies the stacking context, but controlled dropdown regression is still unverified due concurrent Chrome navigation/input guard. Do not claim this visual fix browser-accepted.
+
+Guest HTTP checks: archive/representative article200/oneH1/noindex; topic navigation retained; two actual date fields inside two tinted groups. Prior editorial selection remains14Published/16Draft; no Post, SEO or status changes. Actual Chrome Projects layout observed; current Resources desktop/mobile acceptance incomplete. [Evidence](../evidence/2026-10-30-archive-hero-checks.json).
+
 ## Current owners and unfinished acceptance — 2026-10-30
 
 The latest owner direction replaces the earlier split/pale-blue article masthead experiments below. Single Post123 and native synced pattern3159 now give a white editorial opening: breadcrumb, Resources/topic, original/modified dates, normal-case H1, concise excerpt, then one featured photograph. No emergency mark, review loader or sales action in the opening; final inset Component80 remains. Archive124/Card3133/Menu43 remain the existing automatic archive owners.

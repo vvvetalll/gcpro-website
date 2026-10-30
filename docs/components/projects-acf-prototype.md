@@ -1,5 +1,11 @@
 # ACF Free Projects prototype — 2026-10-26
 
+## Archive-only Hero cleanup — 2026-10-30
+
+Archive2232 now uses shared Archive Hero3421/instance2125ae05 in place of serviceHero1318/15cd927e. Existing title **GCPRO Restoration Projects**, factual introduction, existing verified living-area photograph3008. Removed redundant Catalogue Heading71/af429be immediately below the Hero. No Call/Request/emergency/rating elements or empty action wrappers in3421. Filters1835bd2, LoopGridc61e6a3, paginationfacetfc8108f compare byte-for-byte unchanged against the private before snapshot. Card2233/data/URLs/SEO/status and Single Project2231 white opening preserved. Existing native city/service/sector metadata completion remains pending from the previous task, not silently implemented here.
+
+Guest archive and representative case200/oneH1/noindex; Header Request Service retained. Actual authenticated Chrome screenshot confirms the new standard-height Projects Hero/photo/filter bar. This is a desktop visual observation, not a completed keyboard/filter/Load More/mobile regression. [Owners/Overrides](shared-hero.md#archive-hero3421--current-2026-10-30) · [Checks](../evidence/2026-10-30-archive-hero-checks.json).
+
 ## Latest native location selections — 2026-10-27
 
 Automatic-membership follow-up: newly Published2755 (Reconstruction19/Commercial24/Schaumburg35) appears beside2666 in existing558 city query without editing the query. Single2231 reused; case gallery has six ordered images and native lightbox Right/Escape verified. [Publication checkpoint](../projects/dash-case-workflow.md#second-schaumburg-case--2026-10-27).
