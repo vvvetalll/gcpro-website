@@ -1,5 +1,9 @@
 # GCPRO project context
 
+## Focused external-audit checkpoint — 2026-10-30
+
+Owner requested finish/handoff before the full new audit was completed. Fixed Water Hero1453 local horizontal boundary using existing Shared1318 treatment; no global html/body clipping, photo/scale/decorative/design change. Actual Chrome1265/1440/390 scrollWidth equals clientWidth. Fixed only Service facet1 accessible name using native Facet Title; remaining Location/property labels pending. Five visible Water credential logos are healthy; hidden tooltip wording/interaction cleanup remains open. Added all external findings, separate from agent checks, to the existing work plan audit table. Resources menu, Schaumburg case, Lombard CTA/copy and decorative-metadata review still pending; no unrelated gate marked passed. Production/noindex/security unchanged. [Evidence](docs/evidence/2026-10-30-focused-prelaunch-audit.json) · [Active checklist](docs/seo/2026-10-29-resources-selection.md#external-browser-audit--focused-pre-launch-bug-pass2026-10-30).
+
 ## Projects pagination completed on staging — 2026-10-30
 
 Supersedes the earlier same-day pagination blocker below. Archive2232/Loopc61e6a3 now uses native **Current Query**, Query ID blank, native pagination None; WP Grid Builder facet5 remains the Load More owner. Owner approved the scoped existing-integration addition: plugin0.4.5 sets only the Projects main archive to9 with date DESC/ID DESC; a native WPGB query-string filter seeds its existing Load More cursor when directly opening a numbered archive. No new plugin/template/CSS/JS, global Reading change or third-party edit. Saved plugin readback matches Git source after newline normalization.

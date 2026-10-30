@@ -291,3 +291,7 @@ Use UTF-8 CSV with the existing stable header order. One row per exact original 
 - [ ] Finish sibling-media metadata and final Projects post-route runtime, pagination/negative/query, anonymous/mobile acceptance; reconcile existing production redirect configuration and repeat actual HTTP checks at launch.
 
 2026-10-30 runtime follow-up: Projects9→18→27→36→45→52, combined filters/Enter reset, native reset focus and mobile390px whole-card focus passed. Glenview4 automatic cards point directly to projects. Remaining five Carol Stream media descriptions corrected/saved/reloaded. Exact legacy page2 AIOSEO rule added (54 total/export updated); browser destination confirmed but actual301 unverified. Direct page2 repeats initial9; this and anonymous/production-rule acceptance remain launch blockers. Evidence: docs/evidence/2026-10-30-projects-runtime-followup.json.
+
+## Latest browser-audit launch gate — 2026-10-30
+
+External findings and actual agent status are tracked in the existing [audit table](seo/2026-10-29-resources-selection.md#external-browser-audit--focused-pre-launch-bug-pass2026-10-30). Water Hero1265 overflow fixed and checked1265/1440/390; Service facet native accessible title fixed. Other audit rows, forms/analytics acceptance, production historical redirects/feed disposition and launch-domain HTTP repeats remain open. No inference from pagination/visual checks closes those gates. Production/noindex/security unchanged.

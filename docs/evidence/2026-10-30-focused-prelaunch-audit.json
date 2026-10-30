@@ -1,0 +1,91 @@
+{
+  "water1265": {
+    "before": {
+      "client": 1250,
+      "scroll": 1332,
+      "scale": 1.25
+    },
+    "after": {
+      "width": 1265,
+      "client": 1250,
+      "scroll": 1250,
+      "heroOverflowX": "clip",
+      "htmlOverflowX": "visible",
+      "bodyOverflowX": "visible"
+    }
+  },
+  "water1440": {
+    "client": 1425,
+    "scroll": 1425,
+    "width": 1440
+  },
+  "water390": {
+    "client": 375,
+    "h1": "Water Damage Restoration in Chicago & Chicagoland",
+    "photo": [
+      {
+        "h": 251,
+        "w": 334.66668701171875
+      },
+      {
+        "h": 251,
+        "w": 334.66668701171875
+      }
+    ],
+    "scroll": 375,
+    "width": 390
+  },
+  "scope": "External audit added to existing pre-launch checklist; focused checkpoint at owner request to finish.",
+  "saved_changes": [
+    {
+      "owner": "Water Hero1453/root5de65e14",
+      "change": "Existing local style overflow-x:clip;overflow-y:visible, matching Shared1318 boundary. Scale/photo/decorations unchanged. No html/body rule.",
+      "verification": "Native Publish disabled after save; Chrome1265/1440/390 scrollWidth equals clientWidth. Screenshot saved outside Git."
+    },
+    {
+      "owner": "WPGB facet1",
+      "change": "Native Advanced Facet Title from empty to Filter projects by service. Slug/data/query/visible placeholder unchanged.",
+      "verification": "Saved; actual Projects combobox accessible name Filter projects by service, label wraps native select."
+    }
+  ],
+  "reported_logos": {
+    "checked": "Current Water frontend",
+    "visible_logo_sizes": [
+      [
+        72,
+        100
+      ],
+      [
+        74,
+        100
+      ],
+      [
+        60,
+        100
+      ],
+      [
+        120,
+        55
+      ],
+      [
+        121.07,
+        94
+      ]
+    ],
+    "finding": "Five visible marks healthy. Three measured0x0 paragraphs are intentionally hidden tooltip contents. Broader hidden-copy and tooltip interaction review still pending."
+  },
+  "not_completed": [
+    "Home/Commercial1265 immediate consumer checks: Chrome read failed before dispatch; not certified.",
+    "Location/property-type facet names remain Select content; facet2 opened, not edited.",
+    "Credentials wording/tooltips, Resources menu active/duplicate review, Schaumburg case layout/cover, Lombard CTA/copy and decorative metadata remain open.",
+    "Forms delivery/analytics acceptance and production redirects/feed launch gates remain open."
+  ],
+  "access_limits": [
+    "Direct authenticated MCP initialize202 SiteGround challenge; no bypass/security change.",
+    "Direct component1453 editor preview cross-origin error; existing page514 native Edit Component / active-document=1453 worked.",
+    "Initial generated-instance style attempt did not persist; actual fix applied only to component owner.",
+    "Chrome dependency measurement later failed before command dispatch; no consumer pass inferred."
+  ],
+  "production": "unchanged",
+  "staging_noindex": "retained; no indexing setting changed"
+}
