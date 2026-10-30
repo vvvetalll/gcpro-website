@@ -586,3 +586,6 @@ Resources editorial masthead: native synced pattern3159 owns title/excerpt/topic
 ### Resources editorial layout — 2026-10-29
 
 Archive124: white Section Heading71 introduction, wrapping topic chips, automatic lead story followed by3/2/1 article grid. Card3133:16:9 media and24px/21px Inter600 title. Single123: inset pale-blue split native core masthead,760px centered reading body, mobile stack. All existing brand tokens preserved; service Hero/type scale untouched. [Owners, checks and limits](components/resources.md#2026-10-29--owner-directed-resources-visual-redesign). No new global class/variable/component.
+
+### Owner refinement,2026-10-30
+Article headings use gray Montserrat, body Inter. Article links blue, ordinary400 weight, no orange underline. Soft filled8px editorial panels remain welcome; avoid decorative colored side lines wrapping rounded panels and orange active menu stripes. Functional keyboard focus and button outlines remain. Header action fills are pale orange with navy text. See resources component record for exact owners and visual verification limits.
