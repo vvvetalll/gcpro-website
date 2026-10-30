@@ -266,3 +266,5 @@ Owner requested saving the BELFOR History & Timeline screenshot as inspiration f
 - Prefer a simple native editable layout; a short timeline needs no carousel. On mobile use a readable vertical sequence. Any controls must support keyboard focus and reduced motion.
 - Consider placement in About alongside the company story, coordinated with the existing Awards & Recognition idea. No new page, plugin, code or website changes are approved by this entry.
 
+
+2026-10-30 runtime follow-up: Projects9→18→27→36→45→52, combined filters/Enter reset, native reset focus and mobile390px whole-card focus passed. Glenview4 automatic cards point directly to projects. Remaining five Carol Stream media descriptions corrected/saved/reloaded. Exact legacy page2 AIOSEO rule added (54 total/export updated); browser destination confirmed but actual301 unverified. Direct page2 repeats initial9; this and anonymous/production-rule acceptance remain launch blockers. Evidence: docs/evidence/2026-10-30-projects-runtime-followup.json.

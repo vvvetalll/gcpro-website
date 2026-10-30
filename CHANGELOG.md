@@ -1,5 +1,8 @@
 # GCPRO changelog
 
+
+2026-10-30 runtime follow-up: Projects9→18→27→36→45→52, combined filters/Enter reset, native reset focus and mobile390px whole-card focus passed. Glenview4 automatic cards point directly to projects. Remaining five Carol Stream media descriptions corrected/saved/reloaded. Exact legacy page2 AIOSEO rule added (54 total/export updated); browser destination confirmed but actual301 unverified. Direct page2 repeats initial9; this and anonymous/production-rule acceptance remain launch blockers. Evidence: docs/evidence/2026-10-30-projects-runtime-followup.json.
+
 **2026-10-30 editorial and tooltip checkpoint:** Reviewed all14 Published Resources articles; six focused body revisions saved/reloaded, five service FAQ instances now link relevant guides. All14 rendered bodies and32 unique internal destinations checked for intended content/canonical; this is not a complete renewed HTTP certification. Restored five approved affiliation tooltips without Footer logos, verified desktop/mobile-emulated and keyboard/Escape; central script unchanged. Partner submenu hover underline removed, focus retained.43-case source cleanup and66-route text audit completed previously. Route-wide post-change runtime/anonymous/mobile QA, remaining sibling-media descriptions and private production redirect reconciliation remain open. [Inventory and evidence](docs/seo/2026-10-29-resources-selection.md#editorial-implementation-and-recovery-checkpoint--2026-10-30).
 
 

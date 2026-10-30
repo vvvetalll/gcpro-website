@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-30",
+  "environment": "staging authenticated actual browser",
+  "runtime": {
+    "batches": [
+      9,
+      18,
+      27,
+      36,
+      45,
+      52
+    ],
+    "cards": {
+      "count": 52,
+      "missingBadge": 0,
+      "nested": 0,
+      "oldLinks": 0,
+      "unique": 52
+    },
+    "combined": {
+      "service": "water",
+      "location": "glenview",
+      "property": "residential",
+      "cards": 1
+    },
+    "resetCount": 9,
+    "resetFocus": {
+      "active": "Clear filters",
+      "background": "rgb(26, 50, 125)",
+      "color": "rgb(255, 255, 255)",
+      "outline": "rgb(16, 16, 16) auto 0.888889px"
+    }
+  },
+  "edges": [
+    {
+      "source": "https://vitaliiv1.sg-host.com/portfolio/this-project-does-not-exist-route-check/",
+      "finalUrl": "https://vitaliiv1.sg-host.com/portfolio/this-project-does-not-exist-route-check/",
+      "responses": [
+        {
+          "status": 404,
+          "url": "https://vitaliiv1.sg-host.com/portfolio/this-project-does-not-exist-route-check/"
+        }
+      ],
+      "redirects": []
+    },
+    {
+      "source": "https://vitaliiv1.sg-host.com/portfolio/?_gcpro_projects_service=water",
+      "finalUrl": "https://vitaliiv1.sg-host.com/projects/?_gcpro_projects_service=water",
+      "responses": [],
+      "redirects": []
+    },
+    {
+      "source": "https://vitaliiv1.sg-host.com/portfolio/oak-brook-mold-affected-basement-walls-opened-dried/?route_check=20261030",
+      "finalUrl": "https://vitaliiv1.sg-host.com/projects/oak-brook-mold-affected-basement-walls-opened-dried/?route_check=20261030",
+      "responses": [],
+      "redirects": []
+    }
+  ],
+  "media": [
+    {
+      "id": 2950,
+      "before": "Expanded warehouse concrete pad in a documented Elmhurst overflow-restoration project.",
+      "after": "Expanded warehouse concrete pad in a documented Carol Stream commercial tenant-improvement project.",
+      "verified": true
+    },
+    {
+      "id": 2953,
+      "before": "Wood-look restroom tile in a documented Elmhurst overflow-restoration project.",
+      "after": "Wood-look restroom tile in a documented Carol Stream commercial tenant-improvement project.",
+      "verified": true
+    },
+    {
+      "id": 2954,
+      "before": "Restroom floor tile detail in a documented Elmhurst overflow-restoration project.",
+      "after": "Restroom floor tile detail in a documented Carol Stream commercial tenant-improvement project.",
+      "verified": true
+    },
+    {
+      "id": 2955,
+      "before": "Office carpet flooring in a documented Elmhurst overflow-restoration project.",
+      "after": "Office carpet flooring in a documented Carol Stream commercial tenant-improvement project.",
+      "verified": true
+    },
+    {
+      "id": 2957,
+      "before": "Concrete pad and paved approach in a documented Elmhurst overflow-restoration project.",
+      "after": "Concrete pad and paved approach in a documented Carol Stream commercial tenant-improvement project.",
+      "verified": true
+    }
+  ],
+  "pagination": {
+    "oldPage2BeforeRule": 404,
+    "ruleSaved": {
+      "source": "/portfolio/page/2/",
+      "target": "/projects/page/2/",
+      "type": 301,
+      "query": "pass"
+    },
+    "browserDestinationConfirmed": true,
+    "httpStatusAfterRule": "unverified; browser events absent; external HTTP202 SG-Captcha challenge",
+    "newPage2": "canonical page/2 renders but repeats first nine; unresolved; native WPGB Load More is pagination owner"
+  },
+  "mobile": {
+    "width": 390,
+    "columns": 1,
+    "overflow": false,
+    "titlePx": 18,
+    "locationPx": 14,
+    "wholeCardFocus": "navy outline; screenshot reviewed"
+  },
+  "citySelection": {
+    "url": "https://vitaliiv1.sg-host.com/service-area/glenview/",
+    "cards": 4,
+    "oldPortfolioLinks": 0,
+    "noindex": true
+  },
+  "limitations": [
+    "Production untouched; existing private production redirects unverified.",
+    "Anonymous acceptance blocked by observed SiteGround challenge; no bypass attempted.",
+    "Direct page/2 pagination repeats first nine; Load More passed all batches.",
+    "Physical devices not tested."
+  ]
+}

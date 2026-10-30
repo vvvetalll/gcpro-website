@@ -846,5 +846,21 @@
     "comment": "Approved route migration 2026-10-30; existing project ID 2077.",
     "created": "2026-10-30 18:22:29",
     "updated": "2026-10-30 18:22:29"
+  },
+  {
+    "id": "54",
+    "source_url": "/portfolio/page/2/",
+    "target_url": "/projects/page/2/",
+    "type": "301",
+    "query_param": "pass",
+    "custom_rules": null,
+    "group": "manual",
+    "regex": "0",
+    "ignore_slash": "1",
+    "ignore_case": "1",
+    "enabled": "1",
+    "comment": "Preserve verified legacy archive page 2 during Projects route migration; native ",
+    "created": "2026-10-30 19:36:32",
+    "updated": "2026-10-30 19:36:32"
   }
 ]
