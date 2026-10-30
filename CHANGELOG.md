@@ -812,3 +812,6 @@ Latest owner correction,2026-10-30: dropdown action items now use a thin1px oran
 
 
 2026-10-30 corrective fix: owner reported broken article layout. Saved readback demonstrated malformed nested selector wrappers/unbalanced braces introduced by reusing the connector style projection. Repaired the sole existing123/3307e90b CSS owner using complete generated widget-scoped selectors; native saved readback now39 balanced rule pairs. Left reading-column alignment retained. Future edits must read raw existing custom_css rather than reconstructing it from the tool style projection. No body, media, URL or SEO writes. Guest cache-busted article request returned403; final generated CSS delivery and browser visual acceptance are unverified.
+
+
+2026-10-30 editor preview correction: Single123 still selected restricted starter demo Post131, explaining the ROBYLO text/emergency block visible in owner editor screenshot. Native document preview_id now2046, preview_type single/post. Saved readback verified. No demo, published article, frontend conditions or body content changed. Reload Elementor to apply the preview context. This corrects preview selection; the native3159 header remains block-editor-owned rather than independently selectable Elementor widgets.
