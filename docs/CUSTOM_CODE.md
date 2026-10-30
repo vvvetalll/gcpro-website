@@ -206,3 +206,8 @@ Archive124 Nav Menu6eb3c3c0 owns existing V3 scoped topic-chip CSS. Archive124 l
 Connector correction: V3 fallback emitted bare ampersand descendant rules at top level, affecting unrelated elements. Replaced all V3 descendant prefixes with explicit Elementor selector keyword, removed loose declarations before the first rule, published123/124 and checked actual CSSOM: no unscoped ampersand rules remain. V4 local nesting is correctly scoped. A unitless V3 line-height had converted1.75 to1.75px; removed V3 base typography so Post Content now inherits native18px/1.75. Do not reintroduce either pattern. No page-ID selectors. First-item layout relies on direct role=listitem/anchor/image/content children; revisit its scoped rule if Card3133 structure changes.
 
 Rollback: restore scoped local styles, card class assignments and query limit from private audit-temp/blog-redesign snapshots through Elementor and publish; preserve content, IDs, dates/pattern3159, Header/Footer/Projects/BEAF. This is an editing record, not a second deployed CSS source.
+
+
+### Final owner correction — 2026-10-29
+
+Owner requested removing the oversized first feature and keeping the rest. Archive124 now uses an ordinary uniform3/2/1 card grid, six articles per page. Removed all first-item spanning and split-layout rules from380a3746; the first article remains a normal card, no post was deleted. Existing introduction/topic navigation, card design and Single123 remain unchanged. Browser1280px confirmed six cards, three equal378.7px columns, first grid-column auto and no horizontal overflow. Earlier lead-story/seven-per-page statements describe the superseded checkpoint. No new photo or hero was inserted; no new CSS owner or dependency. Native responsive rules retained.
