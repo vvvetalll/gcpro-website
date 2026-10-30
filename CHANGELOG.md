@@ -852,3 +852,6 @@ Latest owner correction,2026-10-30: dropdown action items now use a thin1px oran
 ## Homepage Hero review checkpoint — 2026-10-30
 
 Owner explicitly authorized the blue Before/After Hero from Draft3625 on staging Homepage154, with old headline/introduction. Existing BEAF723 reused on the right, native CTAs retained, Google badge restored/left aligned and emergency mark first. Rounded comparison12px; short muted12px caption right aligned with direct Tinley case link. All nine subsequent Homepage native subtrees compare unchanged. Actual desktop render/divider drag/no-overflow and native-editor mobile345px no-overflow checked; noindex retained. Primary Header menu18px native setting now works after removing the old15px override. Production unchanged. Draft3625 remains Hero-only; full prototype and universal image/BA selector remain open. See docs/components/hero-main-beaf.md.
+
+
+2026-10-30 typography trial: Homepage Hero H1 uses native local text-transform:none (sentence case); staging Header primary menu reduced18px to17px through native typography. Existing wording, layout, BEAF and other heading styles retained.

@@ -50,3 +50,6 @@ Latest owner correction,2026-10-30: dropdown action items now use a thin1px oran
 ## Owner font correction — 2026-10-30
 
 Header113 primary Nav7983af36 now uses native Main Menu Typography Size18px. Removed only its old local `font-size:15px !important` declaration, which overrode the native control; recovery CSS reference updated accordingly. Actual saved Homepage frontend computed18px for all five visible desktop primary items. Utility and submenu sizes and menu records unchanged. This supersedes15px above. No new stylesheet or plugin.
+
+
+2026-10-30 subsequent owner refinement: native desktop primary Menu Typography Size reduced18px to17px. This supersedes the preceding18px setting; the removed15px override stays removed.

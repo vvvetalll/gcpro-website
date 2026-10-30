@@ -82,3 +82,6 @@ Draft3625 remains Draft at https://vitaliiv1.sg-host.com/?page_id=3625&preview=t
 Next owner request: prepare one universal Hero with per-page image OR existing Before/After selection. Current1318 Photo override remains image-only. Do not describe the universal selector as implemented or roll out page copies. Existing Components documentation describes exposed field overrides: https://elementor.com/help/components-2/ . Native generic slot support has not been established.
 
 Private recovery: homepage-prototype-20261030/home154-before-hero-swap.json and home154-after-hero-swap.json under local private backups. To roll back, restore only the former first Hero instance6380d020, preserving later changes and all following sections.
+
+
+2026-10-30 owner typography trial: Homepage H1 element4048506 now has native local text-transform:none, rendering the existing source text `Property restoration in Chicago` in sentence case. This is a reversible Homepage-Hero-only test, not a global heading rollout. Other heading styles and copy remain unchanged.
