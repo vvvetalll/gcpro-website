@@ -223,3 +223,16 @@ Owner requested the same logos on Homepage154. Existing Why Component1149 instan
 
 
 2026-10-22 — Homepage Commercial audience card link fixed: Page154 anchor2066a26 now uses native Elementor Dynamic Tags → Internal URL → Post → Page499 instead of #. Existing Residential4c8810dc → Page484 already uses the same native object binding and remains unchanged. Entire Commercial card links to published /commercial-services/; real browser click reached its expected Commercial H1. Only the destination setting changed; no menu,layout,SEO,classes,Variables,Components,code,assets or dependencies changed. No responsive geometry changed. Rollback:restore only2066a26 destination from private task backup; prior# was an unresolved placeholder,not a working link.
+
+## Launch gate — archive cleanup and Resources editorial/link review, 2026-10-30
+
+- [x] Project Card2233 city reduced to14px; display title18px; actual desktop computed values checked. Native action wrapper uses top auto margin to align View project across unequal title lengths; desktop row measured equal action positions.
+- [x] Archive2232 native desktop columns3, items per page9; WPGB facet5 append9 saved through native editor.
+- [ ] Complete live Load More/filter/reset and mobile checks; settings save alone is insufficient.
+- [ ] Finish all14 article/52 project cover review; resolve duplicate article covers and verify stronger cover for case2948 without geographic mislabeling.
+- [ ] Resolve43 generated fallback-body placeholders at their source without corrupting valid Elementor/WordPress blocks or26 BEAF integrations; finish all66 actual frontend checks.
+- [ ] After cleanup, implement individual editorial/internal-link review for all14 Published articles and useful guide selections on relevant service pages. Compact per-article inventory and exact scope are in [existing Resources work plan](seo/2026-10-29-resources-selection.md#active-archive-cleanup-and-next-editorial-pass--2026-10-30). Preserve URL/date; evidence-based merge/exclusion proposals only, no production treatment.
+- [ ] Verify native links, published destinations, no admin/preview URLs and truthful geography; retain noindex.
+- [ ] Commit/push completed implementation and documentation; verify remote SHA. Current overall cleanup/editorial task is incomplete.
+
+2026-10-30 verification update:9→18→27→36→45→52 actual Load More passed; Water+Glenview+Residential and Enter reset passed. Existing WPGB Style3 focus readability corrected using native background/text settings and verified enabled white-on-blue. All66 actual rendered text/H1/noindex checks passed; stored fallback43-case source issue is still open. All52 project covers visually inspected. Code0.4.4 deployment matches repository. Next editorial14-row inventory is planned, not yet implemented.

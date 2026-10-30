@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "environment": "staging",
   "status": "Facets 1-5 connected to Archive2232 / Loop c61e6a3; result counter6 prepared but not connected",
   "versions": {
@@ -139,7 +139,7 @@
         "title": "",
         "action": "load",
         "load_type": "load_more",
-        "load_posts_number": 6,
+        "load_posts_number": 9,
         "load_more_event": "onclick",
         "load_more_text": "Load more projects",
         "loading_text": "Loading projects...",
@@ -359,11 +359,11 @@
                 "color": "var(--color-accent)"
               }
             },
-            "button_background": "transparent",
-            "button_color": "var(--color-accent)",
-            "button_background_hover": "var(--color-accent)",
+            "button_background": "var(--color-primary)",
+            "button_color": "var(--color-white)",
+            "button_background_hover": "var(--color-primary)",
             "button_color_hover": "#ffffff",
-            "button_border_hover": "var(--color-accent)",
+            "button_border_hover": "var(--color-primary)",
             "button_margin": {
               "top": "0px",
               "right": "0px",

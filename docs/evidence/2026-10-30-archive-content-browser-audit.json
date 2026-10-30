@@ -1,0 +1,478 @@
+{
+  "date": "2026-10-30",
+  "environment": "staging",
+  "method": "Actual authenticated browser navigation and rendered DOM text",
+  "scope": {
+    "articles": 14,
+    "projects": 52
+  },
+  "limits": [
+    "Text audit does not establish factual/link/mobile acceptance.",
+    "Anonymous command-line403/202 challenge responses were not counted as frontend checks.",
+    "43 stored fallback bodies differ from clean authoritative Elementor values; source issue remains unresolved."
+  ],
+  "checks": [
+    {
+      "id": 2045,
+      "url": "https://vitaliiv1.sg-host.com/signs-of-hidden-water-damage-in-your-home/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2046,
+      "url": "https://vitaliiv1.sg-host.com/what-to-do-if-you-notice-water-damage-in-your-home/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2047,
+      "url": "https://vitaliiv1.sg-host.com/how-board-up-services-save-chicago-businesses-after-a-disaster/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2050,
+      "url": "https://vitaliiv1.sg-host.com/black-mold-vs-regular-mold-understanding-the-difference/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2056,
+      "url": "https://vitaliiv1.sg-host.com/water-damage-restoration-in-winnetka-expert-insights-from-gcpro/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2057,
+      "url": "https://vitaliiv1.sg-host.com/mold-remediation-in-glenview-a-comprehensive-guide/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2062,
+      "url": "https://vitaliiv1.sg-host.com/choosing-the-right-water-damage-restoration-service-a-buyers-guide/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2064,
+      "url": "https://vitaliiv1.sg-host.com/understanding-and-addressing-ceiling-water-damage-a-comprehensive-guide/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2066,
+      "url": "https://vitaliiv1.sg-host.com/the-complete-guide-to-sewage-cleanup-safety-steps-and-services/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2067,
+      "url": "https://vitaliiv1.sg-host.com/comprehensive-smoke-cleanup-strategies-for-effective-restoration/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2068,
+      "url": "https://vitaliiv1.sg-host.com/flooded-basement-a-step-by-step-guide-to-water-damage-control/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2069,
+      "url": "https://vitaliiv1.sg-host.com/water-damage-floor-repair-a-homeowners-guide-to-restoration/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2070,
+      "url": "https://vitaliiv1.sg-host.com/comprehensive-rebuild-full-service-reconstruction-explained/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2072,
+      "url": "https://vitaliiv1.sg-host.com/breathe-easy-preventing-mold-in-your-home/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 3012,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/oak-brook-mold-affected-basement-walls-opened-dried/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 3003,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/oak-brook-kitchen-living-spaces-home-remodel/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2994,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/downers-grove-roof-attic-interior-repairs-animal-damage/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2985,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/downers-grove-bathroom-tile-carpet-interior-water-repairs/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2976,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/carol-stream-flooring-interior-doors-finished-drain-backup/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2967,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/schaumburg-entry-main-floor-basement-rebuilt-frozen-pipes/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2958,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/glenview-hardwood-basement-restored-ice-damming/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2948,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/carol-stream-commercial-restrooms-warehouse-access-improvements/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2939,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/elmhurst-bathroom-basement-stairwell-restored-overflow/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2930,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/lombard-home-shed-siding-replaced-storm-damage/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2921,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/schaumburg-kitchen-interior-repairs-laundry-pipe-leak/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2912,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/glenview-leaking-parapet-membrane-flashing-replaced/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2903,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/northbrook-paver-patio-drainage-repairs/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2894,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/lombard-attic-roof-framing-cleaned-treated/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2883,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/elmhurst-office-flooring-interior-repairs/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2874,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/glenview-basement-build-out-fireplace-bar-tiled-shower/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2865,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/elmhurst-kitchen-ceiling-hardwood-restored-condensate-leak/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2856,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/lombard-main-floor-basement-restored-sewer-backup/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2847,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/carol-stream-attic-mold-removal-rafters-sheathing/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2837,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/downers-grove-hail-damaged-shingle-roof-replaced/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2828,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/northbrook-kitchen-hallway-floors-repaired-water-damage/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2818,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/northbrook-basement-gym-theater-rebuilt-sump-backup/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2800,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/highland-park-shingle-roof-replaced-hail-damage/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2782,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/highland-park-bathroom-laundry-water-damage-repairs/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2765,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/highland-park-roof-interior-rebuilt-fallen-tree/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2755,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/schaumburg-garage-support-repairs-vehicle-impact/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2572,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/carol-stream-water-damage-flooring-repairs/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2718,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/downers-grove-smoke-cleanup-interior-repairs/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2701,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/oak-brook-bathroom-interior-repairs-shower-leak/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2690,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/mold-cleanup-above-an-open-bathroom-ceiling-highland-park-il/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2679,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/elmhurst-hardwood-restoration-upstairs-shower-leak/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2666,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/schaumburg-interior-repairs-shattered-aquarium/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2640,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/northbrook-hardwood-floors-interior-finishes-restored/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2632,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/glenview-concrete-stairways-metal-railings-rebuilt/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2624,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/lombard-fire-damaged-interiors-kitchen-rebuilt/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2612,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/naperville-floors-ceilings-water-damage-repairs/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2604,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/naperville-laundry-leak-water-mold-cleanup/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2596,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/naperville-home-reconstruction-vehicle-impact/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2580,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/naperville-attic-mold-cleanup-insulation/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2087,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/helen-berkun-the-entire-facade-of-the-house/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2086,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/green-oaks-apartments-in-palos-hills/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2085,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/helen-berkun-bathroom-reveal/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2084,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/transforming-spaces-into-modern-and-elegant-interiors-in-st-charles/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2083,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/reconstruction-after-water-damage-on-montana-street-chicago/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2082,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/fire-damage-restoration-on-w-school-street-in-chicago/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2081,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/transforming-spaces-glenview-home-reconstruction/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2080,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/frozen-facade-complete-exterior-and-window-renovation-in-chicago/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2076,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/water-damage-restoration-in-western-spring/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2075,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/home-remodeling-oakbrook/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2079,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/reconstruction-in-boys-and-girls-clubs-of-chicago/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2078,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/restoring-elegance-water-damage-reconstruction-of-a-wonder-lake-residence/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    },
+    {
+      "id": 2077,
+      "url": "https://vitaliiv1.sg-host.com/portfolio/from-ashes-to-excellence-tinley-park-home-restoration/",
+      "h1_count": 1,
+      "noindex": true,
+      "reported_markers_visible": false
+    }
+  ]
+}

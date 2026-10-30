@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-30",
+  "environment": "staging",
+  "method": "Existing AIOSEO native project_service primary_term; no taxonomy assignments removed",
+  "policy": "Choose the documented incident/specialist scope where applicable, retaining Reconstruction for the later repair stage;2994 is primarily animal-damage roof/attic/interior repair. No taxonomy array ordering. Sole assigned services require no explicit choice.",
+  "selections": [
+    {
+      "id": 2994,
+      "primary": 19,
+      "preserved": true,
+      "reason": "Ancillary water damage; documented roof/attic and interior repair scope"
+    },
+    {
+      "id": 2985,
+      "primary": 18,
+      "preserved": true,
+      "reason": "Specialist project type verified in existing case title, narrative and assigned taxonomy; secondary reconstruction assignments retained"
+    },
+    {
+      "id": 2976,
+      "primary": 18,
+      "preserved": true,
+      "reason": "Specialist project type verified in existing case title, narrative and assigned taxonomy; secondary reconstruction assignments retained"
+    },
+    {
+      "id": 2967,
+      "primary": 18,
+      "preserved": true,
+      "reason": "Specialist project type verified in existing case title, narrative and assigned taxonomy; secondary reconstruction assignments retained"
+    },
+    {
+      "id": 2958,
+      "primary": 18,
+      "preserved": true,
+      "reason": "Specialist project type verified in existing case title, narrative and assigned taxonomy; secondary reconstruction assignments retained"
+    },
+    {
+      "id": 2939,
+      "primary": 18,
+      "preserved": true,
+      "reason": "Specialist project type verified in existing case title, narrative and assigned taxonomy; secondary reconstruction assignments retained"
+    },
+    {
+      "id": 2930,
+      "primary": 21,
+      "preserved": true,
+      "reason": "Specialist project type verified in existing case title, narrative and assigned taxonomy; secondary reconstruction assignments retained"
+    },
+    {
+      "id": 2921,
+      "primary": 18,
+      "preserved": true,
+      "reason": "Specialist project type verified in existing case title, narrative and assigned taxonomy; secondary reconstruction assignments retained"
+    },
+    {
+      "id": 2865,
+      "primary": 18,
+      "preserved": true,
+      "reason": "Specialist project type verified in existing case title, narrative and assigned taxonomy; secondary reconstruction assignments retained"
+    },
+    {
+      "id": 2856,
+      "primary": 18,
+      "preserved": true,
+      "reason": "Specialist project type verified in existing case title, narrative and assigned taxonomy; secondary reconstruction assignments retained"
+    },
+    {
+      "id": 2837,
+      "primary": 21,
+      "preserved": true,
+      "reason": "Specialist project type verified in existing case title, narrative and assigned taxonomy; secondary reconstruction assignments retained"
+    },
+    {
+      "id": 2828,
+      "primary": 18,
+      "preserved": true,
+      "reason": "Specialist project type verified in existing case title, narrative and assigned taxonomy; secondary reconstruction assignments retained"
+    },
+    {
+      "id": 2818,
+      "primary": 18,
+      "preserved": true,
+      "reason": "Specialist project type verified in existing case title, narrative and assigned taxonomy; secondary reconstruction assignments retained"
+    },
+    {
+      "id": 2800,
+      "primary": 21,
+      "preserved": true,
+      "reason": "Specialist project type verified in existing case title, narrative and assigned taxonomy; secondary reconstruction assignments retained"
+    },
+    {
+      "id": 2782,
+      "primary": 18,
+      "preserved": true,
+      "reason": "Specialist project type verified in existing case title, narrative and assigned taxonomy; secondary reconstruction assignments retained"
+    },
+    {
+      "id": 2572,
+      "primary": 18,
+      "preserved": true,
+      "reason": "Specialist project type verified in existing case title, narrative and assigned taxonomy; secondary reconstruction assignments retained"
+    },
+    {
+      "id": 2718,
+      "primary": 17,
+      "preserved": true,
+      "reason": "Specialist project type verified in existing case title, narrative and assigned taxonomy; secondary reconstruction assignments retained"
+    },
+    {
+      "id": 2701,
+      "primary": 18,
+      "preserved": true,
+      "reason": "Specialist project type verified in existing case title, narrative and assigned taxonomy; secondary reconstruction assignments retained"
+    },
+    {
+      "id": 2679,
+      "primary": 18,
+      "preserved": true,
+      "reason": "Specialist project type verified in existing case title, narrative and assigned taxonomy; secondary reconstruction assignments retained"
+    },
+    {
+      "id": 2666,
+      "primary": 18,
+      "preserved": true,
+      "reason": "Specialist project type verified in existing case title, narrative and assigned taxonomy; secondary reconstruction assignments retained"
+    },
+    {
+      "id": 2640,
+      "primary": 18,
+      "preserved": true,
+      "reason": "Specialist project type verified in existing case title, narrative and assigned taxonomy; secondary reconstruction assignments retained"
+    },
+    {
+      "id": 2624,
+      "primary": 17,
+      "preserved": true,
+      "reason": "Specialist project type verified in existing case title, narrative and assigned taxonomy; secondary reconstruction assignments retained"
+    },
+    {
+      "id": 2612,
+      "primary": 18,
+      "preserved": true,
+      "reason": "Specialist project type verified in existing case title, narrative and assigned taxonomy; secondary reconstruction assignments retained"
+    },
+    {
+      "id": 2604,
+      "primary": 20,
+      "preserved": true,
+      "reason": "Specialist project type verified in existing case title, narrative and assigned taxonomy; secondary reconstruction assignments retained"
+    },
+    {
+      "id": 2580,
+      "primary": 20,
+      "preserved": true,
+      "reason": "Specialist project type verified in existing case title, narrative and assigned taxonomy; secondary reconstruction assignments retained"
+    },
+    {
+      "id": 2083,
+      "primary": 18,
+      "preserved": true,
+      "reason": "Specialist project type verified in existing case title, narrative and assigned taxonomy; secondary reconstruction assignments retained"
+    },
+    {
+      "id": 2082,
+      "primary": 17,
+      "preserved": true,
+      "reason": "Specialist project type verified in existing case title, narrative and assigned taxonomy; secondary reconstruction assignments retained"
+    },
+    {
+      "id": 2076,
+      "primary": 18,
+      "preserved": true,
+      "reason": "Specialist project type verified in existing case title, narrative and assigned taxonomy; secondary reconstruction assignments retained"
+    },
+    {
+      "id": 2078,
+      "primary": 18,
+      "preserved": true,
+      "reason": "Specialist project type verified in existing case title, narrative and assigned taxonomy; secondary reconstruction assignments retained"
+    },
+    {
+      "id": 2077,
+      "primary": 17,
+      "preserved": true,
+      "reason": "Specialist project type verified in existing case title, narrative and assigned taxonomy; secondary reconstruction assignments retained"
+    }
+  ]
+}
