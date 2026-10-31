@@ -1,5 +1,9 @@
 # Hero and audience cards
 
+## Audience cards refined — 2026-10-31
+
+Published only Home154 section7b416658: matching existing ROBYLO Home204/Building205 replace1425/1399, both32px with24×24 viewBox/rounded1.8 outline and orange var(--color-accent) per the latest request; heading-instance300decb5 now says “Restoration for homes and businesses.” and card-copya575649/6066a3bb uses8px gap, preserving headings/descriptions, heading accent, layout and navy arrow elements. Whole-card native anchors4c8810dc/2066a26 retain484/499 bindings and existing audience-card hover/focus; only icon widgets06c1863/260700c own the necessary local `& svg { fill: none; stroke: currentColor; stroke-width: 1.8; }` correction for Elementor's forced fill, with no new classes/components/plugins/JS or shared-definition/adjacent-section changes. Fresh saved/native Chrome1718px checks confirmed equal32px/orange/1.8 contour icons, no card overflow or nested links, visible2px keyboard outline and requested copy; both existing destinations were opened successfully earlier in this task, while mobile verification remains pending after emulation permission was declined and the final screenshot was interrupted by browser detachment (rollback: restore icon selections1425/1399 and remove only their contour rule, then restore copy gap/description separately).
+
 ## Current compact audience choices — 2026-10-30
 
 Owner requested compact tiles without big photographs. Home7b416658: removed only media wrappers6e5afc98/4c8bb651; attachments629/630 retained. Section vertical padding48px. Bodies6b95719/687ff42f:24px padding,32px/minmax(0,1fr)/44px grid,16px gap. Copy column2; existing action column3/44px. Native decorative SVGs06c1863/260700c use existing house-building1425/office1399,32px, orange, column1. Whole-card native page484/499 links retained; no nested anchors.
