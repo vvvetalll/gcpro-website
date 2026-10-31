@@ -109,3 +109,6 @@ Published staging only: saved copy/CTA bindings match prior values, actual deskt
 
 
 2026-10-31 Insurance3796: added three native decorative4px circles (2fbc4d4d/58977302/72dfee2a) in existing point rows, color-text-muted at60% opacity with12px text gap, per owner's neutral-marker correction; actual frontend confirms all three4×4px/gray/no orange, while photo/copy/CTA and stretched text alignment remain unchanged, and no custom CSS/JS/global class was added.
+
+
+2026-10-31 owner icon trial: replaced the three neutral dots in Insurance3796 with the previously selected Regular Rounded native SVG assets3863/3864/3865 (elements349eab2e/bd9087e/12e1e959),56px square/color-text-muted at65% opacity with16px gap and vertical centering; actual desktop confirms56px icons against55.2px heading+description groups/no row overflow, preserving copy/photo/CTA and stretched text alignment with no new assets or custom code.
