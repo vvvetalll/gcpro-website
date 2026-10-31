@@ -1,5 +1,22 @@
 # GCPRO iconography
 
+## 2026-10-31 — Lighter outline direction and homepage trial
+
+**Owner-approved visual direction:** use thin rounded outline artwork with a consistent apparent line weight,40px for large benefit icons and20–24px beside compact text. Preserve the established GCPRO color tokens and simple recognizable concepts. This updates the earlier Regular Rounded weight preference; historical asset/license records below remain intact. Exact thin-variant source pages and SVG paint still require verification before import; no new external family, download or license is claimed verified here.
+
+Requested first replacement is limited to **Home154 > Why1149 instance60cdf058**:
+
+| Role | Current attachment | Current supported Override |
+| --- | --- | --- |
+| From Cleanup to Rebuild |3857 tools.svg |prop-1792719457799-sbydh70 |
+| 24/7 Emergency Contact |3858 timer-clock-call.svg |prop-1792719460379-4twr4eg |
+| Local Chicagoland Team |3859 map-marker-home.svg |prop-1792719463290-7ztj8s7 |
+| Restoring Your Property & Belongings |3860 warehouse-alt.svg |prop-1792719466312-9j3p4yk |
+
+**Pending, not implemented:** fresh MCP reads confirm these four attachments remain assigned through native Homepage Overrides. No thinner matching files were found by the targeted Media Library searches. Local command execution failed before process startup (`sandbox provisioning failed: helper_sandbox_lock_failed … Access is denied`); the exposed Elementor tools support selecting existing SVG IDs but not uploading new assets, and browser control is unavailable. No replacement IDs exist, no WordPress edits were made, and thinner-icon browser verification remains pending. Do not report this documentation commit as a completed icon replacement.
+
+Once asset upload is available, retain original files/IDs for recovery, select coherent thinner equivalents, change only these four Homepage Overrides, publish Home154 and perform one focused render check. Preserve shared1149 defaults, other page instances, current40px boxes, text, numbers visibility, grid, spacing and colors. Existing brand marks and functional arrows are excluded from the decorative-icon standard.
+
 ## Status and permanent direction
 
 2026-10-23: Owner approved **Flaticon Uicons Regular Rounded** and subsequently reported that the four Why icons were already applied. This session researched assets and documented that decision only; no WordPress/Elementor changes, downloads or purchases were made. Actual attachment IDs, exported SVG contents, current installed mappings and site-wide icon replacement were not independently verified and must not be inferred from this record.

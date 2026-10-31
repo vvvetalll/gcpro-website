@@ -1,5 +1,13 @@
 # Why GCPRO — shared section and certifications
 
+## 2026-10-31 — Requested thinner homepage icons: pending
+
+Owner approved lighter rounded outlines and a consistent sitewide decorative-icon direction; see [design standard](../DESIGN_SYSTEM.md#current-icon-weight-and-sizing--owner-direction-2026-10-31) and [current asset/Override register](../ICONOGRAPHY.md#2026-10-31--lighter-outline-direction-and-homepage-trial).
+
+First change is scoped to Home154/60cdf058's four existing SVG Overrides (current3857/3858/3859/3860), keeping40px boxes and all text/layout/color settings. Shared Component1149 defaults and other page consumers are outside this trial. The lighter appearance must be present in actual SVG contours; CSS stroke-width does not thin expanded filled outline paths.
+
+**Actual state:** documentation updated; website icon replacement blocked and unperformed. Local execution cannot start because sandbox provisioning reports `helper_sandbox_lock_failed / Access is denied`; no SVG-upload/browser capability is exposed. Existing four icons remain assigned. No new media/classes/Variables/Components/CSS/JS/plugins/dependencies or publications; no new desktop/mobile validation. Recovery currently requires no WordPress action because no website change occurred.
+
 **2026-10-23 — owner-selected icon direction:** The owner approved **Flaticon Uicons Regular Rounded** and reported applying **House-building / Shield-check / Diagram-project / Comments**. Comments supersedes Comment-check. This research/documentation session made no component/page/media edits and did not independently re-inventory the new SVG attachment IDs; historical IDs below must not be assumed current. Future changes must follow [ICONOGRAPHY](../ICONOGRAPHY.md) and the [approved style rule](../DESIGN_SYSTEM.md#approved-icon-family--flaticon-uicons-regular-rounded), retaining native per-instance Overrides and verifying real SVG paint before rollout.
 
 
