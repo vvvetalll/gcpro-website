@@ -1,5 +1,9 @@
 # GCPRO changelog
 
+## Homepage stray Hero removed — 2026-10-31
+
+Owner requested removal of the extra block at the bottom of staging Home154. Removed only trailing root Flexbox `bb42ab3` and its unconfigured Shared Hero1318 instance `7163d6c` (`overrides: null`), then published Home154 through Elementor MCP. The existing top Hero `3253a11`, BEAF shortcode `8d1585a`, all main-page sections and shared definitions were not edited. Fresh published-tree comparison confirms the complete main subtree is unchanged and the trailing root is absent. Pre-change browser inspection showed the unwanted Residential H1 after Final CTA; the browser connection became unavailable after publication, so post-change visual/mobile/anonymous/cache delivery checks are not claimed. No links, styles, scripts, SEO settings or production changes. Pre-change snapshot revision3712 retained for recovery; restore only the removed trailing wrapper/instance if needed. This narrow cleanup does not claim completion of the universal Hero rollout.
+
 ## Owner visual refinements checkpoint — 2026-10-30
 
 Staging Home compact audience tiles replace large photo wrappers with existing32px icons; whole-card destinations retained, orange focus/hover owner. Native Hero padding112px desktop/48px mobile, heading capitalization and shared Why source corrected. Header top CTA navy outline/floating orange verified. Existing903 now gates mobile bottom CTA at25% scroll range; saved script matches mirror. Home desktop/mobile no overflow, card focus/links and below/above-threshold states checked; Water/Resources/Projects desktop heading/overflow checks. No exhaustive anonymous/full-site QA, pointer-hover capture or renewed menu-suppression claim. Preserved owner-edited Home copy. Universal shared image/BA rollout awaits additional-code approval; not implemented. No production/noindex/BEAF changes. See latest component records and work-plan checkpoint.
