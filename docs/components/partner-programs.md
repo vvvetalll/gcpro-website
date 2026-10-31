@@ -61,3 +61,10 @@ After separate content/publication approval: approve public destinations and pro
 Menu screenshot: outputs/gcpro-partner-programs-navigation.png. No staging cache purge was necessary for non-public new Drafts and an unassigned menu; no current visitor-rendered layout changed.
 
 Rollback: first check dependencies/content since this record. Keep or move only982–986 to recoverable Trash if explicitly authorized, children before parent; never remove existing Pages. Menu13 is unassigned and can be retained as a preparation record or removed through the normal menu UI only with authorization. No Header/Footer/code rollback is needed. Git revert changes documentation, not WordPress; no full-site restore drill performed.
+
+
+## Customer insurance support — owner confirmation, 2026-10-31
+
+Distinct from Agent Program984: Vitalii explicitly confirmed damage documentation/photos, written restoration estimates and adjuster communication for residential and commercial customers. Existing Insurance Component3796 now published on Home154 as4ebf7d5d after Services; source69325bdd/gridfdb5ecf uses shared Heading71+accent, global orange-dot eyebrow, native Button59 bound to Contact Us496 and three editable native heading/paragraph groups. Desktop two columns, mobile stacked; local Atomic spacing/grid and sentence-case point text, existing brand tokens/classes, no JS/plugin/shared-definition edits. CTA navigation and desktop/native-mobile rendering checked; no free-estimate, billing, insurer-acceptance or coverage/approval promise. Exact approved copy and recovery/verification scope: docs/content/HOMEPAGE_COPY_PROPOSAL.md, latest insurance checkpoint. Earlier factual hold is superseded only for those three confirmed support services.
+
+Owner visual refinement in the same task: Insurance3796 root69325bdd uses existing color-surface-alternate (#EFF6FF) to separate it from the adjacent white Services and Before/After sections; typography, native layout and CTA unchanged.

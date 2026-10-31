@@ -174,3 +174,23 @@ Scope checked against approved service-scope-text-cards-2026-10-23.json, service
 Insurance replacement is UNPUBLISHED draft Component 3796: https://vitaliiv1.sg-host.com/wp-admin/post.php?post=3796&action=elementor. Current intermediate CTA remains live pending confirmation. Draft uses Section Heading 71 and neutral coverage-separation copy. Confirm exactly whether GCPRO supplies damage documentation/photos, written restoration estimates, and adjuster coordination, who supplies each and under what limits/consent. Direct billing, claim handling/approval, all-insurer claims and coverage decisions remain unapproved. Do not link the agent program as a consumer claims-assistance service.
 
 Verification: Elementor saved-tree readback and actual staging frontend confirmed all requested service/process/availability copy and six original URL destinations; desktop 1718px has no horizontal overflow. Native Elementor Mobile Portrait preview checked service wrapping and stacked process; no responsive style changes. API publication initially left stale frontend markup; a native Elementor Publish refreshed it, and frontend then showed the new copy. Backup snapshot revision was created before edits. No production/shared component/plugin changes.
+
+
+## 2026-10-31 — Owner-confirmed insurance support published
+
+Vitalii explicitly confirmed in the project conversation that GCPRO provides damage documentation/photos, written restoration estimates and adjuster communication for both residential and commercial projects. This confirmation, not the Insurance Agent Program, approves the three customer-facing support facts and supersedes the earlier insurance factual hold. No confirmation or promise of free estimates, direct billing, deductible help, all-insurer acceptance, guaranteed coverage/claim approval or response times is inferred.
+
+Existing draft Component3796 is now completed, renamed GCPRO / Insurance Support and published on staging Homepage154 as instance4ebf7d5d, immediately after Core Services and before Before/After. Replaced only old intermediate Emergency Restoration Support subtree6cde656f. Component3796 editor: https://vitaliiv1.sg-host.com/wp-admin/post.php?post=3796&action=elementor. Native section69325bdd → container/gridfdb5ecf → left59b439ca with Section Heading71 instance5746b1d in accent wrapper6c5cf9a plus Blue Outline59 CTA28943396; right69a4a2ba holds three native heading/paragraph groups. Existing container, section-heading--accent, text-muted and shared orange-dot section-eyebrow styles/tokens reused. Desktop equal two-column grid/gap4rem, tabletgap2rem, mobileonecolumn/gap1.5rem; sectionpadding3rem desktop/2remmobile, no fixed heights. Support headings18px sentence case; descriptions16px sentence case. CTA is a native Internal URL→Content object496 Contact Us, not a typed URL. No new plugin, JavaScript, custom system, global style/component71 edit, production change or architecture audit.
+
+Published approved copy:
+- Eyebrow: Insurance
+- H2: Restoration & Your Insurance Claim
+- Introduction: We help document the damage, prepare restoration estimates and communicate with your adjuster about the work. Your insurer determines coverage under your policy.
+- Damage documentation — Photos and written details of affected areas.
+- Restoration estimates — A clear scope of the proposed cleanup and repairs.
+- Adjuster communication — Answers to questions about the restoration work.
+- CTA: Talk to Our Team → existing Contact Us496.
+
+Verification: actual staging desktop frontend showed two columns, shared eyebrow/accent and single CTA; native Elementor Mobile Portrait preview showed stacked introduction/CTA and all three support points with natural wrapping. CTA was clicked and opened /contact-us/; native saved link binding496 confirmed. Homepage edit/preview restored to desktop. Before-edit signed snapshots of154/3796 retained as temporary recovery checkpoints. No form submitted; no physical-device testing claimed. Architecture audit remains unstarted.
+
+Owner visual refinement in the same task: Insurance3796 root69325bdd uses existing color-surface-alternate (#EFF6FF) to separate it from the adjacent white Services and Before/After sections; typography, native layout and CTA unchanged.

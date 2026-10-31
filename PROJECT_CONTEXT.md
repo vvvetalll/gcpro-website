@@ -898,3 +898,10 @@ Staging Home154 now uses the owner-approved page-local blue two-column Hero with
 ## Handoff — 2026-10-31 homepage copy
 
 Staging Homepage154 now has the requested scope-checked service descriptions, flexible four-step call/assessment/restoration process and cautious response-availability copy. Shared process1152, Hero styling/media and audience cards unchanged. Insurance draft3796 is unpublished; existing intermediate CTA retained until customer documentation/photos, estimates and adjuster coordination are explicitly confirmed (agent program984 is insufficient). Full implementation/verification checkpoint: docs/content/HOMEPAGE_COPY_PROPOSAL.md, 2026-10-31. Desktop frontend and native Elementor mobile preview checked; six service destinations preserved. No timed arrival guarantee found or added.
+
+
+## Handoff — owner-confirmed insurance section, 2026-10-31
+
+Vitalii confirmed customer damage documentation/photos, written restoration estimates and adjuster communication for residential/commercial projects. Insurance Component3796 is now published on Home154 (instance4ebf7d5d), replacing intermediate Emergency Restoration Support after Services; shared Heading71/accent, orange-dot eyebrow and Button59→native Contact Us496 reused. Desktop and native Elementor mobile rendering checked; CTA clicked successfully. Full copy/locators/verification in docs/content/HOMEPAGE_COPY_PROPOSAL.md; earlier insurance hold superseded for these three facts only. No free estimate/direct billing/all-insurer/coverage guarantee claims approved or added. Architecture audit not started.
+
+Owner visual refinement in the same task: Insurance3796 root69325bdd uses existing color-surface-alternate (#EFF6FF) to separate it from the adjacent white Services and Before/After sections; typography, native layout and CTA unchanged.

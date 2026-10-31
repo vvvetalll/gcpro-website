@@ -872,3 +872,10 @@ Owner explicitly authorized the blue Before/After Hero from Draft3625 on staging
 ## 2026-10-31 — Homepage scope/process copy
 
 Published scope-checked Core Services copy, homepage-only flexible process overrides and cautious Hero/Process response timing. Preserved design and links; desktop frontend and native Elementor mobile wrapping checked. Insurance section remains unpublished draft3796 pending documentation/photos, estimates and adjuster-coordination facts; current CTA retained. See existing homepage copy task checkpoint and PROJECT_CONTEXT handoff.
+
+
+## 2026-10-31 — Owner-confirmed insurance support
+
+Published completed existing Component3796 on Home154 after Services, replacing intermediate Emergency Restoration Support. Vitalii confirmed documentation/photos, written estimates and adjuster communication for residential/commercial projects; exact approved copy, native Contact Us496 CTA and desktop/mobile checks recorded in existing homepage task and partner component records. No additional insurance promises, shared Heading71 changes or architecture audit.
+
+Owner visual refinement in the same task: Insurance3796 root69325bdd uses existing color-surface-alternate (#EFF6FF) to separate it from the adjacent white Services and Before/After sections; typography, native layout and CTA unchanged.
