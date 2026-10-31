@@ -127,6 +127,19 @@ These rules supersede earlier blanket requirements for extensive milestone docum
 - Once the requested work passes its relevant checks, document, commit, verify remote delivery, report and stop. Do not extend the task with unsolicited audits, redesigns or polishing.
 - When the user says stop, stop **all tool activity immediately**, including checks, documentation and Git operations. Report the actual saved/committed state and remaining limits without further tools; do not claim unperformed verification.
 
+### Small-edit delivery limit — owner clarification, 2026-10-31
+
+For small text, icon, color or spacing changes, this clarification overrides broader verification and documentation requirements elsewhere in this repository.
+
+- Implement first, run one focused check of the changed block, and deliver promptly. Aim for roughly30–60seconds of verification when practical; do not spend another10minutes checking or documenting an already working minor change.
+- Check only the affected appearance and behavior. Check the relevant responsive state when layout changes require it. Do not repeat screenshots, viewport matrices, link audits, unchanged shared-component checks or repository scans.
+- Keep documentation proportional: at most a short1–3sentence entry in one relevant existing record for a routine minor edit. Batch these entries where practical. Do not create separate evidence files, duplicate the update across several documents or produce a lengthy technical report for a trivial change.
+- Update AGENTS.md only for permanent instructions or decisions. A minor website edit does not require updates to AGENTS, PROJECT_CONTEXT, CHANGELOG, component records and code registers all at once.
+- Complete an explicitly requested commit/push, but use the shortest reliable path. Documentation or GitHub work must not silently delay reporting that the website change is already saved and published.
+- If a check, upload or GitHub operation stalls or fails, report the specific blocker immediately and give the actual saved/published state. Keep long tool calls observable; use early yields and progress updates. Never leave the owner watching a spinner for several minutes without an explanation, and do not retry indefinitely.
+- Once the necessary check passes, report the result and stop. Further refinement or audits require a new request.
+- Preserve essential correctness, accessibility, security and staging boundaries. If a concrete defect needs additional work, explain why before extending the verification scope.
+
 **Permanent priority: execute efficiently, preserve quality, minimize unnecessary work. Optimize simple tasks for minutes.**
 
 ## Evidence and verification
