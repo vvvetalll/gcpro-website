@@ -879,3 +879,8 @@ Published scope-checked Core Services copy, homepage-only flexible process overr
 Published completed existing Component3796 on Home154 after Services, replacing intermediate Emergency Restoration Support. Vitalii confirmed documentation/photos, written estimates and adjuster communication for residential/commercial projects; exact approved copy, native Contact Us496 CTA and desktop/mobile checks recorded in existing homepage task and partner component records. No additional insurance promises, shared Heading71 changes or architecture audit.
 
 Owner visual refinement in the same task: Insurance3796 root69325bdd uses existing color-surface-alternate (#EFF6FF) to separate it from the adjacent white Services and Before/After sections; typography, native layout and CTA unchanged.
+
+
+## 2026-10-31 — Homepage timing and trust copy
+
+Removed extra Hero/Process response-timing sentences; replaced Home-only Why copy with sourced ownership/history/BBB/RIA facts. No shared-definition/layout/Insurance/order edits; desktop/native-mobile and checked consumer preservation passed. Current certification/licensing/insurance gaps retained; sources and exact copy in existing homepage/Why records. Architecture audit is a separate subsequent read-only task.
