@@ -106,3 +106,6 @@ Published staging only: saved copy/CTA bindings match prior values, actual deskt
 
 
 2026-10-31 owner alignment correction: preserved the existing stacked point headings/descriptions, approved copy, supplied native image77f7c37 and all other styles; only Insurance3796 text container59b439ca now distributes its three content groups with native justify-content:space-between (mobile:flex-start), matching the photo's natural height, with desktop539px text/photo heights and top/button-bottom differences0px verified; the temporary text-row typography/layout trial was fully reverted.
+
+
+2026-10-31 Insurance3796: added three native decorative4px circles (2fbc4d4d/58977302/72dfee2a) in existing point rows, color-text-muted at60% opacity with12px text gap, per owner's neutral-marker correction; actual frontend confirms all three4×4px/gray/no orange, while photo/copy/CTA and stretched text alignment remain unchanged, and no custom CSS/JS/global class was added.
