@@ -893,3 +893,8 @@ Staging Home154 now uses the owner-approved page-local blue two-column Hero with
 
 
 2026-10-30 latest staging checkpoint: compact audience tiles/32px icons, Hero112px desktop48px mobile, native title-case direction, shared Why heading normalized, Header top outline/floating orange,903 mobile CTA25% threshold saved. Actual proportional frontend checks and remaining limits in latest hero-main-beaf/hero-and-audience/smart-navigation records. Preserved concurrent owner Home copy. Universal shared Photo/BA selector and rollout await explicit scoped-code approval; not complete. Wider launch blockers remain open. Production/noindex/BEAF settings unchanged.
+
+
+## Handoff — 2026-10-31 homepage copy
+
+Staging Homepage154 now has the requested scope-checked service descriptions, flexible four-step call/assessment/restoration process and cautious response-availability copy. Shared process1152, Hero styling/media and audience cards unchanged. Insurance draft3796 is unpublished; existing intermediate CTA retained until customer documentation/photos, estimates and adjuster coordination are explicitly confirmed (agent program984 is insufficient). Full implementation/verification checkpoint: docs/content/HOMEPAGE_COPY_PROPOSAL.md, 2026-10-31. Desktop frontend and native Elementor mobile preview checked; six service destinations preserved. No timed arrival guarantee found or added.

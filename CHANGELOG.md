@@ -867,3 +867,8 @@ Owner explicitly authorized the blue Before/After Hero from Draft3625 on staging
 
 
 2026-10-30 typography trial: Homepage Hero H1 uses native local text-transform:none (sentence case); staging Header primary menu reduced18px to17px through native typography. Existing wording, layout, BEAF and other heading styles retained.
+
+
+## 2026-10-31 — Homepage scope/process copy
+
+Published scope-checked Core Services copy, homepage-only flexible process overrides and cautious Hero/Process response timing. Preserved design and links; desktop frontend and native Elementor mobile wrapping checked. Insurance section remains unpublished draft3796 pending documentation/photos, estimates and adjuster-coordination facts; current CTA retained. See existing homepage copy task checkpoint and PROJECT_CONTEXT handoff.

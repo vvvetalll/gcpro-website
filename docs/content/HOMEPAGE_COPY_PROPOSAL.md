@@ -163,3 +163,14 @@ Before completion, check actual approved text at 1440/1200/900/390, all six card
 - **Verification:** live production/staging reads, saved154 content and four-width current-copy measurements; proposed copy not rendered or implemented. No cache purge required for documentation-only work.
 - **GitHub:** proposal/context/changelog/baseline documentation only; remote delivery reported in chat. No approved-copy or website-deployment claim.
 - **Outstanding Items:** editorial approval and P1–P6; Phase 2 responsive/anonymous checks await approved implementation.
+
+
+## 2026-10-31 — Homepage service/process copy and insurance factual hold
+
+Published on staging Homepage 154: requested Core Services introduction and all six descriptions; homepage-only overrides on Process instance 6d0939b9 (shared Component 1152 unchanged); response availability note 28bf295e beside the Hero 24/7 mark. Hero/media/audience layout, styles and all six service links remain unchanged. The process coordinates an assessment rather than promising confirmation on the initial call; PM follow-up may be needed. No timed arrival commitment was found; both cautious availability sentences are used.
+
+Scope checked against approved service-scope-text-cards-2026-10-23.json, service-rollout-2026-10-23.json and service-content-revision-2026-10-24.json. Mold copy describes affected materials/areas, not testing or a health guarantee. Existing Insurance Agent Program page 984 documents agent inquiries only and explicitly separates restoration from coverage decisions; it does not confirm routine customer claims support.
+
+Insurance replacement is UNPUBLISHED draft Component 3796: https://vitaliiv1.sg-host.com/wp-admin/post.php?post=3796&action=elementor. Current intermediate CTA remains live pending confirmation. Draft uses Section Heading 71 and neutral coverage-separation copy. Confirm exactly whether GCPRO supplies damage documentation/photos, written restoration estimates, and adjuster coordination, who supplies each and under what limits/consent. Direct billing, claim handling/approval, all-insurer claims and coverage decisions remain unapproved. Do not link the agent program as a consumer claims-assistance service.
+
+Verification: Elementor saved-tree readback and actual staging frontend confirmed all requested service/process/availability copy and six original URL destinations; desktop 1718px has no horizontal overflow. Native Elementor Mobile Portrait preview checked service wrapping and stacked process; no responsive style changes. API publication initially left stale frontend markup; a native Elementor Publish refreshed it, and frontend then showed the new copy. Backup snapshot revision was created before edits. No production/shared component/plugin changes.
