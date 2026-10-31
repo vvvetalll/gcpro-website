@@ -884,3 +884,8 @@ Owner visual refinement in the same task: Insurance3796 root69325bdd uses existi
 ## 2026-10-31 — Homepage timing and trust copy
 
 Removed extra Hero/Process response-timing sentences; replaced Home-only Why copy with sourced ownership/history/BBB/RIA facts. No shared-definition/layout/Insurance/order edits; desktop/native-mobile and checked consumer preservation passed. Current certification/licensing/insurance gaps retained; sources and exact copy in existing homepage/Why records. Architecture audit is a separate subsequent read-only task.
+
+
+## 2026-10-31 — Homepage Why benefits/icon completion
+
+Owner's latest four benefits replace the superseded ownership/history/BBB/RIA homepage copy. Home154 instance60cdf058 retains shared1149 with supported text/SVG Overrides; four individual Flaticon Uicons Regular Rounded SVGs3857–3860, native uploads, orange40px. Homepage decorative numbers removed with two scoped main-container rules; no shared definition/global styling change. Separate Affiliations1886 and its five organizations, other consumers, Hero/audience/Insurance/order unchanged. Desktop and native Elementor mobile wrapping/icon/number checks passed; physical-device and final exported screenshot not claimed. Exact copy/source/locators/recovery: docs/components/why-gcpro.md. Read-only architecture audit is unfinished and separate, with no fixes made.

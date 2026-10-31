@@ -908,3 +908,8 @@ Owner visual refinement in the same task: Insurance3796 root69325bdd uses existi
 
 
 2026-10-31 content checkpoint: Home154 removed both extra response-timing sentences; Hero24/7, processsteps, Insurance, audience overlap and order preserved. Home1149 instance60cdf058 now uses fact-checked local family ownership, established2008, BBB accreditation and RIA membership through supported Overrides; shared1149 and three checked other consumers unchanged. Desktop/native-mobile checked; no current license/insurance/IICRC renewal claim added. Sources/exact copy/recovery: latest docs/content/HOMEPAGE_COPY_PROPOSAL.md and docs/components/why-gcpro.md. This content milestone precedes a separate read-only architecture audit.
+
+
+## 2026-10-31 — Homepage Why benefits/icon completion
+
+Owner's latest four benefits replace the superseded ownership/history/BBB/RIA homepage copy. Home154 instance60cdf058 retains shared1149 with supported text/SVG Overrides; four individual Flaticon Uicons Regular Rounded SVGs3857–3860, native uploads, orange40px. Homepage decorative numbers removed with two scoped main-container rules; no shared definition/global styling change. Separate Affiliations1886 and its five organizations, other consumers, Hero/audience/Insurance/order unchanged. Desktop and native Elementor mobile wrapping/icon/number checks passed; physical-device and final exported screenshot not claimed. Exact copy/source/locators/recovery: docs/components/why-gcpro.md. Read-only architecture audit is unfinished and separate, with no fixes made.
