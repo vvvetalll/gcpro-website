@@ -1,5 +1,27 @@
 # GCPRO iconography
 
+## 2026-11-01 — Current standard and confirmed corrections
+
+**Owner-approved current standard: Flaticon Uicons Regular Rounded (fi-rr), medium visual weight.** This supersedes the October 31 thin-outline trial below. Do not mix Thin, Bold, solid artwork, icon fonts or an additional CDN. Reuse approved SVG attachments through native controls and supported Overrides; preserve expanded outline path fill.
+
+| Location | Replaced | Current attachment |
+|---|---|---|
+| Home154 Residential SVG58725369 | ROBYLO Home204 | House-building1425 (existing approved asset; homes/condos) |
+| Home154 Commercial SVG13cb5d39 | ROBYLO Building205 | Building3977, fi-rr-building |
+| Commercial499 General Contracting instance c290c54d | ROBYLO Tools207 | Tools3857 (existing asset), native icon Override |
+
+Home artwork remains48px desktop/32px mobile, graphite contextual treatment. Removed only the two local SVG fill:none/stroke rules; all audience layout, spacing, text, links and functional arrows remain unchanged. Service-card badge sizing and orange treatment remain unchanged. Shared62 defaults were not changed; its12 live hub consumers were inspected before editing only the General Contracting Override. Why1149's15 known live consumers retain their existing native defaults/Overrides; no Thin replacements were introduced.
+
+Building source: https://www.flaticon.com/free-icon-font/building_3914425 — Flaticon/Uicons Regular Rounded, downloaded2026-11-01 through the authenticated browser. One missing SVG uploaded through Elementor's supported SVG control/sanitizer as3977; no duplicate site uploads. Original building.svg and individual license PDF retained privately in Downloads. Ordinary WordPress media upload rejected SVG; no upload/security settings were changed.
+
+**Verified on staging:** published native settings read back; Elementor Tools > Clear Files & Data returned success, followed by SiteGround Purge SG Cache. Actual frontend then rendered the new House-building/Building expanded paths with graphite fill and no stroke; General Contracting rendered Tools with orange fill. Earlier frontend checks showed cached ROBYLO markup until Elementor's HTML/data cache was cleared. Desktop frontend/paint verified; mobile dimensions are preserved in native settings, but a new mobile visual check is not claimed.
+
+Intentional exceptions: coherent functional arrows/menu/close, contact phone/email/location group935–937, contextual muted Insurance artwork, brand/certification/social logos, Google stars and third-party controls. Unused Feature Card65 was not changed. Inventory was limited to icons and their consumers; a few About/Testimonials/BeforeAfter roots failed transport reads, so full sitewide visual completion is not claimed.
+
+Flaticon collection **GCPRO - Regular Rounded fi-rr** was created; SVG import failed with a page JavaScript error and the collection remained empty. Do not report it as populated. No purchases or subscription changes.
+
+Header hover correction in the existing gcpro-smart-header global class: scoped normal-header secondary-button hover/focus-visible uses primary blue fill and white text. Actual pointer hover was verified; floating-header orange treatment remains.
+
 ## 2026-10-31 — Lighter outline direction and homepage trial
 
 **Owner-approved visual direction:** use thin rounded outline artwork with a consistent apparent line weight,40px for large benefit icons and20–24px beside compact text. Preserve the established GCPRO color tokens and simple recognizable concepts. This updates the earlier Regular Rounded weight preference; historical asset/license records below remain intact. Exact thin-variant source pages and SVG paint still require verification before import; no new external family, download or license is claimed verified here.
