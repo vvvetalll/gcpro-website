@@ -40,6 +40,10 @@ Created: 2026-11-01. **Purpose:** collect uncertain operational/service claims f
 | D02 | How is drying progress measured/recorded (material moisture readings, humidity monitoring, targets, frequency), and are reports shared with clients/insurers? | OPEN |
 | D03 | Are after-hours equipment setup, monitoring, and specific turnaround expectations actually offered? | OPEN |
 | D04 | What is the exact boundary between dehumidification, structural drying, water extraction, mold remediation and reconstruction? | OPEN for published scope/process details |
+| D05 | Do drying devices typically operate continuously, what power supply is needed, what instructions are given about moving/turning off equipment, and what noise/safety guidance is verified? | OPEN |
+| D06 | Is a typical 3–5 day drying range supported by GCPRO job data/management, and for which loss types and materials? | OPEN; do not publish numeric range until verified |
+| D07 | Does GCPRO use LGR dehumidifiers, which exact equipment is approved for claims, and are there authentic/cleared images showing dehumidifier and air movers together? | OPEN |
+| D08 | Is “Structural Drying & Dehumidification in Chicago” preferable to the current H1/title based on GSC, keyword-planner and actual intent comparison against Water Damage/Extraction? | OPEN SEO RESEARCH; no verified demand or URL-change approval |
 
 ## Storm Damage — /residential-services/storm-damage/
 
