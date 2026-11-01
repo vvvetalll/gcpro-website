@@ -1,3 +1,13 @@
+## 2026-11-01 — Fire & Smoke517 targeted conversion update
+
+Applied page-instance content only: Hero28d93f39 now begins “24/7 emergency contact: call 847-656-3322”; mid CTA5b6138c4 changed “LET’S DISCUSS YOUR PROPERTY” to “GET HELP AFTER FIRE DAMAGE”; Why3bce386 has four residential benefits (24/7 Emergency Contact, Cleanup Through Repairs, Insurance Documentation, Clear Project Updates); FAQ1efdba75 retains exactly six items addressing immediate actions, contact/scheduling, insurance, occupancy, belongings and time/cost, preserving the existing smoke-cleanup guide link and useful technical information.
+
+Corrected third project f45e18f/c534f63 from the duplicated exterior caption to “Bathroom Restoration — Tinley Park, IL” / “A fire-damaged bathroom restored with a finished vanity, tub and wall finishes”, supported by the actual loaded Tinley bathroom images and existing BEAF1208/media1249/1251 register; unchanged 42-node order, classes, styles, links, photos and slider implementation confirmed by saved-tree comparison, with no shared definitions or unrelated sections written.
+
+Retained SEO title/H1/canonical/staging noindex; AIOSEO has Web Page (Default), no page-specific Service schema, so none was added; changed meta description to “24/7 emergency contact for Chicago homeowners after fire and smoke damage. Cleanup, belongings restoration and repairs. Call GCPRO at 847-656-3322.” (verified rendered before the final caption-only publish); desktop1440/mobile390 had no overflow/clipped text, six rendered FAQ answers and native insurance disclosure verified, desktop project/mobile FAQ screenshots inspected, final caption saved/published/read back and staging cache purge clicked, but the subsequent browser read timed out at Page.getFrameTree (10000ms) and anonymous fetch was unavailable, so final post-purge delivery/metadata and final revised caption responsive recheck remain unverified, with no phone call/form submission or full BEAF interaction test performed.
+
+---
+
 ## 2026-11-01 — Residential audience corrections (applied)
 
 Staging only. Audited all six published Residential service pages: headings, hero, cards, CTAs, complete FAQ answers, SEO titles/descriptions and page schema. Corrected page-instance Overrides only; no shared component definitions, global styles or Commercial pages were changed. The Residential hub is a separate parent, not an additional service page.
