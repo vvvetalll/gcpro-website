@@ -140,6 +140,15 @@ For small text, icon, color or spacing changes, this clarification overrides bro
 - Once the necessary check passes, report the result and stop. Further refinement or audits require a new request.
 - Preserve essential correctness, accessibility, security and staging boundaries. If a concrete defect needs additional work, explain why before extending the verification scope.
 
+### Agentic usage and credit discipline — owner instruction, 2026-11-01
+
+- Conserve the owner's limited Work/agentic usage. Use ordinary chat for discussion, copy, planning and explanations; use Work/agentic execution only when the requested action requires tools or multi-step implementation. Do not start browser or research workflows just to discuss a change.
+- For GCPRO implementation, prefer direct, supported Elementor MCP, GitHub and structured API operations over browser navigation when equally capable. Read the specific component/page once, make the smallest authorized edit, then perform one relevant check (including the affected responsive state when needed) and stop.
+- Do not repeatedly scan the website, reopen approved design decisions, regenerate screenshots, or re-run unchanged tests. Batch related independent edits when safe; use existing project documentation and prior verified results rather than rediscovering them.
+- If an edit repeatedly fails, do not spend the remaining agentic budget looping. Report the exact blocker quickly, try at most one justified alternative, or give precise manual Elementor steps when appropriate.
+- When model or reasoning-effort selection is available, use a cost-conscious option suitable for the task without compromising correctness or essential verification. Do not invent per-operation credit costs or imply that direct MCP calls are always billed less.
+- Never initiate credit purchases, change automatic recharge, or activate a full usage reset without an explicit owner request. If usage/budget limitations prevent completing a task, state what is done and what remains; never claim a completed change without verification.
+
 **Permanent priority: execute efficiently, preserve quality, minimize unnecessary work. Optimize simple tasks for minutes.**
 
 ## Evidence and verification
