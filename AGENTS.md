@@ -42,6 +42,8 @@ Speed never justifies sacrificing correctness, security, accessibility or the st
 
 ### 2.3 Execution rules
 
+- **Mandatory opening for every delegated Work prompt.** Start each implementation prompt with: "Keep execution proportional to the task. For a small copy or visual change, inspect and edit only the affected element and its actual shared dependencies. Perform a short targeted check. Do not crawl, audit or regression-test the entire website unless explicitly requested or the change demonstrably affects it. Check shared-resource consumers only to establish the real impact; do not automatically open every page. Avoid repeated checks, unrelated cleanup and unnecessary documentation. Report verification limits briefly." This is a standing scope rule, not a reason to skip necessary checks or an explicitly requested audit.
+
 - **Do exactly what was requested.** Do not invent tasks, add polish, run audits or modify unrelated components. If a project rule seems to require work outside the task, report it as a finding; do not do it.
 - **Do not reopen approved decisions.** Implement approved icons, designs, styles, components and copy without researching alternatives again. Reopen a decision only when implementation is technically impossible or clearly broken, and say so before changing course.
 - **Execute authorized simple edits directly.** No lengthy plan, design review or repeated confirmation.
