@@ -1,14 +1,20 @@
 # Testimonials
 
+## Current homepage heading — 2026-11-01
+
+Only Homepage154 wrapper629e394d's manual eyebrow31825a3f/H2 3d727826/divider41bcab5a was replaced with existing **Section Heading71 instance312c480**. Supported Overrides retain “TESTIMONIALS”, “What Our Clients Say”, H2 semantics and an empty optional description; the existing section-heading--accent class is attached to the local wrapper. Its alignment and surrounding section/inner-container spacing remain unchanged; Shortcode02441ff and Trustindex configuration were not targeted or changed. No shared71, global styles or service-page consumers were modified.
+
+Published readback and actual1562px/scale1 frontend confirm one H2, the orange accent and unchanged94.66px heading-group height. Reviews loaded visibly from the same public source identifier before/after. Exact1440/768/393 visual checks remain incomplete; see [scoped verification and recovery](core-services-b.md#current-heading-architecture--2026-11-01). Earlier viewport claims below are historical, not checks performed by this cleanup.
+
 Actual Trustindex integration, separate from Why GCPRO.
 
 | Field | Current implementation |
 | --- | --- |
 | Location/parent | Homepage154/main46c3aad4 → section10a34543 → inner7d037e04 |
-| Children | Heading wrapper629e394d: eyebrow31825a3f,H2 3d727826,divider41bcab5a; Shortcode **02441ff** |
+| Children | Heading wrapper629e394d → **Section Heading71 instance312c480**; Shortcode **02441ff** |
 | Saved shortcode | [trustindex data-widget-id=3c3f6b184e520136de76f94fefa] (current 2026-10-24 read; supersedes the earlier widget identifier) |
-| Classes/tokens | section,container,stack,layout-reset,section-eyebrow; native H2 uses font-heading/color-text; light surface-alternate #EFF6FF |
-| CSS owner | Native section/heading controls; Trustindex plugin/CDN owns review presentation and Poppins font |
+| Classes/tokens | section,container,stack,layout-reset,section-eyebrow; shared71 H2 uses font-heading/color-text; wrapper uses section-heading--accent; light surface-alternate #EFF6FF |
+| CSS owner | Native section controls, unchanged71 and its existing accent class; Trustindex plugin/CDN owns review presentation and Poppins font |
 | JavaScript / Custom Code | Vendor Trustindex runtime; no GCPRO-developed Testimonials JS or Custom Code entry |
 | Dependency | Widgets for Google Reviews14.2; external cdn.trustindex.io assets/data |
 | Responsive behavior | Review carousel manages responsive cards inside its own clipped track; offscreen slides are not by themselves page overflow |
@@ -16,7 +22,7 @@ Actual Trustindex integration, separate from Why GCPRO.
 | Limits | Plugin Poppins is a design-system exception; review/source approval and structured-data consistency need owner review |
 | Safe editing/reuse | Change widget/layout/data in Trustindex configuration, shortcode in02441ff, native heading/surface in Homepage; do not copy review HTML or edit vendor files |
 
-The current closed-page width scan passes360/393/430/768/1440 despite offscreen carousel slides. Runtime JSON-LD's aggregate review count differs from the visible widget's count; treat this as a source/configuration consistency question, not proof of false reviews. No review content, schema settings or typography was changed by this audit.
+Historical closed-page width scan passed360/393/430/768/1440 despite offscreen carousel slides. Runtime JSON-LD's aggregate review count differs from the visible widget's count; treat this as a source/configuration consistency question, not proof of false reviews. No review content, schema settings or typography was changed by this audit.
 
 
 
