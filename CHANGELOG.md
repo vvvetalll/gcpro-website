@@ -1,5 +1,14 @@
 # GCPRO changelog
 
+## Homepage typography, button case and CTA checkpoint — 2026-11-01
+
+Saved staging H2–H5 Variables as fluid approved ranges (24–28/20–24/18–20/16–18px) and connected tag Defaults to them; removed redundant breakpoint font sizes. H1, body/lead and audience-selector local exceptions preserved. Four Timeline582 headings now use process-step-title (g-88ee58e), preserving layout and the20px tablet exception; removed repeated local typography. Five existing button variants now own native uppercase; Footer114 GET DIRECTIONS reuses button-outline-white with its prior local body-font/geometry exception, and form492/496 redundant16px/600 overrides were removed. Ordinary navigation, linked-card titles and FAQ labels unchanged.
+
+Published CTA80: native panel5ec4592 owns mobile32px20px padding, container79c33bf7 owns zero inner mobile gutters and8px clipping; outer section retains20px side gutters. New semantic opt-in gcpro-final-cta-video (g-3e74b30; native position:relative) scopes existing Code847 initialization. Removed only847's competing mobile padding/radius rules; retained video URL, masks, overlay and motion/data fallbacks. Source mirror updated without a second enqueue. Home154 Hero link3df415b8 keeps native project2077 destination; local underline removed. Existing gcpro-homepage class owns the narrowly scoped `& .e-63b771d9-a0a4 > a { text-decoration:none; }` exception because the nested anchor retains tag-default decoration. Rollback: remove that one class rule and restore the prior local underline.
+
+Browser evidence: Home1440/390px at scale1, no horizontal overflow; representative visible button transforms uppercase, longest mobile availability label fits; CTA mobile20px gutters/8px radius/32px20px padding, desktop and mobile lazy playback observed. Reduced-motion emulation removes video; Hero anchor computed decoration:none. Published saved settings checked; no physical-device, renewed anonymous, exhaustive shared-consumer, all-variant hover/focus or form runtime acceptance claimed. Accepted Hero sizing, audience layout, FAQ, Insurance and affiliation-note work were skipped. Local MCP configuration correction remains separate/unverified; today's earlier write hang is not diagnosed by this checkpoint.
+
+
 ## Internal Before/After Hero proportions — 2026-11-01
 
 Published Shared Hero1318's comparison-only grid/frame correction; removed125% photo enlargement from BA mode and prevented focus scrolling after fullscreen. Homepage, photo modes, page instances and gallery/plugin settings preserved. Seven consumers ×1440/768/393px passed actual Chrome checks; Water drag/fullscreen passed. [Exact owners, measurements, recovery and limits](docs/components/shared-hero.md#current-internal-beforeafter-sizing--2026-11-01). Separate from pending typography centralization.
