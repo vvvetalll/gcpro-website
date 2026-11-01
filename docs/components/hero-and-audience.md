@@ -1,5 +1,19 @@
 # Hero and audience cards
 
+## Current audience selector — 2026-11-01
+
+**Actual architecture:** Homepage154 owns native section7b416658 → container1b98920a → paths1a13f287 → whole-card anchors4c8810dc/2066a26 with native tile/icon/copy/description/arrow children. This is **not a shared library Component**. Draft Component3777 is an untouched historical photo-card backup, not the live selector. This section supersedes the audience-layout descriptions below.
+
+Owner-authorized refinement is saved and published on staging using native Atomic controls: desktop two columns, existing SVG204/205 at48px inside64px color-surface boxes, icon left/copy middle/40px circular arrow right; tablet one column to avoid narrow copy; mobile two stacked cards16px apart,20px padding,48px icon boxes/32px SVGs beside eyebrow and naturally wrapping19px H3, followed by15px description and simple20px navy arrow in a second row. Existing description nodes25fd7fc4/7555eb88 were moved from copy containers to their existing tile parents6ad9bb5b/16b04106; no new elements, Component, assets, HTML, classes, tokens or custom CSS/JS were added. Existing SVG contour correction is retained. Action wrappers no longer carry card-action, so its circular treatment is replaced locally on mobile; whole-card hover and navy keyboard-focus outline remain.
+
+Desktop overlap stays-56px; mobile overlap is0 to keep cards below Hero content. Only selector-owned vertical spacing changed: zero block padding and bottom margins-48px desktop/-12px mobile, targeting approximately48px/44px before Core Services with existing section rhythm. These are saved settings and a spacing target, **not a measured visible gap**. Existing horizontal gutter ownership was preserved; Hero and Core Services trees compare unchanged. Approved copy, native object-bound Page484/499 whole-card links and SVG204/205/464 selections compare unchanged; saved tree has exactly two anchors and no nested links. Backup3777 was not edited.
+
+**Verification limitation:** published MCP readback confirms the structure, responsive settings, copy, assets and destinations. Actual rendering at360/393/430/768/1440 CSS px, clipping/overflow, visible alignment/gap, keyboard interaction, destination navigation and desktop/mobile screenshots remain **unverified**: browser runtime exited with a local Windows sandbox setup error; the alternative computer-use skill callback was unavailable. Do not treat this saved-state check as browser or physical-device acceptance. No cache purge or anonymous-delivery check was performed.
+
+## Historical implementation notes
+
+All audience-layout descriptions below are dated history. Use the current architecture and verification limits above for this revision.
+
 ## Neutral compact tiles and photo backup — 2026-10-31
 
 Owner's latest reference replaces the photo-card layout with compact white icon/copy/navy-arrow tiles: Home154 existing anchors4c8810dc/2066a26 keep484/499 whole-card links and local neutral hover, native bodies6ad9bb5b/16b04106 use existing outline SVG204/205 and arrow464, graphite text/muted labels and neutral icon backgrounds with no orange text, photo/badge/Explore children removed from the live tiles, and section overlap-56px desktop/-28px mobile while Hero is unchanged. Before replacement the complete prior photo-card section was saved as separate draft backup Component3777, [open backup](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=3777&action=elementor), never inserted into the live page; this is a recovery copy, not a new runtime component or shared redesign. Published MCP readback confirms both compact trees and no accent-colored text; browser disconnected before visual verification, so desktop/mobile appearance is not claimed checked for this latest variant, no new plugins/classes/Variables/JS were added, and existing widget-local SVG contour correction remains scoped to the new icons.
