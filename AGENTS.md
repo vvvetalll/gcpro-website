@@ -117,6 +117,8 @@ These rules supersede earlier blanket requirements for extensive milestone docum
 
 - Execute explicitly authorized simple edits directly: approved icon replacements, text, spacing and colors require no lengthy plan, design reopening or repeated confirmation.
 - Reuse verified session knowledge and established project decisions. Read only relevant documentation when necessary; do not reread the repository or repeat completed investigations.
+- Conserve the owner's Work/agentic usage: use ordinary Chat for discussion, drafting and planning when tool-driven execution is unnecessary. When selectable, choose a cost-conscious model or reasoning effort suitable for the task without compromising correctness.
+- Never initiate extra credit purchases, change automatic recharge or activate a full usage reset without the owner's explicit authorization. If a usage limit prevents execution, report the actual completed state and blocker instead of looping.
 - Prefer supported, reliable Elementor MCP operations over visual-editor navigation. Use the shortest reliable workflow and batch independent operations. Avoid redundant reads, navigation and screenshots.
 - Verify only changed elements and immediate dependencies in one relevant pass. Repeat a check only after a new edit, failure or unresolved issue; reuse completed checks for unchanged content. Small changes need a focused technical/render check and relevant responsive appearance; shared changes need affected-instance checks. Documentation-only changes require no website retesting. The owner performs final visual acceptance.
 - Keep native Atomic V4 architecture. Do not introduce unnecessary CSS/JS, components, Global Classes, plugins, abstractions or duplicate media. Do not turn minor visual edits into architecture work.
@@ -139,15 +141,6 @@ For small text, icon, color or spacing changes, this clarification overrides bro
 - If a check, upload or GitHub operation stalls or fails, report the specific blocker immediately and give the actual saved/published state. Keep long tool calls observable; use early yields and progress updates. Never leave the owner watching a spinner for several minutes without an explanation, and do not retry indefinitely.
 - Once the necessary check passes, report the result and stop. Further refinement or audits require a new request.
 - Preserve essential correctness, accessibility, security and staging boundaries. If a concrete defect needs additional work, explain why before extending the verification scope.
-
-### Agentic usage and credit discipline — owner instruction, 2026-11-01
-
-- Conserve the owner's limited Work/agentic usage. Use ordinary chat for discussion, copy, planning and explanations; use Work/agentic execution only when the requested action requires tools or multi-step implementation. Do not start browser or research workflows just to discuss a change.
-- For GCPRO implementation, prefer direct, supported Elementor MCP, GitHub and structured API operations over browser navigation when equally capable. Read the specific component/page once, make the smallest authorized edit, then perform one relevant check (including the affected responsive state when needed) and stop.
-- Do not repeatedly scan the website, reopen approved design decisions, regenerate screenshots, or re-run unchanged tests. Batch related independent edits when safe; use existing project documentation and prior verified results rather than rediscovering them.
-- If an edit repeatedly fails, do not spend the remaining agentic budget looping. Report the exact blocker quickly, try at most one justified alternative, or give precise manual Elementor steps when appropriate.
-- When model or reasoning-effort selection is available, use a cost-conscious option suitable for the task without compromising correctness or essential verification. Do not invent per-operation credit costs or imply that direct MCP calls are always billed less.
-- Never initiate credit purchases, change automatic recharge, or activate a full usage reset without an explicit owner request. If usage/budget limitations prevent completing a task, state what is done and what remains; never claim a completed change without verification.
 
 **Permanent priority: execute efficiently, preserve quality, minimize unnecessary work. Optimize simple tasks for minutes.**
 
