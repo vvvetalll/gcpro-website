@@ -1,3 +1,27 @@
+## 2026-11-01 — Mold516 targeted homeowner content update
+
+Updated only page516's native instance Overrides: Hero6396fa7c now states “GCPRO removes mold from affected materials in Chicago-area homes” with phone/next step instead of leading with the testing exclusion; Process2d7a504a retains four steps (Review the Affected Area / Plan the Work Area / Clean or Remove Materials / Plan Moisture and Repair Work); CTA1921720e changed “LET’S DISCUSS YOUR PROPERTY” to “GET HELP WITH MOLD DAMAGE”; Why4325e31f retains four mold-specific benefits, and FAQ6fe7367a retains six practical answers covering initial action/health caution, DIY versus professional work, testing boundaries, timing, cost/insurance and recurrence, preserving the existing Glenview guide link.
+
+Published and read back all affected settings;42-node order/classes/styles, all native destinations, BEAF/media/reviews/affiliations and unrelated sections retained, with only Attic heading d97691d8 changed H2→H3 to match the other two project cards; Attic1596/media1584/1585 and Window2202/media2192/2193 are documented mold work (no new city claim), while Glenview742/media2196/2197 remains explicitly water restoration, with bb86c8fd clarified to “Ceiling damage repaired and a living space restored after water damage; not a documented mold-remediation case.” rather than relabeling/replacing its photographs (no unused third verified mold project was established in the scoped register).
+
+Retained SEO title “Mold Remediation & Removal Chicago | GCPRO”, H1, self canonical and intentional noindex/nofollow; AIOSEO description saved and rendered as “Mold remediation for homes in Chicago and nearby suburbs. GCPRO removes mold-affected materials and helps plan damage recovery. Call 847-656-3322.”; no Service/FAQ schema added (Issue #2 remains separate), no equipment/negative-air/HEPA protocol, certification, guaranteed prevention, timing or coverage claims added, and testing/air sampling/clearance are not offered or coordinated by GCPRO (owner reconfirmed).
+
+### Targeted verification and shared findings (read-only)
+
+- Desktop1440/mobile390: one H1, six rendered complete FAQ answers, no horizontal overflow or clipped heading/paragraph/link text; native testing FAQ opens; project headings all H3, all six project images loaded; exact frontend href list unchanged; desktop project and mobile FAQ screenshots inspected.
+- Chrome timed out on Page.getFrameTree (10000ms) after staging cache purge; one alternative in-app-browser check succeeded with final rendered content/SEO. Both browser surfaces were authenticated, so anonymous delivery is not claimed. No form submitted, actual phone call placed, physical-device test or full BEAF drag regression performed.
+- Computed main-heading text-transform is capitalize, explaining capitalized small words; this is inherited shared design, not altered text or a page516-only defect. Record for separate typography review, without overriding the established style.
+- CTA copy is uppercase in existing instance values; computed capitalize is shared. The compared saved Fire517/Mold516 CTA values are both uppercase, so a cross-page capitalization defect is not established by the supplied audit claim.
+- Chicago is absent from the shared ten-suburb visible Service Areas list, although the H1/meta explicitly target Chicago. Confirmed shared coverage-list finding for separate authorization; no city link invented.
+- Mobile header/top strip has no separate visible phone link at the top; the existing Emergency help / Call Now control is present with tel:+18476563322. A claim that mobile has no click-to-call is inaccurate; actual dialing was not tested.
+- Hero secondary remains the existing instance-selected VIEW SERVICE AREAS → native Page495. This is a deliberate supported Override variation, not a broken destination; no conversion-action swap authorized or implemented.
+
+### Evidence and recommendations not adopted
+
+Existing native page and before-after.md register establish material removal, mold projects, water recovery and reconstruction boundaries; production marketing mentions containment/filtration but does not independently establish current project-specific methods, so HEPA/negative air/moisture-monitoring protocol assertions were not imported. EPA mold cleanup/testing/health guidance supported cautious general FAQ language (https://www.epa.gov/mold/mold-cleanup-your-home ; https://www.epa.gov/mold/mold-testing-or-sampling ; https://www.epa.gov/mold/mold-and-health); no medical diagnosis or insurer decision made. The draft SEO strategy's proposed audience-neutral route was not implemented: this task preserves the existing Residential route and audience. No substitute media, global capitalization fix, header change, Service Areas expansion or schema rollout performed.
+
+---
+
 ## 2026-11-01 — Fire & Smoke517 targeted conversion update
 
 Applied page-instance content only: Hero28d93f39 now begins “24/7 emergency contact: call 847-656-3322”; mid CTA5b6138c4 changed “LET’S DISCUSS YOUR PROPERTY” to “GET HELP AFTER FIRE DAMAGE”; Why3bce386 has four residential benefits (24/7 Emergency Contact, Cleanup Through Repairs, Insurance Documentation, Clear Project Updates); FAQ1efdba75 retains exactly six items addressing immediate actions, contact/scheduling, insurance, occupancy, belongings and time/cost, preserving the existing smoke-cleanup guide link and useful technical information.
