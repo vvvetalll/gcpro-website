@@ -1,4 +1,20 @@
-# Staging affiliations — shared component, 2026-10-24
+# Staging affiliations — shared component
+
+## 2026-11-01 — Current tooltip copy; internal verification notes removed
+
+Homepage154 has no Affiliations module or logo triggers: the three matched paragraphs arrived through globally assigned Footer114 (`include/general`), recovery container957f65b, as hidden native tooltip markup, not JSON or Custom Code content. At actual browser widths1440/768/393 (scale1), all three ancestor tooltips had `display:none` and no layout boxes; “Industry Certifications & Affiliations” was absent from both the homepage DOM and saved Homepage154 content (Component1886's saved heading is “Professional Credentials & Affiliations”).
+
+Only these native Footer paragraphs changed, removing the final internal verification sentence:
+- `dd168ac > p[data-id="4613b22"]`: “GCPRO publishes a 2024 Certified Firm certificate. **Current renewal status has not been independently verified.**” → “GCPRO publishes a 2024 Certified Firm certificate.”
+- `35f4882 > p[data-id="4c0b5c5"]`: “GCPRO reports IAQA membership in its company records. **Current membership has not been independently verified.**” → “GCPRO reports IAQA membership in its company records.”
+- `039c04a > p[data-id="b287dc8"]`: “Restoration Affiliates announced GCPRO as a network member. **A current individual member profile has not been verified.**” → “Restoration Affiliates announced GCPRO as a network member.”
+
+Consumers: Footer114 is site-wide; its native tooltip text is reused by Component1886 logo triggers wherever that component renders. The existing17 service-page consumers are recorded below; current Water514 was independently checked with five initialized triggers and an opened IICRC dialog showing the corrected copy and unchanged certificate link. Custom Code1881 / `gcpro-affiliation-tooltips-js` controls interaction only and was not edited; no component, logo, link, description, organization, responsive visibility or certification claim was changed. Saved subtree comparison differs only in these three paragraph values; refreshed authenticated Home and Water DOM contain neither verification-note phrase. Physical devices and independent anonymous/cache-HIT delivery were not verified.
+
+## Historical implementation and evidence (2026-10-24–30)
+
+The records below retain the earlier copy and verification limits as internal history; they are not current customer-facing wording. Current-status evidence gaps remain internal business follow-up, not tooltip disclaimers.
+
 
 Water Damage514: https://vitaliiv1.sg-host.com/residential-services/water-damage/
 
