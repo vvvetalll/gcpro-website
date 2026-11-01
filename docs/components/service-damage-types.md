@@ -1,18 +1,30 @@
 # GCPRO — Service Damage Types
 
-## Current presentation — 2026-10-23
+## Authoritative current saved state — verified 2026-11-01
 
-Owner instruction supersedes all numbered/icon and five-card records below. Shared Atomic Component **1345** now contains six text-only articles: semantic H3 plus paragraph, with no icons, numbers, badge containers or replacement decorations. The section uses existing surface/white/navy/muted/border Variables, 32px desktop and 24px mobile card padding, 16px text gap and the existing 8px radius. A restrained shadow and fine border change on hover; no movement, links or pointer cursor. Native grid: 3 columns desktop, 2 tablet, 1 mobile with automatic rows and natural text height.
+Read-only inspection through the existing `gcpro-restoration-elementor` MCP connection confirmed shared Atomic Component **1345**, UID `component-505fb6a5-0caa-4a83-805b-7f65f8bb3c55`. [Edit the shared definition](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=1345&action=elementor).
 
-All 17 service instances retain independently editable heading/description overrides. Page-specific copy and section introductions now explain concrete damage, affected materials or confirmed services. GCPRO packs/restores belongings; storage and return logistics are not claimed. Existing Mold FAQs already state that GCPRO does not perform testing, so FAQ/Process edits were unnecessary. Heroes, numbered Process, CTA, proof galleries, SEO and other sections remain unchanged.
+- Native structure: section → container → nested **Section Heading component71** and grid → **six semantic article cards**. Each card contains an **H3 and paragraph**. The saved tree has 22 nodes.
+- Saved responsive grid: **3×2 desktop**, **2×3 tablet**, **one column mobile**. There is no centered3+2 arrangement or offset/spanning fifth card. Mobile rows use automatic, natural content height.
+- Cards have **no icons, SVGs, badges or decorative numbering**. There are no icon Override fields.
+- **15 supported text Overrides:** `eyebrow`, `heading`, `introduction`, and `type_1_title` / `type_1_description` through `type_6_title` / `type_6_description`. The section heading fields are exposed through nested71; section heading remains H2.
+- All six card H3s use **20px desktop/tablet, 18px mobile**, line-height1.35 and **color-text**. Paragraphs use the existing body and muted-text tokens.
+- Native containers, headings, paragraphs, responsive styles and supported Component Overrides provide Elementor editing. No visual-editor interaction test was performed during this inspection. There are no card markers to replace.
+- Existing section/container/stack/grid-2/card classes and brand Variables remain in use. Cards retain white backgrounds, existing padding/radius and restrained border/shadow hover treatment.
 
-No new component, class, dependency, asset upload, custom CSS/JS/PHP or media deletion. Removed six SVG elements and six badge wrappers from the shared tree; existing icon media and icons elsewhere remain. Component now has 22 nodes and 15 text override controls. Native styles live only on Component1345; reuse section/container/stack/grid-2/card classes and Heading71.
+### Instance checks and verification limits
 
-Verification: representative actual browser rendering at 1440/768/394 CSS pixels, 3/2/1 columns, six text cards, no SVGs, no mobile text clipping or horizontal overflow. All17 saved page-specific copies and unrelated element trees compared against private pre-change backups. Page517 had a concurrent Hero photo change (1589 to1217), preserved without modification by this task; all other unrelated elements matched exactly. Owner visual approval remains pending; this is browser emulation, not physical-device testing.
+Only **Water514**, **Commercial Water515** and **Fire517** instances were checked. Each references component1345, retains its own 15 text Overrides and has no local instance styles. Their saved implementations are consistent; this is not verification of all17 consumers.
 
-Rollback: restore the private pre-change Component1345 update payload and each page's pre-change scope overrides only. Do not restore whole-page backups over subsequent owner edits. Private files remain outside Git. Public copy/evidence: `docs/content/service-scope-text-cards-2026-10-23.json` and `docs/evidence/2026-10-23-service-text-cards.json`.
+The responsive layout above is confirmed from **saved MCP settings**, not fresh browser measurements. Browser inspection timed out; desktop/tablet/mobile rendering, computed geometry and visual-editor interaction verification remain **incomplete**. Earlier browser results below are historical and must not be presented as current verification.
 
-## Historical implementation records
+### Safe editing
+
+Use component1345 for shared structure/styles and supported instance Overrides for page-specific copy. Preserve nested71, six semantic cards and the existing responsive grid. Do not detach or copy descendants to vary text. No website or Elementor changes were made as part of this documentation correction.
+
+## Historical implementation records — superseded
+
+Everything below is dated implementation history, not current editing instructions or fresh browser evidence. Card counts, markers, Overrides, locators and verification results here may describe earlier revisions. The current-state section above is authoritative.
 
 
 **2026-10-22 continuation:** Water’s remaining sections have now been completed under a separate explicit instruction. This approved component and its Water Overrides are unchanged. Earlier section-only stop boundaries below are historical. See the [completed Water page record](water-damage.md).
@@ -55,7 +67,7 @@ Authenticated Chrome at1440px: five articles, correct H2/five H3 headings,556px 
 
 ## Editing, approval and recovery
 
-Edit1345 for shared structure; use the page instance’s13 Overrides for page-specific labels and copy. Keep five current cards; future optional-count requirements are a separate approved change rather than speculative controls. Do not detach, copy descendants or create a separate full definition for different text. No second page instance was created solely to test hypothetical future reuse.
+At this historical checkpoint, component1345 had five cards and 13 Overrides. This editing guidance is superseded by the current six-card, 15-text-Override definition above. No second page instance was created solely to test hypothetical future reuse.
 
 Owner approved this section, including the requested desktop3+2 adjustment. Stop here; do not build Process, Project, Recovery, Why, Guidance, Areas, FAQ or Final CTA, and do not apply whole-page SEO metadata until separately instructed. Approved Hero and its current Overrides remain preserved.
 
@@ -64,9 +76,9 @@ Private pre-change514 backup and sanitized native input/output checkpoints remai
 ## Approved3+2 layout adjustment —2026-10-22
 
 Only native layout properties on Types Grid3361ff5d and five Card nodes776ef1a0/20cf0bab/2a382dac/6c333626/419ef18a changed. One targeted read and one six-operation native update, followed by native publication. Content, H2/H3 hierarchy,13 Overrides, card colors/borders/type/padding and all page instances are untouched. No new Component, Global Class, Variable, CSS, JavaScript or script dependency. At1440px all five cards are362.66–362.67px wide; the first three share one row and the last two share a centered second row (centering error<0.01px), with no document overflow. At393px the original one-column layout is retained: five338px cards,24px padding,8px radius, no card/document overflow. Browser viewport overrides were reset. Earlier two-column desktop observations above are historical.
-# Current six-card scope pattern — 2026-10-23
+### Historical six-card SVG/badge revision — 2026-10-23
 
-Owner superseded the earlier five-card3+2 arrangement below. Existing Component1345 now has one shared native six-card design:3 desktop columns,2 tablet columns,1 mobile column. All17 service pages use six distinct service-specific aspects through21 Overrides (heading/intro/eyebrow plus six title/description/icon groups). Six meaningful items are used rather than invented damage types.
+Owner superseded the earlier five-card3+2 arrangement below. At this historical checkpoint, Component1345 had one shared native six-card design:3 desktop columns,2 tablet columns,1 mobile column. The historical rollout recorded all17 service pages using six distinct service-specific aspects through21 Overrides (heading/intro/eyebrow plus six title/description/icon groups). Six meaningful items are used rather than invented damage types.
 
 Existing section/container/stack/grid-2/card classes, spacing/color/font Variables and Heading71 retained. Replaced numeric markers with32px approved fi-rr SVGs in56px pale-blue badges; navy H3s, muted body text, white cards,8px corners and a subtle native shadow. Existing1438–1443 service assets and approved1425 House-building/1435 Comments reused; no new asset/font/library or custom CSS/JS. Native card padding32 desktop/24 mobile,24px grid gap; no old offset/spanning fifth card.
 
