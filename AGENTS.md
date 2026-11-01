@@ -24,7 +24,7 @@ These apply to every task and override everything below.
 |---|---|---|
 | **Execution** | An explicitly requested, bounded change to existing elements: text, icon, color, spacing, an approved variant swap, an approved Override value, a single link correction. | Implement the requested change. Do only the preparation and verification it needs. Do not expand scope. Stop after delivery. |
 | **Read-only analysis** | Audits, reviews, investigations, proposals, documentation reviews. | Inspect and report. Modify nothing unless the owner explicitly authorizes a specific change. |
-| **Complex implementation** | New sections or pages, shared-definition or structural changes, new code or Custom Code, link/navigation/publication changes, multi-step builds, migrations. | Follow the relevant architecture, security, backup, testing and documentation procedures in sections 5–11, within the authorized scope. |
+| **Complex implementation** | New sections or pages, shared-definition or structural changes, new code or Custom Code, structural or multi-page linking/navigation changes, publication changes, multi-step builds, migrations. | Follow the relevant architecture, security, backup, testing and documentation procedures in sections 5–11, within the authorized scope. |
 
 If a task's type is unclear, treat it as the lighter type that still fully covers the actual risk. A task becomes complex only when the change itself does (for example, a "small" edit that turns out to require a shared-definition change). Say so before proceeding. The task description alone does not make it complex.
 
@@ -155,7 +155,8 @@ Verify only what changed and its immediate dependencies, in one relevant pass. R
 |---|---|---|
 | **Execution** (small reversible Atomic edit) | Preserve the previous values or an equivalent reliable recovery reference (e.g. the pre-edit read or Elementor revision). | Read back the saved value and run one focused check of the changed block (aim for 30–60 seconds). Check the relevant responsive state only if layout is affected. No link audits, screenshot series, unchanged shared-component checks or repository scans. |
 | **Complex implementation** | A proper recoverable backup of the affected page, template or shared definition before structural or higher-risk changes. | Read back saved values. Check the editor and frontend, relevant responsive layout and keyboard operation for interactive elements. For shared definitions, check affected instances and independent Overrides. Run link checks per section 7. |
-| **Read-only analysis / documentation only** | — | Diff, content, path/link and remote-commit verification for documentation. No website retesting and no invented runtime tests. |
+| **Read-only analysis** | — | Verify the relevant evidence and report findings. Make no edits or commits; do not retest the website unless needed for the requested analysis. |
+| **Documentation-only changes** | — | Check the edited content, diff and relevant file paths/links. Verify the remote commit only if a commit was made. No website retesting or invented runtime tests. |
 
 **Cache and anonymous delivery.** After meaningful Elementor, Custom Code, CSS or JavaScript changes, decide whether SiteGround cache invalidation is needed and purge only the relevant staging cache. When a change affects public delivery or stale output is suspected, check the relevant anonymous frontend. Before diagnosing a frontend failure, compare authenticated and anonymous HTML/assets. Never claim a feature works for all visitors from an authenticated Elementor preview. See the [anonymous delivery procedure](docs/WORKFLOWS.md#anonymous-delivery-verification--e18).
 
