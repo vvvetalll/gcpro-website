@@ -779,6 +779,8 @@ No production migration, SEO redirects, launch, or deployment is authorized by t
 
 ## Evidence register
 
+**2026-11-01 — staging internal BA Hero:** MCP saved1318 comparison-only Style changes in1f285aa6/6582e65b; seven page instances and Homepage Hero unchanged. Actual Chrome1440/768/393px, scale1:21/21 containment/alignment checks; Water pointer drag/fullscreen return and Commercial photo control passed. Anonymous/physical-device checks not performed. [Authoritative record and recovery](docs/components/shared-hero.md#current-internal-beforeafter-sizing--2026-11-01).
+
 
 Use these labels throughout the documentation. Observed facts are limited to the specified read; sources can become stale.
 

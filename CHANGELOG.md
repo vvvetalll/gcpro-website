@@ -1,5 +1,9 @@
 # GCPRO changelog
 
+## Internal Before/After Hero proportions — 2026-11-01
+
+Published Shared Hero1318's comparison-only grid/frame correction; removed125% photo enlargement from BA mode and prevented focus scrolling after fullscreen. Homepage, photo modes, page instances and gallery/plugin settings preserved. Seven consumers ×1440/768/393px passed actual Chrome checks; Water drag/fullscreen passed. [Exact owners, measurements, recovery and limits](docs/components/shared-hero.md#current-internal-beforeafter-sizing--2026-11-01). Separate from pending typography centralization.
+
 ## Footer bottom navigation normalized — 2026-10-31
 
 Published staging Footer114: privacy41193072, terms4f10c537, Resources66b2f15a and back-to-top5a520a4e now share existing gcpro-footer-link with identical14px/400 plain-link styling and44px targets. Moved existing back-to-top into nav6a188526; removed its frame and Resources' conflicting text-link class. Shortened visible legal label to Terms of Use; existing native destinations3/494/2043 and #top preserved. Desktop remains a single row; mobile uses native two-column grid, copyright above. Existing footer-meta owns separator removal and24px desktop/16px mobile column gaps; local element styles own geometry/type. No new classes/scripts/plugins. Recovery snapshot3602 and scoped pre-edit read retained. Saved-tree readback and actual browser390px confirm four equal44px targets in2x2 with no text overflow; desktop matched font/decoration/frame and single-row geometry checked. Home now renders oneH1 and no removed bb42ab3; invoked staging Purge SG Cache. Physical-device and renewed anonymous delivery checks not performed.

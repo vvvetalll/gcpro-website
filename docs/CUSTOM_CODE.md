@@ -1,5 +1,11 @@
 # Custom code and dependency register
 
+## Shared Hero1318 comparison containment — 2026-11-01
+
+Owner explicitly authorized the internal Before/After proportion correction. Existing component-local Style records e-76ed9e75-39e7 (grid1f285aa6) and e-4a878ec-fdbf (frame6582e65b) own the minimal `:has([data-gcpro-hero-comparison])` mode-conditional column/frame rules. The frame also owns `& [data-gcpro-hero-comparison] .twentytwenty-container { overflow:clip; }` to prevent focus-induced internal scrolling after fullscreen. These are conditional selector CSS stored with the existing Elementor elements, not new global rules or a separately enqueued stylesheet. Native media-mode Overrides do not expose parent-wrapper layout variants. No JS, HTML widget, plugin/vendor file, body overflow rule or numeric page selector added.
+
+Seven BA consumers484/487/488/514/516/517/518; photo consumers, Homepage154 and gallery sliders are outside the condition. [Authoritative code/settings, impact inventory,21 responsive checks, functional checks, limits and scoped rollback](components/shared-hero.md#current-internal-beforeafter-sizing--2026-11-01).
+
 ## Approved Projects query scope — 2026-10-30
 
 Existing Atomic integration0.4.5 adds only the Projects main-archive limit9 and date DESC/ID DESC order via `pre_get_posts`, plus the documented WPGB initial query-string cursor seed for Loopc61e6a3. It does not alter Reading10 or other archives. Archive2232 uses native Current Query and blank Query ID; existing facet5 owns Load More. No new plugin/enqueue/CSS/JS or vendor patch. Native saved PHP readback matches source. [Cause, tests and rollback](components/projects-acf-prototype.md#2026-10-30--direct-projects-pagination-and-load-more-correction).
