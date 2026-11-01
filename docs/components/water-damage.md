@@ -1,3 +1,21 @@
+## 2026-11-01 — Content and local SEO update (applied on staging)
+
+Page 514 remains the existing Residential Water Damage page. This entry supersedes older mixed-audience copy in this record. No redesign, widget replacement or global component edits.
+
+- Rewrote the hero, six cleanup/service descriptions, four process steps, emergency CTA, three verified project descriptions, recovery services, four existing Why GCPRO cards, five practical safety instructions, service-area introduction, six FAQ answers and final CTA. Preserved actual card counts; the live Why section has four cards, not the six assumed in the request.
+- Final H1: **Emergency Water Damage Restoration in Chicago & Suburbs**. One H1; existing heading visual styles retained. Distinguishes the customer process from supporting recovery services. Project wording uses only existing bathroom/Glenview evidence; no invented damage causes or outcomes.
+- Retained SEO title **Water Damage Restoration Chicago | GCPRO**. Final description: **24/7 water damage restoration for Chicago homeowners. Water extraction, structural drying and repairs across the city and nearby suburbs. Call GCPRO now.**
+- Updated the existing custom Service graph in AIOSEO (not a second Service/entity): Residential Water Damage Restoration in Chicago; residential serviceType/description; existing Organization and WebPage @id references; Chicago and the ten existing suburb cities. No new LocalBusiness, review or FAQ schema. Coverage and response-time guarantees are not claimed.
+- Existing internal destinations retained, with clearer service anchors and the existing safety-blog link in the occupancy FAQ. A Commercial water-damage link is explicitly a separate workplace referral. Existing area links preserved; no new geographic landing pages.
+- Body edits published through native Atomic instance Overrides and page-owned text, then SEO saved through WordPress/AIOSEO. Final rendered metadata and JSON-LD read back after the final save. Existing canonical and intentional staging **noindex, nofollow** retained; staging is not indexable and no global robots settings were changed.
+- Verified all six Residential services at desktop 1440px/mobile 390px for overflow and text bounds; this page additionally at tablet 768px. Representative mobile screenshot inspected. FAQ native disclosure opens and its answer is present. Existing BEAF shortcode IDs, images, review widget, all links and layout/style structure retained. Full form submission, live phone calling and exhaustive third-party slider/widget interaction tests were not performed.
+- BBB accreditation and Lombard location were supported by the business listing. No new IICRC/IAQA/RIA certification claims, precise arrival times, insurer approval promises or guaranteed drying duration were added. Existing affiliation logos remain unchanged.
+
+The companion 2026-11-01 entry in service-page-rollout-2026-10-23.md records exact before/after audience corrections across all six pages. Earlier mixed-audience rewrite wording was corrected rather than retained as approved final copy.
+
+
+---
+
 **2026-10-26 layout update:** Existing BA cards now use `grid-3`, superseding the historical local auto-fit/two-column settings below. Native component Shortcode override failed; owner-approved manual fallback and checks: [BA layout record](before-after.md#shared-ba-grid-classes--2026-10-26).
 
 # Water Damage Restoration — completed service page

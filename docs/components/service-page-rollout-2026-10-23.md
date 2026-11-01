@@ -1,3 +1,106 @@
+## 2026-11-01 — Residential audience corrections (applied)
+
+Staging only. Audited all six published Residential service pages: headings, hero, cards, CTAs, complete FAQ answers, SEO titles/descriptions and page schema. Corrected page-instance Overrides only; no shared component definitions, global styles or Commercial pages were changed. The Residential hub is a separate parent, not an additional service page.
+
+### Water Damage — page 514
+
+| Element / native field | Before | Saved after |
+|---|---|---|
+| 2250ee45.settings.component_instance.overrides.1.override_value.value | 24/7 help for water-damaged homes and businesses in Chicago and nearby suburbs. Call GCPRO for water extraction, structural drying and repairs. | 24/7 help for water-damaged homes in Chicago and nearby suburbs. Call GCPRO for water extraction, structural drying and repairs after leaks or flooding. |
+| 749f974d.settings.component_instance.overrides.2.override_value.value | The process explains what happens next. These services address the standing water, hidden moisture and damaged materials in your home or business. | The process explains what happens next. These services address standing water, hidden moisture and damaged materials throughout your home. |
+| 43194cd8.settings.component_instance.overrides.7.override_value.value | Emergency contact, coordinated restoration and clear next steps for Chicago-area homes and businesses. | Emergency contact, coordinated restoration and clear next steps for Chicago-area homeowners. |
+| 43194cd8.settings.component_instance.overrides.15.override_value.value | Lombard-based and BBB accredited, serving Chicago homes and businesses. | Lombard-based and BBB accredited, helping Chicago homeowners recover from damage. |
+| 38d09d71.settings.component_instance.overrides.14.override_value.value | GCPRO provides water removal, structural drying, contents restoration and reconstruction for homes and businesses. The assessment determines which services and repairs your property needs; confirm what is included in the scope before work starts. Commercial owners can also review our &lt;a href="/commercial-services/water-damage/">commercial water damage services&lt;/a> for building-access and operating considerations. | GCPRO provides water removal, structural drying, contents restoration and reconstruction for your home. The assessment identifies the services and repairs you need; confirm the agreed scope before work starts. If you need help with a workplace instead, visit our separate &lt;a href="/commercial-services/water-damage/">commercial water damage services&lt;/a> page. |
+
+### Fire & Smoke — page 517
+
+Why Choose GCPRO: three inherited fields were replaced with page-instance Overrides on this page (shared definition remains unchanged):
+
+| Field | Before (inherited) | Saved after |
+|---|---|---|
+| Introduction | Restoration services for homes, businesses, and properties across the Chicago area. | Restoration services for homes and household belongings across the Chicago area. |
+| Benefit 1 heading | Residential & Commercial | Restoration for Your Home |
+| Benefit 1 description | Restoration services for homes, businesses, and commercial properties. | Houses, condos and household belongings, with work based on your home's damage. |
+
+
+### Mold — page 516
+
+Why Choose GCPRO: three inherited fields were replaced with page-instance Overrides on this page (shared definition remains unchanged):
+
+| Field | Before (inherited) | Saved after |
+|---|---|---|
+| Introduction | Restoration services for homes, businesses, and properties across the Chicago area. | Restoration services for homes and household belongings across the Chicago area. |
+| Benefit 1 heading | Residential & Commercial | Restoration for Your Home |
+| Benefit 1 description | Restoration services for homes, businesses, and commercial properties. | Houses, condos and household belongings, with work based on your home's damage. |
+
+| Element / native field | Before | Saved after |
+|---|---|---|
+| 7ebca4e9.settings.component_instance.overrides.2.override_value.value | Water recovery, moisture assessment and reconstruction address different parts of the problem. Business premises also need their own access and responsibility decisions. | Water recovery, moisture assessment and reconstruction address different parts of damage in your home. These services help connect moisture concerns with the repairs you need. |
+| 7ebca4e9.settings.component_instance.overrides.15.override_value.value | Commercial Mold Concerns | Need Commercial Help? |
+| 7ebca4e9.settings.component_instance.overrides.16.override_value.value | Find business-focused questions about premises, access and responsibilities. | This page covers homes. For mold in a workplace, use our separate commercial service. |
+| 7ebca4e9.settings.component_instance.overrides.17.override_value.value | EXPLORE Commercial Mold Concerns | EXPLORE Commercial Mold Services |
+
+### Reconstruction — page 518
+
+Why Choose GCPRO: three inherited fields were replaced with page-instance Overrides on this page (shared definition remains unchanged):
+
+| Field | Before (inherited) | Saved after |
+|---|---|---|
+| Introduction | Restoration services for homes, businesses, and properties across the Chicago area. | Restoration services for homes and household belongings across the Chicago area. |
+| Benefit 1 heading | Residential & Commercial | Restoration for Your Home |
+| Benefit 1 description | Restoration services for homes, businesses, and commercial properties. | Houses, condos and household belongings, with work based on your home's damage. |
+
+| Element / native field | Before | Saved after |
+|---|---|---|
+| 2e0fd703.settings.component_instance.overrides.2.override_value.value | Fire, water and mold work address the earlier damage. Business reconstruction has additional premises and authorization needs; use that page for commercial spaces. | Fire, water and mold restoration address damage before rebuilding. Explore the services that prepare your home for repairs and new finishes. |
+| 2e0fd703.settings.component_instance.overrides.15.override_value.value | Commercial Reconstruction | Need Commercial Repairs? |
+| 2e0fd703.settings.component_instance.overrides.16.override_value.value | Review business-premises planning questions rather than a household repair brief. | For repairs to a workplace instead of a home, see our separate commercial reconstruction service. |
+
+### Storm — page 523
+
+Why Choose GCPRO: three inherited fields were replaced with page-instance Overrides on this page (shared definition remains unchanged):
+
+| Field | Before (inherited) | Saved after |
+|---|---|---|
+| Introduction | Restoration services for homes, businesses, and properties across the Chicago area. | Restoration services for homes and household belongings across the Chicago area. |
+| Benefit 1 heading | Residential & Commercial | Restoration for Your Home |
+| Benefit 1 description | Restoration services for homes, businesses, and commercial properties. | Houses, condos and household belongings, with work based on your home's damage. |
+
+
+### Personal Property — page 521
+
+Why Choose GCPRO: three inherited fields were replaced with page-instance Overrides on this page (shared definition remains unchanged):
+
+| Field | Before (inherited) | Saved after |
+|---|---|---|
+| Introduction | Restoration services for homes, businesses, and properties across the Chicago area. | Restoration services for homes and household belongings across the Chicago area. |
+| Benefit 1 heading | Residential & Commercial | Restoration for Your Home |
+| Benefit 1 description | Restoration services for homes, businesses, and commercial properties. | Houses, condos and household belongings, with work based on your home's damage. |
+
+| Element / native field | Before | Saved after |
+|---|---|---|
+| 745c7388.settings.component_instance.overrides.2.override_value.value | These pages explain the building damage surrounding the contents work. Use Business Contents for questions about company-owned or tenant-owned items. | Explore services for the damage to your home around the contents work. Keep household belongings and building repairs in separate scopes. |
+| 745c7388.settings.component_instance.overrides.15.override_value.value | Business Contents | Business-Owned Items |
+| 745c7388.settings.component_instance.overrides.16.override_value.value | Review business-owned property and responsibility questions. | For workplace belongings, use our separate commercial contents service. |
+
+### Water Damage SEO corrections
+
+| Field | Before audience correction | Saved after |
+|---|---|---|
+| Meta description | 24/7 water damage restoration in Chicago and nearby suburbs. Water extraction, structural drying and repairs for homes and businesses. Call GCPRO now. | 24/7 water damage restoration for Chicago homeowners. Water extraction, structural drying and repairs across the city and nearby suburbs. Call GCPRO now. |
+| Service name | Water Damage Restoration in Chicago | Residential Water Damage Restoration in Chicago |
+| serviceType | Water damage restoration | Residential water damage restoration |
+| Service description | Emergency water extraction, structural drying, contents restoration and repairs for homes and businesses in Chicago and surrounding suburbs. | Emergency water extraction, structural drying, household contents restoration and repairs for homes in Chicago and surrounding suburbs. |
+
+Other five SEO titles and descriptions were reviewed and retained because they do not target commercial customers. Discrete links to separate Commercial services remain, explicitly framed as referrals for workplace enquiries; this is not an indiscriminate replacement of the word business. Global navigation/footer, reviews, logos and widgets are outside the page-copy scope.
+
+### Verification
+
+All six saved/published page trees read back. Node counts/order and existing links retained; no layout/style properties changed. Actual frontend checked at desktop 1440px and mobile 390px for all six: one H1 each, no horizontal overflow or clipped heading/paragraph/link text. Representative Water mobile screenshot inspected; Water additionally checked at tablet 768px with no text clipping/overflow. This is a targeted responsive content check, not an exhaustive browser/device audit. Water final metadata and Residential Service JSON-LD verified again after the final WordPress save (earlier checks predated that save). Native FAQ opens and contains its answer. Existing staging noindex/nofollow and self canonical retained intentionally. Cache/files cleared after body publication. No form submitted and no telephone call placed.
+
+
+---
+
 # Service-page rollout — 23 October 2026
 
 Staging only. Owner authorized the October22 semantic ownership recommendations and the existing service inventory. Sixteen previously empty Published pages now have independently editable native Atomic content. All were already Published; no Draft was promoted, route changed or new WordPress page created. Water514 remains the reference; only its first content-section Overrides changed in the later six-card instruction. Its other saved sections compare exactly with the pre-rollout snapshot.
