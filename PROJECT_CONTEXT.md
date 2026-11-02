@@ -1,8 +1,18 @@
 # GCPRO project context
 
+## Moisture Mapping and required service benefits — 2026-11-02
+
+Published Page490 copy/SEO, instruments, documented readings, precise thermal-imaging explanation, connected-service labels and Request Service links. Native Why1149 added to five missing service pages;12 existing instances retained. Certificates deferred. Saved-state checks only; browser unavailable. [Details and recovery](docs/components/moisture-mapping.md).
+
 ## Trustindex refresh completed on staging — 2026-11-02
 
 Home unchanged. Homepage Slider II design copied to nine filtered widgets serving13 service pages; four unfiltered pages use native shared Component4051. All17 saved mappings verified after native save/publish and cache refresh. Desktop Water/Water Extraction and Water mobile appearance checked. Anonymous probe403 and interaction results remain unverified; owner final visual acceptance. [Implementation and preview links](docs/integrations/2026-11-02-trustindex-refresh.md). No production changes.
+
+## Insurance text column spacing — 2026-10-31
+
+Owner requested a compact right text column beside the existing photograph. Published staging shared Insurance Support Component3796 only: introduction59b439ca/local style e-7c17d661-b615 now uses justify-content:flex-start, align-self:center,24px gap and0px vertical padding. This removes the empty distribution caused by the prior space-between/stretch combination; the text column has natural content height, vertically centered beside the photograph. Mobile retains justify-content:flex-start,24px gap/order0 and align-self:stretch. Parent grid, photograph, copy, three support-point rows, icons and native Contact Us button destination were not edited. Shared consumers inherit the component change.
+
+Native manage-elements/publish succeeded; saved readback confirms the desktop/mobile declarations. No new classes, Variables, Components, assets, CSS selectors, JS/PHP, plugins or dependencies; existing native local style controls remain the owner. Browser tools are unavailable and local execution has the previously reported sandbox-provisioning failure, so no new desktop/mobile screenshot, actual geometry or anonymous-cache verification is claimed. Owner visual acceptance remains pending. Scoped recovery: restore only introduction59b439ca's former10px vertical padding,space-between and unset align-self, retaining its original mobile behavior and unrelated current work.
 
 ## Focused external-audit checkpoint — 2026-10-30
 
@@ -777,6 +787,8 @@ No production migration, SEO redirects, launch, or deployment is authorized by t
 
 ## Evidence register
 
+**2026-11-01 — staging internal BA Hero:** MCP saved1318 comparison-only Style changes in1f285aa6/6582e65b; seven page instances and Homepage Hero unchanged. Actual Chrome1440/768/393px, scale1:21/21 containment/alignment checks; Water pointer drag/fullscreen return and Commercial photo control passed. Anonymous/physical-device checks not performed. [Authoritative record and recovery](docs/components/shared-hero.md#current-internal-beforeafter-sizing--2026-11-01).
+
 
 Use these labels throughout the documentation. Observed facts are limited to the specified read; sources can become stale.
 
@@ -897,3 +909,23 @@ Staging Home154 now uses the owner-approved page-local blue two-column Hero with
 
 
 2026-10-30 latest staging checkpoint: compact audience tiles/32px icons, Hero112px desktop48px mobile, native title-case direction, shared Why heading normalized, Header top outline/floating orange,903 mobile CTA25% threshold saved. Actual proportional frontend checks and remaining limits in latest hero-main-beaf/hero-and-audience/smart-navigation records. Preserved concurrent owner Home copy. Universal shared Photo/BA selector and rollout await explicit scoped-code approval; not complete. Wider launch blockers remain open. Production/noindex/BEAF settings unchanged.
+
+
+## Handoff — 2026-10-31 homepage copy
+
+Staging Homepage154 now has the requested scope-checked service descriptions, flexible four-step call/assessment/restoration process and cautious response-availability copy. Shared process1152, Hero styling/media and audience cards unchanged. Insurance draft3796 is unpublished; existing intermediate CTA retained until customer documentation/photos, estimates and adjuster coordination are explicitly confirmed (agent program984 is insufficient). Full implementation/verification checkpoint: docs/content/HOMEPAGE_COPY_PROPOSAL.md, 2026-10-31. Desktop frontend and native Elementor mobile preview checked; six service destinations preserved. No timed arrival guarantee found or added.
+
+
+## Handoff — owner-confirmed insurance section, 2026-10-31
+
+Vitalii confirmed customer damage documentation/photos, written restoration estimates and adjuster communication for residential/commercial projects. Insurance Component3796 is now published on Home154 (instance4ebf7d5d), replacing intermediate Emergency Restoration Support after Services; shared Heading71/accent, orange-dot eyebrow and Button59→native Contact Us496 reused. Desktop and native Elementor mobile rendering checked; CTA clicked successfully. Full copy/locators/verification in docs/content/HOMEPAGE_COPY_PROPOSAL.md; earlier insurance hold superseded for these three facts only. No free estimate/direct billing/all-insurer/coverage guarantee claims approved or added. Architecture audit not started.
+
+Owner visual refinement in the same task: Insurance3796 root69325bdd uses existing color-surface-alternate (#EFF6FF) to separate it from the adjacent white Services and Before/After sections; typography, native layout and CTA unchanged.
+
+
+2026-10-31 content checkpoint: Home154 removed both extra response-timing sentences; Hero24/7, processsteps, Insurance, audience overlap and order preserved. Home1149 instance60cdf058 now uses fact-checked local family ownership, established2008, BBB accreditation and RIA membership through supported Overrides; shared1149 and three checked other consumers unchanged. Desktop/native-mobile checked; no current license/insurance/IICRC renewal claim added. Sources/exact copy/recovery: latest docs/content/HOMEPAGE_COPY_PROPOSAL.md and docs/components/why-gcpro.md. This content milestone precedes a separate read-only architecture audit.
+
+
+## 2026-10-31 — Homepage Why benefits/icon completion
+
+Owner's latest four benefits replace the superseded ownership/history/BBB/RIA homepage copy. Home154 instance60cdf058 retains shared1149 with supported text/SVG Overrides; four individual Flaticon Uicons Regular Rounded SVGs3857–3860, native uploads, orange40px. Homepage decorative numbers removed with two scoped main-container rules; no shared definition/global styling change. Separate Affiliations1886 and its five organizations, other consumers, Hero/audience/Insurance/order unchanged. Desktop and native Elementor mobile wrapping/icon/number checks passed; physical-device and final exported screenshot not claimed. Exact copy/source/locators/recovery: docs/components/why-gcpro.md. Read-only architecture audit is unfinished and separate, with no fixes made.

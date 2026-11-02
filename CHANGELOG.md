@@ -1,8 +1,33 @@
 # GCPRO changelog
 
+## Moisture Mapping and required service benefits — 2026-11-02
+
+Published Page490 copy/SEO, instruments, documented readings, precise thermal-imaging explanation, connected-service labels and Request Service links. Native Why1149 added to five missing service pages;12 existing instances retained. Certificates deferred. Saved-state checks only; browser unavailable. [Details and recovery](docs/components/moisture-mapping.md).
+
 ## Trustindex review design refresh — 2026-11-02
 
 Preserved Home widget; created nine independent Slider II copies with existing service filters and connected them to13 service pages. Four general pages now use native shared Component4051 with Home widget. All17 remain published with URLs/titles/statuses preserved. Refreshed Elementor render caches and purged SG cache; desktop/mobile spot checks recorded. No new code/plugin/CSS. [Details, preview links and verification limits](docs/integrations/2026-11-02-trustindex-refresh.md).
+
+## Homepage typography, button case and CTA checkpoint — 2026-11-01
+
+Saved staging H2–H5 Variables as fluid approved ranges (24–28/20–24/18–20/16–18px) and connected tag Defaults to them; removed redundant breakpoint font sizes. H1, body/lead and audience-selector local exceptions preserved. Four Timeline582 headings now use process-step-title (g-88ee58e), preserving layout and the20px tablet exception; removed repeated local typography. Five existing button variants now own native uppercase; Footer114 GET DIRECTIONS reuses button-outline-white with its prior local body-font/geometry exception, and form492/496 redundant16px/600 overrides were removed. Ordinary navigation, linked-card titles and FAQ labels unchanged.
+
+Published CTA80: native panel5ec4592 owns mobile32px20px padding, container79c33bf7 owns zero inner mobile gutters and8px clipping; outer section retains20px side gutters. New semantic opt-in gcpro-final-cta-video (g-3e74b30; native position:relative) scopes existing Code847 initialization. Removed only847's competing mobile padding/radius rules; retained video URL, masks, overlay and motion/data fallbacks. Source mirror updated without a second enqueue. Home154 Hero link3df415b8 keeps native project2077 destination; local underline removed. Existing gcpro-homepage class owns the narrowly scoped `& .e-63b771d9-a0a4 > a { text-decoration:none; }` exception because the nested anchor retains tag-default decoration. Rollback: remove that one class rule and restore the prior local underline.
+
+Browser evidence: Home1440/390px at scale1, no horizontal overflow; representative visible button transforms uppercase, longest mobile availability label fits; CTA mobile20px gutters/8px radius/32px20px padding, desktop and mobile lazy playback observed. Reduced-motion emulation removes video; Hero anchor computed decoration:none. Published saved settings checked; no physical-device, renewed anonymous, exhaustive shared-consumer, all-variant hover/focus or form runtime acceptance claimed. Accepted Hero sizing, audience layout, FAQ, Insurance and affiliation-note work were skipped. Local MCP configuration correction remains separate/unverified; today's earlier write hang is not diagnosed by this checkpoint.
+
+
+## Internal Before/After Hero proportions — 2026-11-01
+
+Published Shared Hero1318's comparison-only grid/frame correction; removed125% photo enlargement from BA mode and prevented focus scrolling after fullscreen. Homepage, photo modes, page instances and gallery/plugin settings preserved. Seven consumers ×1440/768/393px passed actual Chrome checks; Water drag/fullscreen passed. [Exact owners, measurements, recovery and limits](docs/components/shared-hero.md#current-internal-beforeafter-sizing--2026-11-01). Separate from pending typography centralization.
+
+## Footer bottom navigation normalized — 2026-10-31
+
+Published staging Footer114: privacy41193072, terms4f10c537, Resources66b2f15a and back-to-top5a520a4e now share existing gcpro-footer-link with identical14px/400 plain-link styling and44px targets. Moved existing back-to-top into nav6a188526; removed its frame and Resources' conflicting text-link class. Shortened visible legal label to Terms of Use; existing native destinations3/494/2043 and #top preserved. Desktop remains a single row; mobile uses native two-column grid, copyright above. Existing footer-meta owns separator removal and24px desktop/16px mobile column gaps; local element styles own geometry/type. No new classes/scripts/plugins. Recovery snapshot3602 and scoped pre-edit read retained. Saved-tree readback and actual browser390px confirm four equal44px targets in2x2 with no text overflow; desktop matched font/decoration/frame and single-row geometry checked. Home now renders oneH1 and no removed bb42ab3; invoked staging Purge SG Cache. Physical-device and renewed anonymous delivery checks not performed.
+
+## Homepage stray Hero removed — 2026-10-31
+
+Owner requested removal of the extra block at the bottom of staging Home154. Removed only trailing root Flexbox `bb42ab3` and its unconfigured Shared Hero1318 instance `7163d6c` (`overrides: null`), then published Home154 through Elementor MCP. The existing top Hero `3253a11`, BEAF shortcode `8d1585a`, all main-page sections and shared definitions were not edited. Fresh published-tree comparison confirms the complete main subtree is unchanged and the trailing root is absent. Pre-change browser inspection showed the unwanted Residential H1 after Final CTA; the browser connection became unavailable after publication, so post-change visual/mobile/anonymous/cache delivery checks are not claimed. No links, styles, scripts, SEO settings or production changes. Pre-change snapshot revision3712 retained for recovery; restore only the removed trailing wrapper/instance if needed. This narrow cleanup does not claim completion of the universal Hero rollout.
 
 ## Owner visual refinements checkpoint — 2026-10-30
 
@@ -863,3 +888,30 @@ Owner explicitly authorized the blue Before/After Hero from Draft3625 on staging
 
 
 2026-10-30 typography trial: Homepage Hero H1 uses native local text-transform:none (sentence case); staging Header primary menu reduced18px to17px through native typography. Existing wording, layout, BEAF and other heading styles retained.
+
+
+## 2026-10-31 — Homepage scope/process copy
+
+Published scope-checked Core Services copy, homepage-only flexible process overrides and cautious Hero/Process response timing. Preserved design and links; desktop frontend and native Elementor mobile wrapping checked. Insurance section remains unpublished draft3796 pending documentation/photos, estimates and adjuster-coordination facts; current CTA retained. See existing homepage copy task checkpoint and PROJECT_CONTEXT handoff.
+
+
+## 2026-10-31 — Owner-confirmed insurance support
+
+Published completed existing Component3796 on Home154 after Services, replacing intermediate Emergency Restoration Support. Vitalii confirmed documentation/photos, written estimates and adjuster communication for residential/commercial projects; exact approved copy, native Contact Us496 CTA and desktop/mobile checks recorded in existing homepage task and partner component records. No additional insurance promises, shared Heading71 changes or architecture audit.
+
+Owner visual refinement in the same task: Insurance3796 root69325bdd uses existing color-surface-alternate (#EFF6FF) to separate it from the adjacent white Services and Before/After sections; typography, native layout and CTA unchanged.
+
+
+## 2026-10-31 — Homepage timing and trust copy
+
+Removed extra Hero/Process response-timing sentences; replaced Home-only Why copy with sourced ownership/history/BBB/RIA facts. No shared-definition/layout/Insurance/order edits; desktop/native-mobile and checked consumer preservation passed. Current certification/licensing/insurance gaps retained; sources and exact copy in existing homepage/Why records. Architecture audit is a separate subsequent read-only task.
+
+
+## 2026-10-31 — Homepage Why benefits/icon completion
+
+Owner's latest four benefits replace the superseded ownership/history/BBB/RIA homepage copy. Home154 instance60cdf058 retains shared1149 with supported text/SVG Overrides; four individual Flaticon Uicons Regular Rounded SVGs3857–3860, native uploads, orange40px. Homepage decorative numbers removed with two scoped main-container rules; no shared definition/global styling change. Separate Affiliations1886 and its five organizations, other consumers, Hero/audience/Insurance/order unchanged. Desktop and native Elementor mobile wrapping/icon/number checks passed; physical-device and final exported screenshot not claimed. Exact copy/source/locators/recovery: docs/components/why-gcpro.md. Read-only architecture audit is unfinished and separate, with no fixes made.
+
+
+## 2026-11-02 — Dehumidification491 focused content delivery
+
+Native browser/Elementor follow-up published a clearer Hero and final CTA, adjusted existing photo2011 focal_y30 and corrected its rendered alt. Preserved revised content found already saved in the editor; fresh authenticated output now shows six FAQ and the existing improved scope/process/middle CTA. Desktop/mobile390 overflow and FAQ click/Enter checks passed; no missing FAQ/opacity cause reproduced, no anonymous or physical-device verification claimed. MCP tools/config unavailable in this environment; no shared-definition or production writes. Current task details and attribution: docs/components/service-page-rollout-2026-10-23.md.

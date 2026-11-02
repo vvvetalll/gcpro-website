@@ -4,6 +4,12 @@
 
 Nine vendor configuration copies and native Component4051 reuse the existing Trustindex/Atomic integration. No new code, plugin, enqueue, Global Class or Variable. Vendor assets remain the review presentation owner. [Current mapping and dependencies](integrations/2026-11-02-trustindex-refresh.md).
 
+## Shared Hero1318 comparison containment — 2026-11-01
+
+Owner explicitly authorized the internal Before/After proportion correction. Existing component-local Style records e-76ed9e75-39e7 (grid1f285aa6) and e-4a878ec-fdbf (frame6582e65b) own the minimal `:has([data-gcpro-hero-comparison])` mode-conditional column/frame rules. The frame also owns `& [data-gcpro-hero-comparison] .twentytwenty-container { overflow:clip; }` to prevent focus-induced internal scrolling after fullscreen. These are conditional selector CSS stored with the existing Elementor elements, not new global rules or a separately enqueued stylesheet. Native media-mode Overrides do not expose parent-wrapper layout variants. No JS, HTML widget, plugin/vendor file, body overflow rule or numeric page selector added.
+
+Seven BA consumers484/487/488/514/516/517/518; photo consumers, Homepage154 and gallery sliders are outside the condition. [Authoritative code/settings, impact inventory,21 responsive checks, functional checks, limits and scoped rollback](components/shared-hero.md#current-internal-beforeafter-sizing--2026-11-01).
+
 ## Approved Projects query scope — 2026-10-30
 
 Existing Atomic integration0.4.5 adds only the Projects main-archive limit9 and date DESC/ID DESC order via `pre_get_posts`, plus the documented WPGB initial query-string cursor seed for Loopc61e6a3. It does not alter Reading10 or other archives. Archive2232 uses native Current Query and blank Query ID; existing facet5 owns Load More. No new plugin/enqueue/CSS/JS or vendor patch. Native saved PHP readback matches source. [Cause, tests and rollback](components/projects-acf-prototype.md#2026-10-30--direct-projects-pagination-and-load-more-correction).
@@ -277,3 +283,8 @@ Existing plugin integrations/gcpro-atomic-masked-image/gcpro-atomic-masked-image
 ## Current owner refinements — 2026-10-30
 
 Existing gcpro-smart-header/g-8706951 desktop custom CSS owns top Request Service outline, scoped to .header-row .button-secondary, preserving prior class CSS;903 floating CSS retains orange/white. Existing audience-card/g-38b29fb owns orange hover/focus while retaining its action/image/reduced-motion rules; non-enqueued integrations/audience-card-hover.css synchronized. Native Home grid/SVG controls own compact tiles. Existing Code903 remains Entire Site/body-end/priority5/jQuery off, now25% scroll range; integrations/scroll-navigation.js is its non-enqueued source mirror. No new controller or deployment owner. Native h1–h6 defaults/class settings own capitalization; native local responsive controls own Hero112px/48px padding. Shared image/BA selector awaits additional-code approval; no PHP/rollout claim. See latest component records for locators, actual checks and rollback.
+
+
+## 2026-10-31 — Homepage-only Why number visibility
+
+Sole owner: Home154 main container46c3aad4, native Atomic local style. Two scoped descendant rules hide `.why-benefit-number` and set `.why-benefit` to one `minmax(0,1fr)` internal track. Existing shared outer grid, icon controls, typography and global Why styles are retained. No authored page-ID selectors, new global class, stylesheet, enqueue or JavaScript. Requirement: remove decorative numbers only on homepage while shared1149's schema offers no visibility Override. Ineffective e-component-instance trial removed. Scope/recovery/actual desktop and native-mobile checks: [Why record](components/why-gcpro.md#2026-10-31--owners-four-homepage-benefits-and-matching-svgs). Rollback removes only these two local rules and restores Home content Overrides if needed; other shared consumers retain their existing numbers.

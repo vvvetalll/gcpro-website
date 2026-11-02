@@ -57,7 +57,7 @@ Every meaningful component change must update its record: purpose; page/template
 
 - [GCPRO — Shared Hero](shared-hero.md) — complete native Atomic Hero1318 on Home, Residential, Commercial and Water; native Image and eight independent Overrides. Includes Water editor initialization and historical BEAF limitations.
 
-- [Service Damage Types](service-damage-types.md) — reusable full-section1345; first Water514 instance, approved; centered desktop3+2 and mobile single column.
+- [Service Damage Types](service-damage-types.md) — Component1345: six semantic article cards (H3 + paragraph), nested Section Heading71; saved grid3×2 desktop /2×3 tablet /one column mobile; no icons, SVGs, badges or decorative numbering;15 text Overrides. H3:20px desktop/tablet,18px mobile, color-text. Saved MCP state verified2026-11-01; only Water514, Commercial Water515 and Fire517 instances checked. Browser verification remains incomplete. The linked current-state section is authoritative; earlier implementation notes are historical.
 
 - [Water Damage Restoration — completed service page](water-damage.md) — ten full-section Atomic instances, new native comparison/recovery/guidance/FAQ sections, metadata and verified limitations.
 # Service-page rollout update — 2026-10-23

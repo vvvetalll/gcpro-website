@@ -272,3 +272,8 @@ Owner requested saving the BELFOR History & Timeline screenshot as inspiration f
 
 
 2026-10-30 runtime follow-up: Projects9→18→27→36→45→52, combined filters/Enter reset, native reset focus and mobile390px whole-card focus passed. Glenview4 automatic cards point directly to projects. Remaining five Carol Stream media descriptions corrected/saved/reloaded. Exact legacy page2 AIOSEO rule added (54 total/export updated); browser destination confirmed but actual301 unverified. Direct page2 repeats initial9; this and anonymous/production-rule acceptance remain launch blockers. Evidence: docs/evidence/2026-10-30-projects-runtime-followup.json.
+
+
+## 2026-11-02 — Current Dehumidification handoff
+
+Page491 native-browser follow-up published clearer Hero/final CTA, photo2011 alt and focal_y30; inherited revised scope/process/FAQ/meta found already saved are now visible in fresh authenticated output. Six FAQ and existing tel links confirmed, mobile390 Enter/no-overflow checked; missing-FAQ animation theory unproven. No MCP connection established, anonymous/physical-device verification unclaimed. D01–D08 capability/SEO questions remain open. See current November2 entry in components/service-page-rollout-2026-10-23.md; production unchanged.

@@ -1,5 +1,17 @@
 # GCPRO design system
 
+## Current icon weight and sizing — owner direction, 2026-10-31
+
+The owner approved a lighter, consistent outline direction for GCPRO after reviewing the four homepage Why icons. This supersedes the earlier instruction to preserve Regular Rounded weight unchanged; retain the established rounded, simple, single-color visual language and familiar icon meanings.
+
+- Use one consistent rounded outline family/weight across comparable decorative service and benefit icons. Aim for a light but clearly readable line; avoid heavy outlines, solid-looking silhouettes, mixed line weights and excessive internal detail.
+- Standard large benefit/section artwork: **40×40 CSS px**. Icons adjacent to compact text: **20–24 CSS px**, selected by role and aligned consistently. Retain the existing orange/navy/white tokens appropriate to the surface.
+- Thinness must come from the selected vector artwork. Expanded filled outline paths do not become thinner through CSS `stroke-width`; do not apply blanket `fill:none`, reduce opacity, shrink layout boxes or add background-colored strokes as a substitute.
+- Keep native SVG asset controls and supported Component Overrides. Brand/credential/social logos and functional arrows retain their existing separate treatments.
+- First implementation target: only Home154's four Why icon Overrides in Component1149 instance60cdf058. Do not silently replace unrelated page icons or alter shared1149 defaults during this trial. The sitewide direction governs future selections; a complete sitewide replacement is not claimed.
+
+**Delivery status:** direction accepted and documented; thinner SVG replacement remains pending. The current session's local execution fails during sandbox provisioning with `helper_sandbox_lock_failed / Access is denied`; no SVG upload tool or browser-control tool is exposed. No artwork was uploaded/replaced, and no desktop/mobile render check of thinner icons was performed. See [icon registry](ICONOGRAPHY.md#2026-10-31--lighter-outline-direction-and-homepage-trial).
+
 **2026-10-23 — shared interaction transitions:** Added native200ms transitions to22 existing button/card/link classes; existing menu160ms transitions preserved. Commercial computed CTA/card/menu timing verified. No new effects, layouts or custom code. [Owners and checks](docs/components/interaction-transitions.md).
 
 

@@ -163,3 +163,50 @@ Before completion, check actual approved text at 1440/1200/900/390, all six card
 - **Verification:** live production/staging reads, saved154 content and four-width current-copy measurements; proposed copy not rendered or implemented. No cache purge required for documentation-only work.
 - **GitHub:** proposal/context/changelog/baseline documentation only; remote delivery reported in chat. No approved-copy or website-deployment claim.
 - **Outstanding Items:** editorial approval and P1–P6; Phase 2 responsive/anonymous checks await approved implementation.
+
+
+## 2026-10-31 — Homepage service/process copy and insurance factual hold
+
+Published on staging Homepage 154: requested Core Services introduction and all six descriptions; homepage-only overrides on Process instance 6d0939b9 (shared Component 1152 unchanged); response availability note 28bf295e beside the Hero 24/7 mark. Hero/media/audience layout, styles and all six service links remain unchanged. The process coordinates an assessment rather than promising confirmation on the initial call; PM follow-up may be needed. No timed arrival commitment was found; both cautious availability sentences are used.
+
+Scope checked against approved service-scope-text-cards-2026-10-23.json, service-rollout-2026-10-23.json and service-content-revision-2026-10-24.json. Mold copy describes affected materials/areas, not testing or a health guarantee. Existing Insurance Agent Program page 984 documents agent inquiries only and explicitly separates restoration from coverage decisions; it does not confirm routine customer claims support.
+
+Insurance replacement is UNPUBLISHED draft Component 3796: https://vitaliiv1.sg-host.com/wp-admin/post.php?post=3796&action=elementor. Current intermediate CTA remains live pending confirmation. Draft uses Section Heading 71 and neutral coverage-separation copy. Confirm exactly whether GCPRO supplies damage documentation/photos, written restoration estimates, and adjuster coordination, who supplies each and under what limits/consent. Direct billing, claim handling/approval, all-insurer claims and coverage decisions remain unapproved. Do not link the agent program as a consumer claims-assistance service.
+
+Verification: Elementor saved-tree readback and actual staging frontend confirmed all requested service/process/availability copy and six original URL destinations; desktop 1718px has no horizontal overflow. Native Elementor Mobile Portrait preview checked service wrapping and stacked process; no responsive style changes. API publication initially left stale frontend markup; a native Elementor Publish refreshed it, and frontend then showed the new copy. Backup snapshot revision was created before edits. No production/shared component/plugin changes.
+
+
+## 2026-10-31 — Owner-confirmed insurance support published
+
+Vitalii explicitly confirmed in the project conversation that GCPRO provides damage documentation/photos, written restoration estimates and adjuster communication for both residential and commercial projects. This confirmation, not the Insurance Agent Program, approves the three customer-facing support facts and supersedes the earlier insurance factual hold. No confirmation or promise of free estimates, direct billing, deductible help, all-insurer acceptance, guaranteed coverage/claim approval or response times is inferred.
+
+Existing draft Component3796 is now completed, renamed GCPRO / Insurance Support and published on staging Homepage154 as instance4ebf7d5d, immediately after Core Services and before Before/After. Replaced only old intermediate Emergency Restoration Support subtree6cde656f. Component3796 editor: https://vitaliiv1.sg-host.com/wp-admin/post.php?post=3796&action=elementor. Native section69325bdd → container/gridfdb5ecf → left59b439ca with Section Heading71 instance5746b1d in accent wrapper6c5cf9a plus Blue Outline59 CTA28943396; right69a4a2ba holds three native heading/paragraph groups. Existing container, section-heading--accent, text-muted and shared orange-dot section-eyebrow styles/tokens reused. Desktop equal two-column grid/gap4rem, tabletgap2rem, mobileonecolumn/gap1.5rem; sectionpadding3rem desktop/2remmobile, no fixed heights. Support headings18px sentence case; descriptions16px sentence case. CTA is a native Internal URL→Content object496 Contact Us, not a typed URL. No new plugin, JavaScript, custom system, global style/component71 edit, production change or architecture audit.
+
+Published approved copy:
+- Eyebrow: Insurance
+- H2: Restoration & Your Insurance Claim
+- Introduction: We help document the damage, prepare restoration estimates and communicate with your adjuster about the work. Your insurer determines coverage under your policy.
+- Damage documentation — Photos and written details of affected areas.
+- Restoration estimates — A clear scope of the proposed cleanup and repairs.
+- Adjuster communication — Answers to questions about the restoration work.
+- CTA: Talk to Our Team → existing Contact Us496.
+
+Verification: actual staging desktop frontend showed two columns, shared eyebrow/accent and single CTA; native Elementor Mobile Portrait preview showed stacked introduction/CTA and all three support points with natural wrapping. CTA was clicked and opened /contact-us/; native saved link binding496 confirmed. Homepage edit/preview restored to desktop. Before-edit signed snapshots of154/3796 retained as temporary recovery checkpoints. No form submitted; no physical-device testing claimed. Architecture audit remains unstarted.
+
+Owner visual refinement in the same task: Insurance3796 root69325bdd uses existing color-surface-alternate (#EFF6FF) to separate it from the adjacent white Services and Before/After sections; typography, native layout and CTA unchanged.
+
+
+## 2026-10-31 — Homepage timing removal and verified Why copy (before audit)
+
+Published Home154 only: deleted Hero response paragraph28bf295e rather than leaving an empty widget/gap; Process6d0939b9 description is now “Tell us what happened. We’ll help you understand the next step.” The24/7 mark, four process steps, Hero styles/media, audience overlap, Insurance3796 and current section order remain unchanged; no arrival guarantee substituted.
+
+Home Why1149 instance60cdf058 uses supported content Overrides only. Introduction: “Company history and professional relationships you can verify.” Points: (1) “Locally owned & operated” / “A family business based in Lombard, Illinois.” (2) “Established in 2008” / “Serving Chicagoland homeowners and businesses since 2008.” (3) “BBB Accredited Business” / “GCPRO, LLC is accredited by the Better Business Bureau.” (4) “RIA member” / “Listed in the Restoration Industry Association’s member directory.” Local ownership and history are distinct supported company facts; accreditation and membership are explicitly separate relationships, not certifications or guarantees.
+
+Evidence read2026-10-31: approved staging About497 copy and public company About https://gcprochicago.com/about-us/ identify local family ownership/Lombard and opening2008; BBB https://www.bbb.org/us/il/lombard/profile/fire-water-damage-restoration/gcpro-llc-0654-88372213 confirms accreditation and business-started5/2/2008; official RIA https://pro.restorationindustry.org/find-a-member/gcpro-llc lists GCPRO with matching website/address. Do not add current IICRC certification: existing affiliation record documents certificate valid only through12/31/2024. Current insurance/licensing, individual technician certifications, team headcount, IAQA/RA current renewal and guarantees remain unverified; published company license images alone were not treated as current proof. Existing credentials/affiliations1886 on service pages is preserved, not duplicated.
+
+Consumer check: current1149 shared definition and actual instances Residential484/225936ef, Commercial499/94c4cddb and Water514/43194cd8 read before/after and compare identical. All unrelated Home subtrees compare identical; Home Why remains same shared component with its original design, icons and classes. Actual staging desktop confirms removed phrases/new trust copy/no horizontal overflow; native Elementor Mobile Portrait preview confirms wrapped/stacked Why text and retained process. No physical-device, independent anonymous cache-HIT, form submission or new architecture fix claimed. Pre-edit signed Home snapshot captured for scoped recovery. Restore only deleted paragraph and prior154 instance Overrides if rolling back; do not overwrite shared definitions or unrelated owner work. Architecture audit begins only after this content commit.
+
+
+## 2026-10-31 — Homepage Why benefits/icon completion
+
+Owner's latest four benefits replace the superseded ownership/history/BBB/RIA homepage copy. Home154 instance60cdf058 retains shared1149 with supported text/SVG Overrides; four individual Flaticon Uicons Regular Rounded SVGs3857–3860, native uploads, orange40px. Homepage decorative numbers removed with two scoped main-container rules; no shared definition/global styling change. Separate Affiliations1886 and its five organizations, other consumers, Hero/audience/Insurance/order unchanged. Desktop and native Elementor mobile wrapping/icon/number checks passed; physical-device and final exported screenshot not claimed. Exact copy/source/locators/recovery: docs/components/why-gcpro.md. Read-only architecture audit is unfinished and separate, with no fixes made.

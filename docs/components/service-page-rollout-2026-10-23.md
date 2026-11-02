@@ -1,3 +1,192 @@
+## 2026-11-02 — Dehumidification491 content delivery and focused follow-up
+
+Staging only, /dehumidification/. Connected Elementor MCP tools were not exposed and ~/mcp-config.json was absent in this executor; implementation used the connected browser's native Elementor controls, not MCP. On first opening the editor, revised Hero/six scope cards/four process stages/middle CTA/six FAQ and two Related Services descriptions already existed, unlike the initially open frontend; this session did not author those inherited revisions. Preserved them and published this session's page-instance Hero description and final CTA refinements. Final Hero: “GCPRO helps dry water-damaged walls, floors and rooms in Chicago and nearby suburbs. Structural drying and dehumidification address moisture left after water removal. Call 24/7 for emergency restoration help.” Final CTA: “PLAN YOUR PROPERTY DRYING” / “Wet walls or floors after water removal? Call GCPRO to plan drying and dehumidification for your Chicago-area property.” Existing native publication completed (Publish disabled afterward); fresh authenticated frontend confirms both strings.
+
+Retained existing photo2011 /dehumidification.webp, same mask/design and horizontal focal default; set native Hero focal_y30 (formerly default50) to show more of the red dehumidifier. Updated attachment2011 alt to “Dehumidifier and blue air movers set up for drying in a kitchen.” and reselected the same full-size attachment in this page instance so the actual rendered alt updated. Shared component definitions, Header/Footer, review selection, URL, H1 and SEO title were not edited. Current rendered description already reads “GCPRO provides structural drying and dehumidification after water damage in Chicago and nearby suburbs. Call 847-656-3322 for 24/7 emergency restoration contact.”; its authorship is not attributed to this session. Staging noindex/nofollow retained. No fixed drying time, daily-monitoring promise, LGR specification or guaranteed insurance coverage added; existing D01–D08 questions remain open.
+
+Checks: authenticated fresh frontend contains revised six-card/four-stage/six-FAQ content; all six FAQ details and four inspected ancestor levels have opacity1/visible/displayed, so the reported entrance-animation cause was not reproduced or fixed speculatively. FAQ answer expands by click on desktop and Enter on summary in390px browser emulation; all six complete answers read, including equipment noise/run-time, repair readiness and conditional insurance. Existing tel:+18476563322 links were present before edits, contradicting the supplied missing-tel finding. Native desktop Hero screenshot and final390px Hero screenshot inspected; no document horizontal overflow at desktop2321 or mobile390 (375px client/scroll width). One staging Purge SG Cache action performed during verification; final photo/alt and Hero read back on fresh authenticated reload. No anonymous-session, physical-device, exhaustive hover or unrelated-page regression claim. Initial browser field action stalled; state was inspected, targeted field fill then native publication succeeded. Next: management confirmation in SERVICE_CAPABILITY_QUESTIONS.md; H1/title targeting remains a separate evidence-based decision. Production unchanged.
+
+## 2026-11-01 — Water Extraction487 emergency content and SEO update
+
+Verified existing root-level Page487 /water-extraction/ (root8afd894) and published five native instance-only Overrides: Hero1bc4cc06 replaces “Standing water is one part of a water-damage problem...” with “Call GCPRO 24/7 for emergency water extraction in Chicago and nearby suburbs”, accessible standing-water removal and next-stage moisture recovery; Scope49ccfaf8 retains six cards, puts Basement Water first and replaces repetitive Extraction Before Drying with Plumbing and Appliance Leaks; Process1f2edcac retains four stages (Assess the Water and Access / Remove Accessible Standing Water / Identify Remaining Moisture / Coordinate Drying and Recovery); CTA2411a508 changes “LET'S DISCUSS YOUR PROPERTY” to “GET EMERGENCY WATER REMOVAL”; FAQd6ef007 retains six complete answers addressing response/contact, flooded-basement safety, pipe/appliance losses, insurance, duration and structural drying. Extraction is positioned as standing-water removal, distinct from full restoration; no guaranteed arrival/completion, sewage/Category3 or equipment claims were added. Insurance documentation/estimates/adjuster messaging follows the existing owner-confirmed scope.
+
+Native AIOSEO description replaces “Discuss standing water and extraction needs...” with “24/7 emergency water extraction contact in Chicago. GCPRO removes accessible standing water from flooded basements and wet rooms. Call 847-656-3322.” Retained SEO title “Water Extraction Chicago | GCPRO”, one H1 “Water Extraction in Chicago”, canonical https://vitaliiv1.sg-host.com/water-extraction/, staging noindex/nofollow, existing schema and all 23 main-link destinations, including four Related Services (Water Damage Restoration, Moisture Mapping, Dehumidification, Commercial Water Damage). No Service/FAQPage schema added (Issue #2). Independent saved-tree readback after publish and after AIOSEO save confirmed identical 17-node structure and changes only to the five listed page instances; no shared definitions or unrelated pages were written.
+
+Verification: rendered desktop1440 and mobile390 Hero inspected, mobile FAQ expanded, all six rendered complete FAQ answers and 6/4/4 scope/process/related heading counts checked, no document horizontal overflow or measured text overflow at either width. Header/Hero/middle/final telephone hrefs are tel:+18476563322; calls/forms were not submitted. Purge SG Cache clicked once and authenticated reload confirmed new Hero/meta, six FAQs, title/canonical/robots. Anonymous retrieval attempted once but returned “Internal Error / URL is not accessible via this tool”; anonymous cache delivery is unverified. Hero BEAF1198 bathroom photographs remain unchanged as explicitly required: media2031 (Carpet Water Extraction) and2007 are possible future candidates, but authentic GCPRO-job provenance remains unverified. Management follow-up: extraction equipment, sewage/Category3 capability and dispatch/arrival commitments remain unconfirmed; no such promises published. Visual verification was representative Hero/FAQ plus DOM overflow checks, not an exhaustive screenshot of every section.
+
+## 2026-11-01 — Board-Up488 emergency conversion update
+
+Confirmed root-level Page488 /board-up/ and published native page-local copy: Hero5d54810 now begins “Call GCPRO 24/7 for emergency board-up in Chicago and nearby suburbs” while retaining approved H1 “Board-Up Service in Chicago”, existing Hero BEAF3941/photos and actions; Scope68172311 retains six specific window/door/fire/storm/awaiting-repair/multiple-opening cards; Process7d81bf11 becomes Call for Emergency Board-Up / Assess the Exposed Openings / Secure the Damaged Areas / Plan Permanent Repairs; CTA20e0f0fc becomes “GET EMERGENCY BOARD-UP HELP”; FAQ7fd6207f retains six complete practical answers on first actions,24/7 contact/scheduling, opening types, temporary protection, insurance and permanent recovery, replacing negative guarantee-led questions; Related79eb44f9 retains its four destinations with clearer stage/scope wording, and no Why section was added.
+
+Moved existing card707ecf40 to index0 in gridc1ff3ba7 without changing media/shortcode/BEAF; original direct board-up caption remains “Emergency Board-Up After Fire Damage” with garage/entrance/lower-window plywood description and no invented city; original Tinley1206/media1229/1230 and1600/media1588/1589 cards now have distinct H3 captions “Exterior Fire Restoration — Deck View, Tinley Park, IL” (11fa43ed/9b12877c) and “Exterior Fire Restoration — Side View, Tinley Park, IL” (78bfe7c1/591356c7), describing visible later trim/window/siding work rather than implying reconstruction is board-up—photographs support separate exterior views, but reviewed register does not independently prove both pairs belong to one identical property, so no new same-property assertion was published.
+
+AIOSEO title retained “Board-Up Service Chicago | GCPRO”; description now “24/7 emergency board-up contact in Chicago. Temporary protection for windows, doors and openings after fire or storm damage. Call GCPRO: 847-656-3322.”; verified published/post-SEO field readback,41-node identity/classes/styles/media preservation apart from ten intended settings and one grid-child order change (two H3 changes also affect derived tag/default_styles), desktop1440/mobile390 no horizontal/text-width overflow, three loaded project pairs/correct order/H3, six complete FAQs/mobile disclosure and moved comparison fullscreen open/close, exact unchanged rendered CTA/internal href list and Header/Hero/middle/final tel:+18476563322, self canonical/noindex,nofollow/existing BreadcrumbList/Organization/WebPage/WebSite graph, and fresh authenticated post-SG-cache reload; anonymous retrieval returned Internal Error/not accessible and divider dragging/physical devices/all destination HTTP responses were not certified, while arrival times/internal dispatch procedure, break-in/vandalism/vehicle-impact scope, roof tarping, glass cleanup, material specifications and structural/weatherproofing guarantees remain unverified and unpublished (24/7 contact plus owner-confirmed damage documentation/estimates/adjuster communication retained).
+
+## 2026-11-01 — Personal Property521 targeted contents update
+
+Published six native instance text updates: Hero61619ee8 now confidently states GCPRO packs/restores furniture and household belongings after water/fire/smoke damage with Chicago-area contact next steps; Scope20818fe1 keeps all six themes; Process279c0235 now Identify and Document Items / Plan Packing and Handling / Pack and Restore Belongings / Review Results and Next Steps; CTA1ab7f101 changes “LET’S DISCUSS YOUR PROPERTY” to “GET HELP RESTORING YOUR BELONGINGS”; Why42671675 keeps four specific packing/restoration, coordinated home recovery, clear handling and communication benefits; FAQ5948338a keeps six complete answers on eligible items, packing/pack-out, insurance records, storage/return, coverage and timing/cost, confidently stating owner-confirmed packing/restoration and damage photos/estimates/adjuster communication while requiring project-specific confirmation of detailed inventory/logistics/specialist capabilities.
+
+Retained H1 “Personal Property Restoration in Chicago” and SEO title “Personal Property Restoration Chicago | GCPRO”: the alternative Contents H1 belongs to draft M012 audience-neutral semantic recommendations, not approved K012 ownership; replaced passive AIOSEO description with “Contents restoration for Chicago-area homes after water, fire or smoke damage. GCPRO packs and restores household belongings. Call 847-656-3322.” and retained URL/self canonical/noindex,nofollow/existing graph without Service or FAQPage additions; image1989/property_restoration.webp and mask preserved after scoped packing/contents/personal-property asset and project-record review found no verified superior authentic contents case image (3304 is article artwork, not established project evidence), with original creator/license unverified in reviewed metadata and no new photo or Before/After section introduced.
+
+Published-field and post-SEO readback confirmed all intended values and unchanged18-node structure/classes/styles/links outside six settings; browser-emulated1440/390 checks found no horizontal/text-width overflow, retained6 scope/4 process/4 benefits/4 related/6 complete FAQs, inspected desktop Hero/mobile expanded FAQ, loaded original photo, correct Header/Hero/middle/final tel:+18476563322 and byte-equal rendered page-local href list, and fresh authenticated reload after SG Cache purge retained content/SEO (anonymous retrieval attempted but returned Internal Error/not accessible; no physical-device or every-destination HTTP test claimed); current reviews already include Chris Joy's pack-out/back-in, Kim Gough's belongings after fire and other storage/return experiences, but mapped widget a60462684315314dae169852f0a is shared with Commercial525, so no reordering/shared review configuration change was made—recommend a separately authorized isolated selection if prioritization is desired, and management should confirm current formal inventory/condition-record protocol, pack-out/transport/storage/access/pack-back scope, cleaning/deodorization methods, specialist electronics/documents/antiques services, logistics charges and image license before broader claims.
+
+## 2026-11-01 — Storm523 homeowner content and SEO update
+
+Published native page-only Overrides: Hero685084c0 now “Storm Damage Restoration in Chicago & Suburbs” with 24/7 contact, board-up/water/belongings/repair copy; Scope49f9345d keeps six practical cards; Process3f6124ad keeps four stages separating safe access, damage assessment, temporary protection/interior recovery and permanent repairs; CTAee0ab57 changes “LET’S DISCUSS YOUR PROPERTY” to “GET HELP AFTER STORM DAMAGE”; Why2931d6c9 keeps four benefits (24/7 Emergency Contact / Connected Storm Recovery / Insurance Documentation / Updates Through Repairs); FAQ41d95dbb keeps six complete answers covering safety, securing openings, response scheduling, coverage, timing/cost and coordinated services, without arrival/coverage guarantees or unverified tree removal, roof tarping, utility or full-roof service promises.
+
+AIOSEO title retained “Storm Damage Restoration Chicago | GCPRO”; description replaces passive “Discuss storm-related property damage…” with “24/7 emergency contact for storm-damaged homes in Chicago and nearby suburbs. Board-up, water recovery and repairs. Call GCPRO at 847-656-3322.”; saved body readback matches all requested values after publication and after native SEO save, and18-node comparison limits changes to six intended instance settings, preserving classes/styles/order, Hero image1708/organic mask, four Related Services/native destinations, reviews, Service Areas, affiliations and final CTA, with no shared-definition/unrelated-page writes or new schema.
+
+Verified browser-emulated1440/390 widths without document/text-width overflow, representative desktop/mobile Hero rendering and mobile FAQ expansion, six service cards/four process steps/four benefits/six complete answers, loaded original tree-on-roof image, unchanged rendered internal hrefs and Header/Hero/middle/final phone anchors tel:+18476563322; preserved self canonical/noindex,nofollow and existing BreadcrumbList/Organization/WebPage/WebSite graph, then clicked SG Cache purge and confirmed new content/metadata on fresh authenticated reload (anonymous retrieval attempted but returned Internal Error/not accessible; no physical-device, exhaustive destination HTTP or original screenshot comparison claim), while existing storm-specific reviews substantiate repair communication and the approved project register identifies Lombard2930 storm siding as a possible separately authorized future project feature—no new Before/After section or review-widget change made.
+
+## 2026-11-01 — Reconstruction518 targeted content and SEO completion
+
+Only Residential Reconstruction518 was edited. Native instance Overrides preserved: Hero6c1e5160 replaces “After damage-related work, the property may still need building repairs...” with “GCPRO coordinates restoration and rebuilding after water, fire or mold damage—repairing walls, ceilings, floors, kitchens and bathrooms so your home can move from cleanup to finished rooms.” Process5f5dbb52 retains four steps: Identify the Remaining Repairs / Plan the Scope and Materials / Rebuild and Finish the Spaces / Review the Completed Work. Copy separates readiness after mitigation/remediation from rebuilding, agreed materials and priorities, hidden damage/revised scope, and completion review.
+
+Middle CTA7118d757: “LET’S DISCUSS YOUR PROPERTY” → “RESTORE YOUR HOME WITH GCPRO”; supporting copy: “Call GCPRO to identify the repairs your home needs and plan the next steps toward finished rooms.” Why11924603 retains four benefits: Restoration Into Rebuilding / Connected Room Repairs / Clear Repair Estimates / Progress You Can Follow. FAQ4752c32f retains six complete homeowner answers covering start readiness, repair types, insurance, cost/hidden damage, timing and optional finishes/upgrades; existing reconstruction-guide link preserved. No guaranteed insurance coverage, dates, single-contractor arrangement, permitting or warranty claims added.
+
+Corrected duplicated bathroom card0f3c78f/999b5b5 to “Fireplace Room Restoration — Wonder Lake, IL” / “An unfinished fireplace room restored with stone finishes, flooring and painted walls.” Verified against before-after register BEAF1204/media1225/1226 and rendered fireplace-wonder-lake-1-web.webp / fireplace-wonder-lake-2-web.webp photographs. All three project titles now H3 (2b6582fd,65caea78,0f3c78f); heading Override4d202976 now “Before / After Reconstruction Projects”. Existing photos/sliders and other two captions retained.
+
+AIOSEO description changed from “Explore GCPRO property reconstruction after damage, repair planning and verified kitchen and bathroom project photos. Call to discuss your property's scope.” to “Rebuild your Chicago-area home after water, fire or mold damage. GCPRO repairs walls, floors, kitchens and bathrooms. Call 847-656-3322.” Native editor reported Page updated; rendered metadata independently confirmed. Retained title “Property Reconstruction & Repairs Chicago | GCPRO”, single approved H1, self canonical and staging noindex,nofollow. No Service/FAQPage schema or global SEO edits; rendered AIOSEO entity relationships retained (WebPage description reflects metadata).
+
+Verification: published body read back through MCP;42-node order, classes/styles, media and native destinations retained. Only the ten intended page-local elements changed settings (H3 changes also update derived tag/default_styles). Six scope cards, four Related Services including Commercial referral, reviews, affiliations, Service Areas, Header/footer and shared definitions untouched by this task. Desktop1440 and mobile390 browser checks: no horizontal/text-width overflow; representative Hero/project and expanded mobile FAQ screenshots inspected; all six answers complete in rendered DOM. Project photographs loaded and match captions. Header Call Now, Hero, middle and final phone anchors all tel:+18476563322; no phone call placed. Read all page-local CTA/internal hrefs; destinations preserved, not every linked page reopened or independently HTTP-tested. SG Cache purge clicked and fresh authenticated reload retained new content/metadata. Anonymous web retrieval attempted but returned Internal Error / URL not accessible; anonymous cache propagation is unverified. Current applicable licenses, insurance-status evidence, permit responsibility and written workmanship warranty remain management follow-ups; no such claims published. No original pre-edit screenshot comparison or exhaustive slider drag test claimed.
+
+## 2026-11-01 — Mold516 targeted homeowner content update
+
+Updated only page516's native instance Overrides: Hero6396fa7c now states “GCPRO removes mold from affected materials in Chicago-area homes” with phone/next step instead of leading with the testing exclusion; Process2d7a504a retains four steps (Review the Affected Area / Plan the Work Area / Clean or Remove Materials / Plan Moisture and Repair Work); CTA1921720e changed “LET’S DISCUSS YOUR PROPERTY” to “GET HELP WITH MOLD DAMAGE”; Why4325e31f retains four mold-specific benefits, and FAQ6fe7367a retains six practical answers covering initial action/health caution, DIY versus professional work, testing boundaries, timing, cost/insurance and recurrence, preserving the existing Glenview guide link.
+
+Published and read back all affected settings;42-node order/classes/styles, all native destinations, BEAF/media/reviews/affiliations and unrelated sections retained, with only Attic heading d97691d8 changed H2→H3 to match the other two project cards; Attic1596/media1584/1585 and Window2202/media2192/2193 are documented mold work (no new city claim), while Glenview742 (glenview-house-1.jpg / glenview-house-2.jpg) remains explicitly water restoration, with bb86c8fd clarified to “Ceiling damage repaired and a living space restored after water damage; not a documented mold-remediation case.” rather than relabeling/replacing its photographs (no unused third verified mold project was established in the scoped register).
+
+Retained SEO title “Mold Remediation & Removal Chicago | GCPRO”, H1, self canonical and intentional noindex/nofollow; AIOSEO description saved and rendered as “Mold remediation for homes in Chicago and nearby suburbs. GCPRO removes mold-affected materials and helps plan damage recovery. Call 847-656-3322.”; no Service/FAQ schema added (Issue #2 remains separate), no equipment/negative-air/HEPA protocol, certification, guaranteed prevention, timing or coverage claims added, and testing/air sampling/clearance are not offered or coordinated by GCPRO (owner reconfirmed).
+
+### Targeted verification and shared findings (read-only)
+
+- Desktop1440/mobile390: one H1, six rendered complete FAQ answers, no horizontal overflow or clipped heading/paragraph/link text; native testing FAQ opens; project headings all H3, all six project images loaded; exact frontend href list unchanged; desktop project and mobile FAQ screenshots inspected.
+- Chrome timed out on Page.getFrameTree (10000ms) after staging cache purge; one alternative in-app-browser check succeeded with final rendered content/SEO. Both browser surfaces were authenticated, so anonymous delivery is not claimed. No form submitted, actual phone call placed, physical-device test or full BEAF drag regression performed.
+- Computed main-heading text-transform is capitalize, explaining capitalized small words; this is inherited shared design, not altered text or a page516-only defect. Record for separate typography review, without overriding the established style.
+- CTA copy is uppercase in existing instance values; computed capitalize is shared. The compared saved Fire517/Mold516 CTA values are both uppercase, so a cross-page capitalization defect is not established by the supplied audit claim.
+- Chicago is absent from the shared ten-suburb visible Service Areas list, although the H1/meta explicitly target Chicago. Confirmed shared coverage-list finding for separate authorization; no city link invented.
+- Mobile header/top strip has no separate visible phone link at the top; the existing Emergency help / Call Now control is present with tel:+18476563322. A claim that mobile has no click-to-call is inaccurate; actual dialing was not tested.
+- Hero secondary remains the existing instance-selected VIEW SERVICE AREAS → native Page495. This is a deliberate supported Override variation, not a broken destination; no conversion-action swap authorized or implemented.
+
+### Evidence and recommendations not adopted
+
+Existing native page and before-after.md register establish material removal, mold projects, water recovery and reconstruction boundaries; production marketing mentions containment/filtration but does not independently establish current project-specific methods, so HEPA/negative air/moisture-monitoring protocol assertions were not imported. EPA mold cleanup/testing/health guidance supported cautious general FAQ language (https://www.epa.gov/mold/mold-cleanup-your-home ; https://www.epa.gov/mold/mold-testing-or-sampling ; https://www.epa.gov/mold/mold-and-health); no medical diagnosis or insurer decision made. The draft SEO strategy's proposed audience-neutral route was not implemented: this task preserves the existing Residential route and audience. No substitute media, global capitalization fix, header change, Service Areas expansion or schema rollout performed.
+
+---
+
+## 2026-11-01 — Fire & Smoke517 targeted conversion update
+
+Applied page-instance content only: Hero28d93f39 now begins “24/7 emergency contact: call 847-656-3322”; mid CTA5b6138c4 changed “LET’S DISCUSS YOUR PROPERTY” to “GET HELP AFTER FIRE DAMAGE”; Why3bce386 has four residential benefits (24/7 Emergency Contact, Cleanup Through Repairs, Insurance Documentation, Clear Project Updates); FAQ1efdba75 retains exactly six items addressing immediate actions, contact/scheduling, insurance, occupancy, belongings and time/cost, preserving the existing smoke-cleanup guide link and useful technical information.
+
+Corrected third project f45e18f/c534f63 from the duplicated exterior caption to “Bathroom Restoration — Tinley Park, IL” / “A fire-damaged bathroom restored with a finished vanity, tub and wall finishes”, supported by the actual loaded Tinley bathroom images and existing BEAF1208/media1249/1251 register; unchanged 42-node order, classes, styles, links, photos and slider implementation confirmed by saved-tree comparison, with no shared definitions or unrelated sections written.
+
+Retained SEO title/H1/canonical/staging noindex; AIOSEO has Web Page (Default), no page-specific Service schema, so none was added; changed meta description to “24/7 emergency contact for Chicago homeowners after fire and smoke damage. Cleanup, belongings restoration and repairs. Call GCPRO at 847-656-3322.” (verified rendered before the final caption-only publish); desktop1440/mobile390 had no overflow/clipped text, six rendered FAQ answers and native insurance disclosure verified, desktop project/mobile FAQ screenshots inspected, final caption saved/published/read back and staging cache purge clicked, but the subsequent browser read timed out at Page.getFrameTree (10000ms) and anonymous fetch was unavailable, so final post-purge delivery/metadata and final revised caption responsive recheck remain unverified, with no phone call/form submission or full BEAF interaction test performed.
+
+---
+
+## 2026-11-01 — Residential audience corrections (applied)
+
+Staging only. Audited all six published Residential service pages: headings, hero, cards, CTAs, complete FAQ answers, SEO titles/descriptions and page schema. Corrected page-instance Overrides only; no shared component definitions, global styles or Commercial pages were changed. The Residential hub is a separate parent, not an additional service page.
+
+### Water Damage — page 514
+
+| Element / native field | Before | Saved after |
+|---|---|---|
+| 2250ee45.settings.component_instance.overrides.1.override_value.value | 24/7 help for water-damaged homes and businesses in Chicago and nearby suburbs. Call GCPRO for water extraction, structural drying and repairs. | 24/7 help for water-damaged homes in Chicago and nearby suburbs. Call GCPRO for water extraction, structural drying and repairs after leaks or flooding. |
+| 749f974d.settings.component_instance.overrides.2.override_value.value | The process explains what happens next. These services address the standing water, hidden moisture and damaged materials in your home or business. | The process explains what happens next. These services address standing water, hidden moisture and damaged materials throughout your home. |
+| 43194cd8.settings.component_instance.overrides.7.override_value.value | Emergency contact, coordinated restoration and clear next steps for Chicago-area homes and businesses. | Emergency contact, coordinated restoration and clear next steps for Chicago-area homeowners. |
+| 43194cd8.settings.component_instance.overrides.15.override_value.value | Lombard-based and BBB accredited, serving Chicago homes and businesses. | Lombard-based and BBB accredited, helping Chicago homeowners recover from damage. |
+| 38d09d71.settings.component_instance.overrides.14.override_value.value | GCPRO provides water removal, structural drying, contents restoration and reconstruction for homes and businesses. The assessment determines which services and repairs your property needs; confirm what is included in the scope before work starts. Commercial owners can also review our &lt;a href="/commercial-services/water-damage/">commercial water damage services&lt;/a> for building-access and operating considerations. | GCPRO provides water removal, structural drying, contents restoration and reconstruction for your home. The assessment identifies the services and repairs you need; confirm the agreed scope before work starts. If you need help with a workplace instead, visit our separate &lt;a href="/commercial-services/water-damage/">commercial water damage services&lt;/a> page. |
+
+### Fire & Smoke — page 517
+
+Why Choose GCPRO: three inherited fields were replaced with page-instance Overrides on this page (shared definition remains unchanged):
+
+| Field | Before (inherited) | Saved after |
+|---|---|---|
+| Introduction | Restoration services for homes, businesses, and properties across the Chicago area. | Restoration services for homes and household belongings across the Chicago area. |
+| Benefit 1 heading | Residential & Commercial | Restoration for Your Home |
+| Benefit 1 description | Restoration services for homes, businesses, and commercial properties. | Houses, condos and household belongings, with work based on your home's damage. |
+
+
+### Mold — page 516
+
+Why Choose GCPRO: three inherited fields were replaced with page-instance Overrides on this page (shared definition remains unchanged):
+
+| Field | Before (inherited) | Saved after |
+|---|---|---|
+| Introduction | Restoration services for homes, businesses, and properties across the Chicago area. | Restoration services for homes and household belongings across the Chicago area. |
+| Benefit 1 heading | Residential & Commercial | Restoration for Your Home |
+| Benefit 1 description | Restoration services for homes, businesses, and commercial properties. | Houses, condos and household belongings, with work based on your home's damage. |
+
+| Element / native field | Before | Saved after |
+|---|---|---|
+| 7ebca4e9.settings.component_instance.overrides.2.override_value.value | Water recovery, moisture assessment and reconstruction address different parts of the problem. Business premises also need their own access and responsibility decisions. | Water recovery, moisture assessment and reconstruction address different parts of damage in your home. These services help connect moisture concerns with the repairs you need. |
+| 7ebca4e9.settings.component_instance.overrides.15.override_value.value | Commercial Mold Concerns | Need Commercial Help? |
+| 7ebca4e9.settings.component_instance.overrides.16.override_value.value | Find business-focused questions about premises, access and responsibilities. | This page covers homes. For mold in a workplace, use our separate commercial service. |
+| 7ebca4e9.settings.component_instance.overrides.17.override_value.value | EXPLORE Commercial Mold Concerns | EXPLORE Commercial Mold Services |
+
+### Reconstruction — page 518
+
+Why Choose GCPRO: three inherited fields were replaced with page-instance Overrides on this page (shared definition remains unchanged):
+
+| Field | Before (inherited) | Saved after |
+|---|---|---|
+| Introduction | Restoration services for homes, businesses, and properties across the Chicago area. | Restoration services for homes and household belongings across the Chicago area. |
+| Benefit 1 heading | Residential & Commercial | Restoration for Your Home |
+| Benefit 1 description | Restoration services for homes, businesses, and commercial properties. | Houses, condos and household belongings, with work based on your home's damage. |
+
+| Element / native field | Before | Saved after |
+|---|---|---|
+| 2e0fd703.settings.component_instance.overrides.2.override_value.value | Fire, water and mold work address the earlier damage. Business reconstruction has additional premises and authorization needs; use that page for commercial spaces. | Fire, water and mold restoration address damage before rebuilding. Explore the services that prepare your home for repairs and new finishes. |
+| 2e0fd703.settings.component_instance.overrides.15.override_value.value | Commercial Reconstruction | Need Commercial Repairs? |
+| 2e0fd703.settings.component_instance.overrides.16.override_value.value | Review business-premises planning questions rather than a household repair brief. | For repairs to a workplace instead of a home, see our separate commercial reconstruction service. |
+
+### Storm — page 523
+
+Why Choose GCPRO: three inherited fields were replaced with page-instance Overrides on this page (shared definition remains unchanged):
+
+| Field | Before (inherited) | Saved after |
+|---|---|---|
+| Introduction | Restoration services for homes, businesses, and properties across the Chicago area. | Restoration services for homes and household belongings across the Chicago area. |
+| Benefit 1 heading | Residential & Commercial | Restoration for Your Home |
+| Benefit 1 description | Restoration services for homes, businesses, and commercial properties. | Houses, condos and household belongings, with work based on your home's damage. |
+
+
+### Personal Property — page 521
+
+Why Choose GCPRO: three inherited fields were replaced with page-instance Overrides on this page (shared definition remains unchanged):
+
+| Field | Before (inherited) | Saved after |
+|---|---|---|
+| Introduction | Restoration services for homes, businesses, and properties across the Chicago area. | Restoration services for homes and household belongings across the Chicago area. |
+| Benefit 1 heading | Residential & Commercial | Restoration for Your Home |
+| Benefit 1 description | Restoration services for homes, businesses, and commercial properties. | Houses, condos and household belongings, with work based on your home's damage. |
+
+| Element / native field | Before | Saved after |
+|---|---|---|
+| 745c7388.settings.component_instance.overrides.2.override_value.value | These pages explain the building damage surrounding the contents work. Use Business Contents for questions about company-owned or tenant-owned items. | Explore services for the damage to your home around the contents work. Keep household belongings and building repairs in separate scopes. |
+| 745c7388.settings.component_instance.overrides.15.override_value.value | Business Contents | Business-Owned Items |
+| 745c7388.settings.component_instance.overrides.16.override_value.value | Review business-owned property and responsibility questions. | For workplace belongings, use our separate commercial contents service. |
+
+### Water Damage SEO corrections
+
+| Field | Before audience correction | Saved after |
+|---|---|---|
+| Meta description | 24/7 water damage restoration in Chicago and nearby suburbs. Water extraction, structural drying and repairs for homes and businesses. Call GCPRO now. | 24/7 water damage restoration for Chicago homeowners. Water extraction, structural drying and repairs across the city and nearby suburbs. Call GCPRO now. |
+| Service name | Water Damage Restoration in Chicago | Residential Water Damage Restoration in Chicago |
+| serviceType | Water damage restoration | Residential water damage restoration |
+| Service description | Emergency water extraction, structural drying, contents restoration and repairs for homes and businesses in Chicago and surrounding suburbs. | Emergency water extraction, structural drying, household contents restoration and repairs for homes in Chicago and surrounding suburbs. |
+
+Other five SEO titles and descriptions were reviewed and retained because they do not target commercial customers. Discrete links to separate Commercial services remain, explicitly framed as referrals for workplace enquiries; this is not an indiscriminate replacement of the word business. Global navigation/footer, reviews, logos and widgets are outside the page-copy scope.
+
+### Verification
+
+All six saved/published page trees read back. Node counts/order and existing links retained; no layout/style properties changed. Actual frontend checked at desktop 1440px and mobile 390px for all six: one H1 each, no horizontal overflow or clipped heading/paragraph/link text. Representative Water mobile screenshot inspected; Water additionally checked at tablet 768px with no text clipping/overflow. This is a targeted responsive content check, not an exhaustive browser/device audit. Water final metadata and Residential Service JSON-LD verified again after the final WordPress save (earlier checks predated that save). Native FAQ opens and contains its answer. Existing staging noindex/nofollow and self canonical retained intentionally. Cache/files cleared after body publication. No form submitted and no telephone call placed.
+
+
+---
+
 # Service-page rollout — 23 October 2026
 
 Staging only. Owner authorized the October22 semantic ownership recommendations and the existing service inventory. Sixteen previously empty Published pages now have independently editable native Atomic content. All were already Published; no Draft was promoted, route changed or new WordPress page created. Water514 remains the reference; only its first content-section Overrides changed in the later six-card instruction. Its other saved sections compare exactly with the pre-rollout snapshot.

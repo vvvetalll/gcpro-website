@@ -1,5 +1,11 @@
 # Current main Hero — approved split layout with BEAF
 
+## Current native project-caption link — 2026-11-01
+
+Scoped Homepage154 cleanup replaces only caption9057c36's inline hardcoded staging anchor with native Paragraph link **3df415b8**, bound through **Internal URL → Post → existing published Tinley Park project2077**. The original9057c36 remains as the unchanged caption prefix “Tinley Park, IL · Fire restoration ·” (native span); native local flex row **26a81fe0** groups it with “View project →”, preserving right alignment,12px presentation and the existing destination. No custom HTML/CSS/JS, new project, shared definition or dependency was added. Hero media8d1585a, content, buttons and outer layout remain unchanged.
+
+Saved readback confirms the object binding; actual authenticated frontend resolves the same project URL and renders one real anchor with tabindex0. Project2077 was opened and confirmed by its body postid and H1 “Home Restoration — Tinley Park, IL”. At actual1562px/scale1, caption dimensions remain657.61×16.80px before/after. Requested1440/768/393 visual comparison and completed keyboard activation remain unverified after the browser-control failures; see [scoped verification and private recovery](core-services-b.md#current-heading-architecture--2026-11-01). Older descriptions of the caption's inline URL are historical.
+
 **Current,2026-10-22:** The page-owned Hero described below has been replaced by a complete instance of [GCPRO — Shared Hero1318](shared-hero.md), using a native Image and independent content/link Overrides. Earlier Hero element IDs, slider instructions and layout descriptions below are historical. Other page sections and BEAF galleries are preserved.
 
 E70–E71, 2026-10-20. Implemented/published only on https://vitaliiv1.sg-host.com. Owner first approved Concept B as main, requested removal of old background code, then explicitly requested the first existing BEAF comparison in the CURRENT main Hero. No duplicate Hero or new experiment created by E71. Production untouched.

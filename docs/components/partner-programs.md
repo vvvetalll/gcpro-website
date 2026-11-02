@@ -61,3 +61,54 @@ After separate content/publication approval: approve public destinations and pro
 Menu screenshot: outputs/gcpro-partner-programs-navigation.png. No staging cache purge was necessary for non-public new Drafts and an unassigned menu; no current visitor-rendered layout changed.
 
 Rollback: first check dependencies/content since this record. Keep or move only982–986 to recoverable Trash if explicitly authorized, children before parent; never remove existing Pages. Menu13 is unassigned and can be retained as a preparation record or removed through the normal menu UI only with authorization. No Header/Footer/code rollback is needed. Git revert changes documentation, not WordPress; no full-site restore drill performed.
+
+
+## Customer insurance support — owner confirmation, 2026-10-31
+
+Distinct from Agent Program984: Vitalii explicitly confirmed damage documentation/photos, written restoration estimates and adjuster communication for residential and commercial customers. Existing Insurance Component3796 now published on Home154 as4ebf7d5d after Services; source69325bdd/gridfdb5ecf uses shared Heading71+accent, global orange-dot eyebrow, native Button59 bound to Contact Us496 and three editable native heading/paragraph groups. Desktop two columns, mobile stacked; local Atomic spacing/grid and sentence-case point text, existing brand tokens/classes, no JS/plugin/shared-definition edits. CTA navigation and desktop/native-mobile rendering checked; no free-estimate, billing, insurer-acceptance or coverage/approval promise. Exact approved copy and recovery/verification scope: docs/content/HOMEPAGE_COPY_PROPOSAL.md, latest insurance checkpoint. Earlier factual hold is superseded only for those three confirmed support services.
+
+Owner visual refinement in the same task: Insurance3796 root69325bdd uses existing color-surface-alternate (#EFF6FF) to separate it from the adjacent white Services and Before/After sections; typography, native layout and CTA unchanged.
+
+
+## Insurance visual refinement — 2026-10-31
+
+Published existing Insurance3796 on Home154 in its unchanged position/light-blue surface: left Heading71/introduction/Button59→Contact Us496 preserved byte-for-byte; right69a4a2ba now holds three compact white native cards2c9b21c2/35d2c961/44952f64, reusing card styling with16px padding,8px corners,1px color-border, no shadows, navy600/16px Montserrat headings at all breakpoints and dark16px descriptions (approved copy unchanged).
+Individual Flaticon Uicons Regular Rounded SVGs: [File image10469600](https://www.flaticon.com/free-icon-font/file-image_10469600)→3863, [Calculator3914400](https://www.flaticon.com/free-icon-font/calculator_3914400)→3864, [Comments5070422](https://www.flaticon.com/free-icon-font/comments_5070422)→3865; native e-svg controls24×24px/color-accent, no icon backgrounds, no library/plugin/custom controller or component detachment, with native card-grid/text/icon styles stored only in3796.
+Staging desktop and Elementor Mobile Portrait checked: white cards/no shadows,16px headings,24px orange icons, mobile cards303px client/scroll widths without overflow and natural stacking; Contact Us destination retained, Elementor generated files refreshed after stale CSS, no physical-device/anonymous-cache certification claimed; restore3796's prior right-hand children for rollback, preserving its left side, Home instance and all other components.
+
+
+## Insurance composition correction — 2026-10-31
+
+Published native layout-only edits in existing Insurance3796: fdb5ecf is a single-column24px-gap stack, introduction59b439ca is left-aligned/max720px with its existing CTA beneath, and69a4a2ba is an equal three-column16px-gap card grid that becomes one column on mobile; existing cards now stack icon→heading→description, without shadows or fixed heights.
+Latest owner correction uses color-text graphite headings and color-primary navy24px icons; approved wording, Heading71/Button59→native Contact Us496, light-blue background,16px typography,8px corners,16px card padding, existing component/element IDs and page position retained, with no Home/Services/other component writes.
+Desktop confirmed three368px cards with equal154.8px natural height and720px introduction; native Elementor Mobile Portrait confirmed305px single-column grid/cards303px client=scroll widths, and CTA's frontend destination remains /contact-us/; restore only the six layout styles and six heading/icon color values for scoped rollback, with no detach/new section/class/plugin/code owner.
+
+
+## Approved open-column Insurance layout — 2026-10-31
+
+Applied the approved separate visual proposal to existing Insurance3796 only: native introduction59b439ca now has Heading71/copy left (max690px) and existing Button59→Contact Us496 right; below,69a4a2ba has three equal open columns, preserving original copy, SVG assets3863–3865,16px typography, light-blue background and homepage position.
+Removed only the three points' card class/local surface/border/radius/padding, retained natural icon→heading→description order, and matched the accepted mockup's orange24px icons/navy bold headings; native32px desktop grid gaps and24px mobile gaps, no new elements/component/class/plugin/JS or homepage/Services writes.
+Saved readback confirms all element IDs/copy/icon bindings unchanged; actual Elementor desktop showed three357.3px columns, transparent/no-border/no-shadow points and right-aligned CTA, Mobile Portrait showed one305px column with all point scrollWidth=clientWidth and CTA after introduction, existing contact destination retained; physical-device/anonymous-cache acceptance not claimed, scoped recovery restores only3796's prior local styles and three card-class assignments.
+
+
+## Separate Insurance photo-composition review draft — 2026-10-31
+
+Created unpublished Canvas Page3872, root7ad9fd/grid6b617040, solely for owner's two-column Insurance review: neutral native placeholder5b54bb78 occupies40% beside text326e12e6 at60%, using existing Heading71/accent and Button59→Contact Us496 with the approved introduction and three simple16px text rows; no icons, cards, photos, generated/stock media or new shared component.
+Native grid/order/aspect-ratio and existing container/tokens keep the placeholder approximately4:5 on desktop and4:3 on mobile, where text/CTA precede the placeholder; actual desktop frontend shows orange-dot/line and435px/653px columns, native Elementor Mobile Portrait shows text first and305px client=scroll width.
+Review only: [draft preview](https://vitaliiv1.sg-host.com/?page_id=3872&preview_id=3872&preview=true) and [native editor](https://vitaliiv1.sg-host.com/wp-admin/post.php?post=3872&action=elementor); never published/placed on homepage, Home154 and Insurance3796 untouched, and no physical-device or public-route acceptance claimed.
+
+
+## Homepage Insurance photo/text layout published — 2026-10-31
+
+Updated existing Insurance3796/root69325bdd and its unchanged Home154 instance in place, using native40/60 gridfdb5ecf: existing shared Heading71/approved introduction, three retained text rows and Button59→Contact Us496 are grouped in59b439ca; support gaps reduced24→16px, three SVG elements removed, no cards/shadows/numbers.
+New neutral photo-area container59652a97 (Navigator “GCPRO team photo placeholder — replace using Background image”) uses existing color-border and native Background image controls for the future real owner-supplied photograph; no image sourced/generated/uploaded, no desktop height/min-height/aspect ratio, stretching only to469px text height, while mobile text/CTA precede its4:3 placeholder.
+Published staging only: saved copy/CTA bindings match prior values, actual desktop435.2/652.8px columns/equal content height and native Elementor Mobile Portrait305px client=scroll width/text-first order checked; retained light-blue background/orange heading accent/section position, with no Home tree/neighbour/shared-heading/button/draft3872 edits; rollback restores pre-change3796 tree and removes only the new placeholder, and physical-device/anonymous-cache verification is not claimed.
+
+
+2026-10-31 owner alignment correction: preserved the existing stacked point headings/descriptions, approved copy, supplied native image77f7c37 and all other styles; only Insurance3796 text container59b439ca now distributes its three content groups with native justify-content:space-between (mobile:flex-start), matching the photo's natural height, with desktop539px text/photo heights and top/button-bottom differences0px verified; the temporary text-row typography/layout trial was fully reverted.
+
+
+2026-10-31 Insurance3796: added three native decorative4px circles (2fbc4d4d/58977302/72dfee2a) in existing point rows, color-text-muted at60% opacity with12px text gap, per owner's neutral-marker correction; actual frontend confirms all three4×4px/gray/no orange, while photo/copy/CTA and stretched text alignment remain unchanged, and no custom CSS/JS/global class was added.
+
+
+2026-10-31 owner icon trial: replaced the three neutral dots in Insurance3796 with the previously selected Regular Rounded native SVG assets3863/3864/3865 (elements349eab2e/bd9087e/12e1e959),56px square/color-text-muted at65% opacity with16px gap and vertical centering; actual desktop confirms56px icons against55.2px heading+description groups/no row overflow, preserving copy/photo/CTA and stretched text alignment with no new assets or custom code.

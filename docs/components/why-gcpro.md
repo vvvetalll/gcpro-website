@@ -1,5 +1,13 @@
 # Why GCPRO — shared section and certifications
 
+## 2026-10-31 — Requested thinner homepage icons: pending
+
+Owner approved lighter rounded outlines and a consistent sitewide decorative-icon direction; see [design standard](../DESIGN_SYSTEM.md#current-icon-weight-and-sizing--owner-direction-2026-10-31) and [current asset/Override register](../ICONOGRAPHY.md#2026-10-31--lighter-outline-direction-and-homepage-trial).
+
+First change is scoped to Home154/60cdf058's four existing SVG Overrides (current3857/3858/3859/3860), keeping40px boxes and all text/layout/color settings. Shared Component1149 defaults and other page consumers are outside this trial. The lighter appearance must be present in actual SVG contours; CSS stroke-width does not thin expanded filled outline paths.
+
+**Actual state:** documentation updated; website icon replacement blocked and unperformed. Local execution cannot start because sandbox provisioning reports `helper_sandbox_lock_failed / Access is denied`; no SVG-upload/browser capability is exposed. Existing four icons remain assigned. No new media/classes/Variables/Components/CSS/JS/plugins/dependencies or publications; no new desktop/mobile validation. Recovery currently requires no WordPress action because no website change occurred.
+
 **2026-10-23 — owner-selected icon direction:** The owner approved **Flaticon Uicons Regular Rounded** and reported applying **House-building / Shield-check / Diagram-project / Comments**. Comments supersedes Comment-check. This research/documentation session made no component/page/media edits and did not independently re-inventory the new SVG attachment IDs; historical IDs below must not be assumed current. Future changes must follow [ICONOGRAPHY](../ICONOGRAPHY.md) and the [approved style rule](../DESIGN_SYSTEM.md#approved-icon-family--flaticon-uicons-regular-rounded), retaining native per-instance Overrides and verifying real SVG paint before rollout.
 
 
@@ -73,3 +81,47 @@ Final owner clarification verified: certifications label computed text-align:lef
 ## 2026-10-24 — Water Damage affiliation trial
 
 Page514 alone now has a native navy affiliation section between Reviews and FAQ. Instance43194cd8 clears only the five trust-image Overrides; shared1149 and other pages are unchanged. Owner review is required before extending the larger section. See [implementation, source verification, screenshots and rollback](affiliations.md).
+
+
+## 2026-10-31 — Homepage timing removal and verified Why copy (before audit)
+
+Published Home154 only: deleted Hero response paragraph28bf295e rather than leaving an empty widget/gap; Process6d0939b9 description is now “Tell us what happened. We’ll help you understand the next step.” The24/7 mark, four process steps, Hero styles/media, audience overlap, Insurance3796 and current section order remain unchanged; no arrival guarantee substituted.
+
+Home Why1149 instance60cdf058 uses supported content Overrides only. Introduction: “Company history and professional relationships you can verify.” Points: (1) “Locally owned & operated” / “A family business based in Lombard, Illinois.” (2) “Established in 2008” / “Serving Chicagoland homeowners and businesses since 2008.” (3) “BBB Accredited Business” / “GCPRO, LLC is accredited by the Better Business Bureau.” (4) “RIA member” / “Listed in the Restoration Industry Association’s member directory.” Local ownership and history are distinct supported company facts; accreditation and membership are explicitly separate relationships, not certifications or guarantees.
+
+Evidence read2026-10-31: approved staging About497 copy and public company About https://gcprochicago.com/about-us/ identify local family ownership/Lombard and opening2008; BBB https://www.bbb.org/us/il/lombard/profile/fire-water-damage-restoration/gcpro-llc-0654-88372213 confirms accreditation and business-started5/2/2008; official RIA https://pro.restorationindustry.org/find-a-member/gcpro-llc lists GCPRO with matching website/address. Do not add current IICRC certification: existing affiliation record documents certificate valid only through12/31/2024. Current insurance/licensing, individual technician certifications, team headcount, IAQA/RA current renewal and guarantees remain unverified; published company license images alone were not treated as current proof. Existing credentials/affiliations1886 on service pages is preserved, not duplicated.
+
+Consumer check: current1149 shared definition and actual instances Residential484/225936ef, Commercial499/94c4cddb and Water514/43194cd8 read before/after and compare identical. All unrelated Home subtrees compare identical; Home Why remains same shared component with its original design, icons and classes. Actual staging desktop confirms removed phrases/new trust copy/no horizontal overflow; native Elementor Mobile Portrait preview confirms wrapped/stacked Why text and retained process. No physical-device, independent anonymous cache-HIT, form submission or new architecture fix claimed. Pre-edit signed Home snapshot captured for scoped recovery. Restore only deleted paragraph and prior154 instance Overrides if rolling back; do not overwrite shared definitions or unrelated owner work. Architecture audit begins only after this content commit.
+
+
+## 2026-10-31 — Owner's four homepage benefits and matching SVGs
+
+Supersedes the earlier homepage history/BBB/RIA copy in this record. Published staging Home154 > Why component1149 instance60cdf058 only, using supported content/SVG Overrides. Navy section, existing heading/accent/eyebrow, typography, orange color-accent and responsive layout retained. No component detachment or duplicated shared definition. Separate Affiliations1886 with all five organizations is unchanged; shared1149 and checked Residential484, Commercial499 and Water514 consumers remain unchanged.
+
+Approved copy:
+- **From Cleanup to Rebuild** — One team for emergency cleanup, restoration and the repairs that follow.
+- **24/7 Emergency Contact** — Reach our team day or night when property damage happens.
+- **Local Chicagoland Team** — Based in Lombard, serving Chicago and the surrounding suburbs.
+- **Restoring Your Property & Belongings** — Help with damaged spaces and the personal property inside.
+
+Introduction: “Restoration support for your home or business, from the first cleanup through the repairs that follow.” Homepage optional trust-image Overrides are empty; no BBB/RIA or other association references remain in this block. This does not remove or reinterpret the separate affiliation facts.
+
+Individual original SVGs downloaded from the owner's Flaticon account, all Uicons **Regular Rounded** (fi-rr, viewBox24), then uploaded through Elementor's native Upload SVG / Media Library controls and assigned to its four exposed SVG properties. No icon geometry edited, library enqueued or plugin installed:
+| Benefit | Source | Media asset |
+| --- | --- | --- |
+| Cleanup | [Tools11270161](https://www.flaticon.com/free-icon-font/tools_11270161) |3857 tools.svg |
+| Emergency | [Timer clock call16310024](https://www.flaticon.com/free-icon-font/timer-clock-call_16310024) |3858 timer-clock-call.svg |
+| Local | [Map marker home5074065](https://www.flaticon.com/free-icon-font/map-marker-home_5074065) |3859 map-marker-home.svg |
+| Property/belongings | [Warehouse alt9240018](https://www.flaticon.com/free-icon-font/warehouse-alt_9240018) |3860 warehouse-alt.svg |
+
+Warehouse alt depicts a simple building with boxes, matching the property/belongings concept. Existing native SVG controls retain40×40px/orange currentColor. Premium download was available; no separate license certificate is claimed archived.
+
+Decorative item numbers hidden only on Home using two scoped rules in its existing main container46c3aad4 local style: `& .why-benefit-number { display: none; }` and `& .why-benefit { grid-template-columns: minmax(0, 1fr); }`. The shared schema exposes no number-display Override; changing its definition would affect other pages. The second rule removes the now-empty number track, without duplicating base styling. No new global class/stylesheet/JS. An ineffective instance-local trial was removed; this is the sole active local owner. See CUSTOM_CODE.md. Process step numbers remain.
+
+Verification: staging desktop shows four exact benefits with four orange40×40 SVGs and hidden item numbers, without horizontal overflow. Native Elementor Mobile Portrait preview shows stacked items, natural wrapping (including the long fourth heading), all four305px-wide benefit containers with scrollWidth305, all icons40×40 and numbers display:none. No clipping of card text or squeezed icons observed. Shared1149/Affiliations1886 saved trees and unrelated Home sections compare unchanged. Desktop editor restored and homepage reopened; browser transport then disconnected, so no final exported screenshot/physical-device or anonymous-cache certification is claimed. No production change. Architecture audit remains separate and unfinished; no architecture fixes implemented.
+
+Recovery: restore only this Home instance's previous Overrides and remove these two main-container rules. Preserve shared1149/1886, other page consumers and unrelated homepage work. Uploaded icons can remain unused; do not delete shared assets blindly.
+
+## Mandatory service-page coverage — 2026-11-02
+
+Owner requires this existing native1149 on every service page. Added five missing consumers487/488/489/490/491;12 other service consumers retained. No shared-definition or certificate changes. [Locators and verification](moisture-mapping.md).
