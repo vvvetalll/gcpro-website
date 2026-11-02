@@ -59,7 +59,7 @@ Created: 2026-11-01. **Purpose:** collect uncertain operational/service claims f
 |---|---|---|
 | M01 | Which containment, HEPA/negative-air, vacuuming, drying-monitoring and cleaning procedures are performed? | OPEN |
 | M02 | Is there a third verified mold case to replace the Glenview water-only case? | OPEN |
-| M03 | Owner previously stated GCPRO does not perform or coordinate mold testing, air sampling or post-remediation clearance; reconfirm only if company policy changes. | REPORTED NOT OFFERED |
+| M03 | GCPRO does not provide mold air testing. No air sampling, laboratory mold testing or certified mold-inspection claim is authorized. Reconfirm only if policy changes. | Confirmed — Owner instruction, 2026-11-02; separate remediation service retained |
 
 ## Personal Property / Contents — /residential-services/personal-property-restoration/
 
@@ -92,3 +92,24 @@ Created: 2026-11-01. **Purpose:** collect uncertain operational/service claims f
 3. Obtain separate permission for any page-level text/SEO changes; do not silently revise previously approved copy.
 4. Check cross-page consistency: hero, process, FAQ, meta descriptions, related services and limits.
 5. Verify saved content and desktop/mobile layouts after any approved edits; preserve staging noindex until separately authorized launch.
+
+## Odor Removal and Moisture Mapping — 2026-11-02 update
+
+This is the existing centralized register; do not create a duplicate. New rows use Pending / Confirmed / Rejected; legacy OPEN means Pending. Department TBD until management assigns ownership. No email sent. These ten pending questions belong to this task; older unrelated open rows remain.
+
+| ID | Service/page | Exact question | Current/proposed wording | Responsible department | Status | Source/date | Required website action |
+|---|---|---|---|---|---|---|---|
+| O01 | Odor Removal489; cross-reference F01 | Which deodorization methods and equipment are actually used? | Methods selected for source/material; no equipment names | Department TBD | Pending | Owner task, 2026-11-02 | Add specific methods only after confirmation |
+| O02 | Odor Removal489; E02 | Is sewage-related odor remediation offered, and under what conditions? | Educational contaminated-water odor-source card; no company capability promise | Department TBD | Pending | Owner task, 2026-11-02 | Confirm scope before adding service/acceptance claims |
+| O03 | Odor Removal489 | Does GCPRO provide HVAC/duct cleaning, or only treat surrounding building materials? | No duct-cleaning claim | Department TBD | Pending | Owner task, 2026-11-02 | Keep HVAC service claims absent until confirmed |
+| O04 | Odor Removal489; P04 | Which belongings can be cleaned and deodorized? | Some items may be suitable, depending on material/contamination/damage | Department TBD | Pending | Owner task, 2026-11-02 | Consolidate with P04; add only approved categories |
+| O05 | Odor Removal489 | Which methods require occupants to leave, and what return precautions apply? | Occupancy depends on selected treatment; precautions explained before work | Department TBD | Pending | Owner task, 2026-11-02 | Add method-specific instructions only after confirmation |
+| O06 | Odor Removal489 | Are standardized service timeline estimates supported by job data? | Timeline depends on source/area/material condition | Department TBD | Pending | Owner task, 2026-11-02 | No numeric estimate or guarantee until confirmed |
+| O07 | Odor Removal489; G02 | What claim documentation is provided and how are adjusters involved? | Coverage referred to insurer; no universal process promise | Department TBD | Pending | Owner task, 2026-11-02 | Consolidate under G02 with odor-specific evidence |
+| O08 | Odor Removal489 | What inspection/completion criteria evaluate odor treatment? | Treated areas assessed for further cleaning/restoration | Department TBD | Pending | Owner task, 2026-11-02 | Add verified criteria without absolute elimination guarantee |
+| MM01 | Moisture Mapping490; D02 | Are moisture readings documented and available to customers and insurers? | Readings documented and shared with customer/adjuster | Department TBD | Confirmed | Owner affirmative reply, 2026-11-02 | Keep current statement; no unconfirmed photo/report-format promise; resolves this subset of D02/G02 only |
+| MM02 | Moisture Mapping490; D02 | How frequently are readings repeated during drying? | Repeat checks; no daily interval | Department TBD | Pending | Owner task, 2026-11-02 | Confirm frequency before specifying a schedule; remaining D02 subset |
+| MM03 | Moisture Mapping490 | What is a typical inspection duration and what changes it? | Depends on affected area/material/access | Department TBD | Pending | Owner task, 2026-11-02 | No numeric duration until confirmed |
+| MM04 | Moisture Mapping490 | Are moisture meters, thermal imaging and a hygrometer used? | All three named; thermal patterns distinguished from direct moisture measurement | Department TBD | Confirmed | Owner affirmative reply, 2026-11-02 | Retain; specific models/method details not verified |
+
+MM01 includes both documentation availability and insurance sharing, avoiding separate duplicate questions. General G02/D02 remain open for other services and detailed procedures. IICRC asset/certificate refresh remains explicitly deferred by owner, not validated by this task.

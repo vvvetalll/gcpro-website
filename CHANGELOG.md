@@ -1,5 +1,9 @@
 # GCPRO changelog
 
+## Odor Removal copy and SEO — 2026-11-02
+
+Published owner-supplied Page489 copy through Elementor MCP; separately authorized AIOSEO title/description update. Preserved shared design, buttons/links, Why, reviews and certificates. Saved readback and focused1440/390 frontend check; no carousel defect confirmed. Existing capability register now tracks8 Odor and2 unresolved Moisture questions with confirmed facts separated. [Task record and limits](docs/components/service-page-rollout-2026-10-23.md).
+
 ## Moisture Mapping and required service benefits — 2026-11-02
 
 Published Page490 copy/SEO, instruments, documented readings, precise thermal-imaging explanation, connected-service labels and Request Service links. Native Why1149 added to five missing service pages;12 existing instances retained. Certificates deferred. Saved-state checks only; browser unavailable. [Details and recovery](docs/components/moisture-mapping.md).
