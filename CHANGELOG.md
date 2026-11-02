@@ -1,5 +1,9 @@
 # GCPRO changelog
 
+## Trustindex review design refresh — 2026-11-02
+
+Preserved Home widget; created nine independent Slider II copies with existing service filters and connected them to13 service pages. Four general pages now use native shared Component4051 with Home widget. All17 remain published with URLs/titles/statuses preserved. Refreshed Elementor render caches and purged SG cache; desktop/mobile spot checks recorded. No new code/plugin/CSS. [Details, preview links and verification limits](docs/integrations/2026-11-02-trustindex-refresh.md).
+
 ## Owner visual refinements checkpoint — 2026-10-30
 
 Staging Home compact audience tiles replace large photo wrappers with existing32px icons; whole-card destinations retained, orange focus/hover owner. Native Hero padding112px desktop/48px mobile, heading capitalization and shared Why source corrected. Header top CTA navy outline/floating orange verified. Existing903 now gates mobile bottom CTA at25% scroll range; saved script matches mirror. Home desktop/mobile no overflow, card focus/links and below/above-threshold states checked; Water/Resources/Projects desktop heading/overflow checks. No exhaustive anonymous/full-site QA, pointer-hover capture or renewed menu-suppression claim. Preserved owner-edited Home copy. Universal shared image/BA rollout awaits additional-code approval; not implemented. No production/noindex/BEAF changes. See latest component records and work-plan checkpoint.

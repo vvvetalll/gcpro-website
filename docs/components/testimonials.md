@@ -1,5 +1,9 @@
 # Testimonials
 
+## Trustindex refresh — 2026-11-02
+
+Current Home public ID is `d274cef84f6389753e464c4df17`, Slider II/layout5; Home unchanged. Nine independent copies now serve13 service pages with preserved tag/manual filters. New native Component4051 uses the already installed Atomic Trustindex widget and the Home ID on487/488/489/490. Existing section wrappers/headings remain. No new CSS/JS/plugin. [Current mapping, ownership, recovery and actual verification limits](../integrations/2026-11-02-trustindex-refresh.md). Earlier IDs below are dated history.
+
 Actual Trustindex integration, separate from Why GCPRO.
 
 | Field | Current implementation |

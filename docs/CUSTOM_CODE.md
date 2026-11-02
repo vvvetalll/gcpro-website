@@ -1,5 +1,9 @@
 # Custom code and dependency register
 
+## Trustindex refresh — 2026-11-02
+
+Nine vendor configuration copies and native Component4051 reuse the existing Trustindex/Atomic integration. No new code, plugin, enqueue, Global Class or Variable. Vendor assets remain the review presentation owner. [Current mapping and dependencies](integrations/2026-11-02-trustindex-refresh.md).
+
 ## Approved Projects query scope — 2026-10-30
 
 Existing Atomic integration0.4.5 adds only the Projects main-archive limit9 and date DESC/ID DESC order via `pre_get_posts`, plus the documented WPGB initial query-string cursor seed for Loopc61e6a3. It does not alter Reading10 or other archives. Archive2232 uses native Current Query and blank Query ID; existing facet5 owns Load More. No new plugin/enqueue/CSS/JS or vendor patch. Native saved PHP readback matches source. [Cause, tests and rollback](components/projects-acf-prototype.md#2026-10-30--direct-projects-pagination-and-load-more-correction).

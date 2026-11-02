@@ -1,5 +1,9 @@
 # GCPRO project context
 
+## Trustindex refresh completed on staging — 2026-11-02
+
+Home unchanged. Homepage Slider II design copied to nine filtered widgets serving13 service pages; four unfiltered pages use native shared Component4051. All17 saved mappings verified after native save/publish and cache refresh. Desktop Water/Water Extraction and Water mobile appearance checked. Anonymous probe403 and interaction results remain unverified; owner final visual acceptance. [Implementation and preview links](docs/integrations/2026-11-02-trustindex-refresh.md). No production changes.
+
 ## Focused external-audit checkpoint — 2026-10-30
 
 Owner requested finish/handoff before the full new audit was completed. Fixed Water Hero1453 local horizontal boundary using existing Shared1318 treatment; no global html/body clipping, photo/scale/decorative/design change. Actual Chrome1265/1440/390 scrollWidth equals clientWidth. Fixed only Service facet1 accessible name using native Facet Title; remaining Location/property labels pending. Five visible Water credential logos are healthy; hidden tooltip wording/interaction cleanup remains open. Added all external findings, separate from agent checks, to the existing work plan audit table. Resources menu, Schaumburg case, Lombard CTA/copy and decorative-metadata review still pending; no unrelated gate marked passed. Production/noindex/security unchanged. [Evidence](docs/evidence/2026-10-30-focused-prelaunch-audit.json) · [Active checklist](docs/seo/2026-10-29-resources-selection.md#external-browser-audit--focused-pre-launch-bug-pass2026-10-30).
