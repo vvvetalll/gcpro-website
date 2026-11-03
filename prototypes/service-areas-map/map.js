@@ -11,6 +11,7 @@ function init(root){
  const chicago=root.querySelector('.gc-map-chicago');if(chicago){const directory=columns.nextElementSibling.querySelector('a[href]');if(directory)chicago.href=directory.href;columns.firstElementChild.prepend(chicago);}
  const chicagoArea=panel.querySelector('.gc-map-chicago-area');if(chicago&&chicagoArea)pairs.push({path:chicagoArea,link:chicago});
  root.dataset.mapReady='true';container.classList.add('gc-map-layout');columns.classList.add('gc-map-links');container.firstElementChild.classList.add('gc-map-intro');columns.nextElementSibling.classList.add('gc-map-actions');container.insertBefore(panel,columns.nextElementSibling);
+ const left=document.createElement('div');left.className='gc-map-left';const actions=container.querySelector('.gc-map-actions');container.insertBefore(left,columns);left.append(columns,actions);
  const svg=panel.querySelector('svg'),ns='http://www.w3.org/2000/svg',world=document.createElementNS(ns,'g');
  svg.prepend(world);world.append(svg.querySelector('.gc-map-context'),svg.querySelector('.gc-map-features'));
  const controls=document.createElement('div');controls.className='gc-map-zoom';controls.setAttribute('role','group');controls.setAttribute('aria-label','Map zoom controls');
