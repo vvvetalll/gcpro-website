@@ -1,5 +1,9 @@
 # GCPRO changelog
 
+## Elk Grove Village finalization — 2026-11-03
+
+Published staging529 with practical home/office/warehouse guidance grounded in official Village sources, approved Local Team/real Lombard office, full Reviews section, Affiliations, useful FAQ and page-specific SEO/Service schema. Existing six shared68 instances, Process and single final CTA preserved; no shared-definition changes or invented projects. Desktop/mobile checks completed; anonymous403 limitation recorded. Owner stopped repeated verification of established shared components: future work checks changed page-specific content/layout only. [Implementation, IDs and limitations](docs/seo/2026-10-26-geographic-implementation.md#elk-grove-village-finalization--2026-11-03).
+
 ## Highland Park finalization and shared cards — 2026-11-03
 
 Published staging528 with authentic licensed City Hall photo, customer-oriented Hero, compact guidance, approved Local Team layout, complete Reviews section, Affiliations, FAQ/final CTA and Service schema. Preserved four projects and all six card contents/URLs. Owner-directed shared Component68 now centrally owns approved card interactions across its66 direct instances; removed527 duplicate CSS. Actual1440/390 checks and all six service navigations on both527/528 passed; anonymous HTTP403 and roofing responsibility S05/S06 remain documented limitations. No production or service-page edits. [Details](docs/seo/2026-10-26-geographic-implementation.md#highland-park-finalization-and-shared-interactive-card68--2026-11-03).
