@@ -66,5 +66,21 @@
       "page_id": 530,
       "area_change_ratio": 0.001
     }
-  ]
+  ],
+  "water_sources": [
+    {
+      "url": "https://www2.census.gov/geo/tiger/TIGER2026/AREAWATER/tl_2026_17031_areawater.zip",
+      "sha256": "7a31f2bc220fb9a9ff1791dc3b0732d4ca9f47dbb18d4b5be4733b2623765134"
+    },
+    {
+      "url": "https://www2.census.gov/geo/tiger/TIGER2026/AREAWATER/tl_2026_17097_areawater.zip",
+      "sha256": "ea56ccb6e28552ba65d654649f8153591cacf29af0cfcba8de60eae5d40552b9"
+    }
+  ],
+  "chicago_reference": {
+    "geoid": "1714000",
+    "latitude": "+41.8370453",
+    "longitude": "-087.6849386",
+    "type": "Census internal point, non-navigation landmark"
+  }
 }

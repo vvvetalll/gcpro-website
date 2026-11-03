@@ -972,3 +972,14 @@ Native browser/Elementor follow-up published a clearer Hero and final CTA, adjus
 ### Owner map visual refinement — 2026-11-03
 
 Draft4104 only: extended real geographic context across the full right map viewport without stretching city shapes. Removed desktop510px height cap; mobile340px retained. Active municipality now orange fill only, no dark stroke; native list indicator and city label preserved. Saved/readback and390/1440 overflow checks passed; computed active fill rgb(240,90,41), stroke none. Existing1140 unchanged. Expanded SVG194KB / compiled fragment202KB raw supersede initial sizes. Implementation commit fcb6db4.
+
+
+### Owner zoom, hover and geographic-context follow-up — 2026-11-03
+
+Draft4104 only. Added100–300% zoom in50% steps, Reset, bounded mouse/touch dragging and arrow-key panning. Six-pixel drag threshold suppresses accidental city clicks; default-scale touch scrolling retained. Controls are created only with JS. No wheel/pinch zoom. Actual150% mouse drag and390px touch drag changed the transform; Reset returned100%. Native destinations preserved.
+
+Final owner visual decision supersedes earlier light-orange-fill/underline instructions: city text and arrow turn orange with a thin orange separator across the full row; no background fill, left stripe or text underline. Default city/map/control labels use graphite text token; focus retains2px navy outline. List dimensions/spacing and original inactive separators preserved. Browser computed checks confirmed transparent background, no box shadow, no text decoration, orange active text/arrow/border and visible focus. Scoped prototype color rules override native link specificity without editing1140.
+
+Owner authorized Chicago as a non-navigation geographic landmark (Census1714000 internal point41.8370453,-87.6849386), not an11th city link. Lake Michigan uses official2026 AREAWATER Cook17031/Lake17097 data, named lake faces plus adjoining H2030 water faces (including channel-named offshore faces); source URLs/checksums in geography.json. Real shoreline, muted-blue fill, graphite labels. Initial lake-face naming gaps corrected. All10 featured municipalities unchanged. Both landmark and lake move with zoom. No runtime downloads.
+
+Actual1440/390 overflow checks passed; final desktop geographic context inspected and screenshot delivered locally. Source JS/CSS decoding explicitly UTF-8. Draft status/readback confirmed. Shared1140/global resources/production untouched. Physical-device/pinch testing not claimed. Rebuild now also requires the two AREAWATER ZIPs beside the PLACE ZIP. Remove draft-local widget to roll back; no rollout authorized.

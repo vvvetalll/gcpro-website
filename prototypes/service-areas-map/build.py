@@ -44,6 +44,28 @@ background=[]
 for d,g in records:
     if d['GEOID'] not in ids and g.intersects(clip):
         background.append('<path d="'+path(g.intersection(clip).simplify(90,preserve_topology=True))+'"/>')
+# Official Lake Michigan water polygons; build-time inputs beside the PLACE archive.
+waters=[]; water_candidates=[]; water_sources=[]
+for county in ['17031','17097']:
+    name=f'tl_2026_{county}_areawater'; water_file=archive.parent/(name+'.zip')
+    wz=zipfile.ZipFile(water_file); wr=shapefile.Reader(shp=wz.open(name+'.shp'),shx=wz.open(name+'.shx'),dbf=wz.open(name+'.dbf'))
+    for sr in wr.iterShapeRecords():
+        record=sr.record.as_dict()
+        if record.get('MTFCC')=='H2030':
+            geometry=transform(project,shape(sr.shape.__geo_interface__))
+            water_candidates.append(geometry)
+            if record.get('FULLNAME')=='Lk Michigan': waters.append(geometry)
+    water_sources.append({'url':'https://www2.census.gov/geo/tiger/TIGER2026/AREAWATER/'+name+'.zip','sha256':hashlib.sha256(water_file.read_bytes()).hexdigest()})
+named_lake=unary_union(waters)
+# Include adjoining official lake/pond water faces (some carry channel names).
+lake=unary_union([g for g in water_candidates if g.intersects(named_lake)]).intersection(clip).simplify(45,preserve_topology=True)
+assert lake.is_valid and not lake.is_empty
+lx,ly=point(*lake.representative_point().coords[0])
+water=f'<g class="gc-map-water" aria-label="Lake Michigan"><path d="{path(lake)}"/><text x="{lx:.1f}" y="{ly:.1f}" text-anchor="middle">Lake Michigan</text></g>'
+chicago=next(d for d,g in records if d['GEOID']=='1714000')
+cx,cy=point(*project(float(chicago['INTPTLON']),float(chicago['INTPTLAT'])))
+assert 0<cx<W and 0<cy<H
+landmark=f'<g class="gc-map-landmark" aria-label="Chicago geographic reference"><circle cx="{cx:.1f}" cy="{cy:.1f}" r="4"/><text x="{cx-9:.1f}" y="{cy+4:.1f}" text-anchor="end">Chicago</text></g>'
 features=[]; registry=[]
 for d,g,l in selected:
     simplified=g.simplify(45,preserve_topology=True)
@@ -54,11 +76,11 @@ for d,g,l in selected:
     name=html.escape(d['NAME']); geoid=d['GEOID']
     features.append(f'<path class="gc-map-city" data-geoid="{geoid}" data-city="{name}" data-x="{x:.1f}" data-y="{y:.1f}" d="{path(simplified)}"><title>{name}</title></path>')
     registry.append({'name':d['NAME'],'geoid':geoid,'page_id':l['page_id'],'area_change_ratio':round(delta,6)})
-svg='<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 580" aria-label="Featured Chicagoland municipalities" class="gc-map-svg"><g class="gc-map-context" aria-hidden="true">'+''.join(background)+'</g><g class="gc-map-features">'+''.join(features)+'</g><g class="gc-map-north" aria-hidden="true"><text x="600" y="28">N</text><path d="M600 38V67M594 46L600 38L606 46"/></g></svg>'
+svg='<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 580" aria-label="Featured Chicagoland municipalities" class="gc-map-svg"><g class="gc-map-context" aria-hidden="true">'+''.join(background)+water+'</g><g class="gc-map-features">'+''.join(features)+landmark+'</g><g class="gc-map-north" aria-hidden="true"><text x="600" y="28">N</text><path d="M600 38V67M594 46L600 38L606 46"/></g></svg>'
 (HERE/'map.svg').write_text(svg,encoding='utf-8')
-manifest={'source':'https://www2.census.gov/geo/tiger/TIGER2026/PLACE/tl_2026_17_place.zip','version':'TIGER/Line 2026','source_sha256':hashlib.sha256(archive.read_bytes()).hexdigest(),'projection':'EPSG:26916 / NAD83 UTM16N','simplification_meters':45,'context_simplification_meters':90,'cities':registry}
+manifest={'source':'https://www2.census.gov/geo/tiger/TIGER2026/PLACE/tl_2026_17_place.zip','version':'TIGER/Line 2026','source_sha256':hashlib.sha256(archive.read_bytes()).hexdigest(),'projection':'EPSG:26916 / NAD83 UTM16N','simplification_meters':45,'context_simplification_meters':90,'cities':registry,'water_sources':water_sources,'chicago_reference':{'geoid':'1714000','latitude':chicago['INTPTLAT'],'longitude':chicago['INTPTLON'],'type':'Census internal point, non-navigation landmark'}}
 (HERE/'geography.json').write_text(json.dumps(manifest,indent=2)+'\n',encoding='utf-8')
-css=(HERE/'map.css').read_text();js=(HERE/'map.js').read_text()
+css=(HERE/'map.css').read_text(encoding='utf-8');js=(HERE/'map.js').read_text(encoding='utf-8')
 fragment='<style>'+css+'</style><div class="gc-map-fallback"><div class="gc-map-panel" data-gc-map-panel><div class="gc-map-caption"><span>Chicagoland</span><span>Featured municipalities</span></div>'+svg+'<div class="gc-map-selection" aria-live="polite"><span data-map-label>Explore a location</span><a data-map-visit hidden>View city page <span aria-hidden="true">→</span></a></div><p class="gc-map-note">Featured locations shown for reference. Contact GCPRO to confirm service availability.</p><p class="gc-map-source">Municipal boundaries: US Census Bureau · TIGER/Line 2026</p></div></div><script>'+js+'</script>'
 (HERE/'prototype-widget.html').write_text(fragment,encoding='utf-8')
 print(json.dumps({'cities':registry,'svg_bytes':len(svg.encode()),'widget_bytes':len(fragment.encode())},indent=2))

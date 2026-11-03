@@ -17,3 +17,5 @@ No runtime geographic downloads, map service, keys, package dependencies or addi
 No-JS: the original native list/actions remain in their original layout; the styled static map follows them. Popup1801 retains its existing JavaScript dependency. With JS: intro → list → map → actions in DOM/mobile order, two columns on desktop; polygons select and expose a native-derived destination link. Keyboard Enter/Space selects; Escape clears; touch never redirects on first selection.
 
 Removal: trash draft4104 or remove its two children (1140 instance and local HTML widget) after approval to remove. No shared component/global code recovery is required. Preserve these source files as a reproducible reference. Do not publish this draft or alter1140 without the next explicit approval.
+
+Latest owner refinement: zoom/pan controls, graphite labels, orange text/full-row separator without fill on interaction, Chicago reference point and Lake Michigan official water geometry. Build requires tl_2026_17031_areawater.zip and tl_2026_17097_areawater.zip beside the PLACE archive; URLs/checksums are in geography.json. These supersede initial visual details above.
