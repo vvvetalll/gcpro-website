@@ -230,3 +230,8 @@ This is a working reviewed-browser prototype, **not approved production integrat
 Owner reviews the layout/behavior at4104. Only after explicit approval: back up1140 and its override schema, add a single shared SVG/integration owner, retain native city links and current heading/action Overrides, attach stable geography keys, test representative service/hub consumers, then authorize rollout. Do not copy HTML widgets into17 service pages. Popup1801 remains independent.
 
 Rollback/removal is confined to draft4104: remove its local HTML widget and1140 instance, or trash the draft when authorized. No existing page, shared definition or global code needs restoration. Source files are recoverable in Git. Outstanding: owner visual/behavior approval and separately authorized shared integration; no rollout performed.
+
+
+### Owner map visual refinement — 2026-11-03
+
+Draft4104 only: extended real geographic context across the full right map viewport without stretching city shapes. Removed desktop510px height cap; mobile340px retained. Active municipality now orange fill only, no dark stroke; native list indicator and city label preserved. Saved/readback and390/1440 overflow checks passed; computed active fill rgb(240,90,41), stroke none. Existing1140 unchanged. Expanded SVG194KB / compiled fragment202KB raw supersede initial sizes. Implementation commit fcb6db4.

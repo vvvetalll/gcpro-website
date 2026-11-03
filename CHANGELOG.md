@@ -967,3 +967,8 @@ Owner's latest four benefits replace the superseded ownership/history/BBB/RIA ho
 Native browser/Elementor follow-up published a clearer Hero and final CTA, adjusted existing photo2011 focal_y30 and corrected its rendered alt. Preserved revised content found already saved in the editor; fresh authenticated output now shows six FAQ and the existing improved scope/process/middle CTA. Desktop/mobile390 overflow and FAQ click/Enter checks passed; no missing FAQ/opacity cause reproduced, no anonymous or physical-device verification claimed. MCP tools/config unavailable in this environment; no shared-definition or production writes. Current task details and attribution: docs/components/service-page-rollout-2026-10-23.md.
 
 `n2026-11-03 follow-up: enabled missing native fullscreen button on Commercial Fire BEAF4087; verified enlarged comparison and close action.
+
+
+### Owner map visual refinement — 2026-11-03
+
+Draft4104 only: extended real geographic context across the full right map viewport without stretching city shapes. Removed desktop510px height cap; mobile340px retained. Active municipality now orange fill only, no dark stroke; native list indicator and city label preserved. Saved/readback and390/1440 overflow checks passed; computed active fill rgb(240,90,41), stroke none. Existing1140 unchanged. Expanded SVG194KB / compiled fragment202KB raw supersede initial sizes. Implementation commit fcb6db4.
