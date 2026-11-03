@@ -24,8 +24,12 @@ for link in links:
     selected.append((d,g,link))
 extent=unary_union([g for d,g,l in selected]).bounds
 x0,y0,x1,y1=extent; pad=5500; x0-=pad;y0-=pad;x1+=pad;y1+=pad
-W=640; H=580; scale=min((W-24)/(x1-x0),(H-24)/(y1-y0))
-ox=(W-(x1-x0)*scale)/2;oy=(H-(y1-y0)*scale)/2
+W=640; H=580; scale=min(W/(x1-x0),H/(y1-y0))
+# Extend the real geographic context to the entire map viewport, without stretching cities.
+cx=(x0+x1)/2; cy=(y0+y1)/2
+x0=cx-W/(2*scale); x1=cx+W/(2*scale)
+y0=cy-H/(2*scale); y1=cy+H/(2*scale)
+ox=0; oy=0
 def point(x,y):return ((x-x0)*scale+ox,(y1-y)*scale+oy)
 def path(g):
     out=[]
