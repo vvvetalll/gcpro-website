@@ -1,5 +1,10 @@
 # GCPRO changelog
 
+## Unified Trustindex card styling — 2026-11-03
+
+Updated11 existing vendor configurations through native settings: white cards, light1px borders, existing12px radius/20px padding and typography retained. Preserved IDs, service tags/manual selections, page references, rating summary and section layouts; no custom CSS or new widgets. Saved-value comparisons passed; updated Water514 frontend visually confirmed. Owner stopped further verification; final responsive/interaction and full post-cache acceptance remain unverified, including the existing4051 renderer limitation. [Configuration, inventory, verification limits and rollback](docs/integrations/2026-11-02-trustindex-refresh.md#unified-native-card-appearance--2026-11-03).
+
+
 ## Shared Service Areas map integration — 2026-11-03
 
 Published approved interactive map through existing Component1140 and central Custom Code4134 on staging. Chicago native link first; existing Overrides, ten city links, CTA actions and Popup1801 preserved. Removed duplicate draft-local runtime from4104. All21 published consumers checked in authenticated browser;1440/768/390 layouts,11 destinations,22 synchronized hover cases, keyboard/direct navigation, touch two-tap, pan/zoom/Reset and CTA popup verified. Anonymous Home passed; other guest checks blocked by SiteGround. No production or eligibility changes; GEO01–GEO04 open. [Full task record, inventory, limits and rollback](docs/components/service-areas.md#shared-interactive-map-rollout--2026-11-03).
