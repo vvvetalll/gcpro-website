@@ -1,5 +1,10 @@
 # GCPRO changelog
 
+## Residential Reviews width correction — 2026-11-03
+
+Moved existing4051 into the approved service-page Reviews wrapper on484, with native1200px container, heading and responsive gutters/spacing. Published; desktop/mobile computed widths checked. Agent browser still returns empty widget markup, so full widget visual acceptance remains unverified. Shared definitions and unrelated content unchanged. See the existing Residential task record.
+
+
 ## Residential hub Reviews and Affiliations — 2026-11-03
 
 Published native instances of existing Reviews4051 and Affiliations1886 on staging484 between Service Areas and FAQ, in that order. Original page subtree verified unchanged outside the two insertions; shared components/footer/production untouched. Affiliations renders with five loaded logos; Reviews4051 returns an empty block in frontend and Elementor preview. Task remains incomplete pending renderer diagnosis and reliable desktop/mobile visual acceptance. [Task record, exact instances and limits](docs/components/residential-services.md#residential-hub-reviews-and-affiliations--2026-11-03).
@@ -924,4 +929,3 @@ Owner's latest four benefits replace the superseded ownership/history/BBB/RIA ho
 ## 2026-11-02 — Dehumidification491 focused content delivery
 
 Native browser/Elementor follow-up published a clearer Hero and final CTA, adjusted existing photo2011 focal_y30 and corrected its rendered alt. Preserved revised content found already saved in the editor; fresh authenticated output now shows six FAQ and the existing improved scope/process/middle CTA. Desktop/mobile390 overflow and FAQ click/Enter checks passed; no missing FAQ/opacity cause reproduced, no anonymous or physical-device verification claimed. MCP tools/config unavailable in this environment; no shared-definition or production writes. Current task details and attribution: docs/components/service-page-rollout-2026-10-23.md.
-
