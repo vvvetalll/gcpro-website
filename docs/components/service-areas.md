@@ -358,3 +358,19 @@ Authenticated browser checks:1440px columns share top181.96 and bottom891.35, eq
 
 ### CTA column width — 2026-11-03 (verification incomplete)
 Shared Component1140 saved through Homepage154 → select Service Areas → Edit Component; direct standalone component editor remained on Loading, while in-context editing worked. Area actions73c11252 local Style → Custom CSS now contains `width: 100%; & a { width: 100%; }` (Elementor supplies the outer element.style wrapper); previous custom CSS was empty, so clearing this field rolls back the change; no global/button-definition, link, popup or visual-token changes were made. Authenticated frontend at1440px confirms both CTA widths394.55px with the same left/right edges as city rows and heights52.53px, and Check Service Availability opens Popup1801; browser control timed out during the directory-action check and then recovery, leaving directory navigation,768/390px, anonymous delivery and final visual acceptance unverified.
+
+
+### CTA hover sweep — 2026-11-03
+Published on staging only through Homepage154 → Edit Service Areas1140 → Area actions73c11252 → local Style/Custom CSS. Added the following nested rules, preserving all pre-existing CSS (including width rules); remove only this addition to roll back. Existing default transparent backgrounds, primary #1A327D / accent #F05A29, hover white text, border/radius, typography, spacing, destinations and Popup1801 remain owned by their existing definitions. No global CSS, JS, dependencies or component additions.
+
+```css
+/* CTA hover sweep */
+& a { position: relative; isolation: isolate; }
+& a::before { content: ""; position: absolute; inset: 0; border-radius: inherit; background-color: var(--color-primary); transform: scaleX(0); transform-origin: left center; transition: transform 280ms ease; z-index: -1; pointer-events: none; }
+& a.button-outline-orange::before { background-color: var(--color-accent); }
+& a:is(:hover, :focus-visible) { background-color: transparent; }
+& a:is(:hover, :focus-visible)::before { transform: scaleX(1); }
+@media (prefers-reduced-motion: reduce) { & a::before { transition: none; } }
+```
+
+Authenticated desktop default-style before/after comparison matched widths394.552px, heights52.5312px, padding16px24px, Montserrat60016px/19.2px,8px radius, colors/borders and hrefs. Browser-forced hover/focus states verified both original fill colors, white text, scale0→1→0,280ms duration and preserved focus outlines; emulated reduced-motion gives0s. Actual keyboard Tab focus and Enter popup open passed. Actual390px viewport verified both334.667px-wide/52.5312px-high buttons below the map, Popup open/close, and directory navigation; desktop directory navigation also reached /service-area/. Screenshot visually confirms text above fill. Emulation overrides cleared. Anonymous delivery, physical-device testing and final owner visual acceptance are not claimed; the earlier width-task768px check remains outstanding.
