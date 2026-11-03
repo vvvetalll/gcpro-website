@@ -1,11 +1,18 @@
 # Service Areas
 
 
-## Lombard Local Team column balance — 2026-11-03
+## Lombard Local Team height correction — 2026-11-03
 
-Staging Page526 only. Existing grid was1.35fr/1fr (57.45/42.55), with a48px gap and a462.98px-wide office card at1440px. Updated native local styles on **Lombard office grid237e8357** to `grid-template-columns: 1.1fr 0.9fr` (55/45) and **Lombard office contact panel3dff6bfa** to `max-width: 463px`. The card starts26.63px closer to the copy without stretching into the wider right track. No custom CSS added. Existing mobile single-column rule, section/container width, gap, card padding/typography/colors/buttons, Local Team links and nearby navigation preserved.
+Supersedes the width-only change in bb46889. Owner clarified equal desktop visual boundaries, then explicitly requested shortening/removing the left prose and removing both Office Map & Contact Details / View Service Areas links. Final staging Page526 keeps the original natural-height office card; it is not stretched to accommodate copy.
 
-Fresh saved-data comparison confirms exactly those two elements changed; all other element data is identical. Authenticated Chrome at1440px: container1200px, inner grid1136px, tracks598.40/489.60px, card463×373.04px (before462.98×373.04), balanced centered alignment and clean text wrapping. At390px: one334.67px track, card334.67×367.84px exactly as before, nearby navigation retains two159.33px columns. Visual checks passed; document scroll/client widths match1425/1425 and375/375 respectively (scrollbars excluded). No horizontal overflow. Verification limited to this section at the two requested widths; no sitewide audit or production changes. Recovery: restore grid1.35fr/1fr and remove the card's local max-width. Private before/after backups remain outside Git.
+- Grid237e8357: restored1.35fr/1fr, native stretch alignment and rows `auto 1fr`; mobile remains one column with automatic rows. Nearby nav40142c moved from container109161ab into this grid, desktop column1/row2 aligned to the bottom; mobile automatic placement retains heading → office card → nearby navigation and the former48px card/navigation separation.
+- Card3dff6bfa: removed the463px limit; spans desktop rows1–2 but uses `align-self: start`, original flex layout and24px internal gaps. No fixed height, content distribution trick, custom CSS or shared-definition change. Original padding/colors/type/buttons remain intact.
+- Heading instance68a1fb0e: cleared its local description Override to remove the duplicated address (address stays in the office card). Removed paragraphs ad6af6d and4411a461 and, at the owner's explicit later request, link container39ae4c81 with links6fb1d101/65eb3a2a. Main heading, eyebrow, all four city links, office address and both card buttons remain. City-link styling and destinations are unchanged; existing wrapping yields3+1 at this desktop column width and2×2 on mobile.
+- Native layout writes used direct Elementor MCP. The description Override used registered WordPress metadata after the MCP setting merge did not persist an empty Override; saved native data was reread. Temporary instance styling was restored; no new custom CSS remains.
+
+Measured in authenticated Chrome at1440px (document Y coordinates): before, complete left span4020.635–4550.896 =530.260px and card4028.240–4401.281 =373.042px. After, complete left span4020.635–4393.677 =373.042px and card4020.635–4393.677 =373.042px; top difference0, bottom difference<0.001px. Card width462.979px; overall container1200px unchanged. At390px, heading108.188px, card334.667×367.844px (same natural card size as before), navigation154px; natural single-column stacking and2×2 city links. Visual checks passed, horizontal scroll/client widths1425/1425 and375/375. Scope limited to this section at those two sizes, not other browsers or a sitewide audit.
+
+Private before/final Page526 backups remain outside Git. Recovery requires restoring the affected native elements/parents from the before backup; do not revert unrelated sections or shared components. Production untouched.
 
 ## Lombard local navigation refinement — 2026-11-03
 

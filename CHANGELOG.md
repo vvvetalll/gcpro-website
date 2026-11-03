@@ -1,7 +1,12 @@
 # GCPRO changelog
 
 
-## Lombard Local Team column balance — 2026-11-03
+## Lombard Local Team height correction — 2026-11-03
+
+Replaced the width-only approach with equal desktop visual boundaries and the original natural-height card. Restored57/43 proportions, removed463px width limit, placed nearby navigation in the left grid area, and removed left prose/duplicate address and both office text links per the owner's follow-up instructions. Desktop complete left/card both373.042px with matching top/bottom;390px card retains367.844px natural height and single-column stacking. Native styles, no fixed height/custom CSS, production untouched. [Exact IDs, before/after measurements and limits](docs/components/service-areas.md#lombard-local-team-height-correction--2026-11-03).
+
+
+## Lombard Local Team column balance — 2026-11-03 (superseded)
 
 Published two native Page526 layout changes: grid55/45 and office-card max-width463px. Card shifts26.63px toward the copy while retaining its desktop dimensions; container, mobile stack, links and nearby navigation preserved. Saved-data diff and targeted1440/390 visual/overflow checks passed. [Elements, measurements and recovery](docs/components/service-areas.md#lombard-local-team-column-balance--2026-11-03).
 
