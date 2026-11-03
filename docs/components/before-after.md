@@ -219,3 +219,13 @@ Cards placed in existing Fire (2215), Residential (2189/2206/2213/2219), and Mol
 During this work the owner placed2202 in Mold516's newly duplicated card but its prior Water/Glenview copy remained. Updated only heading3899d0d to **Window Mold Removal** and paragraph2373ec9 to **Window frame and sill before and after mold removal.** Published and frontend verified. Existing actual Glenview projects remain water restoration. User edits to comparisons/layout retained. Screenshot: `mold-page-window-caption.png`.
 
 Recovery: remove only the six listed cards from493 if requested; retain reusable BEAF/media records. Private pre-insertion Page493 snapshot `work/ba-collection-before-insert-1026.json` and Mold before snapshot remain outside Git. Final visual acceptance belongs to owner.
+
+## 2026-11-03 — Commercial Fire & Smoke Hero comparison
+
+Owner requested a new Before/After pair from two supplied WebP files, named for Chicago, and its use as the main Hero media on staging Page520. Created and published BEAF4087, `Commercial Fire Damage Restoration — Chicago, IL`. Chicago is owner-supplied attribution; no address, neighborhood, dates, scope claims or project case study were invented.
+
+Before: media4088, commercial_fire_smoke_damage2.webp (WordPress generated scaled2560x1991 derivative). After: media4089, commercial_fire_and_smoke.webp (1422x1106). Original uploads retained; descriptive image alt text supplied in BEAF. Native two-image horizontal/default style,50% starting divider. No plugin or shared component definition changed.
+
+Page520 Hero9148f72/component1318 changed only media-mode override prop-1793402769377-l2hltut to before_after and BEAF-reference prop-1793402776940-ao336d8 to4087. Former image2035 remains as fallback. Readback confirms previous seven content/image/link overrides and empty local styles retained. No gallery insertion or unrelated page change.
+
+Verified published BEAF status, saved Hero references, frontend image loading/order, Before/After labels, one initialized handle and successful drag (handle moved from328.802px to477.271px). Authenticated Chrome visual checks at1440x1000 and390x844 passed; document scroll/client widths1425/1425 and375/375, mobile images334.67x260.29px. Desktop screenshot saved privately outside Git. No physical-device or exhaustive unchanged-component regression test claimed. Rollback: remove only the two new Hero overrides to return to image2035; retain uploaded assets and comparison unless separately authorized for cleanup.

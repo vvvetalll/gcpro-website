@@ -1,5 +1,10 @@
 # GCPRO changelog
 
+## Commercial Fire & Smoke Hero comparison — 2026-11-03
+
+Created BEAF4087 from owner-supplied Before4088/After4089 images, titled Commercial Fire Damage Restoration — Chicago, IL. Page520 Hero9148f72 now uses it through existing1318 media overrides; shared definitions and other page content preserved. Published/readback, image order/loading, divider drag, desktop1440/mobile390 visual and overflow checks passed. Chicago attribution is owner-supplied. [Task details and rollback](docs/components/before-after.md#2026-11-03--commercial-fire--smoke-hero-comparison).
+
+
 ## Commercial Water Damage optimization — 2026-11-03
 
 Published targeted Page515 B2B copy through eight existing component instances; Hero now links Request492 and related card replaces Residential514 with Moisture Mapping490. AIOSEO title/description improved, canonical/robots/schema retained. Existing Reviews/Affiliations/photographs preserved. Follow-up owner authorization changed only four shared1356 H3 colors to color-text. Saved/readback/frontend copy, phone and FAQ expansion checked; exact1440/390 viewport and project provenance remain limitations. [Exact copy, IDs, SEO and verification](docs/components/service-page-rollout-2026-10-23.md#commercial-water-damage515-b2b-optimization--2026-11-03).
@@ -940,3 +945,4 @@ Owner's latest four benefits replace the superseded ownership/history/BBB/RIA ho
 ## 2026-11-02 — Dehumidification491 focused content delivery
 
 Native browser/Elementor follow-up published a clearer Hero and final CTA, adjusted existing photo2011 focal_y30 and corrected its rendered alt. Preserved revised content found already saved in the editor; fresh authenticated output now shows six FAQ and the existing improved scope/process/middle CTA. Desktop/mobile390 overflow and FAQ click/Enter checks passed; no missing FAQ/opacity cause reproduced, no anonymous or physical-device verification claimed. MCP tools/config unavailable in this environment; no shared-definition or production writes. Current task details and attribution: docs/components/service-page-rollout-2026-10-23.md.
+
