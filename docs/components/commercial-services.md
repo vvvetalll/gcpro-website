@@ -1,5 +1,41 @@
 # Commercial Services hub — E84
 
+
+## B2B optimization — 2026-11-03
+
+Published staging Page499 only. Default/approved branch main confirmed. Existing Hero, service cards, assessment, process, Service Areas1140, final CTA80 and all shared definitions remain unchanged. No production, global template, map, plugin or asset changes.
+
+### Content before and after
+
+- 94c4cddb / 11debea0: BEFORE: Building and Contents Services AFTER: 24/7 Emergency Response
+- 94c4cddb / 46074ea9: BEFORE: Address affected building areas and discuss restoration options for furniture and other business contents within the same project conversation. AFTER: Reach our team day or night when unexpected property damage requires immediate attention.
+- 94c4cddb / 74658ef6: BEFORE: Cleanup Through Reconstruction AFTER: Business Continuity Focus
+- 94c4cddb / 2195b550: BEFORE: Water, fire and mold services connect with repair and reconstruction options when damage extends beyond surface cleanup. AFTER: We assess affected areas and discuss restoration priorities with your building's operations in mind.
+- 94c4cddb / 133bbae9: BEFORE: An Assessment-Led Scope AFTER: Coordinated Project Management
+- 94c4cddb / 44c64cc8: BEFORE: Start with the affected areas and building requirements so the proposed work reflects the damage and your property priorities. AFTER: Clear communication about the scope, next steps and restoration progress keeps your property team informed.
+- 94c4cddb / 49c6ac5f: BEFORE: A Practical Project Conversation AFTER: Documented Restoration Process
+- 94c4cddb / 65cfbe6e: BEFORE: Discuss access, project contacts, scheduling questions and changes to the scope as your commercial restoration moves forward. AFTER: Damage assessment and project documentation help property stakeholders understand the work required.
+- 23108d4b / answer_2: BEFORE: That depends on the damage, affected areas, access and the requirements of the building. Discuss operational needs during assessment. Any decisions about occupancy, restricted areas or reopening need to be made with the responsible property team and appropriate authorities; uninterrupted operations cannot be assumed. AFTER: In some cases, parts of a commercial property may remain operational during restoration. This depends on the extent of the damage, safety conditions and building requirements. Our team assesses the affected areas and discusses practical restoration options to help property managers plan the next steps.
+- 23108d4b / answer_6: BEFORE: Some furniture and other business items may be suitable for cleaning or restoration. Options depend on the material, type of damage and condition of each item. Ask about evaluation, packing and storage needs; not every item will be recoverable. AFTER: Some furniture and other business items may be suitable for cleaning or restoration. Options depend on the material, type of damage and condition of each item. Our team can assess affected belongings and discuss packing and restoration needs; not every item will be recoverable.
+
+Project title8451c722: Club Room Renovation (Window View) → Club Room Renovation. Window View is the photo viewpoint also used in Media1222 alt text; renovation scope, locations, original images and protected BEAF shortcodes unchanged.
+
+### Additions and decisions
+
+- Reviews4051 instance28d40edb, company-wide public Trustindex ID d274cef84f6389753e464c4df17, inside approved service-page wrapper6a349335/container5e8f76d. Exact Water Extraction487 wrapper classes, tokens, heading and divider reused; no new shared definition. Affiliations1886 instance4aeb6ac3. One of each; order Service Areas → Reviews → Affiliations → FAQ → Final CTA.
+- Compact supporting-links groupcb3c6f0 within existing service containerbebfc8cf: heading533227e9 and paragraph51d643a4 link /board-up/, /water-extraction/, /dehumidification/, /moisture-mapping/, /odor-removal/. Existing routes/IDs488/487/491/490/489, no new pages or slug changes. Complements six commercial service cards without another large section.
+- ERP CTA deferred: partner-programs.md records ERP brochure/source names and ASP as Agency Support Program for insurance agents; live986 describes a partnership conversation, not verified ERP enrollment/benefits/offer. No free offer, guaranteed priority or terms added. Original brochure files were not available in this checkout; no claim of rereading them. Recommend verifying current offer and eligibility before an ERP CTA.
+- Properties section deferred: approved home copy mentions offices/retail/multi-unit buildings, and project2948 documents warehouse-access/office/restroom renovation. This does not establish all proposed sectors or specialized restoration capabilities. Existing commercial-property context is retained instead of a speculative category grid. Restaurant/customer-review references are not treated as an approved comprehensive service scope.
+
+### Verification and outstanding work
+
+Saved full-tree comparison identifies only intended copy changes and added native blocks; original styles/interactions on existing nodes preserved. Frontend observed updated four benefits, Club Room Renovation, new supporting links, Reviews heading and Affiliations. One H1, six service-card hrefs and two body telephone hrefs tel:+18476563322 confirmed. Header logo is an image link with empty alt and no accessible link name; global-template change is outside scope. No separate footer logo observed. Service Areas definition untouched.
+
+Browser limitations: requested1440 viewport/CDP emulation produced actual1920 innerWidth/1900 client width; previous390 override on this same browser produces500px content. Exact1440/390 visual acceptance is NOT certified. Wide DOM check showed no horizontal document overflow. Reviews4051 still returned empty markup in this browser; company-wide widget configuration is correct, but visibility remains unresolved. FAQ click did not yield a verified open state. First two service destinations rendered correct H1; subsequent navigation returned no DOM H1, so full destination acceptance is not claimed. No unchanged-component regression suite, physical-device or BEAF drag test performed. These remain explicit delivery limits, not successful tests.
+
+Recovery: remove only added6a349335/4aeb6ac3/cb3c6f0 and restore the listed page-owned copy values, preserving later edits. Native Elementor revisions and pre-edit session read provide recovery references. No shared definition rollback is required.
+
+
 **2026-10-23 — Residential BA parity reverified:** Owner requested large two-column comparisons with native captions matching Residential484. Fresh saved read and public Chrome confirmed this exact presentation already exists: section29279d55/grid02841f58, articles7d44db9e/329f8bfa, native BEAF1202/1209 and caption wrappersdd0afe02/044e564f. Existing titles **Club Room Renovation (Window View)** / **Commercial Entrance Renovation**, and descriptions **A club room updated with new flooring, wall finishes and an open ceiling.** / **A commercial entrance updated with white framing, dark doors and finished flooring.** are retained verified photo/gallery copy. No confirmed locations are available; none invented. Same ba-card/caption/title classes and computed typography/padding/gap/borders/radius as Residential.1440/768/393px: two columns at1440/768, one at393, caption24px padding/10px gap/title20px and no horizontal overflow. First divider drag and fullscreen open/close passed; second fullscreen and physical-device checks not claimed. Saved Commercial and Residential bodies compare byte-identical before/after; no WordPress write, slider replacement or unrelated section/Home change. Earlier requested Water caption fix implemented separately with the same existing classes. [Current shared presentation evidence](water-damage.md#2026-10-23--approved-project-captions).
 
 

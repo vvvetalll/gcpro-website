@@ -1,5 +1,10 @@
 # GCPRO changelog
 
+## Commercial B2B optimization — 2026-11-03
+
+Published focused Page499 improvements: four B2B benefit pairs, practical occupancy FAQ, removal of unconfirmed storage wording, photo-view suffix removed from Club Room Renovation, five supporting-service links, and existing Reviews4051/Affiliations1886 in approved service-page wrappers/order. Shared definitions and protected page sections unchanged. ERP offer and broad property-sector list deferred for verification. Saved-tree comparison passed; frontend text/telephone/card hrefs observed. Exact1440/390 visual checks, Reviews visibility, full destination and FAQ interaction acceptance remain incomplete due browser/renderer limitations. Header logo accessible-name defect recorded without a global edit. [Before/after copy, IDs, decisions, recovery and limits](docs/components/commercial-services.md#b2b-optimization--2026-11-03).
+
+
 ## Residential Reviews width correction — 2026-11-03
 
 Moved existing4051 into the approved service-page Reviews wrapper on484, with native1200px container, heading and responsive gutters/spacing. Published; desktop/mobile computed widths checked. Agent browser still returns empty widget markup, so full widget visual acceptance remains unverified. Shared definitions and unrelated content unchanged. See the existing Residential task record.
