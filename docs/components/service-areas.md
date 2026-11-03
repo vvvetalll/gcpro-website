@@ -1,5 +1,10 @@
 # Service Areas
 
+## Downers Grove527 approved layout and interactions — 2026-11-03
+
+Downers Grove now uses the approved Lombard Local Team composition with local copy, natural373.042px desktop office card/equal left span, nearby Lombard/Oak Brook/Elmhurst/Naperville links and mobile single-column layout. Existing Reviews4051 is inside full sectionff2490a2; Affiliations1886 follows. Six shared68 card instances retain whole-card native links; only page-local grid46bb8f70 owns pointer/lift/shadow/focus/active/reduced-motion styling, with no orange hover line. [Exact IDs, scope, tests, limitations and rollback](../seo/2026-10-26-geographic-implementation.md#downers-grove-finalization-and-card-interactions--2026-11-03).
+
+
 
 ## Lombard Local Team height correction — 2026-11-03
 

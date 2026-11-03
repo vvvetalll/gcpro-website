@@ -1,5 +1,10 @@
 # GCPRO changelog
 
+## Downers Grove GEO finalization and card interactions — 2026-11-03
+
+Published Page527 Hero/meta/alt/Service schema, compact official-resource links, approved Lombard Local Team treatment, Reviews inside a full section, Affiliations and distinct final CTA. Preserved local guidance and all four project cards; roofing responsibility recorded as S04. Six service anchors retain content/URLs/layout and gain page-only pointer/lift/shadow, keyboard focus, pressed/reduced-motion feedback; orange hover line removed per owner. Actual1440/390, click zones/Tab/Enter, real reviews, FAQ and16 anonymous internal HTTP200 checks passed within documented limits. Shared definitions/Lombard/service pages/production untouched. [Implementation and handoff](docs/seo/2026-10-26-geographic-implementation.md#downers-grove-finalization-and-card-interactions--2026-11-03).
+
+
 
 ## Lombard Local Team approved copy — 2026-11-03
 

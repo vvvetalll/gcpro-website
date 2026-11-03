@@ -63,6 +63,7 @@ Created: 2026-11-01. **Purpose:** collect uncertain operational/service claims f
 | S01 | Does GCPRO handle roof tarping, roof repairs, tree removal, or partner coordination? | OPEN |
 | S02 | Which wind, hail, ice-dam, heavy-rain and flooded-basement situations are within scope? | OPEN |
 | S03 | Which storm-specific before/after cases have verified photos and permission? | OPEN |
+| S04 | For Downers Grove hail-roof Project2837, what work was performed directly by GCPRO versus coordinated, and is full roof replacement an approved current Storm523 service? | OPEN — 2026-11-03: published case and prior source review document shingles/additional layer/ice-and-water protection/vent completion and signed closeout; workforce responsibility and general service scope are not established. Do not infer subcontracting, rename the case or expand523 claims. |
 
 ## Mold Remediation — /residential-services/mold-removal/
 

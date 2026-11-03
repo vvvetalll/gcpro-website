@@ -1,5 +1,8 @@
 # Custom code and dependency register
 
+**2026-11-03 — Downers Grove527:** existing grid46bb8f70/local stylee-42626e02-d476 owns page-scoped `& > a.project-summary` interaction CSS, including descendant pointer and reduced-motion media query. Shared68 has no per-instance style Overrides; definition remains unchanged. Native styles own resource/city geometry; their approved local focus/white-space exceptions are reused. AIOSEO owns the page Service graph. No theme, JS, plugin or Custom Code post added. [Exact scope and rollback](seo/2026-10-26-geographic-implementation.md#downers-grove-finalization-and-card-interactions--2026-11-03).
+
+
 **2026-11-03 — Lombard links526:** existing native element-local styles own two office links and four outlined city links; converter-retained Custom CSS is limited to underline treatment, focus-visible and nowrap. No global class/theme/Custom Code change. [Exact owners, purpose and scoped rollback](components/service-areas.md#lombard-local-navigation-refinement--2026-11-03).
 
 ## Global button sweep — 2026-11-03
