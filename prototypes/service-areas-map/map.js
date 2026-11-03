@@ -9,6 +9,7 @@ function init(root){
  const pairs=paths.map(path=>({path,link:links.find(a=>normalize(a.textContent)===normalize(path.dataset.city))}));
  if(pairs.some(p=>!p.link)||pairs.length!==links.length)return;
  const chicago=root.querySelector('.gc-map-chicago');if(chicago){const directory=columns.nextElementSibling.querySelector('a[href]');if(directory)chicago.href=directory.href;columns.firstElementChild.prepend(chicago);}
+ const chicagoMarker=panel.querySelector('.gc-map-landmark');if(chicago&&chicagoMarker)pairs.push({path:chicagoMarker,link:chicago,reference:true});
  root.dataset.mapReady='true';container.classList.add('gc-map-layout');columns.classList.add('gc-map-links');container.firstElementChild.classList.add('gc-map-intro');columns.nextElementSibling.classList.add('gc-map-actions');container.insertBefore(panel,columns.nextElementSibling);
  const svg=panel.querySelector('svg'),ns='http://www.w3.org/2000/svg',world=document.createElementNS(ns,'g');
  svg.prepend(world);world.append(svg.querySelector('.gc-map-context'),svg.querySelector('.gc-map-features'));
@@ -39,13 +40,14 @@ function init(root){
  document.addEventListener('keydown',()=>{inputKind='keyboard';touchSelected=null;hovered=null;update();},true);
  svg.addEventListener('pointerdown',e=>{lastPointer=e.pointerType||'mouse';});
  for(const p of pairs){
-  p.link.dataset.geoid=p.path.dataset.geoid;p.path.setAttribute('tabindex','0');p.path.setAttribute('role','link');p.path.setAttribute('aria-label',p.path.dataset.city+' — view city page');p.path.removeAttribute('aria-pressed');
+  if(!p.reference){p.link.dataset.geoid=p.path.dataset.geoid;p.path.setAttribute('tabindex','0');p.path.setAttribute('role','link');p.path.setAttribute('aria-label',p.path.dataset.city+' — view city page');p.path.removeAttribute('aria-pressed');}
   for(const node of [p.link,p.path]){
    node.addEventListener('pointerenter',e=>{if(e.pointerType==='touch'||e.pointerType==='pen')return;inputKind='mouse';touchSelected=null;hovered=p;update();});
    node.addEventListener('pointerleave',e=>{if(e.pointerType==='touch'||e.pointerType==='pen')return;if(hovered===p)hovered=null;update();});
    node.addEventListener('focus',()=>{if(inputKind==='keyboard'){focused=p;update();}});
    node.addEventListener('blur',()=>{if(focused===p)focused=null;update();});
   }
+  if(p.reference)continue;
   p.path.addEventListener('click',e=>{const type=e.pointerType||lastPointer;if(type==='touch'||type==='pen'){inputKind=type;hovered=null;focused=null;if(touchSelected===p){window.location.assign(p.link.href);return;}touchSelected=p;update();}else window.location.assign(p.link.href);});
   p.path.addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();window.location.assign(p.link.href);}if(e.key==='Escape'){touchSelected=null;hovered=null;focused=null;p.path.blur();update();}});
  }

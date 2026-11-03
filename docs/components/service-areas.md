@@ -276,3 +276,7 @@ Verification:1440px desktop and390px mobile no overflow. Desktop list→map and 
 Source: build.py (single Chicago fallback anchor), map.js (input-specific navigation/state), map.css (approved active colors and conditional touch label), compiled widget. Rollback to107b3fd for prior interaction mode, scoped to draft widget; restore the added navigation-note field separately if needed. No public rollout or new city page.
 
 Concurrent geographic verification work preserved: exact serviceable Chicago/address boundaries, exclusions and dispatch questions remain in [SERVICE_CAPABILITY_QUESTIONS.md, GEO01–GEO04](../SERVICE_CAPABILITY_QUESTIONS.md). This navigation exception resolves none of those operational questions.
+
+
+Chicago hover correction — 2026-11-03: owner now requests synchronized hover for the existing Chicago point/label and first city row; keyboard focus on the list link also highlights the marker. No boundary, marker navigation, touch two-tap target or new destination added; the earlier no-hover decision above is superseded. Scoped to Draft4104.
+Targeted authenticated-preview check passed: list-to-marker and marker-to-list hover, orange point/text, clear on pointer leave, and keyboard focus on Chicago. Other municipality handlers and shared1140 unchanged.
