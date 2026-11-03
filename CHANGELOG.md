@@ -1,5 +1,9 @@
 # GCPRO changelog
 
+## Commercial Contents and owner-uploaded media — 2026-11-03
+
+Published Page525 B2B copy/SEO, Request492 CTAs and four related515/520/524/489 links using eight existing instances. Warehouse4099 preserved after owner confirmation; owner-authorized title/alt/caption/description completed for today's4099/4088/4089 photos. Existing service-specific Contents reviews preserved; no approved B2B contents replacement found. Saved-tree,1440/390,FAQ, metadata/link and anonymous checks completed. Storage terms/specialist capabilities remain OPEN. [Exact changes, provenance and limits](docs/components/service-page-rollout-2026-10-23.md#commercial-contents525-optimization--2026-11-03).
+
 ## Commercial General Contracting optimization — 2026-11-03
 
 Published Page522 planned-renovation copy, SEO, Request492 CTAs and related524/515/520/519 links. Hero uses approved interior2134; two BA cards now two columns desktop/one mobile, section renamed Commercial Renovation Projects and internal Window View removed. Trustindex persistent clipping not reproduced against515; vendor settings/shared definitions preserved. Saved-tree,1440/390,FAQ, metadata/link and anonymous delivery checks completed. [Exact changes and limits](docs/components/service-page-rollout-2026-10-23.md#commercial-general-contracting522-optimization--2026-11-03).

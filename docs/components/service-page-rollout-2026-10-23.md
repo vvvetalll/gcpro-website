@@ -636,3 +636,105 @@ Limits: physical devices, exhaustive slider/Trustindex interactions and editor v
 | 5d9f978e / title | DISCUSS YOUR NEXT STEP | Let's Discuss Your Commercial Project |
 | 5d9f978e / description | Call GCPRO to talk through your property damage and the work you need to discuss. | Contact GCPRO to discuss renovation needs, project requirements, and the next steps for your commercial property. |
 
+## Commercial Contents525 optimization — 2026-11-03
+
+Published [Page525](https://vitaliiv1.sg-host.com/commercial-services/personal-property-restoration/) on staging only. Current/default approved branch main, clean/up-to-date baseline. Reused session-reviewed AGENTS/README/context/SEO and completed515/519/524/522 patterns; reviewed Residential521 record and central P01–P05 questions. Fresh pre-write tree identical to baseline.
+
+Eight instance-only updates: Hero381dc226/1318, Scope4af96871/1345, Process781a8e8e/1152, middle CTA4ff5af7e/80, Related11239b7f/1356, Why7bc6a0a0/1149, FAQ5b2daaba/1354, finalCTA75437492/80. No layout, styles, shared definitions, Service Areas1140, Affiliations1886, header/footer or gallery changes.
+
+Hero4099 is the current manually selected warehouse image, not historical1989. Media title packout_2 (1), URL /wp-content/uploads/2026/11/packout_2-1.webp, initial caption/description/alt blank. Scoped media search found1989 packing photo with unresolved provenance and unrelated storage cabinetry, no verified superior replacement. Owner then explicitly confirmed “our warehouse”2026-11-03: retain4099 as owner-confirmed GCPRO warehouse. This confirms depiction/company association, not climate control, automatic inclusion, charges or transport terms.
+
+Owner additionally authorized metadata for today's manually uploaded photographs only:4099,4088,4089. Updated WordPress title, alt, caption and description; files/URLs/BEAF records unchanged.4099 title GCPRO Contents Storage Warehouse; alt “Rows of wooden storage vaults lining an aisle inside the GCPRO warehouse.”4088 title Commercial Fire Damage - Chicago - Before Restoration; retained accurate charred-interior alt.4089 title Commercial Fire Damage - Chicago - After Restoration; alt “Restored commercial interior with finished walls, polished flooring, tall windows and an open ceiling.” Fire location/pairing is owner supplied in earlier4087 task. Descriptions identify source/context; no invented address or facility conditions. REST saved responses confirmed updated fields;4099 alt also confirmed in anonymous/frontend rendering.
+
+Six scope cards use established furniture/packing/water/smoke/odor/repair themes instead of unverified equipment, records and inventory restoration categories. Process shortened to Assess / Pack & Organize / Clean & Restore / Coordinate Next Steps. Six FAQs clarify item-specific recovery, documentation discussion, storage arrangements, operational priorities, multi-tenant authorization and specialist handling without promising specialist service or full recovery.
+
+Reviews preserved: native shortcode02441ff renders approved Contents widget849195/public4e1cca5848ee91941d560ee6d75 shared with521; not Reviews4051. Live reviews address packing/return, belongings after fire, storage and insurance, predominantly residential. Existing refresh records confirm tag-filter and manual-selection support; approved Commercial Water849202 is water-focused and still contains residential reviews, not a dedicated commercial contents selection. No suitable approved commercial-contents page-local Override exists on this legacy shortcode, so no replacement/configuration change. Recommendation: separately approve a genuine B2B contents selection when review evidence is available; do not relabel residential reviews or infer universal procedures from testimonials. Current displayed widget verified; no speculative clipping CSS.
+
+SEO title “Business Contents Restoration Chicago | GCPRO” → “Commercial Contents Restoration Chicago | GCPRO”.
+Description “GCPRO packs and restores damaged belongings. Discuss business-owned furniture, item responsibilities and the proposed contents scope; storage is not assumed.” → “Commercial contents restoration in Chicago after water, fire, or smoke damage. GCPRO helps with packing, cleaning, and recovery of affected business belongings. Call 847-656-3322.”
+Existing URL/canonical/schema/robots preserved; only title/description submitted. Hero/middle/final CTA Request492, all calls tel:+18476563322. Related destinations now515/520/524/489; residential521 removed.
+
+Verification: all modified string fields read back without mismatch; whole tree excluding exact changed Override keys matches baseline, including original4099 image/shape, all styles, reviews/Areas/Affiliations. Desktop1440 client/scroll1425/1425; mobile390 client/scroll375/375 with no measured heading/paragraph horizontal overflow. Hero image loaded, original shape visually retained; mobile cards inspected and first FAQ toggled expanded. One H1, new title/meta, canonical/noindex, rendered four service links and all phone/Request links checked; destination pages published at exact URLs. Anonymous200 contains updated H1,4099 alt and correct review ID; no stale cache found. Viewport reset. No physical-device, exhaustive unchanged component/vendor interactions or editor-interaction test claimed.
+
+Outstanding: P01–P05 expanded below; warehouse affiliation now owner-confirmed, service terms remain OPEN. No assumption storage is unavailable. Recovery: restore table's previous page Overrides and prior SEO strings; today's media metadata can be restored independently without changing files/URLs or shared definitions.
+
+### Exact page Overrides
+
+| Instance / field | Before | After |
+|---|---|---|
+| 381dc226 / h1 | Contents Restoration for Business Properties | Commercial Contents Restoration in Chicago |
+| 381dc226 / description | GCPRO provides contents restoration, including packing and restoring damaged belongings. For business premises, clarify which items are affected and who can make decisions about them. | After water, fire, or smoke damage, GCPRO helps businesses recover affected furniture, belongings, and other contents through coordinated packing, cleaning, and restoration services. |
+| 381dc226 / request_text | VIEW SERVICE AREAS | Request Service |
+| 381dc226 / request_link | {"destination":{"name":"internal-url","group":"site","settings":{"type":"post","post_id":{"id":495,"label":"Service Area"}}},"isTargetBlank":false,"tag":"a"} | {"destination":{"id":492},"isTargetBlank":false,"tag":"a"} |
+| 4af96871 / heading | Commercial Contents Restoration | Business Contents We Help Restore |
+| 4af96871 / introduction | GCPRO packs and restores damaged belongings, including furniture and other contents affected by a business property loss. | Water, fire, and smoke damage can affect furniture, business belongings, and items needed for daily operations. GCPRO helps assess affected contents and plan appropriate restoration steps. |
+| 4af96871 / type_1_title | Business Furniture | Business Furniture |
+| 4af96871 / type_1_description | Furniture affected by a property loss can be reviewed for contents restoration. | Furniture affected by water, smoke, or soot can be assessed for appropriate restoration. |
+| 4af96871 / type_2_title | Packing Affected Items | Packing Affected Items |
+| 4af96871 / type_2_description | GCPRO packs damaged belongings as part of its contents restoration service. | Packing damaged business belongings according to the agreed contents restoration scope. |
+| 4af96871 / type_3_title | Water-Affected Contents | Water-Affected Contents |
+| 4af96871 / type_3_description | Leaks and flooding can reach items in work areas, common rooms and tenant spaces. | Belongings exposed to leaks or flooding in work areas and shared commercial spaces. |
+| 4af96871 / type_4_title | Smoke and Soot Exposure | Smoke & Soot Exposure |
+| 4af96871 / type_4_description | Smoke residue can affect belongings beyond the room where a fire started. | Business belongings affected by smoke residue beyond the immediate fire-damaged area. |
+| 4af96871 / type_5_title | Lingering Contents Odors | Contents Odor Concerns |
+| 4af96871 / type_5_description | Odor concerns in affected items may remain after the building itself has been cleaned. | Assessment of odor concerns in affected belongings to discuss appropriate restoration options. |
+| 4af96871 / type_6_title | Contents Around Repairs | Contents During Repairs |
+| 4af96871 / type_6_description | Belongings near damaged walls, ceilings or floors may need packing during property restoration. | Packing and handling affected belongings while building restoration work takes place. |
+| 781a8e8e / heading | Packing and Restoring Business Belongings | How Commercial Contents Recovery Works |
+| 781a8e8e / description | Business contents work needs to connect each affected item with its owner, condition and priority. Building repairs and belongings remain separate scopes even when they follow the same loss. | The condition of the belongings and the agreed restoration scope guide packing, cleaning, and the next steps. |
+| 781a8e8e / step_1_title | Identify Items and Owners | Assess the Contents |
+| 781a8e8e / step_1_description | Start with affected furniture and other belongings, their locations and the person who can authorize work. A building manager does not automatically own or control every tenant’s items. | We review affected business belongings, their condition, and the restoration needs of the property. |
+| 781a8e8e / step_2_title | Assess the Item Condition | Pack & Organize |
+| 781a8e8e / step_2_description | The damage type and material determine the restoration questions. Separate smoke residue, water exposure and existing damage without assuming that one item’s result applies to another or that specialist asset recovery is included. | Items requiring removal are packed and organized according to the agreed restoration scope. |
+| 781a8e8e / step_3_title | Pack and Restore Belongings | Clean & Restore |
+| 781a8e8e / step_3_description | GCPRO packs and restores damaged belongings included in the contents scope. Keep that item work separate from repairs to walls, ceilings and flooring, and establish any handling priorities before the two parts of the project overlap. | Appropriate cleaning and restoration work is planned based on the type of damage and condition of the contents. |
+| 781a8e8e / step_4_title | Resolve Remaining Item Decisions | Coordinate Next Steps |
+| 781a8e8e / step_4_description | Keep unresolved restoration or replacement decisions visible alongside the building’s progress. Any storage, access or return arrangement needs its own confirmation rather than being inferred from a completed packing task. | We discuss the remaining contents, completed work, and next steps with the designated property contact. |
+| 4ff5af7e / title | LET’S DISCUSS YOUR PROPERTY | Need Help With Damaged Business Contents? |
+| 4ff5af7e / description | Tell GCPRO what happened and which areas are affected. Call to discuss the next step. | Contact GCPRO to discuss affected belongings, packing needs, and the next steps for your property. |
+| 4ff5af7e / secondary_text | VIEW SERVICE AREAS | Request Service |
+| 4ff5af7e / secondary_link | {"destination":{"name":"internal-url","group":"site","settings":{"type":"post","post_id":{"id":495,"label":"Service Area"}}},"isTargetBlank":false,"tag":"a"} | {"destination":{"id":492},"isTargetBlank":false,"tag":"a"} |
+| 11239b7f / introduction | The main Personal Property page covers the general contents service. Commercial water, fire and reconstruction pages explain the surrounding building work. | Explore related services for commercial building damage and odor concerns alongside contents recovery. |
+| 11239b7f / item_1_title | Personal Property Restoration | Commercial Water Damage |
+| 11239b7f / item_1_description | Read the general contents and packing information. | Water removal and drying for affected commercial buildings. |
+| 11239b7f / item_1_link_text | EXPLORE Personal Property Restoration | Explore Commercial Water Damage |
+| 11239b7f / item_1_link | {"destination":{"name":"internal-url","group":"site","settings":{"type":"post","post_id":{"id":521,"label":"Personal Property Restoration"}}},"isTargetBlank":false,"tag":"a"} | {"destination":{"id":515},"isTargetBlank":false,"tag":"a"} |
+| 11239b7f / item_2_title | Commercial Water Damage | Commercial Fire & Smoke |
+| 11239b7f / item_2_description | Connect affected belongings with wet building areas. | Fire and smoke damage cleanup before contents and building recovery. |
+| 11239b7f / item_2_link_text | EXPLORE Commercial Water Damage | Explore Commercial Fire & Smoke |
+| 11239b7f / item_2_link | {"destination":{"name":"internal-url","group":"site","settings":{"type":"post","post_id":{"id":515,"label":"Water Damage"}}},"isTargetBlank":false,"tag":"a"} | {"destination":{"id":520},"isTargetBlank":false,"tag":"a"} |
+| 11239b7f / item_3_title | Business Fire Recovery | Commercial Reconstruction |
+| 11239b7f / item_3_description | Discuss smoke-affected items alongside the wider fire loss. | Rebuilding affected commercial spaces after property damage. |
+| 11239b7f / item_3_link_text | EXPLORE Business Fire Recovery | Explore Commercial Reconstruction |
+| 11239b7f / item_3_link | {"destination":{"name":"internal-url","group":"site","settings":{"type":"post","post_id":{"id":520,"label":"Fire & Smoke"}}},"isTargetBlank":false,"tag":"a"} | {"destination":{"id":524},"isTargetBlank":false,"tag":"a"} |
+| 11239b7f / item_4_title | Commercial Reconstruction | Odor Removal |
+| 11239b7f / item_4_description | Keep building repairs separate from the item scope. | Odor treatment for affected property materials and spaces. |
+| 11239b7f / item_4_link_text | EXPLORE Commercial Reconstruction | Explore Odor Removal |
+| 11239b7f / item_4_link | {"destination":{"name":"internal-url","group":"site","settings":{"type":"post","post_id":{"id":524,"label":"Reconstruction"}}},"isTargetBlank":false,"tag":"a"} | {"destination":{"id":489},"isTargetBlank":false,"tag":"a"} |
+| 7bc6a0a0 / 31a44bf8 | (shared default) | Contents restoration support for business owners, property managers and commercial building teams. |
+| 7bc6a0a0 / 11debea0 | (shared default) | Commercial Contents Focus |
+| 7bc6a0a0 / 46074ea9 | (shared default) | Contents restoration services for affected business belongings and commercial properties. |
+| 7bc6a0a0 / 74658ef6 | (shared default) | Packing & Restoration Coordination |
+| 7bc6a0a0 / 2195b550 | (shared default) | Organized handling of affected contents as part of the property restoration process. |
+| 7bc6a0a0 / 133bbae9 | (shared default) | Property Recovery Support |
+| 7bc6a0a0 / 44c64cc8 | (shared default) | Contents restoration coordinated with related water, fire, and reconstruction needs. |
+| 7bc6a0a0 / 49c6ac5f | (shared default) | Clear Communication |
+| 7bc6a0a0 / 65cfbe6e | (shared default) | Discussion of restoration needs and next steps with the designated property contact. |
+| 5b2daaba / heading | Questions About Personal Property | Questions About Commercial Contents Restoration |
+| 5b2daaba / question_1 | Which business belongings should we identify? | What types of business contents can GCPRO restore? |
+| 5b2daaba / answer_1 | Start with affected furniture and other belongings, their locations and the damage type. Identify ownership and the person authorized to make decisions. Confirm specialist assets individually rather than assuming machinery, electronics, records or data recovery is offered. | Restoration options depend on the material, type of damage, and condition of each item. GCPRO reviews affected contents to determine appropriate next steps. |
+| 5b2daaba / question_2 | Does GCPRO pack business belongings? | Do you inventory and photograph items during pack-out? |
+| 5b2daaba / answer_2 | Yes. GCPRO packs and restores damaged belongings. Identify the items included in the contents work separately from the building repair scope and from items that only need to be kept clear of the work area. | Discuss item lists, photographs, and any insurance documentation requirements with GCPRO when arranging the work. Confirm which records are included in the agreed contents scope. |
+| 5b2daaba / question_3 | Who authorizes work on tenant-owned items? | Where are business contents kept during repairs? |
+| 5b2daaba / answer_3 | Establish the item owner and the person authorized to decide about the proposed work. The property manager, business operator and owner can have different responsibilities. Resolve those roles before treating the contents as part of one building-wide instruction. | Handling and storage arrangements depend on the restoration scope and the needs of the property. Confirm available options with GCPRO before scheduling pack-out. |
+| 5b2daaba / question_4 | How should we set priorities? | Can critical business items be prioritized? |
+| 5b2daaba / answer_4 | Identify the belongings that need an early decision and explain their practical importance to the business. Priority does not establish that an item can be recovered. Its condition and the accepted restoration scope still determine the available work. | Let GCPRO know which items are most important to your operations. Their condition and the available restoration options can then be discussed. |
+| 5b2daaba / question_5 | What should we ask about item records and logistics? | How are contents handled in multi-tenant properties? |
+| 5b2daaba / answer_5 | Establish the agreed item list, how handling decisions will be recorded and any needed access arrangements. Confirm storage and return transport separately; those logistics are not established by the fact that GCPRO packs and restores belongings. | Property ownership, access requirements, and handling instructions should be clarified with the designated property contact before contents are moved. |
+| 5b2daaba / question_6 | How does contents work connect to reopening? | Can electronics and documents be restored? |
+| 5b2daaba / answer_6 | The condition of business belongings and the condition of the building can leave different tasks unresolved. Keep both visible when planning the next use of the premises. Finished building repairs do not establish that every item is restored or available. | Electronics and paper records may require specialized handling. Discuss each affected item with GCPRO to confirm whether suitable restoration options are available for your project. |
+| 75437492 / title | DISCUSS YOUR NEXT STEP | Protect Your Business Contents |
+| 75437492 / description | Call GCPRO to talk through your property damage and the work you need to discuss. | Contact GCPRO to discuss contents affected by property damage and the next steps for recovery. |
+| 75437492 / secondary_text | VIEW SERVICE AREAS | Request Service |
+| 75437492 / secondary_link | {"destination":{"name":"internal-url","group":"site","settings":{"type":"post","post_id":{"id":495,"label":"Service Area"}}},"isTargetBlank":false,"tag":"a"} | {"destination":{"id":492},"isTargetBlank":false,"tag":"a"} |
+

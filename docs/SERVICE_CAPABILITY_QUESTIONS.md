@@ -65,11 +65,11 @@ Created: 2026-11-01. **Purpose:** collect uncertain operational/service claims f
 
 | ID | Question | Status |
 |---|---|---|
-| P01 | Does GCPRO provide photo/item-by-item inventory, condition records and claim documentation? | OPEN |
-| P02 | Exact contents pack-out workflow: packing, item tracking, transport and charge structure? | OPEN; basic packing/restoration documented |
-| P03 | Storage (own/partner), customer access, return transportation, pack-back services? | OPEN |
-| P04 | Cleaning/deodorization methods; electronics, documents, textiles, antiques and other specialized items? | OPEN |
-| P05 | Rights/source of current hero image and verified contents before/after case photos? | OPEN |
+| P01 |521/525: photo/item-by-item inventory, condition records, digital/barcode tracking and insurance-specific inventory/adjuster documentation? | OPEN; general insurance support does not establish precise contents protocol |
+| P02 |521/525: exact pack-out workflow, packing, tracking, transport, return delivery/placement and charges; business-critical priority recovery? | OPEN; basic packing/restoration documented, no timing guarantee |
+| P03 |521/525: storage availability/terms, own/partner handling, security/climate control, included versus optional/separate charges, customer access? | PARTIALLY VERIFIED: owner confirmed4099 depicts GCPRO's warehouse2026-11-03; operational terms remain OPEN, not NOT OFFERED |
+| P04 |521/525: cleaning/deodorization; electronics/equipment, documents/archives, inventory/retail stock, textiles/antiques; specialist subcontractor responsibilities? | OPEN |
+| P05 | Rights/source of current hero images and verified contents before/after case photos? |525 image4099 confirmed as company warehouse by owner2026-11-03 and retained;521 image1989 provenance and contents before/after evidence remain OPEN |
 
 ## Reconstruction — /residential-services/reconstruction/
 
