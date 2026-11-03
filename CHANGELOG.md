@@ -946,3 +946,4 @@ Owner's latest four benefits replace the superseded ownership/history/BBB/RIA ho
 
 Native browser/Elementor follow-up published a clearer Hero and final CTA, adjusted existing photo2011 focal_y30 and corrected its rendered alt. Preserved revised content found already saved in the editor; fresh authenticated output now shows six FAQ and the existing improved scope/process/middle CTA. Desktop/mobile390 overflow and FAQ click/Enter checks passed; no missing FAQ/opacity cause reproduced, no anonymous or physical-device verification claimed. MCP tools/config unavailable in this environment; no shared-definition or production writes. Current task details and attribution: docs/components/service-page-rollout-2026-10-23.md.
 
+`n2026-11-03 follow-up: enabled missing native fullscreen button on Commercial Fire BEAF4087; verified enlarged comparison and close action.
