@@ -1,5 +1,9 @@
 # GCPRO changelog
 
+## Elmhurst page-only finalization — 2026-11-03
+
+Updated530 Hero/alt/SEO, tightened preserved overhead-sewer guidance, removed duplicate mid CTA, added approved two-column Local Team/full Reviews/Affiliations and sewer-backup FAQ. Four distinct documented projects retained; introduction broadened and2883 recommended for future commercial service use only. One1440/390 content/layout pass; no Component68 testing, shared-definition edits or other-page changes. [Exact IDs, duplication finding and verification limits](docs/seo/2026-10-26-geographic-implementation.md#elmhurst-page-only-finalization--2026-11-03).
+
 ## Elk Grove Village finalization — 2026-11-03
 
 Published staging529 with practical home/office/warehouse guidance grounded in official Village sources, approved Local Team/real Lombard office, full Reviews section, Affiliations, useful FAQ and page-specific SEO/Service schema. Existing six shared68 instances, Process and single final CTA preserved; no shared-definition changes or invented projects. Desktop/mobile checks completed; anonymous403 limitation recorded. Owner stopped repeated verification of established shared components: future work checks changed page-specific content/layout only. [Implementation, IDs and limitations](docs/seo/2026-10-26-geographic-implementation.md#elk-grove-village-finalization--2026-11-03).

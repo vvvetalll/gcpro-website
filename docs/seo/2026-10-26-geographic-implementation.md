@@ -1,5 +1,15 @@
 # Geographic implementation plan — 2026-10-26
 
+## Elmhurst page-only finalization — 2026-11-03
+
+Published staging530 only. Hero5ef00302 description replaced with requested basement/sewer/smoke copy; original Elmhurst sign photograph/H1/buttons retained. Empty image alt corrected through page-specific image URL Override, without shared Media edits. Guidance6aeea231 uses native space-xl48px vertical padding; both original overhead-sewer paragraphs and PDF704d8483 destination preserved. Removed redundant CTA44f8056d; final1f5bf4be remains unchanged after FAQ. FAQ6fe60b06 question/answer5 now addresses sewer-backup cleanup; recurring-basement/drain-versus-supply questions retained.
+
+Approved native Local Team9b865392 replaces old5ad45b05, with two short Elmhurst paragraphs, neighboring Lombard office and Lombard/Oak Brook navigation. Full Reviews section96880ab4 and existing Affiliations1886 instance0b88c27f follow; no definitions/Trustindex/global styles touched. Structure reused from existing private native exports and documented approved pattern; no reference GEO pages opened. Six68 instances, styling, links and layout left alone; no interaction investigation or testing.
+
+Four original project cards/query/photographs/titles/destinations preserved. Existing source-review documentation identifies2939 as second-floor toilet overflow with bathroom/stairwell repairs, and2679 as upstairs shower-leak hardwood restoration: distinct documented causes, retained both. Project introduction34c07593 now covers residential water/hardwood and commercial office repairs rather than only a shower leak. Project2883 Office Flooring and Interior Repairs is recommended for future separately authorized Commercial Reconstruction and Commercial Water Damage inclusion; neither service page edited. No DASH audit performed.
+
+Page-specific AIOSEO title/description and missing Service graph added for Elmhurst areaServed, referencing existing Lombard Organization. Canonical/status/noindex,nofollow preserved. One focused authenticated browser pass at1440/390 confirmed requested Hero text, preserved municipal PDF binding, four project destinations, two-column/mobile Local Team,10 rendered reviews, affiliation presence, updated FAQ opening and exactly one final CTA with existing tel/request bindings. Scroll/client1425/1425 and375/375; no obvious clipping. Empty Hero alt found in this pass was corrected via native page Override; final alt correction not browser-reloaded. External PDF availability and final CTA destination were not separately navigated; bindings preserved, not claimed as newly end-to-end tested. No shared-component tests, other-page browsing, anonymous crawl or cross-browser certification. Private elm-before.json/elm-final.json/elm-ids.json hold recovery state outside Git; revert only changed530 elements/page SEO and restore removed CTA if needed. Production unchanged.
+
 ## Elk Grove Village finalization — 2026-11-03
 
 Published staging Page529 only: https://vitaliiv1.sg-host.com/service-area/elk-grove-village/ . Shared component definitions and reference pages untouched.
