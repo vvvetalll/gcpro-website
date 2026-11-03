@@ -361,6 +361,8 @@ Shared Component1140 saved through Homepage154 → select Service Areas → Edit
 
 
 ### CTA hover sweep — 2026-11-03
+
+Later owner correction expanded this animation to the five existing global button variants; see [global sweep record](interaction-transitions.md#global-button-fill-sweep--2026-11-03). The compatible local rules below remain. Follow-up verified actual1440/768/390 CSS widths, equal CTA widths,390 buttons below map, click/keyboard Popup1801 and mobile directory navigation. The earlier outstanding768px layout check is now complete; anonymous/physical-device checks remain unperformed.
 Published on staging only through Homepage154 → Edit Service Areas1140 → Area actions73c11252 → local Style/Custom CSS. Added the following nested rules, preserving all pre-existing CSS (including width rules); remove only this addition to roll back. Existing default transparent backgrounds, primary #1A327D / accent #F05A29, hover white text, border/radius, typography, spacing, destinations and Popup1801 remain owned by their existing definitions. No global CSS, JS, dependencies or component additions.
 
 ```css

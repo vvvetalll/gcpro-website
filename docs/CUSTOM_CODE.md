@@ -1,5 +1,9 @@
 # Custom code and dependency register
 
+## Global button sweep — 2026-11-03
+
+Owner expanded scope from two local CTAs to global button variants. Existing Atomic classes button-primary, button-secondary, button-outline, button-outline-orange and button-outline-white own the280ms pseudo-element sweep in their Custom CSS; header/floating/footer exceptions, original colors, geometry, focus and reduced motion preserved. No new CSS deployment owner/JS/component. Local1140 compatible sweep remains. Primary inner-radius fringe corrected without outer-border edits. Checks and rollback: [interaction transitions](components/interaction-transitions.md#global-button-fill-sweep--2026-11-03).
+
 ## Shared Service Areas map — 2026-11-03 (current)
 
 Owner-authorized rollout replaces the prototype-only ownership below. Component1140 has the semantic `gc-service-areas-map` hook and native Chicago link. Published Elementor Custom Code4134 owns one scoped SVG/CSS/vanilla-JS runtime, Body End/priority10/Entire Site; staging-host guard and singleton/per-instance protection. Approximately215KB inline delivery sitewide; only matching components initialize. Native copy/actions remain Elementor-editable, geometry/behavior source-owned. No new dependency/plugin. Removed Draft4104 local widget to prevent duplication. [Structure,21 consumers, checks, limits and rollback](components/service-areas.md#shared-interactive-map-rollout--2026-11-03); [source/compiler](../integrations/service-areas-map/README.md). Earlier prototype-only entries are historical.
