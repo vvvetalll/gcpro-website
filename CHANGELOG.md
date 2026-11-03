@@ -1,5 +1,9 @@
 # GCPRO changelog
 
+## Oak Brook page-only completion — 2026-11-03
+
+Updated536 Hero with existing verified Oak Brook project photo2705, six text Overrides, practical local guidance, Local Team prose, commercial FAQ and page SEO. Preserved Before/After/three projects; grid now3 desktop columns. Added full Reviews/Affiliations and removed middle CTA. Actual1440/390 content/layout pass found no overflow. Standalone-remodeling question and future Mold case recommendation recorded. No shared component or service-page changes. [Details](docs/seo/2026-10-26-geographic-implementation.md#oak-brook-page-only-completion--2026-11-03).
+
 ## Glenview page-only completion — 2026-11-03
 
 Updated533 Hero/alt, six content Overrides, Local Team prose and page SEO; added official drainage-reporting guidance, full Reviews/Affiliations; removed duplicate CTA. Existing Local Team layout, Before/After, four projects, FAQ and final CTA preserved. Shared definitions untouched. Browser scaling blocked exact1440/390 verification; limitation and roofing/build-out questions recorded. [Details](docs/seo/2026-10-26-geographic-implementation.md#glenview-page-only-completion--2026-11-03).
