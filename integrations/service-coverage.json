@@ -13,6 +13,15 @@
     {
       "kind": "city",
       "location": "Chicago",
+      "prototype_navigation_exception": {
+        "date": "2026-11-03",
+        "source": "Explicit owner decision for isolated map Draft4104 only",
+        "first_in_list": true,
+        "destination_page_id": 495,
+        "destination_url": "https://vitaliiv1.sg-host.com/service-area/",
+        "map_representation": "Existing non-interactive Chicago label and point; no full interactive boundary",
+        "coverage_note": "Navigation/market representation only. No new address-eligibility guarantee or boundary decision; existing geographic verification remains authoritative. Do not deploy this note to popup/runtime."
+      },
       "status": "confirmed",
       "verified": false,
       "zip_code": null,

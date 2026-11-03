@@ -4,6 +4,9 @@
 
 Added GEO01–GEO04 to existing `docs/SERVICE_CAPABILITY_QUESTIONS.md` for management/operations confirmation of serviceable cities/ZIPs, exclusions, service-specific coverage, address-check ownership, and dispatch/radius claims. Current featured city links and interactive map are not confirmed eligibility boundaries. No WordPress, Elementor, popup, prototype or production changes; no coverage claims approved. Next: obtain authorized operations/management answers, then request separate approval for any website changes.
 
+## Map desktop/touch navigation and Chicago exception — 2026-11-03
+
+Draft4104: popup-free desktop hover/direct click/Enter; touch first-select, second-navigate with outside/drag/zoom safeguards. Chicago first links to verified directory495; existing point stays non-interactive, original ten polygons/links preserved. Navigation-only note added to existing coverage register, no runtime coverage change.1440/390, direct keyboard/mouse/touch destinations and pan/reset verified. [Details and rollback](docs/components/service-areas.md#desktop-direct-navigation-touch-two-tap-and-chicago-directory-exception--2026-11-03).
 
 ## Final compact map prototype — 2026-11-03
 
