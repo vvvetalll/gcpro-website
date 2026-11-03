@@ -39,7 +39,7 @@ def path(g):
             pts=[point(x,y) for x,y in ring.coords]
             out.append('M'+'L'.join(f'{x:.1f},{y:.1f}' for x,y in pts)+'Z')
     return ''.join(out)
-clip=box(x0,y0,x1,y1); ids={d['GEOID'] for d,g,l in selected}
+clip=box(x0,y0,x1,y1); ids={d['GEOID'] for d,g,l in selected}|{'1714000'}
 background=[]
 for d,g in records:
     if d['GEOID'] not in ids and g.intersects(clip):
@@ -61,12 +61,16 @@ named_lake=unary_union(waters)
 lake=unary_union([g for g in water_candidates if g.intersects(named_lake)]).intersection(clip).simplify(45,preserve_topology=True)
 assert lake.is_valid and not lake.is_empty
 lx,ly=point(*lake.representative_point().coords[0])
-water=f'<g class="gc-map-water" aria-label="Lake Michigan"><path d="{path(lake)}"/><text x="{min(lx,580):.1f}" y="{ly:.1f}" text-anchor="middle"><tspan x="{min(lx,580):.1f}">Lake</tspan><tspan x="{min(lx,580):.1f}" dy="1.2em">Michigan</tspan></text></g>'
+water=f'<g class="gc-map-water" aria-label="Lake Michigan"><path d="{path(lake)}"/><text x="{595:.1f}" y="{min(ly,200):.1f}" text-anchor="middle"><tspan x="{595:.1f}">Lake</tspan><tspan x="{595:.1f}" dy="1.2em">Michigan</tspan></text></g>'
 chicago=next(d for d,g in records if d['GEOID']=='1714000')
 cx,cy=point(*project(float(chicago['INTPTLON']),float(chicago['INTPTLAT'])))
 assert 0<cx<W and 0<cy<H
 landmark=f'<g class="gc-map-landmark" aria-label="Chicago geographic reference"><circle cx="{cx:.1f}" cy="{cy:.1f}" r="4"/><text x="{cx-9:.1f}" y="{cy+4:.1f}" text-anchor="end">Chicago</text></g>'
-features=[]; registry=[]
+chicago_geometry=next(g for d,g in records if d['GEOID']=='1714000')
+chicago_area=chicago_geometry.intersection(clip).simplify(45,preserve_topology=True)
+assert chicago_area.is_valid and not chicago_area.is_empty
+chicago_boundary=f'<path class="gc-map-city gc-map-chicago-area" data-geoid="1714000" data-city="Chicago" data-x="{cx:.1f}" data-y="{cy:.1f}" d="{path(chicago_area)}"></path>'
+features=[chicago_boundary]; registry=[]
 for d,g,l in selected:
     simplified=g.simplify(45,preserve_topology=True)
     assert simplified.is_valid
@@ -78,7 +82,7 @@ for d,g,l in selected:
     registry.append({'name':d['NAME'],'geoid':geoid,'page_id':l['page_id'],'area_change_ratio':round(delta,6)})
 svg='<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 580" aria-label="Featured Chicagoland municipalities" class="gc-map-svg"><g class="gc-map-context" aria-hidden="true">'+''.join(background)+water+'</g><g class="gc-map-features">'+''.join(features)+landmark+'</g><g class="gc-map-north" aria-hidden="true"><text x="600" y="28">N</text><path d="M600 38V67M594 46L600 38L606 46"/></g></svg>'
 (HERE/'map.svg').write_text(svg,encoding='utf-8')
-manifest={'source':'https://www2.census.gov/geo/tiger/TIGER2026/PLACE/tl_2026_17_place.zip','version':'TIGER/Line 2026','source_sha256':hashlib.sha256(archive.read_bytes()).hexdigest(),'projection':'EPSG:26916 / NAD83 UTM16N','simplification_meters':45,'context_simplification_meters':90,'cities':registry,'water_sources':water_sources,'chicago_reference':{'geoid':'1714000','latitude':chicago['INTPTLAT'],'longitude':chicago['INTPTLON'],'type':'Census internal point, non-navigation landmark'}}
+manifest={'source':'https://www2.census.gov/geo/tiger/TIGER2026/PLACE/tl_2026_17_place.zip','version':'TIGER/Line 2026','source_sha256':hashlib.sha256(archive.read_bytes()).hexdigest(),'projection':'EPSG:26916 / NAD83 UTM16N','simplification_meters':45,'context_simplification_meters':90,'cities':registry,'chicago_boundary':{'geoid':'1714000','meaning':'municipal geography, not guaranteed service coverage','destination_page_id':495,'clipped_to_existing_viewport':True},'water_sources':water_sources,'chicago_reference':{'geoid':'1714000','latitude':chicago['INTPTLAT'],'longitude':chicago['INTPTLON'],'type':'Census internal point, non-navigation landmark'}}
 (HERE/'geography.json').write_text(json.dumps(manifest,indent=2)+'\n',encoding='utf-8')
 css=(HERE/'map.css').read_text(encoding='utf-8');js=(HERE/'map.js').read_text(encoding='utf-8')
 fragment='<style>'+css+'</style><div class="gc-map-fallback"><a class="city-link gc-map-chicago" href="/service-area/" aria-label="Chicago — view service areas"><p class="city-link__text">Chicago</p></a><div class="gc-map-panel" data-gc-map-panel><div class="gc-map-canvas"><span class="gc-map-caption">Chicagoland</span>'+svg+'<div class="gc-map-selection" aria-live="polite" hidden><span data-map-label></span><a data-map-visit hidden>View city page <span aria-hidden="true">→</span></a></div></div><p class="gc-map-note">Featured locations shown for reference. Contact GCPRO to confirm service availability.</p><p class="gc-map-source">Municipal boundaries: US Census Bureau · TIGER/Line 2026</p></div></div><script>'+js+'</script>'

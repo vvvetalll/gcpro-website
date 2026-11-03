@@ -280,3 +280,9 @@ Concurrent geographic verification work preserved: exact serviceable Chicago/add
 
 Chicago hover correction — 2026-11-03: owner now requests synchronized hover for the existing Chicago point/label and first city row; keyboard focus on the list link also highlights the marker. No boundary, marker navigation, touch two-tap target or new destination added; the earlier no-hover decision above is superseded. Scoped to Draft4104.
 Targeted authenticated-preview check passed: list-to-marker and marker-to-list hover, orange point/text, clear on pointer leave, and keyboard focus on Chicago. Other municipality handlers and shared1140 unchanged.
+
+
+Chicago area hover correction — 2026-11-03: owner explicitly supersedes the point-only/no-boundary decision. Chicago now uses its official Census1714000 municipal polygon, clipped to the unchanged map viewport, with synchronized list/area highlight and the existing directory495 destination; its permanent point and label stay passive orientation references in their original colors. Existing interaction handlers apply to the area (desktop direct navigation, keyboard and touch two-tap); no new page, service-eligibility boundary or shared1140 edit. Municipal geography does not settle coverage questions in GEO01–GEO04.
+
+Owner reiterated list styling: active/hover/focus rows use orange text/arrow and a full-width orange bottom separator, transparent background, no left accent; visible keyboard outline retained. This supersedes the light-orange row-fill instruction.
+Lake Michigan label moved right and upward into open water to separate it from the shoreline. Authenticated desktop preview verified Chicago area/list hover synchronization, orange full-width separator/text without fill, unchanged landmark color, and visible lake-label clearance; no full regression repeated.

@@ -67,6 +67,12 @@
       "area_change_ratio": 0.001
     }
   ],
+  "chicago_boundary": {
+    "geoid": "1714000",
+    "meaning": "municipal geography, not guaranteed service coverage",
+    "destination_page_id": 495,
+    "clipped_to_existing_viewport": true
+  },
   "water_sources": [
     {
       "url": "https://www2.census.gov/geo/tiger/TIGER2026/AREAWATER/tl_2026_17031_areawater.zip",

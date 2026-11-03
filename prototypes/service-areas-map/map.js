@@ -4,12 +4,12 @@ function init(root){
  if(root.dataset.mapReady)return;
  const panel=root.querySelector('[data-gc-map-panel]'),section=root.querySelector('section'),columns=section?.querySelector('.city-link')?.parentElement?.parentElement;
  if(!panel||!columns)return;
- const container=columns.parentElement,links=[...columns.querySelectorAll('a.city-link')],paths=[...panel.querySelectorAll('[data-geoid]')];
+ const container=columns.parentElement,links=[...columns.querySelectorAll('a.city-link')],paths=[...panel.querySelectorAll('[data-geoid]:not(.gc-map-chicago-area)')];
  const normalize=s=>s.trim().toLowerCase();
  const pairs=paths.map(path=>({path,link:links.find(a=>normalize(a.textContent)===normalize(path.dataset.city))}));
  if(pairs.some(p=>!p.link)||pairs.length!==links.length)return;
  const chicago=root.querySelector('.gc-map-chicago');if(chicago){const directory=columns.nextElementSibling.querySelector('a[href]');if(directory)chicago.href=directory.href;columns.firstElementChild.prepend(chicago);}
- const chicagoMarker=panel.querySelector('.gc-map-landmark');if(chicago&&chicagoMarker)pairs.push({path:chicagoMarker,link:chicago,reference:true});
+ const chicagoArea=panel.querySelector('.gc-map-chicago-area');if(chicago&&chicagoArea)pairs.push({path:chicagoArea,link:chicago});
  root.dataset.mapReady='true';container.classList.add('gc-map-layout');columns.classList.add('gc-map-links');container.firstElementChild.classList.add('gc-map-intro');columns.nextElementSibling.classList.add('gc-map-actions');container.insertBefore(panel,columns.nextElementSibling);
  const svg=panel.querySelector('svg'),ns='http://www.w3.org/2000/svg',world=document.createElementNS(ns,'g');
  svg.prepend(world);world.append(svg.querySelector('.gc-map-context'),svg.querySelector('.gc-map-features'));

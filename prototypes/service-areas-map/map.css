@@ -5,7 +5,7 @@
 .gc-map-prototype .gc-map-links{grid-column:1;grid-row:2;display:grid;grid-template-columns:1fr!important;gap:0!important}
 .gc-map-prototype .gc-map-links a.city-link{min-height:49px;padding:12px 10px;border-bottom:1px solid #dce1e9;color:var(--map-text)!important;text-decoration:none;box-shadow:none;transition:background .15s,color .15s}
 .gc-map-prototype .gc-map-links a.city-link .city-link__text{color:inherit!important;text-decoration:none}
-.gc-map-prototype .gc-map-links a.city-link:is(.is-map-active,:hover,:focus-visible){background:#fff1e9;color:var(--map-navy)!important;border-bottom-color:#dce1e9;box-shadow:none}
+.gc-map-prototype .gc-map-links a.city-link:is(.is-map-active,:hover,:focus-visible){background:transparent;color:var(--map-orange)!important;border-bottom-color:var(--map-orange);box-shadow:none}
 .gc-map-prototype .gc-map-links a:is(.is-map-active,:hover,:focus-visible)::after{color:var(--map-orange)}
 .gc-map-prototype .gc-map-links a:focus-visible{outline:2px solid var(--map-navy);outline-offset:2px}
 .gc-map-prototype .gc-map-actions{grid-column:1;grid-row:3;margin-top:24px;gap:12px}
@@ -37,7 +37,7 @@
 :is(.gc-map-prototype,.gc-map-fallback) .gc-map-water{pointer-events:none;stroke:none}
 :is(.gc-map-prototype,.gc-map-fallback) .gc-map-water path{fill:#c1d8e8;stroke:none}
 :is(.gc-map-prototype,.gc-map-fallback) .gc-map-water text{fill:var(--map-text);stroke:none;font:italic 13px Inter,Arial}
-:is(.gc-map-prototype,.gc-map-fallback) .gc-map-landmark{pointer-events:visiblePainted}
+:is(.gc-map-prototype,.gc-map-fallback) .gc-map-landmark{pointer-events:none}
 :is(.gc-map-prototype,.gc-map-fallback) .gc-map-landmark circle{fill:var(--map-navy);stroke:white;stroke-width:1.5}
 :is(.gc-map-prototype,.gc-map-fallback) .gc-map-landmark text{fill:var(--map-text);font:600 14px Inter,Arial;stroke:white;stroke-width:3;paint-order:stroke}
 @media(max-width:1024px){.gc-map-prototype .gc-map-layout{gap:0 24px}}
@@ -65,4 +65,4 @@
 .gc-map-prototype .gc-map-selection{position:static;width:auto;max-width:none;flex-direction:row;align-items:center;justify-content:space-between;gap:10px;border-width:1px 0 0;border-radius:0;padding:10px 14px}
 .gc-map-prototype .gc-map-selection [data-map-label]{font-size:18px}
 
-.gc-map-prototype .gc-map-landmark.is-map-active :is(circle,text){fill:var(--map-orange)}
+
