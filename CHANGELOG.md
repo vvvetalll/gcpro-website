@@ -1,6 +1,11 @@
 # GCPRO changelog
 
 
+## Lombard Local Team approved copy — 2026-11-03
+
+Restored two meaningful paragraphs under the Local Team heading; kept the two office text links removed as requested. Existing24px desktop gap allows the four nearby links to remain in one row; full left span and natural office card both373.042px, with matching boundaries and no desktop overflow. Owner visually approved. Final copy mobile wrapping not rechecked. [Final record](docs/components/service-areas.md#lombard-local-team-height-correction--2026-11-03).
+
+
 ## Lombard Local Team height correction — 2026-11-03
 
 Replaced the width-only approach with equal desktop visual boundaries and the original natural-height card. Restored57/43 proportions, removed463px width limit, placed nearby navigation in the left grid area, and removed left prose/duplicate address and both office text links per the owner's follow-up instructions. Desktop complete left/card both373.042px with matching top/bottom;390px card retains367.844px natural height and single-column stacking. Native styles, no fixed height/custom CSS, production untouched. [Exact IDs, before/after measurements and limits](docs/components/service-areas.md#lombard-local-team-height-correction--2026-11-03).
