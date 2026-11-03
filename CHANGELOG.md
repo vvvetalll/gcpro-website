@@ -1,5 +1,10 @@
 # GCPRO changelog
 
+## Geographic service coverage verification register — 2026-11-03
+
+Added GEO01–GEO04 to existing `docs/SERVICE_CAPABILITY_QUESTIONS.md` for management/operations confirmation of serviceable cities/ZIPs, exclusions, service-specific coverage, address-check ownership, and dispatch/radius claims. Current featured city links and interactive map are not confirmed eligibility boundaries. No WordPress, Elementor, popup, prototype or production changes; no coverage claims approved. Next: obtain authorized operations/management answers, then request separate approval for any website changes.
+
+
 ## Final compact map prototype — 2026-11-03
 
 Draft4104 now uses in-map title/zoom controls, conditional floating city navigation and compact disclaimer/source footer. Chicago remains a passive reference. Owner restored the original transparent/orange-text/full-row-line hover, superseding the pasted light-orange-fill brief.1440/390,20 hover checks,10 keyboard href mappings, touch, zoom/reset and no-JS checks passed; all city pages published, exhaustive guest navigation blocked403. Shared1140 unchanged. [Verification, decisions and rollback](docs/components/service-areas.md#final-compact-prototype--2026-11-03).
