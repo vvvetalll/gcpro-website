@@ -1,5 +1,9 @@
 # GCPRO changelog
 
+## Service Areas technical optimization — 2026-11-03
+
+Staging Custom Code4134 now loads on 21 explicit consumers rather than the entire site. Decorative geometry simplified with featured cities/Lake Michigan exact; artifact214,733→199,353 bytes. Native destination mapping replaces label/count dependence;12 duplicate SVG keyboard stops removed, focus highlighting retained; unused code and public body observation removed. Design, CTA actions, native Overrides and coverage unchanged. [Current evidence, limitations and rollback](docs/components/service-areas.md#technical-optimization--2026-11-03). GEO01–GEO04 remain open; production untouched.
+
 ## Unified Trustindex card styling — 2026-11-03
 
 Updated11 existing vendor configurations through native settings: white cards, light1px borders, existing12px radius/20px padding and typography retained. Preserved IDs, service tags/manual selections, page references, rating summary and section layouts; no custom CSS or new widgets. Saved-value comparisons passed; updated Water514 frontend visually confirmed. Owner stopped further verification; final responsive/interaction and full post-cache acceptance remain unverified, including the existing4051 renderer limitation. [Configuration, inventory, verification limits and rollback](docs/integrations/2026-11-02-trustindex-refresh.md#unified-native-card-appearance--2026-11-03).

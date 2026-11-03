@@ -1,8 +1,8 @@
 # GCPRO project context
 
-## Service Areas interactive map — prototype ready for review, 2026-11-03
+## Service Areas interactive map — shared staging implementation, 2026-11-03
 
-Unpublished Draft4104 implements the approved SVG/Census2026 approach for the existing ten cities. Native1140 is reused unchanged; prototype code is isolated to one local HTML widget. Desktop/mobile, bidirectional hover, keyboard, touch, native destinations and no-JS fallback verified. [Preview, exact tests, constraints and next approval](docs/components/service-areas.md#interactive-map-prototype--2026-11-03). Awaiting owner visual/behavior approval; no shared integration or consumer rollout authorized/performed.
+Approved map is deployed through Component1140 and Custom Code4134 on 21 published consumers. Technical optimization retains geography/design/native Overrides, matches destinations by verified paths, removes 12 duplicate keyboard stops and limits inline delivery to those 21 page IDs. Artifact 214,733 → 199,353 UTF-8 bytes; local gzip 73,463 → 70,430 (not measured wire transfer). Native Elementor editing remains available; enhanced interactions use frontend preview. Guest network testing is currently blocked by SiteGround202; GEO01–GEO04 remain open. [Current tests, limitations, handoff and rollback](docs/components/service-areas.md#technical-optimization--2026-11-03). Production unchanged.
 
 ## Moisture Mapping and required service benefits — 2026-11-02
 

@@ -1,5 +1,53 @@
 # Service Areas
 
+## Technical optimization — 2026-11-03
+
+**Current task/status and handoff.** Supersedes the rollout's sitewide delivery/observer/accessibility descriptions below. Staging only; existing1140,4134 and21 published consumers. No production, page-definition, global-template, map-CSS, CTA-style, Popup1801 or coverage edits. GEO01–GEO04 remain OPEN.
+
+### Confirmed findings and implementation
+
+- Saved4134 matched the pre-change compiled source after newline normalization. Default branch `main` and remote head checked before changes. Private recoverable backup: `gcpro-map-optimization-20261103/4134-before.html` outside Git; former display condition was Entire Site. Existing1140 was inspected in the native in-context editor: semantic root hook,11 native city links, heading/content Overrides and both CTA fields retained; no native definition write.
+- Entire Site really delivered the214,733-byte inline artifact to Contact Us, which has no map. Replaced it with21 explicit **Include → Singular → Pages** conditions, exactly the page IDs in the consumer inventory below. Reopened/saved native conditions and confirmed Contact Us contains neither the map script nor a map. Future consumers must be added to4134's native conditions. Draft4104 remains unpublished/native and is outside this allowlist; use a published consumer for the enhanced preview.
+- Existing compiler now simplifies only decorative land rings, starting each time from unchanged `map-panel.html`. Maximum Hausdorff deviation0.45 SVG units (asserted≤0.451); ring count retained. Featured municipalities and everything from the Lake Michigan group onward compare byte-for-byte identical. Existing coordinates already use0.1 precision; indiscriminate rounding or removal of islands was rejected. Shapely was already used by the Census builder; no new runtime dependency, request, plugin or build system.
+- Runtime1.1.0 matches same-origin verified native destination paths to GEOIDs, not visible city names or an exact link count. Each pair continues to use the actual native link's URL. Unknown destinations remain native links; unmatched polygons become noninteractive; zero matches leave the native component intact. Diagnostics are restricted to Elementor preview URLs.
+- Native links are the primary accessible navigation. Removed11 polygon tab stops and the SVG tab stop. The SVG is one descriptive image identifying Chicago, ten suburbs, Lake Michigan and the eligibility caveat; decorative polygons are hidden from the accessibility tree. List focus highlights its municipality, preserves the existing focus outline and recenters it when zoomed. Arrow keys on the existing zoom controls pan; native Enter navigation is untouched.
+- Published consumers have their native component in the initial rendered document; startup runs once at DOM readiness with singleton/per-root guards. Removed persistent public body observation. The active Atomic editing canvas owns/replaces its native tree, so the enhancement intentionally skips that canvas instead of reparenting nodes while Elementor renders them. Native editing remains available; use frontend Preview Changes to test the map. No public dynamic insertion was observed/required on these21 consumers; future AJAX-inserted consumers require a specific lifecycle integration rather than restoring unconditional body observation.
+- Removed empty `positionInfo()`, never-assigned reference branches, hidden-info coordinate writes and obsolete polygon keyboard handlers. Path center coordinates remain used for zoomed keyboard-focus recentering. Pointer/touch selection, drag suppression and controls remain intact.
+- Arrow audit: all11 rendered arrows use the same `→`, Inter20px/20px and the same51.6004px desktop row height. Fractional positions exist, but no inconsistent CSS/font fallback was demonstrated. No speculative arrow replacement or style change; cross-browser rasterization remains unverified.
+
+### Measurements
+
+UTF-8 sizes normalize CRLF to LF to match WordPress delivery. gzip values are reproducible local gzip level9 compression, **not measured server transfer sizes**.
+
+| Metric | Before | After |
+|---|---:|---:|
+| Compiled map source, bytes | 214,733 | 199,353 |
+| Local gzip, bytes | 73,463 | 70,430 |
+| Map script contribution on Contact Us | 214,733 bytes | 0 |
+| Duplicate SVG keyboard stops | 12 | 0 |
+| Dedicated map/geometry requests introduced by runtime | 0 | 0 |
+| Public initialization | DOM-ready plus persistent body observer | DOM-ready once; no body observer |
+| Actual document response bytes / compressed wire transfer | Not captured | Not captured |
+| Cold/repeat transfer and numeric CLS | Not measured reliably | Not measured reliably |
+
+Raw reduction15,380 bytes (7.16%); local gzip reduction3,033 bytes (4.13%). Original source panel199,123 bytes dominates payload; scoped CSS6,713 bytes. Featured geography was preserved rather than chasing a larger reduction. Script remains inline on map pages and cannot be cached independently of HTML. Conditional native emission avoids the whole payload on unrelated pages without adding a runtime asset dependency.
+
+Read-only DOM serialization on Contact Us was457,454 characters before and242,970 after; this is a rendered, dynamically changing DOM observation, **not an HTML response/transfer measurement**. Browser network capture did not yield usable response/transfer records. Independent anonymous homepage/Contact Us requests returned SiteGround202 challenge responses (167/180 bytes), not website HTML. No Lighthouse score, wire compression ratio, cache-hit improvement or quantified CLS improvement is claimed. Existing scoped layout CSS is byte-unchanged; responsive visual checks found no new overflow.
+
+### Actual verification and limits
+
+- Authenticated Chrome: all21 inventory consumers showed their expected heading Override, one root/one initialized panel,11 matched native destinations and zero SVG/polygon tab stops; no horizontal overflow at the inspected viewport. This is a structural21-page pass, not a full interaction suite on every page. No direct page edits.
+- Integrated homepage at1440px: all11 list→map and11 map→list pointer hover cases matched; all11 focused links highlighted the matching polygon with solid visible outlines. Existing15 available controls at default zoom are11 native links, two CTAs, Zoom in and Reset; disabled Zoom out is skipped. One Zoom click gives150%, keyboard ArrowRight pans, pointer drag changes transform without navigation, Reset returns100%. No duplicated map or repeated zoom increment observed; this is not a browser-wide listener census.
+- Direct desktop polygon click opened Lombard; no map-runtime error was observed in the captured frontend error log. All11 native city links were actually opened in browser tabs and their destination titles checked, including Chicago→directory495. Actual Tab moved through the11 native cities in order; Enter on Chicago opened directory495. Both desktop CTAs tested: directory opened and availability opened Popup1801. No form submitted.
+- Integrated touch emulation at768px and390px: first tap selects, choosing another city updates selection, second same-city tap opens Lombard; at150% touch dragging changes transform without navigating, clears selection, and Reset returns100%. At both widths there is no horizontal overflow, controls fit, and actions follow the map.390px CTA buttons have equal334.667px widths and52.531px heights. A single touch on the native Chicago list link opened directory495; mobile availability also opens1801. Ordinary scrolling/scroll-to-element works; no physical-device test is claimed.
+- Modified-label/partial-list test runs the actual initializer's route-resolution section in a local Node fixture: all11 renamed display labels still match; one unknown route retains10 pairs and disables only its polygon; zero valid routes leaves native fallback. This is a source-level initialization test, not a persisted content experiment on staging.
+- Source checks: JavaScript syntax, deterministic compilation, ring retention, bounded geometric deviation, exact featured/water preservation and whitespace diff check. Saved4134 reread in chunks equals the final compiled artifact after newline normalization. Existing polygon title removal is retained to avoid reintroducing native hover tooltips. Native editing canvas retains11 links and both CTA fields; no editor Publish action performed.
+- Actual screen reader, other browsers, physical touch devices, guest rendering, reliable cold/repeat network/CLS profiling and arbitrary future dynamically inserted components remain unverified. Elementor/AIOSEO editor diagnostics were observed; they are not represented as a clean global-console pass. No production or coverage change.
+
+### Recovery and next handoff
+
+To revert only this optimization, restore `integrations/service-areas-map/{map.js,compile.py,custom-code.html}` from pre-optimization commit `cbdb67133b77ad0a80b1d25c7e355f856f268ab3`, paste that artifact into4134, and restore its former Entire Site condition if sitewide delivery is intentionally desired. Recheck saved code and relevant staging cache. Do not revert1140, native links/Overrides, button sweeps, unrelated work or GEO01–GEO04. The private4134 backup is an additional recovery copy, never committed. Owner visual acceptance and the explicitly unverified checks above remain separate from implementation completion.
+
 ## Shared interactive map rollout — 2026-11-03
 
 **Current implementation; supersedes prototype-only restrictions below.** Owner authorized integrating the approved Draft4104 revision from `main` at `13b0b2aae463483f6108410b064b55e180a26215` into existing Atomic Component1140 on staging. No second component, production deployment, unrelated page content, global templates, Popup1801 or eligibility rules changed. GEO01–GEO04 remain OPEN.
