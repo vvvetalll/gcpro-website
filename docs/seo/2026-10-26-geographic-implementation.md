@@ -1,5 +1,13 @@
 # Geographic implementation plan — 2026-10-26
 
+## Northbrook page-only update — 2026-11-03
+
+Published556 Hero3a6c6383 description and six page-specific68 text Overrides (3bb3f663/62dcb64f/54eb4f9/578063a4/2e32d902/e6069d8), preserving all URLs/styles. New compact guidance e498a54c links verified official https://www.northbrook.il.us/491/Managing-Flooding and separates source reporting from interior restoration. Removed middle CTA28491194; final6a45079b unchanged. Local Team layout/card/links unchanged; only78539154/590b4633 copy updated. Full Reviews eba50b69 and Affiliations d4e94f24 inserted before unchanged FAQ10c58d44. Page-specific title/meta/Service graph added; canonical/noindex,nofollow retained. Garage Before/After and four project cards unchanged. No shared definitions, service pages or production edited.
+
+One authenticated pass actual1440/390: scroll/client1425/1425 and375/375, updated content/destinations present, four projects, comparison, one CTA,10 reviews and affiliations observed. Project image alts present; existing Hero alt remains empty (not corrected before task switched). No shared interactions tested. Arrow appearance left unchanged without demonstrated page-local defect. No physical Android, anonymous HTTP or separate CTA/slider navigation certification. Private nb-before.json/nb-final.json/nb-ids.json hold recovery outside Git.
+
+Garage-fire location remains pending independent provenance confirmation for production; historical notes contain inconsistent provisional/verified language and no newer definitive job record was established in the bounded lookup. Preserve approved staging attribution without claiming fresh verification. Future Fire & Smoke case recommendation; Board-Up only if actual work records establish it, never from exposed-garage photographs alone. Management question: standalone exterior hardscape/patio/drainage service, reconstruction scope or subcontracted work? Existing roofing/flashing/remodeling questions remain open. No new service pages or job search.
+
 ## Oak Brook page-only completion — 2026-11-03
 
 Published staging536 only. Hero244b5304 now uses existing completed Oak Brook bathroom photograph Media2705, featured image of verified Project2701 Bathroom Repairs After a Shower Leak, with its accurate existing alt. Replaces private Promenade sign3519 without deleting media. Requested description applied; H1/composition/buttons unchanged. Six existing68 instances400e7f9b/3bd85761/46860ae/2b29d54/712a88d2/2bf1c10e receive only requested title/description Overrides; destinations/styles/structure retained. No shared-definition inspection/edit or interaction tests.
