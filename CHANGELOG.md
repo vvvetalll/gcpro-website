@@ -1,5 +1,9 @@
 # GCPRO changelog
 
+## Final compact map prototype — 2026-11-03
+
+Draft4104 now uses in-map title/zoom controls, conditional floating city navigation and compact disclaimer/source footer. Chicago remains a passive reference. Owner restored the original transparent/orange-text/full-row-line hover, superseding the pasted light-orange-fill brief.1440/390,20 hover checks,10 keyboard href mappings, touch, zoom/reset and no-JS checks passed; all city pages published, exhaustive guest navigation blocked403. Shared1140 unchanged. [Verification, decisions and rollback](docs/components/service-areas.md#final-compact-prototype--2026-11-03).
+
 ## Interactive Service Areas map prototype — 2026-11-03
 
 Built unpublished staging Draft4104 with native1140 content and one isolated SVG/CSS/JS integration. Official Census2026 geometry for the existing ten cities; no duplicated URL registry or global changes. Bidirectional hover20/20, keyboard destinations10/10, actual Lombard/Naperville navigation, mobile touch,1440/390 overflow/appearance, no-JS, reduced motion and Popup1801 opening checked. Shared1140 unchanged. Owner approval required before shared integration. [Architecture, mapping, evidence, limits and rollback](docs/components/service-areas.md#interactive-map-prototype--2026-11-03).

@@ -61,7 +61,7 @@ named_lake=unary_union(waters)
 lake=unary_union([g for g in water_candidates if g.intersects(named_lake)]).intersection(clip).simplify(45,preserve_topology=True)
 assert lake.is_valid and not lake.is_empty
 lx,ly=point(*lake.representative_point().coords[0])
-water=f'<g class="gc-map-water" aria-label="Lake Michigan"><path d="{path(lake)}"/><text x="{lx:.1f}" y="{ly:.1f}" text-anchor="middle">Lake Michigan</text></g>'
+water=f'<g class="gc-map-water" aria-label="Lake Michigan"><path d="{path(lake)}"/><text x="{min(lx,580):.1f}" y="{ly:.1f}" text-anchor="middle"><tspan x="{min(lx,580):.1f}">Lake</tspan><tspan x="{min(lx,580):.1f}" dy="1.2em">Michigan</tspan></text></g>'
 chicago=next(d for d,g in records if d['GEOID']=='1714000')
 cx,cy=point(*project(float(chicago['INTPTLON']),float(chicago['INTPTLAT'])))
 assert 0<cx<W and 0<cy<H
@@ -81,6 +81,6 @@ svg='<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 580" aria-label="F
 manifest={'source':'https://www2.census.gov/geo/tiger/TIGER2026/PLACE/tl_2026_17_place.zip','version':'TIGER/Line 2026','source_sha256':hashlib.sha256(archive.read_bytes()).hexdigest(),'projection':'EPSG:26916 / NAD83 UTM16N','simplification_meters':45,'context_simplification_meters':90,'cities':registry,'water_sources':water_sources,'chicago_reference':{'geoid':'1714000','latitude':chicago['INTPTLAT'],'longitude':chicago['INTPTLON'],'type':'Census internal point, non-navigation landmark'}}
 (HERE/'geography.json').write_text(json.dumps(manifest,indent=2)+'\n',encoding='utf-8')
 css=(HERE/'map.css').read_text(encoding='utf-8');js=(HERE/'map.js').read_text(encoding='utf-8')
-fragment='<style>'+css+'</style><div class="gc-map-fallback"><div class="gc-map-panel" data-gc-map-panel><div class="gc-map-caption"><span>Chicagoland</span><span>Featured municipalities</span></div>'+svg+'<div class="gc-map-selection" aria-live="polite"><span data-map-label>Explore a location</span><a data-map-visit hidden>View city page <span aria-hidden="true">→</span></a></div><p class="gc-map-note">Featured locations shown for reference. Contact GCPRO to confirm service availability.</p><p class="gc-map-source">Municipal boundaries: US Census Bureau · TIGER/Line 2026</p></div></div><script>'+js+'</script>'
+fragment='<style>'+css+'</style><div class="gc-map-fallback"><div class="gc-map-panel" data-gc-map-panel><div class="gc-map-canvas"><span class="gc-map-caption">Chicagoland</span>'+svg+'<div class="gc-map-selection" aria-live="polite" hidden><span data-map-label></span><a data-map-visit hidden>View city page <span aria-hidden="true">→</span></a></div></div><p class="gc-map-note">Featured locations shown for reference. Contact GCPRO to confirm service availability.</p><p class="gc-map-source">Municipal boundaries: US Census Bureau · TIGER/Line 2026</p></div></div><script>'+js+'</script>'
 (HERE/'prototype-widget.html').write_text(fragment,encoding='utf-8')
 print(json.dumps({'cities':registry,'svg_bytes':len(svg.encode()),'widget_bytes':len(fragment.encode())},indent=2))
