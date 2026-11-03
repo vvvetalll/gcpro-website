@@ -438,3 +438,101 @@ Scoped approved project/BA register review found attic1596 and window2202 mold e
 
 Verification: all changed string fields read back; unaffected tree equality passed; live H1/SEO/links confirmed. Chrome actual1440 and390 checks: scroll/client1425/1425 and375/375, no page-content heading/paragraph/link horizontal clipping (admin toolbar excluded); desktop six-card proportions visually balanced. Mobile mold-testing accordion expands and shows complete answer. Screenshots retained privately outside Git. No physical-device/anonymous or extensive unchanged-component regression claim. No shared definition mutation calls performed. Recovery: restore only listed instance values/native references using this record and revisions, preserving newer unrelated changes; restore prior meta description separately.
 
+## Commercial Reconstruction524 B2B optimization — 2026-11-03
+
+Published staging [Page524](https://vitaliiv1.sg-host.com/commercial-services/reconstruction/) only. Default/approved Git branch main; fresh pre-write structure matched the inspected tree. Eight existing component instances received native Overrides: Hero7f87c33d/1318, Scope667df646/1345, Process140df6d6/1152, midCTA7f7ab815/80, Related3da1bba/1356, Why76d33b83/1149, FAQ1985efaa/1354, finalCTA7456c18c/80.
+
+Hero final owner correction: existing BEAF1203 is displayed through media mode prop-1793402769377-l2hltut=before_after and comparison prop-1793402776940-ao336d8=1203. The interim request1209 was superseded before saving. Image2134 (approved Boys & Girls Club Chicago interior) remains fallback, replacing original truck616. No slider definition/media or shared Hero definition changed. Saved readback, anonymous HTML slider1203 and browser Hero image/handle/fullscreen visibility confirmed; no exhaustive BEAF interaction retest.
+
+Local gallery grid9d020797 previously used grid3 for two cards. Added local native style e-c93fba71f0c3: two equal desktop columns, one mobile column. This is the explicitly authorized Page524 exception to prior grid3 guidance. Headingf98cab2b: “Club Room Renovation (Window View)” → “Club Room Renovation”; project descriptions, locations, BEAF1209/1202 and hierarchy preserved.
+
+Reported lower-button border defect was not reproduced: all four borders were complete solid navy (computed0.666667px), no ancestor clipping. No button CSS changed. Service Areas arrows use the existing → pseudo-element; no shared styling change.
+
+SEO title: “Commercial Property Reconstruction Chicago | GCPRO” → “Commercial Reconstruction in Chicago | GCPRO”.
+Meta description: “Discuss commercial property repairs with GCPRO. Define building areas, decision responsibilities, finishes and access needs before agreeing on the reconstruction scope.” → “Commercial reconstruction in Chicago after water, fire or storm damage. GCPRO restores walls, ceilings, flooring and interiors. Call 847-656-3322.”
+Canonical, robots, schema, slug and published status preserved.
+
+Verification: saved string Overrides matched; published metadata and one H1 confirmed. Request492 and service destinations522/515/520/519 exist and are published. Desktop1440/mobile390 emulation had scroll/client widths1425/1425 and375/375. Gallery rendered two556px columns desktop and one334.667px column mobile. Related buttons had complete borders/no clipping; mobile text stayed within bounds. FAQ expanded via native control. Header/footer, Service Areas1140, existing Reviews and Affiliations1886 were not edited. Browser viewport reset. Owner visual acceptance remains; no physical-device or extensive unchanged-component regression claimed.
+
+Capability questions remain OPEN in SERVICE_CAPABILITY_QUESTIONS: licenses/insurance, permits, warranty, Xactimate, phased/after-hours delivery and precise insurance/adjuster protocols. Neutral FAQ avoids affirmative claims. Card6 uses “Building repairs” without an unverified structural-scope promise; insurance coverage is not promised.
+
+Recovery: restore recorded before Overrides below and prior AIOSEO strings; remove only the new grid local style and restore the old project title. Hero photo mode can restore fallback2134, or original616 for full pre-task rollback. Preserve any newer edits.
+
+### Exact content and link Overrides
+
+| Instance / field | Before | After |
+|---|---|---|
+| 7f87c33d / h1 | Reconstruction for Commercial Properties | Commercial Reconstruction in Chicago |
+| 7f87c33d / description | Commercial reconstruction starts with a defined building scope and clear decisions about access and finishes. Talk to GCPRO about the property areas that need repair and the requirements the proposed work must address. | After water, fire, or storm damage, GCPRO helps restore commercial buildings with reconstruction services for damaged walls, ceilings, flooring, and interior finishes. |
+| 7f87c33d / image | {"src":{"id":616},"size":"full"} | {"src":{"id":2134},"size":"full"} |
+| 7f87c33d / request_text | VIEW SERVICE AREAS | Request Service |
+| 7f87c33d / request_link | {"destination":{"name":"internal-url","group":"site","settings":{"type":"post","post_id":{"id":495,"label":"Service Area"}}},"isTargetBlank":false,"tag":"a"} | {"destination":{"id":492},"isTargetBlank":false,"tag":"a"} |
+| 667df646 / heading | Commercial Reconstruction Needs | What We Rebuild |
+| 667df646 / introduction | Building repairs can bring damaged interiors, shared spaces and entrances back together after restoration. | Commercial property damage can affect individual rooms, shared spaces, and building finishes. GCPRO helps plan and complete reconstruction work based on the affected areas and repair scope. |
+| 667df646 / type_1_title | Interior Finish Repairs | Interior Finishes |
+| 667df646 / type_1_description | Damaged wall, ceiling and floor finishes may need reconstruction following a property loss. | Walls, ceilings, and flooring damaged by water, fire, smoke, or other property losses. |
+| 667df646 / type_2_title | Common Room Updates | Tenant Spaces |
+| 667df646 / type_2_description | GCPRO's project gallery includes work on a shared clubroom and its interior finishes. | Commercial suites and occupied units that require coordinated access and repair planning. |
+| 667df646 / type_3_title | Entrance Repairs | Common Areas |
+| 667df646 / type_3_description | Building entrances can need repair or reconstruction, as shown in GCPRO's entrance project. | Lobbies, corridors, and shared spaces that need repairs after property damage. |
+| 667df646 / type_4_title | Tenant Space Repairs | Entrances & Storefronts |
+| 667df646 / type_4_description | Affected rooms within an occupied property may need building repairs alongside common areas. | Damaged doors, framing, and finishes affecting commercial entrances. |
+| 667df646 / type_5_title | Opened Building Areas | Opened Walls & Ceilings |
+| 667df646 / type_5_description | Walls and ceilings opened during restoration can need finishing to bring the space back together. | Areas opened during mitigation that require rebuilding and finishing. |
+| 667df646 / type_6_title | Rebuilding After Damage | Fire & Storm Rebuilds |
+| 667df646 / type_6_description | Fire, water or other property damage may leave connected repair needs beyond the initial cleanup. | Building repairs and interior reconstruction following fire, storm, or other significant property damage. |
+| 140df6d6 / heading | Reconstruction After a Business Property Loss | How Commercial Reconstruction Works |
+| 140df6d6 / description | Commercial reconstruction starts with the building repairs left after the earlier restoration work. The premises, authorized decisions and access needs shape the project. | Reconstruction begins with the affected areas, repair priorities and access needs. The agreed scope guides the work from planning through completion. |
+| 140df6d6 / step_1_title | Identify the Remaining Damage | Scope & Assessment |
+| 140df6d6 / step_1_description | Separate the building areas still needing repair from work already completed. Connect the affected finishes with earlier water, fire or remediation work so the reconstruction scope starts from the actual condition of the property. | We review the affected areas, identify necessary repairs, and discuss the proposed reconstruction scope with the property contact. |
+| 140df6d6 / step_2_title | Establish Repair Readiness | Plan the Work |
+| 140df6d6 / step_2_description | Identify unfinished moisture, remediation or source-repair issues before new finishes cover the materials. The owner, manager and any affected tenant need to know who can approve the building scope and finish choices. | We review access requirements, project sequencing, and coordination needs before reconstruction begins. |
+| 140df6d6 / step_3_title | Rebuild the Agreed Areas | Rebuild the Space |
+| 140df6d6 / step_3_description | Repairs connect the affected walls, ceilings, flooring and other included elements. Occupied areas, shared access and material decisions affect the work sequence; any phasing or special scheduling needs a project-specific arrangement. | Reconstruction work may include framing, drywall, ceilings, flooring, and interior finishes, depending on the approved scope. |
+| 140df6d6 / step_4_title | Check the Repair Handoff | Final Walkthrough |
+| 140df6d6 / step_4_description | Compare the completed building areas with the agreed repairs. Keep remaining items, additional damage and later improvements distinct. The end of one repair task does not by itself settle every access or operating decision for the premises. | The completed work is reviewed with the property contact, and any remaining project items are discussed. |
+| 7f7ab815 / title | LET’S DISCUSS YOUR PROPERTY | Need Commercial Reconstruction? |
+| 7f7ab815 / description | Tell GCPRO what happened and which areas are affected. Call to discuss the next step. | Discuss the damage, repair needs, and next steps for restoring your commercial property. |
+| 7f7ab815 / secondary_text | VIEW SERVICE AREAS | Request Service |
+| 7f7ab815 / secondary_link | {"destination":{"name":"internal-url","group":"site","settings":{"type":"post","post_id":{"id":495,"label":"Service Area"}}},"isTargetBlank":false,"tag":"a"} | {"destination":{"id":492},"isTargetBlank":false,"tag":"a"} |
+| 3da1bba / introduction | The general Reconstruction page explains building repairs. General Contracting covers planned improvements, while Commercial Water and Fire describe the earlier loss-related work. | Explore services for planned renovations and the water, fire or mold restoration work that may be needed before reconstruction. |
+| 3da1bba / item_1_title | Primary Reconstruction Information | Commercial General Contracting |
+| 3da1bba / item_1_description | Read the general building-repair and finish-planning information. | Planned renovations and remodeling beyond damage-related repairs. |
+| 3da1bba / item_1_link_text | EXPLORE Primary Reconstruction Information | Explore Commercial General Contracting |
+| 3da1bba / item_1_link | {"destination":{"name":"internal-url","group":"site","settings":{"type":"post","post_id":{"id":518,"label":"Reconstruction"}}},"isTargetBlank":false,"tag":"a"} | {"destination":{"id":522},"isTargetBlank":false,"tag":"a"} |
+| 3da1bba / item_2_title | General Contracting | Commercial Water Damage |
+| 3da1bba / item_2_description | For broader commercial project-scope discussions. | Water removal and structural drying before reconstruction begins. |
+| 3da1bba / item_2_link_text | EXPLORE General Contracting | Explore Commercial Water Damage |
+| 3da1bba / item_2_link | {"destination":{"name":"internal-url","group":"site","settings":{"type":"post","post_id":{"id":522,"label":"General Contracting"}}},"isTargetBlank":false,"tag":"a"} | {"destination":{"id":515},"isTargetBlank":false,"tag":"a"} |
+| 3da1bba / item_3_title | Commercial Water Recovery | Commercial Fire & Smoke |
+| 3da1bba / item_3_description | For water-related work that may precede repairs. | Fire and smoke damage cleanup before rebuilding affected spaces. |
+| 3da1bba / item_3_link_text | EXPLORE Commercial Water Recovery | Explore Commercial Fire & Smoke |
+| 3da1bba / item_3_link | {"destination":{"name":"internal-url","group":"site","settings":{"type":"post","post_id":{"id":515,"label":"Water Damage"}}},"isTargetBlank":false,"tag":"a"} | {"destination":{"id":520},"isTargetBlank":false,"tag":"a"} |
+| 3da1bba / item_4_title | Business Fire Recovery | Commercial Mold Remediation |
+| 3da1bba / item_4_description | For building and contents decisions after a fire. | Remediation of mold-affected areas before necessary repairs. |
+| 3da1bba / item_4_link_text | EXPLORE Business Fire Recovery | Explore Commercial Mold Remediation |
+| 3da1bba / item_4_link | {"destination":{"name":"internal-url","group":"site","settings":{"type":"post","post_id":{"id":520,"label":"Fire & Smoke"}}},"isTargetBlank":false,"tag":"a"} | {"destination":{"id":519},"isTargetBlank":false,"tag":"a"} |
+| 76d33b83 / 31a44bf8 | (default) | Reconstruction support for property managers, business owners and commercial building teams. |
+| 76d33b83 / 11debea0 | (default) | Commercial Property Focus |
+| 76d33b83 / 46074ea9 | (default) | Reconstruction services for businesses, tenant spaces, and commercial properties. |
+| 76d33b83 / 74658ef6 | (default) | Coordinated Restoration |
+| 76d33b83 / 2195b550 | (default) | Repair planning that considers the affected areas, building access, and restoration needs. |
+| 76d33b83 / 133bbae9 | (default) | Clear Project Scope |
+| 76d33b83 / 44c64cc8 | (default) | Defined reconstruction requirements and communication about the planned work. |
+| 76d33b83 / 49c6ac5f | (default) | Project Communication |
+| 76d33b83 / 65cfbe6e | (default) | Updates and coordination with the designated property contact throughout the reconstruction process. |
+| 1985efaa / question_1 | What needs to be ready before reconstruction? | Are you licensed and insured for commercial reconstruction? |
+| 1985efaa / answer_1 | Identify any earlier drying, remediation or source-repair work that remains unresolved. Establish the building areas involved and who can approve repairs and finish choices. New finishes should not conceal an unresolved earlier damage issue. | Ask GCPRO for the licensing and insurance documents relevant to your property and proposed reconstruction scope. Confirm the credentials required for your project during planning. |
+| 1985efaa / question_2 | How is this different from general contracting? | Who handles permits and inspections? |
+| 1985efaa / answer_2 | Commercial reconstruction addresses the repairs left after a loss and earlier restoration. Planned general contracting starts with the changes wanted for an existing space. A project can involve both, but their scopes and reasons for the work should stay clear. | Permit and inspection requirements depend on the property, location, and reconstruction scope. Responsibilities should be confirmed during project planning. |
+| 1985efaa / question_3 | Can repairs cover one entrance or shared room? | Can tenants or businesses remain open during reconstruction? |
+| 1985efaa / answer_3 | Yes. Identify the actual area and the building elements needing work. GCPRO’s entrance and clubroom photographs show visible changes in business spaces, but they do not establish the damage history or the scope of a different project. | That depends on the affected areas, safety requirements, and nature of the work. GCPRO discusses access and project sequencing with the property contact so operations can be planned accordingly. |
+| 1985efaa / question_4 | How should work in an occupied property be planned? | How is reconstruction different from general contracting? |
+| 1985efaa / answer_4 | Identify the spaces in use, shared routes and access restrictions before relying on a work sequence. The actual arrangements for the premises need to be established for the project. Continued occupancy or phased work is not automatically included. | Reconstruction focuses on repairing and rebuilding areas damaged by a property loss. General contracting may also include planned renovations and remodeling. |
+| 1985efaa / question_5 | Who handles permits, inspections or separate specialists? | What happens if additional damage is discovered? |
+| 1985efaa / answer_5 | Identify the requirements for the actual building repair and establish the responsible parties. Do not assume that a reconstruction enquiry includes every permit, inspection or professional service. Those responsibilities belong in the agreed project scope. | Additional damage may require changes to the reconstruction scope. The findings and next steps should be reviewed with the property contact before additional work is approved. |
+| 1985efaa / question_6 | What if new damage or a finish change affects the repairs? | Can reconstruction be part of an insurance claim? |
+| 1985efaa / answer_6 | Identify the changed condition or requested material before treating it as included work. Establish how it affects the affected area, materials and sequence. Keep remaining repair items and later improvements separate when checking completion. | Reconstruction may be included in a property damage claim, depending on the cause of loss and the insurance policy. Coverage and claim decisions are determined by the insurer. |
+| 7456c18c / title | DISCUSS YOUR NEXT STEP | Get Your Commercial Space Back in Service |
+| 7456c18c / description | Call GCPRO to talk through your property damage and the work you need to discuss. | Contact GCPRO to discuss reconstruction needs and the next steps for your commercial property. |
+

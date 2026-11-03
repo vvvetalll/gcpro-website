@@ -10,7 +10,7 @@ Created: 2026-11-01. **Purpose:** collect uncertain operational/service claims f
 |---|---|---|---|
 | G01 | Emergency pages: Water, Fire, Storm, Board-Up, Extraction | What is the actual 24/7 intake/dispatch procedure and what, if any, response or arrival time may be claimed? | OPEN; 24/7 emergency contact confirmed, arrival commitment not verified |
 | G02 | All restoration pages | Precisely what insurance support is provided: photos, estimates, damage reports, moisture readings, inventory, adjuster communication, supplements? Which services and exclusions? | OPEN for precise per-service protocols; no coverage promise |
-| G03 | Reconstruction and repairs | Verify applicable licenses, current insurance status, permit/inspection responsibilities and any written workmanship warranty. | OPEN |
+| G03 | Reconstruction and repairs, including Commercial524 reviewed2026-11-03 | Verify applicable licenses, current insurance status, permit/inspection responsibilities and any written workmanship warranty. For524 also confirm Xactimate usage, phased/after-hours availability and precise adjuster/documentation protocols (see G02). | OPEN; neutral copy published without affirmative guarantees |
 | G04 | Multi-stage recovery | Which services are performed in-house vs partners/subcontractors, and is one project manager/contact a standard? | OPEN |
 | G05 | Service case studies/media | Which photos show verified GCPRO projects, what work was performed, and are permissions/licenses recorded? Future branded employee photos planned. | OPEN |
 
