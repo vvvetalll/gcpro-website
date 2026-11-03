@@ -1,0 +1,69 @@
+/* Isolated draft only; no global Elementor definition changes. */
+.gc-service-areas-map{--map-navy:var(--color-primary,#1c3277);--map-orange:var(--color-accent,#f05a29);--map-text:var(--color-text,#374151)}
+.gc-service-areas-map .gc-map-layout{display:grid;grid-template-columns:minmax(0,36fr) minmax(0,64fr);gap:0 40px;align-items:stretch}
+.gc-service-areas-map .gc-map-intro{grid-column:1/-1;margin-bottom:28px}
+.gc-service-areas-map .gc-map-left{grid-column:1;grid-row:2;display:flex;flex-direction:column;gap:24px;min-width:0}
+.gc-service-areas-map .gc-map-links{flex:none;display:grid;grid-template-columns:1fr!important;gap:0!important}
+.gc-service-areas-map .gc-map-links a.city-link{min-height:49px;padding:12px 10px;border-bottom:1px solid #dce1e9;color:var(--map-text)!important;text-decoration:none;box-shadow:none;transition:background .15s,color .15s}
+.gc-service-areas-map .gc-map-links a.city-link .city-link__text{color:inherit!important;text-decoration:none}
+.gc-service-areas-map .gc-map-links a.city-link:is(.is-map-active,:hover,:focus-visible){background:transparent;color:var(--map-orange)!important;border-bottom-color:var(--map-orange);box-shadow:none}
+.gc-service-areas-map .gc-map-links a:is(.is-map-active,:hover,:focus-visible)::after{color:var(--map-orange)}
+.gc-service-areas-map .gc-map-links a:focus-visible{outline:2px solid var(--map-navy);outline-offset:2px}
+.gc-service-areas-map .gc-map-actions{margin-top:auto;gap:12px;align-items:flex-start;flex:none}
+.gc-service-areas-map .gc-map-actions a{white-space:normal}
+.gc-service-areas-map .gc-map-panel{grid-column:2;grid-row:2;min-width:0;display:flex;flex-direction:column;border:1px solid #e0e5eb;border-radius:10px;background:#f7f9fb;overflow:hidden;color:var(--map-text);font-family:var(--font-body,Inter,Arial)}
+.gc-service-areas-map .gc-map-canvas{position:relative;isolation:isolate}
+.gc-service-areas-map .gc-map-caption{position:absolute;z-index:2;left:16px;top:15px;font:600 18px/1.4 Montserrat,sans-serif;color:var(--map-text);pointer-events:none;background:rgba(247,249,251,.92);padding:3px 6px;border-radius:3px}
+.gc-service-areas-map .gc-map-svg{display:block;width:100%;height:auto;overflow:hidden}
+.gc-service-areas-map .gc-map-context{fill:#e9edf1;stroke:#fff;stroke-width:.8;pointer-events:none}
+.gc-service-areas-map .gc-map-city{fill:#9baecb;stroke:#536d99;stroke-width:1;fill-rule:evenodd;cursor:pointer;transition:fill .15s,stroke .15s}
+.gc-service-areas-map .gc-map-city.is-map-active,.gc-service-areas-map .gc-map-city:focus{fill:var(--map-orange);stroke:none;outline:none}
+.gc-service-areas-map .gc-map-north{fill:#586579;stroke:#586579;stroke-width:1.5;font:12px Arial;text-anchor:middle;transform:translateY(52px);pointer-events:none}
+.gc-service-areas-map .gc-map-selection{position:absolute;z-index:3;width:260px;max-width:calc(100% - 24px);padding:14px 16px;display:flex;flex-direction:column;align-items:flex-start;gap:4px;border:1px solid #dce1e9;border-radius:6px;background:#fff;color:var(--map-text)}
+.gc-service-areas-map .gc-map-selection[hidden]{display:none}
+.gc-service-areas-map [data-map-label]{font:600 22px/1.3 Montserrat,sans-serif}
+.gc-service-areas-map .gc-map-selection a{color:var(--map-text);min-height:44px;display:inline-flex;align-items:center;gap:12px;font-size:15px;text-decoration:underline;text-underline-offset:4px}
+.gc-service-areas-map .gc-map-selection a span{color:var(--map-orange)}
+.gc-service-areas-map .gc-map-selection a[hidden]{display:none}
+.gc-service-areas-map .gc-map-selection a:focus-visible{outline:2px solid var(--map-navy);outline-offset:2px}
+.gc-service-areas-map .gc-map-note{font-size:13px;line-height:1.5;margin: auto 0 0;padding:14px 18px 0;border-top:1px solid #e0e5eb}
+.gc-service-areas-map .gc-map-source{font-size:12px;line-height:1.5;margin:0;padding:6px 18px 14px;color:#596474}
+.gc-service-areas-map .gc-map-zoom{position:absolute;top:12px;right:12px;z-index:3;display:flex;gap:4px;color:var(--map-text);font-size:14px}
+.gc-service-areas-map .gc-map-zoom button{min-width:44px;min-height:44px;border:1px solid #dce1e9;border-radius:5px;background:#fff;color:inherit;font:inherit;font-weight:500;cursor:pointer;padding:6px 9px}
+.gc-service-areas-map .gc-map-zoom button:hover{background:#fff1e9}
+.gc-service-areas-map .gc-map-zoom button:disabled{color:#8b94a3;cursor:default}
+.gc-service-areas-map .gc-map-zoom button:focus-visible,.gc-service-areas-map .gc-map-svg:focus-visible{outline:2px solid var(--map-navy);outline-offset:-2px}
+.gc-service-areas-map .gc-map-svg.is-zoomed{touch-action:none;cursor:grab}
+.gc-service-areas-map .gc-map-svg.is-zoomed:active{cursor:grabbing}
+.gc-service-areas-map .gc-map-water{pointer-events:none;stroke:none}
+.gc-service-areas-map .gc-map-water path{fill:#c1d8e8;stroke:none}
+.gc-service-areas-map .gc-map-water text{fill:var(--map-text);stroke:none;font:italic 13px Inter,Arial}
+.gc-service-areas-map .gc-map-landmark{pointer-events:none}
+.gc-service-areas-map .gc-map-landmark circle{fill:var(--map-navy);stroke:white;stroke-width:1.5}
+.gc-service-areas-map .gc-map-landmark text{fill:var(--map-text);font:600 14px Inter,Arial;stroke:white;stroke-width:3;paint-order:stroke}
+@media(max-width:1024px){
+.gc-service-areas-map .gc-map-layout{display:flex;flex-direction:column;gap:24px}
+.gc-service-areas-map .gc-map-intro{margin:0}
+.gc-service-areas-map .gc-map-left{display:contents}
+.gc-service-areas-map .gc-map-links{width:100%;order:1}
+.gc-service-areas-map .gc-map-panel{width:100%;order:2}
+.gc-service-areas-map .gc-map-actions{order:3;margin:0;width:100%}
+}
+@media(max-width:767px){
+.gc-service-areas-map .gc-map-actions>*{width:100%}
+.gc-service-areas-map .gc-map-caption{left:8px;top:15px;font-size:15px;padding:3px}
+.gc-service-areas-map .gc-map-zoom{right:8px;gap:3px}
+.gc-service-areas-map .gc-map-selection{width:220px;padding:10px 12px;gap:0}
+.gc-service-areas-map [data-map-label]{font-size:19px}
+.gc-service-areas-map .gc-map-selection a{font-size:14px}
+.gc-service-areas-map .gc-map-note{padding:12px 14px 0}
+.gc-service-areas-map .gc-map-source{padding:6px 14px 12px}
+}
+@media(prefers-reduced-motion:reduce){.gc-service-areas-map *{transition:none!important;animation:none!important}}
+
+@media(max-width:767px){.gc-service-areas-map .gc-map-water text{font-size:22px}.gc-service-areas-map .gc-map-landmark text{font-size:22px}}
+
+.gc-service-areas-map .gc-map-chicago .city-link__text{margin:0}
+
+.gc-service-areas-map .gc-map-selection{position:static;width:auto;max-width:none;flex-direction:row;align-items:center;justify-content:space-between;gap:10px;border-width:1px 0 0;border-radius:0;padding:10px 14px}
+.gc-service-areas-map .gc-map-selection [data-map-label]{font-size:18px}

@@ -1,5 +1,68 @@
 # Service Areas
 
+## Shared interactive map rollout — 2026-11-03
+
+**Current implementation; supersedes prototype-only restrictions below.** Owner authorized integrating the approved Draft4104 revision from `main` at `13b0b2aae463483f6108410b064b55e180a26215` into existing Atomic Component1140 on staging. No second component, production deployment, unrelated page content, global templates, Popup1801 or eligibility rules changed. GEO01–GEO04 remain OPEN.
+
+### Ownership and saved structure
+
+Component1140 root `e4ea1bc` retains its original section class and gains semantic hook `gc-service-areas-map` (Global Class `g-d1611dc`, position:relative). Native Chicago link `e5f4570` with paragraph `5167cca3` is first in existing column `470681c9`; its native Internal URL points to directory495. Existing ten links, both CTA elements (`73ee7e7e`, `4591c8e0`), container/intro/headings and Override envelopes remain intact. Saved-tree comparison:31 original nodes preserved,33 after adding Chicago; original settings unchanged except the root class assignment. Native component revision was explicitly **published** using the component API; merely saving a revision does not update consumers.
+
+Elementor Custom Code **4134**, “GCPRO / Shared Service Areas Map”, owns the central progressive SVG/CSS/vanilla-JS enhancement: published, Body End, priority10, Entire Site. Sources and deterministic compiler: [integrations/service-areas-map](../../integrations/service-areas-map/README.md). Compiled artifact matches the rendered script after newline normalization. Host guard restricts runtime to `vitaliiv1.sg-host.com`; styling is scoped to the semantic component hook. Singleton global, per-root ready flag and unique touch-label IDs prevent repeated initialization; a MutationObserver supports newly rendered instances. Native links/actions remain available without JavaScript. No new plugin, library, remote geometry fetch, per-page implementation or duplicated URL registry.
+
+Atomic's available schema does not provide the interactive municipal SVG primitive. The approved prototype code is therefore centrally owned by Custom Code rather than hidden in individual pages. Native copy, links and CTA Overrides remain editable in Elementor; polygon geometry and interaction code require the documented source files. The inline artifact is approximately215KB and is delivered sitewide by the Entire Site condition, although it initializes only component roots. This is a delivery/performance limitation, not a claim of conditional network loading.
+
+Draft4104 remains unpublished and reuses1140. Removed its old prototype HTML widget `a4104def` to avoid a second runtime; native instance `a1140abc` retained. The historical prototype source is preserved in Git. Final authenticated Draft4104 preview confirmed one root, one map,11 links and ready state. Relevant staging SG/Elementor render caches cleared.
+
+### Approved presentation and interaction
+
+Preserve the latest actual prototype: full-width native heading/intro above36/64 columns, left list plus bottom-aligned intrinsic-width CTAs with a24px minimum flex gap; map/footer right. No fixed heights or stretched rows. At1024px and below: natural list → map → actions flow. SVG640:580 proportions remain unchanged.
+
+Eleven cities, Chicago first. Default labels graphite; active row uses orange text/arrow and full-width orange bottom separator, transparent background, no vertical accent. Keyboard outline retained. Desktop bidirectional hover has no floating popup and click/Enter navigates directly. Touch polygon first tap selects and exposes a compact named destination, second same-city tap navigates; list links remain single-tap. Drag threshold suppresses accidental navigation; zoom/pan/Reset retained.
+
+Chicago uses official Census1714000 polygon with passive permanent label/point and directory495 destination, not an invented Chicago page. Existing ten municipal links/geometry unchanged. Lake Michigan remains blue with its label inside water. Geography comes from the approved prototype manifest:2026 Census TIGER/Line Illinois PLACE plus Cook17031/Lake17097 AREAWATER; source URLs/checksums remain in `prototypes/service-areas-map/geography.json`. Municipal geography does not establish address-level service eligibility. Disclaimer and attribution retained.
+
+### Consumer inventory and verification
+
+**21 published direct consumers**, one instance each, plus Draft4104. Full ID/path/heading/check results: [consumers.json](../../integrations/service-areas-map/consumers.json).
+
+| Page ID | Page | Staging path |
+|---|---|---|
+| 154 | GCPRO Homepage — Phase 1 Atomic Wireframe | `/` |
+| 484 | Residential Restoration Services in Chicago | `/residential-services/` |
+| 487 | Water extraction | `/water-extraction/` |
+| 488 | Board Up | `/board-up/` |
+| 489 | Odor Removal | `/odor-removal/` |
+| 490 | Moisture mapping | `/moisture-mapping/` |
+| 491 | Dehumidification | `/dehumidification/` |
+| 495 | Service Area | `/service-area/` |
+| 499 | Commercial Restoration Services in Chicago | `/commercial-services/` |
+| 514 | Water Damage | `/residential-services/water-damage/` |
+| 515 | Water Damage | `/commercial-services/water-damage/` |
+| 516 | Mold Removal | `/residential-services/mold-removal/` |
+| 517 | Fire & Smoke | `/residential-services/fire-smoke/` |
+| 518 | Reconstruction | `/residential-services/reconstruction/` |
+| 519 | Mold Removal | `/commercial-services/mold-removal/` |
+| 520 | Fire & Smoke | `/commercial-services/fire-smoke/` |
+| 521 | Personal Property Restoration | `/residential-services/personal-property-restoration/` |
+| 522 | General Contracting | `/commercial-services/general-contracting/` |
+| 523 | Storm Damage | `/residential-services/storm-damage/` |
+| 524 | Reconstruction | `/commercial-services/reconstruction/` |
+| 525 | Personal Property Restoration | `/commercial-services/personal-property-restoration/` |
+
+Representative Residential Water514 tested first, followed by all21 authenticated browser pages at1440px: one root, one map,11 native city links, ready flag set, no horizontal overflow, individual section heading Overrides rendered. No direct edits were made to the21 page definitions. A final bulk REST comparison could not be completed because SiteGround returned challenge HTML, so byte-for-byte post-rollout page-tree equality is not claimed.
+
+Focused browser verification on514 at1440/768/390px: approved layout, compact controls/footer, natural narrow-screen stacking, no horizontal overflow or overlap. All11 city destinations visited and correct page headings/no404 verified. Chicago Enter opened `/service-area/`; desktop polygon click opened Lombard. All22 list→map/map→list hover checks passed with popup hidden; visible focus and direct keyboard navigation checked. All Service Areas button actually opened directory495. Existing Check Service Availability button opened Popup1801 and its City/ZIP form; no form submission or popup change.
+
+Chrome touch emulation390px: first Schaumburg tap selected without navigation; switching to Naperville changed selection; second Naperville tap opened its city page. At150%, touch drag changed transform without navigation and cleared selection; Reset restored100%. No physical-device testing claimed. Desktop/mobile screenshots saved as local delivery artifacts. No duplicate initialization observed across consumers. No map-script console error observed; one browser ViewTransition/opt-in navigation error was seen during navigation and is not represented as a map failure or a clean global-console pass.
+
+Anonymous delivery: Home returned200 with hook,11 city links/Chicago and central script. Remaining anonymous automated requests returned403 or202 SiteGround challenge; full unauthenticated rendering is **not verified**. Authenticated browser checks are distinct from that limitation. No security protection bypassed.
+
+### Rollback
+
+Pre-change readable1140 definition, global-class registry, Draft4104 content and consumer inventory are retained outside Git in local `gcpro-map-rollout-20261103` backups. To revert only this rollout: disable/unpublish Custom Code4134; remove Chicago link `e5f4570` and only the `g-d1611dc` root assignment (retain original `g-d3248b3` section class); publish Component1140 and clear relevant staging render caches. Existing ten links, Overrides and both CTAs need no recreation. Restore Draft4104's backed-up HTML widget only after disabling the shared enhancement, to avoid double rendering. Do not revert concurrent page edits or geographic verification records.
+
+
 **2026-10-27 focused content/URL review:** no component/layout/navigation rebuild. Page-owned Overrides shorten six-card/local copy and ten Process instances; Northbrook/Oak Brook FAQs now answer real repair questions. Six native AIOSEO title/description pairs added; original canonical/robots/schema preserved. All ten link targets remain Published; thirty deferred routes are individually registered as preservation recommendations awaiting owner approval,not migration deletions. Lombard1596 location remains owner-supplied rather than independently corroborated. [Review and30-URL register](../seo/2026-10-26-geographic-implementation.md#focused-content-and-url-preservation-review--2026-10-27).
 
 

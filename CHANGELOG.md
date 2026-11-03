@@ -1,5 +1,10 @@
 # GCPRO changelog
 
+## Shared Service Areas map integration — 2026-11-03
+
+Published approved interactive map through existing Component1140 and central Custom Code4134 on staging. Chicago native link first; existing Overrides, ten city links, CTA actions and Popup1801 preserved. Removed duplicate draft-local runtime from4104. All21 published consumers checked in authenticated browser;1440/768/390 layouts,11 destinations,22 synchronized hover cases, keyboard/direct navigation, touch two-tap, pan/zoom/Reset and CTA popup verified. Anonymous Home passed; other guest checks blocked by SiteGround. No production or eligibility changes; GEO01–GEO04 open. [Full task record, inventory, limits and rollback](docs/components/service-areas.md#shared-interactive-map-rollout--2026-11-03).
+
+
 ## Geographic service coverage verification register — 2026-11-03
 
 Added GEO01–GEO04 to existing `docs/SERVICE_CAPABILITY_QUESTIONS.md` for management/operations confirmation of serviceable cities/ZIPs, exclusions, service-specific coverage, address-check ownership, and dispatch/radius claims. Current featured city links and interactive map are not confirmed eligibility boundaries. No WordPress, Elementor, popup, prototype or production changes; no coverage claims approved. Next: obtain authorized operations/management answers, then request separate approval for any website changes.

@@ -1,5 +1,10 @@
 # Custom code and dependency register
 
+## Shared Service Areas map — 2026-11-03 (current)
+
+Owner-authorized rollout replaces the prototype-only ownership below. Component1140 has the semantic `gc-service-areas-map` hook and native Chicago link. Published Elementor Custom Code4134 owns one scoped SVG/CSS/vanilla-JS runtime, Body End/priority10/Entire Site; staging-host guard and singleton/per-instance protection. Approximately215KB inline delivery sitewide; only matching components initialize. Native copy/actions remain Elementor-editable, geometry/behavior source-owned. No new dependency/plugin. Removed Draft4104 local widget to prevent duplication. [Structure,21 consumers, checks, limits and rollback](components/service-areas.md#shared-interactive-map-rollout--2026-11-03); [source/compiler](../integrations/service-areas-map/README.md). Earlier prototype-only entries are historical.
+
+
 ## Isolated Service Areas map prototype — 2026-11-03
 
 Owner authorized prototype-only CSS/vanilla JS/SVG. Sole owner: unpublished staging Draft4104 HTML widget a4104def; source/build assets in `prototypes/service-areas-map/`. No sitewide enqueue, Custom Code record, plugin, global styles or shared1140 modification. The draft reuses1140's native links/actions; script changes only its own rendered layout. No runtime dependencies or geographic network requests. Remove only this draft/widget to reverse. [Architecture, verification, source and future integration restrictions](components/service-areas.md#interactive-map-prototype--2026-11-03).
