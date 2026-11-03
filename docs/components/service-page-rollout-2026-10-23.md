@@ -273,3 +273,82 @@ Verification: exact staged-text checks before publication; published REST readba
 
 
 2026-10-24 — All17 service Pages now include one native Trustindex review section immediately before FAQ;9 source-restricted template copies and the existing general fallback are mapped in [Testimonials](testimonials.md#service-page-integration--2026-10-24). Existing service content, projects, states, paths and authored SEO settings compare unchanged. That record owns selection behavior, source-link limitation, responsive evidence and scoped recovery.
+
+
+## Commercial Water Damage515 B2B optimization — 2026-11-03
+
+Published staging515 at its existing route. Default branch main verified; no concurrent change before batch write. Page-owned Overrides only on Hero3ff2e24b/1318, Scope5d42aa0c/1345, Process342d98be/1152, mid CTA6dd11810/80, Related23ea5375/1356, Why250e98ea/1149, FAQ208c7687/1354 and final5047a176/80. Original11 sections, all node IDs, layouts, images and interactions retained. Service Areas1140, Trustindex review subtree and Affiliations1886 compare unchanged. No new component, page, plugin or map.
+
+Hero Request Service now uses native Page492; incorrect related-card native514 Residential Water link replaced with490 Moisture Mapping. Other three related destinations487/491/525 and all telephone links preserved. Mid/final secondary buttons actually pointed to Service Areas495, not Request Service; retained per explicit destination-preservation instruction.
+
+### Exact content changes
+
+- 3ff2e24b/description: Water damage at a business affects the building and the people using it. Prepare a clear account of the affected premises, contact responsibilities and operating constraints for your conversation with GCPRO. → Burst pipe, roof leak or flooded lobby? GCPRO provides 24/7 emergency water damage response, water extraction, drying and restoration for commercial properties across Chicagoland.
+- 3ff2e24b/request_text: VIEW SERVICE AREAS → Request Service
+- 3ff2e24b/request_link: [inherited default or native link] → {"destination":{"$$type":"query","value":{"id":{"$$type":"number","value":492}}},"isTargetBlank":{"$$type":"boolean","value":false},"tag":{"$$type":"string","value":"a"}}
+- 5d42aa0c/heading: Commercial Water Damage → Water Damage in Commercial Buildings
+- 5d42aa0c/introduction: Water can affect tenant spaces, common areas, building finishes and business belongings in the same loss. → One leak can affect multiple units, common areas and business property. GCPRO helps assess the damage and coordinate the next steps toward recovery.
+- 5d42aa0c/type_1_title: Water Across Rooms → Water Across Units
+- 5d42aa0c/type_1_description: A leak can affect several rooms or units, extending beyond the first area where water is noticed. → A single leak can spread through walls and floors into neighboring suites.
+- 5d42aa0c/type_2_description: Water in corridors and shared rooms can affect finishes used by tenants, employees and visitors. → Lobbies, corridors and stairwells may require prompt water removal and drying.
+- 5d42aa0c/type_3_description: Water from an upper floor or plumbing can damage ceilings and the spaces below them. → Water from upper floors or roof leaks can damage ceilings and the spaces below.
+- 5d42aa0c/type_4_description: Standing water and leaks can affect floor finishes and materials beneath the visible surface. → Carpet, tile and subfloor materials may retain moisture that requires professional drying.
+- 5d42aa0c/type_5_title: Business Belongings → Business Property
+- 5d42aa0c/type_5_description: Affected furniture and other belongings may need packing and restoration alongside building cleanup. → Furniture and other business contents may require assessment, cleaning or restoration.
+- 5d42aa0c/type_6_description: Walls, ceilings and other finishes may need reconstruction after extraction and drying. → Damaged walls, ceilings and flooring can be repaired or reconstructed after the affected areas are dry.
+- 342d98be/heading: Water Recovery in Business Premises → How We Restore Commercial Properties
+- 342d98be/description: Commercial water recovery needs to connect the wet building materials with the people who control access, authorize repairs and use the affected spaces. → From the first assessment through drying and repairs, the work follows the condition of your building and the agreed scope.
+- 342d98be/step_1_title: Identify Areas and Authority → Emergency Assessment
+- 342d98be/step_1_description: Establish the affected units, shared rooms and appropriate property contact. The owner, manager and tenant can hold different information and responsibilities. Ongoing water entry and access restrictions belong in the starting assessment. → Contact GCPRO 24/7. Our team assesses the affected areas, identifies immediate priorities and discusses the next steps.
+- 342d98be/step_2_title: Remove Standing Water → Water Extraction
+- 342d98be/step_2_description: Extraction addresses accessible standing water within the proposed scope. Shared corridors, occupied rooms and tenant spaces have different access needs; clearing water from one room does not establish the condition of neighboring materials. → We remove standing water from affected spaces and evaluate materials that require additional drying.
+- 342d98be/step_3_title: Address Remaining Moisture → Drying &amp; Monitoring
+- 342d98be/step_3_description: Drying concerns the wet building materials after visible water is removed. The operating hours and access requirements of the premises need to be identified alongside the work, without assuming that every business can remain open. → Professional drying equipment and moisture monitoring help guide drying and determine when materials are ready for the next stage.
+- 342d98be/step_4_title: Connect Repairs and Business Items → Repairs &amp; Restoration
+- 342d98be/step_4_description: Walls, ceilings and flooring can need reconstruction after water recovery. Business-owned belongings need a separate item scope and authorized decision-maker. Keep those needs distinct when planning the next use of the space. → Once drying is complete, necessary repairs and reconstruction help return affected spaces to usable condition.
+- 6dd11810/title: LET’S DISCUSS YOUR PROPERTY → Water Damage at Your Property?
+- 6dd11810/description: Tell GCPRO what happened and which areas are affected. Call to discuss the next step. → Contact GCPRO 24/7 to discuss commercial water damage and the next steps for your property.
+- 23ea5375/introduction: The main Water Damage page explains general recovery. These narrower pages cover extraction, drying and business belongings without replacing the premises-specific decisions above. → Explore moisture assessment, standing-water removal, structural drying and restoration of damaged business belongings.
+- 23ea5375/item_1_title: Full Water Recovery Process → Moisture Mapping
+- 23ea5375/item_1_description: The primary water page explains the broader restoration journey. → Identify moisture in affected building materials to help plan drying and repairs.
+- 23ea5375/item_1_link_text: EXPLORE Full Water Recovery Process → Explore Moisture Mapping
+- 23ea5375/item_1_link: [inherited default or native link] → {"destination":{"$$type":"query","value":{"id":{"$$type":"number","value":490}}},"isTargetBlank":{"$$type":"boolean","value":false},"tag":{"$$type":"string","value":"a"}}
+- 23ea5375/item_2_description: Explore standing-water removal as a narrower task. → Remove accessible standing water from flooded rooms and affected spaces.
+- 23ea5375/item_3_description: Review drying-related questions after water removal. → Address moisture remaining in building materials after standing water is removed.
+- 23ea5375/item_4_description: Discuss damaged furniture and business belongings separately. → Assess damaged furniture and belongings for packing, cleaning and restoration.
+- 250e98ea/11debea0: [inherited default or native link] → 24/7 Emergency Response
+- 250e98ea/46074ea9: [inherited default or native link] → Reach our team day or night when unexpected water damage affects your commercial property.
+- 250e98ea/74658ef6: [inherited default or native link] → Business Continuity Focus
+- 250e98ea/2195b550: [inherited default or native link] → We assess affected areas and discuss restoration priorities with your building's operations in mind.
+- 250e98ea/133bbae9: [inherited default or native link] → Coordinated Project Management
+- 250e98ea/44c64cc8: [inherited default or native link] → Clear communication about the scope, next steps and restoration progress.
+- 250e98ea/49c6ac5f: [inherited default or native link] → Documented Restoration Process
+- 250e98ea/65cfbe6e: [inherited default or native link] → Damage assessment and project documentation help property stakeholders understand the work required.
+- 250e98ea/31a44bf8: [inherited default or native link] → Water damage restoration support for property managers, facility teams and commercial building owners.
+- 208c7687/question_1: What should a property manager prepare? → What happens when I call about commercial water damage?
+- 208c7687/answer_1: Identify the affected rooms or units, any shared access areas, ongoing water entry and the people who can authorize work. Include operating hours and known restrictions. Separate building finishes from tenant-owned items so the appropriate person can decide about each. Use these <a target="_self" href="/choosing-the-right-water-damage-restoration-service-a-buyers-guide/">questions to ask about a restoration scope</a> to prepare for the assessment. → You can contact GCPRO 24/7. Share the address, source of water if known, affected areas and who can authorize access. Our team discusses immediate priorities and the next step for assessment. You can also review these <a href="/choosing-the-right-water-damage-restoration-service-a-buyers-guide/">questions to ask about a restoration scope</a>.
+- 208c7687/answer_2: That depends on the affected areas and the proposed work. Identify the spaces the business needs, shared routes and access restrictions before making operating plans. A property-specific arrangement is needed; uninterrupted operations cannot be assumed. → In some cases, unaffected parts of a property may remain operational. This depends on the damage, safety conditions, access routes and building requirements. Our team assesses affected areas and discusses practical options so your property team can plan the next steps.
+- 208c7687/question_3: What should a tenant do if water affects the premises? → How should owners, property managers and tenants coordinate?
+- 208c7687/answer_3: Notify the appropriate building contact and identify the affected spaces and belongings. Establish who can authorize work on building finishes and who owns the items involved. Those responsibilities need to be clear even when the same leak caused both losses. → Identify who can authorize building work, arrange access and make decisions about business-owned contents. Share tenant contacts, operating hours and access restrictions so the restoration scope reflects the people and spaces involved.
+- 208c7687/question_4: Can work be planned around operating hours? → What documentation may help with a commercial insurance claim?
+- 208c7687/answer_4: Include business hours, access contacts and any time-sensitive constraints in the property information. The actual scheduling arrangement needs to be established for the job rather than assumed from the fact that the property is commercial. → Damage assessments, moisture readings and the proposed scope can help explain the restoration work. Ask which project records are available and what your insurer requires. Your policy and insurer determine coverage; documentation does not guarantee a claim outcome.
+- 208c7687/question_5: What should we ask about progress information? → How can our property team stay informed about progress?
+- 208c7687/answer_5: Ask which assessment findings, drying information and scope updates are included in the work, and who should receive them. Identify the contact responsible for decisions affecting tenants or staff. This page does not promise a particular reporting format or monitoring schedule. → Agree on the main project contact and who should receive updates. Discuss assessment findings, drying progress, changes to the scope and decisions affecting tenants or staff. Confirm the communication arrangements for your project.
+- 208c7687/answer_6: They are separate recovery tasks. Extraction clears standing water; drying addresses remaining moisture; reconstruction repairs the building. GCPRO also packs and restores damaged belongings. Identify which tasks and items belong in the actual scope. → Water extraction, drying, building repairs and contents restoration are different stages of recovery. GCPRO can assess the needed work and include agreed repairs and damaged belongings in the scope. The condition of each material or item determines the available options.
+- 5047a176/title: DISCUSS YOUR NEXT STEP → Get Your Business Back to Normal
+- 5047a176/description: Call GCPRO to talk through your property damage and the work you need to discuss. → Contact GCPRO 24/7 to discuss water damage at your commercial property and plan the next steps.
+
+Why introduction also changed from inherited residential/commercial copy to: Water damage restoration support for property managers, facility teams and commercial building owners.
+
+### SEO, evidence and limits
+
+AIOSEO title changed from Commercial Water Damage Recovery Chicago | GCPRO to Commercial Water Damage Restoration Chicago | 24/7 | GCPRO. Description changed from Discuss water damage at business premises with GCPRO. Prepare property contacts, affected-area information and access questions for a clear recovery scope. to 24/7 commercial water damage restoration in Chicago. GCPRO provides water extraction, structural drying and reconstruction. Call 847-656-3322. REST readback confirms title/description; only other automatic changed metadata field was seo_analyzer_scan_date. Slug/status/canonical/robots/schema retained; frontend confirms original canonical and noindex,nofollow,max-image-preview:large, one unchanged H1.
+
+Verified frontend updated Hero/scenarios/process/Why/CTA/related cards, three body telephone hrefs tel:+18476563322 and Hero Request Service route. Native490/492 both Published at expected URLs. Existing Reviews render and Affiliations remain present. Native accessibility click on occupancy FAQ changed collapsed to expanded. No form or call submitted.
+
+Viewport requests1440/390 produced actual1920/520 (client1900/500); scroll width equals client in both, but exact1440/390 screenshots/card proportions are not certified. No physical-device or extensive unchanged-component tests. Hero uses before_after3955 with underlying image2023 preserved; metadata audit only establishes commercial-entrance imagery, not verified project identity/location/results. No added case study; source provenance remains to be confirmed. Equipment-restoration capability, dedicated manager, fixed reporting schedule, arrival/reopening guarantees and insurer outcomes not claimed. Moisture-monitoring wording is supported by owner-confirmed Moisture Mapping documentation2026-11-02.
+
+### Owner color correction during implementation
+
+Explicit follow-up authorization supersedes the original no-shared-edits restriction ONLY for heading color in1356. Changed four H3 nodes6c5cc0ff/ff6eb57/51c988d/65241a2a from color-primary to color-text; all other style properties, responsive min-heights, font weight/size, buttons and content preserved by readback. Applies to all consumers of1356. No other shared definition written. Recovery: restore those four colors to color-primary; page-copy rollback uses before/after values above and native revisions.
+

@@ -1,5 +1,11 @@
 # GCPRO changelog
 
+## Commercial Water Damage optimization — 2026-11-03
+
+Published targeted Page515 B2B copy through eight existing component instances; Hero now links Request492 and related card replaces Residential514 with Moisture Mapping490. AIOSEO title/description improved, canonical/robots/schema retained. Existing Reviews/Affiliations/photographs preserved. Follow-up owner authorization changed only four shared1356 H3 colors to color-text. Saved/readback/frontend copy, phone and FAQ expansion checked; exact1440/390 viewport and project provenance remain limitations. [Exact copy, IDs, SEO and verification](docs/components/service-page-rollout-2026-10-23.md#commercial-water-damage515-b2b-optimization--2026-11-03).
+
+
+
 ## Commercial B2B optimization — 2026-11-03
 
 Published focused Page499 improvements: four B2B benefit pairs, practical occupancy FAQ, removal of unconfirmed storage wording, photo-view suffix removed from Club Room Renovation, five supporting-service links, and existing Reviews4051/Affiliations1886 in approved service-page wrappers/order. Shared definitions and protected page sections unchanged. ERP offer and broad property-sector list deferred for verification. Saved-tree comparison passed; frontend text/telephone/card hrefs observed. Exact1440/390 visual checks, Reviews visibility, full destination and FAQ interaction acceptance remain incomplete due browser/renderer limitations. Header logo accessible-name defect recorded without a global edit. [Before/after copy, IDs, decisions, recovery and limits](docs/components/commercial-services.md#b2b-optimization--2026-11-03).
