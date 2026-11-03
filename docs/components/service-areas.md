@@ -1,5 +1,12 @@
 # Service Areas
 
+
+## Lombard Local Team column balance — 2026-11-03
+
+Staging Page526 only. Existing grid was1.35fr/1fr (57.45/42.55), with a48px gap and a462.98px-wide office card at1440px. Updated native local styles on **Lombard office grid237e8357** to `grid-template-columns: 1.1fr 0.9fr` (55/45) and **Lombard office contact panel3dff6bfa** to `max-width: 463px`. The card starts26.63px closer to the copy without stretching into the wider right track. No custom CSS added. Existing mobile single-column rule, section/container width, gap, card padding/typography/colors/buttons, Local Team links and nearby navigation preserved.
+
+Fresh saved-data comparison confirms exactly those two elements changed; all other element data is identical. Authenticated Chrome at1440px: container1200px, inner grid1136px, tracks598.40/489.60px, card463×373.04px (before462.98×373.04), balanced centered alignment and clean text wrapping. At390px: one334.67px track, card334.67×367.84px exactly as before, nearby navigation retains two159.33px columns. Visual checks passed; document scroll/client widths match1425/1425 and375/375 respectively (scrollbars excluded). No horizontal overflow. Verification limited to this section at the two requested widths; no sitewide audit or production changes. Recovery: restore grid1.35fr/1fr and remove the card's local max-width. Private before/after backups remain outside Git.
+
 ## Lombard local navigation refinement — 2026-11-03
 
 Published staging Page526 only, following the owner's focused follow-up and clarification: ordinary text links have **no resting underline**, orange underline on hover/keyboard focus; outlined city links never acquire an underline. Existing text-link class and native destinations are preserved. Local Team buttons `6fb1d101` (Contact496) and `65eb3a2a` (Service Area495) retain their text, arrows, 44px targets and existing24px wrapping gap. Their local styles own the2px orange interactive underline,0.3em offset and visible orange keyboard outline.

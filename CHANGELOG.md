@@ -1,5 +1,10 @@
 # GCPRO changelog
 
+
+## Lombard Local Team column balance — 2026-11-03
+
+Published two native Page526 layout changes: grid55/45 and office-card max-width463px. Card shifts26.63px toward the copy while retaining its desktop dimensions; container, mobile stack, links and nearby navigation preserved. Saved-data diff and targeted1440/390 visual/overflow checks passed. [Elements, measurements and recovery](docs/components/service-areas.md#lombard-local-team-column-balance--2026-11-03).
+
 ## Lombard Local Team and nearby-city links — 2026-11-03
 
 Published Page526-only link refinement: two office links are plain at rest with orange hover/focus underlines; four existing nearby-city links have compact outlined44px targets, orange hover/focus feedback and a2×2 mobile grid. Text/destinations preserved; exactly seven elements changed. Authenticated1440/390, actual hover/Tab focus, overflow and six anonymous destination200 checks passed. No global/review/map/production changes. [Element IDs, storage, recovery and limits](docs/components/service-areas.md#lombard-local-navigation-refinement--2026-11-03).
