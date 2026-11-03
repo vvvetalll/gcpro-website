@@ -126,3 +126,12 @@ This is the existing centralized register; do not create a duplicate. New rows u
 | MM04 | Moisture Mapping490 | Are moisture meters, thermal imaging and a hygrometer used? | All three named; thermal patterns distinguished from direct moisture measurement | Department TBD | Confirmed | Owner affirmative reply, 2026-11-02 | Retain; specific models/method details not verified |
 
 MM01 includes both documentation availability and insurance sharing, avoiding separate duplicate questions. General G02/D02 remain open for other services and detailed procedures. IICRC asset/certificate refresh remains explicitly deferred by owner, not validated by this task.
+
+## Highland Park project responsibilities — 2026-11-03
+
+| ID | Question | Status / evidence boundary |
+|---|---|---|
+| S05 | For Project2800 Shingle Roof Replacement, which roofing/flashing work did GCPRO perform directly versus coordinate, and may it represent current Storm523 capability? | OPEN. Existing source review records89 journal entries, completed scope and signed COS; published case describes roof/flashing replacement. This does not establish workforce responsibility or a general roofing service. Do not infer subcontracting or gutter work. |
+| S06 | For Project2765 Rebuilding After a Fallen Tree, who performed roof/framing, chimney/gutter and interior repairs, and did GCPRO perform any tree removal? | OPEN. Existing source review records impact/water entry, reconstruction and completion; tree-removal responsibility, cause and roof membrane specification unconfirmed. No tree-removal claim added. |
+
+2800 and2765 are candidates for a future separately authorized Storm Damage523 improvement, pending scope confirmation. Neither project nor523 was edited or moved. Current528 copy only cites documented water-damage repairs and rebuilding after storm damage. This task read current native project records and existing source-review documentation, not original private DASH files anew.

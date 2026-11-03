@@ -1,5 +1,9 @@
 # Custom code and dependency register
 
+## Interactive Card68 centralized states — 2026-11-03
+
+Supersedes Downers Grove page-local grid46bb8f70 interaction ownership. Existing Component68 root7439764a/local style e-626f0ff1-dd68 is the sole owner of approved lift/shadow/focus/pressed/reduced-motion/pointer rules;66 direct instances on11 GEO pages inherit it. No global project-summary edit. Native shadow conversion appended invalid currentColor to color-mix; preserved component-local Custom CSS holds those state rules and media query.527 duplicate removed;528 has no per-page card interaction CSS. [Scope and checks](seo/2026-10-26-geographic-implementation.md#highland-park-finalization-and-shared-interactive-card68--2026-11-03).
+
 **2026-11-03 — Downers Grove527:** existing grid46bb8f70/local stylee-42626e02-d476 owns page-scoped `& > a.project-summary` interaction CSS, including descendant pointer and reduced-motion media query. Shared68 has no per-instance style Overrides; definition remains unchanged. Native styles own resource/city geometry; their approved local focus/white-space exceptions are reused. AIOSEO owns the page Service graph. No theme, JS, plugin or Custom Code post added. [Exact scope and rollback](seo/2026-10-26-geographic-implementation.md#downers-grove-finalization-and-card-interactions--2026-11-03).
 
 

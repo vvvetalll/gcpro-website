@@ -1,5 +1,9 @@
 # GCPRO changelog
 
+## Highland Park finalization and shared cards — 2026-11-03
+
+Published staging528 with authentic licensed City Hall photo, customer-oriented Hero, compact guidance, approved Local Team layout, complete Reviews section, Affiliations, FAQ/final CTA and Service schema. Preserved four projects and all six card contents/URLs. Owner-directed shared Component68 now centrally owns approved card interactions across its66 direct instances; removed527 duplicate CSS. Actual1440/390 checks and all six service navigations on both527/528 passed; anonymous HTTP403 and roofing responsibility S05/S06 remain documented limitations. No production or service-page edits. [Details](docs/seo/2026-10-26-geographic-implementation.md#highland-park-finalization-and-shared-interactive-card68--2026-11-03).
+
 ## Downers Grove GEO finalization and card interactions — 2026-11-03
 
 Published Page527 Hero/meta/alt/Service schema, compact official-resource links, approved Lombard Local Team treatment, Reviews inside a full section, Affiliations and distinct final CTA. Preserved local guidance and all four project cards; roofing responsibility recorded as S04. Six service anchors retain content/URLs/layout and gain page-only pointer/lift/shadow, keyboard focus, pressed/reduced-motion feedback; orange hover line removed per owner. Actual1440/390, click zones/Tab/Enter, real reviews, FAQ and16 anonymous internal HTTP200 checks passed within documented limits. Shared definitions/Lombard/service pages/production untouched. [Implementation and handoff](docs/seo/2026-10-26-geographic-implementation.md#downers-grove-finalization-and-card-interactions--2026-11-03).

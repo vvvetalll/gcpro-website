@@ -1,5 +1,9 @@
 # Service Areas
 
+## Highland Park and reusable card design — 2026-11-03
+
+Existing Interactive Card68 now owns the approved whole-card hover/focus/pressed/reduced-motion design for its66 direct instances across11 GEO pages, following the owner's explicit shared-component correction. Native city-specific title/description/link Overrides and grids remain;527's duplicate local interaction CSS removed.528 finalized with authentic licensed City Hall Hero, two-column local experience/real Lombard office, Northbrook/Glenview links, full Reviews section, Affiliations, FAQ/final CTA and one AIOSEO Service. Four projects preserved. Actual1440/390 and six service navigations on both527/528 checked; anonymous HTTP403 and unconfirmed roofing responsibilities documented. [Implementation, IDs, tests and recovery](../seo/2026-10-26-geographic-implementation.md#highland-park-finalization-and-shared-interactive-card68--2026-11-03).
+
 ## Downers Grove527 approved layout and interactions — 2026-11-03
 
 Downers Grove now uses the approved Lombard Local Team composition with local copy, natural373.042px desktop office card/equal left span, nearby Lombard/Oak Brook/Elmhurst/Naperville links and mobile single-column layout. Existing Reviews4051 is inside full sectionff2490a2; Affiliations1886 follows. Six shared68 card instances retain whole-card native links; only page-local grid46bb8f70 owns pointer/lift/shadow/focus/active/reduced-motion styling, with no orange hover line. [Exact IDs, scope, tests, limitations and rollback](../seo/2026-10-26-geographic-implementation.md#downers-grove-finalization-and-card-interactions--2026-11-03).
