@@ -1,5 +1,9 @@
 # GCPRO changelog
 
+## Lombard Local Team and nearby-city links — 2026-11-03
+
+Published Page526-only link refinement: two office links are plain at rest with orange hover/focus underlines; four existing nearby-city links have compact outlined44px targets, orange hover/focus feedback and a2×2 mobile grid. Text/destinations preserved; exactly seven elements changed. Authenticated1440/390, actual hover/Tab focus, overflow and six anonymous destination200 checks passed. No global/review/map/production changes. [Element IDs, storage, recovery and limits](docs/components/service-areas.md#lombard-local-navigation-refinement--2026-11-03).
+
 ## Service Areas technical optimization — 2026-11-03
 
 Staging Custom Code4134 now loads on 21 explicit consumers rather than the entire site. Decorative geometry simplified with featured cities/Lake Michigan exact; artifact214,733→199,353 bytes. Native destination mapping replaces label/count dependence;12 duplicate SVG keyboard stops removed, focus highlighting retained; unused code and public body observation removed. Design, CTA actions, native Overrides and coverage unchanged. [Current evidence, limitations and rollback](docs/components/service-areas.md#technical-optimization--2026-11-03). GEO01–GEO04 remain open; production untouched.

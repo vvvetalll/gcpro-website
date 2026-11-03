@@ -1,5 +1,16 @@
 # Service Areas
 
+## Lombard local navigation refinement — 2026-11-03
+
+Published staging Page526 only, following the owner's focused follow-up and clarification: ordinary text links have **no resting underline**, orange underline on hover/keyboard focus; outlined city links never acquire an underline. Existing text-link class and native destinations are preserved. Local Team buttons `6fb1d101` (Contact496) and `65eb3a2a` (Service Area495) retain their text, arrows, 44px targets and existing24px wrapping gap. Their local styles own the2px orange interactive underline,0.3em offset and visible orange keyboard outline.
+
+Nearby links `1c198e33` (Elmhurst530), `3befddf1` (Oak Brook536), `3c0d2a21` (Downers Grove527), `282e738c` (Carol Stream543) retain text/arrows and native page selectors. Native local controls add44px minimum height, white background, color-border outline, space-xs radius,8px/16px padding and orange-border/color-surface hover. Existing container `6f4487a9` retains wrapping desktop flex and uses space-sm gap; mobile is two equal minmax(0,1fr) columns with8px horizontal padding. Heading61530d23 and all other content untouched. No new component/global class/token/plugin; no global templates, review configuration, map or production edits.
+
+Storage: existing text-link owns typography; the seven affected elements own only this page's local presentation. Native Atomic styles store geometry, colors, borders, hover and mobile grid. Converter-retained local Custom CSS handles underline color/thickness/offset, focus-visible and nowrap (unsupported native conversions); no page-ID selector or separately deployed stylesheet. Recovery: restore only these seven elements' local styles/class attachments from private `work/lombard-audit-2026-11-03/links-before.json`, retaining later edits. Do not restore the whole page.
+
+Verification: saved before/after comparison confirms exactly these seven elements changed, identical element set and unchanged texts/native links. Actual authenticated Chrome1440px: one compact row,44px targets, document scroll/client1425px;390px:2×2 grid,159.33px items,44px heights, no text clipping or overflow (scroll/client375px). Actual pointer hover: office underline rgb(240,90,41); city border same orange, background rgb(248,250,252), no underline. Tab focus confirmed orange2px outline and correct link treatment. Screenshots visually inspected. Six unchanged destinations independently returned anonymous HTTP200 and appropriate H1. Browser emulation, not physical-device or screen-reader certification; no broader regression or Reviews4051 repair claimed. This focused follow-up does not certify completion of the preceding broader audit.
+
+
 ## Technical optimization — 2026-11-03
 
 **Current task/status and handoff.** Supersedes the rollout's sitewide delivery/observer/accessibility descriptions below. Staging only; existing1140,4134 and21 published consumers. No production, page-definition, global-template, map-CSS, CTA-style, Popup1801 or coverage edits. GEO01–GEO04 remain OPEN.

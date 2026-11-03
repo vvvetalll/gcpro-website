@@ -1,5 +1,7 @@
 # Custom code and dependency register
 
+**2026-11-03 — Lombard links526:** existing native element-local styles own two office links and four outlined city links; converter-retained Custom CSS is limited to underline treatment, focus-visible and nowrap. No global class/theme/Custom Code change. [Exact owners, purpose and scoped rollback](components/service-areas.md#lombard-local-navigation-refinement--2026-11-03).
+
 ## Global button sweep — 2026-11-03
 
 Later primary-only correction: replaced its pseudo-element/radius workaround with an equivalent280ms background-size gradient sweep in the same class Custom CSS to eliminate the full-perimeter orange fringe. Other variants and owners unchanged; see linked interaction record for verification.
