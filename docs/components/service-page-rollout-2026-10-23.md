@@ -352,3 +352,89 @@ Viewport requests1440/390 produced actual1920/520 (client1900/500); scroll width
 
 Explicit follow-up authorization supersedes the original no-shared-edits restriction ONLY for heading color in1356. Changed four H3 nodes6c5cc0ff/ff6eb57/51c988d/65241a2a from color-primary to color-text; all other style properties, responsive min-heights, font weight/size, buttons and content preserved by readback. Applies to all consumers of1356. No other shared definition written. Recovery: restore those four colors to color-primary; page-copy rollback uses before/after values above and native revisions.
 
+
+
+## Commercial Mold519 B2B optimization — 2026-11-03
+
+Published staging Page519 only. Existing eight instances updated through native Overrides: Hero2ad529e3/1318, Scope61e88871/1345, Process6f655cba/1152, midCTA4bd2c79d/80, related26f9b760/1356, Why490141ee/1149, FAQ428b40a8/1354 and finalCTA73e87b2a/80. Default/approved Git branch main. Fresh full saved tree immediately before write matched initial read; no concurrent change detected.
+
+### Exact changed copy and links
+
+- 2ad529e3/h1: Mold Remediation for Commercial Properties → Commercial Mold Remediation in Chicago
+- 2ad529e3/description: Mold concerns in business premises need a defined work area and a clear property contact. GCPRO provides remediation, not mold testing; discuss the actual premises and proposed scope before making operating plans. → Mold in offices, tenant spaces, or shared commercial areas can affect building operations and require coordinated remediation. GCPRO assesses affected areas, removes mold-damaged materials, and helps property managers plan the next steps toward restoration.
+- 2ad529e3/request_text: VIEW SERVICE AREAS → Request Service
+- 2ad529e3/request_link: [inherited default or native link] → {"destination":{"id":492},"isTargetBlank":false,"tag":"a"}
+- 61e88871/heading: Mold in Occupied Business Properties → Mold in Occupied Commercial Buildings
+- 61e88871/introduction: Commercial mold concerns involve affected materials and the people using nearby spaces. The property contact, work boundaries and moisture-source responsibilities need to be clear alongside the remediation. → Commercial mold remediation requires careful planning around affected materials, building access, and the people who use the property.
+- 61e88871/type_1_title: Occupied Work Areas → Occupied Work Areas
+- 61e88871/type_1_description: Growth in a workroom affects the room and its use. Identify the affected surfaces separately from decisions about employees and access. → Mold in offices, workrooms, and retail spaces requires an assessment of affected materials and how the work area is used.
+- 61e88871/type_2_title: Tenant Interiors → Tenant Spaces
+- 61e88871/type_2_description: A leak can damage finishes inside a leased space. The tenant and building owner need to identify who can authorize each part of the work. → Leased suites require clear communication and coordinated access between property managers and tenants.
+- 61e88871/type_3_title: Shared Rooms → Shared Rooms
+- 61e88871/type_3_description: Corridors and common rooms serve more than one occupant. Their access needs belong in the property-specific remediation planning. → Corridors, common rooms, and shared spaces may require remediation planning around building access and daily operations.
+- 61e88871/type_4_title: Walls and Ceilings → Walls and Ceilings
+- 61e88871/type_4_description: Damp finishes can show growth after a leak. The affected materials and the water source need separate attention. → Moisture behind walls or above ceilings can contribute to hidden mold growth that requires further assessment.
+- 61e88871/type_5_title: Repeated Water Intrusion → Repeated Water Intrusion
+- 61e88871/type_5_description: Recurring moisture can affect the same area again. Identify responsibility for the source repair alongside the remediation work. → Recurring leaks or moisture problems should be addressed to reduce the risk of mold returning.
+- 61e88871/type_6_title: Repairs After Remediation → Repairs After Remediation
+- 61e88871/type_6_description: Removed or damaged finishes leave a building-repair task. The remediation boundary and the reconstruction boundary need to meet without confusion. → After affected materials are removed, damaged walls, ceilings, and finishes may require reconstruction.
+- 6f655cba/heading: Remediation Within a Working Property → How We Remediate Mold in Commercial Buildings
+- 6f655cba/description: GCPRO provides mold remediation, not testing. This sequence explains the material work and property decisions involved without assuming a standard occupancy or containment arrangement. → Each project begins with an assessment of affected areas and a remediation plan appropriate to the property and conditions.
+- 6f655cba/step_1_title: Locate the Affected Materials → Assess & Plan
+- 6f655cba/step_1_description: Identify the rooms, visible growth and known water events. A building-wide contact helps connect information from affected tenants or staff without assuming that every space has the same condition. → We review affected areas, discuss access requirements, and identify the materials and spaces involved in the remediation work.
+- 6f655cba/step_2_title: Set Work and Access Boundaries → Prepare the Work Area
+- 6f655cba/step_2_description: The scope needs to identify the materials involved and the access arrangements for the actual premises. Separate the remediation work from building-use decisions and from any moisture-source repair assigned to another party. → We plan the work area and appropriate precautions based on the extent of the affected materials and building conditions.
+- 6f655cba/step_3_title: Address the Mold-Affected Areas → Remove & Clean
+- 6f655cba/step_3_description: Remediation deals with the affected material through removal or cleaning suited to its condition. Finishing a removed wall section is a reconstruction task; addressing an ongoing leak is a separate source-repair task. → Mold-affected materials are addressed according to the remediation scope, followed by appropriate cleaning of affected surfaces.
+- 6f655cba/step_4_title: Plan the Property Handoff → Restore the Space
+- 6f655cba/step_4_description: Identify remaining material repairs and responsibilities before planning the next use of the area. Completion of remediation is not mold testing or clearance. Any independent testing requirement needs its own arrangement outside GCPRO’s services. → After remediation and any required independent clearance, damaged building materials can be repaired or reconstructed.
+- 4bd2c79d/title: LET’S DISCUSS YOUR PROPERTY → Mold at Your Commercial Property?
+- 4bd2c79d/description: Tell GCPRO what happened and which areas are affected. Call to discuss the next step. → Contact GCPRO to discuss affected areas, remediation needs, and the next steps for your building.
+- 4bd2c79d/secondary_text: VIEW SERVICE AREAS → Request Service
+- 4bd2c79d/secondary_link: [inherited default or native link] → {"destination":{"id":492},"isTargetBlank":false,"tag":"a"}
+- 26f9b760/introduction: Use the main Mold page for general remediation information. Water assessment and business reconstruction cover the wet materials and repairs surrounding that work. → Explore services for moisture conditions, persistent odors, water damage and building repairs after remediation.
+- 26f9b760/item_1_title: Primary Mold Remediation → Odor Removal
+- 26f9b760/item_1_description: Read the general remediation scope and testing limitations. → Address persistent odors associated with moisture or property damage.
+- 26f9b760/item_1_link_text: EXPLORE Primary Mold Remediation → Explore Odor Removal
+- 26f9b760/item_1_link: [inherited default or native link] → {"destination":{"id":489},"isTargetBlank":false,"tag":"a"}
+- 26f9b760/item_2_description: For the broader recovery discussion where business premises became wet. → Address water damage and moisture conditions that may contribute to mold growth.
+- 26f9b760/item_3_description: For supporting moisture-related assessment information. → Identify moisture conditions that may be hidden behind walls, ceilings, or flooring.
+- 26f9b760/item_4_description: For building repairs that may follow the agreed remediation work. → Repair and rebuild damaged building areas after remediation.
+- 490141ee/31a44bf8: [inherited default or native link] → Mold remediation support for property managers, facility teams and commercial building owners.
+- 490141ee/11debea0: [inherited default or native link] → Commercial Property Experience
+- 490141ee/46074ea9: [inherited default or native link] → Restoration services for offices, tenant spaces, businesses, and other commercial properties.
+- 490141ee/74658ef6: [inherited default or native link] → Building Operations Focus
+- 490141ee/2195b550: [inherited default or native link] → We consider affected areas, access needs, and building operations when discussing the remediation scope.
+- 490141ee/133bbae9: [inherited default or native link] → Coordinated Restoration
+- 490141ee/44c64cc8: [inherited default or native link] → We connect remediation needs with moisture-related work and the repairs required afterward.
+- 490141ee/49c6ac5f: [inherited default or native link] → Clear Project Communication
+- 490141ee/65cfbe6e: [inherited default or native link] → Property stakeholders receive information about the affected areas and planned remediation work.
+- 428b40a8/question_1: What should a property manager have ready? → Can tenants and staff remain in the building during mold remediation?
+- 428b40a8/answer_1: Identify the affected rooms, visible conditions, known leaks and the people who control access. Note which areas are shared and who can authorize work in tenant spaces. Those details connect the material scope to the way the building is used. → That depends on the extent of the mold, the location of affected areas, and the precautions required. GCPRO reviews the conditions and discusses access and work-area requirements with the property contact. Occupancy decisions must account for applicable safety and building requirements.
+- 428b40a8/question_2: Who authorizes work in a leased space? → Does GCPRO provide mold testing?
+- 428b40a8/answer_2: Identify the person authorized to approve the proposed work and distinguish building finishes from tenant-owned property. The building contact and item owner are not automatically the same person. Resolve those responsibilities before the remediation and repair scopes overlap. → GCPRO provides mold remediation, not mold testing or post-remediation testing. If independent assessment or clearance is required for your property, arrange it separately from GCPRO's remediation work.
+- 428b40a8/question_3: Can staff or tenants use nearby rooms? → How long does commercial mold remediation take?
+- 428b40a8/answer_3: That decision depends on the premises and the proposed work-area arrangements. Establish the affected boundaries and access restrictions before planning occupancy. GCPRO’s specific controls must be confirmed for the project; this page does not prescribe a containment program. → The timeline depends on the size of the affected area, the materials involved, access requirements, and any necessary clearance or repairs. A more specific schedule can be discussed after the scope is evaluated.
+- 428b40a8/question_4: Who repairs the leak that caused the problem? → What happens if a leak caused the mold?
+- 428b40a8/answer_4: Source repair and remediation are different jobs. Identify the ongoing moisture issue and the party responsible for correcting it. Removing affected material does not fix a roof or plumbing leak. → Moisture problems need to be addressed as part of a lasting restoration plan. GCPRO can review the affected conditions and discuss which repairs are included in the project scope.
+- 428b40a8/question_5: Does GCPRO provide testing or clearance? → How do you coordinate with property managers and tenants?
+- 428b40a8/answer_5: No. GCPRO does not perform mold testing or post-remediation testing. If a lease, project requirement or other arrangement calls for independent testing, that needs to be arranged separately. A remediation completion review is not a test result. → We discuss affected areas, access requirements, and planned work with the designated property contact so the people responsible for the building understand the next steps.
+- 428b40a8/question_6: What needs attention after material removal? → Does commercial insurance cover mold remediation?
+- 428b40a8/answer_6: Identify the wall, ceiling or other finish repairs left by the remediation and who will handle them. Keep those repairs, the moisture-source work and any separate testing requirements visible when planning the next stage for the premises. → Coverage depends on the policy, the cause of the damage, and any applicable exclusions or limits. Property owners and managers should confirm coverage with their insurance carrier.
+- 73e87b2a/title: DISCUSS YOUR NEXT STEP → Discuss Mold Remediation for Your Property
+- 73e87b2a/description: Call GCPRO to talk through your property damage and the work you need to discuss. → Contact GCPRO to discuss mold concerns at your commercial property and the next steps toward remediation.
+
+### Evidence, preservation and remaining work
+
+SEO title already equals Commercial Mold Remediation Chicago | GCPRO and was retained. Description changed from “Discuss mold remediation at business premises with GCPRO. Clarify affected areas, property responsibilities and access. GCPRO does not perform mold testing.” to “Commercial mold remediation in Chicago. GCPRO assesses affected areas, removes mold-damaged materials and helps plan repairs. Call 847-656-3322.” Only description and automatic updated/seo_analyzer_scan_date fields changed; slug, canonical, schema and robots settings compare unchanged. Frontend retains self canonical and noindex,nofollow,max-image-preview:large with one H1.
+
+Hero1999 photograph, structure, all local styles/interactions/classes, shared definitions and all unedited overrides preserved. Whole-tree comparison excluding specifically edited Override keys passed. Service Areas1140, Affiliations1886 and Reviews02441ff retained; existing approved mold Trustindex widget849198/094136e84ccf9197cb869a9a89f already mapped to519, so no replacement. Reviews and affiliations visible in authenticated Chrome.
+
+Request492, Odor489, Moisture490, Commercial Water515 and Reconstruction524 all verified Published at their expected URLs. Hero and middle CTA switch Service Areas495 to approved Request492; final CTA keeps its original phone and Service Areas495 destinations per preserve-existing-buttons instruction. Related first card switches Residential Mold516 to Odor489. Other related destinations retained.
+
+Owner-confirmed remediation/material removal and no mold/post-remediation testing boundary used (existing2026-11-01/02 records). FAQ explicitly says independent assessment/clearance must be separately arranged; no assessor-coordination service promised. General access/planning copy follows owner brief. Named containment barriers, HEPA, negative pressure, HVAC isolation and IICRC S520 compliance remain unverified (M01 register), so not published. No medical, coverage, response-time or reopening guarantees added.
+
+Scoped approved project/BA register review found attic1596 and window2202 mold examples but no verified commercial mold pair; residential images were not relabeled, and no project section added. Verified commercial photographs/location/work scope remain an opportunity, not a delivered case study.
+
+Verification: all changed string fields read back; unaffected tree equality passed; live H1/SEO/links confirmed. Chrome actual1440 and390 checks: scroll/client1425/1425 and375/375, no page-content heading/paragraph/link horizontal clipping (admin toolbar excluded); desktop six-card proportions visually balanced. Mobile mold-testing accordion expands and shows complete answer. Screenshots retained privately outside Git. No physical-device/anonymous or extensive unchanged-component regression claim. No shared definition mutation calls performed. Recovery: restore only listed instance values/native references using this record and revisions, preserving newer unrelated changes; restore prior meta description separately.
+

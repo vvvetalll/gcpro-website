@@ -57,7 +57,7 @@ Created: 2026-11-01. **Purpose:** collect uncertain operational/service claims f
 
 | ID | Question | Status |
 |---|---|---|
-| M01 | Which containment, HEPA/negative-air, vacuuming, drying-monitoring and cleaning procedures are performed? | OPEN |
+| M01 | Which containment barriers, HEPA/negative-air, HVAC isolation, vacuuming, drying-monitoring and cleaning procedures are performed? Is an IICRC S520 compliance claim approved? Applies to Residential516 and Commercial519. | OPEN; Commercial519 review2026-11-03 found no new procedural evidence; specific claims withheld |
 | M02 | Is there a third verified mold case to replace the Glenview water-only case? | OPEN |
 | M03 | GCPRO does not provide mold air testing. No air sampling, laboratory mold testing or certified mold-inspection claim is authorized. Reconfirm only if policy changes. | Confirmed — Owner instruction, 2026-11-02; separate remediation service retained |
 

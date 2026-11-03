@@ -1,5 +1,9 @@
 # GCPRO changelog
 
+## Commercial Mold Remediation optimization — 2026-11-03
+
+Published Page519 B2B copy in eight existing component instances through native Overrides. Updated Hero H1, six scenarios, four process steps, Why, six FAQ answers and CTAs; Hero/middle CTA now Request492, related Residential Mold516 replaced with Odor489. Existing SEO title retained, meta description improved. Photo1999, shared definitions, Reviews, Affiliations, Service Areas, layout and final CTA destinations preserved. Saved-field and unaffected-tree comparison passed; live metadata/links,1440/390 layout and mobile FAQ interaction verified. Specific containment procedures and commercial mold project evidence remain unconfirmed. [Exact changes, evidence and recovery](docs/components/service-page-rollout-2026-10-23.md#commercial-mold519-b2b-optimization--2026-11-03).
+
 ## Commercial Fire & Smoke Hero comparison — 2026-11-03
 
 Created BEAF4087 from owner-supplied Before4088/After4089 images, titled Commercial Fire Damage Restoration — Chicago, IL. Page520 Hero9148f72 now uses it through existing1318 media overrides; shared definitions and other page content preserved. Published/readback, image order/loading, divider drag, desktop1440/mobile390 visual and overflow checks passed. Chicago attribution is owner-supplied. [Task details and rollback](docs/components/before-after.md#2026-11-03--commercial-fire--smoke-hero-comparison).
