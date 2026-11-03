@@ -1,5 +1,9 @@
 # GCPRO changelog
 
+## Commercial General Contracting optimization — 2026-11-03
+
+Published Page522 planned-renovation copy, SEO, Request492 CTAs and related524/515/520/519 links. Hero uses approved interior2134; two BA cards now two columns desktop/one mobile, section renamed Commercial Renovation Projects and internal Window View removed. Trustindex persistent clipping not reproduced against515; vendor settings/shared definitions preserved. Saved-tree,1440/390,FAQ, metadata/link and anonymous delivery checks completed. [Exact changes and limits](docs/components/service-page-rollout-2026-10-23.md#commercial-general-contracting522-optimization--2026-11-03).
+
 ## Commercial Reconstruction optimization — 2026-11-03
 
 Published Page524 B2B copy/SEO, Request Service CTAs and four verified commercial links. Two project cards now use a page-local two-column desktop/one-column mobile grid; removed internal “(Window View)” descriptor. Final owner selection BEAF1203 is in Hero1318 using existing native media Overrides. Border defect not reproduced; shared definitions untouched. Saved/readback,1440/390 layout and focused Hero rendering checks completed. Operational claims remain open. [Exact before/after and verification](docs/components/service-page-rollout-2026-10-23.md#commercial-reconstruction524-b2b-optimization--2026-11-03).

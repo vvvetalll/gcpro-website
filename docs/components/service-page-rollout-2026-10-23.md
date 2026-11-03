@@ -536,3 +536,103 @@ Recovery: restore recorded before Overrides below and prior AIOSEO strings; remo
 | 7456c18c / title | DISCUSS YOUR NEXT STEP | Get Your Commercial Space Back in Service |
 | 7456c18c / description | Call GCPRO to talk through your property damage and the work you need to discuss. | Contact GCPRO to discuss reconstruction needs and the next steps for your commercial property. |
 
+## Commercial General Contracting522 optimization — 2026-11-03
+
+Published staging [Page522](https://vitaliiv1.sg-host.com/commercial-services/general-contracting/) only. Default/approved branch main verified; working tree clean and current before work. Fresh pre-save Elementor read matched baseline. Planned commercial renovation intent kept distinct from damage-led Reconstruction524. Existing instructions, K015 draft brief and completed524/515/519 patterns reused; current owner task authorizes these page edits, not the broader draft SEO architecture.
+
+Nine existing component instances updated through native Overrides: Hero1ae8d49d/1318, Scope7d67dea7/1345, Process72f92e6f/1152, midCTA52b7cad1/80, gallery heading88d31eb5/71, Related7be0dac8/1356, Whyc15304f/1149, FAQ18ea6097/1354, finalCTA5d9f978e/80. Local grid/title changes below. Exact content/link changes recorded in table.
+
+Hero photo616 truck → approved2134, Boys & Girls Club Chicago finished interior, provenance in projects.md (case2079). Existing mask/layout retained. No invented association with BA1202, no upload or AI image. H1 remains Commercial General Contracting in Chicago. Hero/midCTA Request Service now492; phone destinations tel:+18476563322 retained, final CTA destinations retained.
+
+Visual fix: two BA cards were in shared grid3. Page-local dc368eaa/style e-6ce211bf6bd3 now uses repeat(2,minmax(0,1fr)), mobile minmax(0,1fr), following owner-authorized524 approach. Shared class unchanged. Heading0732d455 “Club Room Renovation (Window View)” → “Club Room Renovation”; same1202 used on524. Section heading now Commercial Renovation Projects. Existing1209/1202, descriptions, gallery493 link and project metadata preserved.
+
+Conservative scope: proposed Tenant Space Improvements, broad Lobbies and Storefronts narrowed to Interior Finish Improvements, Common Areas & Clubrooms, Entrances & Doors based on established renovation examples. No complete build-out, restaurant/hospitality, structural or specialized construction claim. Licenses/insurance/permits/warranty and scheduling specifics remain open in central register; FAQ uses project-specific discussion language.
+
+SEO title “Commercial General Contracting Chicago | GCPRO” → “Commercial General Contractor Chicago | GCPRO”.
+Description “Talk to GCPRO about commercial building work. Define project areas, finish requirements, responsibilities and scope before making scheduling assumptions.” → “Commercial general contracting in Chicago. GCPRO provides interior renovations, common-area improvements, and repairs for commercial properties. Call 847-656-3322.”
+Existing URL/canonical/schema/staging noindex retained. Only AIOSEO title/description submitted.
+
+Reviews investigation: Page522 uses service-specific native Shortcode02441ff, Trustindex849197/public07222db8404991923d7602c7e3b, not shared4051. Compared live with515 public15449fd848bc92028326af36028. Both layout5/Slider II, light-background, target275, popup text, autoplay6; desktop wrapper835px and three278.323px cards. Elementor ancestors overflow visible. Vendor wrapper intentionally clips offscreen slides. Initial zero-height/opacity0 disappears after initialization; stable desktop showed three complete cards. Mobile390 showed one full card in350.667px wrapper, with transient partial neighbors during autoplay. Persistent clipping and a centered-slide defect were not reproduced. No page CSS patch, widget settings or shared changes. Cause of the owner's prior observation remains unconfirmed; do not call it fixed. If reproducible, inspect vendor sizing/init at affected breakpoint before proposing a separately authorized shared correction.
+
+Verification: all edited string Overrides read back; whole native tree equals baseline after excluding only explicitly modified keys/grid style/title. No shared definition write calls;1140, review subtree,1886/header/footer preserved. Desktop1440: grid556px+556px, document client/scroll1425/1425. Mobile390: one334.667px column, client/scroll375/375; screenshot shows preserved slider/Full screen control. Hero2134 renders in original mask. FAQ first question toggles expanded. Four rendered links now524/515/520/519; target pages and Request492 confirmed published at exact URLs; all telephone hrefs correct. Service Areas arrows visibly → and match515. One H1, new title/meta, self canonical and noindex/nofollow confirmed. Anonymous frontend HTTP200 contains updated copy/photo/title, so no cache purge needed. Viewport reset after check.
+
+Limits: physical devices, exhaustive slider/Trustindex interactions and editor visual interaction were not retested; owner final visual acceptance remains. Shared credentials/operational claims require management evidence, not inferred from reviews. Recovery: restore table's prior Overrides/AIOSEO strings, original616 and project heading; remove only local grid override, preserving newer edits.
+
+### Exact Overrides
+
+| Instance / field | Before | After |
+|---|---|---|
+| 1ae8d49d / description | Discuss your commercial building project with GCPRO, starting with the work required and the premises involved. A clear scope helps separate building needs, finish choices and decisions that need authorization. | Planning a commercial renovation or interior improvement? GCPRO provides general contracting services for business properties, from interior updates to coordinated renovation work. |
+| 1ae8d49d / image | {"src":{"id":616},"size":"full"} | {"src":{"id":2134},"size":"full"} |
+| 1ae8d49d / request_text | VIEW SERVICE AREAS | Request Service |
+| 1ae8d49d / request_link | {"destination":{"name":"internal-url","group":"site","settings":{"type":"post","post_id":{"id":495,"label":"Service Area"}}},"isTargetBlank":false,"tag":"a"} | {"destination":{"id":492},"isTargetBlank":false,"tag":"a"} |
+| 7d67dea7 / heading | Planned Work in Existing Commercial Spaces | Commercial Renovation & Improvement Services |
+| 7d67dea7 / introduction | General contracting concerns the building project you want to carry out. GCPRO’s entrance and clubroom examples show work in existing commercial spaces; after-loss reconstruction has a separate role. | From interior updates to repairs and improvements in shared spaces, GCPRO helps commercial property owners and managers plan work around their building's needs. |
+| 7d67dea7 / type_1_title | Interior Improvements | Interior Renovations |
+| 7d67dea7 / type_1_description | Changes to existing finishes can update how a commercial room looks and functions. Define the spaces and intended result before selecting materials. | Updates to walls, ceilings, flooring, and finishes in commercial interiors. |
+| 7d67dea7 / type_2_title | Shared-Space Updates | Interior Finish Improvements |
+| 7d67dea7 / type_2_description | A common room brings several finish decisions together. The clubroom example below shows changes to flooring, walls and the open ceiling. | Improvements to existing commercial rooms, based on the agreed project scope. |
+| 7d67dea7 / type_3_title | Entrance Improvements | Common Areas & Clubrooms |
+| 7d67dea7 / type_3_description | An entrance connects the building’s appearance and access. The project shown below includes finished flooring, doors and surrounding framing. | Renovations to clubrooms and other shared interior spaces. |
+| 7d67dea7 / type_4_title | Worn or Damaged Finishes | Entrances & Doors |
+| 7d67dea7 / type_4_description | Existing walls, ceilings and floors can need attention outside a new loss. Identify the condition and the work you want included. | Repairs and improvements to commercial entrances, doors, framing, and finishes. |
+| 7d67dea7 / type_5_title | Related Building Areas | Repairs & Interior Upgrades |
+| 7d67dea7 / type_5_description | Work in adjoining spaces needs a connected scope. Keep room boundaries and finish choices clear so one area is not assumed to include another. | Combine necessary repairs with planned improvements to affected commercial areas. |
+| 7d67dea7 / type_6_title | Owner and Tenant Decisions | Commercial Remodeling |
+| 7d67dea7 / type_6_description | The people using a space do not always control building changes. Identify who approves the work and materials for the premises. | Coordinated updates to existing commercial interiors and building finishes. |
+| 72f92e6f / heading | From an Existing Space to an Agreed Project | How Your Commercial Renovation Project Works |
+| 72f92e6f / description | A useful commercial project brief identifies the work, the intended result and the decisions needed to get there. It keeps planned improvements distinct from damage cleanup. | Start with your renovation goals, define the proposed work, and review the completed improvements with the property contact. |
+| 72f92e6f / step_1_title | Establish the Starting Condition | Discuss Your Project |
+| 72f92e6f / step_1_description | Identify the rooms and building areas involved, their current condition and the changes you want. Existing damage, earlier restoration and work outside the proposed project need to be distinguished from the intended improvements. | We review your property, renovation goals, and the areas that need improvement. |
+| 72f92e6f / step_2_title | Define Work and Finishes | Define the Scope |
+| 72f92e6f / step_2_description | Connect each area with the work and finish decisions it needs. A clear scope separates retained elements, proposed changes and requirements needing separate professional input rather than treating every building service as included. | We discuss the proposed work, materials, finishes, and project requirements before moving forward. |
+| 72f92e6f / step_3_title | Organize the Building Work | Complete the Work |
+| 72f92e6f / step_3_description | Access, occupancy and dependencies affect the order of work. Identify the authorized contact and any building requirements before relying on a schedule. Permit, inspection or specialist responsibilities need to be established for the actual project. | Renovation work proceeds according to the agreed scope, with coordination around access and building requirements. |
+| 72f92e6f / step_4_title | Check the Completed Scope | Review the Results |
+| 72f92e6f / step_4_description | Compare the finished work with the agreed areas and finish choices. Separate remaining items from later changes or another project so completing one room is not mistaken for completing every improvement in the building. | We review the completed work with the property contact and discuss any remaining project items. |
+| 52b7cad1 / title | LET’S DISCUSS YOUR PROPERTY | Planning a Commercial Renovation? |
+| 52b7cad1 / description | Tell GCPRO what happened and which areas are affected. Call to discuss the next step. | Tell GCPRO about your property, renovation goals, and the improvements you have in mind. |
+| 52b7cad1 / secondary_text | VIEW SERVICE AREAS | Request Service |
+| 52b7cad1 / secondary_link | {"destination":{"name":"internal-url","group":"site","settings":{"type":"post","post_id":{"id":495,"label":"Service Area"}}},"isTargetBlank":false,"tag":"a"} | {"destination":{"id":492},"isTargetBlank":false,"tag":"a"} |
+| 88d31eb5 / title | Before / After Restoration Projects | Commercial Renovation Projects |
+| 7be0dac8 / introduction | Use Commercial Reconstruction for building repairs after a loss. The project gallery shows existing GCPRO work; the Commercial hub helps identify the broader service you need. | Explore restoration services for commercial properties when damage cleanup or rebuilding is needed. |
+| 7be0dac8 / item_1_title | Commercial Reconstruction | Commercial Reconstruction |
+| 7be0dac8 / item_1_description | For damage-related building repairs and finishes. | Rebuilding damaged commercial areas after water, fire, or storm damage. |
+| 7be0dac8 / item_1_link_text | EXPLORE Commercial Reconstruction | Explore Commercial Reconstruction |
+| 7be0dac8 / item_1_link | {"destination":{"name":"internal-url","group":"site","settings":{"type":"post","post_id":{"id":524,"label":"Reconstruction"}}},"isTargetBlank":false,"tag":"a"} | {"destination":{"id":524},"isTargetBlank":false,"tag":"a"} |
+| 7be0dac8 / item_2_title | Commercial Services | Commercial Water Damage |
+| 7be0dac8 / item_2_description | Return to the broader business-property service overview. | Water removal and drying services for affected business properties. |
+| 7be0dac8 / item_2_link_text | EXPLORE Commercial Services | Explore Commercial Water Damage |
+| 7be0dac8 / item_2_link | {"destination":{"name":"internal-url","group":"site","settings":{"type":"post","post_id":{"id":499,"label":"Commercial Restoration Services in Chicago"}}},"isTargetBlank":false,"tag":"a"} | {"destination":{"id":515},"isTargetBlank":false,"tag":"a"} |
+| 7be0dac8 / item_3_title | Reconstruction Information | Commercial Fire & Smoke |
+| 7be0dac8 / item_3_description | Read the general repair-planning information. | Fire and smoke damage cleanup before necessary repairs and reconstruction. |
+| 7be0dac8 / item_3_link_text | EXPLORE Reconstruction Information | Explore Commercial Fire & Smoke |
+| 7be0dac8 / item_3_link | {"destination":{"name":"internal-url","group":"site","settings":{"type":"post","post_id":{"id":518,"label":"Reconstruction"}}},"isTargetBlank":false,"tag":"a"} | {"destination":{"id":520},"isTargetBlank":false,"tag":"a"} |
+| 7be0dac8 / item_4_title | Before &amp; After Projects | Commercial Mold Remediation |
+| 7be0dac8 / item_4_description | Explore the existing commercial entrance and club-room renovation photographs. | Remediation of mold-affected commercial areas before appropriate repairs. |
+| 7be0dac8 / item_4_link_text | EXPLORE Before &amp; After Projects | Explore Commercial Mold Remediation |
+| 7be0dac8 / item_4_link | {"destination":{"name":"internal-url","group":"site","settings":{"type":"post","post_id":{"id":493,"label":"Before And After"}}},"isTargetBlank":false,"tag":"a"} | {"destination":{"id":519},"isTargetBlank":false,"tag":"a"} |
+| c15304f / 31a44bf8 | (shared default) | Renovation support for commercial property owners, managers and building teams. |
+| c15304f / 11debea0 | (shared default) | Commercial Property Experience |
+| c15304f / 46074ea9 | (shared default) | Renovation and restoration services for commercial interiors and shared property spaces. |
+| c15304f / 74658ef6 | (shared default) | Planned Improvements & Repairs |
+| c15304f / 2195b550 | (shared default) | Support for both planned renovation work and repairs following property damage. |
+| c15304f / 133bbae9 | (shared default) | Coordinated Project Scope |
+| c15304f / 44c64cc8 | (shared default) | Clear discussion of the proposed work, materials, and project requirements. |
+| c15304f / 49c6ac5f | (shared default) | Property-Focused Communication |
+| c15304f / 65cfbe6e | (shared default) | Communication with the designated property contact about project needs and next steps. |
+| 18ea6097 / question_1 | How is general contracting different from reconstruction? | How is general contracting different from reconstruction? |
+| 18ea6097 / answer_1 | Planned contracting starts with the building changes you want to carry out. Reconstruction addresses repairs after damage and earlier restoration. A project can involve both, but identifying the reason for each part keeps improvements separate from damage-related repairs. | General contracting includes planned renovations and improvements. Reconstruction focuses on repairing and rebuilding areas damaged by a property loss. Some projects may involve both. |
+| 18ea6097 / question_2 | What should I include in a project enquiry? | What types of commercial projects does GCPRO handle? |
+| 18ea6097 / answer_2 | Identify the property, the spaces involved, their current condition and the result you want. Include photos or existing plans if you have them, the authorized contact and any known access constraints. Separate essential repairs from optional finish changes. | GCPRO provides commercial interior improvements, repairs, and renovation services. The specific scope depends on the property, project requirements, and work being requested. |
+| 18ea6097 / question_3 | Can I ask about one entrance or shared room? | Is GCPRO licensed and insured for commercial construction? |
+| 18ea6097 / answer_3 | Yes. GCPRO’s gallery includes an entrance and a clubroom. Use the actual space and intended work to frame the enquiry rather than assuming a whole-building project is necessary. The agreed scope determines which areas are included. | Ask GCPRO for the licensing and insurance documents relevant to your property and proposed work. Project-specific credentials and requirements can be discussed before work begins. |
+| 18ea6097 / question_4 | Who makes decisions about materials and building changes? | Who handles construction permits and inspections? |
+| 18ea6097 / answer_4 | Identify the person authorized to approve the project and the finish choices. Owners, managers and tenants can have different responsibilities. Make those roles clear before material decisions affect work in shared or leased areas. | Permit and inspection requirements depend on the location and scope of work. Responsibilities should be established during project planning. |
+| 18ea6097 / question_5 | Are design, permits and specialist services included? | Can renovations take place in an occupied commercial building? |
+| 18ea6097 / answer_5 | Do not assume they are included in a building-work enquiry. Identify any design, permit, inspection or specialist requirement and establish who is responsible before the project scope is finalized. No design or engineering service is promised here. | That depends on the type of work, affected areas, access requirements, and applicable safety conditions. These factors should be reviewed during project planning. |
+| 18ea6097 / question_6 | What if the work changes after it starts? | What happens if the project scope changes? |
+| 18ea6097 / answer_6 | Identify the additional area or changed finish and how it affects the existing scope before treating it as part of the project. Changes and newly discovered conditions need a separate decision about work, materials and sequence. | Changes to the agreed scope may affect pricing, materials, or scheduling. Any proposed changes should be reviewed with the property contact before additional work proceeds. |
+| 5d9f978e / title | DISCUSS YOUR NEXT STEP | Let's Discuss Your Commercial Project |
+| 5d9f978e / description | Call GCPRO to talk through your property damage and the work you need to discuss. | Contact GCPRO to discuss renovation needs, project requirements, and the next steps for your commercial property. |
+

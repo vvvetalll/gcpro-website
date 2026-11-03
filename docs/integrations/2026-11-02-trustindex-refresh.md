@@ -63,3 +63,6 @@ WordPress editor login required for preview URLs.
 - [488 — board-up/](https://vitaliiv1.sg-host.com/board-up/?preview_id=488&preview=true)
 - [489 — odor-removal/](https://vitaliiv1.sg-host.com/odor-removal/?preview_id=489&preview=true)
 - [490 — moisture-mapping/](https://vitaliiv1.sg-host.com/moisture-mapping/?preview_id=490&preview=true)
+## Page522 clipping investigation — 2026-11-03
+
+General Contracting522 retains its service-specific849197 shortcode, not4051. Live comparison with515 confirmed the same Slider II/layout5 configuration and835px desktop viewport with three278.323px cards; mobile390 showed one full card. Parent overflow is visible; vendor overflow hides offscreen slides and autoplay briefly exposes partial neighbors. Persistent clipping not reproduced, prior cause unconfirmed; no settings/global/page CSS changes. [Detailed evidence and limitations](../components/service-page-rollout-2026-10-23.md#commercial-general-contracting522-optimization--2026-11-03).

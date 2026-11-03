@@ -76,7 +76,8 @@ Created: 2026-11-01. **Purpose:** collect uncertain operational/service claims f
 | ID | Question | Status |
 |---|---|---|
 | R01 | License, insurance, permits, workmanship warranty specifics? | OPEN; see G03 |
-| R02 | Hidden damage/change orders, upgrades vs insurance-covered work, estimate revisions and claim coordination: verified steps? | OPEN |
+| R02 | Hidden damage/change orders, upgrades vs insurance-covered work, estimate revisions and claim coordination: verified steps? Includes General Contracting522 review2026-11-03; precise estimate/change-order process not established. | OPEN |
+| R03 | General Contracting522: confirm tenant improvements versus complete build-outs, office/retail scope, structural alterations, phased and after-hours work. Licensing/insurance/permits/warranty reuse G03/R01 rather than duplicate questions. | OPEN;2026-11-03 copy narrowed to verified interior/shared-space/entrance renovation examples |
 
 ## Fire & Smoke — /residential-services/fire-smoke/
 
