@@ -14,6 +14,17 @@ Created: 2026-11-01. **Purpose:** collect uncertain operational/service claims f
 | G04 | Multi-stage recovery | Which services are performed in-house vs partners/subcontractors, and is one project manager/contact a standard? | OPEN |
 | G05 | Service case studies/media | Which photos show verified GCPRO projects, what work was performed, and are permissions/licenses recorded? Future branded employee photos planned. | OPEN |
 
+## Geographic service coverage — Service Areas / availability popup
+
+**Owner request, 2026-11-03:** Treat precise service geography as unverified until authorized GCPRO management/operations confirms it. Existing published city pages and featured map municipalities are navigation/geographic references, not proof of address-level eligibility. Proposed owner departments: Operations / Dispatch and Management; Marketing/SEO implements approved wording only after confirmation. Do not publish ZIP-level eligibility, service radius, exclusions or guaranteed arrival times based on this register.
+
+| ID | Pages / scope | Question for management | Responsible department (proposed) | Status | Required website action |
+|---|---|---|---|---|---|
+| GEO01 | Component1140, directory495, Popup1801, service pages and geo prototype | What is the authoritative approved list of serviceable cities, ZIP codes and any address-level boundaries? Which cities/ZIPs are excluded or require manual confirmation? | Operations / Dispatch; Management approval | OPEN — owner requested clarification 2026-11-03 | Keep featured municipalities distinct from verified coverage; no eligibility lookup or invented ZIP list |
+| GEO02 | Residential/commercial/emergency pages, Popup1801 | Does coverage differ by service type, emergency versus scheduled work, residential versus commercial, or time of day? Are there conditional areas or dispatch restrictions? | Operations / Dispatch; Management approval | OPEN | Do not imply identical service eligibility for all services or promise dispatch to every mapped location |
+| GEO03 | Popup1801, Service Areas1140, geo directory495 | Who owns and updates the approved coverage register, who can confirm a specific address, and what should the popup display for eligible, uncertain and out-of-area requests? | Operations / Dispatch; Customer Service; Management approval | OPEN | Preserve current call-to-confirm behavior until authoritative data and explicit implementation approval |
+| GEO04 | Emergency CTAs and location pages; cross-reference G01 | Are any geographic response-time commitments, travel limits or service radius claims approved and supported by dispatch operations? | Operations / Dispatch; Management approval | OPEN; G01 remains unresolved | Do not add response-time, radius or guaranteed-arrival claims |
+
 ## Board-Up — /board-up/
 
 | ID | Question | Status |
