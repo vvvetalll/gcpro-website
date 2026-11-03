@@ -1,5 +1,9 @@
 # GCPRO changelog
 
+## Glenview page-only completion — 2026-11-03
+
+Updated533 Hero/alt, six content Overrides, Local Team prose and page SEO; added official drainage-reporting guidance, full Reviews/Affiliations; removed duplicate CTA. Existing Local Team layout, Before/After, four projects, FAQ and final CTA preserved. Shared definitions untouched. Browser scaling blocked exact1440/390 verification; limitation and roofing/build-out questions recorded. [Details](docs/seo/2026-10-26-geographic-implementation.md#glenview-page-only-completion--2026-11-03).
+
 ## Elmhurst page-only finalization — 2026-11-03
 
 Updated530 Hero/alt/SEO, tightened preserved overhead-sewer guidance, removed duplicate mid CTA, added approved two-column Local Team/full Reviews/Affiliations and sewer-backup FAQ. Four distinct documented projects retained; introduction broadened and2883 recommended for future commercial service use only. One1440/390 content/layout pass; no Component68 testing, shared-definition edits or other-page changes. [Exact IDs, duplication finding and verification limits](docs/seo/2026-10-26-geographic-implementation.md#elmhurst-page-only-finalization--2026-11-03).
