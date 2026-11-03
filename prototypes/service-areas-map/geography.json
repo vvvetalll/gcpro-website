@@ -1,0 +1,70 @@
+{
+  "source": "https://www2.census.gov/geo/tiger/TIGER2026/PLACE/tl_2026_17_place.zip",
+  "version": "TIGER/Line 2026",
+  "source_sha256": "ef964f31bcc58bf0f2772951348308baba7a3a1c0283bba8119e7d95319214db",
+  "projection": "EPSG:26916 / NAD83 UTM16N",
+  "simplification_meters": 45,
+  "context_simplification_meters": 90,
+  "cities": [
+    {
+      "name": "Lombard",
+      "geoid": "1744407",
+      "page_id": 526,
+      "area_change_ratio": 0.001349
+    },
+    {
+      "name": "Glenview",
+      "geoid": "1729938",
+      "page_id": 533,
+      "area_change_ratio": 0.001557
+    },
+    {
+      "name": "Northbrook",
+      "geoid": "1753481",
+      "page_id": 556,
+      "area_change_ratio": 0.000287
+    },
+    {
+      "name": "Oak Brook",
+      "geoid": "1754534",
+      "page_id": 536,
+      "area_change_ratio": 0.002442
+    },
+    {
+      "name": "Carol Stream",
+      "geoid": "1711332",
+      "page_id": 543,
+      "area_change_ratio": 0.001511
+    },
+    {
+      "name": "Downers Grove",
+      "geoid": "1720591",
+      "page_id": 527,
+      "area_change_ratio": 0.000738
+    },
+    {
+      "name": "Schaumburg",
+      "geoid": "1768003",
+      "page_id": 558,
+      "area_change_ratio": 0.00246
+    },
+    {
+      "name": "Highland Park",
+      "geoid": "1734722",
+      "page_id": 528,
+      "area_change_ratio": 0.003083
+    },
+    {
+      "name": "Naperville",
+      "geoid": "1751622",
+      "page_id": 532,
+      "area_change_ratio": 0.000343
+    },
+    {
+      "name": "Elmhurst",
+      "geoid": "1723620",
+      "page_id": 530,
+      "area_change_ratio": 0.001
+    }
+  ]
+}

@@ -172,3 +172,61 @@ Do not modify **BEAF Pro**, the global Header/Footer, service availability popup
 **The 17 documented service-page consumers** (source: [2026-10-24 coverage table](../audits/2026-10-24-service-consistency.md); current status requires a fresh read): Residential Water514, Fire517, Mold516, Reconstruction518, Storm523, Contents521, Water Extraction487, Board-Up488, Odor Removal489, Moisture Mapping490, Dehumidification491; Commercial Water515, Fire520, Mold519, Reconstruction524, Contents525 and General Contracting522. Their current Component1140 instances were documented under native locator `5e152b1b` at the rollout; never use that as a global CSS selector or assume it is unchanged without re-reading staging.
 
 **Decision requested of owner:** Approve *or decline* the **single shared SVG/GeoJSON + small JS integration** and the two-column enhancement after the live audit precondition; **no implementation approval has been given yet**.
+
+
+## Interactive map prototype — 2026-11-03
+
+**Implemented for owner review; not deployed to the shared component.** Current/default approved Git branch: `main`. Staging Draft **4104**, “GCPRO — Interactive Service Areas Map Prototype”: [editor-authenticated preview](https://vitaliiv1.sg-host.com/?page_id=4104&preview_id=4104&preview=true). Requires an editor session. Saved status `draft`; preview robots `noindex, nofollow`. No navigation/sitemap insertion or publication performed. Existing unrelated drafts were not suitable for this isolated prototype.
+
+### Architecture and ownership
+
+Root `a4104abc` holds the existing Component1140 instance `a1140abc` and prototype-only HTML widget `a4104def`. One source implementation under `prototypes/service-areas-map/`: build.py, map.css, map.js, map.svg, geography.json, prototype-widget.html and README.md. The compiled fragment embeds SVG/CSS/vanilla JS and runs only in this draft. No global Custom Code, plugin, stylesheet, template or production edit. Native1140 links, heading overrides and directory495/Popup1801 actions remain the source of content and navigation. Actual1140 content/style tree is byte-identical to the pre-task tool snapshot.
+
+Explicit task exception: an isolated HTML widget is used for authorized prototype code, written through authenticated staging REST because the native Atomic tools cannot author legacy HTML widgets. Native document save refreshes Elementor's cached render. No new Hero1318 is added: this is a section-review sandbox, not a service/marketing page. The existing header/footer only frame the preview and were not edited.
+
+Published direct consumers confirmed by current page-tree inventory:154,484,499,495,487,488,489,490,491,514,515,516,517,518,519,520,521,522,523,524,525. None changed. Draft4104 is the only new consumer.
+
+### Geographic source and mapping
+
+Official [US Census TIGER/Line2026 Illinois PLACE archive](https://www2.census.gov/geo/tiger/TIGER2026/PLACE/tl_2026_17_place.zip), listed2026-10-06. Source checksum is recorded in geography.json. NAD83 geography projected to EPSG26916; featured shapes simplified45m preserving topology, context90m. All ten resulting geometries valid; area change below0.31% each. Neutral context is nearby real municipalities clipped to the extent, not a fabricated service area. No extra featured city or invented boundary/radius.
+
+| Featured city | Census GEOID | Existing published page |
+|---|---|---|
+| Lombard | 1744407 | 526 |
+| Glenview | 1729938 | 533 |
+| Northbrook | 1753481 | 556 |
+| Oak Brook | 1754534 | 536 |
+| Carol Stream | 1711332 | 543 |
+| Downers Grove | 1720591 | 527 |
+| Schaumburg | 1768003 | 558 |
+| Highland Park | 1734722 | 528 |
+| Naperville | 1751622 | 532 |
+| Elmhurst | 1723620 | 530 |
+
+`geography.json` is the canonical generated mapping. No duplicated destination registry: runtime resolves the original native city anchors, compares labels with SVG city names, and reads href from those anchors. A mismatch leaves native content untouched. Before future shared integration, stable native GEOID/page-ID keys should replace label matching so editorial renaming cannot break pairing.
+
+### Behavior and visual layout
+
+Existing heading/introduction precede a42/58 desktop grid inside the existing approved container. Original links left, real municipality geometry right, existing actions below the list. Mobile DOM/visual order: intro, ten city links, map, existing actions. Map height caps at340px on mobile and510px desktop; widths never force horizontal scrolling. Native typography/buttons retained; muted blue geography, orange active fill, emphasized navy boundary, city label and inset list indicator provide more than color alone.
+
+Pointer hover and keyboard focus synchronize both directions. Map selection exposes “View city page” using the corresponding native href. Enter/Space selects and focuses that link; Escape clears selection. First touch selects without navigating. Original list links navigate directly. Reduced-motion disables transitions. All original HTML links remain usable without JS; in that fallback the styled static map follows the unmodified list/actions rather than the enhanced two-column arrangement. Availability popup still depends on its existing JS.
+
+### Actual verification
+
+- Official-name matching and unique GEOIDs checked for10/10 cities; all ten linked WordPress pages have `publish` status.
+- Real pointer input:20/20 bidirectional hover checks passed (ten list-to-map and ten map-to-list).
+- Real keyboard Enter selection:10/10 generated visit href values equal the original native href. Focus outline visible; Escape hides the visit action. Keyboard-driven actual city-list navigation reached Naperville; map visit navigation reached Lombard.
+- Touch emulation at390px: tapping the actual Schaumburg polygon selects Schaumburg, exposes its correct href and keeps the draft URL unchanged.
+- Actual Chrome1440px and390px visual checks: no horizontal overflow; original links, map and actions visible with the intended mobile order. Desktop screenshot and mobile full-section screenshot delivered to owner locally; no authenticated toolbar screenshots committed.
+- JS-disabled reload: ten original city links present, no overflow, correctly styled static map, no enhanced initialization. Reduced-motion computed transition duration0s. Browser console error log empty during tested interactions.
+- Original directory href retained; Check Service Availability actually opened Popup1801, then closed without form submission. Full unchanged-popup regression intentionally omitted.
+- Final draft readback confirmed draft status and current widget content; shared1140 readback equals its pre-task tree. No existing consumers modified.
+- Asset check: SVG158,018 bytes; compiled fragment about166KB uncompressed /55.5KB gzip estimate; CSS4.6KB, JS2.7KB uncompressed. No runtime map network requests/dependencies. Local build-time Python packages only.
+
+### Limits, removal and next approval
+
+This is a working reviewed-browser prototype, **not approved production integration**. Browser testing used Chrome desktop/mobile emulation, not a physical phone or full screen-reader audit. Tiny real municipal parts are not enlarged into false geometry; the comfortably sized native city list supplies an equivalent navigation target. Native labels must remain unchanged for current matching. Preview requires editor login. No-JS retains original link/action order, with a static map afterwards. Actual compressed HTTP transfer was not measured;55.5KB is a local gzip estimate.
+
+Owner reviews the layout/behavior at4104. Only after explicit approval: back up1140 and its override schema, add a single shared SVG/integration owner, retain native city links and current heading/action Overrides, attach stable geography keys, test representative service/hub consumers, then authorize rollout. Do not copy HTML widgets into17 service pages. Popup1801 remains independent.
+
+Rollback/removal is confined to draft4104: remove its local HTML widget and1140 instance, or trash the draft when authorized. No existing page, shared definition or global code needs restoration. Source files are recoverable in Git. Outstanding: owner visual/behavior approval and separately authorized shared integration; no rollout performed.

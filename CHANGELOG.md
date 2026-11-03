@@ -1,5 +1,9 @@
 # GCPRO changelog
 
+## Interactive Service Areas map prototype — 2026-11-03
+
+Built unpublished staging Draft4104 with native1140 content and one isolated SVG/CSS/JS integration. Official Census2026 geometry for the existing ten cities; no duplicated URL registry or global changes. Bidirectional hover20/20, keyboard destinations10/10, actual Lombard/Naperville navigation, mobile touch,1440/390 overflow/appearance, no-JS, reduced motion and Popup1801 opening checked. Shared1140 unchanged. Owner approval required before shared integration. [Architecture, mapping, evidence, limits and rollback](docs/components/service-areas.md#interactive-map-prototype--2026-11-03).
+
 ## Commercial Contents and owner-uploaded media — 2026-11-03
 
 Published Page525 B2B copy/SEO, Request492 CTAs and four related515/520/524/489 links using eight existing instances. Warehouse4099 preserved after owner confirmation; owner-authorized title/alt/caption/description completed for today's4099/4088/4089 photos. Existing service-specific Contents reviews preserved; no approved B2B contents replacement found. Saved-tree,1440/390,FAQ, metadata/link and anonymous checks completed. Storage terms/specialist capabilities remain OPEN. [Exact changes, provenance and limits](docs/components/service-page-rollout-2026-10-23.md#commercial-contents525-optimization--2026-11-03).

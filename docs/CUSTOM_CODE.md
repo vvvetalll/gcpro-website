@@ -1,5 +1,9 @@
 # Custom code and dependency register
 
+## Isolated Service Areas map prototype — 2026-11-03
+
+Owner authorized prototype-only CSS/vanilla JS/SVG. Sole owner: unpublished staging Draft4104 HTML widget a4104def; source/build assets in `prototypes/service-areas-map/`. No sitewide enqueue, Custom Code record, plugin, global styles or shared1140 modification. The draft reuses1140's native links/actions; script changes only its own rendered layout. No runtime dependencies or geographic network requests. Remove only this draft/widget to reverse. [Architecture, verification, source and future integration restrictions](components/service-areas.md#interactive-map-prototype--2026-11-03).
+
 ## Trustindex refresh — 2026-11-02
 
 Nine vendor configuration copies and native Component4051 reuse the existing Trustindex/Atomic integration. No new code, plugin, enqueue, Global Class or Variable. Vendor assets remain the review presentation owner. [Current mapping and dependencies](integrations/2026-11-02-trustindex-refresh.md).

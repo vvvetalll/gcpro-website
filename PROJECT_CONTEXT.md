@@ -1,5 +1,9 @@
 # GCPRO project context
 
+## Service Areas interactive map — prototype ready for review, 2026-11-03
+
+Unpublished Draft4104 implements the approved SVG/Census2026 approach for the existing ten cities. Native1140 is reused unchanged; prototype code is isolated to one local HTML widget. Desktop/mobile, bidirectional hover, keyboard, touch, native destinations and no-JS fallback verified. [Preview, exact tests, constraints and next approval](docs/components/service-areas.md#interactive-map-prototype--2026-11-03). Awaiting owner visual/behavior approval; no shared integration or consumer rollout authorized/performed.
+
 ## Moisture Mapping and required service benefits — 2026-11-02
 
 Published Page490 copy/SEO, instruments, documented readings, precise thermal-imaging explanation, connected-service labels and Request Service links. Native Why1149 added to five missing service pages;12 existing instances retained. Certificates deferred. Saved-state checks only; browser unavailable. [Details and recovery](docs/components/moisture-mapping.md).
