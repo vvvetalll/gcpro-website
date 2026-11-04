@@ -1,5 +1,9 @@
 # Why GCPRO — shared section and certifications
 
+## Unified Why GCPRO without decorative numbers — 2026-11-04
+
+Owner directs one consistent shared design. Component1149 permanently removes number elements5dd576b3/75c1bbe1/471fec68/8c43fd9. Existing why-benefit g-9bf65cb now uses one minmax(0,1fr) internal track, removing the empty number column for all consumers. Icons, content Overrides, outer grid and responsive design retained. Removed obsolete homepage154/container46c3aad4 two-rule hiding exception from local Custom CSS; no separate homepage number treatment remains. Native MCP publish completed, saved first benefit confirms only content child remains. No broad consumer regression or physical-device verification performed. Supersedes2026-10-31 homepage-only visibility record. Production untouched.
+
 ## 2026-10-31 — Requested thinner homepage icons: pending
 
 Owner approved lighter rounded outlines and a consistent sitewide decorative-icon direction; see [design standard](../DESIGN_SYSTEM.md#current-icon-weight-and-sizing--owner-direction-2026-10-31) and [current asset/Override register](../ICONOGRAPHY.md#2026-10-31--lighter-outline-direction-and-homepage-trial).

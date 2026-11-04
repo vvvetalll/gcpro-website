@@ -4,6 +4,9 @@
 
 Owner approved a consistent blue/navy illustration direction for 11 GEO Hero images, using the existing Elementor Hero1318 image Override and blob-haikei-4.svg mask. Recorded Work-reported 4:3 sizing/crop/safe zones, color hierarchy, city-specific subject candidates, map/office accuracy restrictions, WebP export, and Lombard-first review gates in [GEO Hero illustration system](docs/design/geo-hero-illustration-system.md). This stage is documentation only; no WordPress or production changes, no geographic geometry verified, and no final approved asset installed. Next: produce/review Lombard pilot, validate geometry separately before geographic claims.
 
+## Unified Why GCPRO without decorative numbers — 2026-11-04
+
+Owner directs one consistent shared design. Component1149 permanently removes number elements5dd576b3/75c1bbe1/471fec68/8c43fd9. Existing why-benefit g-9bf65cb now uses one minmax(0,1fr) internal track, removing the empty number column for all consumers. Icons, content Overrides, outer grid and responsive design retained. Removed obsolete homepage154/container46c3aad4 two-rule hiding exception from local Custom CSS; no separate homepage number treatment remains. Native MCP publish completed, saved first benefit confirms only content child remains. No broad consumer regression or physical-device verification performed. Supersedes2026-10-31 homepage-only visibility record. Production untouched.
 
 ## Carol Stream page-only completion — 2026-11-04
 
