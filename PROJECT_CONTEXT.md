@@ -1,5 +1,10 @@
 # GCPRO project context
 
+## GEO Hero illustration system — 2026-11-04
+
+Owner approved navy/blue branded vector art for 11 GEO Hero image Overrides, retaining existing Hero1318 and blob-haikei-4.svg. Lombard water tower is the pilot; maps/pins require real geometry and verified office coordinates, not AI guesses. Work supplied 2000×1500 WebP master/crop/safe-zone specification. No WordPress writes authorized or performed for this design documentation step; pilot asset and owner visual approval pending. [Art direction, matrix, constraints and handoff](docs/design/geo-hero-illustration-system.md).
+
+
 ## Elk Grove Village finalization — 2026-11-03
 
 Published staging529 with practical home/office/warehouse guidance grounded in official Village sources, approved Local Team/real Lombard office, full Reviews section, Affiliations, useful FAQ and page-specific SEO/Service schema. Existing six shared68 instances, Process and single final CTA preserved; no shared-definition changes or invented projects. Desktop/mobile checks completed; anonymous403 limitation recorded. Owner stopped repeated verification of established shared components: future work checks changed page-specific content/layout only. [Implementation, IDs and limitations](docs/seo/2026-10-26-geographic-implementation.md#elk-grove-village-finalization--2026-11-03).
