@@ -1,5 +1,9 @@
 # Why GCPRO — shared section and certifications
 
+## Mobile number-track regression fix — 2026-11-04
+
+Updated staging Global Class why-benefit (g-9bf65cb), mobile variant, to `grid-template-columns: minmax(0, 1fr)` after the earlier number removal left a 48px first track that squeezed benefit content. The shared class applies to all consumers of Why Choose Section (1149); authenticated homepage browser checks confirmed all four benefit text widths at 360/768/1440px and a visual check at 390px, with no physical-device or anonymous-delivery verification. This corrects the earlier claim that responsive behavior was retained; no page-specific exception or additional stylesheet was added.
+
 ## Unified Why GCPRO without decorative numbers — 2026-11-04
 
 Owner directs one consistent shared design. Component1149 permanently removes number elements5dd576b3/75c1bbe1/471fec68/8c43fd9. Existing why-benefit g-9bf65cb now uses one minmax(0,1fr) internal track, removing the empty number column for all consumers. Icons, content Overrides, outer grid and responsive design retained. Removed obsolete homepage154/container46c3aad4 two-rule hiding exception from local Custom CSS; no separate homepage number treatment remains. Native MCP publish completed, saved first benefit confirms only content child remains. No broad consumer regression or physical-device verification performed. Supersedes2026-10-31 homepage-only visibility record. Production untouched.
