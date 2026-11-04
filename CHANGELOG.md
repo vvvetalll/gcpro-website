@@ -1,5 +1,10 @@
 # GCPRO changelog
 
+## GEO Hero illustration system specification — 2026-11-04
+
+Owner approved a consistent blue/navy illustration direction for 11 GEO Hero images, using the existing Elementor Hero1318 image Override and blob-haikei-4.svg mask. Recorded Work-reported 4:3 sizing/crop/safe zones, color hierarchy, city-specific subject candidates, map/office accuracy restrictions, WebP export, and Lombard-first review gates in [GEO Hero illustration system](docs/design/geo-hero-illustration-system.md). This stage is documentation only; no WordPress or production changes, no geographic geometry verified, and no final approved asset installed. Next: produce/review Lombard pilot, validate geometry separately before geographic claims.
+
+
 ## Carol Stream page-only completion — 2026-11-04
 
 Published543 only. Hero683fc08 preserves burst-pipe/appliance/fire opening and existing water-tower photograph; closing sentence now requested24/7 wording. Empty Hero alt found in final pass corrected with page-specific same-image URL Override (Carol Stream water tower), no Media/global edits. Six68 instances471cd2de/725c4dee/6b8ad729/342d8f6b/72102b03/16640bd4 receive requested titles/descriptions for leaks/backups, fire/smoke, attic/interior mold, flooring/doors/interior repairs, storms and belongings/contents. Original native service links/grid/styles retained; no shared component or interaction tests.
