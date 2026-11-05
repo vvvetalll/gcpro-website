@@ -1,5 +1,7 @@
 # Before / After
 
+**2026-11-05 — Clear filters state:** native Reset Facets selection now includes only Service/Location/Property: facet10 targets7/8/9 and Projects facet4 targets1/2/3. No added code or styling. Authenticated checks: Load More9→18 leaves Reset disabled on both pages; Before/After Service Fire returns7/enables Reset, then Clear returns9/disables Reset. Prior reset_facet arrays were empty (all facets, including pagination).
+
 ## 2026-11-05 — Approved WP Grid Builder gallery and refinements
 
 Owner approved the isolated prototype, the BEAF AJAX/keyboard bridge, then deployment to the existing main staging page. Page493 `/before-and-after/` is published; only gallery section1ad8810d was replaced. Original Hero1c1a1b2e/3421, URL, header and footer remain. Draft4352 is retained as the review reference. Production untouched.
