@@ -22,8 +22,9 @@
 .gc-service-areas-map .gc-map-selection{position:absolute;z-index:3;width:260px;max-width:calc(100% - 24px);padding:14px 16px;display:flex;flex-direction:column;align-items:flex-start;gap:4px;border:1px solid #dce1e9;border-radius:6px;background:#fff;color:var(--map-text)}
 .gc-service-areas-map .gc-map-selection[hidden]{display:none}
 .gc-service-areas-map [data-map-label]{font:600 22px/1.3 Montserrat,sans-serif}
-.gc-service-areas-map .gc-map-selection a{color:var(--map-text);min-height:44px;display:inline-flex;align-items:center;gap:12px;font-size:15px;text-decoration:underline;text-underline-offset:4px}
-.gc-service-areas-map .gc-map-selection a span{color:var(--map-orange)}
+.gc-service-areas-map .gc-map-selection a{color:var(--map-text);min-height:44px;display:inline-flex;align-items:center;gap:12px;font-size:15px;text-decoration:none}
+.gc-service-areas-map .gc-map-selection a [data-map-visit-text]{text-decoration:underline;text-underline-offset:4px}
+.gc-service-areas-map .gc-map-selection a span[aria-hidden="true"]{color:var(--map-orange)}
 .gc-service-areas-map .gc-map-selection a[hidden]{display:none}
 .gc-service-areas-map .gc-map-selection a:focus-visible{outline:2px solid var(--map-navy);outline-offset:2px}
 .gc-service-areas-map .gc-map-note{font-size:13px;line-height:1.5;margin: auto 0 0;padding:14px 18px 0;border-top:1px solid #e0e5eb}

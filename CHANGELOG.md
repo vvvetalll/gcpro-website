@@ -1,5 +1,10 @@
 # GCPRO changelog
 
+## Service Areas map link underline — 2026-11-05
+
+Fixed the selected-city footer link in existing staging Custom Code4134: underline only its text span, keep the orange aria-hidden arrow undecorated. Scoped map CSS/markup and rebuilt artifact only; JS, destinations and focus rules unchanged. Verified390px touch selection/appearance/no overflow and1440px desktop layout/mouse behavior. Documentation includes exact scope, keyboard-testing limitation and rollback. [Details](docs/components/service-areas.md#selected-city-link-underline--2026-11-05).
+
+
 ## GEO Hero illustration system specification — 2026-11-04
 
 Owner approved a consistent blue/navy illustration direction for 11 GEO Hero images, using the existing Elementor Hero1318 image Override and blob-haikei-4.svg mask. Recorded Work-reported 4:3 sizing/crop/safe zones, color hierarchy, city-specific subject candidates, map/office accuracy restrictions, WebP export, and Lombard-first review gates in [GEO Hero illustration system](docs/design/geo-hero-illustration-system.md). This stage is documentation only; no WordPress or production changes, no geographic geometry verified, and no final approved asset installed. Next: produce/review Lombard pilot, validate geometry separately before geographic claims.
