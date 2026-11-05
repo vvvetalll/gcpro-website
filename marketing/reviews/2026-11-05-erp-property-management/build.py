@@ -16,6 +16,12 @@ regions=[(113,129,580,149),(52,186,589,224),(40,233,296,333),(315,233,590,333),
          (65,404,204,634),(246,404,414,635),(456,404,577,634),(40,679,590,711)]
 for rect in regions:page.add_redact_annot(fitz.Rect(rect),fill=None)
 page.apply_redactions(images=0,graphics=0,text=0)
+# Replace the old fixed-position bullet markers along with the list text.
+markers=[d['rect'] for d in page.get_drawings()
+         if 400<d['rect'].y0<635 and d['rect'].width<10 and d.get('fill') and d['fill'][0]>.9]
+assert len(markers)==10
+for rect in markers:page.add_redact_annot(rect+(-.4,-.4,.4,.4),fill=None)
+page.apply_redactions(images=0,graphics=1,text=0)
 for alias,name in [('Copy','inter-latin-400-normal'),('Heading','montserrat-latin-700-normal'),('Tag','montserrat-latin-600-normal')]:
     font=TTFont(FONTS/(name+'.woff2'));font.flavor=None;font.save(CACHE/(name+'.ttf'))
     page.insert_font(fontname=alias,fontfile=str(CACHE/(name+'.ttf')))
@@ -30,10 +36,21 @@ left,right=paragraph.split(' With a property-specific',1)
 columns=[left,'With a property-specific'+right]
 for rect,content in zip([(41.4,236,293,334),(316.4,236,589,334)],columns):
     text(rect,content,size=9.25,lineheight=1.23)
-for x,right,ys,key in [(66.6,204,[406.8,461.5],'before'),(247.3,414,[406.8,448.8,490.8,532.8,574.8,604],'during'),(457.6,577,[406.8,512.5],'after')]:
-    for i,(y,content) in enumerate(zip(ys,DATA[key])):
-        bottom=ys[i+1]-5 if i+1<len(ys) else 634
-        text((x,y,right,bottom),content)
+list_positions={}
+probe_doc=fitz.open();probe=probe_doc.new_page(width=630,height=810)
+probe.insert_font(fontname='Copy',fontfile=str(CACHE/'inter-latin-400-normal.ttf'))
+for x,right,key in [(66.6,204,'before'),(247.3,414,'during'),(457.6,577,'after')]:
+    y=406.8;positions=[]
+    for content in DATA[key]:
+        unused=probe.insert_textbox(fitz.Rect(0,0,right-x,400),content,fontname='Copy',fontsize=8.8,lineheight=1.18)
+        used=400-unused
+        assert y+used<634
+        text((x,y,right,y+used+.1),content)
+        page.draw_rect(fitz.Rect(x-12.6,y+4.2,x-7.35,y+9.45),color=None,fill=(240/255,90/255,41/255))
+        positions.append({'top':round(y,2),'height':round(used,2)})
+        y+=used+9
+    list_positions[key]=positions
+probe_doc.close()
 prefix,tail=DATA['cta'].split('(847) 656-3322')
 cursor=41.4
 for content,alias,color in [(prefix,'Copy',body),('(847) 656-3322','Heading',(240/255,90/255,41/255)),(tail,'Copy',body)]:
@@ -51,5 +68,5 @@ assert 'insurance agent' not in page.get_text().lower()
 assert '\ufffd' not in page.get_text() and '\u25a1' not in page.get_text()
 assert not list(page.widgets() or [])
 page.get_pixmap(matrix=fitz.Matrix(1.75,1.75)).save(HERE/'GCPRO-ERP-Property-Management-REVIEW.png')
-(HERE/'checks.json').write_text(json.dumps({'source_sha256':hashlib.sha256(SOURCE.read_bytes()).hexdigest(),'output_sha256':hashlib.sha256(OUTPUT.read_bytes()).hexdigest(),'pages':1,'media_points':[630,810],'provided_paragraph':'exact after whitespace/apostrophe normalization','insurance_agent_copy_removed':True,'missing_glyphs':False,'status':'REVIEW — not promoted to main release'},indent=2)+'\n',encoding='utf-8')
+(HERE/'checks.json').write_text(json.dumps({'source_sha256':hashlib.sha256(SOURCE.read_bytes()).hexdigest(),'output_sha256':hashlib.sha256(OUTPUT.read_bytes()).hexdigest(),'pages':1,'media_points':[630,810],'provided_paragraph':'exact after whitespace/apostrophe normalization','insurance_agent_copy_removed':True,'missing_glyphs':False,'list_item_gap_points':9,'list_positions':list_positions,'status':'REVIEW — not promoted to main release'},indent=2)+'\n',encoding='utf-8')
 print(OUTPUT)

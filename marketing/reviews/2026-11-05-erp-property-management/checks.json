@@ -1,6 +1,6 @@
 {
   "source_sha256": "167260ab417053fe3661a5cb71ad047f9b6255086addc6188f6a7f9ad1c3e7fb",
-  "output_sha256": "7cad45617aed498331cc0363bf0cef4ed16d17bad6552b9c4c07c8b36fde1f18",
+  "output_sha256": "13fea19402d40a1e1d55851b4661773a9b1330e160639bbea66378e51e466bd2",
   "pages": 1,
   "media_points": [
     630,
@@ -9,6 +9,55 @@
   "provided_paragraph": "exact after whitespace/apostrophe normalization",
   "insurance_agent_copy_removed": true,
   "missing_glyphs": false,
+  "list_item_gap_points": 9,
+  "list_positions": {
+    "before": [
+      {
+        "top": 406.8,
+        "height": 43.66
+      },
+      {
+        "top": 459.46,
+        "height": 54.04
+      }
+    ],
+    "during": [
+      {
+        "top": 406.8,
+        "height": 22.89
+      },
+      {
+        "top": 438.69,
+        "height": 22.89
+      },
+      {
+        "top": 470.58,
+        "height": 22.89
+      },
+      {
+        "top": 502.47,
+        "height": 22.89
+      },
+      {
+        "top": 534.36,
+        "height": 12.51
+      },
+      {
+        "top": 555.87,
+        "height": 22.89
+      }
+    ],
+    "after": [
+      {
+        "top": 406.8,
+        "height": 54.04
+      },
+      {
+        "top": 469.84,
+        "height": 54.04
+      }
+    ]
+  },
   "status": "REVIEW \u2014 not promoted to main release",
   "unchanged_outside_text_regions": "pixel-identical at 144 dpi"
 }
