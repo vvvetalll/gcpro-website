@@ -14,6 +14,8 @@
 
 Поточний варіант для огляду: [ERP Agency Flyer → Property Management, 2026-11-05](reviews/2026-11-05-erp-property-management/README.md). Це окремий review, не заміна базового випуску.
 
+[PM Commercial Trifold — water-mitigation cover concept without photo](reviews/2026-11-05-pm-trifold-water-cover/README.md). Власник підтвердив документ; фото ще обирається.
+
 | Папка | Призначення |
 |---|---|
 | [releases/2026-10-20](releases/2026-10-20) | Готові файли в точній структурі наданої власником папки. Друк, Fillable, лого й прев’ю. |
