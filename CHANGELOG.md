@@ -1,5 +1,9 @@
 # GCPRO changelog
 
+## Dynamic branded Single Project Hero — 2026-11-05
+
+Published staging Single2231 opening with existing blue Hero design, SVG mask/decorations and dynamic project content; compact city/service badges added at owner request. Archive3421/Shared1318 and all52 project records remain unchanged. Three projects checked at1440/768/390, galleries and breadcrumb keyboard navigation passed; anonymous403 limits guest verification. [Implementation and rollback](docs/components/projects-acf-prototype.md#2026-11-05--branded-dynamic-single-project-hero).
+
 ## Before/After native filtering and shared button style — 2026-11-05
 
 Deployed owner-approved WPGB prototype to existing staging Page493, preserving all26 comparisons and existing captions/links. Added native facets/Load More with scoped BEAF AJAX/keyboard compatibility; refined labels,18px headings, equal-height rows and fullscreen on all26 sliders. Native WPGB Load More now reuses the current global button-outline class sitewide through existing integration0.4.6. [Owners, actual tests and rollback](docs/components/before-after.md#2026-11-05--approved-wp-grid-builder-gallery-and-refinements). Authenticated verification only; direct anonymous request403, production untouched.

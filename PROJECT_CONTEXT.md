@@ -1,5 +1,9 @@
 # GCPRO project context
 
+## Single Project branded Hero — 2026-11-05
+
+Completed/published staging template2231 only: established navy/SVG-masked layout with dynamic title, excerpt, photo and location/service badges. Existing galleries/body/final CTA preserved exactly;3421/1318 and project records unchanged. Three-project responsive checks passed; guest403 and physical-device/editor checks remain limitations. [Current task record, IDs and recovery](docs/components/projects-acf-prototype.md#2026-11-05--branded-dynamic-single-project-hero). This owner request supersedes the historical white case-opening decision.
+
 ## GEO Hero illustration system — 2026-11-04
 
 Owner approved navy/blue branded vector art for 11 GEO Hero image Overrides, retaining existing Hero1318 and blob-haikei-4.svg. Lombard water tower is the pilot; maps/pins require real geometry and verified office coordinates, not AI guesses. Work supplied 2000×1500 WebP master/crop/safe-zone specification. No WordPress writes authorized or performed for this design documentation step; pilot asset and owner visual approval pending. [Art direction, matrix, constraints and handoff](docs/design/geo-hero-illustration-system.md).
