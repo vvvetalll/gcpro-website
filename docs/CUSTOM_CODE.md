@@ -1,5 +1,9 @@
 # Custom code and dependency register
 
+## Single2231 metadata empty-state selectors — 2026-11-05
+
+Only local Atomic styles of item wrappers6c84aa8/e-25e81c3b-24dd and723eba2a/e-7e8d97e5-3b67 contain `&:has(> .e-paragraph-base:empty) { display:none; }`; row7ff56d23/e-34479d48-64f2 hides when no nonempty paragraph exists. Necessary to omit decorative icons/gaps with missing dynamic data; native exposed controls cannot condition parent visibility on child text. Icon styles ef4e4e6/391017f8 retain `fill:currentColor` for the existing SVGs. No JS, global rules or Custom Code post; all other visual properties remain native. Restore only metadata subtree from private pre-change snapshot to roll back. [Task record](components/projects-acf-prototype.md#2026-11-05--inline-hero-metadata-refinement).
+
 ## Before/After WPGB bridge and shared Load More class — 2026-11-05
 
 Grid1 Advanced JS/CSS are the sole owners of the approved BEAF initialization/keyboard/fullscreen compatibility and scoped gallery presentation; [source mirrors](../integrations/beaf-wpgb) are not enqueued separately. Page493 and draft4352 reuse Grid1/Card1/facets7–11. Existing integration plugin0.4.6 connects every native WPGB Load More button to existing Global Class g-b5f3969 via native facet HTML and Elementor style rendering; generated handle `gcpro-wpgb-button-class` contains only a WPGB-scoped rendering of that current class, no independent design values. No vendor/plugin replacement or shared-class-definition edit. [Exact owners, dependencies, checks, limitations and rollback](components/before-after.md#2026-11-05--approved-wp-grid-builder-gallery-and-refinements).

@@ -1,5 +1,9 @@
 # GCPRO changelog
 
+## Single Project inline metadata — 2026-11-05
+
+Replaced2231 Hero badges with dynamic city/state and category, native small pin/tools icons, white14px text and8/24px spacing. Empty items hide cleanly; all other template nodes compare unchanged. Three locations/categories checked at1440/390. [Details and recovery](docs/components/projects-acf-prototype.md#2026-11-05--inline-hero-metadata-refinement).
+
 ## Dynamic branded Single Project Hero — 2026-11-05
 
 Published staging Single2231 opening with existing blue Hero design, SVG mask/decorations and dynamic project content; compact city/service badges added at owner request. Archive3421/Shared1318 and all52 project records remain unchanged. Three projects checked at1440/768/390, galleries and breadcrumb keyboard navigation passed; anonymous403 limits guest verification. [Implementation and rollback](docs/components/projects-acf-prototype.md#2026-11-05--branded-dynamic-single-project-hero).
