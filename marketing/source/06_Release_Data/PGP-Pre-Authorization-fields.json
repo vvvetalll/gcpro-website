@@ -1,0 +1,177 @@
+{
+  "Owner_Name": {
+    "type": "/Tx",
+    "flags": 0,
+    "value": ""
+  },
+  "Facility_Address": {
+    "type": "/Tx",
+    "flags": 0,
+    "value": ""
+  },
+  "Option_1": {
+    "type": "/Btn",
+    "flags": 0,
+    "value": "/Off"
+  },
+  "Option_2": {
+    "type": "/Btn",
+    "flags": 0,
+    "value": "/Off"
+  },
+  "Option_3": {
+    "type": "/Btn",
+    "flags": 0,
+    "value": "/Off"
+  },
+  "Option_4": {
+    "type": "/Btn",
+    "flags": 0,
+    "value": "/Off"
+  },
+  "Option_5": {
+    "type": "/Btn",
+    "flags": 0,
+    "value": "/Off"
+  },
+  "NTE_Notes": {
+    "type": "/Tx",
+    "flags": 0,
+    "value": ""
+  },
+  "Option_6": {
+    "type": "/Btn",
+    "flags": 0,
+    "value": "/Off"
+  },
+  "Option_7": {
+    "type": "/Btn",
+    "flags": 0,
+    "value": "/Off"
+  },
+  "Option_8": {
+    "type": "/Btn",
+    "flags": 0,
+    "value": "/Off"
+  },
+  "Option_9": {
+    "type": "/Btn",
+    "flags": 0,
+    "value": "/Off"
+  },
+  "Option_10": {
+    "type": "/Btn",
+    "flags": 0,
+    "value": "/Off"
+  },
+  "Option_11": {
+    "type": "/Btn",
+    "flags": 0,
+    "value": "/Off"
+  },
+  "Option_12": {
+    "type": "/Btn",
+    "flags": 0,
+    "value": "/Off"
+  },
+  "Agreement_1": {
+    "type": "/Btn",
+    "flags": 0,
+    "value": "/Off"
+  },
+  "Agreement_2": {
+    "type": "/Btn",
+    "flags": 0,
+    "value": "/Off"
+  },
+  "Signer_1_Print_Name": {
+    "type": "/Tx",
+    "flags": 0,
+    "value": ""
+  },
+  "Signer_1_Date": {
+    "type": "/Tx",
+    "flags": 0,
+    "value": ""
+  },
+  "Signer_1_Signature": {
+    "type": "/Tx",
+    "flags": 0,
+    "value": ""
+  },
+  "Signer_1_Title": {
+    "type": "/Tx",
+    "flags": 0,
+    "value": ""
+  },
+  "Signer_2_Print_Name": {
+    "type": "/Tx",
+    "flags": 0,
+    "value": ""
+  },
+  "Signer_2_Date": {
+    "type": "/Tx",
+    "flags": 0,
+    "value": ""
+  },
+  "Signer_2_Signature": {
+    "type": "/Tx",
+    "flags": 0,
+    "value": ""
+  },
+  "Signer_2_Title": {
+    "type": "/Tx",
+    "flags": 0,
+    "value": ""
+  },
+  "Location_1": {
+    "type": "/Tx",
+    "flags": 0,
+    "value": ""
+  },
+  "Location_1_Key_Contact": {
+    "type": "/Tx",
+    "flags": 4096,
+    "value": ""
+  },
+  "Location_2": {
+    "type": "/Tx",
+    "flags": 0,
+    "value": ""
+  },
+  "Location_2_Key_Contact": {
+    "type": "/Tx",
+    "flags": 4096,
+    "value": ""
+  },
+  "Location_3": {
+    "type": "/Tx",
+    "flags": 0,
+    "value": ""
+  },
+  "Location_3_Key_Contact": {
+    "type": "/Tx",
+    "flags": 4096,
+    "value": ""
+  },
+  "Location_4": {
+    "type": "/Tx",
+    "flags": 0,
+    "value": ""
+  },
+  "Location_4_Key_Contact": {
+    "type": "/Tx",
+    "flags": 4096,
+    "value": ""
+  },
+  "Location_5": {
+    "type": "/Tx",
+    "flags": 0,
+    "value": ""
+  },
+  "Location_5_Key_Contact": {
+    "type": "/Tx",
+    "flags": 4096,
+    "value": ""
+  }
+}

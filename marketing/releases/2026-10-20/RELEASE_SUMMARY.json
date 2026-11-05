@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-20",
+  "prior_documents": 16,
+  "new_layouts_including_standalone_cover": 7,
+  "total_document_layouts": 23,
+  "new_layout_pages": 27,
+  "new_interactive_form_fields": 456,
+  "ready_pdf_files_including_print_fillable_editions_and_logo_sheet": 38,
+  "prior_pdf_files": 26,
+  "logo_variants": 4,
+  "logo_svgs": 8,
+  "logo_pngs": 8,
+  "validation": {
+    "supplied_prior_pdfs_hash_identical": true,
+    "new_source_templates_rebuilt": 7,
+    "page_text_checks_passed": true,
+    "canonical_form_checks_and_sample_fill_passed": true
+  }
+}

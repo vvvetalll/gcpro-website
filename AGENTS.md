@@ -189,3 +189,7 @@ Keep documentation proportional. Do not create separate evidence files or duplic
 ## Service-page benefits — owner instruction, 2026-11-02
 
 Every service page must include the existing shared Why Choose GCPRO Component1149. Preserve existing instances; add a native instance where absent, using supported page-specific Overrides. Do not duplicate certificate rows; retain the existing separate Credentials1886 convention. Certificate updates are a separate deferred task. For routine copy/SEO edits, confirm the save and report briefly; do not prolong work with repeated visual evaluations.
+
+## Marketing documents — owner instruction, 2026-11-05
+
+For GCPRO marketing layouts, printed materials, fillable PDFs, logos and source work, start at [marketing/README.md](marketing/README.md) and follow [marketing/AGENTS.md](marketing/AGENTS.md). This is the owner-designated knowledge/source folder, based on the supplied October 20 kit. Reuse its exact established layouts; a text/photo correction does not authorize redesign. Website tokens/components remain governed by the website records. Current unapproved ERP/PM revisions, presentations and Thank You flyers are not part of this baseline kit.

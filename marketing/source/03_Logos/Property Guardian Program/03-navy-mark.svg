@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" role="img" aria-label="Property Guardian Program"><title>Property Guardian Program</title><defs>
+<mask id="orbit-clearance" maskUnits="userSpaceOnUse" x="0" y="0" width="1254" height="1254"><rect width="1254" height="1254" fill="white"/><path d="M867 412 C1048 390 1170 443 1156 568 C1134 800 731 987 393 966 C153 956 38 861 160 666 C115 800 209 864 407 874 C699 888 1023 719 1060 576 C1094 486 1013 427 867 412 Z" fill="black" stroke="black" stroke-width="22" stroke-linejoin="round"/></mask>
+<mask id="building-channels" maskUnits="userSpaceOnUse" x="0" y="0" width="1254" height="1254"><rect width="1254" height="1254" fill="white"/>
+<path d="M521 287V1100 M553 264V1100 M585 242V1100" fill="none" stroke="black" stroke-width="8"/>
+<path d="M633 421.5492957746479 791 509.4507042253521 M633 453.5492957746479 791 541.4507042253521 M633 485.5492957746479 791 573.4507042253521" fill="none" stroke="black" stroke-width="10"/>
+<path d="M268 582.4666666666667 404 489.53333333333336 M268 631.4666666666667 404 538.5333333333333 M268 680.4666666666667 404 587.5333333333333" fill="none" stroke="black" stroke-width="11"/>
+<path d="M847 487.688 988 581.312 M847 535.688 988 629.312 M847 583.688 988 677.312" fill="none" stroke="black" stroke-width="11"/>
+</mask>
+<mask id="shield-interior" maskUnits="userSpaceOnUse" x="0" y="0" width="1254" height="1254"><rect width="1254" height="1254" fill="black"/><path d="M627 172 L253 332 L253 579 C253 860 416 1022 628 1105 C839 1022 1000 860 1000 579 L1000 332 Z" fill="white" stroke="black" stroke-width="26" stroke-linejoin="round"/></mask>
+<clipPath id="tower-zone"><path d="M0 0H1254V410H867C1013 427 1094 486 1060 576C1023 719 699 888 407 874C209 864 115 800 160 666H0Z"/></clipPath>
+</defs>
+<g fill="#1a327d" mask="url(#orbit-clearance)"><path d="M627 79 L1078 274 L1078 579 C1078 900 903 1083 628 1200 C353 1089 174 899 174 579 L174 274 Z M627 172 L253 332 L253 579 C253 860 416 1022 628 1105 C839 1022 1000 860 1000 579 L1000 332 Z" fill-rule="evenodd"/><g clip-path="url(#tower-zone)"><g mask="url(#shield-interior)"><g mask="url(#building-channels)">
+<path d="M471 323 628 212V1100H471Z M641 222 783 325V1100H641Z"/>
+<path d="M276 518 396 436V1100H276Z M410 426 458 455V1100H410Z"/>
+<path d="M797 454 841 428V1100H797Z M855 438 980 521V1100H855Z"/>
+</g></g></g></g>
+<path d="M867 412 C1048 390 1170 443 1156 568 C1134 800 731 987 393 966 C153 956 38 861 160 666 C115 800 209 864 407 874 C699 888 1023 719 1060 576 C1094 486 1013 427 867 412 Z" fill="#1a327d"/>
+</svg>

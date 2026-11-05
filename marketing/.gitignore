@@ -1,0 +1,10 @@
+# Build/install/cache output is not a new approved release.
+source/node_modules/
+source/rebuilt/
+source/01_Brand_System/out/
+source/01_Brand_System/node_modules/
+**/__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+desktop.ini

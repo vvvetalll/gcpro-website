@@ -1,0 +1,97 @@
+{
+ "LB.cover": {
+  "file": "lb-desk-handshake2.jpg",
+  "focus": "35% 35%"
+ },
+ "LB.flap": {
+  "file": "lb-flap-agent.jpg",
+  "focus": "62% 35%"
+ },
+ "LB.inside1": {
+  "file": "lb-agency-team.jpg",
+  "focus": "50% 35%"
+ },
+ "LB.inside2": {
+  "file": "lb-report-tablet.jpg",
+  "focus": "55% 45%"
+ },
+ "RC.cover": {
+  "file": "rc-fleet.jpg",
+  "focus": "60% 50%"
+ },
+ "RC.flap": {
+  "file": "rc-restaurant-doc.jpg",
+  "focus": "55% 22%"
+ },
+ "RC.inside1": {
+  "file": "rc-lobby-manager.jpg",
+  "focus": "50% 30%"
+ },
+ "RC.inside2": {
+  "file": "rc-flood.jpg",
+  "focus": "50% 60%"
+ },
+ "RR.cover": {
+  "file": "rr-cover-family2.jpg",
+  "focus": "50% 30%"
+ },
+ "RR.flap": {
+  "file": "gc-pickup-house.jpg",
+  "focus": "50% 55%"
+ },
+ "RR.inside1": {
+  "file": "gc-flap-consult.jpg",
+  "focus": "50% 35%"
+ },
+ "RR.inside2": {
+  "file": "rr-extraction-real.jpg",
+  "focus": "55% 48%",
+  "zoom": 1.7
+ },
+ "DF.hero": {
+  "file": "df-inspection.jpg",
+  "focus": "50% 30%"
+ },
+ "ERP.hero": {
+  "file": "eq-warehouse-wide.jpg",
+  "focus": "50% 55%"
+ },
+ "SR01.hero": {
+  "file": "sr01-handshake.jpg",
+  "focus": "55% 24%"
+ },
+ "SR02.hero": {
+  "file": "sr02-neighbors.jpg",
+  "focus": "50% 30%"
+ },
+ "SR03.hero": {
+  "file": "sr03-basement-consult.jpg",
+  "focus": "50% 28%"
+ },
+ "SR04.hero": {
+  "idea": "Agency owner reviewing positive results / charts at desk"
+ },
+ "SR05.hero": {
+  "file": "sr05-agent-office.jpg",
+  "focus": "50% 38%"
+ },
+ "SR06.hero": {
+  "idea": "GCPRO tech updating homeowner on progress with tablet"
+ },
+ "PSP.cover": {
+  "file": "psp-cover-plumber4.jpg",
+  "focus": "50% 15%"
+ },
+ "PSP.flap": {
+  "file": "psp-handshake3.jpg",
+  "focus": "55% 0%"
+ },
+ "PSP.inside1": {
+  "file": "psp-plumber-card2.jpg",
+  "focus": "50% 30%"
+ },
+ "PSP.inside2": {
+  "file": "psp-tech-tablet2-ext.jpg",
+  "focus": "55% 0%"
+ }
+}

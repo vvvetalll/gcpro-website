@@ -1,0 +1,44 @@
+{
+  "title": "IS IT YOUR RESPONSIBILITY TO BE PREPARED FOR PROPERTY DAMAGE?",
+  "planningHeading": "The Importance of Disaster Planning",
+  "planning": "When it comes to disaster planning for commercial properties it’s not a matter of “if” disaster will strike, it’s a matter of “when”. Not having a plan in place could mean increased severity of damage, higher costs, completion delays, business interruption, secondary damage and unhappy occupants or lost tenants.",
+  "priorityHeading": "Priority Response for Our Clients",
+  "priority": "In the event of an area-wide weather event or disaster you will receive priority service as one of our clients that is part of the Property Guardian Program! By being part of the ERP you will receive service is as little as half the time of non-priority clients during such events!",
+  "supportHeading": "We Are There For You Before, During & After a Loss",
+  "supportIntro": "We work with Property and Facility Managers to:",
+  "leftBullets": [
+    "Develop a comprehensive online Emergency Response Program (ERP) for your properties in order to take a proactive rather than reactive approach to water, fire and storm damage or the discovery of mold.",
+    "Collect prior knowledge about your property for faster response and faster completion.",
+    "Deliver faster response which reduces severity and lowers costs.",
+    "Reduce the likelihood that you’ll face reputation-damaging business interruption.",
+    "Function as your Claims Administrator. We manage the minutia so you don’t have to!"
+  ],
+  "rightBullets": [
+    "Keep you completely “in the loop” by providing near-real time documentation and regular updates.",
+    "Handle communication with you, adjusters and all involved parties, intercepting and handling complaints for you!",
+    "Manage liability and prevent a Public Relations nightmare",
+    "Provide a Certificate of Professional Restoration demonstrating that the loss was restored to the proper Standard of Care. This will protect your property’s value and thwart sick building claims (real or imagined)."
+  ],
+  "features": [
+    {
+      "h": "Mitigation Specialists",
+      "p": "We restore losses with as little demolition and reconstruction as possible. This reduces severity, lowers costs and gets you back to normal faster."
+    },
+    {
+      "h": "Reducing Liability Concerns",
+      "p": "We do all restoration work to the Standard of Care and prove it with comprehensive documentation. You’ll be able to relax knowing that your job was done correctly to reduce downstream liability risks and thwart sick building issues, real or imagined."
+    },
+    {
+      "h": "Protecting Your Property’s Value",
+      "p": "Because we want to be sure that a loss doesn’t affect your ability to sell your property or impact “lease-ability” we provide a Certificate of Professional Restoration that demonstrates your loss was properly restored by a licensed, insured and certified professional."
+    }
+  ],
+  "servicesHeading": "Services Provided",
+  "services": [
+    "Water & Sewer Damage Restoration",
+    "Structural Drying & Dehumidification",
+    "Fire, Smoke and Odor Restoration",
+    "Storm Damage Cleanup",
+    "Mold Remediation"
+  ]
+}

@@ -1,5 +1,10 @@
 # GCPRO changelog
 
+## Marketing knowledge and sources imported — 2026-11-05
+
+Added [marketing/](marketing/README.md) as the owner-designated starting point for future marketing work: exact supplied October 20 ready-kit structure, complete corresponding source project, design/print/logo rules, document/source catalog and workflow. No existing artwork was redesigned; current unapproved ERP/PM revisions and unrelated presentations/Thank You flyers are excluded. Imported files matched their sources and ready-kit inventory hashes; PDF forms contained no filled client values. A new render/build was not performed; historical build verification is retained with its original date. Website/staging/production were not changed.
+
+
 ## Single Project inline metadata — 2026-11-05
 
 Replaced2231 Hero badges with dynamic city/state and category, native small pin/tools icons, white14px text and8/24px spacing. Empty items hide cleanly; all other template nodes compare unchanged. Three locations/categories checked at1440/390. [Details and recovery](docs/components/projects-acf-prototype.md#2026-11-05--inline-hero-metadata-refinement).

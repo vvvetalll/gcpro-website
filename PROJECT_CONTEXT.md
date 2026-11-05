@@ -1,5 +1,10 @@
 # GCPRO project context
 
+## Marketing knowledge and sources imported — 2026-11-05
+
+Added [marketing/](marketing/README.md) as the owner-designated starting point for future marketing work: exact supplied October 20 ready-kit structure, complete corresponding source project, design/print/logo rules, document/source catalog and workflow. No existing artwork was redesigned; current unapproved ERP/PM revisions and unrelated presentations/Thank You flyers are excluded. Imported files matched their sources and ready-kit inventory hashes; PDF forms contained no filled client values. A new render/build was not performed; historical build verification is retained with its original date. Website/staging/production were not changed.
+
+
 ## Single Project branded Hero — 2026-11-05
 
 Completed/published staging template2231 only: established navy/SVG-masked layout with dynamic title, excerpt, photo and location/service badges. Existing galleries/body/final CTA preserved exactly;3421/1318 and project records unchanged. Three-project responsive checks passed; guest403 and physical-device/editor checks remain limitations. [Current task record, IDs and recovery](docs/components/projects-acf-prototype.md#2026-11-05--branded-dynamic-single-project-hero). This owner request supersedes the historical white case-opening decision.

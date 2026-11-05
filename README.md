@@ -1,5 +1,7 @@
 # gcpro-website
 
+[**Marketing kit, design system and editable sources — start here**](marketing/README.md)
+
 [Complete hierarchical sitemap and actual staging editors](docs/SITEMAP.md) · [Canonical URL migration register](docs/SEO_URL_INVENTORY.csv) · [Partner Programs Drafts and prepared navigation](docs/components/partner-programs.md)
 # GCPRO Website
 

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "CSP-Trifold",
+    "title": "GCPRO CSP - Commercial Leave Behind Trifold",
+    "source": "02_Document_Sources/CSP-Trifold",
+    "pages": 2,
+    "fields": 0,
+    "selector": ".sheet"
+  },
+  {
+    "id": "Condo-Coverage",
+    "title": "GCPRO CSP - Condo Unit Insurance Coverage",
+    "source": "02_Document_Sources/Condo-Coverage",
+    "pages": 1,
+    "fields": 0,
+    "selector": ".sheet"
+  },
+  {
+    "id": "ERP-Comparison",
+    "title": "GCPRO CSP - ERP Comparison",
+    "source": "02_Document_Sources/ERP-Comparison",
+    "pages": 1,
+    "fields": 0,
+    "selector": ".sheet"
+  },
+  {
+    "id": "PGP-Pre-Authorization",
+    "title": "GCPRO PGP - Pre-Authorization",
+    "source": "02_Document_Sources/PGP-Pre-Authorization",
+    "pages": 6,
+    "fields": 35,
+    "selector": ".sheet"
+  },
+  {
+    "id": "PGP-ERP-Full",
+    "title": "GCPRO PGP - ERP Full",
+    "source": "02_Document_Sources/PGP-ERP-Full",
+    "pages": 15,
+    "fields": 416,
+    "selector": ".sheet"
+  },
+  {
+    "id": "PGP-Certificate",
+    "title": "GCPRO PGP - Certificate",
+    "source": "02_Document_Sources/PGP-Certificate",
+    "pages": 1,
+    "fields": 5,
+    "selector": ".certificate"
+  },
+  {
+    "id": "PGP-Cover",
+    "title": "GCPRO PGP - Cover",
+    "source": "02_Document_Sources/PGP-Cover",
+    "pages": 1,
+    "fields": 0,
+    "selector": ".sheet"
+  }
+]

@@ -1,0 +1,1 @@
+Historical logo construction scripts, preserved for provenance. These scripts refer to the original chat workspace and are NOT the portable project build entry point. The final editable SVG paths are in 03_Logos. Use tools/render.cjs and tools/finalize.py to rebuild the seven current documents.

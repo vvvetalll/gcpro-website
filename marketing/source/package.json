@@ -1,0 +1,11 @@
+{
+  "name": "gcpro-marketing-project",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "render": "node tools/render.cjs"
+  },
+  "dependencies": {
+    "playwright": "1.62.1"
+  }
+}

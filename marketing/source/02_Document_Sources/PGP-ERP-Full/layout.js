@@ -1,0 +1,11 @@
+
+const NS='http://www.w3.org/2000/svg';
+window.__layout=async()=>{const data=await(await fetch('layout-data.json')).json();
+for(const rec of data){if(rec.page===1||rec.page===2)continue;const canvas=document.querySelector('.source-canvas[data-page="'+rec.page+'"]');
+const W=canvas.clientWidth,H=canvas.clientHeight,sx=W/546,sy=H/(rec.y1-rec.y0);const X=x=>(x-33)*sx,Y=y=>(y-rec.y0)*sy;
+const svg=document.createElementNS(NS,'svg');svg.setAttribute('class','source-grid');svg.setAttribute('viewBox',`0 0 ${W} ${H}`);canvas.append(svg);
+for(const d of rec.shapes){let el;if(d.kind==='rect'){el=document.createElementNS(NS,'rect');const[x0,y0,x1,y1]=d.box;Object.entries({x:X(x0),y:Y(y0),width:(x1-x0)*sx,height:(y1-y0)*sy,fill:d.fill?d.color:'none',stroke:d.fill?'none':'#d9deea','stroke-width':.75}).forEach(([k,v])=>el.setAttribute(k,v));svg.append(el);if(d.fill&&rec.page===2){const l=document.createElementNS(NS,'line');Object.entries({x1:X(x0),x2:X(x1),y1:Y(y0),y2:Y(y0),stroke:d.accent?'#f05a29':'#1a327d','stroke-width':2}).forEach(([k,v])=>l.setAttribute(k,v));svg.append(l)}}else{el=document.createElementNS(NS,'line');Object.entries({x1:X(d.p1[0]),y1:Y(d.p1[1]),x2:X(d.p2[0]),y2:Y(d.p2[1]),stroke:'#d9deea','stroke-width':.75}).forEach(([k,v])=>el.setAttribute(k,v));svg.append(el)}}
+for(const f of rec.fields){const[x0,y0,x1,y1]=f.box,el=document.createElement('div');const table=[7,8,10,11,15].includes(rec.page);el.className='source-field'+(table?' table-cell':'')+(f.type==='check'?' check':'');Object.assign(el.style,{left:X(x0)+'px',top:Y(y0)+'px',width:(x1-x0)*sx+'px',height:(y1-y0)*sy+'px'});el.dataset.name=f.name;el.dataset.field=f.type==='check'?'check':(f.multi||y1-y0>35?'multi':'text');el.dataset.sourceValue=f.value;canvas.append(el)}
+for(const s of rec.spans){const el=document.createElement('span');el.className='source-text'+(s.bold||s.light?' bold':'');el.textContent=s.text;el.dataset.original='';const fs=s.size*sx*.96;Object.assign(el.style,{left:X(s.x)+'px',top:(Y(s.y)-fs*.83)+'px',fontSize:fs+'px',fontStyle:s.italic?'italic':'normal'});if(s.light)el.style.color='#1a327d';canvas.append(el);const measured=el.getBoundingClientRect().width,target=(s.box[2]-s.box[0])*sx;if(measured>target&&target>0)el.style.transform='scaleX('+target/measured+')'}
+}
+};

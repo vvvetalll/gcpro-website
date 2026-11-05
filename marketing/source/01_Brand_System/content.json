@@ -1,0 +1,948 @@
+{
+ "pieces": {
+  "LB": {
+   "cover_h1": "HELPING AGENTS BUILD STRONGER BUSINESSES",
+   "flap_h2": "Agency Support Program",
+   "flap_checklist": [
+    "Gives You a Powerful Competitive Edge",
+    "Increases Policyholder Retention",
+    "Increases “Word of Mouth” Referrals for New Business",
+    "Eliminates Being the “Bad Guy” on Coverage Denials or Questionable Claims",
+    "Reduces Loss Ratios and Increases Incentives"
+   ],
+   "back_247": [
+    "24/7",
+    "EMERGENCY SERVICE"
+   ],
+   "p1_h2": "ADD MARKETING POWER TO YOUR BUSINESS",
+   "p1_h3": "Looking to Grow Your Business?",
+   "p1_p1": "In today’s highly competitive insurance market, agents are realizing the critical importance of adding value through policyholder service. And that the best time to add value is when policyholders need you the most: when they have a claim!",
+   "p1_p2": "If you’re giving your valuable clients an 800 number and a “good luck” when they suffer a loss, you’re missing out on the best opportunity to build your book of business.",
+   "p2_h3a": "How to Gain a Clear Selling Advantage",
+   "p2_p1": "The recent surge in Internet insurance sales shows that consumers don’t value agents like they once did. Many policyholders are willing to “break up” with their agent because they perceive no difference between you and the competition other than price.",
+   "p2_p2": "When you become personally involved during a claim, you are offering a value proposition that can’t be met by your competition. This gives policyholders a powerful reason to choose you and stay with you year after year!",
+   "p2_h3b": "Claim Involvement is Easy",
+   "p2_p3": "With our Agency Support Program, you can easily be a part of a claims process that offers your policyholders unmatched levels of service - the kind of service policyholders expect, but rarely get.",
+   "p2_h3c": "An Extension of Your Marketing Team",
+   "p2_p4": "Our Agency Support Program is designed to help you keep the clients you have, stimulate word-of-mouth referrals that get you new clients and lower loss ratios. We’ll provide you with a powerful differentiation that will give clients and prospects tangible and important reasons to work with you!",
+   "p3_h2": "WHAT’S DIFFERENT ABOUT GCPRO RESTORATION?",
+   "p3_features": [
+    {
+     "h": "Mitigation Specialists",
+     "p": "We restore losses using mitigation instead of reconstruction whenever possible. This reduces severity, lowers costs and gets policyholders back to normal faster."
+    },
+    {
+     "h": "Transparent Accountability",
+     "p": "We work under a transparent business model and provide comprehensive documentation in near-real time. This allows you to touch your policyholders at the optimal times and creates a permanent record of proper restoration."
+    },
+    {
+     "h": "We Help You Grow Your Business",
+     "p": "We believe that restoring the structure is only part of our job. The other part is helping you grow your business by helping you create the kind of superior value proposition that gives both commercial and residential policyholders powerful reasons to choose and stay with your agency other than simply the lowest price."
+    }
+   ],
+   "code_out": "ASP LEAVE BEHIND TRIFOLD FS 07/20",
+   "code_in": "ASP LEAVE BEHIND TRIFOLD MS 07/20"
+  },
+  "RC": {
+   "cover_h1": "WHO’S THERE FOR YOU WHEN DISASTER STRIKES?",
+   "flap_h2": "Why We Trust GCPRO Restoration with Our Policyholders",
+   "flap_features": [
+    {
+     "h": "Mitigation Specialists",
+     "p": "They do everything possible to restore losses with as little demolition and reconstruction as possible. This means the restoration costs less and you are returned to normal far faster, minimizing business interruption and conserving your policy limits."
+    },
+    {
+     "h": "Reducing Liability Concerns",
+     "p": "They do all restoration work to the Standard of Care and prove it with comprehensive documentation. You’ll be able to relax knowing that your job was done correctly to reduce downstream liability risks and thwart sick building issues, real or imagined."
+    },
+    {
+     "h": "Protecting Your Property’s Value",
+     "p": "Because we want to be sure that a loss doesn’t affect your ability to sell your property or impact “lease-ability” they will provide a Certificate of Professional Restoration that demonstrates your loss was properly restored by a licensed, insured and certified professional."
+    }
+   ],
+   "back_247": [
+    "24/7",
+    "EMERGENCY SERVICE"
+   ],
+   "in_h1": "WE’RE THERE FOR YOU TO HELP YOU MANAGE RISK!",
+   "a_h3": "Will Your Agent Be There When You Have a Claim?",
+   "a_p1": "We feel that your agent should be a part of your risk management team. But when you have a loss will they stand with you or send you off to some distant call center to have your claim handled by claims people that know nothing about you and your business?",
+   "a_p2": "We think that an important part of our relationship with our clients is that we are there for them when they need us the most, which is when they suffer the chaos of a property loss. We feel that giving a valued client an 800 number and a “good luck” is simply unacceptable.",
+   "a_p3": "Instead, we go the extra mile to make sure that you don’t have to go through the ordeal of property damage alone. That’s why we have a special relationship with GCPRO Restoration to make sure you get the highest levels of quality and service.",
+   "a_p4": "And, they perform some very special extra services for you for free because you are one of our clients!",
+   "b_h3": "The Importance of Disaster Planning",
+   "b_p1": "When it comes to disaster planning for commercial properties it’s not a matter of “if” disaster will strike, it’s a matter of “when”. Having a plan in place has many benefits:",
+   "b_bullets": [
+    "Prior knowledge about your property allows faster response and faster completion so you are back to normal as quickly as possible.",
+    "Faster response reduces severity and lowers costs, conserving policy limits.",
+    "Having a plan means you’re less likely to face reputation-damaging business interruption."
+   ],
+   "b_p2": "Not having a plan in place could mean increased severity of damage, higher costs, completion delays, business interruption, secondary damage and unhappy occupants or lost tenants.",
+   "b_p3": "Because you are our client, GCPRO Restoration will provide a customized Property Program for your properties—FREE!",
+   "c_h3": "GCPRO Restoration, Is There Before, During & After a Loss",
+   "c_before": "Before the loss they will be there for you by creating a comprehensive Emergency Response Program (ERP) for your properties. This includes detailed disaster planning information as well as what to do, who to call and what to expect during a loss caused by water, sewer, fire or storm.",
+   "c_during": "During the loss they will be there for you to:",
+   "c_during_bullets": [
+    "Get the job done faster and control costs.",
+    "Keep you completely “in the loop” by providing near-real time documentation and giving you access to their online job file.",
+    "Manage and simplify the process. They will manage the minutia so you don’t have to!",
+    "Handle communication with you, adjusters and all involved parties, intercepting and handling complaints for you!",
+    "Manage liability and prevent a Public Relations nightmare."
+   ],
+   "c_after": "After the loss they will be there for you with a Certificate of Professional Restoration demonstrating that the loss was restored to the proper Standard of Care. This will protect your property’s value and thwart sick building claims (real or imagined).",
+   "d_h3": "Priority Response for Our Clients",
+   "d_p": "In the event of an area-wide weather event or disaster you will receive priority service as one of our clients that is part of the Emergency Response Program!",
+   "services_h": "SERVICES PROVIDED",
+   "services": [
+    "Water & Sewer Damage Restoration",
+    "Structural Drying & Dehumidification",
+    "Fire, Smoke and Odor Restoration",
+    "Storm Damage Cleanup",
+    "Mold Remediation and Removal"
+   ],
+   "code": "ASP CLIENT RENEWAL TRIFOLD COMMERCIAL FS 07/20"
+  },
+  "RR": {
+   "cover_h1": "WHO’S THERE FOR YOU WHEN YOU HAVE A CLAIM?",
+   "flap_h2": "WHY WE TRUST GCPRO RESTORATION WITH OUR CLIENTS",
+   "flap_features": [
+    {
+     "h": "Mitigation Specialists",
+     "p": "They do everything possible to restore losses with as little demolition and reconstruction as possible. This means that you are returned to normal far faster and the restoration costs less, conserving your policy limits."
+    },
+    {
+     "h": "Your Family’s Health & Safety in Mind",
+     "p": "They do all restoration work to the Standard of Care and prove it with a Certificate of Professional Restoration. You’ll be able to relax knowing that your job was done correctly to protect the health and safety of your family."
+    },
+    {
+     "h": "Protecting Your Property’s Value",
+     "p": "Because we want to be sure that a loss doesn’t affect your ability to sell your home (or get the price you deserve) they will provide a Certificate of Professional Restoration that demonstrates your loss was restored by a licensed, insured and certified professional."
+    }
+   ],
+   "back_247": [
+    "24/7",
+    "EMERGENCY SERVICE"
+   ],
+   "in_h1": "WE’RE THERE FOR YOU WHEN YOU NEED US MOST!",
+   "a_h3": "Will Your Agent Be There?",
+   "a_p1": "You expect great service from your insurance agent. After all, advertising from major insurance companies promises that your agent will be there for you when you have a loss.",
+   "a_p2": "But, when you have a loss will they stand with you or send you off to some distant call center to have your claim handled by a faceless drone who knows nothing about you and your situation?",
+   "b_h3": "What Happens When You Have a Claim?",
+   "b_p1": "An important part of our relationship with our clients is that we are there for them when they need us the most, which is when they suffer the trauma of a property loss. We feel that giving a valued client an 800 number and a “good luck” is simply unacceptable.",
+   "b_p2": "Instead, we go the extra mile to make sure that you don’t have to go through the trauma of property damage alone. That’s why we have a special relationship with GCPRO Restoration to make sure you get the highest levels of quality and service.",
+   "b_p3": "And, they perform some very special extra services for you for free because you are one of our clients!",
+   "c_h3": "Why GCPRO Restoration?",
+   "c_p1": "Having to file a claim related to fire or water damage can be an extremely stressful situation, especially if you have lost items that carried sentimental value to your family.",
+   "c_p2": "We trust GCPRO Restoration with our clients because they will walk you through the entire process step-by-step. They also:",
+   "c_bullets": [
+    "Provide an enhanced inspection so you can make important decisions about your claim.",
+    "They work to get you back to normal fast and at lower costs to preserve policy limits.",
+    "They understand what you are going through and exercise care and compassion.",
+    "They perform their services to protect the health and safety of your family and preserve your property’s value.",
+    "They cause minimal intrusions during what is hopefully a once in a lifetime event for you."
+   ],
+   "services_h": "SERVICES PROVIDED",
+   "services": [
+    "Water & Sewer Damage Restoration",
+    "Structural Drying & Dehumidification",
+    "Fire, Smoke and Odor Restoration",
+    "Storm Damage Clean-Up",
+    "Mold Remediation"
+   ],
+   "code": "ASP CLIENT RENEWAL TRIFOLD RESIDENTIAL FS 07/20"
+  },
+  "DF": {
+   "eyebrow": "24-HOUR EMERGENCY SERVICE",
+   "h1": "Let Us Help BEFORE You File a Claim!",
+   "p1": "Your insurance agency works closely with GCPRO Restoration to protect you from rate increases or even being canceled when you experience property damage from water, sewer, fire, or storm.",
+   "p2": "We will come out and do a detailed, free inspection of your situation and act as your agent’s “eyes and ears” on the loss, giving your agent our professional opinion on the damage.",
+   "cta": "Call for an inspection at",
+   "p3": "This will allow you and your agent to make an informed decision about filing a claim. Many policyholders don’t realize that just making an inquiry to the claim department (even if you don’t file a claim!) can sometimes trigger rate increases or cancellations!",
+   "p4": "Now, if you need to file a claim, that’s what insurance is for. And whether your damage is claim-worthy or not, we are there to get you back to normal fast.",
+   "services_h": "Services Provided:",
+   "services": [
+    "Water and Sewer Damage Restoration",
+    "Structural Drying & Dehumidification",
+    "Fire, Smoke & Odor Restoration",
+    "Storm Damage Cleanup",
+    "Mold Remediation & Removal"
+   ],
+   "rating": "5.0",
+   "why_h2": "Why Your Agent Recommends GCPRO Restoration:",
+   "why": [
+    "We provide a free, enhanced inspection so you and your agent can make important decisions about your claim.",
+    "We work to get you back to normal faster and at lower costs to preserve policy limits.",
+    "We understand what you are going through and exercise care and compassion.",
+    "We perform our services to protect the health and safety of your family and preserve your property’s value.",
+    "We cause minimal intrusions during what is hopefully a once in a lifetime event for you.",
+    "We are a locally owned business.",
+    "We provide emergency response 24/7/365",
+    "We are licensed, insured and certified restoration professionals.",
+    "We are highly experienced and trained restoration professionals that you won’t be scared to have in your home!"
+   ]
+  },
+  "ERP": {
+   "title": "EMERGENCY RESPONSE PROGRAM",
+   "tagline": "Nobody Knows the Future, But You Can Prepare for It!",
+   "banner": "ANOTHER LAYER OF RISK MANAGEMENT PROTECTION PROVIDED FREE BY YOUR INSURANCE AGENT",
+   "intro1": "When it comes to disaster planning for commercial properties, it’s not a matter of “if” disaster will strike; it’s a matter of “when”. Having a plan in place can mean thousands in savings and getting back to normal operations far faster.",
+   "intro2": "We’ve entered into a strategic relationship with your insurance agent to help protect their clients from damage caused by water, fire, storms, vandalism, etc. Your agent has arranged for us to create a FREE Emergency Response Program (ERP) for your property—because you are their client!",
+   "before_h": "WE ARE THERE FOR YOU BEFORE WITH A PLAN",
+   "before": [
+    "We will create a FREE Emergency Response Program (ERP) for your property.",
+    "This plan allows us to gather advanced knowledge on your property before disaster strikes so we can respond quicker and take immediate action in restoring the property faster, thus saving you costs, headaches, and protecting you from downstream liability."
+   ],
+   "during_h": "WE ARE THERE FOR YOU DURING A LOSS",
+   "during": [
+    "You Receive Priority Response in the Event of an Area Wide Disaster or Storm",
+    "Our Mitigation Focus Gets the Job Done Faster and Dramatically Reduces Costs",
+    "We Keep You in the Loop with Outstanding Communication & Documentation",
+    "We Function as Your Claims Concierge to Simplify the Process and Reduce Stress",
+    "We Manage the Minutia So You Don’t Have To!",
+    "We Take Steps to Manage Liability & Prevent Public Relations Nightmares"
+   ],
+   "after_h": "WE ARE THERE FOR YOU AFTER",
+   "after": [
+    "With a Certificate of Professional Restoration which proves the job was done to the Standard of Care and protects you from downstream liability and sick building issues (real or imagined).",
+    "With a thorough debriefing after any loss to review all aspects of the restoration."
+   ],
+   "cta_h": "HOW DO YOU OBTAIN YOUR FREE EMERGENCY RESPONSE PROGRAM?",
+   "cta_1": "Simply call GCPRO Restoration at",
+   "cta_2": "and we’ll get the process started. You’ll sleep better knowing you have an additional layer of protection!",
+   "code": "ASP AGENCY ERP FLYER FS 07/20"
+  },
+  "SR01": {
+   "blocks": [
+    {
+     "k": "title",
+     "t": "How the Agency Support Program (ASP) Helps Increase Policyholder Retention"
+    },
+    {
+     "k": "lead",
+     "t": "For most insurance agents, policyholder retention is a crucial indicator of business success. Studies indicate that, for agents, attracting a new customer can cost seven to nine times more than retaining an existing one."
+    },
+    {
+     "k": "body",
+     "t": "Here are some important data points to consider:"
+    },
+    {
+     "k": "li",
+     "t": "The average retention rate in the industry is 84%."
+    },
+    {
+     "k": "li",
+     "t": "Top agencies retention rates are at 93%-95%."
+    },
+    {
+     "k": "li",
+     "t": "Reducing customer defections by as little as 2% per year is equivalent to cutting costs by more than 10%."
+    },
+    {
+     "k": "li",
+     "t": "A 5% improvement in retention for 5 years will double your agency’s profit!"
+    },
+    {
+     "k": "li",
+     "t": "65% of clients who leave an agency never speak to an agent before they leave."
+    },
+    {
+     "k": "li",
+     "t": "80% of people who spoke with an agent this year stayed."
+    },
+    {
+     "k": "li",
+     "t": "Only 13% of your book is truly loyal."
+    },
+    {
+     "k": "li",
+     "t": "28% of people start shopping due to perceived poor service."
+    },
+    {
+     "k": "li",
+     "t": "One of the biggest reasons clients leave an agency is a perceived attitude of indifference. They don’t feel the love."
+    },
+    {
+     "k": "li",
+     "t": "Customer retention, not sales volume, market share, or being a low-cost producer, is the only factor that correlates with long-term profitability."
+    },
+    {
+     "k": "h",
+     "t": "How the Agency Support Program Helps Increase Policyholder Retention"
+    },
+    {
+     "k": "body",
+     "t": "When you become a part of our Agency Support Program (ASP) you have decided to deliver one of the most impactful services that your policyholders value—that you will be there for them when they need you most, which is when they have a claim!"
+    },
+    {
+     "k": "body",
+     "t": "By partnering with our restoration company, you will be adding a powerful differentiator to your value proposition that will help you close new business as well as add value at renewal, giving existing clients powerful, exclusive reasons to stay with you other than the lowest price. These reasons include:"
+    },
+    {
+     "k": "li",
+     "t": "Unlike other agencies that send insureds to a distant claim center to speak with someone that doesn’t know or care about them or their home and community, you won’t abandon them when they need you the most, which is during a loss."
+    },
+    {
+     "k": "li",
+     "t": "Because of your strategic relationship with our restoration company, your insureds will receive exceptional levels of “Above and Beyond” service far beyond normal expectations. This service is designed to create Cheerleaders for your agency. Cheerleaders act as unpaid salespeople, helping to not only directly grow your agency by word-of-mouth referrals but also by enhancing your brand reputation in the marketplace. The power of a few Cheerleaders cannot be overestimated. Most businesses, including your own were likely built on a few Cheerleaders in the beginning."
+    },
+    {
+     "k": "li",
+     "t": "They will receive priority service during an area-wide weather emergency or disaster when other folks might have to wait weeks!"
+    },
+    {
+     "k": "li",
+     "t": "We will provide your policyholders with a free, enhanced, high-tech inspection, including when coverage is in question. This allows information to be collected to help you and your insured make informed decisions about filing a claim. By not filing claims for uncovered losses, insureds are not rated or cancelled. In addition, a special process is used to make sure you get “extra credit” for providing this enhanced inspection at no cost."
+    },
+    {
+     "k": "li",
+     "t": "We have specific touch points where we enhance your image with your policyholders, taking advantage of the power of an independent third-party endorsement."
+    },
+    {
+     "k": "li",
+     "t": "We provide what we call Mitigation Focused, Full-Service restoration, which gets the job done faster, reduces costs, preserves policy limits and makes for happier policyholders. And happier policyholders stay with you and become your newest Cheerleaders."
+    },
+    {
+     "k": "li",
+     "t": "We deliver to your policyholders specific documentation after the loss which protects the value of their home or business and reassures them about the health and safety of their family/occupants. And we make sure you get the credit for this!"
+    },
+    {
+     "k": "li",
+     "t": "Because everyone knows that the biggest reason claims “go south” is poor communication, we provide the highest levels of what we call “always informed” communication with the insured and your agency. This also allows you to “touch” your client at the optimal times during the loss to magnify the customer service impact. There is no better time to touch your insureds than during a loss!"
+    },
+    {
+     "k": "li",
+     "t": "We collect comprehensive documentation in near-real time to protect everyone from downstream liability and provide a certificate that the loss was restored to the proper Standard of Care."
+    },
+    {
+     "k": "li",
+     "t": "We directly ask for additional coverage opportunities and referrals for you. The more different types of coverage a policyholder has with you, the more likely you will retain their business."
+    },
+    {
+     "k": "li",
+     "t": "For commercial clients we offer our Property Guardian Program. This is a powerful value added risk management tool offered to the agency’s commercial clients at no charge as long as the insured remains your client. This gives commercial clients important reasons to remain with you based on overall value rather than the lowest price. This added value makes it more difficult for competitors looking to poach your clients solely based on coverage gaps and lowering cost."
+    },
+    {
+     "k": "body",
+     "t": "Not only do you receive all these benefits at no charge when you become part of the ASP, we give you beautiful print and digital tools to tell your insureds all about it—also at no charge."
+    },
+    {
+     "k": "close",
+     "t": "The Agency Support Program can add powerful marketing and sales tools to your selling efforts at no cost to you! To learn about all the details of the ASP, contact:"
+    }
+   ],
+   "code": "ASP Special Report 01",
+   "copyright": "©2026 Business Development Associates. All rights reserved."
+  },
+  "SR02": {
+   "blocks": [
+    {
+     "k": "title",
+     "t": "How the Agency Support Program (ASP) Creates Cheerleaders to Increase Word-of-Mouth Referrals for New Business"
+    },
+    {
+     "k": "lead",
+     "t": "It is simply a fact of being an insurance agent that policyholder retention is a crucial indicator of business success. The average retention rate in the industry is 84%. The very best agencies have retention rates of 93%-95%."
+    },
+    {
+     "k": "body",
+     "t": "No matter how you look at it, most agencies are losing between 5% and 16% of their policyholders each year! Clearly, working on improving retention rates is extremely important but given that even the very best agencies are losing 5% of their policyholders every year, so is replacing that lost business. An agency can’t even begin to grow until it comes back to “even” in terms of replacing those lost clients from the year before. Most businesspeople would agree word-of-mouth referrals are the very best advertising there is and best of all—it’s free! Given all that, doesn’t it make sense to have systems and processes in your business designed to not just keep the policyholders you already have but stimulate more word-of-mouth referrals for new business?"
+    },
+    {
+     "k": "h",
+     "t": "Enter the Cheerleader"
+    },
+    {
+     "k": "body",
+     "t": "What we refer to as a Cheerleader is known by other terms such as Raving Fans, Superfans, Loyal Enthusiasts, Brand Ambassadors, etc. Whatever the term, what is important is that Cheerleaders act as unpaid salespeople, helping to not only directly grow your agency by word-of-mouth referrals but also by enhancing your brand reputation in the marketplace. The power of a few Cheerleaders cannot be overestimated. Most businesses, including your own were likely built on a few Cheerleaders in the beginning."
+    },
+    {
+     "k": "h",
+     "t": "How Cheerleaders Are Created"
+    },
+    {
+     "k": "body",
+     "t": "Cheerleaders are created by exceeding your policyholders’ expectations. If you want to differentiate your business to improve your competitive position and create Cheerleaders to improve retention and word-of-mouth referrals, set expectations that are different and better than your competition and then exceed them."
+    },
+    {
+     "k": "h",
+     "t": "How the Agency Support Program Helps Increase Word-of-Mouth Referrals for New Business"
+    },
+    {
+     "k": "body",
+     "t": "The ASP differentiates your agency from the competition (both Internet and Main Street) by enabling you to promise your insureds that not only will you be there for them when they need you the most—when they have a loss—but because they are your clients, they will receive very special “Above and Beyond” service."
+    },
+    {
+     "k": "li",
+     "t": "We have built our business around creating Cheerleaders by providing what we call Above and Beyond Service. We think of our services like a stage play, designed to deliver our services to exceed your policyholders’ expectations to create Cheerleaders for you!"
+    },
+    {
+     "k": "li",
+     "t": "We provide a free, enhanced, high-tech inspection when losses occur. We will act as your eyes and ears on the job, providing information that will help you and the insured decide whether a loss is claimworthy or not. This inspection is presented as being provided at no charge on your behalf, to highlight the value being provided."
+    },
+    {
+     "k": "li",
+     "t": "We execute “planned reputation enhancement” to enhance your image with your policyholders. This takes advantage of the power of the independent third-party endorsement."
+    },
+    {
+     "k": "li",
+     "t": "We are a mitigation focused, full-service restorer. This means we try to restore losses with as little demolition and reconstruction as possible which means jobs get done faster and at lower cost, which makes for happier policyholders and happier policyholders become Cheerleaders! This also lowers loss ratios and conserves policy limits."
+    },
+    {
+     "k": "li",
+     "t": "If reconstruction or other services such as contents restoration, mold remediation, etc. are required, we are a full-service restorer and can handle the loss from start to finish."
+    },
+    {
+     "k": "li",
+     "t": "We specifically ask the policyholders we are working with to consider important additional coverage as well as request referrals for new business for you."
+    },
+    {
+     "k": "li",
+     "t": "We provide a unique tool to protect your policyholder’s property value and reassure them of their family’s health and safety. And we make sure that you get the credit for this!"
+    },
+    {
+     "k": "li",
+     "t": "We also practice what we call “Transparent Accountability”. This means we provide the highest levels of communication and collect documentation in near real time to prove that the job was done right. We also keep you informed so you can touch your insureds at the optimal times to demonstrate how much you care."
+    },
+    {
+     "k": "h",
+     "t": "The Agency Support Program is a Powerful Addition to Your Marketing Strategy and Other Advertising Efforts—and It’s Free!"
+    },
+    {
+     "k": "body",
+     "t": "In the insurance industry, studies indicate that attracting a new customer can cost seven to nine times more than retaining an existing one. Many agencies rely on largely ineffective marketing and advertising like direct mail, telemarketing, low price driven websites (cattle call sites), bus benches, etc., that are largely focused on price and have performed poorly for years. This means that, in order to replace lost business, most agents “beat the bushes” through personal selling efforts, first trying to replace lost business and then to grow."
+    },
+    {
+     "k": "close",
+     "t": "The Agency Support Program can add powerful marketing and sales tools to your selling efforts at no cost to you! To learn about all the details of the ASP, contact:"
+    }
+   ],
+   "code": "ASP Special Report 02",
+   "copyright": "©2026 Business Development Associates. All rights reserved."
+  },
+  "SR03": {
+   "blocks": [
+    {
+     "k": "title",
+     "t": "How the Agency Support Program (ASP) Helps Agents Handle Questionable or Uncovered Losses"
+    },
+    {
+     "k": "lead",
+     "t": "There is perhaps no bigger customer service challenge than dealing with questionable or uncovered claims. If a potentially serious and costly loss has occurred and there is no coverage, this can be a massively negative Moment of Truth for your insured. Instead of creating a Cheerleader, you may be creating a Terrorist!"
+    },
+    {
+     "k": "body",
+     "t": "Many times, there is no way for you, as the agent, to know whether the loss is covered or is claim worthy without seeing it for yourself. And that’s where the Agency Support Program comes in! We’ll go out and perform a free inspection and be your eyes and ears on the loss. We’ll collect the necessary information, take pictures and scans and communicate back to you so you and the policyholder can make an informed decision based on coverage and severity of the damage. This helps protect your loss ratio by helping your insureds make smart decisions about filing claims. You won’t be dinged with marginal claims and your insureds are less likely to be rated or cancelled (which can happen from just making an inquiry about a claim!)"
+    },
+    {
+     "k": "h",
+     "t": "Dealing with Rising Water, Sump Pump Failure, and Sewer Backup Damage"
+    },
+    {
+     "k": "body",
+     "t": "These types of losses have several challenging aspects. First, the Standard of Care requires a higher level of removal and replacement of affected materials as well as stringent disinfection protocols to address hazards from human waste, disease causing pathogens and toxic materials. This makes them substantially more expensive to restore than clean water damage."
+    },
+    {
+     "k": "body",
+     "t": "Second, most standard homeowner’s policies have no (or limited) coverage for these types of losses unless the insured has purchased a rider or endorsement."
+    },
+    {
+     "k": "h",
+     "t": "What if There is No Coverage?"
+    },
+    {
+     "k": "body",
+     "t": "It is a quirk of human nature that we rarely act until we are in crisis. This might explain why some policyholders dismiss additional riders that would be of great value should they experience the problem. Interestingly, a MetLife Insurance Literacy survey confirmed that “more than two-thirds of consumers surveyed also said they’d rather pay a higher premium than be told that a loss isn’t covered.” But what is often the reality is that insureds are so concerned about the lowest price at the time of policy purchase that they do not choose additional coverage. Many agents have forms that they ask such policyholders to sign and place in their file, knowing that if such a loss were to occur, the agent will be blamed for the lack of coverage."
+    },
+    {
+     "k": "h",
+     "t": "How the ASP Helps Soften the Blow of Uncovered Losses"
+    },
+    {
+     "k": "li",
+     "t": "We provide a free, enhanced, high-tech inspection when losses occur. We will act as your eyes and ears on the job, providing information that will help you and the insured decide whether a loss is claimworthy or not. This inspection is presented as being provided at no charge on your behalf to highlight the value you are delivering."
+    },
+    {
+     "k": "li",
+     "t": "We execute “planned reputation enhancement” to enhance your image with your policyholders. This takes advantage of the power of the “independent third-party endorsement”."
+    },
+    {
+     "k": "li",
+     "t": "When we see a potentially uncovered loss (such as a sewer back-up), we will reach out to you to confirm the lack of coverage (if you haven’t already informed us). Our techs say, “It’s ultimately up to the adjuster, and we’re not adjusters, but this type of loss is typically not covered by a standard Homeowner’s Policy.”"
+    },
+    {
+     "k": "li",
+     "t": "Before they call you (with a full head of steam) we take the first punch in the gut, let them vent and give them a “shoulder to cry on”. We reinforce the fact that we are there to help them because you sent us. We explain that things are not always covered and provide alternatives."
+    },
+    {
+     "k": "li",
+     "t": "And just before they pick up the phone, we perform a very important “service recovery” act that reinforces that you sent us. We also said good things about you, delivered the free inspection on your behalf and we’ll help them get back to normal if they want us to. We do all of this to try to serve you and your policyholder so that we can all get through this together and that you can retain their business."
+    },
+    {
+     "k": "body",
+     "t": "Working together, your agency and our company can provide the highest levels of customer service, even in the most challenging situations."
+    },
+    {
+     "k": "close",
+     "t": "The Agency Support Program can add powerful marketing and sales tools to your selling efforts at no cost to you! To learn about all the details of the ASP, contact:"
+    }
+   ],
+   "code": "ASP Special Report 03",
+   "copyright": "©2026 Business Development Associates. All rights reserved."
+  },
+  "SR04": {
+   "blocks": [
+    {
+     "k": "title",
+     "t": "How the Agency Support Program (ASP) Helps Agents Increase Contingency Bonuses"
+    },
+    {
+     "k": "lead",
+     "t": "Depending on your book of business, contingency bonuses can be an important element of total compensation. Typically, such bonuses are based on loss ratios, policy retention rates, premium growth and other factors. The Agency Support Program (ASP) can help increase policyholder retention, helps generate new coverage from existing clients as well as promotes word-of-mouth referrals for new business and increases your agency’s goodwill in the marketplace."
+    },
+    {
+     "k": "h",
+     "t": "How the ASP Helps Reduce Costs and Therefore Lower Loss Ratios"
+    },
+    {
+     "k": "li",
+     "t": "We are a mitigation focused, full-service restorer. This means we try to restore losses with as little demolition and reconstruction as possible which means jobs get done faster and at lower cost, which lowers loss ratios and conserves policy limits. (It also makes for happier policyholders and happier policyholders become Cheerleaders!)"
+    },
+    {
+     "k": "li",
+     "t": "We provide a free, enhanced, high-tech inspection when losses occur. We will act as your eyes and ears on the job, providing information that will help you and the insured decide whether a loss is claim-worthy or not. This will prevent unnecessary claims from being filed."
+    },
+    {
+     "k": "li",
+     "t": "When you become a part of our ASP, you will really know and will have pre-vetted our company as the restorer you’re referring. You’ll know your policyholders are working with a legitimate, expert, insured and certified restorer—that is accountable to you as well as your customer! You can have confidence that we will do what is necessary, nothing more and nothing less to return them to preloss condition."
+    },
+    {
+     "k": "li",
+     "t": "We also practice what we call “Transparent Accountability”. This means we provide the highest levels of communication and collect comprehensive documentation in near real time to prove that the job was done right."
+    },
+    {
+     "k": "li",
+     "t": "When we provide a free Property Guardian Program for your commercial clients, this pre-disaster information will allow us to have advanced knowledge about the property, allowing us to respond more effectively as we are able to hit the ground running. This substantially reduces severity and therefore, the cost of the claim as well as the time to completion, which reduces business interruption payments."
+    },
+    {
+     "k": "body",
+     "t": "Our goal is to work together in a strategic relationship with you. We want to grow our business by helping you protect and grow your business. Because we are looking to have a long-term relationship with our Agency Support Program members, we take the long view and want to do what is best for your agency. Unlike “cut and gut” restorers that try to turn losses into the biggest job possible, we feel that the triple win (you, your policyholders and our company) is the best outcome."
+    },
+    {
+     "k": "close",
+     "t": "The Agency Support Program can add powerful marketing and sales tools to your selling efforts at no cost to you! To learn about all the details of the ASP, contact:"
+    }
+   ],
+   "code": "ASP Special Report 04",
+   "copyright": "©2026 Business Development Associates. All rights reserved."
+  },
+  "SR05": {
+   "blocks": [
+    {
+     "k": "title",
+     "t": "How the Agency Support Program (ASP) Helps Agents Gain a New Competitive Edge Against Internet Insurance Sales"
+    },
+    {
+     "k": "lead",
+     "t": "The “brick and mortar” insurance agency business model is under attack from Internet insurance competition. In the combined auto and homeowners insurance market, State Farm is still number one, followed by Progressive and Geico, who have disrupted the traditional agency model with more than $70 billion in sales."
+    },
+    {
+     "k": "body",
+     "t": "The impact has been most powerfully with auto insurance but homeowners coverage is in the sites of the Internet giants, with Progressive already at number 3 in homeowners coverage, behind State Farm and Allstate. Internet insurance is here to stay and will more and more become the major competition for traditional insurance agencies. Commercial agents/brokers are not immune either, as online companies are now offering simple business owner’s policies (BOPs) online. You don’t have to be a weatherman to see which way the wind is blowing. The insurance agency business model has been plagued by commoditization and is therefore a highly price-driven business. Remember the following maxim, “When people perceive no other value, they always buy on price.” Unless you want sales results to be predicated on whether your carriers have the lowest price at a given point in time, forward-thinking agents will be looking for value-added differentiators to enhance their value proposition to their prospects and clients. That’s where the ASP can help! The success of Progressive and Geico make it clear that consumers value real-live agents less and less at the time of policy purchase. So, when do they value you? When they need you the most—when they have a loss! If you’re giving your valuable clients an 800 number and a “good luck” when they suffer a loss, you’re missing out on a tremendous marketing opportunity. With our Agency Support Program, you can easily be a part of a claims process that offers your policyholders unmatched levels of service—the kind of service policyholders expect but rarely get. And the kind of service that will powerfully differentiate you from the Internet insurers. After all, why would people buy from you if not because they have an expectation of higher levels of service?"
+    },
+    {
+     "k": "h",
+     "t": "How the ASP Helps Strengthen Your Value Proposition"
+    },
+    {
+     "k": "li",
+     "t": "The Agency Support Program (ASP) provides a crucial differentiator allowing agencies to be different and better than Internet insurance providers as well as “Main St.” competitors. As part of the ASP, you will be there for their policyholders when they need you the most (when they have a loss) delivering a level of personal, “Above and Beyond” service that is unheard of in insurance restoration. This service creates Cheerleaders that stay insureds and act as unpaid salespeople, singing your praises far and wide to family, friends, and colleagues."
+    },
+    {
+     "k": "li",
+     "t": "In terms of commercial lines, this value proposition is enhanced even further with the agency being able to offer the added value of being there for their clients “before, during and after” with a Property Guardian Program delivered on behalf of your agency at no charge by our company."
+    },
+    {
+     "k": "li",
+     "t": "The ASP serves as a foundation for a powerful revised agency value proposition that speaks to key policyholder needs and motives that are more important to quality clients than simply the lowest price. We can provide resource materials to help you explore enhancing your current marketing strategy."
+    },
+    {
+     "k": "li",
+     "t": "Some restoration contractor is going to respond to the insured’s loss. Doesn’t it make sense to be sure that it is one that has your best interests at heart and who will provide all kinds of unique, value-added services to enhance your relationship with your insureds? With the ASP, we become an extension of your agency."
+    },
+    {
+     "k": "li",
+     "t": "Marketing communications tools are provided in the form of brochures (personal lines and commercial renewal brochure, digital brochure, commercial referral flyer) to help agents communicate the value of the ASP to both personal lines and commercial policyholders and prospects."
+    },
+    {
+     "k": "li",
+     "t": "Agency Enrichment Program: This program is designed to help referral partner agencies assist their team with professional development. How well does their team understand the claims process from the customer’s perspective? How can they deliver better customer service? How can they increase sales with real-life front-line experiences? This program is designed to address all these issues and much more."
+    },
+    {
+     "k": "close",
+     "t": "The Agency Support Program can add powerful marketing and sales tools to your selling efforts at no cost to you! To learn about all the details of the ASP, contact:"
+    }
+   ],
+   "code": "ASP Special Report 05",
+   "copyright": "©2026 Business Development Associates. All rights reserved."
+  },
+  "SR06": {
+   "blocks": [
+    {
+     "k": "title",
+     "t": "How the Agency Support Program (ASP) Delivers Above & Beyond Customer Service"
+    },
+    {
+     "k": "lead",
+     "t": "Disaster restoration is kind of like an unplanned remodeling project that the insured has no time to plan for and is disruptive, scary and aggravating. These kinds of projects are delicate customer service situations to say the least!"
+    },
+    {
+     "k": "body",
+     "t": "In our experience, if a claim is going to “go South” it will largely be because of poor communication. We focus on the highest levels of communication because unhappy policyholders switch agents and instead of becoming Cheerleaders helping to build your business by word-of-mouth referrals, instead become Terrorists, doing just the opposite! Because we know that our service is a reflection on you, we have a fanatical focus on what we call “Above & Beyond” customer service, focusing on communication and documentation."
+    },
+    {
+     "k": "h",
+     "t": "“Always Informed” Communication"
+    },
+    {
+     "k": "body",
+     "t": "It is our policy to communicate with our clients based on the method and frequency they prefer. Many losses only take a few days to restore but others may take weeks or months. In these projects of longer duration, we will communicate with the policyholder daily, weekly, as needed by phone, text or email. We will also provide regular updates to your agency, so you know the exact status of the claim and have confidence knowing that we are “on it!” This also allows you to “touch” the client at the optimal times during the loss to magnify the customer service impact. There is no better time for agents to touch their insureds than during a loss!"
+    },
+    {
+     "k": "h",
+     "t": "We Collect Comprehensive Documentation in Near-Real Time"
+    },
+    {
+     "k": "body",
+     "t": "In the insurance restoration world, if it isn’t documented, it didn’t happen. That’s why we collect comprehensive documentation to tell the story of the claim. This way, any third-party can see what happened and exactly the steps that we took to restore the insured to pre-loss condition. This helps adjusters understand what was done and why and close the file more quickly and easily, reducing hassles for the policyholder."
+    },
+    {
+     "k": "h",
+     "t": "A Powerful Moment of Truth on Your Behalf"
+    },
+    {
+     "k": "body",
+     "t": "Because of the way we document the loss, we are able to offer the policyholder a Certificate of Professional Restoration once the job is complete. This documentation has two powerful benefits to your insureds. The first is that this documentation protects the value of their home when it comes time to sell. These types of losses have to be disclosed and when potential buyers see that the damage was restored by a licensed, certified, insured professional restoration contractor instead of “Chuck in a Truck” or Uncle Bob the do-it-yourselfer, this tends to make any reservations about going forward with a purchase go away. The second benefit is that this documentation reassures them about the health and safety of their family/occupants. And we make sure you get credit for this!"
+    },
+    {
+     "k": "close",
+     "t": "The Agency Support Program can add powerful marketing and sales tools to your selling efforts at no cost to you! To learn about all the details of the ASP, contact:"
+    }
+   ],
+   "code": "ASP Special Report 06",
+   "copyright": "©2026 Business Development Associates. All rights reserved."
+  },
+  "NB": {
+   "title": "GCPRO RESTORATION’S AGENCY SUPPORT PROGRAM NON-BINDING STATEMENT OF MUTUAL COMMITMENT",
+   "h_you": "OUR PROMISE TO YOU AND YOUR POLICYHOLDERS!",
+   "p_you": "Our Agency Support Program is designed to deliver the very best restoration and customer service to your policyholders while also helping your agency:",
+   "goals": [
+    "Increase Policyholder Retention",
+    "Increase “Word of Mouth” Referrals for New Business",
+    "Help Prevent You Being the “Bad Guy” on Coverage Denials or Questionable Claims",
+    "Reduce Loss Ratios and Increase Incentives",
+    "Gain a Powerful, New Competitive Edge Against Internet and “Main Street” Competition"
+   ],
+   "p_elements": "We will accomplish this by implementing our Agency Support Program, which includes the following previously reviewed and approved elements:",
+   "elements": [
+    "Your Service Company & Free Inspection Program",
+    "Priority Storm Service",
+    "Initial Inspection Contact",
+    "Renewal & Introduction Brochure",
+    "ERP Program for Commercial Clients",
+    "Coverage Recommendations & Referrals",
+    "Post-Loss Debriefing",
+    "Agency Enrichment Program",
+    "Certificate of Professional Restoration"
+   ],
+   "h_us": "YOUR PROMISE TO US!",
+   "p_us": "Because you see the benefits of GCPRO Restoration’ Agency Support Program and understand that the costs of delivering this level of service only makes sense if we are being referred on all losses, you agree to recommend GCPRO Restoration.",
+   "note": "This document is a non-binding agreement of mutual commitment. You have the option to cancel this agreement at any time.",
+   "sig": [
+    "GCPRO Restoration",
+    "Date",
+    "Agency Representative",
+    "Date"
+   ]
+  },
+  "AP": {
+   "title": "PREFERRED AGENCY PROFILE",
+   "info": [
+    [
+     "Agency:"
+    ],
+    [
+     "Address:"
+    ],
+    [
+     "Phone:",
+     "Fax:"
+    ],
+    [
+     "Principal Name:",
+     "Mobile:"
+    ],
+    [
+     "Email:",
+     "BDC:"
+    ]
+   ],
+   "staff_h": "AGENCY STAFF",
+   "chal_h": "AGENCY CHALLENGES:",
+   "chal": [
+    "PH Retention",
+    "WOM Referral",
+    "Bad Guy",
+    "Loss Ratios",
+    "Internet Comp.",
+    "Other"
+   ],
+   "q1_h": "AGENCY NEW CLIENT/RENEWAL TRIFOLD:",
+   "q1": [
+    "Yes",
+    "No",
+    "Not At This Time, Maybe Later Down the Road"
+   ],
+   "q2_h": "WILL THE AGENCY PROVIDE POLICY INFORMATION?",
+   "q2": [
+    "Yes",
+    "No"
+   ],
+   "q2_m": "If Yes, Preferred Contact Method:",
+   "m": [
+    "Text",
+    "Phone",
+    "Email"
+   ],
+   "contact": "Contact Name:",
+   "specify": "Please Specify Preferred Number for Phone or Text or Email Address:",
+   "q3_h": "AGENT COMMUNICATION PREFERENCE FOR INSPECTION RESULTS:",
+   "q4_h": "CERTIFICATE OF PROFESSIONAL RESTORATION DELIVERY-PREFERRED METHOD:",
+   "q4": [
+    "GCPRO Restoration Will Deliver to Agent; Agent Will Deliver To Homeowner",
+    "GCPRO Restoration Will Deliver to Homeowner by Email"
+   ],
+   "q5_h": "POLICY REVIEW/ADDITIONAL COVERAGE & REFERRAL OPPORTUNITIES PREFERENCES:",
+   "q5": "Who In the Client’s Office is the Main Contact for this Program?",
+   "name": "Name:",
+   "email": "Email:",
+   "staff_labels": [
+    "Name",
+    "Position"
+   ]
+  },
+  "PR": {
+   "title": "CUSTOMER POLICY REVIEW & COVERAGE RISK ASSESSMENT",
+   "intro": "Your agent is dedicated to providing you the very best service and protection possible by making sure your homeowner’s policy is up to date and accurate according to your unique needs. Areas of possible gaps in your coverage can be identified below. Contact your agent today to ensure your policy is up to date!",
+   "fields": [
+    [
+     [
+      "Policyholder’s Name",
+      1
+     ],
+     [
+      "Address",
+      1
+     ]
+    ],
+    [
+     [
+      "City",
+      1.4
+     ],
+     [
+      "State",
+      0.5
+     ],
+     [
+      "Zip",
+      0.6
+     ],
+     [
+      "Mobile Phone",
+      1
+     ],
+     [
+      "Home Phone",
+      1
+     ]
+    ],
+    [
+     [
+      "Agent’s Name",
+      1
+     ]
+    ],
+    [
+     [
+      "Email",
+      2.2
+     ],
+     [
+      "Office Phone",
+      1
+     ],
+     [
+      "Mobile Phone",
+      1
+     ]
+    ]
+   ],
+   "s1_h": "RISING WATER/SEWER BACK-UP/SUMP PUMP FAILURE COVERAGE",
+   "s1_p": [
+    "Often times, a rider to protect you from losses originating from sewer back-ups, sump pump failures or septic system overflows are not included in the standard homeowner’s policy.",
+    "If Your Home Features a:"
+   ],
+   "s1_c": [
+    "Basement",
+    "Septic Tank/System",
+    "Sump Pump"
+   ],
+   "s1_s": "We Suggest: Checking with your agent to make sure you are adequately covered for rising water damage.",
+   "s2_h": "COVERAGE BASED ON GEOGRAPHIC LOCATION",
+   "s2_p": [
+    "Sometimes, our customers are not adequately covered in the area they live.",
+    "Based on where you live, your home might be affected by:"
+   ],
+   "s2_c": [
+    "Floods",
+    "Tornado/Wind",
+    "Hail/Roof",
+    "Earthquake"
+   ],
+   "s2_s": "We Suggest: Checking with your agent about additional coverage based on the area you live in.",
+   "s3_h": "COVERAGE LIMITS AND GAPS",
+   "s3_p": [
+    "Often, policyholders are not sure how much their home is covered for, how much it would cost to rebuild after a total loss and what their policy would actually pay in the event of a total loss. Additions to your home or other upgrades may have been made but your policy limits not increased. Other coverage gaps may include “Law and Ordinance” which covers costs of required upgrades to meet current building codes, Landslides/Subsidence, Expansive Soils and damage resulting from outdoor pools.",
+    "Based on where you live, your home might be affected by:"
+   ],
+   "s3_c": [
+    "Total Coverage Amount",
+    "Law and Ordinance",
+    "Landslides/Subsidence",
+    "Mold Limits",
+    "Expansive Soils",
+    "Pool",
+    "Recent Addition"
+   ],
+   "s3_s": "We Suggest: Discussing these issues with your agent to understand whether you are adequately covered for these significant risks.",
+   "s4_h": "CONTENTS",
+   "s4_p": [
+    "Many people underestimate the amount of coverage they need to cover their contents, generally described as personal possessions or items that you would take with you if you moved.",
+    "You may need additional coverage to protect a number of categories of personal property that your standard homeowner’s policy may not adequately cover.",
+    "These categories Include:"
+   ],
+   "s4_c": [
+    "Computers/Electronics",
+    "Fine Art",
+    "Firearms",
+    "Jewelry",
+    "Medical Equipment",
+    "Oriental Rugs",
+    "Pets/Exotic Animals",
+    "Sports Memorabilia",
+    "Wine",
+    "Valuable Documents/Papers",
+    "Other"
+   ],
+   "s4_s": "We Suggest: Discussing your amount of contents coverage and/or coverage for specific valuable collections with your agent.",
+   "s5_h": "BUNDLED COVERAGE",
+   "s5_p": "Be sure to ask your agent about saving money by bundling your coverage! (Ex: Home, Auto, Life, Business, etc.)",
+   "s6_h": "WHO DO YOU KNOW THAT WOULD LIKE THIS LEVEL OF SERVICE?",
+   "s6_p": "Many of the “Above and Beyond” services we have provided have been based on our relationship with your agent. If you have friends, family or colleagues that would appreciate these same levels of service should they have a loss, please provide their names and contact information. They will receive a “no-pressure” follow up from your agent regarding a totally different kind of insurance agent experience!",
+   "ref": [
+    "Name",
+    "Phone",
+    "Email"
+   ]
+  },
+  "INV": {
+   "title": "Invoice",
+   "date": "Date",
+   "num": "Invoice #",
+   "bill": "Bill To",
+   "ship": "Ship To",
+   "meta": [
+    "P.O. Number",
+    "Terms",
+    "Project"
+   ],
+   "cols": [
+    "Quantity",
+    "Item Description",
+    "Rate",
+    "Amount"
+   ],
+   "item1": "Hi-Tech Property Inspection",
+   "total": "TOTAL",
+   "cur": "$",
+   "sig": [
+    "Customer Name",
+    "Customer Signature"
+   ],
+   "stamp": "PAID"
+  },
+  "PSP": {
+   "flap_h2": "Plumber Support Program",
+   "flap_checklist": [
+    "Protects Your Valuable Customer Relationships",
+    "Creates Word-of-Mouth Referrals for New Customers",
+    "Minimizes the Customer’s Tendency to Blame You When Things Go Wrong",
+    "Dramatically Reduces the Cost of Technician-Caused Damage",
+    "Helps Protect You Against Future Liability, Especially for Mold and Sewage"
+   ],
+   "cover_h1": "A NEW WAY FOR PLUMBERS TO BUILD THEIR BUSINESS",
+   "p1_h2": "The Restoration Partner You Need",
+   "p1_secs": [
+    {
+     "h": "DELIVERING SERVICE YOUR CUSTOMERS CAN DEPEND ON",
+     "p": "Discovering water, sewer or mold damage on the job can be a Moment of Truth between you and your customer. How you respond can be the difference between a happy customer and a lost opportunity. When you recommend a reliable restoration contractor to fix the problem, you’ve provided value that your customer will remember."
+    },
+    {
+     "h": "MAKING YOU LOOK GOOD!",
+     "p": "When you have a “go-to” restorer to call, it reflects well on you. Especially when that restorer takes every opportunity to tell your customers they made the right decision by choosing you as their plumber."
+    },
+    {
+     "h": "HAPPIER CUSTOMERS BECOME CHEERLEADERS",
+     "p": "When you demonstrate to your customers that you really care by helping them solve their whole problem, you create “Cheerleaders” who will recommend you to friends and family. These unsolicited word-of-mouth referrals are the best form of advertising there is—and it’s FREE!"
+    }
+   ],
+   "p2_secs": [
+    {
+     "h": "EVERYONE MAKES MISTAKES",
+     "p": "Even the most experienced plumbers can install defective materials or make mistakes on the job from time to time, and fixing water losses that you’re responsible for can be expensive. We help make the financial burden of these “oops” moments a lot less painful."
+    },
+    {
+     "h": "REDUCING RISK AND LIABILITY",
+     "p": "You need restoration work done correctly to help protect your company from downstream liability and lawsuits. Because we comprehensively document every job, you have a record showing the loss was restored to the proper Standard of Care when we’ve finished."
+    },
+    {
+     "h": "PLUMBER SUPPORT PROGRAM",
+     "p": "We’ll provide your customers with both the service they expect from someone associated with your business, and reasons for them to enthusiastically refer you."
+    }
+   ],
+   "p3_h2": "What’s Different About GCPRO Restoration?",
+   "p3_features": [
+    {
+     "h": "MITIGATION SPECIALISTS",
+     "p": "We restore losses using mitigation instead of reconstruction whenever possible. This gets customers back to normal far faster and at a lower cost."
+    },
+    {
+     "h": "WE CREATE CHEERLEADERS FOR YOU!",
+     "p": "We deliver Above and Beyond Service to help you keep your current customers and to create Cheerleaders who will go out of their way to tell friends, family and colleagues how great you are--kind of like unpaid salespeople!"
+    },
+    {
+     "h": "WE HELP YOU GROW YOUR BUSINESS",
+     "p": "At our company, restoration work is only part of our job. The other part is helping you improve customer retention, create “Cheerleaders” who refer new business, reduce restoration costs when you accidentally cause a loss and prevent downstream liability and lawsuits."
+    }
+   ],
+   "code": "PSP LEAVE BEHIND TRIFOLD FS 07/20"
+  }
+ },
+ "contact": {
+  "name": "GCPRO Restoration",
+  "phone": "(847) 656-3322",
+  "web": "gcprochicago.com",
+  "label": "24-HOUR EMERGENCY SERVICE",
+  "rating_label": "Google Rating"
+ }
+}

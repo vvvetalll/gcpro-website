@@ -1,0 +1,34 @@
+{
+  "title": "Unit Owner vs. Association Hazard Insurance Coverage Areas",
+  "disclaimer": "This diagram is provided for illustration purposes only and should not be solely relied upon as the basis for insurance. We recommend you review Your State’s Condominium Statute and your specific condominium documents for updated insurance and maintenance responsibilities.",
+  "associationHeading": "Association Responsibilities Hazard Insurance",
+  "association": [
+    "Hot/Cold Water Pipes including: Fire Systems/ Sprinklers",
+    "Perimeter/Load Bearing Walls including: Common/Party Walls",
+    "Electrical Wiring",
+    "Balcony/Porches/Stairs",
+    "Unfinished Drywall/Wallboard",
+    "Roofs to include: Covering, Insulation and Trusses",
+    "Unfinished Floors",
+    "Exterior Doors",
+    "Windows/Sliding Glass Doors",
+    "A/C and Heating Unit including: Compressor"
+  ],
+  "ownerHeading": "Unit Owner Responsibilities Hazard Insurance",
+  "owner": [
+    "Bathtub/Shower",
+    "Toilet",
+    "Bathroom Sink",
+    "Wall/Floor/Ceiling Coverings including: paint, wallpaper, tile, wood, carpet, laminate, etc.",
+    "Electrical Outlets and Fixtures",
+    "Interior Doors",
+    "Refrigerator",
+    "Oven/Stove and Hood",
+    "Counter Tops and Cabinets",
+    "Kitchen Sink",
+    "Dishwasher",
+    "Light Fixtures",
+    "Water Heaters and Water Filters",
+    "Window Treatments, including: curtains, drapes, blinds and all hardware"
+  ]
+}

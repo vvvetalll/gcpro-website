@@ -1,0 +1,15 @@
+{
+  "release": "2026-10-20",
+  "ready_files": "releases/2026-10-20",
+  "source_project": "source",
+  "document_layouts": 23,
+  "commercial_pgp_layouts": 7,
+  "commercial_pgp_pages": 27,
+  "commercial_pgp_fillable_fields": 456,
+  "imported_on": "2026-11-05",
+  "excluded": [
+    "presentations",
+    "Thank You flyers",
+    "unapproved 2026-11-05 ERP/PM edits"
+  ]
+}

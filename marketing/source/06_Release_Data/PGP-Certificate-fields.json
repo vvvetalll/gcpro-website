@@ -1,0 +1,27 @@
+{
+  "Property_Name": {
+    "type": "/Tx",
+    "flags": 0,
+    "value": ""
+  },
+  "Property_Address": {
+    "type": "/Tx",
+    "flags": 0,
+    "value": ""
+  },
+  "Property_Additional_Line": {
+    "type": "/Tx",
+    "flags": 0,
+    "value": ""
+  },
+  "Official_Signature": {
+    "type": "/Tx",
+    "flags": 0,
+    "value": ""
+  },
+  "Date": {
+    "type": "/Tx",
+    "flags": 0,
+    "value": ""
+  }
+}

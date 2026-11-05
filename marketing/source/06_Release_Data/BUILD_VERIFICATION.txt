@@ -1,0 +1,7 @@
+Release date: 2026-10-20
+
+All seven current document templates were rebuilt successfully using the portable tools/render.cjs and tools/finalize.py included in this project. All 27 pages matched the approved text snapshots. All 456 interactive field names were retained. Canonical AcroForm values and widget appearance streams were checked. Sample text entry and checkbox selection were saved and reopened successfully. Print editions have no interactive widgets.
+
+The 26 PDF files from the supplied prior ASP/PSP release were copied without modification and their SHA-256 hashes matched the source archive.
+
+Verified runtime: Playwright 1.62.1 with installed Microsoft Edge; PyMuPDF 2.0; pypdf 6.10.0; Pillow 12.3.0. Dependencies are listed in package.json and requirements.txt. No installed runtimes or node_modules are included.
