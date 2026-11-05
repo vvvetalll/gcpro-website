@@ -1,0 +1,1240 @@
+{
+  "id": "1",
+  "name": "GCPRO Before After — Prototype",
+  "type": "masonry",
+  "layout": {
+    "settings": {
+      "type": "masonry",
+      "card_layout": "vertical",
+      "switch_layout": "768px",
+      "content_position": "bottom",
+      "media_position": "left",
+      "media_width": "50%",
+      "display_media": false,
+      "display_overlay": false,
+      "display_footer": false,
+      "display_header": false,
+      "flex_media": false,
+      "card_width": "500px",
+      "responsive": false,
+      "display_body": true,
+      "version": "2.3.6"
+    },
+    "layers": {
+      "inner": {
+        "content": {
+          "body": {
+            "blocks": [
+              {
+                "content": {
+                  "source": "raw_content_block",
+                  "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Living Area Fire Damage Restoration — Tinley Park, IL</h2><p class=\"e-paragraph-base e-default-p\">A fire-damaged living area and kitchen restored to completed interiors.</p><a class=\"e-paragraph-base\" href=\"https://vitaliiv1.sg-host.com/projects/from-ashes-to-excellence-tinley-park-home-restoration/\">View project <span aria-hidden=\"true\">→</span></a></div></article>",
+                  "name": "wpgb-block-1",
+                  "css_variable": true
+                },
+                "action": [],
+                "conditions": {
+                  "0": {
+                    "0": {
+                      "key": "post_id",
+                      "value": "1200",
+                      "compare": "=="
+                    },
+                    "relation": "AND"
+                  },
+                  "relation": "OR"
+                }
+              },
+              {
+                "content": {
+                  "source": "raw_content_block",
+                  "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Bedroom Fire Damage Restoration — Tinley Park, IL</h2><p class=\"e-paragraph-base e-default-p\">A fire-damaged bedroom restored with finished walls, carpeting and lighting.</p><a class=\"e-paragraph-base\" href=\"https://vitaliiv1.sg-host.com/projects/from-ashes-to-excellence-tinley-park-home-restoration/\">View project <span aria-hidden=\"true\">→</span></a></div></article>",
+                  "name": "wpgb-block-2",
+                  "css_variable": true
+                },
+                "action": [],
+                "conditions": {
+                  "0": {
+                    "0": {
+                      "key": "post_id",
+                      "value": "1205",
+                      "compare": "=="
+                    },
+                    "relation": "AND"
+                  },
+                  "relation": "OR"
+                }
+              },
+              {
+                "content": {
+                  "source": "raw_content_block",
+                  "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Exterior Fire Damage Restoration — Tinley Park, IL</h2><p class=\"e-paragraph-base e-default-p\">A fire-damaged home exterior restored with finished trim and windows.</p></div></article>",
+                  "name": "wpgb-block-3",
+                  "css_variable": true
+                },
+                "action": [],
+                "conditions": {
+                  "0": {
+                    "0": {
+                      "key": "post_id",
+                      "value": "1206",
+                      "compare": "=="
+                    },
+                    "relation": "AND"
+                  },
+                  "relation": "OR"
+                }
+              },
+              {
+                "content": {
+                  "source": "raw_content_block",
+                  "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Shower Room Fire Damage Restoration — Tinley Park, IL</h2><p class=\"e-paragraph-base e-default-p\">A fire-damaged shower room restored with finished walls, tile and fixtures.</p></div></article>",
+                  "name": "wpgb-block-4",
+                  "css_variable": true
+                },
+                "action": [],
+                "conditions": {
+                  "0": {
+                    "0": {
+                      "key": "post_id",
+                      "value": "1207",
+                      "compare": "=="
+                    },
+                    "relation": "AND"
+                  },
+                  "relation": "OR"
+                }
+              },
+              {
+                "content": {
+                  "source": "raw_content_block",
+                  "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Bathroom Fire Damage Restoration — Tinley Park, IL</h2><p class=\"e-paragraph-base e-default-p\">A fire-damaged bathroom restored with a finished vanity, tub and wall finishes.</p></div></article>",
+                  "name": "wpgb-block-5",
+                  "css_variable": true
+                },
+                "action": [],
+                "conditions": {
+                  "0": {
+                    "0": {
+                      "key": "post_id",
+                      "value": "1208",
+                      "compare": "=="
+                    },
+                    "relation": "AND"
+                  },
+                  "relation": "OR"
+                }
+              },
+              {
+                "content": {
+                  "source": "raw_content_block",
+                  "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Exterior Fire Damage Restoration — Tinley Park, IL</h2><p class=\"e-paragraph-base e-default-p\">A fire-damaged home exterior restored with finished windows, siding and roof-edge details.</p></div></article>",
+                  "name": "wpgb-block-6",
+                  "css_variable": true
+                },
+                "action": [],
+                "conditions": {
+                  "0": {
+                    "0": {
+                      "key": "post_id",
+                      "value": "1600",
+                      "compare": "=="
+                    },
+                    "relation": "AND"
+                  },
+                  "relation": "OR"
+                }
+              },
+              {
+                "content": {
+                  "source": "raw_content_block",
+                  "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Basement Fire Damage Restoration — Tinley Park, IL</h2><p class=\"e-paragraph-base e-default-p\">A damaged basement restored with finished walls, flooring and stairs.</p></div></article>",
+                  "name": "wpgb-block-7",
+                  "css_variable": true
+                },
+                "action": [],
+                "conditions": {
+                  "0": {
+                    "0": {
+                      "key": "post_id",
+                      "value": "2215",
+                      "compare": "=="
+                    },
+                    "relation": "AND"
+                  },
+                  "relation": "OR"
+                }
+              },
+              {
+                "content": {
+                  "source": "raw_content_block",
+                  "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Kitchen Renovation</h2><p class=\"e-paragraph-base e-default-p\">A kitchen updated with cabinetry, lighting and an island.</p></div></article>",
+                  "name": "wpgb-block-8",
+                  "css_variable": true
+                },
+                "action": [],
+                "conditions": {
+                  "0": {
+                    "0": {
+                      "key": "post_id",
+                      "value": "1165",
+                      "compare": "=="
+                    },
+                    "relation": "AND"
+                  },
+                  "relation": "OR"
+                }
+              },
+              {
+                "content": {
+                  "source": "raw_content_block",
+                  "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Bathroom Restoration</h2><p class=\"e-paragraph-base e-default-p\">Exposed lower wall framing restored to a finished vanity and tile floor.</p></div></article>",
+                  "name": "wpgb-block-9",
+                  "css_variable": true
+                },
+                "action": [],
+                "conditions": {
+                  "0": {
+                    "0": {
+                      "key": "post_id",
+                      "value": "1198",
+                      "compare": "=="
+                    },
+                    "relation": "AND"
+                  },
+                  "relation": "OR"
+                }
+              },
+              {
+                "content": {
+                  "source": "raw_content_block",
+                  "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Interior Restoration — Wonder Lake, IL</h2><p class=\"e-paragraph-base e-default-p\">Open framing transformed into completed walls, ceilings and flooring.</p><a class=\"e-paragraph-base\" href=\"https://vitaliiv1.sg-host.com/projects/restoring-elegance-water-damage-reconstruction-of-a-wonder-lake-residence/\">View project <span aria-hidden=\"true\">→</span></a></div></article>",
+                  "name": "wpgb-block-10",
+                  "css_variable": true
+                },
+                "action": [],
+                "conditions": {
+                  "0": {
+                    "0": {
+                      "key": "post_id",
+                      "value": "1199",
+                      "compare": "=="
+                    },
+                    "relation": "AND"
+                  },
+                  "relation": "OR"
+                }
+              },
+              {
+                "content": {
+                  "source": "raw_content_block",
+                  "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Kitchen Restoration — Wonder Lake, IL</h2><p class=\"e-paragraph-base e-default-p\">Exposed framing restored to a kitchen with finished cabinetry and countertops.</p><a class=\"e-paragraph-base\" href=\"https://vitaliiv1.sg-host.com/projects/restoring-elegance-water-damage-reconstruction-of-a-wonder-lake-residence/\">View project <span aria-hidden=\"true\">→</span></a></div></article>",
+                  "name": "wpgb-block-11",
+                  "css_variable": true
+                },
+                "action": [],
+                "conditions": {
+                  "0": {
+                    "0": {
+                      "key": "post_id",
+                      "value": "1201",
+                      "compare": "=="
+                    },
+                    "relation": "AND"
+                  },
+                  "relation": "OR"
+                }
+              },
+              {
+                "content": {
+                  "source": "raw_content_block",
+                  "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Fireplace Room Restoration — Wonder Lake, IL</h2><p class=\"e-paragraph-base e-default-p\">An unfinished fireplace room restored with stone finishes, flooring and painted walls.</p><a class=\"e-paragraph-base\" href=\"https://vitaliiv1.sg-host.com/projects/restoring-elegance-water-damage-reconstruction-of-a-wonder-lake-residence/\">View project <span aria-hidden=\"true\">→</span></a></div></article>",
+                  "name": "wpgb-block-12",
+                  "css_variable": true
+                },
+                "action": [],
+                "conditions": {
+                  "0": {
+                    "0": {
+                      "key": "post_id",
+                      "value": "1204",
+                      "compare": "=="
+                    },
+                    "relation": "AND"
+                  },
+                  "relation": "OR"
+                }
+              },
+              {
+                "content": {
+                  "source": "raw_content_block",
+                  "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Living Room Renovation</h2><p class=\"e-paragraph-base e-default-p\">A living room updated with lighter finishes, flooring and an open layout around the brick fireplace.</p></div></article>",
+                  "name": "wpgb-block-13",
+                  "css_variable": true
+                },
+                "action": [],
+                "conditions": {
+                  "0": {
+                    "0": {
+                      "key": "post_id",
+                      "value": "1210",
+                      "compare": "=="
+                    },
+                    "relation": "AND"
+                  },
+                  "relation": "OR"
+                }
+              },
+              {
+                "content": {
+                  "source": "raw_content_block",
+                  "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Kitchen Restoration</h2><p class=\"e-paragraph-base e-default-p\">A kitchen restored with white cabinetry, countertops and finished flooring.</p></div></article>",
+                  "name": "wpgb-block-14",
+                  "css_variable": true
+                },
+                "action": [],
+                "conditions": {
+                  "0": {
+                    "0": {
+                      "key": "post_id",
+                      "value": "1245",
+                      "compare": "=="
+                    },
+                    "relation": "AND"
+                  },
+                  "relation": "OR"
+                }
+              },
+              {
+                "content": {
+                  "source": "raw_content_block",
+                  "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Kitchen Reconstruction — Oak Park, IL</h2><p class=\"e-paragraph-base e-default-p\">A kitchen reconstructed with wood-tone cabinetry, white countertops and updated flooring.</p></div></article>",
+                  "name": "wpgb-block-15",
+                  "css_variable": true
+                },
+                "action": [],
+                "conditions": {
+                  "0": {
+                    "0": {
+                      "key": "post_id",
+                      "value": "1591",
+                      "compare": "=="
+                    },
+                    "relation": "AND"
+                  },
+                  "relation": "OR"
+                }
+              },
+              {
+                "content": {
+                  "source": "raw_content_block",
+                  "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Bathroom Reconstruction — Oak Brook, IL</h2><p class=\"e-paragraph-base e-default-p\">A bathroom reconstructed with a glass shower enclosure, wall-mounted vanity and updated finishes.</p></div></article>",
+                  "name": "wpgb-block-16",
+                  "css_variable": true
+                },
+                "action": [],
+                "conditions": {
+                  "0": {
+                    "0": {
+                      "key": "post_id",
+                      "value": "1595",
+                      "compare": "=="
+                    },
+                    "relation": "AND"
+                  },
+                  "relation": "OR"
+                }
+              },
+              {
+                "content": {
+                  "source": "raw_content_block",
+                  "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Living Room Water Damage Restoration — Glenview, IL</h2><p class=\"e-paragraph-base e-default-p\">A damaged living-room ceiling and fireplace area before and after restoration.</p></div></article>",
+                  "name": "wpgb-block-17",
+                  "css_variable": true
+                },
+                "action": [],
+                "conditions": {
+                  "0": {
+                    "0": {
+                      "key": "post_id",
+                      "value": "2189",
+                      "compare": "=="
+                    },
+                    "relation": "AND"
+                  },
+                  "relation": "OR"
+                }
+              },
+              {
+                "content": {
+                  "source": "raw_content_block",
+                  "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Kitchen Reconstruction — Wonder Lake, IL</h2><p class=\"e-paragraph-base e-default-p\">Exposed kitchen framing rebuilt into a finished space with cabinetry and flooring.</p></div></article>",
+                  "name": "wpgb-block-18",
+                  "css_variable": true
+                },
+                "action": [],
+                "conditions": {
+                  "0": {
+                    "0": {
+                      "key": "post_id",
+                      "value": "2206",
+                      "compare": "=="
+                    },
+                    "relation": "AND"
+                  },
+                  "relation": "OR"
+                }
+              },
+              {
+                "content": {
+                  "source": "raw_content_block",
+                  "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Stairway Reconstruction — Wonder Lake, IL</h2><p class=\"e-paragraph-base e-default-p\">Open framing around the stairs and landing rebuilt with finished walls and trim.</p></div></article>",
+                  "name": "wpgb-block-19",
+                  "css_variable": true
+                },
+                "action": [],
+                "conditions": {
+                  "0": {
+                    "0": {
+                      "key": "post_id",
+                      "value": "2213",
+                      "compare": "=="
+                    },
+                    "relation": "AND"
+                  },
+                  "relation": "OR"
+                }
+              },
+              {
+                "content": {
+                  "source": "raw_content_block",
+                  "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Bedroom Renovation</h2><p class=\"e-paragraph-base e-default-p\">An empty bedroom updated with finished closets, trim and lighting.</p></div></article>",
+                  "name": "wpgb-block-20",
+                  "css_variable": true
+                },
+                "action": [],
+                "conditions": {
+                  "0": {
+                    "0": {
+                      "key": "post_id",
+                      "value": "2219",
+                      "compare": "=="
+                    },
+                    "relation": "AND"
+                  },
+                  "relation": "OR"
+                }
+              },
+              {
+                "content": {
+                  "source": "raw_content_block",
+                  "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Club Room Renovation (Window View)</h2><p class=\"e-paragraph-base e-default-p\">A club room updated with new flooring, wall finishes and an open ceiling.</p></div></article>",
+                  "name": "wpgb-block-21",
+                  "css_variable": true
+                },
+                "action": [],
+                "conditions": {
+                  "0": {
+                    "0": {
+                      "key": "post_id",
+                      "value": "1202",
+                      "compare": "=="
+                    },
+                    "relation": "AND"
+                  },
+                  "relation": "OR"
+                }
+              },
+              {
+                "content": {
+                  "source": "raw_content_block",
+                  "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Club Room Renovation (Door View)</h2><p class=\"e-paragraph-base e-default-p\">Another view of the club room with updated flooring, wall finishes and lighting.</p></div></article>",
+                  "name": "wpgb-block-22",
+                  "css_variable": true
+                },
+                "action": [],
+                "conditions": {
+                  "0": {
+                    "0": {
+                      "key": "post_id",
+                      "value": "1203",
+                      "compare": "=="
+                    },
+                    "relation": "AND"
+                  },
+                  "relation": "OR"
+                }
+              },
+              {
+                "content": {
+                  "source": "raw_content_block",
+                  "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Commercial Entrance Renovation</h2><p class=\"e-paragraph-base e-default-p\">A commercial entrance updated with white framing, dark doors and finished flooring.</p></div></article>",
+                  "name": "wpgb-block-23",
+                  "css_variable": true
+                },
+                "action": [],
+                "conditions": {
+                  "0": {
+                    "0": {
+                      "key": "post_id",
+                      "value": "1209",
+                      "compare": "=="
+                    },
+                    "relation": "AND"
+                  },
+                  "relation": "OR"
+                }
+              },
+              {
+                "content": {
+                  "source": "raw_content_block",
+                  "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Attic Mold Removal — Lombard, IL</h2><p class=\"e-paragraph-base e-default-p\">Attic roof sheathing and framing shown before and after mold removal.</p></div></article>",
+                  "name": "wpgb-block-24",
+                  "css_variable": true
+                },
+                "action": [],
+                "conditions": {
+                  "0": {
+                    "0": {
+                      "key": "post_id",
+                      "value": "1596",
+                      "compare": "=="
+                    },
+                    "relation": "AND"
+                  },
+                  "relation": "OR"
+                }
+              },
+              {
+                "content": {
+                  "source": "raw_content_block",
+                  "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Exterior Masonry Repair</h2><p class=\"e-paragraph-base e-default-p\">Damaged brick parapet rebuilt with matching brickwork and finished coping.</p></div></article>",
+                  "name": "wpgb-block-25",
+                  "css_variable": true
+                },
+                "action": [],
+                "conditions": {
+                  "0": {
+                    "0": {
+                      "key": "post_id",
+                      "value": "1597",
+                      "compare": "=="
+                    },
+                    "relation": "AND"
+                  },
+                  "relation": "OR"
+                }
+              },
+              {
+                "content": {
+                  "source": "raw_content_block",
+                  "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Window Mold Removal</h2><p class=\"e-paragraph-base e-default-p\">Window frame and sill before and after mold removal.</p></div></article>",
+                  "name": "wpgb-block-26",
+                  "css_variable": true
+                },
+                "action": [],
+                "conditions": {
+                  "0": {
+                    "0": {
+                      "key": "post_id",
+                      "value": "2202",
+                      "compare": "=="
+                    },
+                    "relation": "AND"
+                  },
+                  "relation": "OR"
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "fonts": {
+      "google": []
+    }
+  },
+  "settings": {
+    "general": {
+      "type": "masonry",
+      "card_layout": "vertical",
+      "switch_layout": "768px",
+      "content_position": "bottom",
+      "media_position": "left",
+      "media_width": "50%",
+      "display_media": false,
+      "display_overlay": false,
+      "display_footer": false,
+      "display_header": false,
+      "flex_media": false,
+      "card_width": "500px",
+      "responsive": false,
+      "global_css": "",
+      "display_body": true,
+      "version": "2.3.6"
+    },
+    "blocks": {
+      "wpgb-block-1": {
+        "content": {
+          "source": "raw_content_block",
+          "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Living Area Fire Damage Restoration — Tinley Park, IL</h2><p class=\"e-paragraph-base e-default-p\">A fire-damaged living area and kitchen restored to completed interiors.</p><a class=\"e-paragraph-base\" href=\"https://vitaliiv1.sg-host.com/projects/from-ashes-to-excellence-tinley-park-home-restoration/\">View project <span aria-hidden=\"true\">→</span></a></div></article>",
+          "name": "wpgb-block-1",
+          "css_variable": true
+        },
+        "conditions": {
+          "0": {
+            "0": {
+              "key": "post_id",
+              "value": "1200",
+              "compare": "=="
+            },
+            "relation": "AND"
+          },
+          "relation": "OR"
+        },
+        "style": {
+          "idle": [],
+          "hover": [],
+          "focus": [],
+          "active": []
+        }
+      },
+      "wpgb-block-2": {
+        "content": {
+          "source": "raw_content_block",
+          "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Bedroom Fire Damage Restoration — Tinley Park, IL</h2><p class=\"e-paragraph-base e-default-p\">A fire-damaged bedroom restored with finished walls, carpeting and lighting.</p><a class=\"e-paragraph-base\" href=\"https://vitaliiv1.sg-host.com/projects/from-ashes-to-excellence-tinley-park-home-restoration/\">View project <span aria-hidden=\"true\">→</span></a></div></article>",
+          "name": "wpgb-block-2",
+          "css_variable": true
+        },
+        "conditions": {
+          "0": {
+            "0": {
+              "key": "post_id",
+              "value": "1205",
+              "compare": "=="
+            },
+            "relation": "AND"
+          },
+          "relation": "OR"
+        },
+        "style": {
+          "idle": [],
+          "hover": [],
+          "focus": [],
+          "active": []
+        }
+      },
+      "wpgb-block-3": {
+        "content": {
+          "source": "raw_content_block",
+          "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Exterior Fire Damage Restoration — Tinley Park, IL</h2><p class=\"e-paragraph-base e-default-p\">A fire-damaged home exterior restored with finished trim and windows.</p></div></article>",
+          "name": "wpgb-block-3",
+          "css_variable": true
+        },
+        "conditions": {
+          "0": {
+            "0": {
+              "key": "post_id",
+              "value": "1206",
+              "compare": "=="
+            },
+            "relation": "AND"
+          },
+          "relation": "OR"
+        },
+        "style": {
+          "idle": [],
+          "hover": [],
+          "focus": [],
+          "active": []
+        }
+      },
+      "wpgb-block-4": {
+        "content": {
+          "source": "raw_content_block",
+          "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Shower Room Fire Damage Restoration — Tinley Park, IL</h2><p class=\"e-paragraph-base e-default-p\">A fire-damaged shower room restored with finished walls, tile and fixtures.</p></div></article>",
+          "name": "wpgb-block-4",
+          "css_variable": true
+        },
+        "conditions": {
+          "0": {
+            "0": {
+              "key": "post_id",
+              "value": "1207",
+              "compare": "=="
+            },
+            "relation": "AND"
+          },
+          "relation": "OR"
+        },
+        "style": {
+          "idle": [],
+          "hover": [],
+          "focus": [],
+          "active": []
+        }
+      },
+      "wpgb-block-5": {
+        "content": {
+          "source": "raw_content_block",
+          "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Bathroom Fire Damage Restoration — Tinley Park, IL</h2><p class=\"e-paragraph-base e-default-p\">A fire-damaged bathroom restored with a finished vanity, tub and wall finishes.</p></div></article>",
+          "name": "wpgb-block-5",
+          "css_variable": true
+        },
+        "conditions": {
+          "0": {
+            "0": {
+              "key": "post_id",
+              "value": "1208",
+              "compare": "=="
+            },
+            "relation": "AND"
+          },
+          "relation": "OR"
+        },
+        "style": {
+          "idle": [],
+          "hover": [],
+          "focus": [],
+          "active": []
+        }
+      },
+      "wpgb-block-6": {
+        "content": {
+          "source": "raw_content_block",
+          "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Exterior Fire Damage Restoration — Tinley Park, IL</h2><p class=\"e-paragraph-base e-default-p\">A fire-damaged home exterior restored with finished windows, siding and roof-edge details.</p></div></article>",
+          "name": "wpgb-block-6",
+          "css_variable": true
+        },
+        "conditions": {
+          "0": {
+            "0": {
+              "key": "post_id",
+              "value": "1600",
+              "compare": "=="
+            },
+            "relation": "AND"
+          },
+          "relation": "OR"
+        },
+        "style": {
+          "idle": [],
+          "hover": [],
+          "focus": [],
+          "active": []
+        }
+      },
+      "wpgb-block-7": {
+        "content": {
+          "source": "raw_content_block",
+          "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Basement Fire Damage Restoration — Tinley Park, IL</h2><p class=\"e-paragraph-base e-default-p\">A damaged basement restored with finished walls, flooring and stairs.</p></div></article>",
+          "name": "wpgb-block-7",
+          "css_variable": true
+        },
+        "conditions": {
+          "0": {
+            "0": {
+              "key": "post_id",
+              "value": "2215",
+              "compare": "=="
+            },
+            "relation": "AND"
+          },
+          "relation": "OR"
+        },
+        "style": {
+          "idle": [],
+          "hover": [],
+          "focus": [],
+          "active": []
+        }
+      },
+      "wpgb-block-8": {
+        "content": {
+          "source": "raw_content_block",
+          "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Kitchen Renovation</h2><p class=\"e-paragraph-base e-default-p\">A kitchen updated with cabinetry, lighting and an island.</p></div></article>",
+          "name": "wpgb-block-8",
+          "css_variable": true
+        },
+        "conditions": {
+          "0": {
+            "0": {
+              "key": "post_id",
+              "value": "1165",
+              "compare": "=="
+            },
+            "relation": "AND"
+          },
+          "relation": "OR"
+        },
+        "style": {
+          "idle": [],
+          "hover": [],
+          "focus": [],
+          "active": []
+        }
+      },
+      "wpgb-block-9": {
+        "content": {
+          "source": "raw_content_block",
+          "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Bathroom Restoration</h2><p class=\"e-paragraph-base e-default-p\">Exposed lower wall framing restored to a finished vanity and tile floor.</p></div></article>",
+          "name": "wpgb-block-9",
+          "css_variable": true
+        },
+        "conditions": {
+          "0": {
+            "0": {
+              "key": "post_id",
+              "value": "1198",
+              "compare": "=="
+            },
+            "relation": "AND"
+          },
+          "relation": "OR"
+        },
+        "style": {
+          "idle": [],
+          "hover": [],
+          "focus": [],
+          "active": []
+        }
+      },
+      "wpgb-block-10": {
+        "content": {
+          "source": "raw_content_block",
+          "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Interior Restoration — Wonder Lake, IL</h2><p class=\"e-paragraph-base e-default-p\">Open framing transformed into completed walls, ceilings and flooring.</p><a class=\"e-paragraph-base\" href=\"https://vitaliiv1.sg-host.com/projects/restoring-elegance-water-damage-reconstruction-of-a-wonder-lake-residence/\">View project <span aria-hidden=\"true\">→</span></a></div></article>",
+          "name": "wpgb-block-10",
+          "css_variable": true
+        },
+        "conditions": {
+          "0": {
+            "0": {
+              "key": "post_id",
+              "value": "1199",
+              "compare": "=="
+            },
+            "relation": "AND"
+          },
+          "relation": "OR"
+        },
+        "style": {
+          "idle": [],
+          "hover": [],
+          "focus": [],
+          "active": []
+        }
+      },
+      "wpgb-block-11": {
+        "content": {
+          "source": "raw_content_block",
+          "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Kitchen Restoration — Wonder Lake, IL</h2><p class=\"e-paragraph-base e-default-p\">Exposed framing restored to a kitchen with finished cabinetry and countertops.</p><a class=\"e-paragraph-base\" href=\"https://vitaliiv1.sg-host.com/projects/restoring-elegance-water-damage-reconstruction-of-a-wonder-lake-residence/\">View project <span aria-hidden=\"true\">→</span></a></div></article>",
+          "name": "wpgb-block-11",
+          "css_variable": true
+        },
+        "conditions": {
+          "0": {
+            "0": {
+              "key": "post_id",
+              "value": "1201",
+              "compare": "=="
+            },
+            "relation": "AND"
+          },
+          "relation": "OR"
+        },
+        "style": {
+          "idle": [],
+          "hover": [],
+          "focus": [],
+          "active": []
+        }
+      },
+      "wpgb-block-12": {
+        "content": {
+          "source": "raw_content_block",
+          "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Fireplace Room Restoration — Wonder Lake, IL</h2><p class=\"e-paragraph-base e-default-p\">An unfinished fireplace room restored with stone finishes, flooring and painted walls.</p><a class=\"e-paragraph-base\" href=\"https://vitaliiv1.sg-host.com/projects/restoring-elegance-water-damage-reconstruction-of-a-wonder-lake-residence/\">View project <span aria-hidden=\"true\">→</span></a></div></article>",
+          "name": "wpgb-block-12",
+          "css_variable": true
+        },
+        "conditions": {
+          "0": {
+            "0": {
+              "key": "post_id",
+              "value": "1204",
+              "compare": "=="
+            },
+            "relation": "AND"
+          },
+          "relation": "OR"
+        },
+        "style": {
+          "idle": [],
+          "hover": [],
+          "focus": [],
+          "active": []
+        }
+      },
+      "wpgb-block-13": {
+        "content": {
+          "source": "raw_content_block",
+          "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Living Room Renovation</h2><p class=\"e-paragraph-base e-default-p\">A living room updated with lighter finishes, flooring and an open layout around the brick fireplace.</p></div></article>",
+          "name": "wpgb-block-13",
+          "css_variable": true
+        },
+        "conditions": {
+          "0": {
+            "0": {
+              "key": "post_id",
+              "value": "1210",
+              "compare": "=="
+            },
+            "relation": "AND"
+          },
+          "relation": "OR"
+        },
+        "style": {
+          "idle": [],
+          "hover": [],
+          "focus": [],
+          "active": []
+        }
+      },
+      "wpgb-block-14": {
+        "content": {
+          "source": "raw_content_block",
+          "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Kitchen Restoration</h2><p class=\"e-paragraph-base e-default-p\">A kitchen restored with white cabinetry, countertops and finished flooring.</p></div></article>",
+          "name": "wpgb-block-14",
+          "css_variable": true
+        },
+        "conditions": {
+          "0": {
+            "0": {
+              "key": "post_id",
+              "value": "1245",
+              "compare": "=="
+            },
+            "relation": "AND"
+          },
+          "relation": "OR"
+        },
+        "style": {
+          "idle": [],
+          "hover": [],
+          "focus": [],
+          "active": []
+        }
+      },
+      "wpgb-block-15": {
+        "content": {
+          "source": "raw_content_block",
+          "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Kitchen Reconstruction — Oak Park, IL</h2><p class=\"e-paragraph-base e-default-p\">A kitchen reconstructed with wood-tone cabinetry, white countertops and updated flooring.</p></div></article>",
+          "name": "wpgb-block-15",
+          "css_variable": true
+        },
+        "conditions": {
+          "0": {
+            "0": {
+              "key": "post_id",
+              "value": "1591",
+              "compare": "=="
+            },
+            "relation": "AND"
+          },
+          "relation": "OR"
+        },
+        "style": {
+          "idle": [],
+          "hover": [],
+          "focus": [],
+          "active": []
+        }
+      },
+      "wpgb-block-16": {
+        "content": {
+          "source": "raw_content_block",
+          "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Bathroom Reconstruction — Oak Brook, IL</h2><p class=\"e-paragraph-base e-default-p\">A bathroom reconstructed with a glass shower enclosure, wall-mounted vanity and updated finishes.</p></div></article>",
+          "name": "wpgb-block-16",
+          "css_variable": true
+        },
+        "conditions": {
+          "0": {
+            "0": {
+              "key": "post_id",
+              "value": "1595",
+              "compare": "=="
+            },
+            "relation": "AND"
+          },
+          "relation": "OR"
+        },
+        "style": {
+          "idle": [],
+          "hover": [],
+          "focus": [],
+          "active": []
+        }
+      },
+      "wpgb-block-17": {
+        "content": {
+          "source": "raw_content_block",
+          "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Living Room Water Damage Restoration — Glenview, IL</h2><p class=\"e-paragraph-base e-default-p\">A damaged living-room ceiling and fireplace area before and after restoration.</p></div></article>",
+          "name": "wpgb-block-17",
+          "css_variable": true
+        },
+        "conditions": {
+          "0": {
+            "0": {
+              "key": "post_id",
+              "value": "2189",
+              "compare": "=="
+            },
+            "relation": "AND"
+          },
+          "relation": "OR"
+        },
+        "style": {
+          "idle": [],
+          "hover": [],
+          "focus": [],
+          "active": []
+        }
+      },
+      "wpgb-block-18": {
+        "content": {
+          "source": "raw_content_block",
+          "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Kitchen Reconstruction — Wonder Lake, IL</h2><p class=\"e-paragraph-base e-default-p\">Exposed kitchen framing rebuilt into a finished space with cabinetry and flooring.</p></div></article>",
+          "name": "wpgb-block-18",
+          "css_variable": true
+        },
+        "conditions": {
+          "0": {
+            "0": {
+              "key": "post_id",
+              "value": "2206",
+              "compare": "=="
+            },
+            "relation": "AND"
+          },
+          "relation": "OR"
+        },
+        "style": {
+          "idle": [],
+          "hover": [],
+          "focus": [],
+          "active": []
+        }
+      },
+      "wpgb-block-19": {
+        "content": {
+          "source": "raw_content_block",
+          "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Stairway Reconstruction — Wonder Lake, IL</h2><p class=\"e-paragraph-base e-default-p\">Open framing around the stairs and landing rebuilt with finished walls and trim.</p></div></article>",
+          "name": "wpgb-block-19",
+          "css_variable": true
+        },
+        "conditions": {
+          "0": {
+            "0": {
+              "key": "post_id",
+              "value": "2213",
+              "compare": "=="
+            },
+            "relation": "AND"
+          },
+          "relation": "OR"
+        },
+        "style": {
+          "idle": [],
+          "hover": [],
+          "focus": [],
+          "active": []
+        }
+      },
+      "wpgb-block-20": {
+        "content": {
+          "source": "raw_content_block",
+          "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Bedroom Renovation</h2><p class=\"e-paragraph-base e-default-p\">An empty bedroom updated with finished closets, trim and lighting.</p></div></article>",
+          "name": "wpgb-block-20",
+          "css_variable": true
+        },
+        "conditions": {
+          "0": {
+            "0": {
+              "key": "post_id",
+              "value": "2219",
+              "compare": "=="
+            },
+            "relation": "AND"
+          },
+          "relation": "OR"
+        },
+        "style": {
+          "idle": [],
+          "hover": [],
+          "focus": [],
+          "active": []
+        }
+      },
+      "wpgb-block-21": {
+        "content": {
+          "source": "raw_content_block",
+          "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Club Room Renovation (Window View)</h2><p class=\"e-paragraph-base e-default-p\">A club room updated with new flooring, wall finishes and an open ceiling.</p></div></article>",
+          "name": "wpgb-block-21",
+          "css_variable": true
+        },
+        "conditions": {
+          "0": {
+            "0": {
+              "key": "post_id",
+              "value": "1202",
+              "compare": "=="
+            },
+            "relation": "AND"
+          },
+          "relation": "OR"
+        },
+        "style": {
+          "idle": [],
+          "hover": [],
+          "focus": [],
+          "active": []
+        }
+      },
+      "wpgb-block-22": {
+        "content": {
+          "source": "raw_content_block",
+          "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Club Room Renovation (Door View)</h2><p class=\"e-paragraph-base e-default-p\">Another view of the club room with updated flooring, wall finishes and lighting.</p></div></article>",
+          "name": "wpgb-block-22",
+          "css_variable": true
+        },
+        "conditions": {
+          "0": {
+            "0": {
+              "key": "post_id",
+              "value": "1203",
+              "compare": "=="
+            },
+            "relation": "AND"
+          },
+          "relation": "OR"
+        },
+        "style": {
+          "idle": [],
+          "hover": [],
+          "focus": [],
+          "active": []
+        }
+      },
+      "wpgb-block-23": {
+        "content": {
+          "source": "raw_content_block",
+          "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Commercial Entrance Renovation</h2><p class=\"e-paragraph-base e-default-p\">A commercial entrance updated with white framing, dark doors and finished flooring.</p></div></article>",
+          "name": "wpgb-block-23",
+          "css_variable": true
+        },
+        "conditions": {
+          "0": {
+            "0": {
+              "key": "post_id",
+              "value": "1209",
+              "compare": "=="
+            },
+            "relation": "AND"
+          },
+          "relation": "OR"
+        },
+        "style": {
+          "idle": [],
+          "hover": [],
+          "focus": [],
+          "active": []
+        }
+      },
+      "wpgb-block-24": {
+        "content": {
+          "source": "raw_content_block",
+          "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Attic Mold Removal — Lombard, IL</h2><p class=\"e-paragraph-base e-default-p\">Attic roof sheathing and framing shown before and after mold removal.</p></div></article>",
+          "name": "wpgb-block-24",
+          "css_variable": true
+        },
+        "conditions": {
+          "0": {
+            "0": {
+              "key": "post_id",
+              "value": "1596",
+              "compare": "=="
+            },
+            "relation": "AND"
+          },
+          "relation": "OR"
+        },
+        "style": {
+          "idle": [],
+          "hover": [],
+          "focus": [],
+          "active": []
+        }
+      },
+      "wpgb-block-25": {
+        "content": {
+          "source": "raw_content_block",
+          "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Exterior Masonry Repair</h2><p class=\"e-paragraph-base e-default-p\">Damaged brick parapet rebuilt with matching brickwork and finished coping.</p></div></article>",
+          "name": "wpgb-block-25",
+          "css_variable": true
+        },
+        "conditions": {
+          "0": {
+            "0": {
+              "key": "post_id",
+              "value": "1597",
+              "compare": "=="
+            },
+            "relation": "AND"
+          },
+          "relation": "OR"
+        },
+        "style": {
+          "idle": [],
+          "hover": [],
+          "focus": [],
+          "active": []
+        }
+      },
+      "wpgb-block-26": {
+        "content": {
+          "source": "raw_content_block",
+          "raw_content": "<article class=\"ba-card e-con e-atomic-element e-div-block-base\"><div>[bafg id=\"{{post_id}}\"]</div><div class=\"ba-card__caption e-con e-atomic-element e-div-block-base\"><h2 class=\"ba-card__title e-heading-base e-default-h3\">Window Mold Removal</h2><p class=\"e-paragraph-base e-default-p\">Window frame and sill before and after mold removal.</p></div></article>",
+          "name": "wpgb-block-26",
+          "css_variable": true
+        },
+        "conditions": {
+          "0": {
+            "0": {
+              "key": "post_id",
+              "value": "2202",
+              "compare": "=="
+            },
+            "relation": "AND"
+          },
+          "relation": "OR"
+        },
+        "style": {
+          "idle": [],
+          "hover": [],
+          "focus": [],
+          "active": []
+        }
+      }
+    },
+    "layers": {
+      "wpgb-card-inner": {
+        "lock": []
+      },
+      "wpgb-card-content": {
+        "lock": []
+      },
+      "wpgb-card-body": {
+        "lock": []
+      }
+    }
+  }
+}

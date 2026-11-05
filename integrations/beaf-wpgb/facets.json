@@ -1,0 +1,149 @@
+[
+  {
+    "id": "7",
+    "name": "BEAF Prototype - Service",
+    "type": "select",
+    "settings": {
+      "name": "BEAF Prototype - Service",
+      "title": "",
+      "slug": "gcpro_ba_service",
+      "action": "filter",
+      "filter_type": "select",
+      "source": "taxonomy",
+      "include": [
+        "45",
+        "46",
+        "47",
+        "48"
+      ],
+      "exclude": [],
+      "depth": "",
+      "child_of": "",
+      "parent": "",
+      "hierarchical": false,
+      "children": true,
+      "show_empty": false,
+      "show_count": false,
+      "current_terms": false,
+      "logic": "AND",
+      "limit": 99,
+      "orderby": "name",
+      "order": "ASC",
+      "combobox": false,
+      "multiple": false,
+      "select_placeholder": "All services",
+      "actions": [],
+      "taxonomy": "bafg_gallery",
+      "field_type": "post"
+    }
+  },
+  {
+    "id": "8",
+    "name": "BEAF Prototype - Location",
+    "type": "select",
+    "settings": {
+      "name": "BEAF Prototype - Location",
+      "title": "",
+      "slug": "gcpro_ba_location",
+      "action": "filter",
+      "filter_type": "select",
+      "source": "taxonomy",
+      "include": [
+        "49",
+        "50",
+        "51",
+        "52",
+        "53",
+        "54"
+      ],
+      "exclude": [],
+      "depth": "",
+      "child_of": "",
+      "parent": "",
+      "hierarchical": false,
+      "children": true,
+      "show_empty": false,
+      "show_count": false,
+      "current_terms": false,
+      "logic": "AND",
+      "limit": 99,
+      "orderby": "name",
+      "order": "ASC",
+      "combobox": false,
+      "multiple": false,
+      "select_placeholder": "All locations",
+      "actions": [],
+      "taxonomy": "bafg_gallery",
+      "field_type": "post"
+    }
+  },
+  {
+    "id": "9",
+    "name": "BEAF Prototype - Property Type",
+    "type": "select",
+    "settings": {
+      "name": "BEAF Prototype - Property Type",
+      "title": "",
+      "slug": "gcpro_ba_property",
+      "action": "filter",
+      "filter_type": "select",
+      "source": "taxonomy",
+      "include": [
+        "55",
+        "56"
+      ],
+      "exclude": [],
+      "depth": "",
+      "child_of": "",
+      "parent": "",
+      "hierarchical": false,
+      "children": true,
+      "show_empty": false,
+      "show_count": false,
+      "current_terms": false,
+      "logic": "AND",
+      "limit": 99,
+      "orderby": "name",
+      "order": "ASC",
+      "combobox": false,
+      "multiple": false,
+      "select_placeholder": "All property types",
+      "actions": [],
+      "taxonomy": "bafg_gallery",
+      "field_type": "post"
+    }
+  },
+  {
+    "id": "10",
+    "name": "BEAF Prototype - Clear filters",
+    "type": "reset",
+    "settings": {
+      "name": "BEAF Prototype - Clear filters",
+      "slug": "gcpro_ba_reset",
+      "title": "",
+      "action": "reset",
+      "reset_label": "Clear filters",
+      "reset_facet": []
+    }
+  },
+  {
+    "id": "11",
+    "name": "BEAF Prototype - Load more",
+    "type": "load_more",
+    "settings": {
+      "name": "BEAF Prototype - Load more",
+      "title": "",
+      "slug": "gcpro_ba_more",
+      "action": "load",
+      "load_type": "load_more",
+      "load_posts_number": 9,
+      "load_more_event": "onclick",
+      "load_more_remain": false,
+      "load_more_text": "Load more projects",
+      "loading_text": "Loading projects...",
+      "actions": [],
+      "source": "metadata",
+      "field_type": "post"
+    }
+  }
+]

@@ -2,7 +2,7 @@
 /**
  * Plugin Name: GCPRO Atomic Masked Image
  * Description: Independently editable photo and SVG mask for Elementor Atomic.
- * Version: 0.4.5
+ * Version: 0.4.6
  * Requires Plugins: elementor
  */
 if ( ! defined( 'ABSPATH' ) ) { exit; }
@@ -30,6 +30,41 @@ add_filter( 'wp_grid_builder/facet/query_string', static function ( $params, $gr
 	}
 	return $params;
 }, 10, 3 );
+
+
+// Keep WPGB's native button and AJAX behavior; reuse the site's existing button class.
+add_filter( 'wp_grid_builder/facet/html', static function ( $html ) {
+	$tags = new WP_HTML_Tag_Processor( $html );
+	while ( $tags->next_tag( [ 'tag_name' => 'BUTTON', 'class_name' => 'wpgb-load-more' ] ) ) {
+		$tags->add_class( 'button-outline' );
+	}
+	return $tags->get_updated_html();
+} );
+
+// Render the current shared class through Elementor, without a copied button stylesheet.
+add_action( 'wp_enqueue_scripts', static function () {
+	if ( is_admin() ) {
+		return;
+	}
+	$repository = '\Elementor\Modules\GlobalClasses\Global_Classes_Repository';
+	$renderer = '\Elementor\Modules\AtomicWidgets\Styles\Styles_Renderer';
+	if ( ! class_exists( $repository ) || ! class_exists( $renderer ) ) {
+		return;
+	}
+	$classes = $repository::make()->get_by_ids( [ 'g-b5f3969' ] );
+	$style = $classes['g-b5f3969'] ?? null;
+	if ( ! $style ) {
+		return;
+	}
+	// Extra specificity prevents plugin reset/default styles from replacing the shared class.
+	$style['id'] = 'button-outline';
+	$style['cssName'] = 'wpgb-facet button.wpgb-load-more.button-outline';
+	$css = $renderer::make( \Elementor\Plugin::$instance->breakpoints->get_breakpoints_config() )
+		->render( [ $style ] );
+	wp_register_style( 'gcpro-wpgb-button-class', false );
+	wp_enqueue_style( 'gcpro-wpgb-button-class' );
+	wp_add_inline_style( 'gcpro-wpgb-button-class', $css );
+}, 99 );
 
 add_action( 'elementor/widgets/register', static function ( $manager ) {
 	if ( ! class_exists( '\Elementor\Modules\AtomicWidgets\Elements\Base\Atomic_Widget_Base' ) ) { return; }

@@ -1,5 +1,10 @@
 # Custom code and dependency register
 
+## Before/After WPGB bridge and shared Load More class — 2026-11-05
+
+Grid1 Advanced JS/CSS are the sole owners of the approved BEAF initialization/keyboard/fullscreen compatibility and scoped gallery presentation; [source mirrors](../integrations/beaf-wpgb) are not enqueued separately. Page493 and draft4352 reuse Grid1/Card1/facets7–11. Existing integration plugin0.4.6 connects every native WPGB Load More button to existing Global Class g-b5f3969 via native facet HTML and Elementor style rendering; generated handle `gcpro-wpgb-button-class` contains only a WPGB-scoped rendering of that current class, no independent design values. No vendor/plugin replacement or shared-class-definition edit. [Exact owners, dependencies, checks, limitations and rollback](components/before-after.md#2026-11-05--approved-wp-grid-builder-gallery-and-refinements).
+
+
 ## Interactive Card68 centralized states — 2026-11-03
 
 Supersedes Downers Grove page-local grid46bb8f70 interaction ownership. Existing Component68 root7439764a/local style e-626f0ff1-dd68 is the sole owner of approved lift/shadow/focus/pressed/reduced-motion/pointer rules;66 direct instances on11 GEO pages inherit it. No global project-summary edit. Native shadow conversion appended invalid currentColor to color-mix; preserved component-local Custom CSS holds those state rules and media query.527 duplicate removed;528 has no per-page card interaction CSS. [Scope and checks](seo/2026-10-26-geographic-implementation.md#highland-park-finalization-and-shared-interactive-card68--2026-11-03).

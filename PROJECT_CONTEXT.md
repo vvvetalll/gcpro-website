@@ -809,6 +809,8 @@ No production migration, SEO redirects, launch, or deployment is authorized by t
 
 ## Evidence register
 
+**2026-11-05 — staging Before/After493:** owner-approved Grid1/Card1/facets7–11 deployed; original26 content entries preserved,9→18→26/native filtering/keyboard/mouse/touch checked. All26 fullscreen controls present, equal-row heights and390px overflow checked. Native Load More on Before/After and Projects inherits global button class via existing integration0.4.6; Projects9→18 verified. Direct guest403 remains a verification limit. [Current owners and recovery](docs/components/before-after.md#2026-11-05--approved-wp-grid-builder-gallery-and-refinements).
+
 **2026-11-01 — staging internal BA Hero:** MCP saved1318 comparison-only Style changes in1f285aa6/6582e65b; seven page instances and Homepage Hero unchanged. Actual Chrome1440/768/393px, scale1:21/21 containment/alignment checks; Water pointer drag/fullscreen return and Commercial photo control passed. Anonymous/physical-device checks not performed. [Authoritative record and recovery](docs/components/shared-hero.md#current-internal-beforeafter-sizing--2026-11-01).
 
 

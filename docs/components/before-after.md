@@ -1,5 +1,38 @@
 # Before / After
 
+## 2026-11-05 — Approved WP Grid Builder gallery and refinements
+
+Owner approved the isolated prototype, the BEAF AJAX/keyboard bridge, then deployment to the existing main staging page. Page493 `/before-and-after/` is published; only gallery section1ad8810d was replaced. Original Hero1c1a1b2e/3421, URL, header and footer remain. Draft4352 is retained as the review reference. Production untouched.
+
+### Native owners and editing
+
+- WP Grid Builder Grid1/Card1 (names retain “Prototype”); facets7 Service,8 Location,9 Property Type,10 Reset,11 Load More. Native filter widgets reuse Projects Styles1/2/3 and the existing filter-panel structure. Wrapper ba435202 owns the existing container/stack; shortcode ba435201 renders `[wpgb_grid id="1"]`. No filtering plugin or custom filtering engine added.
+- Grid1 queries only the original26 `bafg` IDs in original order,9 per load. Three columns desktop, two at1024, one at600; native equal_columns and fit_rows plus scoped body/article stretching keep each row level without fixed text heights. Native no-results message and Load More remain the behavior owners.
+- Card1 uses26 native post-ID conditional HTML blocks, retaining each original title, description and five existing project links. Each block renders the original `[bafg id="{{post_id}}"]` and ba-card/caption/title markup. Edit a caption in its matching conditional block; do not duplicate the gallery or modify unrelated BEAF records.
+- Taxonomy `bafg_gallery` now holds Service45–48, known Location49–54 and Property55–56. Services: Fire Restoration7, Residential Reconstruction13, Commercial Renovations3, Mold Removal & Exterior Repair3. Known cities: Tinley Park7, Wonder Lake5, Oak Park1, Oak Brook1, Glenview1, Lombard1. Property assignments: Residential13, Commercial3. Ten unknown locations and ten unknown property types remain unassigned; no invented metadata.
+- Final refinements: visible filter headings removed while accessible native legends remain; card headings18px; visual result counter hidden while its aria-live status remains; all26 native sliders now expose fullscreen. Enabled previously disabled BEAF1600,2215,1591,1595,2189,2206,2213,2219,1596,1597,2202 via their native Full Screen View controls. This setting follows those records wherever reused; photos, captions and other slider settings were preserved.
+
+### Approved compatibility code
+
+Sole gallery code owners: Grid1 Advanced JavaScript/CSS. Source mirrors and sanitized native configurations: [integrations/beaf-wpgb](../../integrations/beaf-wpgb). Mirrors are not an extra enqueue. JS initializes missing BEAF sliders after native WPGB appended events, preserves mouse/touch, adds keyboard values/focus, refreshes native layout after images, and preserves fullscreen handlers. A filtered initial page without an existing fullscreen handler uses the installed BEAF popup endpoint as fallback, with dialog keyboard handling. CSS addresses plugin resets,4:3 image presentation, captions and equal-row stretching. No vendor files changed.
+
+WPGB's query UI does not expose nonpublic `bafg`; native WPGB REST settings do support it and were verified. Do not overwrite Grid1 Query settings through the misleading Any/None UI. Use the recorded exact IDs/native configuration. Imported API strings may be HTML-encoded; JS/CSS mirrors are decoded source.
+
+### Shared Load More styling
+
+Owner separately approved connecting native WPGB buttons to the site's shared class. Existing integration plugin `gcpro-atomic-masked-image.php`0.4.6 adds `button-outline` via the documented `wp_grid_builder/facet/html` filter on initial render and AJAX. Elementor's current Global Class g-b5f3969 is rendered through its native Styles_Renderer under a WPGB-only selector. No copied color/animation definitions or replacement buttons; future edits to the global class are read on each request. The narrow generated stylesheet handle is `gcpro-wpgb-button-class`; existing WPGB Style2 remains a fallback. Shared class/component definitions themselves were not changed. This compatibility layer depends on Elementor's current internal global-class/renderer APIs and should be retested on major Elementor upgrades.
+
+### Checks and limits
+
+Authenticated staging browser: exact26 original captions, links, image sources and alt text compared; native9→18→26 with26 initialized handles and26 fullscreen buttons; newly enabled2202 popup opens with both images loaded and a working handle. Equal article heights confirmed in all three initial desktop rows. Native filters, combined filters, clear and empty results checked; keyboard arrows/Home/End, mouse and emulated touch checked. Desktop1440/tablet768/mobile390 (also360 earlier) had expected columns/no horizontal overflow. Latest390 check:375px client/scroll width,52.5px Load More target, Enter9→18 with18 sliders/fullscreen controls. Projects native Load More9→18 and shared-class persistence verified. Shared fill reaches scaleX(1), navy background/white text under keyboard focus; native CSS includes hover and reduced-motion behavior. Blog/resources pages inspected had no Load More button to update. Main Hero and original Projects structure/Card2233/facets1–5 were compared unchanged before the separately approved shared-button integration.
+
+Anonymous direct HTTP returned403 during this task, so authenticated results do not certify guest delivery. No security settings changed. No physical-device testing; vendor-native popup close accessibility was not comprehensively changed/tested (the fallback dialog was). Native Elementor save regenerated main output; no blanket cache purge. Earlier rejected editor paste was not applied; final plugin save and exact source readback passed WordPress validation.
+
+### Recovery and task state
+
+Private pre-edit Page493, Grid/Card/facet and11 fullscreen-setting snapshots stay outside Git in `work/ba-gallery-prototype`. Restore only Page493's prior gallery section to reverse the layout; keep Hero/header/footer. Remove Grid1 field code only when reverting its grid usage. Restore the11 native fullscreen toggles if requested. Restore integration0.4.5 to remove shared-button hookup; no class-definition rollback is needed. Taxonomy associations/configurations may remain for reuse; remove only task-added associations if explicitly requested. Current staging deployment is saved/published and browser-tested within the limits above; owner final visual acceptance remains.
+
+
 ## 2026-10-30 — Missing presentation-owner recovery
 
 Owner reported blank white hover labels. Actual plugin output supplied white text/white label backgrounds and mid-image positioning; the existing native Site Settings Kit6 Custom CSS field was empty. Restored only the existing `integrations/beaf-presentation.css` mirror to that same native owner, Save Changes completed. After frontend reload, computed label background `rgba(0,0,0,.6)`, white text and top10px confirmed on Home. Existing fullscreen-button presentation restored by the same bounded block. Plugin files,26 integrations and slider records untouched. Cause of the field becoming empty is unknown; no author attribution. Full popup/mobile regression and the separately reported older card appearance remain pending.

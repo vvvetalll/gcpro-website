@@ -1,5 +1,9 @@
 # GCPRO changelog
 
+## Before/After native filtering and shared button style — 2026-11-05
+
+Deployed owner-approved WPGB prototype to existing staging Page493, preserving all26 comparisons and existing captions/links. Added native facets/Load More with scoped BEAF AJAX/keyboard compatibility; refined labels,18px headings, equal-height rows and fullscreen on all26 sliders. Native WPGB Load More now reuses the current global button-outline class sitewide through existing integration0.4.6. [Owners, actual tests and rollback](docs/components/before-after.md#2026-11-05--approved-wp-grid-builder-gallery-and-refinements). Authenticated verification only; direct anonymous request403, production untouched.
+
 ## Service Areas map link underline — 2026-11-05
 
 Fixed the selected-city footer link in existing staging Custom Code4134: underline only its text span, keep the orange aria-hidden arrow undecorated. Scoped map CSS/markup and rebuilt artifact only; JS, destinations and focus rules unchanged. Verified390px touch selection/appearance/no overflow and1440px desktop layout/mouse behavior. Documentation includes exact scope, keyboard-testing limitation and rollback. [Details](docs/components/service-areas.md#selected-city-link-underline--2026-11-05).

@@ -1,0 +1,151 @@
+{
+  "id": "1",
+  "name": "GCPRO Before After — Prototype",
+  "type": "masonry",
+  "settings": {
+    "name": "GCPRO Before After — Prototype",
+    "source": "post_type",
+    "posts_per_page": 9,
+    "offset": 0,
+    "post_order": [
+      {
+        "orderby": "post__in",
+        "order": "ASC"
+      }
+    ],
+    "post_type": [
+      "bafg"
+    ],
+    "post_status": [
+      "publish"
+    ],
+    "author__in": [],
+    "post__in": [
+      "1200",
+      "1205",
+      "1206",
+      "1207",
+      "1208",
+      "1600",
+      "2215",
+      "1165",
+      "1198",
+      "1199",
+      "1201",
+      "1204",
+      "1210",
+      "1245",
+      "1591",
+      "1595",
+      "2189",
+      "2206",
+      "2213",
+      "2219",
+      "1202",
+      "1203",
+      "1209",
+      "1596",
+      "1597",
+      "2202"
+    ],
+    "post__not_in": [],
+    "ignore_sticky_posts": false,
+    "tax_query_clauses": [],
+    "meta_query_clauses": [],
+    "type": "masonry",
+    "full_width": false,
+    "horizontal_order": false,
+    "fit_rows": true,
+    "equal_columns": true,
+    "card_sizes": [
+      {
+        "browser": 9999,
+        "columns": 3,
+        "height": 240,
+        "gutter": 30,
+        "ratio": {
+          "x": 4,
+          "y": 3
+        }
+      },
+      {
+        "browser": 1024,
+        "columns": 2,
+        "height": 200,
+        "gutter": 24,
+        "ratio": {
+          "x": 4,
+          "y": 3
+        }
+      },
+      {
+        "browser": 600,
+        "columns": 1,
+        "height": 200,
+        "gutter": 24,
+        "ratio": {
+          "x": 4,
+          "y": 3
+        }
+      }
+    ],
+    "grid_layout": [],
+    "carousel": false,
+    "slide_align": "left",
+    "initial_index": 0,
+    "group_cells": 1,
+    "auto_play": 0,
+    "contain": false,
+    "prev_next_buttons_color": "#333333",
+    "prev_next_buttons_background": "",
+    "page_dots_color": "#cccccc",
+    "page_dots_selected_color": "#333333",
+    "prev_next_buttons_size": "48px",
+    "draggable": true,
+    "free_scroll": false,
+    "attraction": "0.025",
+    "friction": "0.285",
+    "card_types": [
+      {
+        "card": "1"
+      }
+    ],
+    "animation": "",
+    "timing_function": "ease",
+    "transition": 700,
+    "transition_delay": 100,
+    "loader_type": "",
+    "content_background": "",
+    "content_color_scheme": "",
+    "overlay_background": "",
+    "overlay_color_scheme": "",
+    "post_formats": [
+      "gallery",
+      "video",
+      "audio"
+    ],
+    "first_media": false,
+    "gallery_slideshow": false,
+    "embedded_video_poster": false,
+    "video_lightbox": false,
+    "thumbnail_size": "medium_large",
+    "thumbnail_size_mobile": "medium_large",
+    "default_thumbnail": 0,
+    "lazy_load": false,
+    "no_posts_msg": "No comparisons are available.",
+    "no_results_msg": "No comparisons match your filters. Clear filters to see all projects.",
+    "class": "",
+    "custom_css": "See presentation.css (single live owner: Grid 1 Advanced field).",
+    "custom_js": "See bridge.js (single live owner: Grid 1 Advanced field).",
+    "order": "DESC",
+    "thumbnail_aspect": false,
+    "override_card_sizes": false,
+    "layout": "vertical",
+    "loader": false,
+    "slug": "",
+    "orderby": [],
+    "cards": {
+      "default": "1"
+    }
+  }
+}
