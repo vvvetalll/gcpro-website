@@ -8,7 +8,7 @@ from PIL import Image,ImageOps,ImageChops,ImageDraw
 HERE=Path(__file__).resolve().parent
 MARKETING=HERE.parents[1]
 SOURCE=HERE.parent/'2026-11-06-pm-trifold-corridor-photo/GCPRO-PM-Trifold-CORRIDOR-PHOTO-REVIEW.pdf'
-PHOTO=HERE/'assets/commercial-water-loss.jpg'
+PHOTO=HERE/'assets/gcpro-man-office2.jpg'
 COPY=json.loads((HERE/'copy.json').read_text(encoding='utf-8'))
 FONTDIR=MARKETING/'source/01_Brand_System/fonts'
 CACHE=HERE/'.cache';CACHE.mkdir(exist_ok=True)
@@ -69,10 +69,27 @@ for pi,key,coords,leading in zones:
     if line:lines.append(line)
     end=y+(len(lines)-1)*leading-size*metrics.descender
     if end>coords[3]+.5:overflows.append((key,len(lines),round(end,2),coords[3],lines))
+    if pi==0 and key.startswith('outer_') and key!='outer_heading':
+        row=int(key.rsplit('_',1)[1])-1
+        bounds=[(278.25,330.75),(331.5,372),(372.75,413.25),(414,454.5),(455.25,495.75),(496.5,537)][row]
+        center=sum(bounds)/2
+        y=center-(len(lines)-1)*leading/2+size*(metrics.ascender+metrics.descender)/2
     layout.append({'page':pi,'key':key,'rect':list(coords),'origin':[x,y],'font':name,'size':size,'color':first['color'],'leading':leading,'lines':lines})
     doc[pi].add_redact_annot(rect,fill=None)
 
 assert not overflows,('Copy too long at original type size',overflows)
+number_boxes=[];numbers=[]
+for item in layout:
+    if item['page']==0 and item['key'].startswith('outer_') and item['key']!='outer_heading':
+        n=int(item['key'].rsplit('_',1)[1]);label=f'{n:02d}'
+        source=next(s for s in source_spans[0] if s['text']==label and s['origin'][0]<40)
+        x0,y0,x1,y1=item['rect'];box=fitz.Rect(31,y0,61,y1)
+        number_boxes.append(box);doc[0].add_redact_annot(box,fill=None)
+        text_font=fonts[item['font']];size=item['size'];first_y=item['origin'][1]
+        center=first_y+(len(item['lines'])-1)*item['leading']/2-size*(text_font.ascender+text_font.descender)/2
+        num_font=fonts['MontserratThin-ExtraBold'];num_size=source['size']
+        baseline=center+num_size*(num_font.ascender+num_font.descender)/2
+        numbers.append((source['origin'][0],baseline,label,num_size,source['color']))
 for p in doc:p.apply_redactions(images=0,graphics=0,text=0)
 for name,alias in aliases.items():
     for p in doc:p.insert_font(fontname=alias,fontfile=str(CACHE/(fontfiles[name]+'.ttf')))
@@ -80,17 +97,30 @@ for item in layout:
     p=doc[item['page']];x,y=item['origin']
     for i,line in enumerate(item['lines']):
         p.insert_text((x,y+i*item['leading']),line,fontname=aliases[item['font']],fontsize=item['size'],color=fitz.sRGB_to_pdf(item['color']))
+for x,y,label,size,color in numbers:
+    doc[0].insert_text((x,y),label,fontname=aliases['MontserratThin-ExtraBold'],fontsize=size,color=fitz.sRGB_to_pdf(color))
 
-# Place the supplied commercial flood photo in exactly the current cover frame.
+# Owner requested the supplied office photo above both named outer headings.
 p=doc[0]
 photos=[i[0] for i in p.get_images() if any(r.x0>530 and r.y0<0 and r.y1>290 for r in p.get_image_rects(i[0]))]
 assert len(photos)==1
-placement=p.get_image_rects(photos[0])[0]
-photo=ImageOps.exif_transpose(Image.open(PHOTO)).convert('RGB')
-ph=photo.height;pw=round(ph*placement.width/placement.height)
-photo=ImageOps.fit(photo,(pw,ph),method=Image.Resampling.LANCZOS,centering=(.58,.5))
-buf=io.BytesIO();photo.save(buf,format='JPEG',quality=97,subsampling=0)
-p.replace_image(photos[0],stream=buf.getvalue())
+flap=[i[0] for i in p.get_images() if any(abs(r.x0)<1 and r.y0<0 and r.width>250 for r in p.get_image_rects(i[0]))]
+assert len(flap)==1
+photo_dpi=[]
+for xref in [photos[0],flap[0]]:
+    placement=p.get_image_rects(xref)[0]
+    cover=xref==photos[0]
+    if cover:placement=fitz.Rect(535.5,0,810,291.75)
+    photo=ImageOps.exif_transpose(Image.open(PHOTO)).convert('RGB')
+    ph=photo.height;pw=round(ph*placement.width/placement.height)
+    photo=ImageOps.fit(photo,(pw,ph),method=Image.Resampling.LANCZOS,centering=(.48,.5))
+    buf=io.BytesIO();photo.save(buf,format='JPEG',quality=97,subsampling=0)
+    if cover:
+        p.add_redact_annot(placement,fill=None)
+        p.apply_redactions(images=1,graphics=0,text=0)
+        p.insert_image(placement,stream=buf.getvalue(),keep_proportion=False)
+    else:p.replace_image(xref,stream=buf.getvalue())
+    photo_dpi.append(round(ph/(placement.height/72)))
 for p in doc:
     # Preserve full bleed media/crop geometry; explicitly identify the existing trim.
     p.set_trimbox(fitz.Rect(9,9,801,621));p.set_bleedbox(fitz.Rect(0,0,810,630))
@@ -117,7 +147,10 @@ for pi in range(2):
     for item in layout:
         if item['page']==pi:
             r=item['rect'];draw.rectangle(((r[0]-2)*2,(r[1]-2)*2,(r[2]+2)*2,(r[3]+2)*2),fill=(0,0,0))
-    if pi==0:draw.rectangle((1069,0,1620,585),fill=(0,0,0))
+    if pi==0:
+        draw.rectangle((1069,0,1620,585),fill=(0,0,0))
+        draw.rectangle((0,0,541,359),fill=(0,0,0))
+        for r in number_boxes:draw.rectangle(((r.x0-2)*2,(r.y0-2)*2,(r.x1+2)*2,(r.y1+2)*2),fill=(0,0,0))
     assert diff.getbbox() is None,('Unexpected artwork change',pi)
     b.save(HERE/f'GCPRO-PM-Trifold-{["Outside","Inside"][pi]}-REVIEW.png')
     assert list(result[pi].mediabox)==[0,0,810,630]
@@ -127,7 +160,7 @@ result[0].get_pixmap(matrix=fitz.Matrix(2,2),clip=fitz.Rect(535.5,0,810,630)).sa
 (HERE/'layout.json').write_text(json.dumps(layout,indent=2)+'\n')
 checks={'pages':2,'copy_blocks':len(layout),'all_copy_fits_original_sizes':True,'all_copy_extracted_and_matched':True,
         'artwork_outside_edited_regions':'pixel-identical at 144 dpi','media_inches':[11.25,8.75],
-        'trim_inches':[11,8.5],'bleed_inches':.125,'photo_effective_dpi':round(ph/(placement.height/72)),
+        'trim_inches':[11,8.5],'bleed_inches':.125,'photo_effective_dpi_cover_flap':photo_dpi,'outer_list_alignment':'numbers and left-aligned text vertically centered within original row boundaries',
         'fonts_embedded':len(font_refs),'missing_embedded_fonts':missing_fonts,
         'source_sha256':hashlib.sha256(SOURCE.read_bytes()).hexdigest(),'output_sha256':hashlib.sha256(OUT.read_bytes()).hexdigest(),
         'photo_sha256':hashlib.sha256(PHOTO.read_bytes()).hexdigest(),'status':'REVIEW - approval pending; base release and ERP Flyer unchanged'}

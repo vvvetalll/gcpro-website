@@ -1,5 +1,7 @@
 # Messaging changes and verification notes
 
+Latest owner-requested correction: supplied office photo added above both named exterior headings; six numbered rows vertically centered, keeping text left-aligned. The current office image replaces the commercial flood image on the cover and the previous consultation image on the flap. Interior content, graphics, panel geometry and all messaging remain unchanged. Office photo: approximately 253 dpi on the cover and 410 dpi on the flap. Earlier flood-photo references below describe the first messaging revision.
+
 ## Changed
 
 - Practical water-loss entry point: leaks, flooded units, common areas, water extraction, structural drying and damage containment.

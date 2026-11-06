@@ -2,6 +2,8 @@
 
 Scope authorized by the owner: use the current **GCPRO-PM-Trifold-Corridor-Higher-Crop.pdf** layout; preserve its two-sided panel geometry, graphic design, typography, existing components, contacts and QR; shift the copy from disaster/liability messaging to **Water Mitigation First — Full Restoration When Needed**; restore the supplied commercial flood photo.
 
+**Latest owner follow-up:** replace the images above both named outer headings with `gcpro-man-office2.jpg`, and center the numbered list vertically. The original office JPEG is preserved in assets; it now fills the flap and cover photo frames with proportional crops. Numbers and left-aligned text are centered inside the original six row boundaries; separators and text-column x positions remain unchanged. The inside remains identical to the preceding messaging review. The initial commercial-flood asset is retained as history, not the current displayed photo.
+
 ## Current files
 
 - `GCPRO-PM-Trifold-Water-Mitigation-Messaging-REVIEW.pdf`: complete two-sided review.
@@ -21,8 +23,8 @@ The canonical October 20 HTML/CSS release is intentionally not overwritten while
 
 ## Design and verification
 
-All six outer numbered items, nine interior list items, three numbered restoration sections and five services remain in the same order and original text slots. Typefaces, point sizes, line spacing, colors and graphic elements remain inherited from the template. Wording was edited to fit these blocks. Existing approved cover heading and subtitle remain; only its photo is replaced. The photograph is proportionally cropped to the existing clipped frame.
+All six outer numbered items, nine interior list items, three numbered restoration sections and five services remain in the same order. Typefaces, point sizes, line spacing, colors and graphic elements remain inherited from the template. Wording was edited to fit the original blocks; the six exterior rows received owner-requested vertical centering. Existing approved cover heading and subtitle remain. The two outer photo frames use the new office photograph; their geometry is unchanged.
 
-Both sides were rendered and visually checked. Copy is extracted back and compared against `copy.json`; all slots fit at their original font sizes. At 144 dpi, artwork outside edited text/photo regions is pixel-identical to the current template. Media/Crop geometry remains 11.25 × 8.75 inches. TrimBox now explicitly identifies the existing 11 × 8.5 inch trim, with 0.125 inch bleed on each side. No new crop marks, guides or PDF/X/CMYK certification are implied. Source RGB color treatment remains unchanged. New cover-photo resolution is approximately 398 dpi in its placement.
+Both sides were rendered and visually checked. Copy is extracted back and compared against `copy.json`; all slots fit at their original font sizes. At 144 dpi, artwork outside edited text/photo/list-number regions is pixel-identical to the current template. Media/Crop geometry remains 11.25 × 8.75 inches. TrimBox explicitly identifies the existing 11 × 8.5 inch trim, with 0.125 inch bleed on each side. No new crop marks, guides or PDF/X/CMYK certification are implied. Source RGB color treatment remains unchanged. Current office-photo resolution is approximately 253 dpi on the cover and 410 dpi on the flap.
 
 Status: **REVIEW — AWAITING OWNER APPROVAL**. Save on a separate review branch; do not change `marketing/releases/2026-10-20`, `CURRENT_RELEASE.json` or the ERP Flyer. No approved base release is promoted by this work.

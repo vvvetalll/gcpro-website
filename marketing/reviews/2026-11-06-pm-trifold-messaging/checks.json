@@ -13,11 +13,15 @@
     8.5
   ],
   "bleed_inches": 0.125,
-  "photo_effective_dpi": 398,
-  "source_sha256": "606a6d09738e268c5d719d6f1df273ab313c634c1394ecb24b5556429deb794c",
-  "output_sha256": "c9d2c51adc9c606157b7569503fafc59c92755551d8af3f26c10121a29a7b79b",
-  "photo_sha256": "f45066b7fa99a4c7148ee10eaebe91d663b971239ba69b6f263e2b25db47e429",
-  "status": "REVIEW - approval pending; base release and ERP Flyer unchanged",
+  "photo_effective_dpi_cover_flap": [
+    253,
+    410
+  ],
+  "outer_list_alignment": "numbers and left-aligned text vertically centered within original row boundaries",
   "fonts_embedded": 12,
-  "missing_embedded_fonts": []
+  "missing_embedded_fonts": [],
+  "source_sha256": "606a6d09738e268c5d719d6f1df273ab313c634c1394ecb24b5556429deb794c",
+  "output_sha256": "85f60c2263f51c03ee76cbb65045c6fe5e5ebc33cc2483322e9d3e283e59e8df",
+  "photo_sha256": "fff47fcf551e9919aeeff1ce2f29b1c057a9e64ec3ee690feae21502f3424faa",
+  "status": "REVIEW - approval pending; base release and ERP Flyer unchanged"
 }
