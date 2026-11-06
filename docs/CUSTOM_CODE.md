@@ -1,5 +1,9 @@
 # Custom code and dependency register
 
+## Single2231 Primary Service SVG tag — 2026-11-06
+
+Existing `integrations/gcpro-atomic-masked-image/gcpro-atomic-masked-image.php`0.4.7 owns separate SVG Data_Tag `gcpro-project-hero-service-icon`, bound only to e-svg391017f8. Widget render guards require that exact element and document2231; unknown services produce empty markup. Uses existing taxonomy/AIOSEO selection and Media1438–1442 through Elementor's native SVG transformer. No changes to existing text tags, Masked Image, Trustindex, archive hooks or styling; no new dependencies. [Mappings, actual checks, limitations and rollback](components/projects-acf-prototype.md#2026-11-06--primary-service-svg-in-single-project-hero).
+
 ## Single2231 metadata empty-state selectors — 2026-11-05
 
 Only local Atomic styles of item wrappers6c84aa8/e-25e81c3b-24dd and723eba2a/e-7e8d97e5-3b67 contain `&:has(> .e-paragraph-base:empty) { display:none; }`; row7ff56d23/e-34479d48-64f2 hides when no nonempty paragraph exists. Necessary to omit decorative icons/gaps with missing dynamic data; native exposed controls cannot condition parent visibility on child text. Icon styles ef4e4e6/391017f8 retain `fill:currentColor` for the existing SVGs. No JS, global rules or Custom Code post; all other visual properties remain native. Restore only metadata subtree from private pre-change snapshot to roll back. [Task record](components/projects-acf-prototype.md#2026-11-05--inline-hero-metadata-refinement).

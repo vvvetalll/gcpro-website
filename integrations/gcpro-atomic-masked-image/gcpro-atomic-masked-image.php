@@ -2,7 +2,7 @@
 /**
  * Plugin Name: GCPRO Atomic Masked Image
  * Description: Independently editable photo and SVG mask for Elementor Atomic.
- * Version: 0.4.6
+ * Version: 0.4.7
  * Requires Plugins: elementor
  */
 if ( ! defined( 'ABSPATH' ) ) { exit; }
@@ -126,3 +126,52 @@ add_action( 'elementor/dynamic_tags/register', static function ( $manager ) {
 	$manager->register( new GCPRO_Project_Service_Tag() );
 	$manager->register( new GCPRO_Project_Location_Tag() );
 } );
+
+// Primary-service SVG is opt-in and renders only in Single Project2231 / 391017f8.
+add_action( 'elementor/dynamic_tags/register', static function ( $manager ) {
+	if ( ! class_exists( '\Elementor\Modules\AtomicWidgets\PropsResolver\Transformers\Svg_Src_Transformer' ) ) { return; }
+	class GCPRO_Project_Hero_Service_Icon_Tag extends \Elementor\Core\DynamicTags\Data_Tag {
+		private static $active = false;
+		public function get_name() { return 'gcpro-project-hero-service-icon'; }
+		public function get_title() { return 'Single Project Hero Primary Service Icon'; }
+		public function get_group() { return 'post'; }
+		public function get_categories() { return [ 'svg' ]; }
+		public static function begin_icon( $element ) {
+			if ( '391017f8' !== $element->get_id() || 'e-svg' !== $element->get_name() ) { return; }
+			$document = \Elementor\Plugin::$instance->documents->get_current();
+			self::$active = $document && 2231 === (int) $document->get_main_id();
+		}
+		public static function end_icon( $element ) {
+			if ( '391017f8' === $element->get_id() ) { self::$active = false; }
+		}
+		public function get_value( array $options = [] ) {
+			$empty = [ 'html' => '', 'url' => '' ];
+			if ( ! self::$active ) { return $empty; }
+			$id = get_the_ID();
+			if ( 'gcpro_project' !== get_post_type( $id ) ) { return $empty; }
+			$terms = get_the_terms( $id, 'project_service' );
+			if ( empty( $terms ) || is_wp_error( $terms ) ) { return $empty; }
+			// Match the existing text tag's selection policy without changing that tag.
+			$selected = null;
+			if ( class_exists( '\AIOSEO\Plugin\Common\Models\Post' ) ) {
+				$primary = \AIOSEO\Plugin\Common\Models\Post::getPost( $id )->primary_term;
+				$primary_id = is_object( $primary ) ? (int) ( $primary->project_service ?? 0 ) : 0;
+				foreach ( $terms as $term ) {
+					if ( $term->term_id === $primary_id ) { $selected = $term; break; }
+				}
+			}
+			if ( ! $selected && 1 === count( $terms ) ) { $selected = reset( $terms ); }
+			// Existing staging taxonomy IDs and approved Media Library SVGs only.
+			$icons = [ 18 => 1438, 17 => 1439, 20 => 1440, 19 => 1441, 21 => 1442 ];
+			$attachment = $selected ? ( $icons[ $selected->term_id ] ?? 0 ) : 0;
+			if ( ! $attachment || 'image/svg+xml' !== get_post_mime_type( $attachment ) ) { return $empty; }
+			return ( new \Elementor\Modules\AtomicWidgets\PropsResolver\Transformers\Svg_Src_Transformer() )->transform(
+				[ 'id' => $attachment ],
+				\Elementor\Modules\AtomicWidgets\PropsResolver\Props_Resolver_Context::make()
+			);
+		}
+	}
+	$manager->register( new GCPRO_Project_Hero_Service_Icon_Tag() );
+	add_action( 'elementor/frontend/widget/before_render', [ 'GCPRO_Project_Hero_Service_Icon_Tag', 'begin_icon' ] );
+	add_action( 'elementor/frontend/widget/after_render', [ 'GCPRO_Project_Hero_Service_Icon_Tag', 'end_icon' ] );
+}, 20 );
