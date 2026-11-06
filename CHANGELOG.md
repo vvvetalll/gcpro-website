@@ -1,5 +1,9 @@
 # GCPRO changelog
 
+## Current marketing files delivered — 2026-11-06
+
+Merged the owner-requested ERP final proofreading and corrected PM Trifold review sources into main. [Two current PDF updates](marketing/updates/2026-11-06/README.md) preserve the original kit filenames; CURRENT_RELEASE.json resolves them while retaining the October 20 baseline unchanged. PDFs were copied byte-identically from the verified versions; no website changes.
+
 ## Marketing knowledge and sources imported — 2026-11-05
 
 Added [marketing/](marketing/README.md) as the owner-designated starting point for future marketing work: exact supplied October 20 ready-kit structure, complete corresponding source project, design/print/logo rules, document/source catalog and workflow. No existing artwork was redesigned; current unapproved ERP/PM revisions and unrelated presentations/Thank You flyers are excluded. Imported files matched their sources and ready-kit inventory hashes; PDF forms contained no filled client values. A new render/build was not performed; historical build verification is retained with its original date. Website/staging/production were not changed.

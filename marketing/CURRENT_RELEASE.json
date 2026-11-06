@@ -11,5 +11,23 @@
     "presentations",
     "Thank You flyers",
     "unapproved 2026-11-05 ERP/PM edits"
-  ]
+  ],
+  "current_overrides": {
+    "date": "2026-11-06",
+    "note": "Use these two updated files in place of their October 20 versions; unchanged documents remain in the baseline ready_files folder. Original filenames preserved by owner request.",
+    "documents": [
+      {
+        "id": "ERP5",
+        "file": "updates/2026-11-06/GCPRO ASP - Agency ERP Flyer - Emergency Response Program.pdf",
+        "editable_source": "reviews/2026-11-06-erp-final-proofreading",
+        "sha256": "cc7caa7037c94f3d8480be3e6e3bf45bf0979329af145673209d281163a42961"
+      },
+      {
+        "id": "CSP-Trifold",
+        "file": "updates/2026-11-06/GCPRO CSP - Commercial Leave Behind Trifold.pdf",
+        "editable_source": "reviews/2026-11-06-pm-trifold-messaging",
+        "sha256": "d04875af4e77590f61690b8ab3990ca37b9abac022f402cc1b961824ac917e59"
+      }
+    ]
+  }
 }
