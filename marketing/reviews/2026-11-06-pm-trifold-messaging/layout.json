@@ -1,0 +1,688 @@
+[
+  {
+    "page": 0,
+    "key": "outer_heading",
+    "rect": [
+      31,
+      195,
+      253,
+      254
+    ],
+    "origin": [
+      32.0390625,
+      212.25
+    ],
+    "font": "MontserratThin-ExtraBold",
+    "size": 16.5,
+    "color": 1716861,
+    "leading": 18,
+    "lines": [
+      "WATER MITIGATION &",
+      "RESTORATION FOR",
+      "YOUR PROPERTY"
+    ]
+  },
+  {
+    "page": 0,
+    "key": "outer_1",
+    "rect": [
+      64,
+      282,
+      252,
+      324
+    ],
+    "origin": [
+      65.15625,
+      296.25
+    ],
+    "font": "MontserratThin-SemiBold",
+    "size": 9.09749984741211,
+    "color": 1909552,
+    "leading": 12,
+    "lines": [
+      "Address water leaks, flooded units and",
+      "common areas with a coordinated",
+      "response."
+    ]
+  },
+  {
+    "page": 0,
+    "key": "outer_2",
+    "rect": [
+      64,
+      335,
+      252,
+      365
+    ],
+    "origin": [
+      65.15625,
+      349.5
+    ],
+    "font": "MontserratThin-SemiBold",
+    "size": 9.09749984741211,
+    "color": 1909552,
+    "leading": 12,
+    "lines": [
+      "Contain damage with water extraction",
+      "and structural drying."
+    ]
+  },
+  {
+    "page": 0,
+    "key": "outer_3",
+    "rect": [
+      64,
+      376,
+      252,
+      407
+    ],
+    "origin": [
+      65.15625,
+      390.75
+    ],
+    "font": "MontserratThin-SemiBold",
+    "size": 9.09749984741211,
+    "color": 1909552,
+    "leading": 12,
+    "lines": [
+      "Coordinate work around residents and",
+      "building operations."
+    ]
+  },
+  {
+    "page": 0,
+    "key": "outer_4",
+    "rect": [
+      64,
+      417,
+      252,
+      448
+    ],
+    "origin": [
+      65.15625,
+      432.0
+    ],
+    "font": "MontserratThin-SemiBold",
+    "size": 9.09749984741211,
+    "color": 1909552,
+    "leading": 12,
+    "lines": [
+      "Plan repairs and help manage",
+      "unexpected expenses."
+    ]
+  },
+  {
+    "page": 0,
+    "key": "outer_5",
+    "rect": [
+      64,
+      458,
+      252,
+      489
+    ],
+    "origin": [
+      65.15625,
+      472.5
+    ],
+    "font": "MontserratThin-SemiBold",
+    "size": 9.09749984741211,
+    "color": 1909552,
+    "leading": 12,
+    "lines": [
+      "Keep staff informed about work stages",
+      "and next steps."
+    ]
+  },
+  {
+    "page": 0,
+    "key": "outer_6",
+    "rect": [
+      64,
+      499,
+      252,
+      531
+    ],
+    "origin": [
+      65.15625,
+      513.75
+    ],
+    "font": "MontserratThin-SemiBold",
+    "size": 9.09749984741211,
+    "color": 1909552,
+    "leading": 12,
+    "lines": [
+      "Prepare staff with a property-specific",
+      "response plan."
+    ]
+  },
+  {
+    "page": 1,
+    "key": "inside_left_heading",
+    "rect": [
+      31,
+      29,
+      253,
+      107
+    ],
+    "origin": [
+      32.0390625,
+      46.5
+    ],
+    "font": "MontserratThin-ExtraBold",
+    "size": 16.5,
+    "color": 1716861,
+    "leading": 18,
+    "lines": [
+      "WATER MITIGATION",
+      "FIRST. FULL",
+      "RESTORATION WHEN",
+      "NEEDED."
+    ]
+  },
+  {
+    "page": 1,
+    "key": "inside_left_subhead_1",
+    "rect": [
+      31,
+      129,
+      253,
+      144
+    ],
+    "origin": [
+      32.0390625,
+      140.25
+    ],
+    "font": "MontserratThin-Bold",
+    "size": 9.795000076293945,
+    "color": 1909552,
+    "leading": 12,
+    "lines": [
+      "Everyday Water Losses"
+    ]
+  },
+  {
+    "page": 1,
+    "key": "inside_left_body_1",
+    "rect": [
+      31,
+      146,
+      253,
+      246
+    ],
+    "origin": [
+      32.0390625,
+      156.75
+    ],
+    "font": "Inter-Regular",
+    "size": 9.09749984741211,
+    "color": 3883344,
+    "leading": 14.25,
+    "lines": [
+      "Leaks, flooded units and water in common areas",
+      "can disrupt residents and daily operations. For",
+      "commercial, industrial, senior living and multifamily",
+      "teams, the first steps are to contain damage,",
+      "remove water and begin structural drying. Confirm",
+      "which spaces are affected and plan access for the",
+      "response team."
+    ]
+  },
+  {
+    "page": 1,
+    "key": "inside_left_subhead_2",
+    "rect": [
+      31,
+      275,
+      253,
+      291
+    ],
+    "origin": [
+      32.0390625,
+      286.5
+    ],
+    "font": "MontserratThin-Bold",
+    "size": 9.795000076293945,
+    "color": 1909552,
+    "leading": 12,
+    "lines": [
+      "A Practical Plan for Your Team"
+    ]
+  },
+  {
+    "page": 1,
+    "key": "inside_left_body_2",
+    "rect": [
+      31,
+      292,
+      253,
+      378
+    ],
+    "origin": [
+      32.0390625,
+      303.0
+    ],
+    "font": "Inter-Regular",
+    "size": 9.09749984741211,
+    "color": 3883344,
+    "leading": 14.25,
+    "lines": [
+      "A property-specific ERP gives staff a response",
+      "plan, key contacts and site information before a",
+      "loss. It helps organize after-hours coordination,",
+      "mitigation and the transition to repairs, with",
+      "resident needs and building operations in view.",
+      "Review staff roles before a loss occurs."
+    ]
+  },
+  {
+    "page": 1,
+    "key": "inside_middle_heading",
+    "rect": [
+      296,
+      29,
+      519,
+      89
+    ],
+    "origin": [
+      297.5390625,
+      46.5
+    ],
+    "font": "MontserratThin-ExtraBold",
+    "size": 16.5,
+    "color": 1716861,
+    "leading": 18,
+    "lines": [
+      "FROM WATER",
+      "MITIGATION TO FULL",
+      "RESTORATION"
+    ]
+  },
+  {
+    "page": 1,
+    "key": "inside_middle_intro",
+    "rect": [
+      296,
+      112,
+      519,
+      127
+    ],
+    "origin": [
+      297.5390625,
+      122.25
+    ],
+    "font": "Inter-Regular",
+    "size": 9.09749984741211,
+    "color": 3883344,
+    "leading": 14.25,
+    "lines": [
+      "For property and facility management teams:"
+    ]
+  },
+  {
+    "page": 1,
+    "key": "inside_middle_1",
+    "rect": [
+      309,
+      134,
+      519,
+      204
+    ],
+    "origin": [
+      309.7734375,
+      144.75
+    ],
+    "font": "Inter-Regular",
+    "size": 9.09749984741211,
+    "color": 3883344,
+    "leading": 14.25,
+    "lines": [
+      "Build a property-specific ERP with response",
+      "contacts, access details and site information.",
+      "Give staff a clear process for reporting a loss,",
+      "sharing the details needed for response and",
+      "coordinating initial mitigation work."
+    ]
+  },
+  {
+    "page": 1,
+    "key": "inside_middle_2",
+    "rect": [
+      309,
+      206,
+      519,
+      235
+    ],
+    "origin": [
+      309.7734375,
+      216.75
+    ],
+    "font": "Inter-Regular",
+    "size": 9.09749984741211,
+    "color": 3883344,
+    "leading": 14.25,
+    "lines": [
+      "Coordinate water extraction and drying in",
+      "affected units and common areas."
+    ]
+  },
+  {
+    "page": 1,
+    "key": "inside_middle_3",
+    "rect": [
+      309,
+      237,
+      519,
+      266
+    ],
+    "origin": [
+      309.7734375,
+      247.5
+    ],
+    "font": "Inter-Regular",
+    "size": 9.09749984741211,
+    "color": 3883344,
+    "leading": 14.25,
+    "lines": [
+      "Identify the mitigation scope for affected",
+      "building systems and spaces."
+    ]
+  },
+  {
+    "page": 1,
+    "key": "inside_middle_4",
+    "rect": [
+      309,
+      268,
+      519,
+      297
+    ],
+    "origin": [
+      309.7734375,
+      278.25
+    ],
+    "font": "Inter-Regular",
+    "size": 9.09749984741211,
+    "color": 3883344,
+    "leading": 14.25,
+    "lines": [
+      "Coordinate access and work areas to limit",
+      "disruption to residents and operations."
+    ]
+  },
+  {
+    "page": 1,
+    "key": "inside_middle_5",
+    "rect": [
+      309,
+      299,
+      519,
+      328
+    ],
+    "origin": [
+      309.7734375,
+      309.75
+    ],
+    "font": "Inter-Regular",
+    "size": 9.09749984741211,
+    "color": 3883344,
+    "leading": 14.25,
+    "lines": [
+      "Track next steps, responsibilities and job",
+      "information in one coordinated response."
+    ]
+  },
+  {
+    "page": 1,
+    "key": "inside_middle_6",
+    "rect": [
+      309,
+      330,
+      519,
+      372
+    ],
+    "origin": [
+      309.7734375,
+      340.5
+    ],
+    "font": "Inter-Regular",
+    "size": 9.09749984741211,
+    "color": 3883344,
+    "leading": 14.25,
+    "lines": [
+      "Keep staff informed about mitigation progress,",
+      "drying work, affected areas and the next steps",
+      "as the job moves into repairs."
+    ]
+  },
+  {
+    "page": 1,
+    "key": "inside_middle_7",
+    "rect": [
+      309,
+      374,
+      519,
+      417
+    ],
+    "origin": [
+      309.7734375,
+      384.75
+    ],
+    "font": "Inter-Regular",
+    "size": 9.09749984741211,
+    "color": 3883344,
+    "leading": 14.25,
+    "lines": [
+      "Coordinate with property teams and other",
+      "involved parties so work can move from",
+      "mitigation into restoration."
+    ]
+  },
+  {
+    "page": 1,
+    "key": "inside_middle_8",
+    "rect": [
+      309,
+      419,
+      519,
+      448
+    ],
+    "origin": [
+      309.7734375,
+      429.75
+    ],
+    "font": "Inter-Regular",
+    "size": 9.09749984741211,
+    "color": 3883344,
+    "leading": 14.25,
+    "lines": [
+      "Support business continuity and resident needs",
+      "during mitigation and repairs."
+    ]
+  },
+  {
+    "page": 1,
+    "key": "inside_middle_9",
+    "rect": [
+      309,
+      450,
+      519,
+      520
+    ],
+    "origin": [
+      309.7734375,
+      460.5
+    ],
+    "font": "Inter-Regular",
+    "size": 9.09749984741211,
+    "color": 3883344,
+    "leading": 14.25,
+    "lines": [
+      "Plan restoration after the immediate water loss",
+      "is contained. Coordinate repairs and",
+      "return-to-service priorities with your team,",
+      "while keeping the scope of work and",
+      "unexpected expenses in view."
+    ]
+  },
+  {
+    "page": 1,
+    "key": "inside_right_heading_1",
+    "rect": [
+      595,
+      38,
+      779,
+      56
+    ],
+    "origin": [
+      596.15625,
+      51.0
+    ],
+    "font": "MontserratThin-Bold",
+    "size": 9.795000076293945,
+    "color": 16777215,
+    "leading": 12,
+    "lines": [
+      "Water Mitigation First"
+    ]
+  },
+  {
+    "page": 1,
+    "key": "inside_right_body_1",
+    "rect": [
+      595,
+      57,
+      779,
+      115
+    ],
+    "origin": [
+      596.15625,
+      67.5
+    ],
+    "font": "Inter-Medium",
+    "size": 9.09749984741211,
+    "color": 16777215,
+    "leading": 14.25,
+    "lines": [
+      "Water extraction, structural drying and",
+      "dehumidification help contain a water",
+      "loss. Coordinate the work around access,",
+      "affected spaces and daily building needs."
+    ]
+  },
+  {
+    "page": 1,
+    "key": "inside_right_heading_2",
+    "rect": [
+      595,
+      128,
+      779,
+      148
+    ],
+    "origin": [
+      596.15625,
+      141.75
+    ],
+    "font": "MontserratThin-Bold",
+    "size": 9.795000076293945,
+    "color": 16777215,
+    "leading": 12,
+    "lines": [
+      "Coordinated Response"
+    ]
+  },
+  {
+    "page": 1,
+    "key": "inside_right_body_2",
+    "rect": [
+      595,
+      148,
+      779,
+      248
+    ],
+    "origin": [
+      596.15625,
+      158.25
+    ],
+    "font": "Inter-Medium",
+    "size": 9.09749984741211,
+    "color": 16777215,
+    "leading": 14.25,
+    "lines": [
+      "A property-specific ERP gives staff a",
+      "practical starting point for leaks and",
+      "after-hours emergencies. Keep response",
+      "contacts, property information and",
+      "access details organized. Use the plan to",
+      "coordinate mitigation, share updates and",
+      "prepare for the next stage of restoration."
+    ]
+  },
+  {
+    "page": 1,
+    "key": "inside_right_heading_3",
+    "rect": [
+      595,
+      261,
+      779,
+      281
+    ],
+    "origin": [
+      596.15625,
+      275.25
+    ],
+    "font": "MontserratThin-Bold",
+    "size": 9.795000076293945,
+    "color": 16777215,
+    "leading": 12,
+    "lines": [
+      "Full Restoration Support"
+    ]
+  },
+  {
+    "page": 1,
+    "key": "inside_right_body_3",
+    "rect": [
+      595,
+      281,
+      779,
+      381
+    ],
+    "origin": [
+      596.15625,
+      291.75
+    ],
+    "font": "Inter-Medium",
+    "size": 9.09749984741211,
+    "color": 16777215,
+    "leading": 14.25,
+    "lines": [
+      "Water mitigation is often the first step.",
+      "When repairs are needed, GCPRO helps",
+      "coordinate restoration of affected spaces",
+      "and the return to service. Support also",
+      "includes fire, smoke and odor restoration,",
+      "storm cleanup and mold remediation."
+    ]
+  },
+  {
+    "page": 1,
+    "key": "service_1",
+    "rect": [
+      574,
+      421,
+      779,
+      436
+    ],
+    "origin": [
+      574.55859375,
+      431.25
+    ],
+    "font": "MontserratThin-SemiBold",
+    "size": 8.595000267028809,
+    "color": 16777215,
+    "leading": 12,
+    "lines": [
+      "Water Mitigation & Restoration"
+    ]
+  }
+]

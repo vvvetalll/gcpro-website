@@ -1,0 +1,23 @@
+{
+  "pages": 2,
+  "copy_blocks": 30,
+  "all_copy_fits_original_sizes": true,
+  "all_copy_extracted_and_matched": true,
+  "artwork_outside_edited_regions": "pixel-identical at 144 dpi",
+  "media_inches": [
+    11.25,
+    8.75
+  ],
+  "trim_inches": [
+    11,
+    8.5
+  ],
+  "bleed_inches": 0.125,
+  "photo_effective_dpi": 398,
+  "source_sha256": "606a6d09738e268c5d719d6f1df273ab313c634c1394ecb24b5556429deb794c",
+  "output_sha256": "c9d2c51adc9c606157b7569503fafc59c92755551d8af3f26c10121a29a7b79b",
+  "photo_sha256": "f45066b7fa99a4c7148ee10eaebe91d663b971239ba69b6f263e2b25db47e429",
+  "status": "REVIEW - approval pending; base release and ERP Flyer unchanged",
+  "fonts_embedded": 12,
+  "missing_embedded_fonts": []
+}
