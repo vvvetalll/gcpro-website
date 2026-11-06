@@ -1,0 +1,33 @@
+{
+  "source_sha256": "13fea19402d40a1e1d55851b4661773a9b1330e160639bbea66378e51e466bd2",
+  "final_sha256": "cc7caa7037c94f3d8480be3e6e3bf45bf0979329af145673209d281163a42961",
+  "exact_corrections": 4,
+  "unchanged_outside_correction_regions": "pixel-identical at 144 dpi",
+  "main_paragraph": "unchanged text and artwork",
+  "required_message_terms": [
+    "FREE",
+    "Property Management",
+    "property-specific response plan",
+    "application customized",
+    "24/7",
+    "full restoration",
+    "business continuity",
+    "resident retention",
+    "NOI"
+  ],
+  "missing_glyphs": false,
+  "all_fonts_embedded": 9,
+  "page_media_inches": [
+    8.75,
+    11.25
+  ],
+  "trim_inches": [
+    8.5,
+    11
+  ],
+  "bleed_inches": 0.125,
+  "qr_decoded_url": "https://gcprochicago.com/",
+  "qr_visual_and_url": "unchanged",
+  "qr_destination_purpose": "GCPRO public homepage, not a dedicated ERP landing page",
+  "base_release_and_pm_trifold": "unchanged; final candidate on separate review branch"
+}
