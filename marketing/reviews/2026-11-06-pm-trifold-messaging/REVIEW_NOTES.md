@@ -1,6 +1,6 @@
 # Messaging changes and verification notes
 
-Latest owner-requested correction: supplied office photo added above both named exterior headings; six numbered rows vertically centered, keeping text left-aligned. The current office image replaces the commercial flood image on the cover and the previous consultation image on the flap. Interior content, graphics, panel geometry and all messaging remain unchanged. Office photo: approximately 253 dpi on the cover and 410 dpi on the flap. Earlier flood-photo references below describe the first messaging revision.
+Latest owner correction: the commercial flood photograph stays on the main cover. The supplied office photo replaces **only** the photograph above WATER MITIGATION & RESTORATION FOR YOUR PROPERTY on the outer flap. Six numbered rows remain vertically centered, with text left-aligned. Interior content, graphics, panel geometry and all messaging are unchanged. Cover photograph: approximately 398 dpi; office flap photograph: approximately 410 dpi.
 
 ## Changed
 

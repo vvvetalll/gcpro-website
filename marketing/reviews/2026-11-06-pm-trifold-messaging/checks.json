@@ -14,14 +14,16 @@
   ],
   "bleed_inches": 0.125,
   "photo_effective_dpi_cover_flap": [
-    253,
+    398,
     410
   ],
   "outer_list_alignment": "numbers and left-aligned text vertically centered within original row boundaries",
   "fonts_embedded": 12,
   "missing_embedded_fonts": [],
   "source_sha256": "606a6d09738e268c5d719d6f1df273ab313c634c1394ecb24b5556429deb794c",
-  "output_sha256": "85f60c2263f51c03ee76cbb65045c6fe5e5ebc33cc2483322e9d3e283e59e8df",
+  "output_sha256": "d04875af4e77590f61690b8ab3990ca37b9abac022f402cc1b961824ac917e59",
   "photo_sha256": "fff47fcf551e9919aeeff1ce2f29b1c057a9e64ec3ee690feae21502f3424faa",
-  "status": "REVIEW - approval pending; base release and ERP Flyer unchanged"
+  "status": "REVIEW - approval pending; base release and ERP Flyer unchanged",
+  "cover_photo": "commercial-water-loss.jpg; retained commercial flood photo",
+  "flap_photo": "gcpro-man-office2.jpg; replaced only the outer flap photograph"
 }

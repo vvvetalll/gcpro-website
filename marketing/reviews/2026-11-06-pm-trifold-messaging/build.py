@@ -100,7 +100,7 @@ for item in layout:
 for x,y,label,size,color in numbers:
     doc[0].insert_text((x,y),label,fontname=aliases['MontserratThin-ExtraBold'],fontsize=size,color=fitz.sRGB_to_pdf(color))
 
-# Owner requested the supplied office photo above both named outer headings.
+# Owner correction: flood photograph stays on the cover; office photo only on flap.
 p=doc[0]
 photos=[i[0] for i in p.get_images() if any(r.x0>530 and r.y0<0 and r.y1>290 for r in p.get_image_rects(i[0]))]
 assert len(photos)==1
@@ -110,16 +110,12 @@ photo_dpi=[]
 for xref in [photos[0],flap[0]]:
     placement=p.get_image_rects(xref)[0]
     cover=xref==photos[0]
-    if cover:placement=fitz.Rect(535.5,0,810,291.75)
-    photo=ImageOps.exif_transpose(Image.open(PHOTO)).convert('RGB')
+    asset=HERE/'assets/commercial-water-loss.jpg' if cover else PHOTO
+    photo=ImageOps.exif_transpose(Image.open(asset)).convert('RGB')
     ph=photo.height;pw=round(ph*placement.width/placement.height)
-    photo=ImageOps.fit(photo,(pw,ph),method=Image.Resampling.LANCZOS,centering=(.48,.5))
+    photo=ImageOps.fit(photo,(pw,ph),method=Image.Resampling.LANCZOS,centering=(.58 if cover else .48,.5))
     buf=io.BytesIO();photo.save(buf,format='JPEG',quality=97,subsampling=0)
-    if cover:
-        p.add_redact_annot(placement,fill=None)
-        p.apply_redactions(images=1,graphics=0,text=0)
-        p.insert_image(placement,stream=buf.getvalue(),keep_proportion=False)
-    else:p.replace_image(xref,stream=buf.getvalue())
+    p.replace_image(xref,stream=buf.getvalue())
     photo_dpi.append(round(ph/(placement.height/72)))
 for p in doc:
     # Preserve full bleed media/crop geometry; explicitly identify the existing trim.
@@ -164,5 +160,7 @@ checks={'pages':2,'copy_blocks':len(layout),'all_copy_fits_original_sizes':True,
         'fonts_embedded':len(font_refs),'missing_embedded_fonts':missing_fonts,
         'source_sha256':hashlib.sha256(SOURCE.read_bytes()).hexdigest(),'output_sha256':hashlib.sha256(OUT.read_bytes()).hexdigest(),
         'photo_sha256':hashlib.sha256(PHOTO.read_bytes()).hexdigest(),'status':'REVIEW - approval pending; base release and ERP Flyer unchanged'}
+checks['cover_photo']='commercial-water-loss.jpg; retained commercial flood photo'
+checks['flap_photo']='gcpro-man-office2.jpg; replaced only the outer flap photograph'
 (HERE/'checks.json').write_text(json.dumps(checks,indent=2)+'\n')
 print(json.dumps(checks,indent=2))
