@@ -16,10 +16,11 @@ original=fitz.open(SOURCE);doc=fitz.open(SOURCE);p=doc[0]
 photo_rect=fitz.Rect(535.5,0,810,291.75)
 photos=[img[0] for img in p.get_images() if any(r.x0>530 and r.y0<0 and r.y1>290 for r in p.get_image_rects(img[0]))]
 assert len(photos)==1
-photo_path=HERE/'assets/corridor-water-mitigation.jpg'
+photo_path=HERE/'assets/water_damage.jpg'
 photo=ImageOps.exif_transpose(Image.open(photo_path)).convert('RGB')
-# Crop excess ceiling, keeping the drying equipment and exposed wall bases prominent.
-photo=photo.crop((0,round(photo.height*.22),photo.width,photo.height))
+# Owner requested a higher, tighter crop: retain the work area, remove foreground floor.
+top,bottom=COPY['photo_crop_vertical']
+photo=photo.crop((0,round(photo.height*top),photo.width,round(photo.height*bottom)))
 placement=p.get_image_rects(photos[0])[0]
 height=photo.height;width=round(height*placement.width/placement.height)
 photo=ImageOps.fit(photo,(width,height),method=Image.Resampling.LANCZOS,centering=(.5,.5))
@@ -56,5 +57,5 @@ assert diff.getbbox() is None,'Unexpected front-page changes'
 assert ImageChops.difference(render(original[1]),render(result[1])).getbbox() is None,'Inside changed'
 result[0].get_pixmap(matrix=fitz.Matrix(2,2),clip=fitz.Rect(535.5,0,810,630)).save(HERE/'GCPRO-PM-Cover-CORRIDOR.png')
 for i in range(2):result[i].get_pixmap(matrix=fitz.Matrix(1.4,1.4)).save(HERE/f'GCPRO-PM-Trifold-Page-{i+1}.png')
-(HERE/'checks.json').write_text(json.dumps({'pages':2,'source_sha256':hashlib.sha256(SOURCE.read_bytes()).hexdigest(),'output_sha256':hashlib.sha256(out.read_bytes()).hexdigest(),'headline':COPY['headline'],'photo':'owner supplied corridor-water-mitigation.jpg; proportional crop, top 22 percent removed to reduce ceiling','photo_sha256':hashlib.sha256(photo_path.read_bytes()).hexdigest(),'inside':'pixel-identical at 144 dpi','other_front_artwork':'pixel-identical outside headline/photo regions at 144 dpi','status':'alternative corridor photo trial for owner review'},indent=2)+'\n')
+(HERE/'checks.json').write_text(json.dumps({'pages':2,'source_sha256':hashlib.sha256(SOURCE.read_bytes()).hexdigest(),'output_sha256':hashlib.sha256(out.read_bytes()).hexdigest(),'headline':COPY['headline'],'photo':'owner supplied water_damage.jpg; higher proportional crop to emphasize equipment and reduce foreground floor','vertical_crop_fraction':COPY['photo_crop_vertical'],'photo_sha256':hashlib.sha256(photo_path.read_bytes()).hexdigest(),'inside':'pixel-identical at 144 dpi','other_front_artwork':'pixel-identical outside headline/photo regions at 144 dpi','status':'higher corridor photo crop for owner review'},indent=2)+'\n')
 print(out)

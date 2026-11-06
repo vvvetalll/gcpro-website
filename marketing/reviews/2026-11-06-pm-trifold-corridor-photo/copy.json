@@ -2,5 +2,6 @@
   "headline": "WATER DAMAGE? GCPRO HAS YOU COVERED.",
   "headline_lines": ["WATER", "DAMAGE?", "GCPRO HAS", "YOU COVERED."],
   "subtitle": "WATER MITIGATION & RESTORATION",
-  "photo_status": "Owner supplied corridor photo 488768606_1289016329356382_1576811038961026916_n.jpg on 2026-11-06; alternative trial, acceptance pending"
+  "photo_crop_vertical": [0.20, 0.74],
+  "photo_status": "Owner supplied water_damage.jpg on 2026-11-06 and requested a higher/tighter crop; acceptance pending"
 }
