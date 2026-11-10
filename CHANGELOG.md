@@ -1,5 +1,9 @@
 # GCPRO changelog
 
+## Downers Grove2994 gallery and Hero completed — 2026-11-10
+
+Reviewed all40 originals in the confirmed DASH job (28 inspection/12 final); retained six existing photos and imported four distinct optimized WebPs4413–4416. Final10-image sequence now follows damage → assessment → temporary protection → completed roof → attic → interior, using native WordPress attachment menu_order; frontend/lightbox order verified. Hero2998→2999 now shows the completed roof. The earlier ordering blocker is resolved without a source/template change, plugin or custom code. Desktop1440/mobile390, unchanged Tinley four-image lightbox and anonymous200/10-image output checked; production untouched. [Full task record and recovery](docs/projects/dash-case-workflow.md#2026-11-10--project2994-photo-review-native-ordering-and-hero-completed).
+
 ## Downers Grove gallery review checkpoint — 2026-11-10
 
 Read-only review of Project2994 confirms six staging attachments and the shared native Post Image Attachments gallery with Default/Random ordering only. Reliable manual ordering and a matching original production project URL remain unestablished; historical source is DASH. Stopped before architectural changes as requested: zero website/media/Hero/template writes. [Task checkpoint](docs/projects/dash-case-workflow.md#2026-11-10--downers-grove2994-gallery-review-awaiting-source-and-ordering-decision).
