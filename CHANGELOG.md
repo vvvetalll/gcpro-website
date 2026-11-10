@@ -1,5 +1,9 @@
 # GCPRO changelog
 
+## Downers Grove gallery review checkpoint — 2026-11-10
+
+Read-only review of Project2994 confirms six staging attachments and the shared native Post Image Attachments gallery with Default/Random ordering only. Reliable manual ordering and a matching original production project URL remain unestablished; historical source is DASH. Stopped before architectural changes as requested: zero website/media/Hero/template writes. [Task checkpoint](docs/projects/dash-case-workflow.md#2026-11-10--downers-grove2994-gallery-review-awaiting-source-and-ordering-decision).
+
 ## Current marketing files delivered — 2026-11-06
 
 Merged the owner-requested ERP final proofreading and corrected PM Trifold review sources into main. [Two current PDF updates](marketing/updates/2026-11-06/README.md) preserve the original kit filenames; CURRENT_RELEASE.json resolves them while retaining the October 20 baseline unchanged. PDFs were copied byte-identically from the verified versions; no website changes.
