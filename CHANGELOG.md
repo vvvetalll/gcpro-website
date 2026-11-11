@@ -1,5 +1,9 @@
 # GCPRO changelog
 
+## Service schema implemented on16 pages — 2026-11-11
+
+Added one page-level AIOSEO Custom Schema Service on517/520 pilots, then the remaining14 audited service pages. Native Service omitted required url/mainEntityOfPage/areaServed; existing AIOSEO custom mechanism supplies them without another emitter. All16 saved graphs match anonymous frontend output and pass Schema.org0 errors/0 warnings;514 configuration/frontend unchanged. Base entities, content/layout, metadata and staging noindex retained; only normal save timestamps/scan invalidation accompany schema writes. [Exact values, verification limits and recovery](docs/seo/2026-11-11-service-schema-audit.md#implementation-completed--2026-11-11). Production untouched.
+
 ## Service schema audit — 2026-11-11
 
 Read current AIOSEO configuration and anonymous JSON-LD for all17 service landings:514 retains its correct existing Service;16 optional ADD recommendations, no confirmed FIX or critical schema error. Recorded audience/entity/claim checks, representative Schema.org passes, Google noindex limitation and eight-page browser coverage. No website/schema changes. [Detailed audit and approval-pending AIOSEO plan](docs/seo/2026-11-11-service-schema-audit.md); Issue#2 remains open.
