@@ -1,5 +1,9 @@
 # GCPRO changelog
 
+## Service schema audit — 2026-11-11
+
+Read current AIOSEO configuration and anonymous JSON-LD for all17 service landings:514 retains its correct existing Service;16 optional ADD recommendations, no confirmed FIX or critical schema error. Recorded audience/entity/claim checks, representative Schema.org passes, Google noindex limitation and eight-page browser coverage. No website/schema changes. [Detailed audit and approval-pending AIOSEO plan](docs/seo/2026-11-11-service-schema-audit.md); Issue#2 remains open.
+
 ## Downers Grove2994 gallery and Hero completed — 2026-11-10
 
 Reviewed all40 originals in the confirmed DASH job (28 inspection/12 final); retained six existing photos and imported four distinct optimized WebPs4413–4416. Final10-image sequence now follows damage → assessment → temporary protection → completed roof → attic → interior, using native WordPress attachment menu_order; frontend/lightbox order verified. Hero2998→2999 now shows the completed roof. The earlier ordering blocker is resolved without a source/template change, plugin or custom code. Desktop1440/mobile390, unchanged Tinley four-image lightbox and anonymous200/10-image output checked; production untouched. [Full task record and recovery](docs/projects/dash-case-workflow.md#2026-11-10--project2994-photo-review-native-ordering-and-hero-completed).
