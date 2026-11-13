@@ -1,0 +1,23 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "GCPRO"
+  },
+  "description": "GCPRO monthly Gas & Tolls, Dumpster and Inventory accounting reports using the existing verified accounting utilities.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "capabilities": [],
+        "category": "Finance",
+        "defaultPrompt": "Help me generate a GCPRO gas, dumpster or inventory accounting report from my supplied inputs.",
+        "developerName": "GCPRO",
+        "displayName": "GCPRO Accounting",
+        "longDescription": "One GCPRO Accounting Skill for Gas & Tolls, Dumpster and Inventory. Preserves the existing GAS engine and nine-sheet workbook; shares its parsers, job normalization and exact-cent allocation utilities. Construction Dumpster uses Construction jobs started in the report month, weighted by Total Estimates. Inventory uses one common eligible-hours pool. Requires a file-execution environment with Node.js 20+.",
+        "shortDescription": "Gas, Dumpster and Inventory"
+      },
+      "requires_local_executor": true
+    }
+  },
+  "name": "gcpro-gas-report",
+  "version": "1.2.0"
+}

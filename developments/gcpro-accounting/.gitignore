@@ -1,0 +1,18 @@
+# Private existing GAS engine/policy and its unchanged historical tests.
+/plugin/skills/gcpro-accounting/engine/
+/private-validation/
+/private-inputs/
+/dist/
+/test-results/
+**/node_modules/
+**/__pycache__/
+**/package-manifest.sha256
+/plugin/skills/gcpro-accounting/references/accounting-manifest.sha256
+*.xlsx
+*.xlsm
+*.xls
+*.csv
+*.zip
+*.tar.gz
+.env
+auth.json

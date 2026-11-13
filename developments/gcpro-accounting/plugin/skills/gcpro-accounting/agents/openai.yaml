@@ -1,0 +1,7 @@
+interface:
+  display_name: GCPRO Accounting
+  short_description: Gas, Dumpster and Inventory accounting reports
+  default_prompt: Use $gcpro-accounting for my GCPRO accounting report. Ask whether
+    I need gas, dumpster or inventory if unspecified.
+policy:
+  allow_implicit_invocation: true
